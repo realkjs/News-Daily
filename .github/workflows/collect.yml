@@ -2,12 +2,9 @@ name: 헤드라인 수집
 
 on:
   schedule:
-    # 매일 05:20 KST (20:20 UTC 전날) — Claude 분석(06:4x KST) 전에 수집 완료
-    - cron: "20 20 * * *"
+    # 매일 04:47 KST (19:47 UTC 전날) — GitHub 예약 지연을 감안해 Claude 분석(06:12 KST)보다 넉넉히 앞서 수집
+    - cron: "47 19 * * *"
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths: ["collector/**", "config/sources.json", ".github/workflows/collect.yml"]
 
 permissions:
   contents: write

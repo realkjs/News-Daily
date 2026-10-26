@@ -4,7 +4,7 @@
 
 ## 0. 준비
 - 날짜 = 오늘(KST, YYYY-MM-DD). `git pull`로 최신 상태를 받는다.
-- 원자료: `data/raw/<날짜>/*.json` (GitHub Actions `collect.yml`이 05:20 KST에 RSS로 수집해 커밋).
+- 원자료: `data/raw/<날짜>/*.json` (GitHub Actions `collect.yml`이 04:47 KST에 RSS로 수집해 커밋).
 - 원자료가 없거나 총 0건이면: `gh workflow run collect.yml`로 수집을 한 번 실행하고 끝나기를 기다린 뒤 `git pull`. 그래도 없으면 분석하지 말고 원인(`_summary.json`, 워크플로 로그)을 보고하고 종료한다. 웹 검색으로 뉴스를 지어내지 않는다.
 
 ## 1. 팀원 (9개국)

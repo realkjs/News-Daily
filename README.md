@@ -4,7 +4,7 @@
 
 | 단계 | 담당 | 하는 일 | 위치 |
 |---|---|---|---|
-| 수집 | GitHub Actions (05:20 KST) | 방송사 RSS / Google News 대체 수집 | `collector/`, `data/raw/` |
+| 수집 | GitHub Actions (04:47 KST) | 방송사 RSS / Google News 대체 수집 | `collector/`, `data/raw/` |
 | 팀원 | Claude 하위 에이전트 9개 (미·한·일·독·영·프·이스라엘·러·중) | 번역, 분야 태그, 중복 정리 | `prompts/team-member.md`, `data/work/` |
 | 팀장 | Claude | 중요 뉴스 선별 + 이유 + 출처 | `prompts/team-lead.md` |
 | 임원 | Claude | 8개 분야 피쉬본 다이어그램 + 해설 + 시나리오 | `prompts/executive.md` |

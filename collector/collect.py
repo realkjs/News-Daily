@@ -86,10 +86,19 @@ def google_news_url(domain, gn):
     return f"https://news.google.com/rss/search?q={q}&hl={gn['hl']}&gl={gn['gl']}&ceid={gn['ceid']}"
 
 
+JUNK = re.compile(r"(TV ?Guide|Programmes|다시보기|클로징|\d+시뉴스|^- |Pressemitteilung|Nachrichtenstudio|^Schlagzeilen$|Constitution S|Transfert de siège|Cours Actions|オーディション|らじる)", re.I)
+
+
+def is_junk(title):
+    t = title.strip()
+    return len(t) < 12 or bool(JUNK.search(t))
+
+
 def recent(items, now):
+    """최근 WINDOW_HOURS 이내만. 날짜 없는 항목은 버린다(멈춘 피드가 옛 기사를 계속 내보내는 경우 방지)."""
     cutoff = now - timedelta(hours=WINDOW_HOURS)
-    out = [i for i in items if i["published"] is None or i["published"] >= cutoff]
-    out.sort(key=lambda i: i["published"] or now, reverse=True)
+    out = [i for i in items if i["published"] and cutoff <= i["published"] <= now + timedelta(hours=2) and not is_junk(i["title"])]
+    out.sort(key=lambda i: i["published"], reverse=True)
     return out
 
 
@@ -119,7 +128,7 @@ def collect_source(src, gn, now):
             "title_original": i["title"],
             "summary_original": i["summary"],
             "url": i["link"],
-            "published": i["published"].astimezone(KST).isoformat() if i["published"] else None,
+            "published": i["published"].astimezone(KST).isoformat(),
             "via": method,
             "state_media": bool(src.get("state_media")),
         })
