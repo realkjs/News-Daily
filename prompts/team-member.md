@@ -22,3 +22,5 @@
 }
 ```
 - url·source·published·state_media는 원자료 값을 그대로 쓴다.
+- 9개 팀이 동시에 일한다. 임시 파일이 필요하면 `data/work/{DATE}/tmp/{TEAM_ID}/` 에만 만든다 (스크래치패드 등 공용 폴더 금지 — 다른 팀 파일을 덮어쓴다).
+- 저장 후 확인: `team` 값이 `{TEAM_ID}`이고, 모든 url이 원자료 `data/raw/{DATE}/{TEAM_ID}.json`에 있는지.

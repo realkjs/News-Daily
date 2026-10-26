@@ -1,5 +1,5 @@
 {
-  "_note": "국가별 팀원이 헤드라인을 수집할 주요 방송사·통신사. 국영/관영 매체는 state_media=true로 표시하여 팀장이 편향을 감안하도록 함. rss가 없거나 실패하면 수집기가 Google News 'site:domain' 검색 RSS로 대체한다.",
+  "_note": "국가별 팀원이 헤드라인을 수집할 주요 방송사·통신사·신문사. 국영/관영 매체는 state_media=true로 표시하여 팀장이 편향을 감안하도록 함. rss가 없거나 실패하면 수집기가 Google News 'site:domain' 검색 RSS로 대체한다.",
   "teams": {
     "us": {
       "name_ko": "미국팀",
@@ -52,6 +52,24 @@
           "url": "https://apnews.com",
           "rss": null,
           "domain": "apnews.com"
+        },
+        {
+          "name": "New York Times",
+          "url": "https://www.nytimes.com",
+          "domain": "nytimes.com",
+          "rss": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+        },
+        {
+          "name": "Wall Street Journal",
+          "url": "https://www.wsj.com",
+          "domain": "wsj.com",
+          "rss": "https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+        },
+        {
+          "name": "Washington Post",
+          "url": "https://www.washingtonpost.com",
+          "domain": "washingtonpost.com",
+          "rss": "https://feeds.washingtonpost.com/rss/world"
         }
       ],
       "google_news": {
@@ -105,6 +123,47 @@
           "url": "https://www.wowtv.co.kr",
           "rss": null,
           "domain": "wowtv.co.kr"
+        },
+        {
+          "name": "조선일보",
+          "url": "https://www.chosun.com",
+          "domain": "chosun.com",
+          "rss": "https://www.chosun.com/arc/outboundfeeds/rss/?outputType=xml"
+        },
+        {
+          "name": "중앙일보",
+          "url": "https://www.joongang.co.kr",
+          "domain": "joongang.co.kr"
+        },
+        {
+          "name": "동아일보",
+          "url": "https://www.donga.com",
+          "domain": "donga.com",
+          "rss": "https://rss.donga.com/total.xml"
+        },
+        {
+          "name": "한겨레",
+          "url": "https://www.hani.co.kr",
+          "domain": "hani.co.kr",
+          "rss": "https://www.hani.co.kr/rss/"
+        },
+        {
+          "name": "경향신문",
+          "url": "https://www.khan.co.kr",
+          "domain": "khan.co.kr",
+          "rss": "https://www.khan.co.kr/rss/rssdata/total_news.xml"
+        },
+        {
+          "name": "매일경제",
+          "url": "https://www.mk.co.kr",
+          "domain": "mk.co.kr",
+          "rss": "https://www.mk.co.kr/rss/30000001/"
+        },
+        {
+          "name": "한국경제",
+          "url": "https://www.hankyung.com",
+          "domain": "hankyung.com",
+          "rss": "https://www.hankyung.com/feed/all-news"
         }
       ],
       "google_news": {
@@ -158,6 +217,42 @@
           "url": "https://asia.nikkei.com",
           "rss": "https://asia.nikkei.com/rss/feed/nar",
           "domain": "asia.nikkei.com"
+        },
+        {
+          "name": "日本経済新聞",
+          "url": "https://www.nikkei.com",
+          "domain": "nikkei.com",
+          "rss": "https://assets.wor.jp/rss/rdf/nikkei/news.rdf"
+        },
+        {
+          "name": "朝日新聞",
+          "url": "https://www.asahi.com",
+          "domain": "asahi.com",
+          "rss": "https://www.asahi.com/rss/asahi/newsheadlines.rdf"
+        },
+        {
+          "name": "読売新聞",
+          "url": "https://www.yomiuri.co.jp",
+          "domain": "yomiuri.co.jp",
+          "rss": "https://assets.wor.jp/rss/rdf/yomiuri/latestnews.rdf"
+        },
+        {
+          "name": "毎日新聞",
+          "url": "https://mainichi.jp",
+          "domain": "mainichi.jp",
+          "rss": "https://mainichi.jp/rss/etc/mainichi-flash.rss"
+        },
+        {
+          "name": "産経新聞",
+          "url": "https://www.sankei.com",
+          "domain": "sankei.com",
+          "rss": "https://assets.wor.jp/rss/rdf/sankei/flash.rdf"
+        },
+        {
+          "name": "Japan Times",
+          "url": "https://www.japantimes.co.jp",
+          "domain": "japantimes.co.jp",
+          "rss": "https://www.japantimes.co.jp/feed/"
         }
       ],
       "google_news": {
@@ -205,6 +300,30 @@
           "url": "https://www.handelsblatt.com",
           "rss": "https://www.handelsblatt.com/contentexport/feed/top-themen",
           "domain": "handelsblatt.com"
+        },
+        {
+          "name": "Der Spiegel",
+          "url": "https://www.spiegel.de",
+          "domain": "spiegel.de",
+          "rss": "https://www.spiegel.de/schlagzeilen/index.rss"
+        },
+        {
+          "name": "FAZ",
+          "url": "https://www.faz.net",
+          "domain": "faz.net",
+          "rss": "https://www.faz.net/rss/aktuell/"
+        },
+        {
+          "name": "Süddeutsche Zeitung",
+          "url": "https://www.sueddeutsche.de",
+          "domain": "sueddeutsche.de",
+          "rss": "https://rss.sueddeutsche.de/rss/Topthemen"
+        },
+        {
+          "name": "Die Zeit",
+          "url": "https://www.zeit.de",
+          "domain": "zeit.de",
+          "rss": "https://newsfeed.zeit.de/index"
         }
       ],
       "google_news": {
@@ -252,6 +371,35 @@
           "url": "https://www.ft.com",
           "rss": "https://www.ft.com/rss/home",
           "domain": "ft.com"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com",
+          "domain": "theguardian.com",
+          "rss": "https://www.theguardian.com/uk/rss"
+        },
+        {
+          "name": "The Telegraph",
+          "url": "https://www.telegraph.co.uk",
+          "domain": "telegraph.co.uk",
+          "rss": "https://www.telegraph.co.uk/rss.xml"
+        },
+        {
+          "name": "The Times",
+          "url": "https://www.thetimes.com",
+          "domain": "thetimes.com"
+        },
+        {
+          "name": "The Independent",
+          "url": "https://www.independent.co.uk",
+          "domain": "independent.co.uk",
+          "rss": "https://www.independent.co.uk/news/rss"
+        },
+        {
+          "name": "The Economist",
+          "url": "https://www.economist.com",
+          "domain": "economist.com",
+          "rss": "https://www.economist.com/the-world-this-week/rss.xml"
         }
       ],
       "google_news": {
@@ -299,6 +447,18 @@
           "url": "https://www.lesechos.fr",
           "rss": "https://syndication.lesechos.fr/rss/rss_une.xml",
           "domain": "lesechos.fr"
+        },
+        {
+          "name": "Le Figaro",
+          "url": "https://www.lefigaro.fr",
+          "domain": "lefigaro.fr",
+          "rss": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+        },
+        {
+          "name": "Libération",
+          "url": "https://www.liberation.fr",
+          "domain": "liberation.fr",
+          "rss": "https://www.liberation.fr/arc/outboundfeeds/rss/?outputType=xml"
         }
       ],
       "google_news": {
@@ -346,6 +506,18 @@
           "url": "https://www.jpost.com",
           "rss": "https://www.jpost.com/rss/rssfeedsheadlines.aspx",
           "domain": "jpost.com"
+        },
+        {
+          "name": "Ynet News",
+          "url": "https://www.ynetnews.com",
+          "domain": "ynetnews.com",
+          "rss": "https://www.ynetnews.com/Integration/StoryRss3082.xml"
+        },
+        {
+          "name": "Globes",
+          "url": "https://en.globes.co.il",
+          "domain": "en.globes.co.il",
+          "rss": "https://en.globes.co.il/WebService/Rss/RssFeeder.asmx/FeederNode?iID=942"
         }
       ],
       "google_news": {
@@ -403,6 +575,18 @@
           "url": "https://meduza.io",
           "rss": "https://meduza.io/rss/all",
           "domain": "meduza.io"
+        },
+        {
+          "name": "Vedomosti",
+          "url": "https://www.vedomosti.ru",
+          "domain": "vedomosti.ru",
+          "rss": "https://www.vedomosti.ru/rss/news"
+        },
+        {
+          "name": "RBC",
+          "url": "https://www.rbc.ru",
+          "domain": "rbc.ru",
+          "rss": "https://rssexport.rbc.ru/rbcnews/news/30/full.rss"
         }
       ],
       "google_news": {
@@ -461,6 +645,12 @@
           "url": "https://www.scmp.com",
           "rss": "https://www.scmp.com/rss/91/feed",
           "domain": "scmp.com"
+        },
+        {
+          "name": "China Daily",
+          "url": "https://www.chinadaily.com.cn",
+          "domain": "chinadaily.com.cn",
+          "rss": "https://www.chinadaily.com.cn/rss/china_rss.xml"
         }
       ],
       "google_news": {
