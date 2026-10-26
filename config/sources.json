@@ -1,574 +1,507 @@
 {
-  "_note": "각국 주요 방송사(broadcaster)·신문사(newspaper) RSS 목록. url이 막히거나 바뀌면 homepage를 WebFetch/WebSearch로 대체 수집한다. 매체 추가/삭제는 이 파일만 고치면 된다. fallback 이 있으면 url 실패 시 자동으로 재시도한다(Google News 경유).",
-  "us": {
-    "name": "미국",
-    "language": "en",
-    "sources": [
-      {
-        "name": "CNN",
-        "type": "broadcaster",
-        "url": "http://rss.cnn.com/rss/edition.rss",
-        "homepage": "https://edition.cnn.com",
-        "fallback": "https://news.google.com/rss/search?q=site:cnn.com+when:2d&hl=en-US&gl=US&ceid=US:en"
-      },
-      {
-        "name": "NBC News",
-        "type": "broadcaster",
-        "url": "https://feeds.nbcnews.com/nbcnews/public/news",
-        "homepage": "https://www.nbcnews.com"
-      },
-      {
-        "name": "CBS News",
-        "type": "broadcaster",
-        "url": "https://www.cbsnews.com/latest/rss/main",
-        "homepage": "https://www.cbsnews.com"
-      },
-      {
-        "name": "ABC News",
-        "type": "broadcaster",
-        "url": "https://abcnews.go.com/abcnews/topstories",
-        "homepage": "https://abcnews.go.com"
-      },
-      {
-        "name": "Fox News",
-        "type": "broadcaster",
-        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
-        "homepage": "https://www.foxnews.com"
-      },
-      {
-        "name": "NPR",
-        "type": "broadcaster",
-        "url": "https://feeds.npr.org/1001/rss.xml",
-        "homepage": "https://www.npr.org",
-        "fallback": "https://news.google.com/rss/search?q=site:npr.org+when:2d&hl=en-US&gl=US&ceid=US:en"
-      },
-      {
-        "name": "CNBC",
-        "type": "broadcaster",
-        "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-        "homepage": "https://www.cnbc.com",
-        "fallback": "https://news.google.com/rss/search?q=site:cnbc.com+when:2d&hl=en-US&gl=US&ceid=US:en"
-      },
-      {
-        "name": "New York Times",
-        "type": "newspaper",
-        "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-        "homepage": "https://www.nytimes.com"
-      },
-      {
-        "name": "Wall Street Journal",
-        "type": "newspaper",
-        "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
-        "homepage": "https://www.wsj.com"
-      },
-      {
-        "name": "Washington Post",
-        "type": "newspaper",
-        "url": "https://feeds.washingtonpost.com/rss/world",
-        "homepage": "https://www.washingtonpost.com",
-        "fallback": "https://news.google.com/rss/search?q=site:washingtonpost.com+when:2d&hl=en-US&gl=US&ceid=US:en"
-      },
-      {
-        "name": "Bloomberg",
-        "type": "newspaper",
-        "url": "https://feeds.bloomberg.com/markets/news.rss",
-        "homepage": "https://www.bloomberg.com"
+  "_note": "국가별 팀원이 헤드라인을 수집할 주요 방송사·통신사. 국영/관영 매체는 state_media=true로 표시하여 팀장이 편향을 감안하도록 함. rss가 없거나 실패하면 수집기가 Google News 'site:domain' 검색 RSS로 대체한다.",
+  "teams": {
+    "us": {
+      "name_ko": "미국팀",
+      "language": "en",
+      "sources": [
+        {
+          "name": "CNN",
+          "url": "https://edition.cnn.com",
+          "rss": "http://rss.cnn.com/rss/edition.rss",
+          "domain": "edition.cnn.com"
+        },
+        {
+          "name": "Fox News",
+          "url": "https://www.foxnews.com",
+          "rss": "https://moxie.foxnews.com/google-publisher/latest.xml",
+          "domain": "foxnews.com"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com",
+          "rss": "https://feeds.nbcnews.com/nbcnews/public/news",
+          "domain": "nbcnews.com"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com",
+          "rss": "https://www.cbsnews.com/latest/rss/main",
+          "domain": "cbsnews.com"
+        },
+        {
+          "name": "ABC News",
+          "url": "https://abcnews.go.com",
+          "rss": "https://abcnews.go.com/abcnews/topstories",
+          "domain": "abcnews.go.com"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com",
+          "rss": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+          "domain": "cnbc.com"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com",
+          "rss": "https://feeds.bloomberg.com/markets/news.rss",
+          "domain": "bloomberg.com"
+        },
+        {
+          "name": "AP",
+          "url": "https://apnews.com",
+          "rss": null,
+          "domain": "apnews.com"
+        }
+      ],
+      "google_news": {
+        "hl": "en-US",
+        "gl": "US",
+        "ceid": "US:en"
       }
-    ]
+    },
+    "kr": {
+      "name_ko": "한국팀",
+      "language": "ko",
+      "sources": [
+        {
+          "name": "KBS",
+          "url": "https://news.kbs.co.kr",
+          "rss": null,
+          "domain": "news.kbs.co.kr"
+        },
+        {
+          "name": "MBC",
+          "url": "https://imnews.imbc.com",
+          "rss": "https://imnews.imbc.com/rss/google_news/narrativeNews.rss",
+          "domain": "imnews.imbc.com"
+        },
+        {
+          "name": "SBS",
+          "url": "https://news.sbs.co.kr",
+          "rss": "https://news.sbs.co.kr/news/SectionRssFeed.do?sectionId=01",
+          "domain": "news.sbs.co.kr"
+        },
+        {
+          "name": "YTN",
+          "url": "https://www.ytn.co.kr",
+          "rss": null,
+          "domain": "ytn.co.kr"
+        },
+        {
+          "name": "JTBC",
+          "url": "https://news.jtbc.co.kr",
+          "rss": "https://fs.jtbc.co.kr/RSS/newsflash.xml",
+          "domain": "news.jtbc.co.kr"
+        },
+        {
+          "name": "연합뉴스",
+          "url": "https://www.yna.co.kr",
+          "rss": "https://www.yna.co.kr/rss/news.xml",
+          "domain": "yna.co.kr"
+        },
+        {
+          "name": "한국경제TV",
+          "url": "https://www.wowtv.co.kr",
+          "rss": null,
+          "domain": "wowtv.co.kr"
+        }
+      ],
+      "google_news": {
+        "hl": "ko",
+        "gl": "KR",
+        "ceid": "KR:ko"
+      }
+    },
+    "jp": {
+      "name_ko": "일본팀",
+      "language": "ja",
+      "sources": [
+        {
+          "name": "NHK",
+          "url": "https://www3.nhk.or.jp/news/",
+          "rss": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+          "domain": "nhk.or.jp"
+        },
+        {
+          "name": "日本テレビ(NTV)",
+          "url": "https://news.ntv.co.jp",
+          "rss": null,
+          "domain": "news.ntv.co.jp"
+        },
+        {
+          "name": "TBS",
+          "url": "https://newsdig.tbs.co.jp",
+          "rss": null,
+          "domain": "newsdig.tbs.co.jp"
+        },
+        {
+          "name": "テレビ朝日",
+          "url": "https://news.tv-asahi.co.jp",
+          "rss": null,
+          "domain": "news.tv-asahi.co.jp"
+        },
+        {
+          "name": "フジテレビ(FNN)",
+          "url": "https://www.fnn.jp",
+          "rss": null,
+          "domain": "fnn.jp"
+        },
+        {
+          "name": "テレビ東京(日経)",
+          "url": "https://txbiz.tv-tokyo.co.jp",
+          "rss": null,
+          "domain": "txbiz.tv-tokyo.co.jp"
+        },
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com",
+          "rss": "https://asia.nikkei.com/rss/feed/nar",
+          "domain": "asia.nikkei.com"
+        }
+      ],
+      "google_news": {
+        "hl": "ja",
+        "gl": "JP",
+        "ceid": "JP:ja"
+      }
+    },
+    "de": {
+      "name_ko": "독일팀",
+      "language": "de",
+      "sources": [
+        {
+          "name": "ARD Tagesschau",
+          "url": "https://www.tagesschau.de",
+          "rss": "https://www.tagesschau.de/index~rss2.xml",
+          "domain": "tagesschau.de"
+        },
+        {
+          "name": "ZDF heute",
+          "url": "https://www.zdf.de/nachrichten",
+          "rss": "https://www.zdf.de/rss/zdf/nachrichten",
+          "domain": "zdf.de"
+        },
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com",
+          "rss": "https://rss.dw.com/rdf/rss-de-all",
+          "domain": "dw.com"
+        },
+        {
+          "name": "n-tv",
+          "url": "https://www.n-tv.de",
+          "rss": "https://www.n-tv.de/rss",
+          "domain": "n-tv.de"
+        },
+        {
+          "name": "WELT",
+          "url": "https://www.welt.de",
+          "rss": "https://www.welt.de/feeds/latest.rss",
+          "domain": "welt.de"
+        },
+        {
+          "name": "Handelsblatt",
+          "url": "https://www.handelsblatt.com",
+          "rss": "https://www.handelsblatt.com/contentexport/feed/top-themen",
+          "domain": "handelsblatt.com"
+        }
+      ],
+      "google_news": {
+        "hl": "de",
+        "gl": "DE",
+        "ceid": "DE:de"
+      }
+    },
+    "uk": {
+      "name_ko": "영국팀",
+      "language": "en",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news",
+          "rss": "https://feeds.bbci.co.uk/news/rss.xml",
+          "domain": "bbc.com"
+        },
+        {
+          "name": "Sky News",
+          "url": "https://news.sky.com",
+          "rss": "https://feeds.skynews.com/feeds/rss/home.xml",
+          "domain": "news.sky.com"
+        },
+        {
+          "name": "ITV News",
+          "url": "https://www.itv.com/news",
+          "rss": null,
+          "domain": "itv.com"
+        },
+        {
+          "name": "Channel 4 News",
+          "url": "https://www.channel4.com/news",
+          "rss": null,
+          "domain": "channel4.com"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com",
+          "rss": null,
+          "domain": "reuters.com"
+        },
+        {
+          "name": "Financial Times",
+          "url": "https://www.ft.com",
+          "rss": "https://www.ft.com/rss/home",
+          "domain": "ft.com"
+        }
+      ],
+      "google_news": {
+        "hl": "en-GB",
+        "gl": "GB",
+        "ceid": "GB:en"
+      }
+    },
+    "fr": {
+      "name_ko": "프랑스팀",
+      "language": "fr",
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com",
+          "rss": "https://www.france24.com/fr/rss",
+          "domain": "france24.com"
+        },
+        {
+          "name": "franceinfo (France 2)",
+          "url": "https://www.francetvinfo.fr",
+          "rss": "https://www.francetvinfo.fr/titres.rss",
+          "domain": "francetvinfo.fr"
+        },
+        {
+          "name": "TF1 Info",
+          "url": "https://www.tf1info.fr",
+          "rss": null,
+          "domain": "tf1info.fr"
+        },
+        {
+          "name": "BFMTV",
+          "url": "https://www.bfmtv.com",
+          "rss": "https://www.bfmtv.com/rss/news-24-7/",
+          "domain": "bfmtv.com"
+        },
+        {
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr",
+          "rss": "https://www.lemonde.fr/rss/une.xml",
+          "domain": "lemonde.fr"
+        },
+        {
+          "name": "Les Echos",
+          "url": "https://www.lesechos.fr",
+          "rss": "https://syndication.lesechos.fr/rss/rss_une.xml",
+          "domain": "lesechos.fr"
+        }
+      ],
+      "google_news": {
+        "hl": "fr",
+        "gl": "FR",
+        "ceid": "FR:fr"
+      }
+    },
+    "il": {
+      "name_ko": "이스라엘팀",
+      "language": "en/he",
+      "sources": [
+        {
+          "name": "Kan (KAN News)",
+          "url": "https://www.kan.org.il",
+          "rss": null,
+          "domain": "kan.org.il"
+        },
+        {
+          "name": "N12 (Channel 12)",
+          "url": "https://www.mako.co.il/news",
+          "rss": null,
+          "domain": "mako.co.il"
+        },
+        {
+          "name": "i24NEWS",
+          "url": "https://www.i24news.tv",
+          "rss": null,
+          "domain": "i24news.tv"
+        },
+        {
+          "name": "Times of Israel",
+          "url": "https://www.timesofisrael.com",
+          "rss": "https://www.timesofisrael.com/feed/",
+          "domain": "timesofisrael.com"
+        },
+        {
+          "name": "Haaretz",
+          "url": "https://www.haaretz.com",
+          "rss": "https://www.haaretz.com/srv/haaretz-latest-headlines",
+          "domain": "haaretz.com"
+        },
+        {
+          "name": "Jerusalem Post",
+          "url": "https://www.jpost.com",
+          "rss": "https://www.jpost.com/rss/rssfeedsheadlines.aspx",
+          "domain": "jpost.com"
+        }
+      ],
+      "google_news": {
+        "hl": "en-US",
+        "gl": "IL",
+        "ceid": "IL:en"
+      }
+    },
+    "ru": {
+      "name_ko": "러시아팀",
+      "language": "ru",
+      "sources": [
+        {
+          "name": "Channel One (1tv)",
+          "url": "https://www.1tv.ru",
+          "state_media": true,
+          "rss": null,
+          "domain": "1tv.ru"
+        },
+        {
+          "name": "Rossiya 24 (Vesti)",
+          "url": "https://www.vesti.ru",
+          "state_media": true,
+          "rss": "https://www.vesti.ru/vesti.rss",
+          "domain": "vesti.ru"
+        },
+        {
+          "name": "TASS",
+          "url": "https://tass.ru",
+          "state_media": true,
+          "rss": "https://tass.ru/rss/v2.xml",
+          "domain": "tass.ru"
+        },
+        {
+          "name": "RIA Novosti",
+          "url": "https://ria.ru",
+          "state_media": true,
+          "rss": "https://ria.ru/export/rss2/archive/index.xml",
+          "domain": "ria.ru"
+        },
+        {
+          "name": "Interfax",
+          "url": "https://www.interfax.ru",
+          "rss": "https://www.interfax.ru/rss.asp",
+          "domain": "interfax.ru"
+        },
+        {
+          "name": "Kommersant",
+          "url": "https://www.kommersant.ru",
+          "rss": "https://www.kommersant.ru/RSS/main.xml",
+          "domain": "kommersant.ru"
+        },
+        {
+          "name": "Meduza (독립·망명)",
+          "url": "https://meduza.io",
+          "rss": "https://meduza.io/rss/all",
+          "domain": "meduza.io"
+        }
+      ],
+      "google_news": {
+        "hl": "ru",
+        "gl": "RU",
+        "ceid": "RU:ru"
+      }
+    },
+    "cn": {
+      "name_ko": "중국팀",
+      "language": "zh",
+      "sources": [
+        {
+          "name": "CCTV",
+          "url": "https://news.cctv.com",
+          "state_media": true,
+          "rss": null,
+          "domain": "news.cctv.com"
+        },
+        {
+          "name": "CGTN",
+          "url": "https://www.cgtn.com",
+          "state_media": true,
+          "rss": null,
+          "domain": "cgtn.com"
+        },
+        {
+          "name": "Xinhua",
+          "url": "https://www.news.cn",
+          "state_media": true,
+          "rss": null,
+          "domain": "news.cn"
+        },
+        {
+          "name": "People's Daily",
+          "url": "http://www.people.com.cn",
+          "state_media": true,
+          "rss": "http://www.people.com.cn/rss/politics.xml",
+          "domain": "people.com.cn"
+        },
+        {
+          "name": "Global Times",
+          "url": "https://www.globaltimes.cn",
+          "state_media": true,
+          "rss": null,
+          "domain": "globaltimes.cn"
+        },
+        {
+          "name": "Caixin",
+          "url": "https://www.caixinglobal.com",
+          "rss": null,
+          "domain": "caixinglobal.com"
+        },
+        {
+          "name": "SCMP (홍콩)",
+          "url": "https://www.scmp.com",
+          "rss": "https://www.scmp.com/rss/91/feed",
+          "domain": "scmp.com"
+        }
+      ],
+      "google_news": {
+        "hl": "zh-CN",
+        "gl": "CN",
+        "ceid": "CN:zh-Hans"
+      }
+    }
   },
-  "kr": {
-    "name": "한국",
-    "language": "ko",
-    "sources": [
-      {
-        "name": "KBS",
-        "type": "broadcaster",
-        "url": "https://news.kbs.co.kr/api/getRss.do",
-        "homepage": "https://news.kbs.co.kr"
-      },
-      {
-        "name": "MBC",
-        "type": "broadcaster",
-        "url": "https://imnews.imbc.com/rss/google_news/narrativeNews.rss",
-        "homepage": "https://imnews.imbc.com"
-      },
-      {
-        "name": "SBS",
-        "type": "broadcaster",
-        "url": "https://news.sbs.co.kr/news/SectionRssFeed.do?sectionId=01&plink=RSSREADER",
-        "homepage": "https://news.sbs.co.kr"
-      },
-      {
-        "name": "YTN",
-        "type": "broadcaster",
-        "url": "https://www.ytn.co.kr/_ln/rss/0101.xml",
-        "homepage": "https://www.ytn.co.kr",
-        "fallback": "https://news.google.com/rss/search?q=site:ytn.co.kr+when:2d&hl=ko&gl=KR&ceid=KR:ko"
-      },
-      {
-        "name": "연합뉴스",
-        "type": "newspaper",
-        "url": "https://www.yna.co.kr/rss/news.xml",
-        "homepage": "https://www.yna.co.kr"
-      },
-      {
-        "name": "조선일보",
-        "type": "newspaper",
-        "url": "https://www.chosun.com/arc/outboundfeeds/rss/?outputType=xml",
-        "homepage": "https://www.chosun.com"
-      },
-      {
-        "name": "중앙일보",
-        "type": "newspaper",
-        "url": "https://news.google.com/rss/search?q=site:joongang.co.kr&hl=ko&gl=KR&ceid=KR:ko",
-        "homepage": "https://www.joongang.co.kr"
-      },
-      {
-        "name": "동아일보",
-        "type": "newspaper",
-        "url": "https://rss.donga.com/total.xml",
-        "homepage": "https://www.donga.com",
-        "fallback": "https://news.google.com/rss/search?q=site:donga.com+when:2d&hl=ko&gl=KR&ceid=KR:ko"
-      },
-      {
-        "name": "한겨레",
-        "type": "newspaper",
-        "url": "https://www.hani.co.kr/rss/",
-        "homepage": "https://www.hani.co.kr",
-        "fallback": "https://news.google.com/rss/search?q=site:hani.co.kr+when:2d&hl=ko&gl=KR&ceid=KR:ko"
-      },
-      {
-        "name": "경향신문",
-        "type": "newspaper",
-        "url": "https://www.khan.co.kr/rss/rssdata/total_news.xml",
-        "homepage": "https://www.khan.co.kr"
-      },
-      {
-        "name": "매일경제",
-        "type": "newspaper",
-        "url": "https://www.mk.co.kr/rss/30000001/",
-        "homepage": "https://www.mk.co.kr"
-      },
-      {
-        "name": "한국경제",
-        "type": "newspaper",
-        "url": "https://www.hankyung.com/feed/all-news",
-        "homepage": "https://www.hankyung.com"
-      }
-    ]
-  },
-  "jp": {
-    "name": "일본",
-    "language": "ja",
-    "sources": [
-      {
-        "name": "NHK",
-        "type": "broadcaster",
-        "url": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-        "homepage": "https://www3.nhk.or.jp/news/"
-      },
-      {
-        "name": "TBS News",
-        "type": "broadcaster",
-        "url": "https://news.google.com/rss/search?q=site:newsdig.tbs.co.jp&hl=ja&gl=JP&ceid=JP:ja",
-        "homepage": "https://newsdig.tbs.co.jp"
-      },
-      {
-        "name": "FNN (フジテレビ)",
-        "type": "broadcaster",
-        "url": "https://news.google.com/rss/search?q=site:fnn.jp&hl=ja&gl=JP&ceid=JP:ja",
-        "homepage": "https://www.fnn.jp"
-      },
-      {
-        "name": "日本経済新聞",
-        "type": "newspaper",
-        "url": "https://assets.wor.jp/rss/rdf/nikkei/news.rdf",
-        "homepage": "https://www.nikkei.com"
-      },
-      {
-        "name": "朝日新聞",
-        "type": "newspaper",
-        "url": "https://www.asahi.com/rss/asahi/newsheadlines.rdf",
-        "homepage": "https://www.asahi.com"
-      },
-      {
-        "name": "読売新聞",
-        "type": "newspaper",
-        "url": "https://assets.wor.jp/rss/rdf/yomiuri/latestnews.rdf",
-        "homepage": "https://www.yomiuri.co.jp"
-      },
-      {
-        "name": "毎日新聞",
-        "type": "newspaper",
-        "url": "https://mainichi.jp/rss/etc/mainichi-flash.rss",
-        "homepage": "https://mainichi.jp"
-      },
-      {
-        "name": "産経新聞",
-        "type": "newspaper",
-        "url": "https://assets.wor.jp/rss/rdf/sankei/flash.rdf",
-        "homepage": "https://www.sankei.com"
-      },
-      {
-        "name": "Nikkei Asia",
-        "type": "newspaper",
-        "url": "https://asia.nikkei.com/rss/feed/nar",
-        "homepage": "https://asia.nikkei.com"
-      },
-      {
-        "name": "Japan Times",
-        "type": "newspaper",
-        "url": "https://www.japantimes.co.jp/feed/",
-        "homepage": "https://www.japantimes.co.jp"
-      }
-    ]
-  },
-  "de": {
-    "name": "독일",
-    "language": "de",
-    "sources": [
-      {
-        "name": "Tagesschau (ARD)",
-        "type": "broadcaster",
-        "url": "https://www.tagesschau.de/xml/rss2",
-        "homepage": "https://www.tagesschau.de"
-      },
-      {
-        "name": "ZDF heute",
-        "type": "broadcaster",
-        "url": "https://www.zdf.de/rss/zdf/nachrichten",
-        "homepage": "https://www.zdf.de/nachrichten"
-      },
-      {
-        "name": "Deutsche Welle",
-        "type": "broadcaster",
-        "url": "https://rss.dw.com/rdf/rss-en-all",
-        "homepage": "https://www.dw.com"
-      },
-      {
-        "name": "Der Spiegel",
-        "type": "newspaper",
-        "url": "https://www.spiegel.de/schlagzeilen/index.rss",
-        "homepage": "https://www.spiegel.de"
-      },
-      {
-        "name": "FAZ",
-        "type": "newspaper",
-        "url": "https://www.faz.net/rss/aktuell/",
-        "homepage": "https://www.faz.net"
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "type": "newspaper",
-        "url": "https://rss.sueddeutsche.de/rss/Topthemen",
-        "homepage": "https://www.sueddeutsche.de"
-      },
-      {
-        "name": "Die Zeit",
-        "type": "newspaper",
-        "url": "https://newsfeed.zeit.de/index",
-        "homepage": "https://www.zeit.de"
-      },
-      {
-        "name": "Handelsblatt",
-        "type": "newspaper",
-        "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
-        "homepage": "https://www.handelsblatt.com"
-      },
-      {
-        "name": "Die Welt",
-        "type": "newspaper",
-        "url": "https://www.welt.de/feeds/latest.rss",
-        "homepage": "https://www.welt.de"
-      }
-    ]
-  },
-  "uk": {
-    "name": "영국",
-    "language": "en",
-    "sources": [
-      {
-        "name": "BBC News",
-        "type": "broadcaster",
-        "url": "https://feeds.bbci.co.uk/news/rss.xml",
-        "homepage": "https://www.bbc.com/news"
-      },
-      {
-        "name": "Sky News",
-        "type": "broadcaster",
-        "url": "https://feeds.skynews.com/feeds/rss/home.xml",
-        "homepage": "https://news.sky.com"
-      },
-      {
-        "name": "ITV News",
-        "type": "broadcaster",
-        "url": "https://news.google.com/rss/search?q=site:itv.com/news&hl=en-GB&gl=GB&ceid=GB:en",
-        "homepage": "https://www.itv.com/news"
-      },
-      {
-        "name": "Financial Times",
-        "type": "newspaper",
-        "url": "https://www.ft.com/rss/home",
-        "homepage": "https://www.ft.com"
-      },
-      {
-        "name": "The Guardian",
-        "type": "newspaper",
-        "url": "https://www.theguardian.com/uk/rss",
-        "homepage": "https://www.theguardian.com"
-      },
-      {
-        "name": "The Telegraph",
-        "type": "newspaper",
-        "url": "https://www.telegraph.co.uk/rss.xml",
-        "homepage": "https://www.telegraph.co.uk",
-        "fallback": "https://news.google.com/rss/search?q=site:telegraph.co.uk+when:2d&hl=en-GB&gl=GB&ceid=GB:en"
-      },
-      {
-        "name": "The Times",
-        "type": "newspaper",
-        "url": "https://news.google.com/rss/search?q=site:thetimes.com&hl=en-GB&gl=GB&ceid=GB:en",
-        "homepage": "https://www.thetimes.com"
-      },
-      {
-        "name": "The Independent",
-        "type": "newspaper",
-        "url": "https://www.independent.co.uk/news/rss",
-        "homepage": "https://www.independent.co.uk",
-        "fallback": "https://news.google.com/rss/search?q=site:independent.co.uk+when:2d&hl=en-GB&gl=GB&ceid=GB:en"
-      },
-      {
-        "name": "The Economist",
-        "type": "newspaper",
-        "url": "https://www.economist.com/the-world-this-week/rss.xml",
-        "homepage": "https://www.economist.com"
-      }
-    ]
-  },
-  "fr": {
-    "name": "프랑스",
-    "language": "fr",
-    "sources": [
-      {
-        "name": "France 24",
-        "type": "broadcaster",
-        "url": "https://www.france24.com/fr/rss",
-        "homepage": "https://www.france24.com/fr/"
-      },
-      {
-        "name": "franceinfo",
-        "type": "broadcaster",
-        "url": "https://www.francetvinfo.fr/titres.rss",
-        "homepage": "https://www.francetvinfo.fr"
-      },
-      {
-        "name": "RFI",
-        "type": "broadcaster",
-        "url": "https://www.rfi.fr/fr/rss",
-        "homepage": "https://www.rfi.fr/fr/"
-      },
-      {
-        "name": "BFMTV",
-        "type": "broadcaster",
-        "url": "https://www.bfmtv.com/rss/news-24-7/",
-        "homepage": "https://www.bfmtv.com"
-      },
-      {
-        "name": "Le Monde",
-        "type": "newspaper",
-        "url": "https://www.lemonde.fr/rss/une.xml",
-        "homepage": "https://www.lemonde.fr"
-      },
-      {
-        "name": "Le Figaro",
-        "type": "newspaper",
-        "url": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "homepage": "https://www.lefigaro.fr"
-      },
-      {
-        "name": "Les Echos",
-        "type": "newspaper",
-        "url": "https://news.google.com/rss/search?q=site:lesechos.fr&hl=fr&gl=FR&ceid=FR:fr",
-        "homepage": "https://www.lesechos.fr"
-      },
-      {
-        "name": "Libération",
-        "type": "newspaper",
-        "url": "https://www.liberation.fr/arc/outboundfeeds/rss/?outputType=xml",
-        "homepage": "https://www.liberation.fr"
-      }
-    ]
-  },
-  "il": {
-    "name": "이스라엘",
-    "language": "en/he",
-    "sources": [
-      {
-        "name": "i24NEWS",
-        "type": "broadcaster",
-        "url": "https://www.i24news.tv/en/rss",
-        "homepage": "https://www.i24news.tv/en",
-        "fallback": "https://news.google.com/rss/search?q=site:i24news.tv+when:2d&hl=en-US&gl=US&ceid=US:en"
-      },
-      {
-        "name": "Kan News",
-        "type": "broadcaster",
-        "url": "https://news.google.com/rss/search?q=site:kan.org.il&hl=he&gl=IL&ceid=IL:he",
-        "homepage": "https://www.kan.org.il"
-      },
-      {
-        "name": "Channel 12 (N12)",
-        "type": "broadcaster",
-        "url": "https://news.google.com/rss/search?q=site:mako.co.il/news&hl=he&gl=IL&ceid=IL:he",
-        "homepage": "https://www.mako.co.il/news"
-      },
-      {
-        "name": "Times of Israel",
-        "type": "newspaper",
-        "url": "https://www.timesofisrael.com/feed/",
-        "homepage": "https://www.timesofisrael.com",
-        "fallback": "https://news.google.com/rss/search?q=site:timesofisrael.com+when:2d&hl=en-US&gl=US&ceid=US:en"
-      },
-      {
-        "name": "Haaretz",
-        "type": "newspaper",
-        "url": "https://www.haaretz.com/srv/haaretz-latest-headlines",
-        "homepage": "https://www.haaretz.com"
-      },
-      {
-        "name": "Jerusalem Post",
-        "type": "newspaper",
-        "url": "https://www.jpost.com/rss/rssfeedsfrontpage.aspx",
-        "homepage": "https://www.jpost.com"
-      },
-      {
-        "name": "Ynet News",
-        "type": "newspaper",
-        "url": "https://www.ynetnews.com/Integration/StoryRss3082.xml",
-        "homepage": "https://www.ynetnews.com"
-      },
-      {
-        "name": "Globes",
-        "type": "newspaper",
-        "url": "https://en.globes.co.il/WebService/Rss/RssFeeder.asmx/FeederNode?iID=942",
-        "homepage": "https://en.globes.co.il"
-      }
-    ]
-  },
-  "ru": {
-    "name": "러시아",
-    "language": "ru",
-    "sources": [
-      {
-        "name": "TASS",
-        "type": "broadcaster",
-        "url": "https://tass.com/rss/v2.xml",
-        "homepage": "https://tass.com",
-        "note": "국영 통신",
-        "fallback": "https://news.google.com/rss/search?q=site:tass.com+when:2d&hl=en-US&gl=US&ceid=US:en"
-      },
-      {
-        "name": "RT",
-        "type": "broadcaster",
-        "url": "https://www.rt.com/rss/news/",
-        "homepage": "https://www.rt.com",
-        "note": "국영 방송",
-        "fallback": "https://news.google.com/rss/search?q=site:rt.com+when:2d&hl=en-US&gl=US&ceid=US:en"
-      },
-      {
-        "name": "RIA Novosti",
-        "type": "broadcaster",
-        "url": "https://ria.ru/export/rss2/archive/index.xml",
-        "homepage": "https://ria.ru",
-        "note": "국영 통신"
-      },
-      {
-        "name": "Interfax",
-        "type": "broadcaster",
-        "url": "https://www.interfax.ru/rss.asp",
-        "homepage": "https://www.interfax.ru"
-      },
-      {
-        "name": "Kommersant",
-        "type": "newspaper",
-        "url": "https://www.kommersant.ru/RSS/news.xml",
-        "homepage": "https://www.kommersant.ru"
-      },
-      {
-        "name": "Vedomosti",
-        "type": "newspaper",
-        "url": "https://www.vedomosti.ru/rss/news",
-        "homepage": "https://www.vedomosti.ru"
-      },
-      {
-        "name": "RBC",
-        "type": "newspaper",
-        "url": "https://rssexport.rbc.ru/rbcnews/news/30/full.rss",
-        "homepage": "https://www.rbc.ru",
-        "fallback": "https://news.google.com/rss/search?q=site:rbc.ru+when:2d&hl=ru&gl=RU&ceid=RU:ru"
-      },
-      {
-        "name": "Meduza",
-        "type": "newspaper",
-        "url": "https://meduza.io/rss/all",
-        "homepage": "https://meduza.io",
-        "note": "망명 독립언론 (국영 시각과 대조용)"
-      }
-    ]
-  },
-  "cn": {
-    "name": "중국",
-    "language": "zh/en",
-    "sources": [
-      {
-        "name": "CCTV / CGTN",
-        "type": "broadcaster",
-        "url": "https://www.cgtn.com/subscribe/rss/section/world.xml",
-        "homepage": "https://www.cgtn.com",
-        "note": "국영 방송"
-      },
-      {
-        "name": "Xinhua (新华社)",
-        "type": "broadcaster",
-        "url": "https://news.google.com/rss/search?q=site:english.news.cn&hl=en-US&gl=US&ceid=US:en",
-        "homepage": "https://english.news.cn",
-        "note": "국영 통신"
-      },
-      {
-        "name": "People's Daily (人民日报)",
-        "type": "newspaper",
-        "url": "http://en.people.cn/rss/90000.xml",
-        "homepage": "http://en.people.cn",
-        "note": "당 기관지",
-        "fallback": "https://news.google.com/rss/search?q=site:en.people.cn+when:2d&hl=en-US&gl=US&ceid=US:en"
-      },
-      {
-        "name": "China Daily",
-        "type": "newspaper",
-        "url": "https://www.chinadaily.com.cn/rss/china_rss.xml",
-        "homepage": "https://www.chinadaily.com.cn",
-        "fallback": "https://news.google.com/rss/search?q=site:chinadaily.com.cn+when:2d&hl=en-US&gl=US&ceid=US:en"
-      },
-      {
-        "name": "Global Times (环球时报)",
-        "type": "newspaper",
-        "url": "https://www.globaltimes.cn/rss/outbrain.xml",
-        "homepage": "https://www.globaltimes.cn"
-      },
-      {
-        "name": "Caixin (财新)",
-        "type": "newspaper",
-        "url": "https://gateway.caixin.com/api/data/global/feedlyRss.xml",
-        "homepage": "https://www.caixinglobal.com",
-        "fallback": "https://news.google.com/rss/search?q=site:caixinglobal.com+when:2d&hl=en-US&gl=US&ceid=US:en"
-      },
-      {
-        "name": "South China Morning Post",
-        "type": "newspaper",
-        "url": "https://www.scmp.com/rss/91/feed",
-        "homepage": "https://www.scmp.com",
-        "note": "홍콩"
-      }
-    ]
-  }
+  "fields": [
+    {
+      "id": "industry",
+      "name_ko": "산업"
+    },
+    {
+      "id": "business",
+      "name_ko": "비즈니스"
+    },
+    {
+      "id": "stocks",
+      "name_ko": "주식"
+    },
+    {
+      "id": "crypto",
+      "name_ko": "코인"
+    },
+    {
+      "id": "monetary",
+      "name_ko": "각국 통화정책"
+    },
+    {
+      "id": "legislation",
+      "name_ko": "신규·처리중 법안"
+    },
+    {
+      "id": "forecast",
+      "name_ko": "미래 예측"
+    },
+    {
+      "id": "geopolitics",
+      "name_ko": "국제 지정학"
+    }
+  ]
 }
