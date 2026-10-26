@@ -9,7 +9,7 @@
 <text x="280" y="105" font-size="15" font-weight="700" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#ffffff">산업</text>
 <line x1="120" y1="240" x2="360" y2="240" stroke="#2563eb" stroke-width="1.5"/>
 <circle cx="360" cy="240" r="3" fill="#2563eb"/>
-<text x="334" y="234" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="334" dy="0">연산력·제조가 미국으로 재집결</tspan></text>
+<text x="334" y="219" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="334" dy="0">연산력·제조 재집결 시도(발표</tspan><tspan x="334" dy="15">단계)</tspan></text>
 <line x1="440" y1="360" x2="280" y2="600" stroke="#dc2626" stroke-width="3"/>
 <rect x="238" y="606" width="84" height="28" rx="6" fill="#dc2626"/>
 <text x="280" y="625" font-size="15" font-weight="700" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#ffffff">비즈니스</text>
@@ -21,13 +21,13 @@
 <text x="680" y="105" font-size="15" font-weight="700" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#ffffff">주식</text>
 <line x1="520" y1="240" x2="760" y2="240" stroke="#059669" stroke-width="1.5"/>
 <circle cx="760" cy="240" r="3" fill="#059669"/>
-<text x="734" y="234" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="734" dy="0">AI 밸류 조정 + 선거·FOMC 대기</tspan></text>
+<text x="734" y="234" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="734" dy="0">아시아 AI주 조정 + FOMC 대기</tspan></text>
 <line x1="840" y1="360" x2="680" y2="600" stroke="#d97706" stroke-width="3"/>
 <rect x="653" y="606" width="54" height="28" rx="6" fill="#d97706"/>
 <text x="680" y="625" font-size="15" font-weight="700" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#ffffff">코인</text>
 <line x1="520" y1="480" x2="760" y2="480" stroke="#d97706" stroke-width="1.5"/>
 <circle cx="760" cy="480" r="3" fill="#d97706"/>
-<text x="734" y="474" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="734" dy="0">코인은 제재 우회 도구로 소환</tspan></text>
+<text x="734" y="474" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="734" dy="0">코인, 제재 회피 쟁점으로 소환</tspan></text>
 <line x1="1240" y1="360" x2="1080" y2="120" stroke="#7c3aed" stroke-width="3"/>
 <rect x="1038" y="86" width="84" height="28" rx="6" fill="#7c3aed"/>
 <text x="1080" y="105" font-size="15" font-weight="700" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#ffffff">통화정책</text>
@@ -51,5 +51,5 @@
 <text x="1480" y="625" font-size="15" font-weight="700" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#ffffff">지정학</text>
 <line x1="1320" y1="480" x2="1560" y2="480" stroke="#4b5563" stroke-width="1.5"/>
 <circle cx="1560" cy="480" r="3" fill="#4b5563"/>
-<text x="1534" y="474" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="1534" dy="0">병목 장악 시도와 이탈 선택</tspan></text>
+<text x="1534" y="474" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="1534" dy="0">병목 장악 시도와 선거 변수</tspan></text>
 </svg>

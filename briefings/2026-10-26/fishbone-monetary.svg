@@ -26,8 +26,8 @@
 <circle cx="400" cy="420" r="3" fill="#dc2626"/>
 <text x="374" y="414" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="374" dy="0">엔화=AI충격 헤지 [JP-82]</tspan></text>
 <line x1="840" y1="360" x2="680" y2="120" stroke="#059669" stroke-width="3"/>
-<rect x="653" y="86" width="54" height="28" rx="6" fill="#059669"/>
-<text x="680" y="105" font-size="15" font-weight="700" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#ffffff">유럽</text>
+<rect x="610" y="86" width="141" height="28" rx="6" fill="#059669"/>
+<text x="680" y="105" font-size="15" font-weight="700" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#ffffff">유럽(재정·금리)</text>
 <line x1="493" y1="200" x2="733" y2="200" stroke="#059669" stroke-width="1.5"/>
 <circle cx="733" cy="200" r="3" fill="#059669"/>
 <text x="707" y="179" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="707" dy="0">佛 20년 4% 주담대 23만명</tspan><tspan x="707" dy="15">[FR-58]</tspan></text>
@@ -46,12 +46,15 @@
 <line x1="1240" y1="360" x2="1080" y2="120" stroke="#7c3aed" stroke-width="3"/>
 <rect x="1026" y="86" width="108" height="28" rx="6" fill="#7c3aed"/>
 <text x="1080" y="105" font-size="15" font-weight="700" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#ffffff">에너지→물가</text>
-<line x1="893" y1="200" x2="1133" y2="200" stroke="#7c3aed" stroke-width="1.5"/>
-<circle cx="1133" cy="200" r="3" fill="#7c3aed"/>
-<text x="1107" y="179" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="1107" dy="0">브렌트 117$ 넘었다 하락</tspan><tspan x="1107" dy="15">[RU-55]</tspan></text>
-<line x1="947" y1="280" x2="1187" y2="280" stroke="#7c3aed" stroke-width="1.5"/>
-<circle cx="1187" cy="280" r="3" fill="#7c3aed"/>
-<text x="1161" y="259" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="1161" dy="0">佛 11월 경유값 하락 전망</tspan><tspan x="1161" dy="15">[FR-31]</tspan></text>
+<line x1="880" y1="180" x2="1120" y2="180" stroke="#7c3aed" stroke-width="1.5"/>
+<circle cx="1120" cy="180" r="3" fill="#7c3aed"/>
+<text x="1094" y="159" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="1094" dy="0">美 시장기사: 유가 하락</tspan><tspan x="1094" dy="15">[US-90]</tspan></text>
+<line x1="920" y1="240" x2="1160" y2="240" stroke="#7c3aed" stroke-width="1.5"/>
+<circle cx="1160" cy="240" r="3" fill="#7c3aed"/>
+<text x="1134" y="219" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="1134" dy="0">브렌트 117$ 돌파 후 하락</tspan><tspan x="1134" dy="15">[RU-55·단일출처 미확인]</tspan></text>
+<line x1="960" y1="300" x2="1200" y2="300" stroke="#7c3aed" stroke-width="1.5"/>
+<circle cx="1200" cy="300" r="3" fill="#7c3aed"/>
+<text x="1174" y="279" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="1174" dy="0">佛 11월 경유값 하락 전망</tspan><tspan x="1174" dy="15">[FR-31]</tspan></text>
 <line x1="1240" y1="360" x2="1080" y2="600" stroke="#0891b2" stroke-width="3"/>
 <rect x="1034" y="606" width="93" height="28" rx="6" fill="#0891b2"/>
 <text x="1080" y="625" font-size="15" font-weight="700" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#ffffff">수집 공백</text>

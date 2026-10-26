@@ -3,7 +3,7 @@
 <text x="40" y="38" font-size="22" font-weight="700" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827">주식 — AI 밸류 조정과 이벤트 대기</text>
 <line x1="40" y1="360" x2="1280" y2="360" stroke="#111827" stroke-width="5"/>
 <path d="M1280,305 L1510,305 L1540,360 L1510,415 L1280,415 Z" fill="#111827"/>
-<text x="1395" y="356" font-size="16" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#ffffff" font-weight="700"><tspan x="1395" dy="0">AI 밸류 조정 +</tspan><tspan x="1395" dy="19">선거·FOMC 대기</tspan></text>
+<text x="1395" y="356" font-size="16" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#ffffff" font-weight="700"><tspan x="1395" dy="0">아시아 AI주 조정 +</tspan><tspan x="1395" dy="19">FOMC 대기</tspan></text>
 <line x1="440" y1="360" x2="280" y2="120" stroke="#2563eb" stroke-width="3"/>
 <rect x="232" y="86" width="96" height="28" rx="6" fill="#2563eb"/>
 <text x="280" y="105" font-size="15" font-weight="700" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#ffffff">AI·반도체</text>
@@ -33,7 +33,7 @@
 <text x="334" y="474" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="334" dy="0">도쿄 석유·상사주 강세 [JP-25]</tspan></text>
 <line x1="160" y1="420" x2="400" y2="420" stroke="#dc2626" stroke-width="1.5"/>
 <circle cx="400" cy="420" r="3" fill="#dc2626"/>
-<text x="374" y="399" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="374" dy="0">美 선물 상승·유가 하락</tspan><tspan x="374" dy="15">[US-90]</tspan></text>
+<text x="374" y="399" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="374" dy="0">美 주식 소폭↑·유가 하락</tspan><tspan x="374" dy="15">[US-90]</tspan></text>
 <line x1="840" y1="360" x2="680" y2="120" stroke="#059669" stroke-width="3"/>
 <rect x="618" y="86" width="123" height="28" rx="6" fill="#059669"/>
 <text x="680" y="105" font-size="15" font-weight="700" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#ffffff">브라질·신흥국</text>

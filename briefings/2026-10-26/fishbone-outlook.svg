@@ -52,13 +52,10 @@
 <line x1="1240" y1="360" x2="1080" y2="120" stroke="#7c3aed" stroke-width="3"/>
 <rect x="1034" y="86" width="93" height="28" rx="6" fill="#7c3aed"/>
 <text x="1080" y="105" font-size="15" font-weight="700" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#ffffff">구조 변화</text>
-<line x1="880" y1="180" x2="1120" y2="180" stroke="#7c3aed" stroke-width="1.5"/>
-<circle cx="1120" cy="180" r="3" fill="#7c3aed"/>
-<text x="1094" y="159" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="1094" dy="0">日 2030 IT인재 79만 부족</tspan><tspan x="1094" dy="15">[JP-51]</tspan></text>
-<line x1="920" y1="240" x2="1160" y2="240" stroke="#7c3aed" stroke-width="1.5"/>
-<circle cx="1160" cy="240" r="3" fill="#7c3aed"/>
-<text x="1134" y="234" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="1134" dy="0">청년고용 질적 악화 [KR-17]</tspan></text>
-<line x1="960" y1="300" x2="1200" y2="300" stroke="#7c3aed" stroke-width="1.5"/>
-<circle cx="1200" cy="300" r="3" fill="#7c3aed"/>
-<text x="1174" y="279" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="1174" dy="0">티베트 대형 댐 홍수위험</tspan><tspan x="1174" dy="15">[CN-60]</tspan></text>
+<line x1="893" y1="200" x2="1133" y2="200" stroke="#7c3aed" stroke-width="1.5"/>
+<circle cx="1133" cy="200" r="3" fill="#7c3aed"/>
+<text x="1107" y="179" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="1107" dy="0">日 2030 IT인재 79만 부족</tspan><tspan x="1107" dy="15">[JP-51]</tspan></text>
+<line x1="947" y1="280" x2="1187" y2="280" stroke="#7c3aed" stroke-width="1.5"/>
+<circle cx="1187" cy="280" r="3" fill="#7c3aed"/>
+<text x="1161" y="274" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="1161" dy="0">청년고용 질적 악화 [KR-17]</tspan></text>
 </svg>

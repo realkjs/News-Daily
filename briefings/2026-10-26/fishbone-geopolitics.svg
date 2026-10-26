@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1580" height="660" viewBox="0 0 1580 660">
 <rect width="100%" height="100%" fill="#ffffff"/>
-<text x="40" y="38" font-size="22" font-weight="700" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827">국제 지정학 — 병목 장악 vs 이탈 선택</text>
+<text x="40" y="38" font-size="22" font-weight="700" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827">국제 지정학 — 병목 장악 시도와 선거 변수</text>
 <line x1="40" y1="360" x2="1280" y2="360" stroke="#111827" stroke-width="5"/>
 <path d="M1280,305 L1510,305 L1540,360 L1510,415 L1280,415 Z" fill="#111827"/>
-<text x="1395" y="356" font-size="16" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#ffffff" font-weight="700"><tspan x="1395" dy="0">병목 장악 시도와 이탈</tspan><tspan x="1395" dy="19">선택</tspan></text>
+<text x="1395" y="356" font-size="16" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#ffffff" font-weight="700"><tspan x="1395" dy="0">병목 장악 시도와 선거</tspan><tspan x="1395" dy="19">변수</tspan></text>
 <line x1="440" y1="360" x2="280" y2="120" stroke="#2563eb" stroke-width="3"/>
 <rect x="218" y="86" width="123" height="28" rx="6" fill="#2563eb"/>
 <text x="280" y="105" font-size="15" font-weight="700" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#ffffff">중동·호르무즈</text>
@@ -21,7 +21,7 @@
 <text x="361" y="259" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="361" dy="0">美 &#x27;3,000척 통과&#x27; 주장</tspan><tspan x="361" dy="15">[FR-36]</tspan></text>
 <line x1="173" y1="320" x2="413" y2="320" stroke="#2563eb" stroke-width="1.5"/>
 <circle cx="413" cy="320" r="3" fill="#2563eb"/>
-<text x="387" y="299" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="387" dy="0">참모총장, 네타냐후 명령 저항</tspan><tspan x="387" dy="15">[IL-50]</tspan></text>
+<text x="387" y="314" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="387" dy="0">참모총장 반발 보도 [IL-50]</tspan></text>
 <line x1="440" y1="360" x2="280" y2="600" stroke="#dc2626" stroke-width="3"/>
 <rect x="229" y="606" width="102" height="28" rx="6" fill="#dc2626"/>
 <text x="280" y="625" font-size="15" font-weight="700" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#ffffff">러·우 협상</text>
@@ -53,8 +53,8 @@
 <circle cx="808" cy="312" r="3" fill="#059669"/>
 <text x="782" y="291" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="782" dy="0">메르츠·슈타인마이어 아시아행</tspan><tspan x="782" dy="15">[DE-2]</tspan></text>
 <line x1="840" y1="360" x2="680" y2="600" stroke="#d97706" stroke-width="3"/>
-<rect x="626" y="606" width="108" height="28" rx="6" fill="#d97706"/>
-<text x="680" y="625" font-size="15" font-weight="700" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#ffffff">선거로 이탈</text>
+<rect x="634" y="606" width="93" height="28" rx="6" fill="#d97706"/>
+<text x="680" y="625" font-size="15" font-weight="700" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#ffffff">선거 결과</text>
 <line x1="472" y1="552" x2="712" y2="552" stroke="#d97706" stroke-width="1.5"/>
 <circle cx="712" cy="552" r="3" fill="#d97706"/>
 <text x="686" y="546" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="686" dy="0">룰라 4선 51.8% [FR-11]</tspan></text>
@@ -66,19 +66,22 @@
 <text x="750" y="450" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="750" dy="0">부치치 패배 인정 [UK-6]</tspan></text>
 <line x1="568" y1="408" x2="808" y2="408" stroke="#d97706" stroke-width="1.5"/>
 <circle cx="808" cy="408" r="3" fill="#d97706"/>
-<text x="782" y="402" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="782" dy="0">봄까지 대러 제재 도입 [RU-7]</tspan></text>
+<text x="782" y="387" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="782" dy="0">부치치: 대러 제재 도입 전망</tspan><tspan x="782" dy="15">[RU-7]</tspan></text>
 <line x1="1240" y1="360" x2="1080" y2="120" stroke="#7c3aed" stroke-width="3"/>
-<rect x="1026" y="86" width="108" height="28" rx="6" fill="#7c3aed"/>
-<text x="1080" y="105" font-size="15" font-weight="700" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#ffffff">유럽 재무장</text>
-<line x1="880" y1="180" x2="1120" y2="180" stroke="#7c3aed" stroke-width="1.5"/>
-<circle cx="1120" cy="180" r="3" fill="#7c3aed"/>
-<text x="1094" y="174" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="1094" dy="0">佛 핵억지 10개국 협력 [IL-58]</tspan></text>
-<line x1="920" y1="240" x2="1160" y2="240" stroke="#7c3aed" stroke-width="1.5"/>
-<circle cx="1160" cy="240" r="3" fill="#7c3aed"/>
-<text x="1134" y="234" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="1134" dy="0">英 국방비 증액 예정 [UK-52]</tspan></text>
-<line x1="960" y1="300" x2="1200" y2="300" stroke="#7c3aed" stroke-width="1.5"/>
-<circle cx="1200" cy="300" r="3" fill="#7c3aed"/>
-<text x="1174" y="294" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="1174" dy="0">獨 우크라産 Bars 구매 [UK-30]</tspan></text>
+<rect x="1006" y="86" width="147" height="28" rx="6" fill="#7c3aed"/>
+<text x="1080" y="105" font-size="15" font-weight="700" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#ffffff">유럽 재무장·시위</text>
+<line x1="872" y1="168" x2="1112" y2="168" stroke="#7c3aed" stroke-width="1.5"/>
+<circle cx="1112" cy="168" r="3" fill="#7c3aed"/>
+<text x="1086" y="162" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="1086" dy="0">佛 핵억지 10개국 협력 [IL-58]</tspan></text>
+<line x1="904" y1="216" x2="1144" y2="216" stroke="#7c3aed" stroke-width="1.5"/>
+<circle cx="1144" cy="216" r="3" fill="#7c3aed"/>
+<text x="1118" y="210" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="1118" dy="0">英 국방비 증액 예정 [UK-52]</tspan></text>
+<line x1="936" y1="264" x2="1176" y2="264" stroke="#7c3aed" stroke-width="1.5"/>
+<circle cx="1176" cy="264" r="3" fill="#7c3aed"/>
+<text x="1150" y="258" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="1150" dy="0">獨 우크라産 Bars 구매 [UK-30]</tspan></text>
+<line x1="968" y1="312" x2="1208" y2="312" stroke="#7c3aed" stroke-width="1.5"/>
+<circle cx="1208" cy="312" r="3" fill="#7c3aed"/>
+<text x="1182" y="291" font-size="12" text-anchor="end" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#111827"><tspan x="1182" dy="0">佛 시위 체포 수백~1,300명</tspan><tspan x="1182" dy="15">[US-26]</tspan></text>
 <line x1="1240" y1="360" x2="1080" y2="600" stroke="#0891b2" stroke-width="3"/>
 <rect x="1038" y="606" width="84" height="28" rx="6" fill="#0891b2"/>
 <text x="1080" y="625" font-size="15" font-weight="700" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" fill="#ffffff">동아시아</text>
