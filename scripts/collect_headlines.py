@@ -16,6 +16,7 @@ import html
 import json
 import re
 import sys
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
@@ -85,10 +86,17 @@ def read_feed(url):
         return parse_feed(resp.read())
 
 
+def google_news(homepage):
+    """sources.json 에 fallback 이 없을 때 쓰는 기본 대체 경로 (Google News 사이트 검색 RSS)."""
+    parsed = urllib.parse.urlparse(homepage)
+    site = (parsed.hostname or "").removeprefix("www.") + parsed.path.rstrip("/")
+    return f"https://news.google.com/rss/search?q=site:{urllib.parse.quote(site)}+when:2d&hl=en-US&gl=US&ceid=US:en"
+
+
 def fetch(source, limit, since):
     result = {k: source.get(k) for k in ("name", "type", "url", "homepage", "note") if source.get(k)}
     errors = []
-    for url in filter(None, (source["url"], source.get("fallback"))):
+    for url in (source["url"], source.get("fallback") or google_news(source["homepage"])):
         try:
             items = read_feed(url)
         except Exception as e:  # noqa: BLE001 - 매체별 실패는 기록만 하고 계속 진행
@@ -96,6 +104,9 @@ def fetch(source, limit, since):
             continue
         if since:
             items = [i for i in items if not i["published"] or dt.datetime.fromisoformat(i["published"]) >= since]
+        if not items:
+            errors.append(f"최근 기사 0건: {url}")
+            continue
         if url != source["url"]:
             result["via"] = "google-news-fallback"
         result.update(ok=True, items=items[:limit])
