@@ -1,0 +1,44 @@
+{
+  "us": {
+    "headlines": 59,
+    "unavailable": []
+  },
+  "kr": {
+    "headlines": 56,
+    "unavailable": []
+  },
+  "jp": {
+    "headlines": 56,
+    "unavailable": []
+  },
+  "de": {
+    "headlines": 47,
+    "unavailable": []
+  },
+  "uk": {
+    "headlines": 48,
+    "unavailable": []
+  },
+  "fr": {
+    "headlines": 48,
+    "unavailable": []
+  },
+  "il": {
+    "headlines": 32,
+    "unavailable": [
+      "Kan (KAN News)",
+      "N12 (Channel 12)"
+    ]
+  },
+  "ru": {
+    "headlines": 56,
+    "unavailable": []
+  },
+  "cn": {
+    "headlines": 34,
+    "unavailable": [
+      "Global Times",
+      "Caixin"
+    ]
+  }
+}

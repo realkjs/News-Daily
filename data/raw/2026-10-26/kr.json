@@ -1,0 +1,513 @@
+{
+  "team": "kr",
+  "team_name_ko": "한국팀",
+  "collected_at": "2026-10-26T14:08:20.437217+09:00",
+  "headlines": [
+    {
+      "source": "KBS",
+      "title_original": "울산 장생포 부두서 선박 세척용 황산 누출…4명 가스 흡입",
+      "summary_original": "울산 장생포 부두서 선박 세척용 황산 누출…4명 가스 흡입 KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xaG5zcGlVYWVsMkxOcEtMS1VhdDQwSDhDRjdfNWZwTGVBTEJWTG51bklMQm5NbE1XYlB6WGtFWVI3TG5DSGxlb19qX3lwUHRDX3NVVE5IYXV1OWVESGNCRHRRb2lnUQ?oc=5",
+      "published": "2026-10-26T14:04:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "KBS",
+      "title_original": "‘지각 태풍’ 가고 ‘이른 추위’ 또 온다",
+      "summary_original": "‘지각 태풍’ 가고 ‘이른 추위’ 또 온다 KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91NU16bVl5SDNnQlNCQXZ2cUoyUmxseGNGNTlJZHFOWjFXYmlBenVtbUFMQW1DTzdzeG13SHptWVdiOEhPYmdwUWdabkVRRXA5VWgtMUJ5N2hqbzQ?oc=5",
+      "published": "2026-10-26T14:02:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "KBS",
+      "title_original": "김수현 측 “故김새론 모친 등 공소청 송치…명예훼손 등 혐의”",
+      "summary_original": "김수현 측 “故김새론 모친 등 공소청 송치…명예훼손 등 혐의” KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PbEtFaUZwcFdRNjlNbmJZM1duTVR6eHhpSHBuVnBhVWR6b1hBUlhEcXQ0NVQ4SzZZZmQwUF9wcjRxbTJjdEVXeUhJTzh4dWRscE5zX1oxZnRqVzg?oc=5",
+      "published": "2026-10-26T13:46:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "KBS",
+      "title_original": "‘올 시즌 NBA 최다 52점’ 돈치치 앞세운 레이커스, 개막 3연승",
+      "summary_original": "‘올 시즌 NBA 최다 52점’ 돈치치 앞세운 레이커스, 개막 3연승 KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKbnVyRTNXbjB2ZWZSMjl3dTR0T2NxVkNNTUFmSEdCcGRtekt4Y3MxTy0yY1RTLWdTVUttWXpNblMyUXVaeEItak5aZXkzaS1LTU1mSnZOSEdabUk?oc=5",
+      "published": "2026-10-26T13:41:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "KBS",
+      "title_original": "‘라방’하다 구독자 살해 협박한 인터넷방송인 구속영장",
+      "summary_original": "‘라방’하다 구독자 살해 협박한 인터넷방송인 구속영장 KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QSmVxS2FreWFVMWUzZUp6eDRDenZ6WnVtZ2kyQnY3OVlxUG1pNHhwTjNEY1FLN2Frb0FLRGg3QnJKYUlGYmFLZlJnZ2VUUF9LWWlES2p6TzNSNms?oc=5",
+      "published": "2026-10-26T13:36:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "KBS",
+      "title_original": "내일부터 기온 ‘뚝 뚝’…모레 아침 서울 2도",
+      "summary_original": "내일부터 기온 ‘뚝 뚝’…모레 아침 서울 2도 KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vOHFycHdoWC1JdVM3ZHhMa1NpTkc3RXJwdldmbDZLeU9OSW9MbElsVXpkeHJuREhieGo4SlpFcnhRZkxWRXdqQTRxUUs1cHkyN2R1RzdqdzB0bWs?oc=5",
+      "published": "2026-10-26T12:08:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "KBS",
+      "title_original": "통일부 “김정은 단둥 방문, 한반도 주변국 대화 재개에 기여하길”",
+      "summary_original": "통일부 “김정은 단둥 방문, 한반도 주변국 대화 재개에 기여하길” KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UYTJVV2FmVDZiTDJOQkFmalZycXJ4Y1Y4MlN2UTZ3VWYwckQ0TlNtSWN5TnZpVF9OSFFIMnF0SVBISlE5ZnBMOTVYVlltN2FhdVZxeDdxbkIyWVk?oc=5",
+      "published": "2026-10-26T11:50:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "KBS",
+      "title_original": "진도서 빈집 철거 중 담벼락 무너져…60대 작업자 숨져",
+      "summary_original": "진도서 빈집 철거 중 담벼락 무너져…60대 작업자 숨져 KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZdUJoYlNOTDRjcmlMV3BnZC1Qb3RpVFlNQ01UX0xkbE9QZWhtQVZmLTBMc0FVbTZtVmZ3RmQyWENkMmcyZU8temt1dlhveUd6ODBuYkU1a2hhV2c?oc=5",
+      "published": "2026-10-26T11:43:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "MBC",
+      "title_original": "2026년 10월 26일 13시뉴스",
+      "summary_original": "MBC 13시뉴스",
+      "url": "",
+      "published": "2026-10-26T13:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "MBC",
+      "title_original": "2026년 10월 26일 12시뉴스",
+      "summary_original": "MBC 12시뉴스",
+      "url": "",
+      "published": "2026-10-26T12:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "MBC",
+      "title_original": "2026년 10월 26일 11시뉴스",
+      "summary_original": "MBC 11시뉴스",
+      "url": "",
+      "published": "2026-10-26T11:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "MBC",
+      "title_original": "2026년 10월 26일 10시뉴스",
+      "summary_original": "MBC 10시뉴스",
+      "url": "",
+      "published": "2026-10-26T10:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "MBC",
+      "title_original": "2026년 10월 26일 9시뉴스",
+      "summary_original": "MBC 9시뉴스",
+      "url": "",
+      "published": "2026-10-26T09:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "MBC",
+      "title_original": "2026년 10월 26일 7시뉴스",
+      "summary_original": "MBC 7시뉴스",
+      "url": "",
+      "published": "2026-10-26T07:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "MBC",
+      "title_original": "2026년 10월 26일 6시뉴스",
+      "summary_original": "MBC 6시뉴스",
+      "url": "",
+      "published": "2026-10-26T06:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "MBC",
+      "title_original": "2026년 10월 25일 23시뉴스",
+      "summary_original": "MBC 23시뉴스",
+      "url": "",
+      "published": "2026-10-25T23:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "SBS",
+      "title_original": "민주 \"'오세훈 무죄' 조희대 탄핵이 답\"…국힘 \"비상식적인 이야기\"",
+      "summary_original": "▲ 이진수 법무부 장관 직무대행이 26일 국회 법제사법위원회에서 열린 법무부, 고위공직자범죄수사처, 대법원 등에 대한 종합감사에서 법사위원 질의에 답하고 있다.오늘 열린 국회 법제사법위원회의 마지막 국정감사에서 오세훈 서울시장이 '명태균 여론조사비 대납 의혹' 사건 항소심에서 무죄를 선고받은 것을 놓고 여야가 충돌했습니다.더불어민주당은 오 시장의 무죄를 놓고 사법부와 조희대 대법원장을 비판했고, 이에 맞서 국민의힘은 이재명 대통령 재판부터 재개하라고 촉구했습니다.민주당 이성윤 의원은 \"백성 고혈을 쥐어짜 동학농민혁명을 만든 탐관오리인 조병갑이 고등재판소 판사가 돼 동학 교주 최시형에게 사형을 선고했다\"며 \"130년 전 상황이 조희대 법원에서 재현될 것 같다고 걱정하는 국민이 많다\"고 지적했습니다.이 의원은 ",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815087",
+      "published": "2026-10-26T13:41:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "SBS",
+      "title_original": "민주당 \"신천지 의혹 조사 결과 추후 비공개 의총서 보고\"",
+      "summary_original": "▲ 더불어민주당 김민석 대표가 26일 국회에서 열린 최고위원회의에서 한민수 최고위원의 '신천지 개입 의혹' 관련 발언을…",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815055",
+      "published": "2026-10-26T13:13:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "SBS",
+      "title_original": "북한, 유엔 안보리 의장에 서한 맞불…\"지뢰 폭발, 음흉한 방해 책동\"",
+      "summary_original": "▲ 22일 인천 강화군에서 바라본 북한 황해도 개풍군 접경 지역에서 북한 군인들이 전술도로 및 철책 건설 등 국경선 요새화 작업을 하…",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814330",
+      "published": "2026-10-26T13:11:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "SBS",
+      "title_original": "강신철 \"김정은 여러 의도 갖고 방중\"…북한, UN에 서한",
+      "summary_original": "국정감사 마지막 주인 오늘 국방부와 소관 기관을 상대로 국회의 종합감사가 시작됐습니다. 북한 지뢰 도발에 대한 군 당국의 대응과 전작권 전환 문제, 김정은 방중 등이 다뤄질 전망입니다.노동규 기자입니다.",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814970",
+      "published": "2026-10-26T12:14:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "SBS",
+      "title_original": "법사위 종합국감…대법관 재제청·오세훈 무죄 두고 격돌",
+      "summary_original": "국정감사가 막바지에 접어든 가운데, 오늘 국회 법제사법위원회 종합감사가 시작됐습니다. 여야가 조희대 대법원장 재재청 문제와 오세훈 서울시장 판결을 두고 다시 격돌했습니다.김혜민 기자가 보도합니다.",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814969",
+      "published": "2026-10-26T12:12:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "SBS",
+      "title_original": "청와대, '김 여사 골프' 주진우 인용 보도에 \"허위사실 유포 행위\"",
+      "summary_original": "▲ 청와대청와대가 오늘 이재명 대통령의 배우자 김혜경 여사가 서울 역삼동 화재 발생일 유명 프로골퍼와 골프를 쳤다는 국민의힘 주진우 …",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815018",
+      "published": "2026-10-26T12:11:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "SBS",
+      "title_original": "정점식 \"민주, 대법원장 탄핵안 기각 시 총사퇴…이 대통령, 정치적 탈옥 몸부림\"",
+      "summary_original": "▲ 국민의힘 정점식 원내대표가 26일 국회에서 열린 최고위원회의에서 발언하고 있다.국민의힘 정점식 원내대표가 더불어민주당의 조희대 대법원장 국정조사 추진에 대해 \"탄핵이 습관인 정당이니 국조 같은 꼼수를 쓸 바에는 당장 탄핵소추안을 발의하라\"며 \"탄핵안이 기각되면 민주당 지도부 총사퇴로 책임지고 국민 심판을 받으면 된다\"고 요구했습니다.정 원내대표는 오늘 국회에서 열린 최고위원회의에서 \"대법원장 국정조사는 정치적 간 보기다.",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814940",
+      "published": "2026-10-26T12:05:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "SBS",
+      "title_original": "민통선 넘어 GOP 철책 접근했다…30대 여성 신병 확보",
+      "summary_original": "▲ GOP 경계 근무 강원도 철원에서 민간인출입통제선을 무단으로 넘어 최전방 일반전초 철책까지 접근한 30대 여성이 군 당국에 붙잡혔…",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814793",
+      "published": "2026-10-26T12:05:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "YTN",
+      "title_original": "관객 춤춰 영업정지됐던 라이브 클럽, 다시 문 열어",
+      "summary_original": "관객 춤춰 영업정지됐던 라이브 클럽, 다시 문 열어 YTN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10X3FxY2lsWUpVSmkwTEdfeGk5VzBEem1zX1Rsd3lrNmlLV2NCQlpmX00ydzM4ZnV0VnplQXJaeThUaEoweFJHODJmelFEazMtck83VE1SNGxJLW05SFE?oc=5",
+      "published": "2026-10-26T13:56:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "YTN",
+      "title_original": "기후장관 \"AI 데이터센터 전력수요 생각보다 많지 않아\"",
+      "summary_original": "기후장관 \"AI 데이터센터 전력수요 생각보다 많지 않아\" YTN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YRnVPQ1EzR1hPQ1RuZ0xTbHlMYWpwWGplMnRFQ2xmMEhRX0dWMTNFUkd0bklHUWRNZnRSVTJKUUpLbkNQaG1RZ0tpNmhNRkpJTmpoNlFHMkFDLTZzSmc?oc=5",
+      "published": "2026-10-26T13:48:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "YTN",
+      "title_original": "'삼척바다수영대회' 참가비 가로챈 혐의 관계자 송치",
+      "summary_original": "'삼척바다수영대회' 참가비 가로챈 혐의 관계자 송치 YTN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55a2dNSkdHbFFpQm1PNmVBZ1ptd09vRThEMzFULVlPMFBCejdhUWx3UEVNRGRyUTZmejdPY1NtV1RhTGtjYUdEMmFGNk9ZWko5TXZ3MVYxRFl4Rkx6a1E?oc=5",
+      "published": "2026-10-26T13:44:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "YTN",
+      "title_original": "의왕 자동차 정비소에서 화재...\"도색 중 화재 추정\"",
+      "summary_original": "의왕 자동차 정비소에서 화재...\"도색 중 화재 추정\" YTN",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ra1BXVVR6YlJuX2ZHcTFXaGtqSmhmU2pjcXlXV0pOUXpvWFpMQkF4VmRvQmFiOUQ0dkUtUTJvWGtRTU1TTEN3Uk40Z1dTUy1maDJqcWNqYUM1dXAxYmlQM3JaRG1KUG1kQW84eVNwRQ?oc=5",
+      "published": "2026-10-26T13:38:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "YTN",
+      "title_original": "단독 경찰, 연쇄 방화범 살인미수 적용 가닥...범행 CCTV 공개",
+      "summary_original": "단독 경찰, 연쇄 방화범 살인미수 적용 가닥...범행 CCTV 공개 YTN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52U0g1YzBDZFZ6Xy04cFpaTjdQWGpIUU1CbllleUJTQlZubGlQN25PVWtQUXliQnZJQXpIdk1BVUFyVFdJbVVsM0xfTl84aWhUaDJWZkc1V1ZVSkZQTkE?oc=5",
+      "published": "2026-10-26T13:36:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "YTN",
+      "title_original": "선관위 특검, 모레 '올림픽공원 투표지' 임의검증...\"증감·위조 확인\"",
+      "summary_original": "선관위 특검, 모레 '올림픽공원 투표지' 임의검증...\"증감·위조 확인\" YTN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZZkdySGEzeGVUS25aT1lpejgtdWlPaWljdnpReDhyRXE3LXRlUDRaSGVFazRMVzRMTDVkYzQyNnozU3BONVczNDdGcTV0WlRIZkplTmlKM2VXVEtDSUE?oc=5",
+      "published": "2026-10-26T13:34:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "YTN",
+      "title_original": "LAFC, LA 더비 무승부...플레이오프 진출은 확정",
+      "summary_original": "LAFC, LA 더비 무승부...플레이오프 진출은 확정 YTN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XYUxOSTVYMV9INEFVQ2R1dzU5RzZKVXNTbjUzemZmbGhTclFRV2lSWGFXLUJTLUZFc3FqeW1GSmo1ZFVoUmUzSG5Xcm9QaVhIQ3hHV1BSNEs3X3RqX2c?oc=5",
+      "published": "2026-10-26T13:31:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "YTN",
+      "title_original": "시민단체, '농지 전수조사 강행' 송미령 경찰 고발",
+      "summary_original": "시민단체, '농지 전수조사 강행' 송미령 경찰 고발 YTN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12WHUwZndzWHZJa3NSVW5LNFVBZHdQc1FuYjBqR3BlbmRiYS1Gd2NlZmhuS0FRTlhJLWozZG1lLWNxZEFINThHYmxKeUJOSHNKT09SSk1sX2xwN2d1N3c?oc=5",
+      "published": "2026-10-26T13:30:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "JTBC",
+      "title_original": "10월 29일 (화) 뉴스룸 다시보기",
+      "summary_original": "시청자 여러분, JTBC 뉴스룸을 시작하겠습니다. 국정감사는 사실상 끝났습니다만, 김건희 여사 공천개입 의혹은 계속 이어지고 있습니다. 저희 뉴스룸은 김건희 여사가 언급되는 새로운 명태균 씨의 녹취를 확보했",
+      "url": "https://news.jtbc.co.kr/article/article.aspx?news_id=NB12220971",
+      "published": null,
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "JTBC",
+      "title_original": "[날씨] 전국 쾌청한 하늘…낮 동안은 따뜻해요",
+      "summary_original": "흐린 듯한 날씨에 구름이 볕을 가려주면서 종일 선선했는데요. 저녁까지 일부 수도권에는 약한 비도 내렸습니다.반면, 내일(30일)부터는 전국에 쾌청한 하늘이 드러나겠고요. 낮 기온도 20도를 넘어서면서 오늘보다",
+      "url": "https://news.jtbc.co.kr/article/article.aspx?news_id=NB12220969",
+      "published": null,
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "JTBC",
+      "title_original": "클로징",
+      "summary_original": "뉴스룸 저희가 준비한 소식은 여기까지입니다.시청해 주신 여러분 고맙습니다.",
+      "url": "https://news.jtbc.co.kr/article/article.aspx?news_id=NB12220968",
+      "published": null,
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "JTBC",
+      "title_original": "[오늘, 이 장면] 여기선 어떤 슛이? 왼발 아웃프런트킥 어때요",
+      "summary_original": "[디나모 자그레브 2:4 오시예크 (크로아티아 프로축구)]페널티지역 왼쪽을 파고듭니다.어떤 슛으로 골을 만들었을까요?여기서 왼발 아웃프런트킥으로 감아 찰 줄은 몰랐습니다.",
+      "url": "https://news.jtbc.co.kr/article/article.aspx?news_id=NB12220970",
+      "published": null,
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "JTBC",
+      "title_original": "'라커룸 문짝' 훼손 논란 김주형 \"좌절한 건 사실, 고의는 아냐\"",
+      "summary_original": "라커룸 옷장 문짝이 내려앉은 이 사진, 기억하시죠?연장 승부 끝에 우승을 놓친 김주형 선수가 옷장에 화풀이를 한 것 아니냔 논란이 일었습니다.어젯밤(28일) 김주형이 소셜미디어에 직접 해명 글을 올렸는데요.연",
+      "url": "https://news.jtbc.co.kr/article/article.aspx?news_id=NB12220973",
+      "published": null,
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "JTBC",
+      "title_original": "'2024 발롱도르' 로드리 품에…비니시우스 수상 불발에 '뒤끝'",
+      "summary_original": "세계에서 가장 축구를 잘하는 선수에게 주는 상, 바로 발롱도르죠.이 상은 한동안 메시와 호날두가 선점해 왔는데 올해는 달랐습니다.맨체스터 시티의 스페인 미드필더, 로드리에게 돌아갔는데요.어떤가요? 예상 밖",
+      "url": "https://news.jtbc.co.kr/article/article.aspx?news_id=NB12220984",
+      "published": null,
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "JTBC",
+      "title_original": "10월 29일 (화) 오대영 라이브 다시보기",
+      "summary_original": "반갑습니다. 오대영 라이브, 오대영입니다. 30조 원에 가까운 세수 펑크가 현실화 됐습니다. 원인은 둘째 치고 대책이 문제인데, 서민들 주택 청약까지 끌어다 쓰기로 해서 논란입니다. 명태균 씨가 등장하는 녹취",
+      "url": "https://news.jtbc.co.kr/article/article.aspx?news_id=NB12220923",
+      "published": null,
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "JTBC",
+      "title_original": "돌아온 오타니, 또 넘긴 프리먼…LA다저스 '1승'만 남았다",
+      "summary_original": "[앵커]LA다저스 오타니와 뉴욕 양키스 저지. 메이저리그 월드시리즈가 시작되자 모두가 이 두 선수만을 바라봤습니다. 그런데 진짜 주연은 LA다저스 프리먼이었는데요. 프리먼은 월드시리즈 3차전까지 홈런포를 계속",
+      "url": "https://news.jtbc.co.kr/article/article.aspx?news_id=NB12220974",
+      "published": null,
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "연합뉴스",
+      "title_original": "\"AI시대, 설비 투자로는 한계…'사람 투자'가 다음 성장 동력\"",
+      "summary_original": "(서울=연합뉴스) 옥성구 기자 = 인공지능(AI) 대전환 시대에 반도체 등 설비 투자만으로는 성장이 고용·소득으로 이어지지 않을 수 있는 만큼 ...",
+      "url": "https://www.yna.co.kr/view/AKR20261026041100530",
+      "published": "2026-10-26T14:00:05+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "연합뉴스",
+      "title_original": "충청권 교육감들 \"충청에도 국립 청소년디딤센터 설립해야\"",
+      "summary_original": "(공주=연합뉴스) 정윤덕 기자 = 충청권 교육감들이 국립 청소년디딤센터의 조속한 설립을 촉구하고 나섰다.",
+      "url": "https://www.yna.co.kr/view/AKR20261026074200063",
+      "published": "2026-10-26T14:00:04+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "연합뉴스",
+      "title_original": "여경협, 제주서 '여성CEO 경영연수'…여성경제인 1천500명 참석",
+      "summary_original": "(서울=연합뉴스) 이상서 기자 = 한국여성경제인협회는 26일 제주국제컨벤션센터에서 전국 여성경제인 1천500여명이 참석한 가운데 '2026 WE...",
+      "url": "https://www.yna.co.kr/view/AKR20261026049700030",
+      "published": "2026-10-26T14:00:04+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "연합뉴스",
+      "title_original": "[전국 주요 신문 톱뉴스](26일 석간)",
+      "summary_original": "▲ 내일신문(서울) = 국감마저 '유튜브 정치'로…해법 안 보인다",
+      "url": "https://www.yna.co.kr/view/AKR20261026091900011",
+      "published": "2026-10-26T14:00:03+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "연합뉴스",
+      "title_original": "[전국 주요 신문 사설](26일 석간)",
+      "summary_original": "▲ 내일신문 = 김정은의 깜짝 방중에 쏠린 특별한 시선",
+      "url": "https://www.yna.co.kr/view/AKR20261026092300011",
+      "published": "2026-10-26T14:00:03+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "연합뉴스",
+      "title_original": "박홍근 \"AI 활용해 재정 비효율 더 빠르고 정밀하게 걷어낼 것\"",
+      "summary_original": "(세종=연합뉴스) 이세원 기자 = 정부는 인공지능(AI)을 활용해 비효율적인 재정지출을 줄이고 민간의 목소리를 더 폭넓게 수용해 지출 합리화에 ...",
+      "url": "https://www.yna.co.kr/view/AKR20261026094500002",
+      "published": "2026-10-26T14:00:03+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "연합뉴스",
+      "title_original": "[인사] EBN",
+      "summary_original": "▲ 대표이사 사장 김영락 (서울=연합뉴스) (끝)",
+      "url": "https://www.yna.co.kr/view/AKR20261026073900505",
+      "published": "2026-10-26T13:59:45+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "연합뉴스",
+      "title_original": "\"퇴마하려면 성관계해야\" 제자 성폭행한 70대 무속인 징역 5년",
+      "summary_original": "(부산=연합뉴스) 손형주 기자 = 퇴마 의식을 해야 한다며 제자를 여러 차례 성폭행한 70대 무속인이자 승려에게 징역 5년이 선고됐다.",
+      "url": "https://www.yna.co.kr/view/AKR20261026086300051",
+      "published": "2026-10-26T13:58:03+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "한국경제TV",
+      "title_original": "셀트리온, 1천억원 규모 자사주 추가 매입",
+      "summary_original": "셀트리온, 1천억원 규모 자사주 추가 매입 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMUxROUsyZ000R0RLYUxDY1VuRzJIRkJrZ0VCckE5bmZOal9Vekd6RVJ4LTBGaXR5UTlWZlF2SER2VDFaZDRfUTNibGhBNW9COG9EdWd2cWxsU09hdXNnWl9kanJwWi1ZMWdUbUZzSGNZNFNnbkhhWFhGUGx0N2FSVw?oc=5",
+      "published": "2026-10-26T13:31:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "한국경제TV",
+      "title_original": "- 한국경제TV",
+      "summary_original": "한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMTNTMjFfLWlOX1pWbEpoSS1ZMWhBc1V1ejVFcE9FczJhOUdVODl6TWlELWN6THhCOGNpcWFyMU5fcW1hNjZFYUp3aGY3bUVPcEFSTE5uSGM4RGdIX3BvendTWG1tckVTeXF6UGlPT1VuLWFycXJVazFPU2pqVWdlZTltc3VVNU1vazVROFMtb1hFYVltV05DNUtyZXZJeEpaenlIbTFDX1otMmx6ckE?oc=5",
+      "published": "2026-10-26T13:24:15+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "한국경제TV",
+      "title_original": "BNK금융지주 3분기 영업이익 2천395억원…작년 동기 대비 37%↓",
+      "summary_original": "BNK금융지주 3분기 영업이익 2천395억원…작년 동기 대비 37%↓ 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV2txWjlnYTZzV0FyWVBKemItVkVfSUcyczhHbFk1Q3pKaEVfNlQxSS0zS29xaTdJX1laQjdpSlhjd3NCTXRGSXRyc3VhRHRLdnpoSmZyWXRQRkZUX3VuN2k0Y1ZKZ3hhMTNPc2JKWXhxd1YwWGlCeU1qekkxbm14Sg?oc=5",
+      "published": "2026-10-26T12:59:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "한국경제TV",
+      "title_original": "전기요금 밀려 ＇불 꺼질 판＇…홈플러스 6개 점포 휴업 위기",
+      "summary_original": "전기요금 밀려 ＇불 꺼질 판＇…홈플러스 6개 점포 휴업 위기 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11alJwMnVPSHhHU1Rfc2RWT3pGalNyM0RrQ3JFUmRCclFzSEw1MUdpRE16VUtFWWNSSGxwOGR4SHlmYnR5cDVPd0c1SHFYN1dYYjF0d0JyXzBpbmNHMlloYjRJMERoUk1UelRfZW1IaTFjQUw5MUZN?oc=5",
+      "published": "2026-10-26T12:39:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "한국경제TV",
+      "title_original": "- 한국경제TV",
+      "summary_original": "한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR1NoQjQwMjJQLWdsYkNTeGZ3WUw1dk0xX3JzVHc5WHdpVnRwOFFueEw5WEhITmlzVU9CWE5ZbzFSTVdRbjFNYllwNUVUakZpUVdsX01aV085cTZIN3VqM3FqZ3Vid3FHNEt1ZHhlV3ZYUEtrYUtCNXVlZHNQSVVGcS1oRndMQllpTEVaV2VTTTEwbGdrcklCMHBjZXFGVVVkOVNMSDRZU2FxR0RVNUNBU1M0VnBneDlKcUVBNUp4RWtjdGFma29yVEM1Y2NpaGgzckE?oc=5",
+      "published": "2026-10-26T12:18:41+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "한국경제TV",
+      "title_original": "광운대 정보과학교육원, 학평·수능 미반영 면접전형 선발",
+      "summary_original": "광운대 정보과학교육원, 학평·수능 미반영 면접전형 선발 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XUk5fdS1uQU0yYkc5RTlaUERvZk9jcE55RVlTaTZqZi1KOXQ4VTBuY2FPd1dmYzhCb0pCMThzSTFCMmx2N2hSNXNxa1hhTFR2a3dXcmVlX3J1cjFiR3pNcXZnazl0TGR0aU00TElSU0JVUWl3Sllj?oc=5",
+      "published": "2026-10-26T12:16:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "한국경제TV",
+      "title_original": "스케쳐스코리아, 스포츠 통한 사회공헌 활동 전개...‘2026 SKECHERS FRIENDSHIP DAY’ 개최",
+      "summary_original": "스케쳐스코리아, 스포츠 통한 사회공헌 활동 전개...‘2026 SKECHERS FRIENDSHIP DAY’ 개최 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zV2RqQnJGd05UREtYMHUwMmV6YXpLLTY3dElkdUljdlREVGVZdkFFVG5JUFVuZkw2N3hoSm5VanRqNlFOV2NQblhnYjZaX2ZDc2VDOF9kNDhDcXhXTXBCa3IyOGZ3LUhXUkxmZGlwYkZIMzhIV3Nj?oc=5",
+      "published": "2026-10-26T12:10:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "한국경제TV",
+      "title_original": "中관영매체 ＂미군, 中명절 전후 분쟁해역서 활동…악의적 의도＂",
+      "summary_original": "中관영매체 ＂미군, 中명절 전후 분쟁해역서 활동…악의적 의도＂ 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcnRzTTV4Yks1bE54UmU0YnZpSWdaNVRCTzg5QnhOaW5HcjlTekZ0ZnVaR0hHaUg5RzBJMmI0aGdhSG9raGJUUWhRZ1ZGY2EzNGltVEZxNEZNS1JQeVctSmlYNXdncWs0RWE3WV9lbUpwbERHVDAyZkh1a3owSHM2WA?oc=5",
+      "published": "2026-10-26T12:09:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    }
+  ],
+  "unavailable_sources": [],
+  "errors": {}
+}
