@@ -79,17 +79,28 @@ def parse_feed(data):
     return [i for i in out if i["title"]]
 
 
+def read_feed(url):
+    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/xml, text/xml, */*"})
+    with urllib.request.urlopen(req, timeout=20) as resp:
+        return parse_feed(resp.read())
+
+
 def fetch(source, limit, since):
     result = {k: source.get(k) for k in ("name", "type", "url", "homepage", "note") if source.get(k)}
-    try:
-        req = urllib.request.Request(source["url"], headers={"User-Agent": UA})
-        with urllib.request.urlopen(req, timeout=20) as resp:
-            items = parse_feed(resp.read())
+    errors = []
+    for url in filter(None, (source["url"], source.get("fallback"))):
+        try:
+            items = read_feed(url)
+        except Exception as e:  # noqa: BLE001 - 매체별 실패는 기록만 하고 계속 진행
+            errors.append(f"{type(e).__name__}: {e}")
+            continue
         if since:
             items = [i for i in items if not i["published"] or dt.datetime.fromisoformat(i["published"]) >= since]
+        if url != source["url"]:
+            result["via"] = "google-news-fallback"
         result.update(ok=True, items=items[:limit])
-    except Exception as e:  # noqa: BLE001 - 매체별 실패는 기록만 하고 계속 진행
-        result.update(ok=False, error=f"{type(e).__name__}: {e}", items=[])
+        return result
+    result.update(ok=False, error=" | ".join(errors), items=[])
     return result
 
 
