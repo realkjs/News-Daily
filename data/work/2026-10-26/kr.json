@@ -1,69 +1,1490 @@
 {
   "team": "kr",
   "headlines": [
-    {"source": "KBS", "title_original": "울산 장생포 부두서 선박 세척용 황산 누출…4명 가스 흡입", "title_ko": "울산 장생포 부두서 선박 세척용 황산 누출…4명 가스 흡입", "summary_ko": "울산 장생포 부두에서 선박 세척용 황산이 누출돼 4명이 가스를 흡입했다.", "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xaG5zcGlVYWVsMkxOcEtMS1VhdDQwSDhDRjdfNWZwTGVBTEJWTG51bklMQm5NbE1XYlB6WGtFWVI3TG5DSGxlb19qX3lwUHRDX3NVVE5IYXV1OWVESGNCRHRRb2lnUQ?oc=5", "published": "2026-10-26T14:04:00+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "KBS", "title_original": "‘지각 태풍’ 가고 ‘이른 추위’ 또 온다", "title_ko": "'지각 태풍' 지나가고 '이른 추위' 또 온다", "summary_ko": "늦가을 태풍이 지나간 뒤 이른 추위가 다시 찾아온다는 날씨 보도.", "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91NU16bVl5SDNnQlNCQXZ2cUoyUmxseGNGNTlJZHFOWjFXYmlBenVtbUFMQW1DTzdzeG13SHptWVdiOEhPYmdwUWdabkVRRXA5VWgtMUJ5N2hqbzQ?oc=5", "published": "2026-10-26T14:02:00+09:00", "tags": [], "event": "cold-snap-2026-10", "state_media": false},
-    {"source": "KBS", "title_original": "김수현 측 “故김새론 모친 등 공소청 송치…명예훼손 등 혐의”", "title_ko": "김수현 측 \"고 김새론 모친 등 공소청 송치…명예훼손 등 혐의\"", "summary_ko": "배우 김수현 측이 고 김새론 씨 모친 등이 명예훼손 등의 혐의로 공소청에 송치됐다고 밝혔다.", "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PbEtFaUZwcFdRNjlNbmJZM1duTVR6eHhpSHBuVnBhVWR6b1hBUlhEcXQ0NVQ4SzZZZmQwUF9wcjRxbTJjdEVXeUhJTzh4dWRscE5zX1oxZnRqVzg?oc=5", "published": "2026-10-26T13:46:00+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "KBS", "title_original": "‘올 시즌 NBA 최다 52점’ 돈치치 앞세운 레이커스, 개막 3연승", "title_ko": "'올 시즌 NBA 최다 52점' 돈치치 앞세운 레이커스, 개막 3연승", "summary_ko": "레이커스가 돈치치의 시즌 최다 52득점을 앞세워 개막 3연승을 기록했다.", "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKbnVyRTNXbjB2ZWZSMjl3dTR0T2NxVkNNTUFmSEdCcGRtekt4Y3MxTy0yY1RTLWdTVUttWXpNblMyUXVaeEItak5aZXkzaS1LTU1mSnZOSEdabUk?oc=5", "published": "2026-10-26T13:41:00+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "KBS", "title_original": "‘라방’하다 구독자 살해 협박한 인터넷방송인 구속영장", "title_ko": "'라방' 중 구독자 살해 협박한 인터넷방송인 구속영장", "summary_ko": "라이브 방송 중 구독자를 살해하겠다고 협박한 인터넷 방송인에 대해 구속영장이 신청됐다.", "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QSmVxS2FreWFVMWUzZUp6eDRDenZ6WnVtZ2kyQnY3OVlxUG1pNHhwTjNEY1FLN2Frb0FLRGg3QnJKYUlGYmFLZlJnZ2VUUF9LWWlES2p6TzNSNms?oc=5", "published": "2026-10-26T13:36:00+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "KBS", "title_original": "내일부터 기온 ‘뚝 뚝’…모레 아침 서울 2도", "title_ko": "내일부터 기온 '뚝뚝'…모레 아침 서울 2도", "summary_ko": "27일부터 기온이 떨어져 모레 아침 서울 기온이 2도까지 내려간다.", "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vOHFycHdoWC1JdVM3ZHhMa1NpTkc3RXJwdldmbDZLeU9OSW9MbElsVXpkeHJuREhieGo4SlpFcnhRZkxWRXdqQTRxUUs1cHkyN2R1RzdqdzB0bWs?oc=5", "published": "2026-10-26T12:08:00+09:00", "tags": [], "event": "cold-snap-2026-10", "state_media": false},
-    {"source": "KBS", "title_original": "통일부 “김정은 단둥 방문, 한반도 주변국 대화 재개에 기여하길”", "title_ko": "통일부 \"김정은 단둥 방문, 한반도 주변국 대화 재개에 기여하길\"", "summary_ko": "통일부가 김정은 국무위원장의 중국 단둥 방문이 한반도 주변국 간 대화 재개에 기여하기를 바란다고 밝혔다.", "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UYTJVV2FmVDZiTDJOQkFmalZycXJ4Y1Y4MlN2UTZ3VWYwckQ0TlNtSWN5TnZpVF9OSFFIMnF0SVBISlE5ZnBMOTVYVlltN2FhdVZxeDdxbkIyWVk?oc=5", "published": "2026-10-26T11:50:00+09:00", "tags": ["geopolitics"], "event": "kim-jong-un-china-visit", "state_media": false},
-    {"source": "KBS", "title_original": "진도서 빈집 철거 중 담벼락 무너져…60대 작업자 숨져", "title_ko": "진도서 빈집 철거 중 담벼락 무너져…60대 작업자 숨져", "summary_ko": "진도에서 빈집 철거 작업 중 담벼락이 무너져 60대 작업자가 숨졌다.", "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZdUJoYlNOTDRjcmlMV3BnZC1Qb3RpVFlNQ01UX0xkbE9QZWhtQVZmLTBMc0FVbTZtVmZ3RmQyWENkMmcyZU8temt1dlhveUd6ODBuYkU1a2hhV2c?oc=5", "published": "2026-10-26T11:43:00+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "MBC", "title_original": "2026년 10월 26일 13시뉴스", "title_ko": "2026년 10월 26일 13시 뉴스", "summary_ko": "MBC 13시 뉴스 방송 회차(개별 기사 내용 없음).", "url": "", "published": "2026-10-26T13:00:00+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "MBC", "title_original": "2026년 10월 26일 12시뉴스", "title_ko": "2026년 10월 26일 12시 뉴스", "summary_ko": "MBC 12시 뉴스 방송 회차(개별 기사 내용 없음).", "url": "", "published": "2026-10-26T12:00:00+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "MBC", "title_original": "2026년 10월 26일 11시뉴스", "title_ko": "2026년 10월 26일 11시 뉴스", "summary_ko": "MBC 11시 뉴스 방송 회차(개별 기사 내용 없음).", "url": "", "published": "2026-10-26T11:00:00+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "MBC", "title_original": "2026년 10월 26일 10시뉴스", "title_ko": "2026년 10월 26일 10시 뉴스", "summary_ko": "MBC 10시 뉴스 방송 회차(개별 기사 내용 없음).", "url": "", "published": "2026-10-26T10:00:00+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "MBC", "title_original": "2026년 10월 26일 9시뉴스", "title_ko": "2026년 10월 26일 9시 뉴스", "summary_ko": "MBC 9시 뉴스 방송 회차(개별 기사 내용 없음).", "url": "", "published": "2026-10-26T09:00:00+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "MBC", "title_original": "2026년 10월 26일 7시뉴스", "title_ko": "2026년 10월 26일 7시 뉴스", "summary_ko": "MBC 7시 뉴스 방송 회차(개별 기사 내용 없음).", "url": "", "published": "2026-10-26T07:00:00+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "MBC", "title_original": "2026년 10월 26일 6시뉴스", "title_ko": "2026년 10월 26일 6시 뉴스", "summary_ko": "MBC 6시 뉴스 방송 회차(개별 기사 내용 없음).", "url": "", "published": "2026-10-26T06:00:00+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "MBC", "title_original": "2026년 10월 25일 23시뉴스", "title_ko": "2026년 10월 25일 23시 뉴스", "summary_ko": "MBC 23시 뉴스 방송 회차(개별 기사 내용 없음).", "url": "", "published": "2026-10-25T23:00:00+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "SBS", "title_original": "민주 \"'오세훈 무죄' 조희대 탄핵이 답\"…국힘 \"비상식적인 이야기\"", "title_ko": "민주 \"'오세훈 무죄' 조희대 탄핵이 답\"…국힘 \"비상식적인 이야기\"", "summary_ko": "국회 법사위 마지막 국정감사에서 오세훈 서울시장의 명태균 여론조사비 대납 의혹 항소심 무죄를 두고 여야가 충돌했다. 민주당은 사법부와 조희대 대법원장을 비판했고 국민의힘은 이재명 대통령 재판부터 재개하라고 맞섰다.", "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815087", "published": "2026-10-26T13:41:00+09:00", "tags": ["legislation"], "event": "oh-sehoon-acquittal-judiciary-clash", "state_media": false},
-    {"source": "SBS", "title_original": "민주당 \"신천지 의혹 조사 결과 추후 비공개 의총서 보고\"", "title_ko": "민주당 \"신천지 의혹 조사 결과 추후 비공개 의총서 보고\"", "summary_ko": "김민석 대표가 최고위원회의에서 한민수 최고위원의 '신천지 개입 의혹' 관련 발언을 언급했고, 조사 결과는 추후 비공개 의원총회에서 보고하기로 했다.", "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815055", "published": "2026-10-26T13:13:00+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "SBS", "title_original": "북한, 유엔 안보리 의장에 서한 맞불…\"지뢰 폭발, 음흉한 방해 책동\"", "title_ko": "북한, 유엔 안보리 의장에 서한 맞불…\"지뢰 폭발, 음흉한 방해 책동\"", "summary_ko": "북한이 유엔 안보리 의장에게 서한을 보내 지뢰 폭발 관련 주장을 '음흉한 방해 책동'이라고 반발했다.", "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814330", "published": "2026-10-26T13:11:00+09:00", "tags": ["geopolitics"], "event": "nk-landmine-un-letter", "state_media": false},
-    {"source": "SBS", "title_original": "강신철 \"김정은 여러 의도 갖고 방중\"…북한, UN에 서한", "title_ko": "강신철 \"김정은 여러 의도 갖고 방중\"…북한, UN에 서한", "summary_ko": "국방부 종합감사가 시작돼 북한 지뢰 도발 대응, 전작권 전환, 김정은 방중 등이 다뤄질 전망이며, 강신철 측은 김정은이 여러 의도를 갖고 방중했다고 밝혔다.", "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814970", "published": "2026-10-26T12:14:00+09:00", "tags": ["geopolitics"], "event": "kim-jong-un-china-visit", "state_media": false},
-    {"source": "SBS", "title_original": "법사위 종합국감…대법관 재제청·오세훈 무죄 두고 격돌", "title_ko": "법사위 종합국감…대법관 재제청·오세훈 무죄 두고 격돌", "summary_ko": "국회 법사위 종합감사에서 여야가 조희대 대법원장 재제청 문제와 오세훈 서울시장 판결을 두고 다시 격돌했다.", "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814969", "published": "2026-10-26T12:12:00+09:00", "tags": ["legislation"], "event": "oh-sehoon-acquittal-judiciary-clash", "state_media": false},
-    {"source": "SBS", "title_original": "청와대, '김 여사 골프' 주진우 인용 보도에 \"허위사실 유포 행위\"", "title_ko": "청와대, '김 여사 골프' 주진우 인용 보도에 \"허위사실 유포 행위\"", "summary_ko": "청와대는 김혜경 여사가 서울 역삼동 화재 발생일에 유명 프로골퍼와 골프를 쳤다는 국민의힘 주진우 의원 주장 인용 보도를 허위사실 유포라고 반박했다.", "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815018", "published": "2026-10-26T12:11:00+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "SBS", "title_original": "정점식 \"민주, 대법원장 탄핵안 기각 시 총사퇴…이 대통령, 정치적 탈옥 몸부림\"", "title_ko": "정점식 \"민주, 대법원장 탄핵안 기각 시 총사퇴…이 대통령, 정치적 탈옥 몸부림\"", "summary_ko": "국민의힘 정점식 원내대표는 민주당의 조희대 대법원장 국정조사 추진을 꼼수라며 당장 탄핵소추안을 발의하라고 요구하고, 기각되면 민주당 지도부가 총사퇴하라고 촉구했다.", "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814940", "published": "2026-10-26T12:05:00+09:00", "tags": ["legislation"], "event": "oh-sehoon-acquittal-judiciary-clash", "state_media": false},
-    {"source": "SBS", "title_original": "민통선 넘어 GOP 철책 접근했다…30대 여성 신병 확보", "title_ko": "민통선 넘어 GOP 철책 접근했다…30대 여성 신병 확보", "summary_ko": "강원도 철원에서 민간인출입통제선을 무단으로 넘어 최전방 GOP 철책까지 접근한 30대 여성이 군 당국에 붙잡혔다.", "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814793", "published": "2026-10-26T12:05:00+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "YTN", "title_original": "관객 춤춰 영업정지됐던 라이브 클럽, 다시 문 열어", "title_ko": "관객 춤춰 영업정지됐던 라이브 클럽, 다시 문 열어", "summary_ko": "관객이 춤을 춰 영업정지됐던 라이브 클럽이 다시 문을 열었다.", "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10X3FxY2lsWUpVSmkwTEdfeGk5VzBEem1zX1Rsd3lrNmlLV2NCQlpmX00ydzM4ZnV0VnplQXJaeThUaEoweFJHODJmelFEazMtck83VE1SNGxJLW05SFE?oc=5", "published": "2026-10-26T13:56:00+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "YTN", "title_original": "기후장관 \"AI 데이터센터 전력수요 생각보다 많지 않아\"", "title_ko": "기후장관 \"AI 데이터센터 전력수요 생각보다 많지 않아\"", "summary_ko": "기후에너지환경부 장관이 AI 데이터센터의 전력 수요가 생각보다 많지 않다고 밝혔다.", "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YRnVPQ1EzR1hPQ1RuZ0xTbHlMYWpwWGplMnRFQ2xmMEhRX0dWMTNFUkd0bklHUWRNZnRSVTJKUUpLbkNQaG1RZ0tpNmhNRkpJTmpoNlFHMkFDLTZzSmc?oc=5", "published": "2026-10-26T13:48:00+09:00", "tags": ["industry", "forecast"], "event": "", "state_media": false},
-    {"source": "YTN", "title_original": "'삼척바다수영대회' 참가비 가로챈 혐의 관계자 송치", "title_ko": "'삼척바다수영대회' 참가비 가로챈 혐의 관계자 송치", "summary_ko": "삼척바다수영대회 참가비를 가로챈 혐의를 받는 관계자가 검찰에 송치됐다.", "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55a2dNSkdHbFFpQm1PNmVBZ1ptd09vRThEMzFULVlPMFBCejdhUWx3UEVNRGRyUTZmejdPY1NtV1RhTGtjYUdEMmFGNk9ZWko5TXZ3MVYxRFl4Rkx6a1E?oc=5", "published": "2026-10-26T13:44:00+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "YTN", "title_original": "의왕 자동차 정비소에서 화재...\"도색 중 화재 추정\"", "title_ko": "의왕 자동차 정비소 화재...\"도색 중 화재 추정\"", "summary_ko": "의왕의 자동차 정비소에서 불이 났으며 도색 작업 중 발생한 것으로 추정된다.", "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ra1BXVVR6YlJuX2ZHcTFXaGtqSmhmU2pjcXlXV0pOUXpvWFpMQkF4VmRvQmFiOUQ0dkUtUTJvWGtRTU1TTEN3Uk40Z1dTUy1maDJqcWNqYUM1dXAxYmlQM3JaRG1KUG1kQW84eVNwRQ?oc=5", "published": "2026-10-26T13:38:00+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "YTN", "title_original": "단독 경찰, 연쇄 방화범 살인미수 적용 가닥...범행 CCTV 공개", "title_ko": "[단독] 경찰, 연쇄 방화범 살인미수 적용 가닥...범행 CCTV 공개", "summary_ko": "경찰이 연쇄 방화범에게 살인미수 혐의를 적용하는 방향으로 가닥을 잡았고 범행 CCTV가 공개됐다.", "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52U0g1YzBDZFZ6Xy04cFpaTjdQWGpIUU1CbllleUJTQlZubGlQN25PVWtQUXliQnZJQXpIdk1BVUFyVFdJbVVsM0xfTl84aWhUaDJWZkc1V1ZVSkZQTkE?oc=5", "published": "2026-10-26T13:36:00+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "YTN", "title_original": "선관위 특검, 모레 '올림픽공원 투표지' 임의검증...\"증감·위조 확인\"", "title_ko": "선관위 특검, 모레 '올림픽공원 투표지' 임의검증...\"증감·위조 확인\"", "summary_ko": "선관위 특검이 모레 올림픽공원 투표지에 대한 임의검증을 실시해 증감·위조 여부를 확인한다.", "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZZkdySGEzeGVUS25aT1lpejgtdWlPaWljdnpReDhyRXE3LXRlUDRaSGVFazRMVzRMTDVkYzQyNnozU3BONVczNDdGcTV0WlRIZkplTmlKM2VXVEtDSUE?oc=5", "published": "2026-10-26T13:34:00+09:00", "tags": ["legislation"], "event": "", "state_media": false},
-    {"source": "YTN", "title_original": "LAFC, LA 더비 무승부...플레이오프 진출은 확정", "title_ko": "LAFC, LA 더비 무승부...플레이오프 진출 확정", "summary_ko": "LAFC가 LA 더비에서 무승부를 기록했으며 플레이오프 진출은 확정했다.", "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XYUxOSTVYMV9INEFVQ2R1dzU5RzZKVXNTbjUzemZmbGhTclFRV2lSWGFXLUJTLUZFc3FqeW1GSmo1ZFVoUmUzSG5Xcm9QaVhIQ3hHV1BSNEs3X3RqX2c?oc=5", "published": "2026-10-26T13:31:00+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "YTN", "title_original": "시민단체, '농지 전수조사 강행' 송미령 경찰 고발", "title_ko": "시민단체, '농지 전수조사 강행' 송미령 경찰 고발", "summary_ko": "시민단체가 농지 전수조사를 강행했다며 송미령을 경찰에 고발했다.", "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12WHUwZndzWHZJa3NSVW5LNFVBZHdQc1FuYjBqR3BlbmRiYS1Gd2NlZmhuS0FRTlhJLWozZG1lLWNxZEFINThHYmxKeUJOSHNKT09SSk1sX2xwN2d1N3c?oc=5", "published": "2026-10-26T13:30:00+09:00", "tags": ["legislation"], "event": "", "state_media": false},
-    {"source": "JTBC", "title_original": "10월 29일 (화) 뉴스룸 다시보기", "title_ko": "10월 29일(화) 뉴스룸 다시보기", "summary_ko": "국정감사는 사실상 끝났지만 김건희 여사 공천개입 의혹은 이어지고 있으며, 김건희 여사가 언급되는 새로운 명태균 씨 녹취를 확보했다는 내용. 기사 날짜(10월 29일)가 수집일과 달라 이전 회차 콘텐츠로 보임.", "url": "https://news.jtbc.co.kr/article/article.aspx?news_id=NB12220971", "published": null, "tags": [], "event": "myung-taegyun-kim-gunhee-recording", "state_media": false},
-    {"source": "JTBC", "title_original": "[날씨] 전국 쾌청한 하늘…낮 동안은 따뜻해요", "title_ko": "[날씨] 전국 쾌청한 하늘…낮 동안은 따뜻해요", "summary_ko": "종일 선선했고 일부 수도권에 약한 비가 내렸으며, 내일(30일)부터 전국이 쾌청하고 낮 기온이 20도를 넘는다는 예보. 본문 날짜가 수집일과 달라 이전 회차 콘텐츠로 보임.", "url": "https://news.jtbc.co.kr/article/article.aspx?news_id=NB12220969", "published": null, "tags": [], "event": "", "state_media": false},
-    {"source": "JTBC", "title_original": "클로징", "title_ko": "클로징", "summary_ko": "뉴스룸 마무리 인사.", "url": "https://news.jtbc.co.kr/article/article.aspx?news_id=NB12220968", "published": null, "tags": [], "event": "", "state_media": false},
-    {"source": "JTBC", "title_original": "[오늘, 이 장면] 여기선 어떤 슛이? 왼발 아웃프런트킥 어때요", "title_ko": "[오늘, 이 장면] 여기선 어떤 슛이? 왼발 아웃프런트킥 어때요", "summary_ko": "크로아티아 프로축구 디나모 자그레브 2:4 오시예크 경기의 득점 장면(왼발 아웃프런트킥) 소개.", "url": "https://news.jtbc.co.kr/article/article.aspx?news_id=NB12220970", "published": null, "tags": [], "event": "", "state_media": false},
-    {"source": "JTBC", "title_original": "'라커룸 문짝' 훼손 논란 김주형 \"좌절한 건 사실, 고의는 아냐\"", "title_ko": "'라커룸 문짝' 훼손 논란 김주형 \"좌절한 건 사실, 고의는 아냐\"", "summary_ko": "연장 승부 끝에 우승을 놓친 김주형이 라커룸 옷장 문짝 훼손 논란에 대해 SNS에 해명 글을 올렸다.", "url": "https://news.jtbc.co.kr/article/article.aspx?news_id=NB12220973", "published": null, "tags": [], "event": "", "state_media": false},
-    {"source": "JTBC", "title_original": "'2024 발롱도르' 로드리 품에…비니시우스 수상 불발에 '뒤끝'", "title_ko": "'2024 발롱도르' 로드리 수상…비니시우스 수상 불발에 '뒤끝'", "summary_ko": "맨체스터 시티의 로드리가 2024 발롱도르를 수상했고 비니시우스는 수상이 불발됐다. 기사 내용이 2024년 사안으로 보임.", "url": "https://news.jtbc.co.kr/article/article.aspx?news_id=NB12220984", "published": null, "tags": [], "event": "", "state_media": false},
-    {"source": "JTBC", "title_original": "10월 29일 (화) 오대영 라이브 다시보기", "title_ko": "10월 29일(화) 오대영 라이브 다시보기", "summary_ko": "30조 원에 가까운 세수 펑크가 현실화돼 서민 주택 청약까지 끌어다 쓰는 대책이 논란이며, 명태균 씨 녹취도 다룬다. 기사 날짜가 수집일과 달라 이전 회차 콘텐츠로 보임.", "url": "https://news.jtbc.co.kr/article/article.aspx?news_id=NB12220923", "published": null, "tags": ["business"], "event": "myung-taegyun-kim-gunhee-recording", "state_media": false},
-    {"source": "JTBC", "title_original": "돌아온 오타니, 또 넘긴 프리먼…LA다저스 '1승'만 남았다", "title_ko": "돌아온 오타니, 또 넘긴 프리먼…LA다저스 '1승'만 남았다", "summary_ko": "월드시리즈 3차전까지 프리먼이 홈런을 이어가며 LA 다저스가 우승까지 1승만 남겼다. 기사 내용이 이전 시즌 사안으로 보임.", "url": "https://news.jtbc.co.kr/article/article.aspx?news_id=NB12220974", "published": null, "tags": [], "event": "", "state_media": false},
-    {"source": "연합뉴스", "title_original": "\"AI시대, 설비 투자로는 한계…'사람 투자'가 다음 성장 동력\"", "title_ko": "\"AI 시대, 설비 투자로는 한계…'사람 투자'가 다음 성장 동력\"", "summary_ko": "AI 대전환 시대에 반도체 등 설비 투자만으로는 성장이 고용·소득으로 이어지지 않을 수 있어 사람에 대한 투자가 필요하다는 주장.", "url": "https://www.yna.co.kr/view/AKR20261026041100530", "published": "2026-10-26T14:00:05+09:00", "tags": ["industry", "forecast"], "event": "", "state_media": false},
-    {"source": "연합뉴스", "title_original": "충청권 교육감들 \"충청에도 국립 청소년디딤센터 설립해야\"", "title_ko": "충청권 교육감들 \"충청에도 국립 청소년디딤센터 설립해야\"", "summary_ko": "충청권 교육감들이 국립 청소년디딤센터의 조속한 설립을 촉구했다.", "url": "https://www.yna.co.kr/view/AKR20261026074200063", "published": "2026-10-26T14:00:04+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "연합뉴스", "title_original": "여경협, 제주서 '여성CEO 경영연수'…여성경제인 1천500명 참석", "title_ko": "여경협, 제주서 '여성CEO 경영연수'…여성경제인 1천500명 참석", "summary_ko": "한국여성경제인협회가 26일 제주국제컨벤션센터에서 전국 여성경제인 1천500여 명이 참석한 경영연수를 열었다.", "url": "https://www.yna.co.kr/view/AKR20261026049700030", "published": "2026-10-26T14:00:04+09:00", "tags": ["business"], "event": "", "state_media": false},
-    {"source": "연합뉴스", "title_original": "[전국 주요 신문 톱뉴스](26일 석간)", "title_ko": "[전국 주요 신문 톱뉴스](26일 석간)", "summary_ko": "전국 주요 신문 1면 요약. 내일신문은 '국감마저 유튜브 정치…해법 안 보인다'를 톱으로 실었다.", "url": "https://www.yna.co.kr/view/AKR20261026091900011", "published": "2026-10-26T14:00:03+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "연합뉴스", "title_original": "[전국 주요 신문 사설](26일 석간)", "title_ko": "[전국 주요 신문 사설](26일 석간)", "summary_ko": "전국 주요 신문 사설 요약. 내일신문 사설은 '김정은의 깜짝 방중에 쏠린 특별한 시선'.", "url": "https://www.yna.co.kr/view/AKR20261026092300011", "published": "2026-10-26T14:00:03+09:00", "tags": ["geopolitics"], "event": "kim-jong-un-china-visit", "state_media": false},
-    {"source": "연합뉴스", "title_original": "박홍근 \"AI 활용해 재정 비효율 더 빠르고 정밀하게 걷어낼 것\"", "title_ko": "박홍근 \"AI 활용해 재정 비효율 더 빠르고 정밀하게 걷어낼 것\"", "summary_ko": "정부가 AI를 활용해 비효율적 재정지출을 줄이고 민간 의견을 폭넓게 수용해 지출 합리화에 나선다는 발언.", "url": "https://www.yna.co.kr/view/AKR20261026094500002", "published": "2026-10-26T14:00:03+09:00", "tags": ["legislation"], "event": "", "state_media": false},
-    {"source": "연합뉴스", "title_original": "[인사] EBN", "title_ko": "[인사] EBN", "summary_ko": "EBN 대표이사 사장에 김영락.", "url": "https://www.yna.co.kr/view/AKR20261026073900505", "published": "2026-10-26T13:59:45+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "연합뉴스", "title_original": "\"퇴마하려면 성관계해야\" 제자 성폭행한 70대 무속인 징역 5년", "title_ko": "\"퇴마하려면 성관계해야\" 제자 성폭행한 70대 무속인 징역 5년", "summary_ko": "퇴마 의식을 명목으로 제자를 여러 차례 성폭행한 70대 무속인 겸 승려에게 징역 5년이 선고됐다.", "url": "https://www.yna.co.kr/view/AKR20261026086300051", "published": "2026-10-26T13:58:03+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "한국경제TV", "title_original": "셀트리온, 1천억원 규모 자사주 추가 매입", "title_ko": "셀트리온, 1천억원 규모 자사주 추가 매입", "summary_ko": "셀트리온이 1천억 원 규모의 자사주를 추가 매입한다.", "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMUxROUsyZ000R0RLYUxDY1VuRzJIRkJrZ0VCckE5bmZOal9Vekd6RVJ4LTBGaXR5UTlWZlF2SER2VDFaZDRfUTNibGhBNW9COG9EdWd2cWxsU09hdXNnWl9kanJwWi1ZMWdUbUZzSGNZNFNnbkhhWFhGUGx0N2FSVw?oc=5", "published": "2026-10-26T13:31:00+09:00", "tags": ["stocks", "business"], "event": "", "state_media": false},
-    {"source": "한국경제TV", "title_original": "- 한국경제TV", "title_ko": "(제목 없음) 한국경제TV", "summary_ko": "제목이 비어 있어 내용 확인 불가.", "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMTNTMjFfLWlOX1pWbEpoSS1ZMWhBc1V1ejVFcE9FczJhOUdVODl6TWlELWN6THhCOGNpcWFyMU5fcW1hNjZFYUp3aGY3bUVPcEFSTE5uSGM4RGdIX3BvendTWG1tckVTeXF6UGlPT1VuLWFycXJVazFPU2pqVWdlZTltc3VVNU1vazVROFMtb1hFYVltV05DNUtyZXZJeEpaenlIbTFDX1otMmx6ckE?oc=5", "published": "2026-10-26T13:24:15+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "한국경제TV", "title_original": "BNK금융지주 3분기 영업이익 2천395억원…작년 동기 대비 37%↓", "title_ko": "BNK금융지주 3분기 영업이익 2천395억원…작년 동기 대비 37%↓", "summary_ko": "BNK금융지주의 3분기 영업이익이 2천395억 원으로 전년 동기보다 37% 감소했다.", "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV2txWjlnYTZzV0FyWVBKemItVkVfSUcyczhHbFk1Q3pKaEVfNlQxSS0zS29xaTdJX1laQjdpSlhjd3NCTXRGSXRyc3VhRHRLdnpoSmZyWXRQRkZUX3VuN2k0Y1ZKZ3hhMTNPc2JKWXhxd1YwWGlCeU1qekkxbm14Sg?oc=5", "published": "2026-10-26T12:59:00+09:00", "tags": ["business", "stocks"], "event": "", "state_media": false},
-    {"source": "한국경제TV", "title_original": "전기요금 밀려 ＇불 꺼질 판＇…홈플러스 6개 점포 휴업 위기", "title_ko": "전기요금 밀려 '불 꺼질 판'…홈플러스 6개 점포 휴업 위기", "summary_ko": "전기요금이 밀려 홈플러스 6개 점포가 휴업 위기에 놓였다.", "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11alJwMnVPSHhHU1Rfc2RWT3pGalNyM0RrQ3JFUmRCclFzSEw1MUdpRE16VUtFWWNSSGxwOGR4SHlmYnR5cDVPd0c1SHFYN1dYYjF0d0JyXzBpbmNHMlloYjRJMERoUk1UelRfZW1IaTFjQUw5MUZN?oc=5", "published": "2026-10-26T12:39:00+09:00", "tags": ["business"], "event": "", "state_media": false},
-    {"source": "한국경제TV", "title_original": "- 한국경제TV", "title_ko": "(제목 없음) 한국경제TV", "summary_ko": "제목이 비어 있어 내용 확인 불가.", "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR1NoQjQwMjJQLWdsYkNTeGZ3WUw1dk0xX3JzVHc5WHdpVnRwOFFueEw5WEhITmlzVU9CWE5ZbzFSTVdRbjFNYllwNUVUakZpUVdsX01aV085cTZIN3VqM3FqZ3Vid3FHNEt1ZHhlV3ZYUEtrYUtCNXVlZHNQSVVGcS1oRndMQllpTEVaV2VTTTEwbGdrcklCMHBjZXFGVVVkOVNMSDRZU2FxR0RVNUNBU1M0VnBneDlKcUVBNUp4RWtjdGFma29yVEM1Y2NpaGgzckE?oc=5", "published": "2026-10-26T12:18:41+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "한국경제TV", "title_original": "광운대 정보과학교육원, 학평·수능 미반영 면접전형 선발", "title_ko": "광운대 정보과학교육원, 학평·수능 미반영 면접전형 선발", "summary_ko": "광운대 정보과학교육원이 학평·수능을 반영하지 않는 면접전형으로 선발한다.", "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XUk5fdS1uQU0yYkc5RTlaUERvZk9jcE55RVlTaTZqZi1KOXQ4VTBuY2FPd1dmYzhCb0pCMThzSTFCMmx2N2hSNXNxa1hhTFR2a3dXcmVlX3J1cjFiR3pNcXZnazl0TGR0aU00TElSU0JVUWl3Sllj?oc=5", "published": "2026-10-26T12:16:00+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "한국경제TV", "title_original": "스케쳐스코리아, 스포츠 통한 사회공헌 활동 전개...‘2026 SKECHERS FRIENDSHIP DAY’ 개최", "title_ko": "스케쳐스코리아, 스포츠 통한 사회공헌 활동 전개...'2026 SKECHERS FRIENDSHIP DAY' 개최", "summary_ko": "스케쳐스코리아가 스포츠를 통한 사회공헌 활동으로 '2026 SKECHERS FRIENDSHIP DAY'를 개최했다.", "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zV2RqQnJGd05UREtYMHUwMmV6YXpLLTY3dElkdUljdlREVGVZdkFFVG5JUFVuZkw2N3hoSm5VanRqNlFOV2NQblhnYjZaX2ZDc2VDOF9kNDhDcXhXTXBCa3IyOGZ3LUhXUkxmZGlwYkZIMzhIV3Nj?oc=5", "published": "2026-10-26T12:10:00+09:00", "tags": ["business"], "event": "", "state_media": false},
-    {"source": "한국경제TV", "title_original": "中관영매체 ＂미군, 中명절 전후 분쟁해역서 활동…악의적 의도＂", "title_ko": "중국 관영매체 \"미군, 중국 명절 전후 분쟁해역서 활동…악의적 의도\"", "summary_ko": "중국 관영매체가 미군이 중국 명절 전후로 분쟁 해역에서 활동하는 것은 악의적 의도라고 주장했다.", "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcnRzTTV4Yks1bE54UmU0YnZpSWdaNVRCTzg5QnhOaW5HcjlTekZ0ZnVaR0hHaUg5RzBJMmI0aGdhSG9raGJUUWhRZ1ZGY2EzNGltVEZxNEZNS1JQeVctSmlYNXdncWs0RWE3WV9lbUpwbERHVDAyZkh1a3owSHM2WA?oc=5", "published": "2026-10-26T12:09:00+09:00", "tags": ["geopolitics"], "event": "", "state_media": false}
+    {
+      "source": "KBS",
+      "title_original": "[오늘의 영상] 속이 뻥 뚫리는 대포알 슛",
+      "title_ko": "[오늘의 영상] 속이 뻥 뚫리는 대포알 슛",
+      "summary_ko": "KBS '오늘의 영상' 코너의 축구 슛 영상.",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5UdkRUMXgxN0lJdkJtODBYR3IzMUNuQ2ZYMHE1amg5eTRMc1dGODBkQ0pqbnZPcDVpc3JvcVRVcGJVbnpJZDJUT3BUQXJsUWExLUtCc0YzdXR6c2d1X0lBVXNOS0tsZw?oc=5",
+      "published": "2026-10-26T22:02:00+09:00",
+      "tags": [],
+      "event": "kbs-today-video",
+      "state_media": false
+    },
+    {
+      "source": "KBS",
+      "title_original": "[뉴스9 전남광주 헤드라인]",
+      "title_ko": "[뉴스9 전남광주 헤드라인]",
+      "summary_ko": "KBS 뉴스9 전남·광주 지역 헤드라인 모음.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44NVRnNkstTl9XamZ0RnQzbVR0YUVtYzVQVnBmQWpacXI2ckk0dmJ6M0tfN3BKSHVaSllCRUhtczdydm8tVTZuZWVHdkZHWnVxSHNCdEQ0b21zUnc?oc=5",
+      "published": "2026-10-26T21:34:00+09:00",
+      "tags": [],
+      "event": "kbs-gwangju-headlines",
+      "state_media": false
+    },
+    {
+      "source": "KBS",
+      "title_original": "경기 의정부 민락나들목 근처서 추돌 사고…1명 부상",
+      "title_ko": "경기 의정부 민락나들목 근처서 추돌 사고…1명 부상",
+      "summary_ko": "경기 의정부 민락나들목 인근에서 추돌 사고가 나 1명이 다쳤다.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OdnRleVJqbXY2Y3pncmhSbS13eG9sUEJHbEM4WVl6NmZLNVBZdzlWMXY0Z3BkZGNDdWZHcHJ2RW1ObzQtVW9sMXdIc3k4ZWZhdXlUaW5XUzdNZ2s?oc=5",
+      "published": "2026-10-26T20:44:00+09:00",
+      "tags": [],
+      "event": "uijeongbu-highway-crash",
+      "state_media": false
+    },
+    {
+      "source": "KBS",
+      "title_original": "[주요 단신] 제주 노후 아파트 재건축 잇따라…높이·공공기여 쟁점 외",
+      "title_ko": "[주요 단신] 제주 노후 아파트 재건축 잇따라…높이·공공기여 쟁점 외",
+      "summary_ko": "제주에서 노후 아파트 재건축이 잇따르며 건물 높이와 공공기여가 쟁점이 되고 있다.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vQ21BSWp4UjVfalJWMEZzejZGbWRzaVpsYTFpeEdMYV9lN2N5dl81b2dodHBIZEpkblA2bVFuekRYcGJCUEVkeVNkaVhFckZFcmxBSk1IbTMxenM?oc=5",
+      "published": "2026-10-26T20:01:00+09:00",
+      "tags": [],
+      "event": "jeju-apartment-rebuild",
+      "state_media": false
+    },
+    {
+      "source": "KBS",
+      "title_original": "[문화가 산책] “올레길에서 행복하라” 올레 축제…청소년 창작 연극도 주목",
+      "title_ko": "[문화가 산책] “올레길에서 행복하라” 올레 축제…청소년 창작 연극도 주목",
+      "summary_ko": "제주 올레 축제와 청소년 창작 연극 소개.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DTWwwMkwtRDR2YS1YTVphNURyWXBvd0FtRElMaEo4WXUxeFotd0p4U3VQamtBOXMxYnV2dWNBS1NFR0tiLXRfOGIta2x2eGJqcjJTRVQ2Rjc4STQ?oc=5",
+      "published": "2026-10-26T19:53:00+09:00",
+      "tags": [],
+      "event": "jeju-olle-festival",
+      "state_media": false
+    },
+    {
+      "source": "KBS",
+      "title_original": "[대담] 제주인 유산 ‘돌담 쌓기’ 문화 세계로!",
+      "title_ko": "[대담] 제주인 유산 ‘돌담 쌓기’ 문화 세계로!",
+      "summary_ko": "제주 '돌담 쌓기' 문화의 세계화를 다룬 대담.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96dmdtU051YldqMzd4THp3bkNJRndQdlV3LUlrSkNVdktfUnVrNnlQQ243djQxNlBpSURVaGVTQk9Wc2NIRWVXSWxFdzh3NFNWdXhBMzZBNk1abEU?oc=5",
+      "published": "2026-10-26T19:46:00+09:00",
+      "tags": [],
+      "event": "jeju-stone-wall",
+      "state_media": false
+    },
+    {
+      "source": "KBS",
+      "title_original": "AI 대전환 시대…전기는 어디서 오나",
+      "title_ko": "AI 대전환 시대…전기는 어디서 오나",
+      "summary_ko": "AI 대전환 시대의 전력 공급원 문제를 다룬 보도.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55dUFJcmowaEsyU0ZBdm1HQnZiYWZKaU1BN0tFQl9kVFc3Nk1mZGlvSjMwWUh4LTZiUWRRVUh2YldEd05HNlhLUENjcUFjRnVaNGtkMXI2QUdyRHV0S3ZCS0JLRjlqalhudy1N?oc=5",
+      "published": "2026-10-26T19:29:00+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "ai-power-supply",
+      "state_media": false
+    },
+    {
+      "source": "KBS",
+      "title_original": "최길수 특별감찰관 “정치적 중립·독립성 견지…두 눈 부릅뜨고 감시”",
+      "title_ko": "최길수 특별감찰관 “정치적 중립·독립성 견지…두 눈 부릅뜨고 감시”",
+      "summary_ko": "최길수 특별감찰관이 정치적 중립과 독립성을 지키며 감시하겠다고 밝혔다.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55bTVFM2UyOWFsYjA1TU9CUGFaY1hXYlhRS3pzdGlHc01ZOXhwNDRnOEprNURwMHFBWTlnYW1iVzY5cEdtbTJXbWxZbHd5X0FtYmc2eG85M1ZZMjQ?oc=5",
+      "published": "2026-10-26T19:19:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "special-inspector-choi",
+      "state_media": false
+    },
+    {
+      "source": "MBC",
+      "title_original": "뉴스데스크",
+      "title_ko": "뉴스데스크",
+      "summary_ko": "MBC 뉴스데스크 프로그램 항목.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JaE5QT01BdVZ2OG1pazBPTGZpU3lDT21PN1hHOFBIWlRBYWVBSTNRejFnT2hKSXhEMW1jZjkxek0weWJwcHlqSmZtY01pTF9DZEVvRW1B?oc=5",
+      "published": "2026-10-26T22:38:13+09:00",
+      "tags": [],
+      "event": "mbc-newsdesk",
+      "state_media": false
+    },
+    {
+      "source": "MBC",
+      "title_original": "\"어라, 시동이 안 걸리네\"‥'딱 한 잔'·'숙취' 핑계 안 통한다",
+      "title_ko": "\"어라, 시동이 안 걸리네\"‥'딱 한 잔'·'숙취' 핑계 안 통한다",
+      "summary_ko": "'딱 한 잔'·'숙취' 같은 핑계가 통하지 않는다는 음주운전 관련 보도(시동 차단 관련).",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91WW0zYi05MllETWJmRzhRTUhCenJzcHBGTGFGSWY0c295RV9RYzRRd3VDeEl0RVdIb1FWV091WndTd3R5TzRhNFFia0t6MWFzeERRTWFWb2w4ZFZHd2RKZDhVdFk2d0pkcmRPY3A5Wnd6VmNDcHFBZNIBeEFVX3lxTE5kN0lKRnZ0VmFRcndZRkprcmh3b25rSFlORGJ6dWxNNV94SUVzQXJ3TWhBN3BmeF95RmZPVzlIMjVGWEh6dHp1RThWelpkTFI1UDBPSVpuNGdXNktrSVE2WUJyeHlROF9KR3NqZHRtN0NpeXZYU0lSeQ?oc=5",
+      "published": "2026-10-26T22:16:22+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "drunk-driving-ignition",
+      "state_media": false
+    },
+    {
+      "source": "MBC",
+      "title_original": "'빈곤층 대변인' 룰라 4선 성공‥트럼프 의문의 1패",
+      "title_ko": "'빈곤층 대변인' 룰라 4선 성공…트럼프 의문의 1패",
+      "summary_ko": "브라질 룰라 대통령이 4선에 성공했으며, MBC는 이를 트럼프의 패배로 표현했다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Ld0NvdkVTakpkdHAybU1zN3M3M0psNjRiVDhidXJYaDFzT29YU1UydVB5RTFNUmpFd29ESThxTHBhQ0dzN1B5REpwc1l4WHNTRDJjVFU3WkF0dU53TmQ0RFI0Y3JseS1ZQ1otOXNGRVdsTjMxX0RXMdIBeEFVX3lxTFBCa1RMUElvYWJ6WUQ0ei1IT3Y3NFo1a2QzbUp4dmlXMnBNQzFwVHVod1liNHNBVFFEQTRIUDdFeGtZNGpDZWpieXVSdDZyQ0MxRkhWc3k4SzlkbzJ4RGVTWk5wbkZialNHVmJxSDVtX1Y4UjdmX1EtSA?oc=5",
+      "published": "2026-10-26T22:14:17+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "lula-fourth-term",
+      "state_media": false
+    },
+    {
+      "source": "MBC",
+      "title_original": "[심층] 프랑스 1020은 왜 거리로 나왔나‥\"평생이 불공정\"",
+      "title_ko": "[심층] 프랑스 1020은 왜 거리로 나왔나‥\"평생이 불공정\"",
+      "summary_ko": "프랑스 10~20대가 거리 시위에 나선 이유를 '평생이 불공정'이라는 목소리로 짚은 심층 보도.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zeGRFV3VFeVdOQUtwdVBZSW8yZWEySEt0VDhQTlI4bU95b19kMjlYYjhDZ1BfREt5bGx5M3JabWVMa0xQcHlra3VoV2JmN3VpTmw2aWY3UFBWUjZORmVOSmFVYzdTTDd5SGM4clR4TUxDZFI4RnRuRtIBeEFVX3lxTFByenI1UkJabDYxXzJLTXEwczZEcENQSGRIclZQUmFueXlNcEJmbEJXd3VvakQ4SWJZakFCcGVmZUpsazFYWXB2QzA4emtoQjJLZDlWX3FzVlRkbktkOTNscXpjdk9QQ0ZpTVdIYkc4TFMydlppRElVcA?oc=5",
+      "published": "2026-10-26T22:12:26+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "france-youth-protest",
+      "state_media": false
+    },
+    {
+      "source": "MBC",
+      "title_original": "[14F] ‘잠수교’ 26일부터 차량 통행 금지… 휴식 공간으로 재탄생",
+      "title_ko": "[14F] ‘잠수교’ 26일부터 차량 통행 금지… 휴식 공간으로 재탄생",
+      "summary_ko": "서울 잠수교가 26일부터 차량 통행이 금지되고 휴식 공간으로 바뀐다.",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GX0NBZi1CR0M4TmVlUExia1J4cGxJeUYyZlRDbFRHSVprbDBEa0FiRTVOXy0wQkxTVzYzVGdVVWtySEpPMGd3cS1CUjFFXy11YW9TWmtwYUZ0ZjIyWk9aTzdZS2pQUdIBZkFVX3lxTE9jcW95QUZOd1pQUWYzdjVZaXRXUzBZQ3VaMVVQSkJpM3NXaHFXcGVhT3gxc0NkTTlRX0lRYllXTThfc2hudnFVVkRYRnY1eTZ1R2JKMXpmZURRbGFOTGtXbWtCN2FtQQ?oc=5",
+      "published": "2026-10-26T18:51:00+09:00",
+      "tags": [],
+      "event": "jamsu-bridge-closure",
+      "state_media": false
+    },
+    {
+      "source": "MBC",
+      "title_original": "[엠빅뉴스] \"언니~ 잘 좀 해봐!!\" 한마디에 제대로 각성한 챔피언 김보미",
+      "title_ko": "[엠빅뉴스] \"언니~ 잘 좀 해봐!!\" 한마디에 제대로 각성한 챔피언 김보미",
+      "summary_ko": "챔피언 김보미 선수 관련 스포츠 영상.",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPYUQ5UGdHanEwalA5MXMtQklnbjRPbE5JOFdhWVlybFAwSDhoSHFScVZWeEVYcnd2bEo5ZThGSkRSQkJCRExyaXpPbUxRalhYZ3hNVXFtR1lFRTFUdFBieThYYTY0aGPSAWdBVV95cUxNY29DbjdlUEFzWjJyajM5cDBSNkNhRnNkX0ZvSEtWaEJTTmVuSGVrSnBzeVRZNTByd0pTSWJvLW9HeUUxd2NvMmtsYldZamVLWkw4VDhGNW1IZzc5Ql9LeVZOVWhyeDcw?oc=5",
+      "published": "2026-10-26T18:16:58+09:00",
+      "tags": [],
+      "event": "kim-bomi",
+      "state_media": false
+    },
+    {
+      "source": "MBC",
+      "title_original": "라디오뉴스",
+      "title_ko": "라디오뉴스",
+      "summary_ko": "MBC 라디오뉴스 항목.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oSTBCcG9WdDRkZDRvTlNXR0Z4QTZjNWRKUlFoWFlxVHA4QVk3NzcyWW9hYndrMTNyQnlXQzI4SDBpUXRBaXZaa1BiZlRTbEl1czR1QnRWdUdkclpGS3JFcFdsWG5uSENfcG8zTF9UeEEtU0xCN1FBYg?oc=5",
+      "published": "2026-10-26T17:46:01+09:00",
+      "tags": [],
+      "event": "mbc-radio-news",
+      "state_media": false
+    },
+    {
+      "source": "MBC",
+      "title_original": "국민성장펀드 3개월 수익률 0.5%‥일부 자펀드는 20% 가까이 손실",
+      "title_ko": "국민성장펀드 3개월 수익률 0.5%‥일부 자펀드는 20% 가까이 손실",
+      "summary_ko": "국민성장펀드의 3개월 수익률이 0.5%에 그쳤고 일부 자펀드는 20% 가까이 손실을 냈다.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wWFZpcnpIS0dnVTJsYXFMbzNvOENPV0FWS05rSjV2dkUtamJ4NERmZGdLdEZocnlEeEstQ1FZRDlnMnRsSGwzUzVWdkRZVWc1X1BIVHN1b1hYLUZIRDdoMU82Y0VEWXRPRVY4SU9sUkJVX1Fm0gF0QVVfeXFMUGVyTWNCRW1WTzBzVzNQcUJkaTF1S19Sc1lEVWhBOHpnQXZrMTNncE5wN29jblR1cGtCSXJHWHFMLU5tdnhtc1h1WEFrUHc4aDRNczdaU3F5aGVyUUFKdU9jNktWUl9KUUlaV2hyRThkTFZRaEo?oc=5",
+      "published": "2026-10-26T17:15:39+09:00",
+      "tags": [
+        "stocks",
+        "business"
+      ],
+      "event": "national-growth-fund",
+      "state_media": false
+    },
+    {
+      "source": "SBS",
+      "title_original": "자주포 의자 삼아 떡하니…'보란 듯' 포신 돌린 북한군",
+      "title_ko": "자주포 의자 삼아 떡하니…'보란 듯' 포신 돌린 북한군",
+      "summary_ko": "북한이 서부전선 최전방에 자주포를 남쪽으로 전진 배치한 모습이 포착됐다. 북한은 이달 중 대남 확성기 방송 재개와 군사분계선 일대 화력 강화를 예고했다.",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815700",
+      "published": "2026-10-26T22:21:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "nk-border-artillery",
+      "state_media": false
+    },
+    {
+      "source": "SBS",
+      "title_original": "\"공부 약이라고\"…57초 만에 항우울제 두 달 치 '뚝딱'",
+      "title_ko": "\"공부 약이라고\"…57초 만에 항우울제 두 달 치 '뚝딱'",
+      "summary_ko": "수능을 앞둔 일부 수험생 사이에서 정신과 약이 '공부 잘하는 약'으로 잘못 알려져 부작용 사례가 나오고 있다.",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815713",
+      "published": "2026-10-26T22:15:00+09:00",
+      "tags": [],
+      "event": "exam-antidepressant-misuse",
+      "state_media": false
+    },
+    {
+      "source": "SBS",
+      "title_original": "유명 골퍼에게 \"황제 레슨\"?…\"스토킹 멈춰라\" 고발",
+      "title_ko": "유명 골퍼에게 \"황제 레슨\"?…\"스토킹 멈춰라\" 고발",
+      "summary_ko": "국민의힘 주진우 의원이 김혜경 여사가 유명 프로골퍼와 골프를 쳤다고 주장했으나 해당 골퍼가 부인했고, 공방은 법적 대응으로 번졌다.",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815708",
+      "published": "2026-10-26T21:53:00+09:00",
+      "tags": [],
+      "event": "kim-hyekyung-golf-claim",
+      "state_media": false
+    },
+    {
+      "source": "SBS",
+      "title_original": "'오세훈 무죄'에 다시 불붙은 \"조희대 탄핵\"",
+      "title_ko": "'오세훈 무죄'에 다시 불붙은 \"조희대 탄핵\"",
+      "summary_ko": "오세훈 서울시장의 항소심 무죄를 계기로 범여권에서 조희대 대법원장 탄핵론이 커지고 있다. 국민의힘은 비상식적이라고 반발했다.",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815706",
+      "published": "2026-10-26T21:25:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "jo-heedae-impeachment",
+      "state_media": false
+    },
+    {
+      "source": "SBS",
+      "title_original": "접경지엔 '보여주기식' 자주포…대화 재개 가능성은?",
+      "title_ko": "접경지엔 '보여주기식' 자주포…대화 재개 가능성은?",
+      "summary_ko": "SBS 정치부 기자들이 접경지의 '보여주기식' 자주포 배치와 남북 대화 재개 가능성을 짚었다.",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815728",
+      "published": "2026-10-26T21:16:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "nk-border-artillery",
+      "state_media": false
+    },
+    {
+      "source": "SBS",
+      "title_original": "\"AI시대, 설비 투자뿐만 아니라 '사람에 대한 투자' 이뤄져야\"",
+      "title_ko": "\"AI시대, 설비 투자뿐만 아니라 '사람에 대한 투자' 이뤄져야\"",
+      "summary_ko": "국민경제자문회의 행사에서 AI 시대에 설비 투자뿐 아니라 사람에 대한 투자가 필요하다는 주장이 나왔다.",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815802",
+      "published": "2026-10-26T20:45:00+09:00",
+      "tags": [
+        "industry",
+        "forecast"
+      ],
+      "event": "ai-human-investment",
+      "state_media": false
+    },
+    {
+      "source": "SBS",
+      "title_original": "북한 \"지뢰 폭발은 한국 자작극\"…유엔에 '억지 서한'",
+      "title_ko": "북한 \"지뢰 폭발은 한국 자작극\"…유엔에 '억지 서한'",
+      "summary_ko": "북한이 유엔 안보리 의장에게 서한을 보내 비무장지대 지뢰 폭발이 한국의 자작극이라고 주장했다. 한국 정부의 정전협정 위반 서한에 대한 맞대응이다.",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815702",
+      "published": "2026-10-26T20:16:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "dmz-mine-explosion",
+      "state_media": false
+    },
+    {
+      "source": "SBS",
+      "title_original": "접경 긴장 속 \"민통선 뚫려\"…경계태세 여전히 미흡 '질타'",
+      "title_ko": "접경 긴장 속 \"민통선 뚫려\"…경계태세 여전히 미흡 '질타'",
+      "summary_ko": "북한은 지뢰 폭발 관련 한국의 군사회담 제안에 응답하지 않고 있으며, 민통선이 뚫린 사건으로 경계태세 미흡이 질타받았다. 국방장관은 김정은 방중 시점을 예상해 회담을 제안했다고 밝혔다.",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815701",
+      "published": "2026-10-26T20:13:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "cheorwon-gop-breach",
+      "state_media": false
+    },
+    {
+      "source": "YTN",
+      "title_original": "의정부 고속도로에서 승합차 2대 추돌...1명 심정지",
+      "title_ko": "의정부 고속도로에서 승합차 2대 추돌...1명 심정지",
+      "summary_ko": "의정부 고속도로에서 승합차 2대가 추돌해 1명이 심정지 상태다.",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16c2tSVzBkS015M1gxc0pLYUJmX0pNbXktSkhEWmIyQzRSVmdMZk5JV2I5UXgyMTY0U1o0dnFGUmVIa25zc3dPNHBTNlB2NFFkb3EtTUVER2VjU1QwVkE?oc=5",
+      "published": "2026-10-26T22:19:00+09:00",
+      "tags": [],
+      "event": "uijeongbu-highway-crash",
+      "state_media": false
+    },
+    {
+      "source": "YTN",
+      "title_original": "'연쇄 방화범' 살인미수 적용 가닥...\"신상공개도 검토\"",
+      "title_ko": "'연쇄 방화범' 살인미수 적용 가닥...\"신상공개도 검토\"",
+      "summary_ko": "경찰이 연쇄 방화범에게 살인미수 혐의를 적용하고 신상공개도 검토하기로 가닥을 잡았다.",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xQXVzS2x6XzhfSVhDWlRfcEFaSTZFNDVPVVdJUC1Wc0NfMDU2amZxRjRmSkh4dlBMZUFRcVV5enlSb3hXYXpXYWhXWVVZazhEYl9wSXhTMjRmcjNVU2c?oc=5",
+      "published": "2026-10-26T22:17:00+09:00",
+      "tags": [],
+      "event": "serial-arson",
+      "state_media": false
+    },
+    {
+      "source": "YTN",
+      "title_original": "김건희 내일 '추가구속' 심사...대법원 선택 '주목'",
+      "title_ko": "김건희 내일 '추가구속' 심사...대법원 선택 '주목'",
+      "summary_ko": "김건희 씨가 내일 추가 구속 심사를 받으며 대법원의 판단이 주목된다.",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4VWRmazhfazhUeVdBSWNOZ1dqdlVwN0xsUEFHWkhmY2JDRlV1RzRrSW9HY0JuWmUwd3lfTWNTRWp6Yk9wR0NyNFlvYkFWMWU3cG5qRmlYRTNqeHBwREE?oc=5",
+      "published": "2026-10-26T22:16:00+09:00",
+      "tags": [],
+      "event": "kim-keonhee-detention",
+      "state_media": false
+    },
+    {
+      "source": "YTN",
+      "title_original": "박균택·양부남 압축에...\"둘 다 적임자\"·\"공소취소 로펌\"",
+      "title_ko": "박균택·양부남 압축에...\"둘 다 적임자\"·\"공소취소 로펌\"",
+      "summary_ko": "박균택·양부남 두 사람으로 후보가 압축된 데 대해 '둘 다 적임자'라는 평가와 '공소취소 로펌'이라는 비판이 엇갈렸다.",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OcE8xemNRY2ZNWnpkdk0yZms0NVAtdDVpQ0lVYU0wMTEyZXpGQnZHVWtfdlVrMHdPN0FOU0RJNkd6dER4ZnBXZ045M2picU5jSHpNU2FHR3ZvSjVLa0E?oc=5",
+      "published": "2026-10-26T22:12:00+09:00",
+      "tags": [],
+      "event": "park-yang-shortlist",
+      "state_media": false
+    },
+    {
+      "source": "YTN",
+      "title_original": "시청자 의견",
+      "title_ko": "시청자 의견",
+      "summary_ko": "YTN 시청자 의견 프로그램 항목.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53WjJSS0VpQm9GRHFlZ1lfSW02MmpVYmI0ZlhnTV9TekNMajRQRWZQODRUQ0VRUW05WVk0MWNkdXhrRGc5TXR0R1ZNeklpcU1GNlE4TG1UVWMyZm9PRnI5eTNzZmdfc0M4T1N0WU9LZzcyemhWNjR0dmRRRQ?oc=5",
+      "published": "2026-10-26T22:11:00+09:00",
+      "tags": [],
+      "event": "ytn-viewer",
+      "state_media": false
+    },
+    {
+      "source": "YTN",
+      "title_original": "'무죄 선고' 오세훈, 야당 의원들과 연이틀 공관 만찬",
+      "title_ko": "'무죄 선고' 오세훈, 야당 의원들과 연이틀 공관 만찬",
+      "summary_ko": "무죄를 선고받은 오세훈 시장이 야당 의원들과 이틀 연속 공관 만찬을 가졌다.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wSEpuR1k2ODdCY1IwN2w5VklGbkxHTkNjMDVRenhYYlA5dGtNczZ5cHQxdUJ2NGN4SkxKLW1YZU0tbFZaNVlrY3hlVjJKU1p5MktxOVh6aE9FM1pGVFppdVdyNkY2MG94WDZ5eG5HNWsyRXV6aHc?oc=5",
+      "published": "2026-10-26T22:09:00+09:00",
+      "tags": [],
+      "event": "oh-sehoon-conservative-realign",
+      "state_media": false
+    },
+    {
+      "source": "YTN",
+      "title_original": "손 맞잡은 오세훈-장동혁...이준석은 한동훈 저격?",
+      "title_ko": "손 맞잡은 오세훈-장동혁...이준석은 한동훈 저격?",
+      "summary_ko": "오세훈 시장과 장동혁 대표가 손을 맞잡았고, 이준석 대표는 한동훈을 겨냥했다는 해석이 나왔다.",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KeHh2SV96OXQ2TmxBQ056UGlMS0NRWFpzNE03MHppV2V6SVNtRl9wS0FLejN6dWJWM1ZWb2NuQVRTQlh5Wk1iS0Raa1ZRd0p2YmwxQUxtYmNUWXM3cVE?oc=5",
+      "published": "2026-10-26T22:08:00+09:00",
+      "tags": [],
+      "event": "oh-sehoon-conservative-realign",
+      "state_media": false
+    },
+    {
+      "source": "YTN",
+      "title_original": "조국혁신당, '조희대 탄핵' 5당 원내대표 회담 제안",
+      "title_ko": "조국혁신당, '조희대 탄핵' 5당 원내대표 회담 제안",
+      "summary_ko": "조국혁신당이 조희대 대법원장 탄핵을 논의할 5당 원내대표 회담을 제안했다.",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyQmt5Vkh4SUE4dFFORzdqeFF5N0k1YTlyZDh1MWpuMnkzd1phSGN5akg3dHFvNkJobmI1TEhGenN1ZFd6Y0dxZE9fS19weWNocURDNWZzd1ZidVZWLUE?oc=5",
+      "published": "2026-10-26T22:07:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "jo-heedae-impeachment",
+      "state_media": false
+    },
+    {
+      "source": "JTBC",
+      "title_original": "‘오세훈 세력’ 뭉치기 시작…국힘 주도권 경쟁 새 국면",
+      "title_ko": "‘오세훈 세력’ 뭉치기 시작…국힘 주도권 경쟁 새 국면",
+      "summary_ko": "'오세훈 세력'이 결집하기 시작하며 국민의힘 주도권 경쟁이 새 국면에 들어섰다.",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YMk5zUVNWaHVTVElkZTRtOW1vQXFwcUl5QVF6REluY01tTTJyZmhoUWlLT2lsMHJNSThyX0JIakRTZG44ekpoTXZMM2JfOE44cnc?oc=5",
+      "published": "2026-10-26T22:03:44+09:00",
+      "tags": [],
+      "event": "oh-sehoon-conservative-realign",
+      "state_media": false
+    },
+    {
+      "source": "JTBC",
+      "title_original": "대표는 최장수, 정치는 제자리?",
+      "title_ko": "대표는 최장수, 정치는 제자리?",
+      "summary_ko": "최장수 당대표 기록에 비해 정치는 제자리라는 취지의 JTBC 보도.",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1SG9JWWtMaVRNa2gzaV84Nm11UDdiZEtyYTZLQWN6c20zRlZrTG0xOVNybnRXVXh1RVJNbTJPN1N2R2JTLS1lSVZJcXA2dEtRVUYw?oc=5",
+      "published": "2026-10-26T21:23:01+09:00",
+      "tags": [],
+      "event": "longest-party-leader",
+      "state_media": false
+    },
+    {
+      "source": "JTBC",
+      "title_original": "미국 중간선거",
+      "title_ko": "미국 중간선거",
+      "summary_ko": "미국 중간선거 관련 JTBC 보도 항목(제목만 확인).",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHOHVwU0hrRkw1VkNNYU5rVk5GUEtoMGx3Zk5VWGkxaGQ2a1JjRjI2T1ByQkJNdmtGbDRVd0N6Y2lTT2k4VzlsaHJ5MDdUU1o0cUZF?oc=5",
+      "published": "2026-10-26T21:13:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-midterms",
+      "state_media": false
+    },
+    {
+      "source": "JTBC",
+      "title_original": "개리, 대치동 학부모 됐다…\"나보다 아이의 삶\"",
+      "title_ko": "개리, 대치동 학부모 됐다…\"나보다 아이의 삶\"",
+      "summary_ko": "가수 개리가 대치동 학부모가 된 근황.",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wMW00UXRPbFNZMWtpLVF5QmFBYXR6WU1aTkcxT0Q3Rno5bGRFNWM0VkJHVkNCRGFfZUFNY0JyOFJwbzAzaGVLMHBoalFlZnZqTWxURw?oc=5",
+      "published": "2026-10-26T20:47:00+09:00",
+      "tags": [],
+      "event": "gary-daechi",
+      "state_media": false
+    },
+    {
+      "source": "JTBC",
+      "title_original": "‘반트럼프’ 룰라 역사적 4선…중남미 우파 물결에 제동",
+      "title_ko": "‘반트럼프’ 룰라 역사적 4선…중남미 우파 물결에 제동",
+      "summary_ko": "'반트럼프' 룰라가 역사적 4선에 성공해 중남미 우파 물결에 제동을 걸었다.",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiaWNKWGl2S2VLY1NWaHhSRTA2anJxRVdxRWZ0ZThXOFhwY3VaeUdUbm5XRmRYU3VIRUhYUFVKOFpzT0pfSkpQLVdmUUhVeGlMM3c?oc=5",
+      "published": "2026-10-26T20:35:42+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "lula-fourth-term",
+      "state_media": false
+    },
+    {
+      "source": "JTBC",
+      "title_original": "9년째 ‘가을야구 좌절’ 롯데…‘새판 짜기’ 승부수 던졌다",
+      "title_ko": "9년째 ‘가을야구 좌절’ 롯데…‘새판 짜기’ 승부수 던졌다",
+      "summary_ko": "9년째 가을야구에 실패한 롯데가 팀 개편에 나섰다.",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mUmM4bHJhLWhZbExBbkpLN3NUanl2Xzk5ek1rM25yQUY0WnpOZjV6TXlKMGdGcnBRTDBVMmJMVlBmb3VCWFhDNVFrR0JhT1RQYmFaOQ?oc=5",
+      "published": "2026-10-26T20:34:14+09:00",
+      "tags": [],
+      "event": "lotte-rebuild",
+      "state_media": false
+    },
+    {
+      "source": "JTBC",
+      "title_original": "[밀착카메라] 국정농단 폭로 10년…\"후회는 없다\" 택시운전사 된 내부제보자",
+      "title_ko": "[밀착카메라] 국정농단 폭로 10년…\"후회는 없다\" 택시운전사 된 내부제보자",
+      "summary_ko": "국정농단 폭로 10년, 택시운전사가 된 내부제보자를 만난 밀착카메라.",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBndWtBS1NOSDFuWmRZTmh0YVppNHJHVVAwWGx2c0pYUE14YUtsMGxOOXhZVW9DRGdVWGRKa0F2aWR5bE1uSGs3N2lkc09TTVRMQkwwdQ?oc=5",
+      "published": "2026-10-26T20:28:00+09:00",
+      "tags": [],
+      "event": "gukjeong-nongdan-whistleblower",
+      "state_media": false
+    },
+    {
+      "source": "JTBC",
+      "title_original": "비바람 몰고 온 ‘지각 태풍’ 참피…일요일 밤 제주 최근접",
+      "title_ko": "비바람 몰고 온 ‘지각 태풍’ 참피…일요일 밤 제주 최근접",
+      "summary_ko": "늦게 발생한 태풍 참피가 비바람을 몰고 와 일요일 밤 제주에 가장 가까이 접근한다.",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xdmZWREVnMUQxYTRWNlQ3b2hWRzZFdW5YRGgySXRsLXNscVRSQ3E5N3R2a3daaGZDelNoWnhsZW9YQ3E5MzhlV0Zyd1p1LXptZGc?oc=5",
+      "published": "2026-10-26T20:07:06+09:00",
+      "tags": [],
+      "event": "typhoon-champi",
+      "state_media": false
+    },
+    {
+      "source": "연합뉴스",
+      "title_original": "PS 첫 승리 챙긴 KIA 이의리 \"공격적으로 던진 게 통했다\"",
+      "title_ko": "PS 첫 승리 챙긴 KIA 이의리 \"공격적으로 던진 게 통했다\"",
+      "summary_ko": "PS 첫 승을 거둔 KIA 이의리가 공격적인 투구가 통했다고 말했다.",
+      "url": "https://www.yna.co.kr/view/AKR20261026173600007",
+      "published": "2026-10-26T22:38:20+09:00",
+      "tags": [],
+      "event": "kbo-po1-kia-samsung",
+      "state_media": false
+    },
+    {
+      "source": "연합뉴스",
+      "title_original": "권노갑 \"가장 용맹한 최형우, 친형제처럼 지내…지금 정치 안타까워\"",
+      "title_ko": "권노갑 \"가장 용맹한 최형우, 친형제처럼 지내…지금 정치 안타까워\"",
+      "summary_ko": "권노갑 김대중재단 이사장이 고 최형우 전 내무부 장관을 '가장 용맹한 사람'으로 회고했다.",
+      "url": "https://www.yna.co.kr/view/AKR20261026171900001",
+      "published": "2026-10-26T22:36:05+09:00",
+      "tags": [],
+      "event": "choi-hyungwoo-memorial",
+      "state_media": false
+    },
+    {
+      "source": "연합뉴스",
+      "title_original": "\"미군, 트럼프 명령하면 나흘내 대규모 이란 재공격 준비\"",
+      "title_ko": "\"미군, 트럼프 명령하면 나흘내 대규모 이란 재공격 준비\"",
+      "summary_ko": "연합뉴스 워싱턴 특파원 보도: 미군이 트럼프 대통령 명령 시 96시간 이내 이란에 대한 새 대규모 군사작전을 펼 준비가 돼 있다.",
+      "url": "https://www.yna.co.kr/view/AKR20261026173200071",
+      "published": "2026-10-26T22:35:05+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-iran-strike-readiness",
+      "state_media": false
+    },
+    {
+      "source": "연합뉴스",
+      "title_original": "이범호 KIA 감독 \"급박했던 5회, 실수 피하려 신중히 불펜 운용\"",
+      "title_ko": "이범호 KIA 감독 \"급박했던 5회, 실수 피하려 신중히 불펜 운용\"",
+      "summary_ko": "KIA 이범호 감독이 PO 1차전 5회 위기에서 신중하게 불펜을 운용했다고 밝혔다.",
+      "url": "https://www.yna.co.kr/view/AKR20261026173000007",
+      "published": "2026-10-26T22:26:48+09:00",
+      "tags": [],
+      "event": "kbo-po1-kia-samsung",
+      "state_media": false
+    },
+    {
+      "source": "연합뉴스",
+      "title_original": "국힘 의원들·이준석 만난 吳 \"시정에 더 집중…보수 통합해야\"",
+      "title_ko": "국힘 의원들·이준석 만난 吳 \"시정에 더 집중…보수 통합해야\"",
+      "summary_ko": "'명태균 여론조사 대납 의혹' 항소심에서 무죄를 받은 오세훈 시장이 국민의힘 의원들·이준석과 만나 시정 집중과 보수 통합을 말했다.",
+      "url": "https://www.yna.co.kr/view/AKR20261026171600001",
+      "published": "2026-10-26T22:26:39+09:00",
+      "tags": [],
+      "event": "oh-sehoon-conservative-realign",
+      "state_media": false
+    },
+    {
+      "source": "연합뉴스",
+      "title_original": "피 말리는 혈투 끝낸 '위닝샷' LG 윤원상 \"한 발씩 더 뛴 덕분\"",
+      "title_ko": "피 말리는 혈투 끝낸 '위닝샷' LG 윤원상 \"한 발씩 더 뛴 덕분\"",
+      "summary_ko": "LG 윤원상이 경기 종료 0.6초 전 결승 슛을 넣었다(프로농구).",
+      "url": "https://www.yna.co.kr/view/AKR20261026172700007",
+      "published": "2026-10-26T22:18:12+09:00",
+      "tags": [],
+      "event": "kbl-lg-yoon",
+      "state_media": false
+    },
+    {
+      "source": "연합뉴스",
+      "title_original": "박진만 삼성 감독 \"페덱이 KIA 중심타선 못 잡은 게 아쉽다\"",
+      "title_ko": "박진만 삼성 감독 \"페덱이 KIA 중심타선 못 잡은 게 아쉽다\"",
+      "summary_ko": "삼성 박진만 감독이 선발 페덱이 KIA 중심타선을 막지 못한 점을 아쉬워했다.",
+      "url": "https://www.yna.co.kr/view/AKR20261026172600007",
+      "published": "2026-10-26T22:17:06+09:00",
+      "tags": [],
+      "event": "kbo-po1-kia-samsung",
+      "state_media": false
+    },
+    {
+      "source": "연합뉴스",
+      "title_original": "[속보] 美 AI기업 앤트로픽, 나스닥 상장 위한 IPO 신청",
+      "title_ko": "[속보] 미국 AI기업 앤트로픽, 나스닥 상장 위한 IPO 신청",
+      "summary_ko": "미국 AI 기업 앤트로픽이 나스닥 상장을 위한 기업공개(IPO)를 신청했다(속보, 세부 내용 없음).",
+      "url": "https://www.yna.co.kr/view/AKR20261026172400072",
+      "published": "2026-10-26T22:11:59+09:00",
+      "tags": [
+        "stocks",
+        "industry",
+        "business"
+      ],
+      "event": "anthropic-ipo",
+      "state_media": false
+    },
+    {
+      "source": "한국경제TV",
+      "title_original": "고점 대비 ＇-58.1%＇…＂그래도 믿을 건＂ 삼전닉스 보따리 풀릴까",
+      "title_ko": "고점 대비 ＇-58.1%＇…＂그래도 믿을 건＂ 삼전닉스 보따리 풀릴까",
+      "summary_ko": "고점 대비 -58.1% 하락 상황에서 삼성전자·SK하이닉스 관련 매수(보따리)가 풀릴지 다룬 보도.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53NDQtcWw2dTI5ZmVoYnpSbzVsWlViaUlZVXRtUnc2VW5UcUNCVzBpRXM1cnZXeFE4bk5MY3FSelJUZDFoU1dTSXdzQXRUVVFaVVRJMXVTNGM1bWFtbVJOTTRYYms0TC1MbjAxbGlpQnptN3hMWnM4?oc=5",
+      "published": "2026-10-26T21:36:00+09:00",
+      "tags": [
+        "stocks"
+      ],
+      "event": "samsung-hynix-stocks",
+      "state_media": false
+    },
+    {
+      "source": "한국경제TV",
+      "title_original": "내일 찬바람 쌩쌩…밤부터 기온 확 떨어진다",
+      "title_ko": "내일 찬바람 쌩쌩…밤부터 기온 확 떨어진다",
+      "summary_ko": "내일 찬바람이 불고 밤부터 기온이 크게 떨어진다.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSeHY3eWdael9VRHNSNmpXZ00zODk5dWlaQ1N4WkhJdjI3WUZndzhZMzZUeGgxMzRnN3ZlQ1ZMbU91R2hmZW1zWWY1SUxaNTNtZk5TMTlHTmdiZ2U3c1dhTW9vbzdjektLZnozVG83Z2gtTW0zZFNR?oc=5",
+      "published": "2026-10-26T20:55:00+09:00",
+      "tags": [],
+      "event": "weather-cold",
+      "state_media": false
+    },
+    {
+      "source": "한국경제TV",
+      "title_original": "＂받은 것 돌려주고파＂…모교에 회사 주식 17만주 쾌척",
+      "title_ko": "＂받은 것 돌려주고파＂…모교에 회사 주식 17만주 쾌척",
+      "summary_ko": "한 인물이 모교에 회사 주식 17만 주를 기부했다.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MTUp5UHVYdE5pZTBnNGF0OHhlcUJzVEhQOFp2NG85WmMzc0F2cFlvOGpjRTBuU0JXazEwRVJ1SnlnNVVuYmR1WldSWHJSQUd4SDlCa1pnbW9pRHBwQjJqY3FMNHh0Umc5XzZxQjVvcTdhYVdnLVRZ?oc=5",
+      "published": "2026-10-26T20:31:00+09:00",
+      "tags": [],
+      "event": "alumni-share-donation",
+      "state_media": false
+    },
+    {
+      "source": "한국경제TV",
+      "title_original": "EU, 세르비아 정권 교체 환영…＂EU 가입 지원할 것＂",
+      "title_ko": "EU, 세르비아 정권 교체 환영…＂EU 가입 지원할 것＂",
+      "summary_ko": "EU가 세르비아 정권 교체를 환영하고 EU 가입을 지원하겠다고 밝혔다.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY0I5WDN6akZ6bEhBa0dKbV9KY29GWXl5ZXV1SHQzYzlPeDJQSHBUdTlJX1c4ZFUzX3lnMktzUjJZWEIwUXpFanR0dlZUU19zNkttdkRyZkdtZFdTVEdPeVhaYVZoamxla0lJQVRpWWlweTg5TmJPSDZaeXBIQUFtZw?oc=5",
+      "published": "2026-10-26T20:22:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "serbia-regime-change",
+      "state_media": false
+    },
+    {
+      "source": "한국경제TV",
+      "title_original": "나이지리아 첫 에볼라 확진자, 본국인 스위스로 이송",
+      "title_ko": "나이지리아 첫 에볼라 확진자, 본국인 스위스로 이송",
+      "summary_ko": "나이지리아의 첫 에볼라 확진자가 본국인 스위스로 이송됐다.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObjk2QlRheFBIRktQR2JrZURUN1UtYms5Nkg3SFhDczZaVUJxMUdjZFFRVnZoR3Z6X242UUdhYWtWNHJmemRwaGpvMDg3ZXQzZGxxbWd6Y3BacER3VHZtb3FWOU9BNFgwTWtPUHUtdXVvSUM5N0xKaU5CbFJzdDVkNA?oc=5",
+      "published": "2026-10-26T20:17:00+09:00",
+      "tags": [],
+      "event": "nigeria-ebola",
+      "state_media": false
+    },
+    {
+      "source": "한국경제TV",
+      "title_original": "크렘린궁, 3자회담 재개 관련 ＂군사행동엔 제한 없어＂",
+      "title_ko": "크렘린궁, 3자회담 재개 관련 ＂군사행동엔 제한 없어＂",
+      "summary_ko": "크렘린궁이 3자회담 재개와 관련해 군사행동에는 제한이 없다고 밝혔다.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTlU2UTZzSS1HM3pfM0FXOXhYR3ZpLVU2VnZhNGV2YlNyT0F0WWdyLTBZamNsd09UZ0tuUnlTWTVJRWxLSXZra2ZLbjZmWkk4OTdncVZ6N1R5QU43ZGZNR2JEdTUtN3hSVTJHVGdVWXRBdnZib19xeEFZMnQyWEV4cA?oc=5",
+      "published": "2026-10-26T20:10:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-russia-ukraine-trilateral",
+      "state_media": false
+    },
+    {
+      "source": "한국경제TV",
+      "title_original": "윤곽 드러낸 K-시니어 미디어 모델 31인의 당당한 포즈",
+      "title_ko": "윤곽 드러낸 K-시니어 미디어 모델 31인의 당당한 포즈",
+      "summary_ko": "K-시니어 미디어 모델 31인이 선발됐다.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aS2ZKdDJLaUJFb1Q5NEs5dnJ6d3FBMTM0OHVqMGlhSVJnZ0s1RlZnNnRoMmVsemhfTm81MHBiUTV6WHFrQTUtWDRYcGFTTVJqeGlSYzNzaVdiUGFOMF9QSHo4WmZ1NzZ6aVkwZ19nU25DWG45eHZv?oc=5",
+      "published": "2026-10-26T19:46:00+09:00",
+      "tags": [],
+      "event": "k-senior-model",
+      "state_media": false
+    },
+    {
+      "source": "한국경제TV",
+      "title_original": "젤렌스키 ＂미·러·우크라 3자 실무회담 내달 개최 가능＂",
+      "title_ko": "젤렌스키 ＂미·러·우크라 3자 실무회담 내달 개최 가능＂",
+      "summary_ko": "젤렌스키 대통령이 미·러·우크라이나 3자 실무회담이 다음 달 열릴 수 있다고 밝혔다.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMFp2Z0MwZzByWUNhck9NcHREeS1Ud01BQlRpZ0VXZlhJRUVPdkt1aHUzVmtnRDVyOG5KVHAwTDhGVFowWl9jb2lxOVR2TFYwX2Y0RzI3Z3pBRjJPay1OWDR1a1lQeURZc0RoM2psNWZmUzU0eVlCQTRfUTd6dlExdA?oc=5",
+      "published": "2026-10-26T19:39:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-russia-ukraine-trilateral",
+      "state_media": false
+    },
+    {
+      "source": "조선일보",
+      "title_original": "\"나를 빼는 게 맞다\" vs \"절대 내려놓지 말아라\" 최형우-박진만 감독, 끝나지 않은 '수비 밀당' [PO1 현장]",
+      "title_ko": "\"나를 빼는 게 맞다\" vs \"절대 내려놓지 말아라\" 최형우-박진만 감독, 끝나지 않은 '수비 밀당' [PO1 현장]",
+      "summary_ko": "삼성 박진만 감독과 베테랑 최형우가 수비 출전을 두고 엇갈린 입장을 보였다(PO 1차전 현장).",
+      "url": "https://www.chosun.com/sports/baseball/2026/10/26/GQZGENZYGY2GMZBYMRRWKMDBGI/",
+      "published": "2026-10-26T17:57:48+09:00",
+      "tags": [],
+      "event": "kbo-po1-kia-samsung",
+      "state_media": false
+    },
+    {
+      "source": "조선일보",
+      "title_original": "カン・レオ、失業給付で日本旅行の若者に苦言…「腹が立って写真拒否」",
+      "title_ko": "강레오, 실업급여로 일본 여행 온 청년들에 쓴소리…\"화가 나서 사진 거부\"",
+      "summary_ko": "셰프 강레오가 실업급여로 해외여행을 온 청년들에게 쓴소리를 한 일화를 소개했다(일본어판).",
+      "url": "https://www.chosun.com/jp/culture-life-jp/2026/10/26/YLQXQNVAAVE57H6JI4HOTLADZY/",
+      "published": "2026-10-26T17:56:00+09:00",
+      "tags": [],
+      "event": "kang-leo-remark",
+      "state_media": false
+    },
+    {
+      "source": "조선일보",
+      "title_original": "강레오, 실업급여로 日 여행 온 청년들에 일침..“열 받아서 사진 거부”",
+      "title_ko": "강레오, 실업급여로 日 여행 온 청년들에 일침..“열 받아서 사진 거부”",
+      "summary_ko": "셰프 강레오가 실업급여로 일본 여행을 온 청년들에게 쓴소리를 한 일화를 유튜브에서 소개했다.",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/10/26/MJTDEMRXGUZGENRTHA3WGN3GGA/",
+      "published": "2026-10-26T17:56:00+09:00",
+      "tags": [],
+      "event": "kang-leo-remark",
+      "state_media": false
+    },
+    {
+      "source": "조선일보",
+      "title_original": "이혜성, '하영 옹호 논란' 겪은 심경..\"상상하지 못한 일들 생겨\"[전문]",
+      "title_ko": "이혜성, '하영 옹호 논란' 겪은 심경..\"상상하지 못한 일들 생겨\"[전문]",
+      "summary_ko": "방송인 이혜성이 배우 하영 옹호 의혹에 대해 다시 직접 입장을 밝혔다.",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/10/26/GJTGKYRXMZRGKZBZHE4GCNZYHE/",
+      "published": "2026-10-26T17:55:00+09:00",
+      "tags": [],
+      "event": "lee-hyesung-statement",
+      "state_media": false
+    },
+    {
+      "source": "조선일보",
+      "title_original": "イ・ヘソン、「ハヨン擁護」騒動の心境…「想像もしなかったことが起きた」",
+      "title_ko": "이혜성, '하영 옹호' 논란 심경…\"상상하지 못한 일이 생겼다\"",
+      "summary_ko": "방송인 이혜성이 배우 하영 옹호 의혹에 대해 다시 입장을 밝혔다(일본어판).",
+      "url": "https://www.chosun.com/jp/culture-life-jp/2026/10/26/3OIHXVL6AZDHTEIH2S7HYACYT4/",
+      "published": "2026-10-26T17:55:00+09:00",
+      "tags": [],
+      "event": "lee-hyesung-statement",
+      "state_media": false
+    },
+    {
+      "source": "조선일보",
+      "title_original": "'50연승 괴물' 안세영, 정작 한국에서는 못 본다? 10번째 우승 직후 폭탄 발언...\"코리아 오픈 출전할지 결정할 것\"",
+      "title_ko": "'50연승 괴물' 안세영, 정작 한국에서는 못 본다? 10번째 우승 직후 폭탄 발언...\"코리아 오픈 출전할지 결정할 것\"",
+      "summary_ko": "50연승과 시즌 10번째 우승을 달성한 안세영이 코리아 오픈 출전 여부를 고민 중이다.",
+      "url": "https://www.chosun.com/sports/sports_general/2026/10/26/MEYTANDDGM3GCMRSGI2DOMZVMU/",
+      "published": "2026-10-26T17:55:00+09:00",
+      "tags": [],
+      "event": "an-seyoung-korea-open",
+      "state_media": false
+    },
+    {
+      "source": "조선일보",
+      "title_original": "50連勝の怪物アン・セヨン、韓国で見られない？ コリア・オープン出場は未定",
+      "title_ko": "50연승 괴물 안세영, 한국에서는 못 본다? 코리아 오픈 출전은 미정",
+      "summary_ko": "50연승과 시즌 10번째 우승을 달성한 안세영의 코리아 오픈 출전이 미정이다(일본어판).",
+      "url": "https://www.chosun.com/jp/sports-jp/2026/10/26/526VMPPCIVHUJIJ3UHR2MD6D4E/",
+      "published": "2026-10-26T17:55:00+09:00",
+      "tags": [],
+      "event": "an-seyoung-korea-open",
+      "state_media": false
+    },
+    {
+      "source": "조선일보",
+      "title_original": "‘간질간질’ 간지럼 느끼는 로봇 팔 등장!",
+      "title_ko": "‘간질간질’ 간지럼 느끼는 로봇 팔 등장!",
+      "summary_ko": "간지럼을 느끼는 로봇 팔이 등장했다(어린이 신문 기사, 제목만 확인).",
+      "url": "https://www.chosun.com/kid/kid_nie/kid_lower-grades/2026/10/26/WHRLJ7C6OFFNBHAYRNY6ROPRDI/",
+      "published": "2026-10-26T17:50:48+09:00",
+      "tags": [],
+      "event": "tickle-robot-arm",
+      "state_media": false
+    },
+    {
+      "source": "중앙일보",
+      "title_original": "빌라 창밖으로 불붙은 휴지 ‘휙’…차량 2대 태운 30대 여성 입건",
+      "title_ko": "빌라 창밖으로 불붙은 휴지 ‘휙’…차량 2대 태운 30대 여성 입건",
+      "summary_ko": "빌라 창밖으로 불붙은 휴지를 던져 차량 2대를 태운 30대 여성이 입건됐다.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TVVRNVmlLNVBneV9ucldXVXUtMFU0R1FIX0ZrbGRXZFJrcmRTZUVTc0lMZl9MaEt0NXZGN0p2XzRMNTg2dmNud1dVa1NiOWF2UDhGZzhn?oc=5",
+      "published": "2026-10-26T22:27:09+09:00",
+      "tags": [],
+      "event": "villa-tissue-fire",
+      "state_media": false
+    },
+    {
+      "source": "중앙일보",
+      "title_original": "“백수 연예인보다 월급 받는 삶 좋다”…쥬얼리 전 멤버 깜짝 근황",
+      "title_ko": "“백수 연예인보다 월급 받는 삶 좋다”…쥬얼리 전 멤버 깜짝 근황",
+      "summary_ko": "쥬얼리 전 멤버가 연예인보다 월급 받는 삶이 좋다며 근황을 전했다.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wcjRKLXBaWmkzQ3ZRNkNTZTAxci1tUlVySnRWZFZackJscDBwQXRLQ19SeHpOZndYc2tFSWdfOXdCTkMzOTNPNW4ydTR6ejMySVJSb29n?oc=5",
+      "published": "2026-10-26T20:19:42+09:00",
+      "tags": [],
+      "event": "jewelry-member",
+      "state_media": false
+    },
+    {
+      "source": "중앙일보",
+      "title_original": "지인과 다투고 귀가 조치…30분 뒤 강남대로 활보한 만취女",
+      "title_ko": "지인과 다투고 귀가 조치…30분 뒤 강남대로 활보한 만취女",
+      "summary_ko": "지인과 다퉈 귀가 조치된 만취 여성이 30분 뒤 강남대로를 활보했다.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBZHVqZU5tcGVvSmRQX0ctUHh0UHFCR1Q0T0ZDMTJSZnU2X1pPd0dDR19MMmFsalhvVHV0RjhRTVpka1JPU25oYnF3bDJtcURfb2M5cGtR?oc=5",
+      "published": "2026-10-26T19:22:06+09:00",
+      "tags": [],
+      "event": "gangnam-drunk",
+      "state_media": false
+    },
+    {
+      "source": "중앙일보",
+      "title_original": "“범칙금으로 끝날 뻔”…화물차 낙하물이 부른 기괴한 죽음",
+      "title_ko": "“범칙금으로 끝날 뻔”…화물차 낙하물이 부른 기괴한 죽음",
+      "summary_ko": "화물차 낙하물로 인한 사망 사고가 범칙금으로 끝날 뻔했다는 보도.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQLXlLSVFCTDdHSzE2UlZGZUNuamhRN2FUV0hNbzc3RG9zMkpxcl9JQzRpdDZUR3prYm96eGhBNlVYNVdwODFtVHh4SjdsNnhGbHplcGFB?oc=5",
+      "published": "2026-10-26T18:47:39+09:00",
+      "tags": [],
+      "event": "truck-debris-death",
+      "state_media": false
+    },
+    {
+      "source": "중앙일보",
+      "title_original": "李 “농지 전수조사, 송미령 제안…농어민 불이익 주려는 것 아냐”",
+      "title_ko": "李 “농지 전수조사, 송미령 제안…농어민 불이익 주려는 것 아냐”",
+      "summary_ko": "이재명 대통령이 농지 전수조사는 송미령 장관의 제안이며 농어민에게 불이익을 주려는 것이 아니라고 말했다.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BcjNfMzdBb2I4UnFSTUFNR0xyU3Rhbm4zMk5MdjdTaUUwMmFoVzNkcENJcF8ycTBRMW5tMG1wMGxrdW05Vl8tQnQ0U2lwVlZkQ29PTk9B?oc=5",
+      "published": "2026-10-26T18:25:17+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "lee-farmers-townhall",
+      "state_media": false
+    },
+    {
+      "source": "중앙일보",
+      "title_original": "누워만 있어도 “월요병” 맞혔다…오우라 링, 딱 하나 틀린 것",
+      "title_ko": "누워만 있어도 “월요병” 맞혔다…오우라 링, 딱 하나 틀린 것",
+      "summary_ko": "오우라 링이 '월요병'을 맞혔다는 체험 기사.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qbWRGbzRCUFlMTlJyeW1QQktoU1UtUG80YmpIRUc5WjU1c1pTUXU5bUotbUJVTmpzcWM0QzZxdHRocnRIZm43VXRfQkFEaHYxUy1ISjlB?oc=5",
+      "published": "2026-10-26T18:07:42+09:00",
+      "tags": [],
+      "event": "oura-ring",
+      "state_media": false
+    },
+    {
+      "source": "중앙일보",
+      "title_original": "李 “CPTPP 임기 내 안 될 가능성 높아…비판 있어도 해 놔야”",
+      "title_ko": "李 “CPTPP 임기 내 안 될 가능성 높아…비판 있어도 해 놔야”",
+      "summary_ko": "이재명 대통령이 CPTPP 가입은 임기 내 어려울 가능성이 높지만 비판이 있어도 해 둬야 한다고 말했다.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUV0JNTGNwLVE4T0otdGxHYVE5VV95eVZLdWQ3dWJLZ2xPQUlVTExFWWVrVDNMLWJmQk5SMjdJaFZ2UUdkb2pzczE1S0xTQ3NpYXAxcVhB?oc=5",
+      "published": "2026-10-26T18:05:55+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "lee-farmers-townhall",
+      "state_media": false
+    },
+    {
+      "source": "중앙일보",
+      "title_original": "국방위 여당위원들 “독자적 전작권 행사 선언해야”...미군은 “한반도는 제1도련선 내 핵심 지형”",
+      "title_ko": "국방위 여당위원들 “독자적 전작권 행사 선언해야”...미군은 “한반도는 제1도련선 내 핵심 지형”",
+      "summary_ko": "국방위 여당 위원들이 독자적 전작권 행사 선언을 요구했고, 미군은 한반도를 제1도련선 내 핵심 지형으로 언급했다.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJVGJFUURMb2xOZzNicW1ieW53SU1fdUo2WWsyOHFjWkllcmxpQ0FOOXRFMExWTlp3bmtCOEtxZURsMTlSZ1ltbE13RVJFeW5mblhHYkRn?oc=5",
+      "published": "2026-10-26T18:02:05+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "opcon-transfer",
+      "state_media": false
+    },
+    {
+      "source": "동아일보",
+      "title_original": "수비 실책으로 준PO 호된 신고식 치렀던 KIA 박재현, PO에선 호수비로 승리 쐐기",
+      "title_ko": "수비 실책으로 준PO 호된 신고식 치렀던 KIA 박재현, PO에선 호수비로 승리 쐐기",
+      "summary_ko": "KIA 박재현이 PO 1차전에서 호수비로 승리에 쐐기를 박았다.",
+      "url": "https://www.donga.com/news/Sports/article/all/20261026/134913259/1",
+      "published": "2026-10-26T22:32:00+09:00",
+      "tags": [],
+      "event": "kbo-po1-kia-samsung",
+      "state_media": false
+    },
+    {
+      "source": "동아일보",
+      "title_original": "“다람쥐는 뭐 먹나”…도토리 7포대 쓸어온 주민 눈살",
+      "title_ko": "“다람쥐는 뭐 먹나”…도토리 7포대 쓸어온 주민 눈살",
+      "summary_ko": "도토리 7포대를 채취해 아파트 단지에서 말린 주민에게 비판이 쏟아졌다.",
+      "url": "https://www.donga.com/news/Society/article/all/20261026/134913460/1",
+      "published": "2026-10-26T22:20:00+09:00",
+      "tags": [],
+      "event": "acorn-gathering",
+      "state_media": false
+    },
+    {
+      "source": "동아일보",
+      "title_original": "메타, 126조원 규모 초대형 증자…AI 인프라 확충 승부수",
+      "title_ko": "메타, 126조원 규모 초대형 증자…AI 인프라 확충 승부수",
+      "summary_ko": "메타가 AI 인프라 확충을 위해 950억 달러(약 126조 원) 규모 신주 발행을 추진한다. 지분 희석 우려에도 AI 승부수에 나섰다.",
+      "url": "https://www.donga.com/news/Inter/article/all/20261026/134913426/1",
+      "published": "2026-10-26T22:04:00+09:00",
+      "tags": [
+        "business",
+        "stocks",
+        "industry"
+      ],
+      "event": "meta-share-issuance",
+      "state_media": false
+    },
+    {
+      "source": "동아일보",
+      "title_original": "“오세훈 밀어줄 당권 대리인, 언더찐윤 그룹서 나올 것”[정치를 부탁해]",
+      "title_ko": "“오세훈 밀어줄 당권 대리인, 언더찐윤 그룹서 나올 것”[정치를 부탁해]",
+      "summary_ko": "동아일보 정치 라이브에서 오세훈 시장을 밀어줄 당권 대리인이 '언더찐윤' 그룹에서 나올 것이라는 전망이 나왔다.",
+      "url": "https://www.donga.com/news/Politics/article/all/20261026/134912995/1",
+      "published": "2026-10-26T22:04:00+09:00",
+      "tags": [],
+      "event": "oh-sehoon-conservative-realign",
+      "state_media": false
+    },
+    {
+      "source": "동아일보",
+      "title_original": "산 넘어 산, 김도영 넘어 카스트로…KIA, PO 1차전서 삼성 5-1로 꺾고 77.1% 확률 잡아",
+      "title_ko": "산 넘어 산, 김도영 넘어 카스트로…KIA, PO 1차전서 삼성 5-1로 꺾고 77.1% 확률 잡아",
+      "summary_ko": "KIA가 카스트로의 3타점을 앞세워 PO 1차전에서 삼성을 5-1로 이겼다.",
+      "url": "https://www.donga.com/news/Sports/article/all/20261026/134913145/1",
+      "published": "2026-10-26T21:48:00+09:00",
+      "tags": [],
+      "event": "kbo-po1-kia-samsung",
+      "state_media": false
+    },
+    {
+      "source": "동아일보",
+      "title_original": "李 “농지조사 송미령 장관이 제안한 것”…국힘 “잘못되자 장관탓”",
+      "title_ko": "李 “농지조사 송미령 장관이 제안한 것”…국힘 “잘못되자 장관탓”",
+      "summary_ko": "이재명 대통령이 농어민과의 대화에서 농지 전수조사는 송미령 장관 제안이라고 밝히자 국민의힘은 '잘못되자 장관 탓'이라고 비판했다. CPTPP 가입 우려도 언급됐다.",
+      "url": "https://www.donga.com/news/Politics/article/all/20261026/134910478/1",
+      "published": "2026-10-26T21:16:00+09:00",
+      "tags": [
+        "legislation",
+        "geopolitics"
+      ],
+      "event": "lee-farmers-townhall",
+      "state_media": false
+    },
+    {
+      "source": "동아일보",
+      "title_original": "30대女 민통선 넘어 GOP 철책 훼손…軍, 20시간 지나서야 체포",
+      "title_ko": "30대女 민통선 넘어 GOP 철책 훼손…軍, 20시간 지나서야 체포",
+      "summary_ko": "30대 여성이 강원 철원에서 민통선을 넘어 GOP 철책을 훼손했고, 군은 약 20시간 동안 신병을 확보하지 못했다.",
+      "url": "https://www.donga.com/news/Politics/article/all/20261026/134912750/1",
+      "published": "2026-10-26T21:15:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "cheorwon-gop-breach",
+      "state_media": false
+    },
+    {
+      "source": "동아일보",
+      "title_original": "與 ‘전작권 임기내 전환’ 압박에…강신철 “목표연도 美와 공감대”",
+      "title_ko": "與 ‘전작권 임기내 전환’ 압박에…강신철 “목표연도 美와 공감대”",
+      "summary_ko": "여당이 국방부 국정감사에서 전작권 임기 내 전환을 압박하자 강신철 국방장관은 목표연도에 대해 미국과 공감대가 있다고 답했다.",
+      "url": "https://www.donga.com/news/Politics/article/all/20261026/134911238/1",
+      "published": "2026-10-26T21:02:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "opcon-transfer",
+      "state_media": false
+    },
+    {
+      "source": "한겨레",
+      "title_original": "오세훈, 야당 의원들과 만찬…“통합도 정치도 잘해 희망 드리도록”",
+      "title_ko": "오세훈, 야당 의원들과 만찬…“통합도 정치도 잘해 희망 드리도록”",
+      "summary_ko": "오세훈 시장이 야당 의원들과 만찬을 하며 통합과 정치를 잘해 희망을 드리겠다고 말했다.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WX3F2OXVUZDZJd0JVN3hRV3dDdVI4bXVpb1FBTFhIcnI1dk42dXBfa01ONHY3bDc2dnd1NFlWenlKZnV0NEdiZTdaR2JYTFBHeWIwTG9lY05uUXlfY1JPZXB3YkU2eEcta1JBNzJJNFBtOHU5?oc=5",
+      "published": "2026-10-26T22:24:00+09:00",
+      "tags": [],
+      "event": "oh-sehoon-conservative-realign",
+      "state_media": false
+    },
+    {
+      "source": "한겨레",
+      "title_original": "‘박정희 첫 추모사’ 오세훈, 국힘 의원들·이준석과 연쇄 만찬",
+      "title_ko": "‘박정희 첫 추모사’ 오세훈, 국힘 의원들·이준석과 연쇄 만찬",
+      "summary_ko": "박정희 추모사를 처음 한 오세훈 시장이 국민의힘 의원들·이준석과 잇따라 만찬을 했다.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mMXF5SG5aOXBDbVBTc0ljeDI2empHa2ZBN05fUzFIR1AwV05TdWtTZG9VM3diRndwd2tqdDJweUNnakl5LTVTLWp6dlVkRDgzV0hFeXFlT09GQnNGeWpiNHV2a3ZNamVYR0xoWUpad3FzRjJx?oc=5",
+      "published": "2026-10-26T22:10:00+09:00",
+      "tags": [],
+      "event": "oh-sehoon-conservative-realign",
+      "state_media": false
+    },
+    {
+      "source": "한겨레",
+      "title_original": "[단독] 5인 미만 사업장에 ‘연차’ 생기면…산업재해 905명 감소 추정",
+      "title_ko": "[단독] 5인 미만 사업장에 ‘연차’ 생기면…산업재해 905명 감소 추정",
+      "summary_ko": "5인 미만 사업장에 연차휴가가 적용되면 산업재해가 905명 줄 것으로 추정된다는 단독 보도.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Wek9zODE0VHQ0YXp6TzJCaW1ZSHU4ODJnSkh0QWdOeVNBNldwMnhNa0NsV3FfSU55cW5Td3ZkUDFXREtKZG55THJHMmMtbjRqTGVmRjNLTEtHNktuMzBETW1WdjdQUGJYcEdNOE5KR3ZsQQ?oc=5",
+      "published": "2026-10-26T22:10:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "small-workplace-leave",
+      "state_media": false
+    },
+    {
+      "source": "한겨레",
+      "title_original": "5·18 다룬 ‘닥터X’에 방영 중단 청원까지…“창작 자유 위축될라”",
+      "title_ko": "5·18 다룬 ‘닥터X’에 방영 중단 청원까지…“창작 자유 위축될라”",
+      "summary_ko": "5·18을 다룬 드라마 '닥터X'에 방영 중단 청원까지 나오며 창작 자유 위축 우려가 제기됐다.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWUkdoakNFaVBGVFMzVG9taXZtTW0zU3RRcU5KRFVNcFlySG9Ua3lZV25ITHZ0Slhocmx4MDkxT1h2bzVTQ3EwaG9ZU2tNeEdnZjNCOVpQaDJPOUhsX3dNSXJDZ3p0cHp3X2lkLTRMOVo4Zw?oc=5",
+      "published": "2026-10-26T22:09:00+09:00",
+      "tags": [],
+      "event": "doctor-x-518",
+      "state_media": false
+    },
+    {
+      "source": "한겨레",
+      "title_original": "“마디나, 너와 함께 있네”…언니는 동생의 추억 속 장소를 따라걸었다",
+      "title_ko": "“마디나, 너와 함께 있네”…언니는 동생의 추억 속 장소를 따라걸었다",
+      "summary_ko": "언니가 세상을 떠난 동생 마디나의 추억이 담긴 장소를 따라 걸었다.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NbC0wYzJKaTJoNkFJbWxhMGtZRl9WQThOYkFVRFNkY2d6bFdzaUxWQ1B2NE4tQXRicTgyZDlWY09EeGEwekZBaC0tYVlvWkl4RGRsTXZ5ek9UcUdMUFp0ZTZqVXNnUnB0TENRSlAtcWVoUQ?oc=5",
+      "published": "2026-10-26T22:09:00+09:00",
+      "tags": [],
+      "event": "madina-memory",
+      "state_media": false
+    },
+    {
+      "source": "한겨레",
+      "title_original": "한밤 빗속 무등산에서 길잃은 80대…40분 업고 내려온 경찰들",
+      "title_ko": "한밤 빗속 무등산에서 길잃은 80대…40분 업고 내려온 경찰들",
+      "summary_ko": "한밤 빗속 무등산에서 길 잃은 80대를 경찰들이 40분간 업고 내려왔다.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zZzJ1OElINFRPd1lkZ0JyMjNyNDNfMUNkMDJNVk42NjYtWHNyQldnRWgycXpoNVRfdWxXQUlyZXE4bFNScXozVnFOcjJPcndXTkZxcEJ3aGxtOWdjdEZqX2hZOG5kRHBZYWdqd1hmdFJ6Zw?oc=5",
+      "published": "2026-10-26T22:09:00+09:00",
+      "tags": [],
+      "event": "mudeungsan-rescue",
+      "state_media": false
+    },
+    {
+      "source": "한겨레",
+      "title_original": "국방장관 “한-미, 전작권 전환 연도 긴밀 협의 중”",
+      "title_ko": "국방장관 “한-미, 전작권 전환 연도 긴밀 협의 중”",
+      "summary_ko": "국방장관이 한·미가 전작권 전환 연도를 긴밀히 협의 중이라고 밝혔다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6enk5eFJnc1dURU1zZFo3RTROVElaMVlnM2E1SHZnQmJLdDdxRHBqamh2ZkJjMUFyUnBIcFd2RjlpSkhySHNhXzBScGJTbTc4OUFpX1F6dzZsY1Yxblo1QjktT0VNNTZS?oc=5",
+      "published": "2026-10-26T21:08:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "opcon-transfer",
+      "state_media": false
+    },
+    {
+      "source": "한겨레",
+      "title_original": "주진우 “김혜경 여사 ‘황제 골프’”…지목된 골퍼 “사실 아냐”",
+      "title_ko": "주진우 “김혜경 여사 ‘황제 골프’”…지목된 골퍼 “사실 아냐”",
+      "summary_ko": "주진우 의원이 김혜경 여사 '황제 골프' 의혹을 제기했으나 지목된 골퍼는 사실이 아니라고 했다.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBld2Q4Skp3dzNXVW1SOUlLbjF3RVRZXzJvYUVqWTMwNVhfelBDWjFscEFGTUdJM3lzZEduRldtT1dFZm5iVHlOMWwtX24tdjZnUW1JVjdhcnYtQWk1OExfN3JTb0lfc3c2YmZIZTg5dFhzdw?oc=5",
+      "published": "2026-10-26T21:07:00+09:00",
+      "tags": [],
+      "event": "kim-hyekyung-golf-claim",
+      "state_media": false
+    },
+    {
+      "source": "경향신문",
+      "title_original": "홈런 빼고 다 해준 김도영…KIA, 기선 제압",
+      "title_ko": "홈런 빼고 다 해준 김도영…KIA, 기선 제압",
+      "summary_ko": "김도영이 홈런 외 모든 활약을 펼쳐 KIA가 PO 1차전에서 삼성을 5-1로 이겼다.",
+      "url": "https://www.khan.co.kr/article/202610262219005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-10-26T22:19:00+09:00",
+      "tags": [],
+      "event": "kbo-po1-kia-samsung",
+      "state_media": false
+    },
+    {
+      "source": "경향신문",
+      "title_original": "[속보]미국 AI기업 앤트로픽, 나스닥 상장 위한 IPO 신청",
+      "title_ko": "[속보]미국 AI기업 앤트로픽, 나스닥 상장 위한 IPO 신청",
+      "summary_ko": "미국 AI 기업 앤트로픽이 나스닥 상장을 위한 IPO를 신청했다(속보).",
+      "url": "https://www.khan.co.kr/article/202610262218001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-10-26T22:18:00+09:00",
+      "tags": [
+        "stocks",
+        "industry",
+        "business"
+      ],
+      "event": "anthropic-ipo",
+      "state_media": false
+    },
+    {
+      "source": "경향신문",
+      "title_original": "‘도루하는 홈런왕’ 김도영, 발로 삼성 잡았다…KIA, 1차전 5대 1로 기선제압",
+      "title_ko": "‘도루하는 홈런왕’ 김도영, 발로 삼성 잡았다…KIA, 1차전 5대 1로 기선제압",
+      "summary_ko": "김도영의 주루를 앞세운 KIA가 PO 1차전에서 삼성을 5-1로 꺾었다.",
+      "url": "https://www.khan.co.kr/article/202610262211001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-10-26T22:11:00+09:00",
+      "tags": [],
+      "event": "kbo-po1-kia-samsung",
+      "state_media": false
+    },
+    {
+      "source": "경향신문",
+      "title_original": "금감원 “불법 대부계약은 무효” 확인서…형사재판서 피해자 무죄 입증에 첫 활용",
+      "title_ko": "금감원 “불법 대부계약은 무효” 확인서…형사재판서 피해자 무죄 입증에 첫 활용",
+      "summary_ko": "연 이율 60% 초과 불법 대부계약의 원리금을 무효로 확인하는 금감원 '무효확인서'가 형사재판에서 피해자 무죄 입증에 처음 활용됐다.",
+      "url": "https://www.khan.co.kr/article/202610262203005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-10-26T22:03:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "fss-illegal-loan-void",
+      "state_media": false
+    },
+    {
+      "source": "경향신문",
+      "title_original": "농어민 달래기 나선 이 대통령 “CPTPP 가입으로 피해 없을 것”",
+      "title_ko": "농어민 달래기 나선 이 대통령 “CPTPP 가입으로 피해 없을 것”",
+      "summary_ko": "이재명 대통령이 농어민과의 대화에서 CPTPP 가입으로 피해가 없을 것이며 정상적 농지는 불이익이 없다고 말했다.",
+      "url": "https://www.khan.co.kr/article/202610262200025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-10-26T22:00:02+09:00",
+      "tags": [
+        "legislation",
+        "geopolitics"
+      ],
+      "event": "lee-farmers-townhall",
+      "state_media": false
+    },
+    {
+      "source": "경향신문",
+      "title_original": "[뉴스분석]‘소득 있는 곳에 과세’ 실종…신뢰 잃는 조세정책",
+      "title_ko": "[뉴스분석]‘소득 있는 곳에 과세’ 실종…신뢰 잃는 조세정책",
+      "summary_ko": "가상자산 소득 과세가 네 번째로 유예될 가능성이 커지며, 양도세·종부세에 이어 조세정책이 여론에 밀려 후퇴한다는 분석.",
+      "url": "https://www.khan.co.kr/article/202610262200015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-10-26T22:00:01+09:00",
+      "tags": [
+        "crypto",
+        "legislation"
+      ],
+      "event": "crypto-tax-delay",
+      "state_media": false
+    },
+    {
+      "source": "경향신문",
+      "title_original": "룰라, 브라질 첫 4선 성공…대선 결선 역전승",
+      "title_ko": "룰라, 브라질 첫 4선 성공…대선 결선 역전승",
+      "summary_ko": "룰라 대통령이 대선 결선에서 보우소나루 후보를 3.58%p 차로 제치고 브라질 첫 4선에 성공했다. 투표 시간 연장을 두고 부정선거론도 나왔다.",
+      "url": "https://www.khan.co.kr/article/202610262200005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-10-26T22:00:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "lula-fourth-term",
+      "state_media": false
+    },
+    {
+      "source": "경향신문",
+      "title_original": "‘인터넷 독학’ 해커, AI로 기업 털었다",
+      "title_ko": "‘인터넷 독학’ 해커, AI로 기업 털었다",
+      "summary_ko": "생성형 AI를 이용해 90여 개 업체에서 개인정보 820만 건을 탈취하고 금품을 요구한 해킹조직 7명이 국내 처음 검거됐다.",
+      "url": "https://www.khan.co.kr/article/202610262159005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "published": "2026-10-26T21:59:00+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "ai-hacking-arrest",
+      "state_media": false
+    },
+    {
+      "source": "매일경제",
+      "title_original": "고개숙인 삼성 ‘힘 한번 못 써보고 완패’ [MK포토]",
+      "title_ko": "고개숙인 삼성 ‘힘 한번 못 써보고 완패’ [MK포토]",
+      "summary_ko": "PO 1차전에서 완패한 삼성(사진 기사).",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqeXdZM0VvX3VKSmxOTWZzNDNfby10VzFLdW1QSzQxTjNKU19uYlZsV2lwUkRwT1hGdWdEa0c1V2dacDFwdnRzQlVBUlhCWkpFOTQ4?oc=5",
+      "published": "2026-10-26T22:03:41+09:00",
+      "tags": [],
+      "event": "kbo-po1-kia-samsung",
+      "state_media": false
+    },
+    {
+      "source": "매일경제",
+      "title_original": "PO 1차전 승리 거둔 KIA ‘2차전도 기대하세요’ [MK포토]",
+      "title_ko": "PO 1차전 승리 거둔 KIA ‘2차전도 기대하세요’ [MK포토]",
+      "summary_ko": "PO 1차전 승리 KIA(사진 기사).",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lQVo2bEt2R05ZalpQQVJNalU2dFBPQzg4MC1Ec3Nkci1TdTI1NWtibEFpWEgtZ3kxang1a2NNbTgxSUJPNzIyc2JYQWVWdnVLN2FF?oc=5",
+      "published": "2026-10-26T21:56:13+09:00",
+      "tags": [],
+      "event": "kbo-po1-kia-samsung",
+      "state_media": false
+    },
+    {
+      "source": "매일경제",
+      "title_original": "이범호 감독 ‘김도영, 오늘 공수주에서 완벽했어’ [MK포토]",
+      "title_ko": "이범호 감독 ‘김도영, 오늘 공수주에서 완벽했어’ [MK포토]",
+      "summary_ko": "이범호 감독이 김도영의 공수주 활약을 칭찬했다(사진 기사).",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1ZFVPVWpBakhfYlV3UUtieGg5bW9tOXF5TDVjM1Jld19hTHpVU2xGa0hsWW91ZncyUlc3RUdRSjg1UzMzTzhncDZ6ZXNpNlhRWDVV?oc=5",
+      "published": "2026-10-26T21:54:31+09:00",
+      "tags": [],
+      "event": "kbo-po1-kia-samsung",
+      "state_media": false
+    },
+    {
+      "source": "매일경제",
+      "title_original": "이범호 감독 ‘카스트로, 오늘 대단했어’ [MK포토]",
+      "title_ko": "이범호 감독 ‘카스트로, 오늘 대단했어’ [MK포토]",
+      "summary_ko": "이범호 감독이 카스트로의 활약을 칭찬했다(사진 기사).",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kb2JSaGdqdDVvS3dmNWctdjF2M2pCZlp0MnZHVTJzbXJuSVI1QWgwMlJWN0FDYkpkWU5rb3c4SE1HRUl4UHVRNEI4MUlDZjdBRjRN?oc=5",
+      "published": "2026-10-26T21:53:20+09:00",
+      "tags": [],
+      "event": "kbo-po1-kia-samsung",
+      "state_media": false
+    },
+    {
+      "source": "매일경제",
+      "title_original": "전상현-김태군 ‘PO 1차전, 완벽한 승리’ [MK포토]",
+      "title_ko": "전상현-김태군 ‘PO 1차전, 완벽한 승리’ [MK포토]",
+      "summary_ko": "전상현·김태군의 PO 1차전 승리(사진 기사).",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZbXN6aFp0bDhtT29uS2JFcFFJMlI0VWN2MGZkdHVRbVRUbU5NZHZLQ3dKYUt4YXpvNmRtaFNRNlN3a0pzWDZVdjFsTGNLblVwMlA0?oc=5",
+      "published": "2026-10-26T21:51:59+09:00",
+      "tags": [],
+      "event": "kbo-po1-kia-samsung",
+      "state_media": false
+    },
+    {
+      "source": "매일경제",
+      "title_original": "카스트로-김도영 ‘PO 1차전, 기분좋은 승리’ [MK포토]",
+      "title_ko": "카스트로-김도영 ‘PO 1차전, 기분좋은 승리’ [MK포토]",
+      "summary_ko": "카스트로·김도영의 PO 1차전 승리(사진 기사).",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGLV9oQWNCQy1YZ0pzNUNJbExaRjd2YU8zSmZGa1otZ1lhTVR2QVVZbjVtLWN4Vm5XN3FvT2RQbjJCc1JER0E3N1hqY2FuTHdBZ1lZ?oc=5",
+      "published": "2026-10-26T21:50:28+09:00",
+      "tags": [],
+      "event": "kbo-po1-kia-samsung",
+      "state_media": false
+    },
+    {
+      "source": "매일경제",
+      "title_original": "KIA 카스트로 ‘PO1차전, 데일리 MVP 선정’ [MK포토]",
+      "title_ko": "KIA 카스트로 ‘PO1차전, 데일리 MVP 선정’ [MK포토]",
+      "summary_ko": "KIA 카스트로가 PO 1차전 데일리 MVP로 선정됐다(사진 기사).",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04TWE1MmJveVpBQzdEYlhlTlFRQW5JdEpENExEYWpTOWVhbXptd04xOUw5aUpHTnZ3Z0pVMklQdS1zQThiVmVHZlM0aF9jS2NhRTZz?oc=5",
+      "published": "2026-10-26T21:48:47+09:00",
+      "tags": [],
+      "event": "kbo-po1-kia-samsung",
+      "state_media": false
+    },
+    {
+      "source": "매일경제",
+      "title_original": "PO1차전 승리 거둔 KIA ‘KS 진출 77.1% 잡았다’ [MK포토]",
+      "title_ko": "PO1차전 승리 거둔 KIA ‘KS 진출 77.1% 잡았다’ [MK포토]",
+      "summary_ko": "PO 1차전 승리로 KIA가 한국시리즈 진출 확률 77.1%를 잡았다(사진 기사).",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NVnUzRlNEcERmcjlacjJWSTFlUTN5aVJoWmhqWjZTdHRESGlqMF9STDZxaExVZWpaVUQ0SkRKQTc2bkxTRk9PeExyWE1tS0NydUhZ?oc=5",
+      "published": "2026-10-26T21:45:47+09:00",
+      "tags": [],
+      "event": "kbo-po1-kia-samsung",
+      "state_media": false
+    },
+    {
+      "source": "한국경제",
+      "title_original": "\"사흘치 식량 비축하라\"…러시아 위협에 비상 걸린 영국",
+      "title_ko": "\"사흘치 식량 비축하라\"…러시아 위협에 비상 걸린 영국",
+      "summary_ko": "러시아 위협에 영국에서 사흘치 식량을 비축하라는 권고가 나왔다(제목만 확인).",
+      "url": "https://www.hankyung.com/article/2026102663297",
+      "published": "2026-10-26T22:35:23+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "uk-food-stockpile",
+      "state_media": false
+    },
+    {
+      "source": "한국경제",
+      "title_original": "오세훈 무죄에 \"조희대 탄핵\"…김현지 PPT 나오자 법사위 파행",
+      "title_ko": "오세훈 무죄에 \"조희대 탄핵\"…김현지 PPT 나오자 법사위 파행",
+      "summary_ko": "오세훈 무죄 이후 조희대 탄핵론이 나오는 가운데 '김현지 PPT'를 계기로 법사위가 파행했다(제목만 확인).",
+      "url": "https://www.hankyung.com/article/2026102663317",
+      "published": "2026-10-26T22:34:37+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "jo-heedae-impeachment",
+      "state_media": false
+    },
+    {
+      "source": "한국경제",
+      "title_original": "\"JYP 절반 사겠다\" 日투자사 깜짝 발표…주가 14% 뛰었다",
+      "title_ko": "\"JYP 절반 사겠다\" 日투자사 깜짝 발표…주가 14% 뛰었다",
+      "summary_ko": "일본 투자사가 JYP 지분 절반을 사겠다고 발표해 주가가 14% 뛰었다(제목만 확인).",
+      "url": "https://www.hankyung.com/article/2026102663267",
+      "published": "2026-10-26T22:30:42+09:00",
+      "tags": [
+        "stocks",
+        "business"
+      ],
+      "event": "jyp-takeover-rumor",
+      "state_media": false
+    },
+    {
+      "source": "한국경제",
+      "title_original": "JYP, 때아닌 인수설…\"제안받은 적 없다\" 일축",
+      "title_ko": "JYP, 때아닌 인수설…\"제안받은 적 없다\" 일축",
+      "summary_ko": "JYP가 인수설에 대해 제안받은 적 없다고 일축했다(제목만 확인).",
+      "url": "https://www.hankyung.com/article/202610266306H",
+      "published": "2026-10-26T22:27:10+09:00",
+      "tags": [
+        "stocks",
+        "business"
+      ],
+      "event": "jyp-takeover-rumor",
+      "state_media": false
+    },
+    {
+      "source": "한국경제",
+      "title_original": "세관 엑스레이도 무용지물…케타민, 택배 상자에 숨겼다",
+      "title_ko": "세관 엑스레이도 무용지물…케타민, 택배 상자에 숨겼다",
+      "summary_ko": "케타민을 택배 상자에 숨겨 세관 엑스레이를 피한 사례(제목만 확인).",
+      "url": "https://www.hankyung.com/article/2026102663207",
+      "published": "2026-10-26T22:25:41+09:00",
+      "tags": [],
+      "event": "ketamine-smuggling",
+      "state_media": false
+    },
+    {
+      "source": "한국경제",
+      "title_original": "\"자식 줄 돈? 내가 다 쓰고 갈래요\"…은퇴세대 확 바뀌었다",
+      "title_ko": "\"자식 줄 돈? 내가 다 쓰고 갈래요\"…은퇴세대 확 바뀌었다",
+      "summary_ko": "자녀에게 물려주기보다 스스로 쓰겠다는 은퇴세대의 인식 변화(제목만 확인).",
+      "url": "https://www.hankyung.com/article/2026102663197",
+      "published": "2026-10-26T22:23:40+09:00",
+      "tags": [],
+      "event": "retiree-spending",
+      "state_media": false
+    },
+    {
+      "source": "한국경제",
+      "title_original": "\"추억의 싸이월드 연내 부활\"…내년 4월엔 사진도 복원",
+      "title_ko": "\"추억의 싸이월드 연내 부활\"…내년 4월엔 사진도 복원",
+      "summary_ko": "싸이월드가 연내 부활하고 내년 4월 사진도 복원된다(제목만 확인).",
+      "url": "https://www.hankyung.com/article/2026102663127",
+      "published": "2026-10-26T22:16:18+09:00",
+      "tags": [
+        "business",
+        "industry"
+      ],
+      "event": "cyworld-revival",
+      "state_media": false
+    },
+    {
+      "source": "한국경제",
+      "title_original": "[속보] 美 AI기업 앤트로픽, '나스닥 상장' 위한 IPO 신청",
+      "title_ko": "[속보] 美 AI기업 앤트로픽, '나스닥 상장' 위한 IPO 신청",
+      "summary_ko": "미국 AI 기업 앤트로픽이 나스닥 상장을 위한 IPO를 신청했다(속보, 제목만 확인).",
+      "url": "https://www.hankyung.com/article/2026102663137",
+      "published": "2026-10-26T22:14:50+09:00",
+      "tags": [
+        "stocks",
+        "industry",
+        "business"
+      ],
+      "event": "anthropic-ipo",
+      "state_media": false
+    }
   ],
   "events": [
-    {"event": "kim-jong-un-china-visit", "title_ko": "김정은 방중(단둥 방문)", "sources": ["KBS", "SBS", "연합뉴스"], "count": 3},
-    {"event": "oh-sehoon-acquittal-judiciary-clash", "title_ko": "오세훈 항소심 무죄·조희대 대법원장 둘러싼 여야 충돌(법사위 국감)", "sources": ["SBS"], "count": 1},
-    {"event": "nk-landmine-un-letter", "title_ko": "북한, 지뢰 폭발 관련 유엔 안보리 의장에 서한", "sources": ["SBS"], "count": 1},
-    {"event": "cold-snap-2026-10", "title_ko": "태풍 후 이른 추위, 기온 급락", "sources": ["KBS"], "count": 1},
-    {"event": "myung-taegyun-kim-gunhee-recording", "title_ko": "명태균 녹취·김건희 공천개입 의혹(JTBC 이전 회차)", "sources": ["JTBC"], "count": 1}
+    {
+      "event": "kbo-po1-kia-samsung",
+      "title_ko": "KBO PO 1차전 KIA, 삼성에 5-1 승",
+      "sources": [
+        "연합뉴스",
+        "조선일보",
+        "동아일보",
+        "경향신문",
+        "매일경제"
+      ],
+      "count": 5
+    },
+    {
+      "event": "oh-sehoon-conservative-realign",
+      "title_ko": "오세훈 항소심 무죄 후 보수 결집·국힘 주도권 경쟁",
+      "sources": [
+        "YTN",
+        "JTBC",
+        "연합뉴스",
+        "동아일보",
+        "한겨레"
+      ],
+      "count": 5
+    },
+    {
+      "event": "anthropic-ipo",
+      "title_ko": "미국 AI 기업 앤트로픽, 나스닥 IPO 신청",
+      "sources": [
+        "연합뉴스",
+        "경향신문",
+        "한국경제"
+      ],
+      "count": 3
+    },
+    {
+      "event": "jo-heedae-impeachment",
+      "title_ko": "오세훈 무죄 계기 조희대 대법원장 탄핵론",
+      "sources": [
+        "SBS",
+        "YTN",
+        "한국경제"
+      ],
+      "count": 3
+    },
+    {
+      "event": "lee-farmers-townhall",
+      "title_ko": "이 대통령 농어민과의 대화(농지 전수조사·CPTPP)",
+      "sources": [
+        "중앙일보",
+        "동아일보",
+        "경향신문"
+      ],
+      "count": 3
+    },
+    {
+      "event": "lula-fourth-term",
+      "title_ko": "브라질 룰라 4선 성공",
+      "sources": [
+        "MBC",
+        "JTBC",
+        "경향신문"
+      ],
+      "count": 3
+    },
+    {
+      "event": "opcon-transfer",
+      "title_ko": "전작권 전환 연도 논의·여당 독자 행사 압박",
+      "sources": [
+        "중앙일보",
+        "동아일보",
+        "한겨레"
+      ],
+      "count": 3
+    },
+    {
+      "event": "cheorwon-gop-breach",
+      "title_ko": "철원 민통선·GOP 철책 침범과 경계 미흡",
+      "sources": [
+        "SBS",
+        "동아일보"
+      ],
+      "count": 2
+    },
+    {
+      "event": "kim-hyekyung-golf-claim",
+      "title_ko": "김혜경 여사 골프 의혹 공방",
+      "sources": [
+        "SBS",
+        "한겨레"
+      ],
+      "count": 2
+    },
+    {
+      "event": "uijeongbu-highway-crash",
+      "title_ko": "의정부 고속도로 추돌 사고",
+      "sources": [
+        "KBS",
+        "YTN"
+      ],
+      "count": 2
+    },
+    {
+      "event": "an-seyoung-korea-open",
+      "title_ko": "안세영 50연승·코리아 오픈 출전 미정",
+      "sources": [
+        "조선일보"
+      ],
+      "count": 1
+    },
+    {
+      "event": "jyp-takeover-rumor",
+      "title_ko": "일본 투자사 JYP 인수 발표·JYP 부인",
+      "sources": [
+        "한국경제"
+      ],
+      "count": 1
+    },
+    {
+      "event": "kang-leo-remark",
+      "title_ko": "강레오 실업급여 여행 청년 쓴소리",
+      "sources": [
+        "조선일보"
+      ],
+      "count": 1
+    },
+    {
+      "event": "lee-hyesung-statement",
+      "title_ko": "이혜성 하영 옹호 논란 입장",
+      "sources": [
+        "조선일보"
+      ],
+      "count": 1
+    },
+    {
+      "event": "nk-border-artillery",
+      "title_ko": "북한 서부전선 자주포 전진 배치",
+      "sources": [
+        "SBS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "us-russia-ukraine-trilateral",
+      "title_ko": "미·러·우크라 3자회담 재개 논의",
+      "sources": [
+        "한국경제TV"
+      ],
+      "count": 1
+    }
   ],
   "unavailable_sources": []
 }

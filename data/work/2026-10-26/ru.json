@@ -1,70 +1,1001 @@
 {
   "team": "ru",
   "headlines": [
-    {"source": "Channel One (1tv)", "title_original": "Полная совместимость. 6 серия", "title_ko": "완벽한 호환성 6화", "summary_ko": "제1채널 방영 프로그램(시리즈) 6화.", "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcUhGLU1BRVpvQ3VEdjV1QWZ1QUZ3SEstb3dVeGlHSl9od1hOeUlRZ0JIOHF4WVNUNkZHM011amtyTF9Sa05NOFJWODBuUHYyaGhic0FoaHJzWUNnN18zdTVpbk5CWmY1SWU3TmNscXNCdTJ3MXRLUGNCVkZBZkhmdnRCUE1BZUEwdlF1ZlVpVk5LQVRhcXByUllOVQ?oc=5", "published": "2026-10-26T11:24:47+09:00", "tags": [], "event": "", "state_media": true},
-    {"source": "Channel One (1tv)", "title_original": "Выпуск программы «Время» от 25.10.2026", "title_ko": "프로그램 '브레먀' 2026년 10월 25일 방송분", "summary_ko": "제1채널 간판 뉴스 프로그램 10월 25일자 방송.", "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91LVd4cTJMOUZPMW93UjNqWEg3ME84NE94RVptUW1aOXBUWW1UT09MOS04bnE3MEhrVEZvVFVqZy1aQVhvVlhRZzViM19xTVBZZEdv?oc=5", "published": "2026-10-26T04:50:00+09:00", "tags": [], "event": "", "state_media": true},
-    {"source": "Channel One (1tv)", "title_original": "Корреспондент Первого канала встретилась с изобретателем летающего скейтборда", "title_ko": "제1채널 특파원, 하늘을 나는 스케이트보드 발명가와 만나", "summary_ko": "제1채널 기자가 비행 스케이트보드 발명가를 만났다.", "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zM2hMeFRYQ0lYdjZndVZlTHVmS2k2VTZGdWFhTzdOdnZWV2l2UmFmUDIyUlg0WDJXMjIyX0R1S284X0RZMWNmUHhIczNrc3N3b1pJ?oc=5", "published": "2026-10-26T04:35:00+09:00", "tags": [], "event": "", "state_media": true},
-    {"source": "Channel One (1tv)", "title_original": "Михаил Мишустин провел переговоры с премьером Государственного совета КНР Ли Цяном", "title_ko": "미슈스틴, 중국 국무원 총리 리창과 회담", "summary_ko": "미하일 미슈스틴 러시아 총리가 리창 중국 국무원 총리와 회담을 가졌다.", "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wekQ2WkFfTTh2dUVBWTdyWUJqOEZ2VTVhNDdLTWdBT0dUdnFveG5nUGhsWHRlY0U0d3Q4VVQtUlM2M0dBRzZod3VMeGk4c2RnWFI4?oc=5", "published": "2026-10-26T03:48:00+09:00", "tags": ["geopolitics"], "event": "", "state_media": true},
-    {"source": "Channel One (1tv)", "title_original": "Танцы на льду. Произвольный танец. Санкт-Петербург. Гран-при России по фигурному катанию 2026/27", "title_ko": "아이스댄스 프리댄스, 상트페테르부르크 - 2026/27 러시아 피겨스케이팅 그랑프리", "summary_ko": "러시아 피겨스케이팅 그랑프리 아이스댄스 프리댄스 중계.", "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOX3E0VDIxTnNHUTRoOFRxbXk4azRHQ2VrWjJJLVNUZU1jY1U5MlBzUTFqelZlOEVRQ3BRWldqdWtZWGs1VVJQRGE3U1JzX29lS3BMYjJZYU9LUU1LN3RTR1VwWlp0bXdlTElOdTR3WUx2ajNpeVlqN3lpWkEzSEoxdFA2andhbHUzT21tQXB3d2ZFSURodHE5aWh0YXpZVzN0M19nTlNfNjF4WnBwZENHb3FhV1Q5cExfT1R1TGQtQi1aX055VnhUZXcySUVjRFZSWC1ra1dleExSWFQ2bWQyM0JnMDRFX1R1Zjl5ZHVJSEFhRWJOVi1waG9NVWlEQU4xZWFvVmViWnRWckJWYU85YUV1VEk?oc=5", "published": "2026-10-26T03:35:42+09:00", "tags": [], "event": "", "state_media": true},
-    {"source": "Channel One (1tv)", "title_original": "Гражданина Германии, который воевал на стороне ВСУ, задержали сотрудники российских спецслужб", "title_ko": "우크라이나군 편에서 싸운 독일 국적자, 러시아 정보기관에 억류", "summary_ko": "우크라이나군 측에서 전투에 참여한 독일 국민이 러시아 특수기관 요원들에게 체포됐다.", "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QOHNncmxpc1RGMWktNF9BZ2kzanMzakRqSlhmbzVpaTJQZWtOR0phd05KX2d6MGEyTVA4MjQ2VWM2c3hmdDYxRTNIdmRXQlRRQWlB?oc=5", "published": "2026-10-26T03:33:00+09:00", "tags": ["geopolitics"], "event": "", "state_media": true},
-    {"source": "Channel One (1tv)", "title_original": "Выпуск программы «Воскресное время» в 21:00 от 25.10.2026", "title_ko": "프로그램 '일요일의 브레먀' 10월 25일 21시 방송분", "summary_ko": "제1채널 주간 종합 뉴스 프로그램 10월 25일 21시 방송.", "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sZ3ljaHpMWTBNdlF6MDlfNVYzNGZmVjJsWm5pRE5SV1RHOV9jRXNMOXpGZlI4Rm0zOE94bzRDSGJqSmVUMzVnakZ0THNfZXdqcE53MTM4Y3g1QQ?oc=5", "published": "2026-10-26T03:23:29+09:00", "tags": [], "event": "", "state_media": true},
-    {"source": "Channel One (1tv)", "title_original": "Зеленский на неделе оказался щедр на высказывания", "title_ko": "젤렌스키, 이번 주 발언을 쏟아내", "summary_ko": "젤렌스키 우크라이나 대통령이 한 주 동안 많은 발언을 했다는 제1채널 보도.", "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MR2M0TTlwQTBMNFlqSFJfdjQyVFRHSHBQSE12X1JZcXpiajJSZnNpQjZKZUlieExNM3BxdThHTFl4YlY4emkwcDZQU29yYXlvVVUw?oc=5", "published": "2026-10-26T03:22:00+09:00", "tags": ["geopolitics"], "event": "", "state_media": true},
-    {"source": "Rossiya 24 (Vesti)", "title_original": "Надпись на могиле вызвала скандал в Кировограде", "title_ko": "묘비 문구가 키로보흐라드에서 논란을 일으켜", "summary_ko": "키로보흐라드에서 한 무덤의 비문이 논란이 됐다.", "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTamE0YU5PQUZFMXc3Vzk4M0xRNmttOGtOUXRwNVg5Qm5HSkhWSnJjSkE4dktnazFqZ3plcjM0VzlPOTBKWmRucXoybm5FMHM5NzFvbmV5Z0hQVEs1WWpKWDFkenBGcDdIdFFleWNUYjRkTUhTZTRBWlBn?oc=5", "published": "2026-10-26T13:27:38+09:00", "tags": [], "event": "", "state_media": true},
-    {"source": "Rossiya 24 (Vesti)", "title_original": "Более 20 беспилотников сбито ночью в Ростовской области", "title_ko": "로스토프주에서 야간에 드론 20대 이상 격추", "summary_ko": "밤사이 로스토프주 상공에서 20대가 넘는 무인기가 격추됐다.", "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVm9nZllWVG04Q2lNdWFQZFgzV2JPaGsweWRXaV9BYmZjTmlrVy10djJSdGlud3lNZV9NSEQyNHFfcjYyZUpjRHY5WVlLSmVGeFl4SEozN1VhTHdMSEhrS2ZrTWhkUENqN3JFWlYwaDI5MFZhejVPc0ZkRmpxYzVIc3huUkJnckU?oc=5", "published": "2026-10-26T12:56:49+09:00", "tags": ["geopolitics"], "event": "rostov-drones", "state_media": true},
-    {"source": "Rossiya 24 (Vesti)", "title_original": "\"Люди давно ждали\": очевидец рассказал о наведенном ВС РФ понтонном мосте", "title_ko": "\"사람들이 오랫동안 기다렸다\": 러시아군이 설치한 부교에 대한 목격자 증언", "summary_ko": "러시아군이 설치한 부교에 대해 목격자가 증언했다.", "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZkNtQ0hQYk1NNEpLekJIOS05bGlWcG1KWUlGQjk1MVZxR01UUTFxUW5RS0FXZFlPSGhheHFmZTNsbG5qeTJSNnozZnNadWxic3J0RVRVMFZFN0thTlZWdmg2QlVyUkRDa3hUYTVJN0FLYjdJZTRncFg3M01idUZJcVlhQjIwMnNvWGJqa19aRF8zc3VtMmlaSlZpcFlEdw?oc=5", "published": "2026-10-26T12:25:56+09:00", "tags": ["geopolitics"], "event": "", "state_media": true},
-    {"source": "Rossiya 24 (Vesti)", "title_original": "Россияне предпочитают покупать товары подешевле, но в больших объемах", "title_ko": "러시아인들, 더 싼 상품을 대량으로 구매하는 쪽 선호", "summary_ko": "러시아 소비자들이 값싼 제품을 더 많은 양으로 사는 경향을 보인다.", "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdWRqNl82cjY3NmVYYVNoZk05dHJWU1BSSWRHTE9GNlBxWS1CSnI3T3l0emprSUgtbndiNThVZzBHMkROaGd6UW51ejFlMlcxcDVPa21JQ3JVZFZuOHo1MG0ycUZQbnFFUF9iSEp6dkU1QWgwZXFiTjJmd0pOdjFzMDF5cURoWDlpM1Z6ejBHdFo5QQ?oc=5", "published": "2026-10-26T11:27:06+09:00", "tags": ["business"], "event": "", "state_media": true},
-    {"source": "Rossiya 24 (Vesti)", "title_original": "В Забайкалье арестован мужчина, зарезавший своего отца", "title_ko": "자바이칼에서 아버지를 흉기로 살해한 남성 체포", "summary_ko": "자바이칼 지방에서 아버지를 찔러 숨지게 한 남성이 구속됐다.", "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLV9wczZfWkpJeVF3N0libjk1MWVxR1JpOFZXSDhwb1ZjZHJOOFVJTGtsd3FneENRRDZ1dHZtcGVnamVCT3htbUxxQXJITVoyd1VfcVFDa2szTHZhdVQ4ZldzVUZCNVVZMDYxdE94d0VzS3B0d1lHalN2TW1RRE1rVnpyWWpBQQ?oc=5", "published": "2026-10-26T11:26:30+09:00", "tags": [], "event": "", "state_media": true},
-    {"source": "Rossiya 24 (Vesti)", "title_original": "Мурашко назвал две прививки, которые помогут детям не заболеть осенью", "title_ko": "무라시코 보건장관, 가을철 아이들에게 도움 되는 백신 두 가지 언급", "summary_ko": "무라시코가 아이들의 가을철 질병 예방에 도움이 되는 백신 두 가지를 꼽았다.", "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbjgwTFlSbWxHRGFLNlcySVFMSjVsUlZ4OTFpZ0dEelJQRy1Odkd6NXY3TGlKMG1RVDliNGg2a1RlQ1A5Q2NxbGwtV0xFenBKNncwc2dTT3AyR1k3ckZtNkN4bkRlSTBrM0hTM21JMFdiUjRKWk0tTEVweUFWdVA2anBHTXJFb2RLVl9jYlJZM2U1bnFnMzRacw?oc=5", "published": "2026-10-26T10:49:21+09:00", "tags": [], "event": "", "state_media": true},
-    {"source": "Rossiya 24 (Vesti)", "title_original": "Депутат Отони: переизбрание Лулы да Силвы поможет создать противовес влиянию США", "title_ko": "오토니 의원: 룰라 재선은 미국 영향력에 대한 균형추 마련에 도움", "summary_ko": "브라질 의원 오토니는 룰라 다 시우바의 재선이 미국 영향력에 대한 견제 구도를 만드는 데 도움이 된다고 말했다.", "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObW5HUGM2TG1iNTRsdEhpT3JJcW5SUTFZZzJVMzNRNk5idFVvMDFZd0xoRVFSNUZ1djVUUVdEd2hWZ0YzMThnbWJFRHR6WXZPOW1oSkZHdTJSTEhzSGRtdFNMTjZDcmRXbGZZUHZYSjgwR0N1V2xCamVTRVdMT0xXdko1T1VzMzJhcE40M0VEaDJGR240WnlkdGd2X0g?oc=5", "published": "2026-10-26T10:32:47+09:00", "tags": ["geopolitics"], "event": "brazil-election", "state_media": true},
-    {"source": "Rossiya 24 (Vesti)", "title_original": "Дмитриев: Маск и Зеленский преследуют разные цели", "title_ko": "드미트리예프: 머스크와 젤렌스키는 서로 다른 목표를 추구", "summary_ko": "드미트리예프가 머스크와 젤렌스키의 목표가 다르다고 말했다.", "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CSVVEM0F6Nkxfd0lOZ1FlSHZRQnMtVXFxWUhTZnhROUFUaXdMeHJaMzVZMHZIR0VTSjFFMnhsUlNiXy1aLU1Ic1dYdVFLSFI0N01xRktWUThkczRmcTVoc1lCOVRiMk1NNlBwTmlMYlFHU3ByaHprR08yc0g3QQ?oc=5", "published": "2026-10-26T09:09:30+09:00", "tags": ["geopolitics"], "event": "", "state_media": true},
-    {"source": "TASS", "title_original": "В Горном Алтае обследовали 60 кв. км в поисках пропавшего сотрудника МЧС", "title_ko": "고르노알타이에서 실종된 비상사태부 직원 수색 위해 60㎢ 조사", "summary_ko": "수색 작업에 81명이 참여하고 있다.", "url": "https://tass.ru/obschestvo/28252651", "published": "2026-10-26T14:05:59+09:00", "tags": [], "event": "", "state_media": true},
-    {"source": "TASS", "title_original": "Марочко: ВСУ за неделю потеряли 8,3 тыс. военных и наемников", "title_ko": "마로치코: 우크라이나군, 일주일간 군인·용병 8,300명 손실", "summary_ko": "군사 전문가 마로치코는 '중앙' 집단군이 우크라이나군에 가장 큰 피해를 입혔다고 밝혔다.", "url": "https://tass.ru/armiya-i-opk/28252645", "published": "2026-10-26T14:03:28+09:00", "tags": ["geopolitics"], "event": "", "state_media": true},
-    {"source": "TASS", "title_original": "Мустафина: перед Олимпиадой конкуренция за место в сборной будет еще острее", "title_ko": "무스타피나: 올림픽 앞두고 대표팀 자리 경쟁 더욱 치열해질 것", "summary_ko": "코치는 다음 시즌 매우 강한 여자 대표팀이 구성되고 있다고 언급했다.", "url": "https://tass.ru/sport/28252647", "published": "2026-10-26T14:03:04+09:00", "tags": [], "event": "", "state_media": true},
-    {"source": "TASS", "title_original": "Россия и Эфиопия обсудят упрощение визового режима", "title_ko": "러시아와 에티오피아, 비자 제도 간소화 논의 예정", "summary_ko": "테레힌 주에티오피아 러시아 대사는 관광객 증가와 양국 비즈니스 접촉 확대에 따라 비자 자유화가 결정될 것이라고 말했다.", "url": "https://tass.ru/politika/28252627", "published": "2026-10-26T14:01:45+09:00", "tags": ["geopolitics"], "event": "", "state_media": true},
-    {"source": "TASS", "title_original": "Пациента в тяжелом состоянии после ДТП под Новосибирском перевели в НИИТО", "title_ko": "노보시비르스크 인근 교통사고 중상 환자, 외상정형외과 연구소로 이송", "summary_ko": "노보시비르스크 인근 교통사고로 중태에 빠진 환자가 NIITO로 옮겨졌다.", "url": "https://tass.ru/proisshestviya/28252623", "published": "2026-10-26T13:59:35+09:00", "tags": [], "event": "novosibirsk-crash", "state_media": true},
-    {"source": "TASS", "title_original": "Игрок \"Бруклина\" Демин набрал три очка в матче НБА", "title_ko": "브루클린의 데민, NBA 경기에서 3득점", "summary_ko": "브루클린은 인디애나에 30점 가까운 차이로 패했다.", "url": "https://tass.ru/sport/28252619", "published": "2026-10-26T13:59:07+09:00", "tags": [], "event": "", "state_media": true},
-    {"source": "TASS", "title_original": "В Иордании задержали троих террористов, напавших на церковь", "title_ko": "요르단, 교회를 공격한 테러범 3명 체포", "summary_ko": "무장세력은 알카라크 외곽 버려진 집에 바리케이드를 치고 투항을 거부했다.", "url": "https://tass.ru/proisshestviya/28252617", "published": "2026-10-26T13:57:45+09:00", "tags": ["geopolitics"], "event": "", "state_media": true},
-    {"source": "TASS", "title_original": "Парад Катрин в Мехико в канун Дня мертвых собрал тысячи участников и зрителей", "title_ko": "멕시코시티 망자의 날 전야 '카트린 퍼레이드'에 수천 명 참가", "summary_ko": "망자의 날을 앞두고 멕시코시티에서 카트린 퍼레이드가 열렸다.", "url": "https://tass.ru/obschestvo/28252603", "published": "2026-10-26T13:55:49+09:00", "tags": [], "event": "", "state_media": true},
-    {"source": "RIA Novosti", "title_original": "В Новосибирске госпитализировали четырех пострадавших в ДТП", "title_ko": "노보시비르스크 교통사고 부상자 4명 입원", "summary_ko": "노보시비르스크에서 교통사고 부상자 4명이 병원에 입원했다.", "url": "https://ria.ru/20261026/postradavshie-2126969617.html", "published": "2026-10-26T14:07:43+09:00", "tags": [], "event": "novosibirsk-crash", "state_media": true},
-    {"source": "RIA Novosti", "title_original": "В Свердловской области локализовали пожар после схода вагонов", "title_ko": "스베르들롭스크주, 화차 탈선 후 화재 진압(확산 차단)", "summary_ko": "스베르들롭스크주에서 화차 탈선 뒤 발생한 화재가 국지화됐다.", "url": "https://ria.ru/20261026/pozhar-2126969454.html", "published": "2026-10-26T14:05:51+09:00", "tags": [], "event": "sverdlovsk-rail-fire", "state_media": true},
-    {"source": "RIA Novosti", "title_original": "Поляки прозрели: агенты Кремля вероломно захватили Львов", "title_ko": "폴란드인들이 눈을 떴다: 크렘린 요원들이 르비우를 기만적으로 장악", "summary_ko": "제목 기준: 르비우를 둘러싼 폴란드 관련 풍자성 논평 기사.", "url": "https://ria.ru/20261026/lvov-2126922919.html", "published": "2026-10-26T14:00:00+09:00", "tags": ["geopolitics"], "event": "", "state_media": true},
-    {"source": "RIA Novosti", "title_original": "Зеленский 2.0: ради Украины Макрон не пожалел Франции", "title_ko": "젤렌스키 2.0: 우크라이나를 위해 마크롱은 프랑스를 아끼지 않았다", "summary_ko": "제목 기준: 마크롱의 우크라이나 지원 정책을 비판하는 논평 기사.", "url": "https://ria.ru/20261026/frantsiya-2126924452.html", "published": "2026-10-26T14:00:00+09:00", "tags": ["geopolitics"], "event": "", "state_media": true},
-    {"source": "RIA Novosti", "title_original": "Падение титана: проигравший Вучич предрек конфликт России и Сербии", "title_ko": "거인의 몰락: 패배한 부치치, 러시아-세르비아 갈등 예견", "summary_ko": "선거에서 패배한 부치치가 러시아와 세르비아의 갈등을 예견했다고 RIA가 보도했다.", "url": "https://ria.ru/20261026/serbiya-2126967993.html", "published": "2026-10-26T14:00:00+09:00", "tags": ["geopolitics"], "event": "serbia-election", "state_media": true},
-    {"source": "RIA Novosti", "title_original": "Умер озвучивавший Багза Банни актер Эрик Бауза", "title_ko": "벅스 버니 목소리 배우 에릭 바우자 사망", "summary_ko": "벅스 버니 성우로 알려진 배우 에릭 바우자가 사망했다.", "url": "https://ria.ru/20261026/akter-2126969261.html", "published": "2026-10-26T13:59:43+09:00", "tags": [], "event": "", "state_media": true},
-    {"source": "RIA Novosti", "title_original": "Fitch сохранило кредитный рейтинг Украины на уровне \"ССС\"", "title_ko": "피치, 우크라이나 신용등급 'CCC' 유지", "summary_ko": "피치가 우크라이나의 신용등급을 CCC로 유지했다.", "url": "https://ria.ru/20261026/ukraina-2126969091.html", "published": "2026-10-26T13:52:49+09:00", "tags": ["monetary"], "event": "", "state_media": true},
-    {"source": "RIA Novosti", "title_original": "В Шереметьево сняли ограничения на полеты", "title_ko": "셰레메티예보 공항 운항 제한 해제", "summary_ko": "셰레메티예보 공항의 항공편 제한이 해제됐다.", "url": "https://ria.ru/20261026/ogranicheniya-2126968978.html", "published": "2026-10-26T13:48:41+09:00", "tags": [], "event": "sheremetyevo-restrictions", "state_media": true},
-    {"source": "Interfax", "title_original": "Пожар на железнодорожном перегоне под Екатеринбургом локализован на 1,5 тыс. кв. м", "title_ko": "예카테린부르크 인근 철도 구간 화재, 1,500㎡ 규모에서 확산 차단", "summary_ko": "레셰티-셰델니코보 구간에서 밤에 화차 7량에 불이 나고 20량이 탈선했으며, 현지 시각 09:02 화재가 1,500㎡ 규모로 국지화됐다고 스베르들롭스크주 비상사태부가 밝혔다.", "url": "https://www.interfax.ru/russia/1124947", "published": "2026-10-26T14:02:00+09:00", "tags": [], "event": "sverdlovsk-rail-fire", "state_media": false},
-    {"source": "Interfax", "title_original": "Ограничения на полеты сняты в аэропорту Шереметьево", "title_ko": "셰레메티예보 공항 운항 제한 해제", "summary_ko": "연방항공청이 항공기 이착륙 임시 제한이 해제됐다고 월요일 밝혔다.", "url": "https://www.interfax.ru/moscow/1124946", "published": "2026-10-26T13:55:00+09:00", "tags": [], "event": "sheremetyevo-restrictions", "state_media": false},
-    {"source": "Interfax", "title_original": "Временный президент Болгарии Йотова лидирует на выборах после подсчета более 17% бюллетеней", "title_ko": "불가리아 임시 대통령 요토바, 개표 17% 넘은 시점에서 선두", "summary_ko": "일리아나 요토바와 키릴 발체프가 대통령·부통령 선거에서 개표율 17.86% 기준 선두다.", "url": "https://www.interfax.ru/world/1124945", "published": "2026-10-26T13:41:00+09:00", "tags": ["geopolitics"], "event": "", "state_media": false},
-    {"source": "Interfax", "title_original": "Что случилось этой ночью: понедельник, 26 октября", "title_ko": "간밤의 사건: 10월 26일 월요일", "summary_ko": "세르비아·브라질 선거, 예카테린부르크 화물열차 탈선, 제니트의 디나모전 승리 등을 정리한 야간 요약.", "url": "https://www.interfax.ru/world/1124937", "published": "2026-10-26T13:30:00+09:00", "tags": ["geopolitics"], "event": "", "state_media": false},
-    {"source": "Interfax", "title_original": "Аэропорт Шереметьево приостановил работу", "title_ko": "셰레메티예보 공항 운영 일시 중단", "summary_ko": "연방항공청이 항공기 이착륙에 대한 임시 제한이 도입됐다고 월요일 밝혔다.", "url": "https://www.interfax.ru/moscow/1124944", "published": "2026-10-26T13:28:00+09:00", "tags": [], "event": "sheremetyevo-restrictions", "state_media": false},
-    {"source": "Interfax", "title_original": "Рынок акций РФ открылся в утреннюю сессию ростом индексов МосБиржи и РТС на 0,1%", "title_ko": "러시아 증시, 오전 장 모스크바거래소·RTS 지수 0.1% 상승 출발", "summary_ko": "중앙은행 금리 동결 이후 금요일 상승에 이어 횡보하며, 랠리 뒤 약세인 유가(12월물 브렌트 배럴당 114달러 근접)가 매수 억제 요인이다.", "url": "https://www.interfax.ru/russia/1124943", "published": "2026-10-26T13:13:00+09:00", "tags": ["stocks", "monetary"], "event": "", "state_media": false},
-    {"source": "Interfax", "title_original": "Более 20 БПЛА уничтожено в Ростовской области за ночь", "title_ko": "로스토프주에서 밤사이 드론 20대 이상 파괴", "summary_ko": "슬류사리 주지사에 따르면 카멘스크샤흐틴스키시와 4개 지구에서 20대 넘는 드론이 격추됐다.", "url": "https://www.interfax.ru/russia/1124942", "published": "2026-10-26T13:01:00+09:00", "tags": ["geopolitics"], "event": "rostov-drones", "state_media": false},
-    {"source": "Interfax", "title_original": "Краснов рассказал о приоритетных направлениях внедрения ИИ в судебную деятельность", "title_ko": "크라스노프, 사법 분야 AI 도입 우선 방향 설명", "summary_ko": "대법원장 크라스노프는 AI가 판사의 시간을 절약해야 하며 재량을 대체해서는 안 된다고 코메르산트 인터뷰에서 말했다.", "url": "https://www.interfax.ru/russia/1124941", "published": "2026-10-26T13:00:00+09:00", "tags": ["industry"], "event": "", "state_media": false},
-    {"source": "Kommersant", "title_original": "Потребители не выдержали цены // Спрос на ординарный российский виски вырос почти впятеро", "title_ko": "소비자들이 가격을 못 견뎠다: 러시아산 일반 위스키 수요 거의 5배 증가", "summary_ko": "1~9월 러시아산 일반 위스키의 소매 점유율이 약 5배 늘어 17.6%가 됐다. 숙성 위스키에 최저 소매가가 도입된 뒤 가격이 크게 올라 소비자가 값싼 국산으로 옮겨갔다.", "url": "https://www.kommersant.ru/doc/9059384", "published": "2026-10-26T14:00:00+09:00", "tags": ["business"], "event": "", "state_media": false},
-    {"source": "Kommersant", "title_original": "Нарушителей оставили в безвоздушном пространстве // Запуск автоматических штрафов с воздуха отложен на неопределенный срок", "title_ko": "위반자들이 공중에 남겨졌다: 드론 촬영 자동 과태료 도입 무기한 연기", "summary_ko": "내무부는 쿼드콥터 사진·영상으로 중앙선 침범 자동 과태료를 부과하자는 도로 카메라 운영사들의 제안이 시기상조라고 판단했다.", "url": "https://www.kommersant.ru/doc/9060141", "published": "2026-10-26T13:30:00+09:00", "tags": ["legislation"], "event": "", "state_media": false},
-    {"source": "Kommersant", "title_original": "Не годное это дело // Малые операторы попросили увеличить переходный период реформы связи", "title_ko": "적합하지 않은 일: 소규모 통신사업자들, 통신 개혁 전환 기간 연장 요청", "summary_ko": "지역 통신사업자들이 새 면허 요건 적응을 위해 전환 기간을 1년에서 3년으로 늘려 달라고 디지털발전부에 요청했다.", "url": "https://www.kommersant.ru/doc/9060205", "published": "2026-10-26T13:00:00+09:00", "tags": ["industry", "legislation"], "event": "", "state_media": false},
-    {"source": "Kommersant", "title_original": "Не сошлись кодами // Более четверти заявок ОКВЭД не совпали с фактической деятельностью компаний", "title_ko": "코드가 맞지 않았다: OKVED 신고 4분의 1 이상이 실제 사업과 불일치", "summary_ko": "SPARK-인터팍스 분석에 따르면 2025년 OKVED 개편 1단계 대상 기업의 28%가 등록 시 신고한 업종이 실제 활동과 달랐다.", "url": "https://www.kommersant.ru/doc/9060186", "published": "2026-10-26T12:30:00+09:00", "tags": ["business", "legislation"], "event": "", "state_media": false},
-    {"source": "Kommersant", "title_original": "Судебная лотерея // Букмекеры оспаривают признание незаконной их рекламы в «Яндексе»", "title_ko": "법원 복권: 베팅업체들, 얀덱스 광고 불법 판정에 이의 제기", "summary_ko": "Fonbet, Winline, Liga Stavok, Pari 4개사가 모스크바 연방독점청의 광고법 위반 판정에 이의를 제기할 방침이다. Pari는 광고가 도박이 아닌 복권에 관한 것이었다고 주장한다.", "url": "https://www.kommersant.ru/doc/9060153", "published": "2026-10-26T12:00:00+09:00", "tags": ["business", "legislation"], "event": "", "state_media": false},
-    {"source": "Kommersant", "title_original": "Инвестиции не лечатся // Минфин США предложил ограничить вложения в китайские биотехнологии", "title_ko": "투자는 치료되지 않는다: 미 재무부, 중국 바이오기술 투자 제한 제안", "summary_ko": "미 재무부 초안은 신약 개발 등 중국 바이오기술 투자를 금지하자고 제안한다. 반도체·AI·양자컴퓨팅에는 이미 유사한 제한이 있다.", "url": "https://www.kommersant.ru/doc/9060229", "published": "2026-10-26T08:47:05+09:00", "tags": ["industry", "legislation", "geopolitics"], "event": "", "state_media": false},
-    {"source": "Kommersant", "title_original": "Рост предложения валюты поддерживает рубль // Мониторинг внешних условий", "title_ko": "외화 공급 증가가 루블을 지지: 대외 여건 모니터링", "summary_ko": "가즈프롬은행 보고서에 따르면 수출가 상승과 세금 납부 시기로 10월 루블 강세 여건이 조성됐고, 9월 수출업체 외화 매도는 8월보다 49억 달러 늘어난 237억 달러였다.", "url": "https://www.kommersant.ru/doc/9060172", "published": "2026-10-26T08:47:05+09:00", "tags": ["monetary", "forecast"], "event": "", "state_media": false},
-    {"source": "Kommersant", "title_original": "От кредиторов к бюджету и штрафам // Госдума определилась с приоритетами на осеннюю сессию", "title_ko": "채권자에서 예산과 과태료까지: 두마, 가을 회기 우선순위 확정", "summary_ko": "두마는 2026년 말까지 우선 법안 70건 처리를 계획하며, 2027년 예산, 불법 대부 처벌 강화, 일상적 행정위반 과태료 인상 등이 포함된다.", "url": "https://www.kommersant.ru/doc/9060171", "published": "2026-10-26T08:47:05+09:00", "tags": ["legislation"], "event": "", "state_media": false},
-    {"source": "Meduza (독립·망명)", "title_original": "«Часто искусство ставит невыносимые вопросы: ты за кого, за Сталина или за Микки-Мауса?». Интервью Павла Павликовского о фильме «Фатерлянд» — победителе Каннского фестиваля. В нем Томас Манн едет в послевоенную Германию", "title_ko": "\"예술은 종종 견딜 수 없는 질문을 던진다: 스탈린 편이냐, 미키마우스 편이냐?\" 칸 수상작 '파터란트' 파벨 파블리콥스키 인터뷰", "summary_ko": "토마스 만이 전후 독일을 여행하는 내용의 영화 '파터란트'가 칸 감독상을 받고 세계 개봉에 들어가며, 감독과의 인터뷰가 실렸다.", "url": "https://meduza.io/feature/2026/10/26/chasto-iskusstvo-stavit-nevynosimye-voprosy-ty-za-kogo-za-stalina-ili-za-mikki-mausa", "published": "2026-10-26T14:05:36+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "Meduza (독립·망명)", "title_original": "Вучич проиграл на парламентских выборах в Сербии", "title_ko": "부치치, 세르비아 총선에서 패배", "summary_ko": "알렉산다르 부치치 전 대통령이 10월 25일 조기 총선 패배를 인정했다.", "url": "https://meduza.io/news/2026/10/26/vuchich-proigral-na-parlamentskih-vyborah-v-serbii", "published": "2026-10-26T06:12:32+09:00", "tags": ["geopolitics"], "event": "serbia-election", "state_media": false},
-    {"source": "Meduza (독립·망명)", "title_original": "Журналист Мэтью Коул утверждает, что Джаред Кушнер разработал «секретную стратегию» с ОАЭ и Саудовской Аравией — и получил доступ к миллиардам долларов. Узнать об этом репортеру помогла нидерландская разведка: она взломала телефон зятя Трампа", "title_ko": "기자 매슈 콜 주장: 쿠슈너가 UAE·사우디와 '비밀 전략'을 짜고 수십억 달러에 접근했다 - 네덜란드 정보기관이 트럼프 사위 휴대전화를 해킹해 도움", "summary_ko": "배니티 페어가 콜의 신간 발췌문을 게재했으며, 쿠슈너가 중동에서의 비밀 작전·무기 구매·전쟁에 쓰인 계좌에 접근했다고 주장한다.", "url": "https://meduza.io/feature/2026/10/25/zhurnalist-metyu-koul-utverzhdaet-chto-dzhared-kushner-razrabotal-sekretnuyu-vneshnepoliticheskuyu-strategiyu-vmeste-s-printsami-oae-i-saudovskoy-aravii-i-poluchil-dostup-k-milliardam-dollarov", "published": "2026-10-26T02:43:16+09:00", "tags": ["geopolitics"], "event": "", "state_media": false},
-    {"source": "Meduza (독립·망명)", "title_original": "Лидер венесуэльской оппозиции Мария Корино Мачадо вернулась домой. Она покинула страну почти год назад — еще при Мадуро", "title_ko": "베네수엘라 야권 지도자 마차도 귀국, 마두로 집권 당시 약 1년 전 출국", "summary_ko": "노벨평화상 수상자인 마리아 코리나 마차도가 베네수엘라로 돌아왔다고 대변인이 뉴욕타임스에 밝혔다.", "url": "https://meduza.io/news/2026/10/25/lider-venesuelskoy-oppozitsii-mariya-korino-machado-vernulas-domoy-ona-pokinula-stranu-pochti-god-nazad-esche-pri-maduro", "published": "2026-10-26T02:17:41+09:00", "tags": ["geopolitics"], "event": "", "state_media": false},
-    {"source": "Meduza (독립·망명)", "title_original": "«Радио Свобода»: вокруг резиденции Путина на Валдае появилось еще 16 башен ПВО. Всего их там уже около 50 — почти половина от Москвы и окрестностей", "title_ko": "자유라디오: 발다이 푸틴 관저 주변에 방공탑 16기 추가, 총 약 50기", "summary_ko": "위성 사진 분석에 따르면 10월 관저 반경 50km 내에 최소 15기의 새 탑이 생겼고 판치리 또는 토르 체계가 배치될 것으로 보인다.", "url": "https://meduza.io/news/2026/10/25/radio-svoboda-vokrug-rezidentsii-putina-na-valdae-poyavilos-esche-16-bashen-pvo-vsego-ih-uzhe-okolo-50-pochti-polovina-ot-moskvy-i-okrestnostey", "published": "2026-10-26T01:37:25+09:00", "tags": ["geopolitics"], "event": "", "state_media": false},
-    {"source": "Meduza (독립·망명)", "title_original": "В Барселоне группа протестующих разгромила 23 магазина в центре города. Полиция задержала 128 человек, больше половины — несовершеннолетние", "title_ko": "바르셀로나 시위대, 도심 상점 23곳 파손 - 경찰 128명 체포, 절반 이상이 미성년자", "summary_ko": "카탈루냐 경찰이 10월 24일 저녁 카탈루냐 광장 일대 약탈 뒤 128명을 체포했다.", "url": "https://meduza.io/news/2026/10/25/v-barselone-gruppa-protestuyuschih-razgromila-23-magazina-v-tsentre-goroda-politsiya-zaderzhala-128-chelovek-bolshe-poloviny-nesovershennoletnie", "published": "2026-10-26T00:48:12+09:00", "tags": [], "event": "", "state_media": false},
-    {"source": "Meduza (독립·망명)", "title_original": "На мать Александра Вучича напали, когда она шла с рынка после голосования на избирательном участке", "title_ko": "부치치의 어머니, 투표 후 시장에서 돌아오던 중 공격당해", "summary_ko": "세르비아 방송 Informer TV에 따르면 사임한 부치치 대통령의 어머니 안젤리나 부치치가 베오그라드에서 공격을 당했다.", "url": "https://meduza.io/news/2026/10/25/na-mat-aleksandra-vuchicha-napali-kogda-ona-shla-s-rynka-posle-golosovaniya-na-izbiratelnom-uchastke", "published": "2026-10-25T23:56:00+09:00", "tags": ["geopolitics"], "event": "serbia-election", "state_media": false},
-    {"source": "Meduza (독립·망명)", "title_original": "58 тонн наличных в месяц — именно столько обрабатывает российская платежная система А7, обходящая санкции. Меньше чем за год она переправила из Москвы в Азию более 14 миллиардов рублей, собранных на «Садоводе» и других рынках", "title_ko": "월 58톤의 현금: 제재 우회 러시아 결제 시스템 A7이 처리 - 1년 미만에 '사도보드' 등 시장에서 모은 140억 루블 이상을 모스크바에서 아시아로 송금", "summary_ko": "SWIFT 차단 이후 국경 간 송금을 대행하는 그림자 중개인이 등장했으며, 다수는 모스크바시티에 사무실을 두고 있다.", "url": "https://meduza.io/feature/2026/10/25/58-tonn-nalichnyh-v-mesyats-imenno-stolko-obrabatyvaet-rossiyskaya-platezhnaya-sistema-a7-obhodyaschaya-sanktsii", "published": "2026-10-25T22:56:43+09:00", "tags": ["business", "monetary", "geopolitics"], "event": "", "state_media": false}
+    {
+      "source": "Channel One (1tv)",
+      "title_original": "Мама, говори как есть. Мужское / Женское. Выпуск от 26.10.2026",
+      "title_ko": "'엄마, 있는 그대로 말해요'. 〈남과 여〉 2026년 10월 26일 방송",
+      "summary_ko": "제1채널 토크쇼 〈남과 여〉 10월 26일 회차 편성 안내.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbWRURFZSZUNuZWMzSHFNWWV1UE9xNUFPeTgxeUdSSWhvMDFCTEpJRmZva2k4ZUhTZzVJamxSOWlERW1FUm95UEJfdTYtaWx2MTNnRFpYeWtZanV2VVhTMUxWYXU3aXlycVplZ3JJdFhtVm5rLUtpNjNPOXpDMFUtaGt3MzJVVHNuZlNCR0gxdlFGcjJnVDJGak9YYlpiNEk0RkQtS0ZqaWZ2LVFQ?oc=5",
+      "published": "2026-10-26T22:05:33+09:00",
+      "tags": [],
+      "event": "1tv-program-muzhskoe-zhenskoe",
+      "state_media": true
+    },
+    {
+      "source": "Channel One (1tv)",
+      "title_original": "Бухгалтер с долгами. Часть 1. Давай поженимся! Выпуск от 26.10.2026",
+      "title_ko": "'빚진 회계사' 1부. 〈결혼합시다!〉 2026년 10월 26일 방송",
+      "summary_ko": "제1채널 예능 〈결혼합시다!〉 10월 26일 회차 편성 안내.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd3dVWEc4VlFya0xqUjE3cGp1TVJwV21SdjN1ZTNMcWdDaElxNWhZTlBfUUJOU3hGQktuYUxvYkZYSy0wM0N5d29jZzRoRjRKaVdHVUpOQzRRdUhaTC12NE1DbUFfajZBQUtZVVlfNVNkZDVMdGx2eDdIdEc2LVZ0MnpOSU9LRVVMX2w5dWZLNXZXOEw4clJCZHhoRWs5bmJSMFYzMXVFbjc2WE81WXI0bjl3d1VScVBsampkdjdwUnJ4bHI2T2VKUW04Q25iM1pWdEE?oc=5",
+      "published": "2026-10-26T21:18:54+09:00",
+      "tags": [],
+      "event": "1tv-program-davay-pozhenimsya",
+      "state_media": true
+    },
+    {
+      "source": "Channel One (1tv)",
+      "title_original": "По поручению президента РФ все школьники младших классов обеспечиваются бесплатным горячим питанием",
+      "title_ko": "대통령 지시로 초등 저학년 전원에게 무상 온식 급식 제공",
+      "summary_ko": "푸틴 대통령 지시에 따라 러시아 초등 저학년 학생 전원에게 무상 온식 급식이 제공된다고 제1채널이 보도.",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPd1hScGtvMWpxRnZneVJoN2xCVDN5QWlkNHlhdEFPa3pTN1I0RktGYTVWWGZWTFJJYl8xdUdjSzhWcUhqNllMdm5wV01Md2FXR3d3?oc=5",
+      "published": "2026-10-26T21:07:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "school-free-meals",
+      "state_media": true
+    },
+    {
+      "source": "Channel One (1tv)",
+      "title_original": "Леонид Ярмольник. Слово не воробей. Анонс",
+      "title_ko": "레오니드 야르몰니크. 〈말은 참새가 아니다〉 예고",
+      "summary_ko": "제1채널 프로그램 예고편.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOXIwamV3ZzdTdHBQR2s4YVQwckZmSUE3REE1SmM5TktDM3hMcGVSYnVoRkF2Qm5tS1dTTDZNOUNxMTJsZ2ZUS0plRmI4a1VDY0JObUN1UzcwQ29taGtqLTFqQWxNTTNIWU5pZi1GZHZielhoRWg3VHJzVms1Tmh3VVZxdk5aZ21tamNiQXl5TWFKTFZT?oc=5",
+      "published": "2026-10-26T21:06:54+09:00",
+      "tags": [],
+      "event": "1tv-program-yarmolnik",
+      "state_media": true
+    },
+    {
+      "source": "Channel One (1tv)",
+      "title_original": "Владимир Путин встретился с председателем правления «Газпромбанка» Андреем Акимовым",
+      "title_ko": "푸틴, 가스프롬방크 이사회 의장 안드레이 아키모프 접견",
+      "summary_ko": "푸틴 대통령이 가스프롬방크 이사회 의장 안드레이 아키모프를 만났다고 제1채널이 보도.",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41WlhkVmtqUEJNNWJ2X3dkaWNWWVhWMFRmNGtYczUyNnA1eGg3RUxOWS1vaTRETmp1ZU0yX1laN281Mlpad19tenBoMGpnQjVRLS1R?oc=5",
+      "published": "2026-10-26T21:05:00+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "putin-gazprombank-akimov",
+      "state_media": true
+    },
+    {
+      "source": "Channel One (1tv)",
+      "title_original": "Сбер поддержал проекты комплексного развития территорий",
+      "title_ko": "스베르, 지역 종합개발 사업 지원",
+      "summary_ko": "스베르방크가 지역 종합개발(KRT) 프로젝트를 지원했다고 제1채널이 보도.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWEQycTNiUG5HZ1JMTl8zRHRfa3pIT1hkSkNMcWR6RGNKWHBFenVzTzZya2tRWHc5Yi1IRUFoOVFqek5XdER6a3ZRbGt2M1lvYktnUjFjOVk1TkxlMkxJSW9wam9sMjNsTU1iT0dDYUNFV1ZJclBJaEdWckRLTGE3Q2ZTdmlrZ3E4ZGtfUzhfX3hEN0FSRGtsX2NfX0FyUQ?oc=5",
+      "published": "2026-10-26T20:38:11+09:00",
+      "tags": [
+        "business",
+        "industry"
+      ],
+      "event": "sber-territory-development",
+      "state_media": true
+    },
+    {
+      "source": "Channel One (1tv)",
+      "title_original": "Правительство расширило географию испытаний беспилотных трамваев",
+      "title_ko": "정부, 무인 트램 시험 운행 지역 확대",
+      "summary_ko": "러시아 정부가 자율주행 트램 시험 운행 지역을 넓혔다.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS09NY3V3Qk5pcHlzWWJzTGRfYkNDNi1yZzMzQzZWWnpxRFREV0Zlb0RJZlhSN1V2T0dHaXltXzlZRkhwaE5PQTBmT3pfcEJaVzZDYmFHWTl1RGdJT2U4VzFaTkp4eXBYc0MxTW5OU0tzZWNBUTQ1U0duNDZCRDJzU2t0Y3ZKWk1LRTg2UGcyUGNienFhc1hQbHphNHVnb1hWLWFPcHY5Zl8?oc=5",
+      "published": "2026-10-26T20:38:11+09:00",
+      "tags": [
+        "industry",
+        "legislation"
+      ],
+      "event": "autonomous-tram-trials",
+      "state_media": true
+    },
+    {
+      "source": "Channel One (1tv)",
+      "title_original": "Форум СПЕКТР-2026: главное с пленарной сессии",
+      "title_ko": "SPEKTR-2026 포럼: 본회의 주요 내용",
+      "summary_ko": "SPEKTR-2026 포럼 본회의 주요 내용 정리(세부 내용은 원자료에 없음).",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVUJ0dWRFNHRRbGl0X3JoYV8tcGV6LThiVUlzeW84SnBwZUVjUllrYkR1c2ZFTVczcXNPV3k1LTJrM2lCcW9KZWhjWXl2b0p1VFdMUVk5bDNlOWFYcHdDdHJMSEhPYTJQZ0Y0X1pfMDdHYVhpNERMQkN1bE1CanU1MC1MRG9STnFzUWpTYQ?oc=5",
+      "published": "2026-10-26T20:38:11+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "spektr-2026-forum",
+      "state_media": true
+    },
+    {
+      "source": "Rossiya 24 (Vesti)",
+      "title_original": "Девушка, заболевшая лихорадкой Зика на отдыхе на Бали, прошла лечение в Москве",
+      "title_ko": "발리 여행 중 지카열에 걸린 여성, 모스크바에서 치료 마쳐",
+      "summary_ko": "발리에서 지카열에 감염된 여성이 모스크바에서 치료를 받았다.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeWRVeFMwYldHZGRUWGw1TkJuZ1YxQ2MydUxiRG1LWXFmWGJPRUQ1QzhqWDNIQWh4UU9tbHVZcFQwSHFBMVJlbnRDUFBUQ2pIVG9XZUt3Q3FBR0pHdzVmRGl5VFROd3BJd09INTkwU3JzZmZHVFNhRTQ4V0lrVUQwQ3lNTXZQSk5XT2NRVFZVTnZoaWR6eVBleGc1bUp3TUVZZmJ2b1dNaUVXZUU?oc=5",
+      "published": "2026-10-26T22:28:38+09:00",
+      "tags": [],
+      "event": "zika-patient-moscow",
+      "state_media": true
+    },
+    {
+      "source": "Rossiya 24 (Vesti)",
+      "title_original": "Полиция Испании обнаружила более тонны гашиша, спрятанного под буханками хлеба",
+      "title_ko": "스페인 경찰, 빵 덩어리 밑에 숨긴 대마수지 1톤 이상 적발",
+      "summary_ko": "스페인 경찰이 빵 아래 숨겨진 해시시 1톤 이상을 발견했다.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTzNxdmxkdElubC1KLUpSVmxJa0lPN2hoZUQ5eElqUGJMLUozd3NCZTVpQXFwTzhwbDI1V1lUQVIyT2ExMEt1Z0ZabWZoYW04RGZ5bTVfLWFxWFlFaURYNjBrUXVGVTVnR0Y4MmswVENzMWVENHVfNTRnOXM5OFBYdGI3eGRfajNOT3lueVpsekpwcW45bFpkMXktNldPU09Xb3I4eWlmLU81c3dD?oc=5",
+      "published": "2026-10-26T22:21:51+09:00",
+      "tags": [],
+      "event": "spain-hashish-seizure",
+      "state_media": true
+    },
+    {
+      "source": "Rossiya 24 (Vesti)",
+      "title_original": "Президент Кении планирует встретиться с Путиным на полях саммита РФ-Африка",
+      "title_ko": "케냐 대통령, 러시아-아프리카 정상회의 계기 푸틴과 회담 계획",
+      "summary_ko": "케냐 대통령이 러시아-아프리카 정상회의 기간 중 푸틴 대통령과 만날 계획이라고 베스티가 보도.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNkpBS1dRU3AwaGkyQWwwMDRkQWtWdmsxSkdJNEZvY1BWWWlZWVdsSlAzY3pIWlViNldDYnVoR1FUdjFYcFpITHhQUXRyQkpCalRxM1lwaW9UdDBITVQ0S3hVRXRLd25fYmlkaUMzWHhVc2YxUHhSLWYzQTlzR0NXbmd6SVA0dmpYZ0tsdHprMWdrR0tXMklENkhNbWs5dXdWZXc?oc=5",
+      "published": "2026-10-26T22:18:34+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "kenya-putin-russia-africa-summit",
+      "state_media": true
+    },
+    {
+      "source": "Rossiya 24 (Vesti)",
+      "title_original": "Рада продлила мобилизацию на Украине еще на 90 дней",
+      "title_ko": "우크라이나 의회, 동원령 90일 추가 연장",
+      "summary_ko": "우크라이나 최고라다가 동원 조치를 90일 더 연장했다.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU1U5LWdKaXptZEtjMTVQcGZMZDgzOVc1YXRRWHQybXJOT3BFYTlJYVVnZmFFLWtpRVVQSEtLa21SQW4wcDhlX3ZtT202N3AwdDRFd2JFNHM3cnRWTXhQcHBCYktYNW5MSWlpOFZ5eEowUi10dm45UVZLcTBKd2lvNnUyNzhzUQ?oc=5",
+      "published": "2026-10-26T22:12:05+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation"
+      ],
+      "event": "ukraine-martial-law-extension",
+      "state_media": true
+    },
+    {
+      "source": "Rossiya 24 (Vesti)",
+      "title_original": "Самолет тайваньской компании впервые за 4 года пролетел над территорией России",
+      "title_ko": "대만 항공사 여객기, 4년 만에 처음으로 러시아 영공 통과",
+      "summary_ko": "대만 항공사 소속 항공기가 4년 만에 처음으로 러시아 상공을 비행했다.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVVYcHZmOHdIMExDMUZNRm9jYTJRZWN0QTlmejBtbkVaMy1TaUlPMUFvb3hNak1od21UbEl0b3ZzdEtscFdBSV9SeGZTZXpnbWdfbDFJcENyZ1BualB0VDFqZG9zanRjbzVfWFRKWUE0dE0zQjNOM2J2YlBQUEtRSTBIa1NGcE9yUWNucDJwU0lPUDRERDdBQVdfQTZteDRoenZJ?oc=5",
+      "published": "2026-10-26T22:11:33+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "taiwan-airline-russian-airspace",
+      "state_media": true
+    },
+    {
+      "source": "Rossiya 24 (Vesti)",
+      "title_original": "Два человека погибли при столкновении грузовика и легковушки под Саратовом",
+      "title_ko": "사라토프 인근 트럭·승용차 충돌로 2명 사망",
+      "summary_ko": "사라토프 인근에서 트럭과 승용차가 충돌해 2명이 숨졌다.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQmZwd1lGUDBza0lwd3Q3YUFYNzl3Ny1pblpRY3lKUGttSm41MmZKdXV2X05Qdy00WmJuOUdUWkZUa0FPemlVRTk0NERNNG5jMWRmNFZ3cEJOQkZhYnFWYmRYQjVtR3gtTHgtc1BTaGRFcXhlbEp5Q1k5ZlVmd1F4V3ZFRkpPNlBwTk5uRmxmc295X1U2d0Jtem95TEhtXzJvSkE?oc=5",
+      "published": "2026-10-26T22:07:31+09:00",
+      "tags": [],
+      "event": "saratov-crash",
+      "state_media": true
+    },
+    {
+      "source": "Rossiya 24 (Vesti)",
+      "title_original": "В Поморье задержан мужчина, оборудовавший нарколабораторию на самодельном катере",
+      "title_ko": "포모리예에서 자작 보트에 마약 제조실 차린 남성 체포",
+      "summary_ko": "아르한겔스크주(포모리예)에서 자작 보트에 마약 제조 시설을 만든 남성이 체포됐다.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX3YxaVdLcm16ZlRZSmM5REJUZ0FicTZEdDNBTkczX05zbU5tRDBVejVBYjJzRzgteVY3cThzZEZURHJoZGFJOEh3aFBTY3hqZlpuM09BX1JEM1hBNjVILVJzdFE1WWhzWU96TVFtcFNBcW5KUURZNnAzZ0M5MzYzcXZzNnh2UVI0TkNmWF9TSlRfOEhsQUNDeGVtLVpReUt1ZnE1T0x4VmRkQQ?oc=5",
+      "published": "2026-10-26T21:52:23+09:00",
+      "tags": [],
+      "event": "pomorye-drug-lab",
+      "state_media": true
+    },
+    {
+      "source": "Rossiya 24 (Vesti)",
+      "title_original": "\"Яндекс\" перевез свои суперкомпьютеры на новые площадки",
+      "title_ko": "얀덱스, 슈퍼컴퓨터를 새 부지로 이전",
+      "summary_ko": "얀덱스가 자사 슈퍼컴퓨터를 새로운 장소로 옮겼다.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb1YtVVJrWlo5eVVMcVM5OHNTUTI4SktpQW1INU9DRFhvVmsxVFR1VE1DQUc3WGpNcXNhUTBQb3FUZmVYamRPdmdCQWxhZ1l1eUNidTllQjViakk1bXpkNExvSFlMVDJNWDNzN3V2NU5XSGY5azN4QVpRQVd5cWo4NXNERTNTUXVP?oc=5",
+      "published": "2026-10-26T21:27:14+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "yandex-supercomputers-relocated",
+      "state_media": true
+    },
+    {
+      "source": "TASS",
+      "title_original": "Фетисов отметил, что Кучеров олицетворяет в НХЛ советскую школу хоккея",
+      "title_ko": "페티소프 '쿠체로프는 NHL에서 소련 하키 학파를 상징'",
+      "summary_ko": "러시아 하키 선수 쿠체로프가 탬파베이 구단 역대 최다 득점 단독 1위에 오른 데 대해 페티소프가 논평.",
+      "url": "https://tass.ru/sport/28254679",
+      "published": "2026-10-26T22:38:09+09:00",
+      "tags": [],
+      "event": "kucherov-nhl",
+      "state_media": true
+    },
+    {
+      "source": "TASS",
+      "title_original": "При атаке ВСУ повреждены несколько зданий Мелитопольского госуниверситета",
+      "title_ko": "우크라이나군 공격으로 멜리토폴 국립대 건물 여러 동 손상",
+      "summary_ko": "대학 부총장은 우크라이나군이 민간 시설을 고의로 타격했다고 주장(타스 보도).",
+      "url": "https://tass.ru/proisshestviya/28254659",
+      "published": "2026-10-26T22:37:16+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "melitopol-university-strike",
+      "state_media": true
+    },
+    {
+      "source": "TASS",
+      "title_original": "В Москве ребенок выжил после падения из окна третьего этажа",
+      "title_ko": "모스크바에서 3층 창문에서 떨어진 아이 생존",
+      "summary_ko": "폴랴르나야 거리에서 추락한 두 살 여아가 병원으로 이송됐다.",
+      "url": "https://tass.ru/proisshestviya/28254671",
+      "published": "2026-10-26T22:37:14+09:00",
+      "tags": [],
+      "event": "moscow-child-fall",
+      "state_media": true
+    },
+    {
+      "source": "TASS",
+      "title_original": "Ymirlink сообщила о риске утечки данных более 51 млн пользователей",
+      "title_ko": "Ymirlink, 이용자 5,100만 명 이상 정보 유출 위험 발표",
+      "summary_ko": "일본 기업 측은 10월 16일 신칸센 예약 서비스 Smart Ex·Express Reservation이 해킹 공격을 받았다고 밝혔다.",
+      "url": "https://tass.ru/obschestvo/28254667",
+      "published": "2026-10-26T22:35:37+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "ymirlink-data-breach",
+      "state_media": true
+    },
+    {
+      "source": "TASS",
+      "title_original": "Минздрав: около 40% лекарств от орфанных заболеваний являются отечественными",
+      "title_ko": "보건부 '희귀질환 치료제의 약 40%가 국산'",
+      "summary_ko": "러시아 보건부가 희귀질환(오펀) 의약품의 약 40%가 국산이라고 밝혔다.",
+      "url": "https://tass.ru/obschestvo/28254663",
+      "published": "2026-10-26T22:32:13+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "orphan-drugs-russia",
+      "state_media": true
+    },
+    {
+      "source": "TASS",
+      "title_original": "В Анапе произошло землетрясение",
+      "title_ko": "아나파에서 지진 발생",
+      "summary_ko": "규모 3.5의 지진이 아나파에서 발생했다.",
+      "url": "https://tass.ru/proisshestviya/28254657",
+      "published": "2026-10-26T22:32:02+09:00",
+      "tags": [],
+      "event": "anapa-earthquake",
+      "state_media": true
+    },
+    {
+      "source": "TASS",
+      "title_original": "ВСУ заявили, что Киеву приходится просить по несколько ракет для ПВО у партнеров",
+      "title_ko": "우크라이나군 '키이우는 동맹국에 방공 미사일을 몇 발씩 구걸해야 하는 처지'",
+      "summary_ko": "우크라이나군이 서방 파트너에게 방공 미사일을 소량씩 요청해야 한다고 밝혔다고 타스가 보도.",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28254655",
+      "published": "2026-10-26T22:31:59+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-air-defense-shortage",
+      "state_media": true
+    },
+    {
+      "source": "TASS",
+      "title_original": "Трусова является одной из любимых фигуристок гимнастки Рощиной",
+      "title_ko": "체조선수 로시나 '트루소바는 가장 좋아하는 피겨 선수 중 한 명'",
+      "summary_ko": "로시나는 안나 셰르바코바와 예브게니아 메드베데바도 꼽았다.",
+      "url": "https://tass.ru/sport/28254661",
+      "published": "2026-10-26T22:31:31+09:00",
+      "tags": [],
+      "event": "roshina-trusova",
+      "state_media": true
+    },
+    {
+      "source": "RIA Novosti",
+      "title_original": "МИД России оценил усилия США по поиску формулы долгого мира на Украине",
+      "title_ko": "러시아 외무부, 우크라이나 장기 평화 공식을 찾으려는 미국의 노력 평가",
+      "summary_ko": "러시아 외무부가 우크라이나 지속 평화 방안을 모색하는 미국의 노력에 대한 평가를 내놨다(세부 내용은 원자료에 없음).",
+      "url": "https://ria.ru/20261026/mid-2127097837.html",
+      "published": "2026-10-26T22:40:30+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "russia-mfa-us-peace-efforts",
+      "state_media": true
+    },
+    {
+      "source": "RIA Novosti",
+      "title_original": "Вдова Маваши вышла на связь после сообщения о его смерти",
+      "title_ko": "사망 보도 이후 마바시의 부인 연락 닿아",
+      "summary_ko": "마바시 사망 보도 이후 그의 부인이 연락을 해왔다(세부 내용은 원자료에 없음).",
+      "url": "https://ria.ru/20261026/vdova-2127097672.html",
+      "published": "2026-10-26T22:40:22+09:00",
+      "tags": [],
+      "event": "mavashi-death-report",
+      "state_media": true
+    },
+    {
+      "source": "RIA Novosti",
+      "title_original": "В РФ ускорили доступ на рынок препаратов для орфанных заболеваний",
+      "title_ko": "러시아, 희귀질환 치료제 시장 진입 절차 가속",
+      "summary_ko": "러시아가 희귀질환 의약품의 시장 출시 절차를 앞당겼다.",
+      "url": "https://ria.ru/20261026/rossija-2127096899.html",
+      "published": "2026-10-26T22:34:37+09:00",
+      "tags": [
+        "legislation",
+        "industry"
+      ],
+      "event": "orphan-drugs-russia",
+      "state_media": true
+    },
+    {
+      "source": "RIA Novosti",
+      "title_original": "Фальков: реализация договоренностей со Словакией снимет напряженность",
+      "title_ko": "팔코프 '슬로바키아와의 합의 이행이 긴장 완화할 것'",
+      "summary_ko": "러시아 교육과학부 장관 팔코프가 슬로바키아와의 합의 이행이 긴장을 해소할 것이라고 말했다.",
+      "url": "https://ria.ru/20261026/slovakiya-2127096628.html",
+      "published": "2026-10-26T22:33:23+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "russia-slovakia-intergovernmental-commission",
+      "state_media": true
+    },
+    {
+      "source": "RIA Novosti",
+      "title_original": "Фальков предложил делегации из Словакии сосредоточиться на теме экологии",
+      "title_ko": "팔코프, 슬로바키아 대표단에 생태 분야 집중 제안",
+      "summary_ko": "팔코프 장관이 슬로바키아 대표단에 환경 분야 협력에 집중하자고 제안했다.",
+      "url": "https://ria.ru/20261026/ekologiya-2127096465.html",
+      "published": "2026-10-26T22:32:44+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "russia-slovakia-intergovernmental-commission",
+      "state_media": true
+    },
+    {
+      "source": "RIA Novosti",
+      "title_original": "Муфтий назвал наиболее популярные мусульманские имена в России",
+      "title_ko": "무프티, 러시아에서 가장 인기 있는 무슬림 이름 발표",
+      "summary_ko": "무프티가 러시아 내 인기 무슬림 이름을 소개했다.",
+      "url": "https://ria.ru/20261026/muftiy-2127096295.html",
+      "published": "2026-10-26T22:32:10+09:00",
+      "tags": [],
+      "event": "muslim-names-russia",
+      "state_media": true
+    },
+    {
+      "source": "RIA Novosti",
+      "title_original": "В Брянской области выставят дополнительные мобильные огневые группы",
+      "title_ko": "브랸스크주, 이동식 화력대 추가 배치",
+      "summary_ko": "브랸스크주가 (드론 대응용) 이동식 화력팀을 추가로 배치한다.",
+      "url": "https://ria.ru/20261026/bezopasnost-2127096138.html",
+      "published": "2026-10-26T22:31:57+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "bryansk-mobile-fire-groups",
+      "state_media": true
+    },
+    {
+      "source": "RIA Novosti",
+      "title_original": "Парламент Египта одобрил военную поддержку Саудовской Аравии",
+      "title_ko": "이집트 의회, 사우디아라비아에 대한 군사 지원 승인",
+      "summary_ko": "이집트 의회가 사우디아라비아 군사 지원을 승인했다.",
+      "url": "https://ria.ru/20261026/egipet-2127095936.html",
+      "published": "2026-10-26T22:29:56+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "egypt-military-support-saudi",
+      "state_media": true
+    },
+    {
+      "source": "Interfax",
+      "title_original": "РФ и Словакия договорились активизировать рабочие группы и возобновить культурные обмены",
+      "title_ko": "러시아·슬로바키아, 실무그룹 활성화 및 문화 교류 재개 합의",
+      "summary_ko": "팔코프 장관은 러시아-슬로바키아 정부간위원회 합의 이행으로 양국 관계를 교착 상태에서 벗어나게 할 수 있다고 밝혔다. 실무그룹 활성화 조치가 예정됐다.",
+      "url": "https://www.interfax.ru/russia/1125040",
+      "published": "2026-10-26T22:33:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "russia-slovakia-intergovernmental-commission",
+      "state_media": false
+    },
+    {
+      "source": "Interfax",
+      "title_original": "Узбекистан с 2027 года введет квоту на импорт сахара",
+      "title_ko": "우즈베키스탄, 2027년부터 설탕 수입 쿼터 도입",
+      "summary_ko": "우즈베키스탄 정부가 2027년부터 연 30만 톤 규모의 설탕 수입 쿼터를 도입할 계획이라고 Spot.uz가 소식통을 인용해 보도.",
+      "url": "https://www.interfax.ru/world/1125039",
+      "published": "2026-10-26T22:21:00+09:00",
+      "tags": [
+        "legislation",
+        "industry"
+      ],
+      "event": "uzbekistan-sugar-quota",
+      "state_media": false
+    },
+    {
+      "source": "Interfax",
+      "title_original": "Число пострадавших при ракетной атаке на липецкий Елец возросло до семи",
+      "title_ko": "리페츠크주 옐레츠 미사일 공격 부상자 7명으로 늘어",
+      "summary_ko": "옐레츠(리페츠크주) 미사일 공격 부상자가 1명 더 병원을 찾아 7명으로 늘었다고 지역 보건부가 밝혔다.",
+      "url": "https://www.interfax.ru/russia/1125038",
+      "published": "2026-10-26T22:15:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "yelets-missile-attack",
+      "state_media": false
+    },
+    {
+      "source": "Interfax",
+      "title_original": "Володин заявил о наивысшем уровне сотрудничества РФ и КНР",
+      "title_ko": "볼로딘 '러시아-중국 협력 사상 최고 수준'",
+      "summary_ko": "볼로딘 하원의장은 러시아와 중국이 상호존중과 국익 고려, 이중잣대 배제에 기반한 독특한 협력 모델을 만들었다고 말했다.",
+      "url": "https://www.interfax.ru/russia/1125037",
+      "published": "2026-10-26T22:14:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "russia-china-volodin",
+      "state_media": false
+    },
+    {
+      "source": "Interfax",
+      "title_original": "Глава думского комитета Сидякин считает, что ИИ поможет раскрыть таланты",
+      "title_ko": "시댜킨 하원 위원장 'AI가 재능 발현 도울 것'",
+      "summary_ko": "시댜킨 하원 위원장은 인공지능이 역사적 불공정을 극복하고 기회가 없던 사람들의 재능을 꽃피우게 할 수 있다고 말했다.",
+      "url": "https://www.interfax.ru/russia/1125036",
+      "published": "2026-10-26T22:07:00+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "sidyakin-ai-remarks",
+      "state_media": false
+    },
+    {
+      "source": "Interfax",
+      "title_original": "В Екатеринбурге подростка заподозрили в поджоге АЗС",
+      "title_ko": "예카테린부르크에서 10대, 주유소 방화 혐의",
+      "summary_ko": "예카테린부르크에서 17세 청소년이 사보타주 혐의로 체포됐다.",
+      "url": "https://www.interfax.ru/russia/1125035",
+      "published": "2026-10-26T22:07:00+09:00",
+      "tags": [],
+      "event": "yekaterinburg-gas-station-arson",
+      "state_media": false
+    },
+    {
+      "source": "Interfax",
+      "title_original": "Фальков заявил, что РФ и Словакия подтвердили настрой на восстановление взаимодействия",
+      "title_ko": "팔코프 '러시아·슬로바키아, 교류 복원 의지 확인'",
+      "summary_ko": "팔코프 장관은 러시아가 대러 관계에서 슬로바키아 지도부의 독자적이고 실용적인 입장을 높이 평가한다고 말했다.",
+      "url": "https://www.interfax.ru/russia/1125032",
+      "published": "2026-10-26T21:56:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "russia-slovakia-intergovernmental-commission",
+      "state_media": false
+    },
+    {
+      "source": "Interfax",
+      "title_original": "Сотрудницы вокзала Сыктывкара получили сроки по делу о поджоге локомотива",
+      "title_ko": "시크티프카르역 여직원들, 기관차 방화 사건으로 형 선고",
+      "summary_ko": "코미 공화국 시크티프카르 시법원이 역 직원 2명에게 교통 보안 미확보로 기관차 방화를 초래한 책임을 물어 유죄를 선고했다.",
+      "url": "https://www.interfax.ru/russia/1125029",
+      "published": "2026-10-26T21:54:00+09:00",
+      "tags": [],
+      "event": "syktyvkar-locomotive-arson",
+      "state_media": false
+    },
+    {
+      "source": "Kommersant",
+      "title_original": "Ступайте в театр и смешите в нем // Театр «Комеди Франсез» снялся в комедии о себе самом",
+      "title_ko": "극장에 가서 웃겨라 // 코메디 프랑세즈, 자기 자신에 관한 코미디 영화 출연",
+      "summary_ko": "프랑스 영화 〈코메디 프랑세즈에서의 미친 하루〉가 러시아에서 개봉한다.",
+      "url": "https://www.kommersant.ru/doc/9060934",
+      "published": "2026-10-26T22:35:59+09:00",
+      "tags": [],
+      "event": "comedie-francaise-film",
+      "state_media": false
+    },
+    {
+      "source": "Kommersant",
+      "title_original": "Первый тур президентских выборов в Болгарии не выявил победителя",
+      "title_ko": "불가리아 대선 1차 투표, 승자 없어",
+      "summary_ko": "10월 25일 1차 투표에서 현직 일리야나 요토바 대통령이 34.76%, 야권 안드레이 규로프가 31.94%를 얻었다.",
+      "url": "https://www.kommersant.ru/doc/9060896",
+      "published": "2026-10-26T21:48:53+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "bulgaria-presidential-election",
+      "state_media": false
+    },
+    {
+      "source": "Kommersant",
+      "title_original": "Чем известен Илия Срданович",
+      "title_ko": "일리야 스르다노비치는 어떤 인물인가",
+      "summary_ko": "1970년 노비사드 출생, 노비사드대 의대 졸업 후 심장내과를 전공한 인물에 대한 코메르산트 프로필.",
+      "url": "https://www.kommersant.ru/doc/9060878",
+      "published": "2026-10-26T21:37:59+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "srdanovic-profile",
+      "state_media": false
+    },
+    {
+      "source": "Kommersant",
+      "title_original": "Король легких весов отменил отставку // Василий Ломаченко решил вернуться на ринг ради титула абсолютного чемпиона мира",
+      "title_ko": "라이트급 왕, 은퇴 번복 // 로마첸코, 통합 챔피언 타이틀 위해 링 복귀",
+      "summary_ko": "작년 건강 문제로 은퇴를 선언했던 38세 우크라이나 복서 바실리 로마첸코가 복귀를 결정했다.",
+      "url": "https://www.kommersant.ru/doc/9060873",
+      "published": "2026-10-26T21:32:27+09:00",
+      "tags": [],
+      "event": "lomachenko-comeback",
+      "state_media": false
+    },
+    {
+      "source": "Kommersant",
+      "title_original": "Александр Вучич остался без двух кресел // О смене власти Сербию оповестил ее бывший президент",
+      "title_ko": "부치치, 두 자리 모두 잃어 // 세르비아 정권 교체",
+      "summary_ko": "14년 집권한 세르비아진보당과 부치치가 10월 25일 조기 총선에서 크게 패해 새 정치세력이 정부를 구성한다.",
+      "url": "https://www.kommersant.ru/doc/9060799",
+      "published": "2026-10-26T21:02:18+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "serbia-parliamentary-election",
+      "state_media": false
+    },
+    {
+      "source": "Kommersant",
+      "title_original": "Гран-при США — 18-й этап чемпионата мира",
+      "title_ko": "F1 미국 그랑프리(18라운드) 결과",
+      "summary_ko": "1위 키미 안토넬리(메르세데스), 2위 샤를 르클레르(페라리), 3위 막스 페르스타펜(레드불).",
+      "url": "https://www.kommersant.ru/doc/9060791",
+      "published": "2026-10-26T20:13:12+09:00",
+      "tags": [],
+      "event": "f1-us-grand-prix",
+      "state_media": false
+    },
+    {
+      "source": "Kommersant",
+      "title_original": "ООО «Агрокомплекс \"Кущевский\"»",
+      "title_ko": "'아그로콤플렉스 쿠셰프스키' 유한회사",
+      "summary_ko": "2014년 크라스노다르 지방 쿠셰프스키 지구에 설립된 곡물 재배 기업(관련 재판 배경 설명).",
+      "url": "https://www.kommersant.ru/doc/9060740",
+      "published": "2026-10-26T20:00:56+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "pokrovsky-concern-verdict",
+      "state_media": false
+    },
+    {
+      "source": "Kommersant",
+      "title_original": "Покровских осудили за кущевских // Бенефициары агрохолдинга получили по 24 года за рэкет",
+      "title_ko": "포크롭스키 측, 쿠셰프스키 건으로 실형 // 농업지주사 실소유주들 공갈로 각 24년형",
+      "summary_ko": "모스크바 법원이 '포크롭스키' 그룹 전 실소유주 체바노프·코로바이코에게 기업 자산 탈취 목적의 범죄조직 결성 혐의로 각 24년형을 선고했다.",
+      "url": "https://www.kommersant.ru/doc/9060665",
+      "published": "2026-10-26T19:40:45+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "pokrovsky-concern-verdict",
+      "state_media": false
+    },
+    {
+      "source": "Meduza (독립·망명)",
+      "title_original": "Война. 1706-й день. Черное море стало самым опасным судоходным маршрутом в мире. Там гибнет больше моряков, чем в Ормузском проливе",
+      "title_ko": "전쟁 1706일째. 흑해, 세계에서 가장 위험한 항로로…호르무즈 해협보다 선원 사망 많아",
+      "summary_ko": "메두자의 러-우 전쟁 일일 라이브 기사. 흑해가 세계에서 가장 위험한 해운 항로가 됐다는 내용.",
+      "url": "https://meduza.io/feature/2026/10/26/voyna",
+      "published": "2026-10-26T21:49:20+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "black-sea-shipping-danger",
+      "state_media": false
+    },
+    {
+      "source": "Meduza (독립·망명)",
+      "title_original": "«Когда у тебя нет света, воды или отопления, то все дни имеют значение». Украина хочет провести трехсторонние переговоры с Россией и США на неделю раньше",
+      "title_ko": "'전기·물·난방이 없으면 하루하루가 중요하다'. 우크라이나, 러·미와 3자 협상 일주일 앞당기길 원해",
+      "summary_ko": "우크라이나는 11월 10일경 아부다비에서 열릴 것으로 알려진 3자 협상을 최소 일주일 앞당기려 하고 있다.",
+      "url": "https://meduza.io/news/2026/10/26/kogda-u-tebya-net-sveta-vody-ili-otopleniya-to-vse-dni-imeyut-znachenie-ukraina-pytaetsya-perenesti-trehstoronnie-peregovory-s-rossiey-i-ssha-na-nedelyu-vpered",
+      "published": "2026-10-26T21:17:22+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-trilateral-talks-abu-dhabi",
+      "state_media": false
+    },
+    {
+      "source": "Meduza (독립·망명)",
+      "title_original": "«Яндекс» перевез все три своих суперкомпьютера в новое место после атак украинских беспилотников",
+      "title_ko": "얀덱스, 우크라이나 드론 공격 이후 슈퍼컴퓨터 3대 모두 이전",
+      "summary_ko": "얀덱스 슈퍼컴퓨터 '랴푸노프', '갈루시킨', '체르보넨키스' 3대가 새 장소로 옮겨졌다고 회사 측이 밝혔다.",
+      "url": "https://meduza.io/news/2026/10/26/yandeks-perevez-vse-tri-svoih-superkompyutera-v-novoe-mesto-posle-atak-ukrainskih-bespilotnikov",
+      "published": "2026-10-26T21:12:02+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "yandex-supercomputers-relocated",
+      "state_media": false
+    },
+    {
+      "source": "Meduza (독립·망명)",
+      "title_original": "Футболисты «Локомотива» ехали в поезде, попавшем под удар ВСУ",
+      "title_ko": "'로코모티프' 축구단, 우크라이나군 공격받은 열차에 탑승",
+      "summary_ko": "보로네시주에서 우크라이나 공격을 받은 열차에 로코모티프 선수단이 타고 있었다고 러시아 매체들이 스포츠 기자를 인용해 보도.",
+      "url": "https://meduza.io/news/2026/10/26/futbolisty-lokomotiva-ehali-v-poezde-popavshem-pod-udar-vsu",
+      "published": "2026-10-26T20:37:25+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "lokomotiv-train-attack",
+      "state_media": false
+    },
+    {
+      "source": "Meduza (독립·망명)",
+      "title_original": "Прокуратура потребовала завести уголовное дело на правозащитницу Анну Каретникову — она много лет сотрудничала с «Мемориалом»",
+      "title_ko": "검찰, '메모리알' 협력 인권운동가 안나 카레트니코바 형사입건 요구",
+      "summary_ko": "모스크바 레포르토보 검찰이 인권운동가 카레트니코바에 대한 형사사건 개시 자료를 수집했다.",
+      "url": "https://meduza.io/news/2026/10/26/prokuratura-potrebovala-zavesti-na-pravozaschitnitsu-annu-karetnikovu-ugolovnoe-delo-ob-uchastii-v-ekstremistskoy-organizatsii-ona-mnogo-let-sotrudnichala-s-memorialom",
+      "published": "2026-10-26T19:33:35+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "karetnikova-case",
+      "state_media": false
+    },
+    {
+      "source": "Meduza (독립·망명)",
+      "title_original": "Умер Александр Кондратов — художник сериала «Ликвидация», арестованный по делу о государственной измене",
+      "title_ko": "국가반역 혐의로 체포된 드라마 〈리크비다치야〉 미술감독 콘드라토프 사망",
+      "summary_ko": "콘드라토프가 모스크바 보트킨 병원에서 숨졌다고 인권단체 '제1부서'가 전했다.",
+      "url": "https://meduza.io/news/2026/10/26/umer-aleksandr-kondratov-hudozhnik-seriala-likvidatsiya-arestovannyy-po-delu-o-gosudarstvennoy-izmene",
+      "published": "2026-10-26T19:21:06+09:00",
+      "tags": [],
+      "event": "kondratov-death",
+      "state_media": false
+    },
+    {
+      "source": "Meduza (독립·망명)",
+      "title_original": "На парламентских выборах в Сербии победило движение «Студенческий список». Александр Вучич признал поражение и утверждает, что теперь новые власти введут санкции против России. «Студенты» это отрицали",
+      "title_ko": "세르비아 총선서 '학생 명단' 승리…부치치 패배 인정, 새 정부가 대러 제재 도입할 것이라 주장",
+      "summary_ko": "부치치 전 대통령이 총리직을 노렸으나 패배를 인정했고, '학생' 측은 대러 제재 도입 주장을 부인했다.",
+      "url": "https://meduza.io/feature/2026/10/26/na-parlamentskih-vyborah-v-serbii-pobedilo-dvizhenie-studencheskiy-spisok",
+      "published": "2026-10-26T19:14:13+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "serbia-parliamentary-election",
+      "state_media": false
+    },
+    {
+      "source": "Meduza (독립·망명)",
+      "title_original": "Германия планирует закупить украинские ракеты «Барс»",
+      "title_ko": "독일, 우크라이나산 '바르스' 미사일 구매 계획",
+      "summary_ko": "FT에 따르면 독일이 우크라이나가 개발한 순항미사일 '바르스' 첫 물량 구매 계약을 수주 내 체결할 계획이다.",
+      "url": "https://meduza.io/news/2026/10/26/germaniya-planiruet-zakupit-ukrainskie-rakety-bars",
+      "published": "2026-10-26T17:15:10+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "germany-bars-missiles",
+      "state_media": false
+    },
+    {
+      "source": "Vedomosti",
+      "title_original": "«Европлан» зафиксировал объем размещения облигаций на уровне 13,5 млрд рублей",
+      "title_ko": "유로플란, 135억 루블 규모 회사채 발행 확정",
+      "summary_ko": "리스사 유로플란이 회사채 발행액을 135억 루블로 확정했다.",
+      "url": "https://www.vedomosti.ru/investments/news/2026/10/26/1240222-obem-razmescheniya",
+      "published": "2026-10-26T22:41:45+09:00",
+      "tags": [
+        "business",
+        "stocks"
+      ],
+      "event": "europlan-bond",
+      "state_media": false
+    },
+    {
+      "source": "Vedomosti",
+      "title_original": "Anthropic подал заявку на IPO в Nasdaq",
+      "title_ko": "앤트로픽, 나스닥 IPO 신청",
+      "summary_ko": "앤트로픽이 나스닥 상장을 신청했다고 베도모스티가 보도(세부 내용은 원자료에 없음).",
+      "url": "https://www.vedomosti.ru/investments/news/2026/10/26/1240220-anthropic-zayavku-na-ipo",
+      "published": "2026-10-26T22:40:10+09:00",
+      "tags": [
+        "stocks",
+        "business",
+        "industry"
+      ],
+      "event": "anthropic-ipo",
+      "state_media": false
+    },
+    {
+      "source": "Vedomosti",
+      "title_original": "Глава «Уралхима»: доля России на рынке удобрений Африки выросла до 20%",
+      "title_ko": "우랄힘 대표 '아프리카 비료 시장 러시아 점유율 20%로 상승'",
+      "summary_ko": "우랄힘 대표는 아프리카 비료 시장에서 러시아 점유율이 20%로 높아졌다고 말했다.",
+      "url": "https://www.vedomosti.ru/business/news/2026/10/26/1240221-glava-uralhima",
+      "published": "2026-10-26T22:39:42+09:00",
+      "tags": [
+        "industry",
+        "business",
+        "geopolitics"
+      ],
+      "event": "russia-fertilizer-africa",
+      "state_media": false
+    },
+    {
+      "source": "Vedomosti",
+      "title_original": "Лавров и глава МИД Словакии обсудили кризис между Россией и ЕС",
+      "title_ko": "라브로프-슬로바키아 외무장관, 러시아·EU 위기 논의",
+      "summary_ko": "라브로프 외무장관과 슬로바키아 외무장관이 러시아와 EU 간 위기를 논의했다.",
+      "url": "https://www.vedomosti.ru/politics/news/2026/10/26/1240215-obsudili-krizis",
+      "published": "2026-10-26T22:33:01+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "russia-slovakia-intergovernmental-commission",
+      "state_media": false
+    },
+    {
+      "source": "Vedomosti",
+      "title_original": "ЦБ рекомендовал банкам контролировать источники крупных наличных сумм у клиентов",
+      "title_ko": "중앙은행, 은행에 고객 고액 현금 출처 관리 권고",
+      "summary_ko": "러시아 중앙은행이 고객의 대규모 현금 출처를 확인하도록 은행에 권고했다.",
+      "url": "https://www.vedomosti.ru/finance/news/2026/10/26/1240213-tsb-rekomendoval-bankam",
+      "published": "2026-10-26T22:32:16+09:00",
+      "tags": [
+        "monetary",
+        "legislation"
+      ],
+      "event": "cbr-cash-origin-guidelines",
+      "state_media": false
+    },
+    {
+      "source": "Vedomosti",
+      "title_original": "Польского депутата раскритиковали за использование китайских умных очков",
+      "title_ko": "폴란드 의원, 중국산 스마트 안경 사용으로 비판받아",
+      "summary_ko": "폴란드 의원이 중국산 스마트 안경을 사용해 비판을 받았다.",
+      "url": "https://www.vedomosti.ru/politics/news/2026/10/26/1240217-raskritikovali-za-ochkov",
+      "published": "2026-10-26T22:30:44+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "polish-mp-chinese-glasses",
+      "state_media": false
+    },
+    {
+      "source": "Vedomosti",
+      "title_original": "Глава МИД Норвегии ответил на критику Трампа из-за Нобелевской премии",
+      "title_ko": "노르웨이 외무장관, 노벨상 관련 트럼프 비판에 응답",
+      "summary_ko": "노르웨이 외무장관이 노벨평화상 관련 트럼프의 비판에 답했다.",
+      "url": "https://www.vedomosti.ru/politics/news/2026/10/26/1240212-glava-mid-norvegii",
+      "published": "2026-10-26T22:25:58+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "norway-trump-nobel",
+      "state_media": false
+    },
+    {
+      "source": "Vedomosti",
+      "title_original": "Акционеры «Акрона» одобрили дивиденды из нераспределенной прибыли",
+      "title_ko": "아크론 주주, 이익잉여금 배당 승인",
+      "summary_ko": "비료업체 아크론 주주들이 미처분 이익에서의 배당을 승인했다.",
+      "url": "https://www.vedomosti.ru/investments/news/2026/10/26/1240209-akrona-dividendi",
+      "published": "2026-10-26T22:09:33+09:00",
+      "tags": [
+        "stocks",
+        "business"
+      ],
+      "event": "acron-dividends",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "Рада Украины в 21-й раз одобрила продление военного положения на 90 суток",
+      "title_ko": "우크라이나 의회, 계엄령 90일 연장 21번째 승인",
+      "summary_ko": "최고라다가 계엄령과 총동원령을 2027년 1월 29일까지 90일 연장하는 안을 21번째로 승인했다.",
+      "url": "https://www.rbc.ru/rbcfreenews/6adf501700990092fe978399",
+      "published": "2026-10-26T22:36:45+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation"
+      ],
+      "event": "ukraine-martial-law-extension",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "ЦБ выпустил рекомендации по контролю происхождения денег клиентов банков",
+      "title_ko": "중앙은행, 은행 고객 자금 출처 관리 권고안 발표",
+      "summary_ko": "은행은 고객이 고액 현금을 입금할 때 출처 증빙을 요구해야 한다. 중앙은행은 앞서 관련 방법론 권고 발표를 예고했었다.",
+      "url": "https://www.rbc.ru/quote/26/10/2026/6adf4d149a79479feb760f57",
+      "published": "2026-10-26T22:33:21+09:00",
+      "tags": [
+        "monetary",
+        "legislation"
+      ],
+      "event": "cbr-cash-origin-guidelines",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "«Локомотив» вернулся в Москву после атаки БПЛА на поезд",
+      "title_ko": "'로코모티프', 열차 드론 공격 후 모스크바 복귀",
+      "summary_ko": "로스토프 원정 후 귀경 열차가 보로네시 인근에서 드론 공격을 받았으며, 구단은 선수단이 기지로 복귀했다고 밝혔다.",
+      "url": "https://www.rbc.ru/sport/26/10/2026/6adf4305119ddf6c1d53df8d",
+      "published": "2026-10-26T22:32:50+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "lokomotiv-train-attack",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "Эстония начала военные учения вместе с силами НАТО на границе с Россией",
+      "title_ko": "에스토니아, 러시아 국경에서 NATO군과 군사훈련 시작",
+      "summary_ko": "에스토니아 국방군이 NATO 부대와 나르바 일대에서 훈련 중이라고 ERR이 보도.",
+      "url": "https://www.rbc.ru/rbcfreenews/6adf4aad4e8e85f125c98794",
+      "published": "2026-10-26T22:30:49+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "estonia-nato-exercise-narva",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "Аналитики ожидают роста чистой прибыли «Дом.РФ» на 39% за девять месяцев",
+      "title_ko": "애널리스트들, 돔.RF 9개월 순이익 39% 증가 전망",
+      "summary_ko": "러시아 주요 투자사 13곳이 돔.RF의 2026년 9개월 IFRS 실적 전망을 제시했다.",
+      "url": "https://www.rbc.ru/quote/26/10/2026/6adf406a9a79473f406a3b62",
+      "published": "2026-10-26T22:26:42+09:00",
+      "tags": [
+        "stocks",
+        "forecast",
+        "business"
+      ],
+      "event": "domrf-earnings-forecast",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "The Telegraph сообщил о плане АдГ «разрыхлить» и уничтожить ЕС",
+      "title_ko": "텔레그래프 'AfD, EU 해체 계획'",
+      "summary_ko": "바이델은 AfD가 EU를 실질적으로 개혁하지 못하면 독일의 EU 탈퇴를 거론했다. 당은 회원국 정부로 권한 이양을 주장한다.",
+      "url": "https://www.rbc.ru/politics/26/10/2026/6adf213c197cc1a652c88a7f",
+      "published": "2026-10-26T22:17:54+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "afd-eu-plan",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "Умерла младшая сестра писателя Чингиза Айтматова Роза",
+      "title_ko": "작가 친기즈 아이트마토프의 여동생 로자 별세",
+      "summary_ko": "아이트마토프의 여동생이자 사회활동가 로자 아이트마토바가 89세로 별세했다.",
+      "url": "https://www.rbc.ru/society/26/10/2026/6adf52466060172ca811d33b",
+      "published": "2026-10-26T22:17:30+09:00",
+      "tags": [],
+      "event": "roza-aitmatova-death",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "Два самолета Ryanair с начала суток подали аварийный сигнал над Британией",
+      "title_ko": "라이언에어 여객기 2대, 하루 사이 영국 상공에서 비상 신호",
+      "summary_ko": "이탈리아발 아일랜드행 FR9320편 등 2대가 비상 신호를 보냈다고 Squawk 7700이 전했다.",
+      "url": "https://www.rbc.ru/rbcfreenews/6adf475800990092fe97836e",
+      "published": "2026-10-26T22:17:16+09:00",
+      "tags": [],
+      "event": "ryanair-emergency-signals",
+      "state_media": false
+    }
   ],
   "events": [
-    {"event": "serbia-election", "title_ko": "세르비아 조기 총선, 부치치 패배", "sources": ["RIA Novosti", "Meduza (독립·망명)"], "count": 2},
-    {"event": "sheremetyevo-restrictions", "title_ko": "셰레메티예보 공항 운항 제한 도입 및 해제", "sources": ["RIA Novosti", "Interfax"], "count": 2},
-    {"event": "sverdlovsk-rail-fire", "title_ko": "스베르들롭스크주 화물열차 탈선·화재", "sources": ["RIA Novosti", "Interfax"], "count": 2},
-    {"event": "rostov-drones", "title_ko": "로스토프주 드론 20여 대 격추", "sources": ["Rossiya 24 (Vesti)", "Interfax"], "count": 2},
-    {"event": "novosibirsk-crash", "title_ko": "노보시비르스크 인근 교통사고", "sources": ["TASS", "RIA Novosti"], "count": 2},
-    {"event": "brazil-election", "title_ko": "브라질 대선(룰라 재선 관련)", "sources": ["Rossiya 24 (Vesti)"], "count": 1}
+    {
+      "event": "russia-slovakia-intergovernmental-commission",
+      "title_ko": "러시아-슬로바키아 정부간위원회·외교장관 협의(관계 복원 논의)",
+      "sources": [
+        "Interfax",
+        "RIA Novosti",
+        "Vedomosti"
+      ],
+      "count": 3,
+      "headline_count": 5
+    },
+    {
+      "event": "ukraine-martial-law-extension",
+      "title_ko": "우크라이나 의회, 계엄령·동원령 90일 연장(2027.1.29까지)",
+      "sources": [
+        "RBC",
+        "Rossiya 24 (Vesti)"
+      ],
+      "count": 2,
+      "headline_count": 2
+    },
+    {
+      "event": "yandex-supercomputers-relocated",
+      "title_ko": "얀덱스, 드론 공격 이후 슈퍼컴퓨터 3대 이전",
+      "sources": [
+        "Meduza (독립·망명)",
+        "Rossiya 24 (Vesti)"
+      ],
+      "count": 2,
+      "headline_count": 2
+    },
+    {
+      "event": "orphan-drugs-russia",
+      "title_ko": "러시아 희귀질환 치료제 국산화·시장 진입 가속",
+      "sources": [
+        "RIA Novosti",
+        "TASS"
+      ],
+      "count": 2,
+      "headline_count": 2
+    },
+    {
+      "event": "serbia-parliamentary-election",
+      "title_ko": "세르비아 조기 총선, 부치치 진영 패배·정권 교체",
+      "sources": [
+        "Kommersant",
+        "Meduza (독립·망명)"
+      ],
+      "count": 2,
+      "headline_count": 2
+    },
+    {
+      "event": "lokomotiv-train-attack",
+      "title_ko": "보로네시 인근 열차 드론 공격(로코모티프 선수단 탑승)",
+      "sources": [
+        "Meduza (독립·망명)",
+        "RBC"
+      ],
+      "count": 2,
+      "headline_count": 2
+    },
+    {
+      "event": "cbr-cash-origin-guidelines",
+      "title_ko": "러시아 중앙은행, 고액 현금 입금 출처 확인 권고",
+      "sources": [
+        "RBC",
+        "Vedomosti"
+      ],
+      "count": 2,
+      "headline_count": 2
+    },
+    {
+      "event": "pokrovsky-concern-verdict",
+      "title_ko": "'포크롭스키' 그룹 전 실소유주 24년형 선고",
+      "sources": [
+        "Kommersant"
+      ],
+      "count": 1,
+      "headline_count": 2
+    }
   ],
   "unavailable_sources": []
 }

@@ -139,7 +139,7 @@ const hypPill = h => h==="지지" ? `<span class="pill sup">가설 지지</span>
 const app = document.getElementById('app');
 let html = "";
 
-html += `<header class="masthead"><div class="row"><span class="eyebrow">News-Daily · 9개국 방송 헤드라인 종합</span><span class="class-tag">DAILY BRIEF</span></div>
+html += `<header class="masthead"><div class="row"><span class="eyebrow">News-Daily · 9개국 방송·신문 헤드라인 종합</span><span class="class-tag">DAILY BRIEF</span></div>
 <div class="row"><h1>${esc(D.date)} 브리핑</h1><span class="mono" style="font-size:.78rem;color:var(--muted)">생성 ${esc(D.generated_at||"")}</span></div></header>`;
 
 if (!D.essence) {
