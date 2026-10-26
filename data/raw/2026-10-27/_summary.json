@@ -1,0 +1,45 @@
+{
+  "us": {
+    "headlines": 88,
+    "unavailable": []
+  },
+  "kr": {
+    "headlines": 112,
+    "unavailable": []
+  },
+  "jp": {
+    "headlines": 96,
+    "unavailable": [
+      "Nikkei Asia"
+    ]
+  },
+  "de": {
+    "headlines": 80,
+    "unavailable": []
+  },
+  "uk": {
+    "headlines": 88,
+    "unavailable": []
+  },
+  "fr": {
+    "headlines": 64,
+    "unavailable": []
+  },
+  "il": {
+    "headlines": 49,
+    "unavailable": [
+      "N12 (Channel 12)"
+    ]
+  },
+  "ru": {
+    "headlines": 72,
+    "unavailable": []
+  },
+  "cn": {
+    "headlines": 48,
+    "unavailable": [
+      "Global Times",
+      "Caixin"
+    ]
+  }
+}
