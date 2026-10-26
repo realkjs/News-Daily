@@ -36,16 +36,24 @@ def text_width(s):
 
 
 def wrap(s, width):
+    """단어(공백) 단위로 줄바꿈해 [US-3] 같은 출처 ID가 쪼개지지 않게 한다. 최대 2줄."""
     lines, cur = [], ""
-    for ch in s:
-        if text_width(cur + ch) > width:
-            lines.append(cur)
-            cur = ch
+    for word in s.split(" "):
+        cand = f"{cur} {word}" if cur else word
+        if text_width(cand) <= width or not cur:
+            cur = cand
         else:
-            cur += ch
-    if cur:
-        lines.append(cur)
-    return lines[:2] if len(lines) <= 2 else [lines[0], lines[1][:-1] + "…"]
+            lines.append(cur)
+            cur = word
+    lines.append(cur)
+    if len(lines) > 2:
+        lines = [lines[0], " ".join(lines[1:])]
+    if text_width(lines[-1]) > width * 1.15:
+        tail = lines[-1]
+        while text_width(tail + "…") > width * 1.15:
+            tail = tail[:-1]
+        lines[-1] = tail + "…"
+    return lines
 
 
 def tspans(lines, x, y, size, anchor):
