@@ -292,7 +292,7 @@
 **⑥ 본질 (머스크 3법칙)**
 - 의심한 가정: "법안 = 공익을 위한 규칙"인가? 미국의 선거 관련 소송·규칙은 중간선거(11/3) 직전에 몰렸다(NYT "선제적 신단계")[US-62][US-35][US-44].
 - 근본 요소: 규칙을 누가 쓰는가, 돈(예산·투자)의 배분, 군사력(국방비·파병).
-- 본질: 🔎 **이번 주 법안·규칙은 "누가 비용을 지고 누가 이익을 가져가는지"를 선거 직전에 다시 나누는 장치이고, 미국은 그 규칙을 자본(대중 투자)과 선거 절차에까지 넓히고 있다.**
+- 본질: 🔎 **이번 주 법안·규칙은 "누가 비용을 지고 누가 이익을 가져가는지"를 다시 나누는 장치이고, 미국은 중간선거 직전에 그 규칙을 자본(대중 투자)과 선거 절차에까지 넓히고 있다.**
 
 **⑦ 시나리오별 결론**
 | 시나리오 | 확률 | 트리거 | 관찰 지표 | 시사점 |
@@ -324,7 +324,7 @@
 **④ 논리구조**
 - 이스라엘 총선(10/27) → 이란 정책 지속 여부 → 미국 공습 결정 → 유가.
 - 미 중간선거(11/3) → 관세·우크라이나·이란 정책의 지속성 → 11월 3자 회담·미중러 정상회담 동력.
-- AI 고용 대체 → 청년층 불만 → 유럽 '분노의 가을'[FR-42]·극우 부상[FR-43].
+- 🔎 AI 고용 구조 변화(한국 청년 고용[KR-17]·일본 IT 인력[JP-51])는 한·일 노동시장 안의 흐름으로만 본다. 프랑스 시위·극우 부상과 AI 고용을 잇는 근거는 수집분에 없다. 프랑스 매체는 시위 원인으로 사회·재정·치안 쟁점을 다뤘다[FR-42][FR-53][FR-44].
 - 누가 이익을 보는가: 🔎 협상 테이블을 먼저 차린 쪽(크렘린이 3자·3강 회담 일정을 먼저 공개[RU-68]).
 
 **⑤ 유사 사례 분석**
@@ -352,13 +352,14 @@
 
 **① 현상파악**
 - 중동: 트럼프 "협상이냐 끝장내기냐, 결정 임박"(Bloomberg)[US-91][IL-34][JP-87]. 대규모 공습 계획 보유 보도(CNN)[US-1]. 이란은 공습 재개 시 걸프 민간 목표물을 치겠다고 위협했다(i24)[IL-2]. 미국은 중동 각지 대사관 외교관 철수를 명령했다(요미우리)[JP-46][IL-27]. 호르무즈 선박 공격 사상 최고(Handelsblatt)[DE-71] vs 미국 "상선 3,000척 통과, 원유 15억 배럴 수출 지원"(BFMTV)[FR-36]. 후티의 사우디 석유시설 드론 공격[RU-41]. 카타르 중재단의 테헤란 방문[IL-33], 사우디·튀르키예·파키스탄 고위급 테헤란 회동 예정[IL-19][IL-51].
-- 이스라엘: 네타냐후의 이란 관련 군사행동 지시에 자미르 참모총장이 저항(N12 → 전 매체)[IL-21][IL-50]. 핵폭발 AI 이미지와 "제2의 홀로코스트" 경고[IL-42], 백악관 우려[IL-32], 트럼프의 재지지[IL-41].
+- 이스라엘: 네타냐후의 이란 관련 '작전' 지시에 자미르 참모총장이 반발했다고 보도됐다(N12 단독 → JPost 등)[IL-21][IL-50]. 핵폭발 AI 이미지와 "제2의 홀로코스트" 경고[IL-42], 백악관 우려[IL-32], 트럼프의 재지지[IL-41].
 - 러·우: 젤렌스키 11월 3자 회담 확인(RFI)[FR-28], 크렘린 3강 회담 준비[RU-68], 페스코프 APEC 푸틴-트럼프 회담 가능[RU-50]. 전장에선 러시아의 초르노모르스크항·변전소 타격[RU-13][RU-15], 우크라이나의 러 미사일 공장 공격[DE-52].
 - 미·중: 투자규제 확대안[CN-51], 가데나 BYD 금지[JP-81], 5중전회 개막(~29일)[CN-11], 메르츠·슈타인마이어 아시아 순방[DE-2].
-- 선거로 인한 이탈: 룰라 51.8% 득표로 첫 4선[FR-11], "타국의 뒷마당이 되지 않겠다"[JP-47], 보우소나루 측 불복[DE-79]. 세르비아 부치치 패배 인정[UK-6], "학생 리스트가 봄까지 대러 제재 도입"(TASS)[RU-7].
+- 선거 결과: 룰라 51.8% 득표로 첫 4선[FR-11], "타국의 뒷마당이 되지 않겠다"[JP-47], 보우소나루 측 불복·무효화 추진[DE-79]. 세르비아 부치치 패배 인정[UK-6][US-10]. 부치치는 "승리한 학생 리스트가 봄까지 대러 제재를 도입할 것"이라고 주장했다(TASS)[RU-7]. 불가리아는 사상 최저 투표율 속에 11월 1일 대선 결선을 치른다(DW)[DE-23]. 베네수엘라 야당 지도자 마차도는 망명 끝에 귀국했다(NYT·FNN)[US-69][JP-21].
 - 유럽 재무장: 프랑스 핵억지에 유럽 10개국 협력(JPost)[IL-58], 영국 국방비 증액 예정[UK-52], 독일의 우크라이나산 'Bars' 구매(FT)[UK-30].
-- 동아시아: 김정은 단둥 깜짝 방중(WSJ)[US-78], 북한 자주포 접경 남하[KR-38], 미일 훈련에서 '반격능력' 장사정 지대함 미사일 첫 공개(요미우리)[JP-45].
-- 프레이밍 차이: 미국 측은 "3,000척 통과"로 통제력을[FR-36], 독일 매체는 "공격 최고"로 위험을[DE-71] 강조했다. 러시아 국영 TASS는 이란 외무장관 발언으로 유럽 시위 원인을 에너지 불안에 돌렸다[RU-3]. 중국 국영 매체는 룰라·세르비아·3자 회담을 평가 없이 단신 처리했다[CN-4][CN-3][CN-1].
+- 유럽 사회·정치: 프랑스에서 시위대와 경찰이 충돌해 다수가 체포됐다. 체포자 수는 매체마다 다르다(CBS 1,000명 이상[US-26], SZ 1,300명 이상[DE-57], DW 수백 명[DE-26] — 미확인). 르몽드는 10월 24일 시위 뒤 행정부가 '긴 사회적 가을'에 직면했다고 썼다[FR-42]. 마크롱은 '반달법'으로 시위권을 위협한다는 비판을 받는다(Guardian)[UK-40]. 독일에서는 Union·SPD와 내무장관들이 청년 시위의 폭력화, 특히 핼러윈 시위를 경고했다[DE-31][DE-81]. 트라프 인종차별 테러 뒤 트라프 시장은 "대통령이 보호자 역할을 하지 못했다"고 비판했다(Le Monde)[FR-44][FR-33]. 영국 버넘 총리는 EU와 이동의 자유를 "솔직하게 논의할 때"라고 말했다(ITV·Telegraph)[UK-19][UK-44].
+- 동아시아: 김정은 단둥 깜짝 방중(WSJ)[US-78], 북한 자주포 접경 남하[KR-38], 미일 훈련에서 '반격능력' 장사정 지대함 미사일 첫 공개(요미우리)[JP-45]. 북한도 안보리 의장에게 서한을 보내 "지뢰 폭발은 한국의 자작극"이라고 주장했고, 남북이 유엔에서 비난을 주고받았다[KR-13][KR-39][JP-6]. 5중전회와 같은 시기에 신화는 '대만광복절' 논평으로 통일 결의를 강조했고[CN-21], 동부전구는 첫 대만광복절 포스터로 "대만독립"을 경고했다[CN-41].
+- 프레이밍 차이: 미국 측은 "3,000척 통과"로 통제력을[FR-36], 독일 매체는 "공격 최고"로 위험을[DE-71] 강조했다. 러시아 국영 TASS는 이란 외무장관 발언으로 유럽 시위 원인을 에너지 불안에 돌렸다[RU-3]. 중국 국영 매체는 룰라·세르비아·3자 회담을 평가 없이 단신 처리했다[CN-4][CN-3][CN-1]. 프랑스 시위도 CGTN은 "대체로 평화 시위 뒤 파리 폭력"[CN-8], FAZ는 "유럽 전역 Z세대 봉기는 아니다"[DE-47]로 서로 다르게 다뤘다.
 
 **② 세계 유사 사례**
 - 1987~1988년 페르시아만: '유조선 전쟁' 중 미국이 쿠웨이트 유조선에 성조기를 달아 호위(어니스트 윌 작전), 1988년 4월 이란 해군과 교전(프레잉 맨티스 작전).
@@ -372,8 +373,8 @@
 **④ 논리구조**
 - 이란 위기 → 미국 해협 호위·공습 선택지 → 에너지 수입국(한·일·유럽) 비용 ↑ → 러시아 "가스 논의" 제안[RU-34] → 유럽의 대러 정책 균열 가능성.
 - 네타냐후 선거 위기 → 이란 강경 신호[IL-42] → 군 지휘부 견제[IL-50] → 미국의 공습 결정과 얽힘.
-- 미국 서반구 영향력 약화(룰라)[UK-26] + 러시아 발칸 우호국 상실(세르비아) → 강대국 모두 주변부 통제력이 줄어든다.
-- 누가 이익을 보는가: 🔎 중재자(카타르·사우디·튀르키예·파키스탄), 대체 에너지 공급자(러시아·미국 원유), 대두 구매자 중국[US-96]. 손해: 에너지 수입국, 러시아(세르비아), 미국 중남미 우파 연대.
+- 🔎 FT는 룰라 승리를 트럼프의 중남미 영향력 확대 구상에 타격으로 봤다[UK-26]. 부치치는 학생 리스트가 대러 제재를 도입할 것이라고 주장했다(TASS)[RU-7]. 이 두 해석이 맞다면 미·러 모두 주변부 통제력이 줄어든다(해석. 세르비아 새 정부의 실제 대러 정책은 아직 나오지 않았다).
+- 누가 이익을 보는가: 🔎 중재자(카타르·사우디·튀르키예·파키스탄), 대체 에너지 공급자(러시아·미국 원유), 대두 구매자 중국[US-96]. 손해(🔎 위 해석이 맞을 경우): 에너지 수입국, 러시아(세르비아), 미국 중남미 우파 연대.
 
 **⑤ 유사 사례 분석**
 | 사례 | 그때 | 같은 점 | 다른 점 |
@@ -384,7 +385,7 @@
 - 🔎 "몇 번째 레오인가": 걸프 해상 통로를 둘러싼 미·이란 충돌은 1980년대 유조선 전쟁, 2019년 유조선 공격에 이은 또 한 번의 회차로 보인다.
 
 **⑥ 본질 (머스크 3법칙)**
-- 의심한 가정: "미국이 해협을 통제한다"는 말은 맞는가? 3,000척 통과[FR-36]와 공격 사상 최고[DE-71]는 동시에 사실일 수 있다. "선거는 국내 문제"인가? 브라질·세르비아·이스라엘·미국 선거가 모두 대외 정렬을 바꾸고 있다.
+- 의심한 가정: "미국이 해협을 통제한다"는 말은 맞는가? 3,000척 통과[FR-36]와 공격 사상 최고[DE-71]는 동시에 사실일 수 있다. "선거는 국내 문제"인가? 🔎 브라질·세르비아 선거(10/25)는 이미 대외 정렬에 관한 해석을 낳았고[UK-26][RU-7], 이스라엘(10/27)·미국(11/3) 선거는 이란·관세·우크라이나 정책을 바꿀 수 있다.
 - 근본 요소: 해상 통로(호르무즈), 에너지(원유·가스), 군사력(공습·재무장), 규칙(제재·투자규제), 정치적 정당성(선거).
 - 본질: 🔎 **강대국들은 해협·자본·기술이라는 병목을 쥐어 상대를 묶으려 하지만, 중견국과 유권자들이 줄서기를 거부하면서 병목을 쥔 쪽의 통제 비용이 올라가고 있다.**
 
@@ -399,13 +400,12 @@
 ---
 
 ## 분야 간 연결 (교차 인과)
-- [지정학] 이란 결정 임박[US-91] → [통화정책] 유가·기대 인플레 변수[RU-55] → [주식] 에너지 수입국 약세(코스피[KR-34]) vs 자원 상사 강세(도쿄[JP-25]).
+- [지정학] 이란 결정 임박[US-91]·호르무즈 공격 최고[DE-71] → [통화정책] 유가 변동(미국 시장 기사는 하락·후퇴[US-90][US-92], 한국 장 초반은 상승 보도[KR-34]) → [주식] 에너지 수입국 약세(코스피[KR-34]) vs 자원 상사 강세(도쿄[JP-25]).
 - [산업] 칩 부채·외국 투자로 AI 설비 확대[US-52][JP-75] → [주식] AI 지출 회의론 속 반도체 매도[US-93][US-73] → [통화정책] 엔화·국채 헤지 수요[JP-82][US-90].
 - [법안] 대중 투자규제 바이오 확대[CN-51] → [지정학] 미중 선택적 분리 → [주식] 중국 국가대표팀 ETF 자금 유입[US-97] vs 추가 하락 전망[US-98].
 - [지정학] 룰라 4선[FR-11] → [미래 예측] 대중 교역 전망 개선[US-96] → [주식] 브라질 자산 급락 대비[US-95] → 🧭 H3 반대 근거.
-- [지정학] 분쟁·제재 위험 → [코인] 이스라엘 코인 제재회피안[IL-35], 러시아 A7 현금망[RU-65] → 🧭 H4는 달러 스테이블코인이 아니라 비달러 우회로로 연결됨(반대 근거).
-- [법안] 영국 국방비 증액[UK-52]·휘발유 녹색세[UK-43] → [비즈니스] 생활비 부담 → [지정학] 유럽 '분노의 가을'·르펜 캠페인[FR-42][FR-43].
-- [비즈니스] 관세 회피 공장 이전(아우디)[DE-22] → [산업] 독일 본국 공동화 논쟁[DE-70] → [법안] 독일 전기세 인하 이견[DE-4].
+- [지정학] 분쟁·제재 위험 → [코인] 이스라엘 코인 제재회피안[IL-35], 러시아 A7 현금 실물망(통화 미확인)[RU-65] → 🧭 H4: 오늘 보도된 우회 수요는 달러 스테이블코인으로 연결되지 않았다(판단 유보 / 약한 반대).
+- 🔎 [비즈니스] 아우디의 미국 공장 계획(관세 속 옹호)[DE-22][US-55] · [산업] 유럽 전자산업 공동화 논평[DE-70] · [법안] 독일 전기세 인하 이견[DE-4]은 모두 '독일 제조 원가와 입지' 논쟁에 속한다. 다만 세 기사를 잇는 인과 근거는 수집분에 없으므로 인과 사슬이 아니라 같은 주제로 묶은 것으로 읽어야 한다.
 
 ## 내일 주목할 일정·지표
 - **10/27(화) 이스라엘 총선** — 교착 여론조사[IL-1]. 의석 수와 연정 구도, 선거 전후 이란 관련 군사행동 여부[IL-40].
@@ -418,19 +418,23 @@
 - **일본 사이버보안 관계 각료회의(10/26 저녁) 후속 조치**[JP-56][JP-24].
 - **10/28 한국 선관위 특검 투표지 247만 장 검증**[KR-1].
 - **한국 가상자산 과세 재유예 당정협의 결론**[KR-2].
+- **10/31 핼러윈 전후 독일 청년 시위** — Union·SPD·내무장관 폭력화 경고[DE-31][DE-81].
+- **11/1 불가리아 대선 결선**[DE-23].
 - **11/3 미 중간선거** — 법무부 선거 소송의 법원 판단[US-35][US-44].
 
 ## 부록
 ### 출처 목록 (ID → 매체 · 제목 · 링크)
-총 160건. 나라 순서: US·KR·JP·DE·UK·FR·IL·RU·CN.
+총 186건(초안 160건 + 최종본에서 새로 인용한 26건, `*(최종본 추가)*` 표시). 나라 순서: US·KR·JP·DE·UK·FR·IL·RU·CN.
 
 - [US-1] CNN · US has plans for major Iran strikes if Trump chooses — 미국, 트럼프 결단 시 대규모 이란 공습 계획 보유 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
 - [US-3] CNN · Judges skeptical of Trump administration effort to force California to set aside mail ballots — 판사들, 캘리포니아 우편투표 별도 보관 강제하려는 트럼프 행정부 시도에 회의적 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
 - [US-6] CNN · Anthropic taps a deep well of distrust in this rural town — 앤트로픽, 한 시골 마을의 뿌리 깊은 불신에 직면 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
 - [US-7] CNN · ‘We are the extension cord’: Data center boom sparks power line fights hundreds of miles away — '우리는 연장선일 뿐': 데이터센터 붐이 수백 마일 떨어진 송전선 갈등 촉발 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
+- [US-10] CNN · Serbia’s leader concedes defeat to student-led movement in seismic political shift — 세르비아 지도자, 학생 주도 운동에 패배 인정… 지각변동 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일) *(최종본 추가)*
 - [US-16] NBC News · Elvis Presley’s rights holders sue Anthropic, saying it trained AI on his music — 엘비스 프레슬리 권리 보유자들, 그의 음악으로 AI 학습했다며 앤트로픽 제소 · <https://www.nbcnews.com/tech/tech-news/elvis-presleys-rights-holders-sue-anthropic-saying-trained-ai-music-rcna605551>
 - [US-18] CBS News · Poll finds Democrats still boosted by voters' economic concerns — 여론조사: 유권자 경제 우려가 여전히 민주당에 유리 · <https://www.cbsnews.com/news/poll-house-estimate-midterm-elections-2026/>
 - [US-21] CBS News · Thousands of American restaurants closing over rising costs, declining sales — 비용 상승·매출 감소로 미국 식당 수천 곳 폐업 · <https://www.cbsnews.com/video/thousands-american-restaurants-closing-rising-costs-declining-sales/>
+- [US-26] CBS News · More than 1,000 arrested in France as protesters and police clash — 프랑스서 시위대·경찰 충돌로 1,000명 이상 체포 · <https://www.cbsnews.com/news/paris-france-new-protests-riots-museums-shops/> *(최종본 추가)*
 - [US-35] Fox News · Ninth Circuit questions Trump DOJ's emergency request to set aside 20,000 California mail ballots — 제9순회항소법원, 캘리포니아 우편투표 2만 표 별도 보관 요청한 트럼프 법무부에 의문 제기 · <https://www.foxnews.com/politics/ninth-circuit-questions-trump-doj-emergency-request-set-aside-20000-california-mail-ballots>
 - [US-44] NPR · Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses — 블랜치, 공화당 패배 시 알래스카 상원 결과 차단하는 법무부 소송 옹호 · <https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses>
 - [US-52] CNBC · SpaceX closes $40 billion debt deal for AI chips, Elon Musk says — 머스크 "스페이스X, AI 칩용 400억 달러 부채 조달 완료" · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
@@ -438,13 +442,16 @@
 - [US-54] CNBC · SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia — 소프트뱅크, 'AI 국가' 지향 말레이시아에 500억 달러 투자 계획 보도 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
 - [US-55] CNBC · Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs — 아우디, VW 구조조정·관세 속 40억 달러 조지아 공장 계획 옹호 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
 - [US-62] New York Times · Trump’s Election Attacks Enter New Pre-emptive Phase — 트럼프의 선거 공격, '선제적' 신단계 진입 · <https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html>
+- [US-69] New York Times · María Corina Machado Returns to Venezuela — 마리아 코리나 마차도, 베네수엘라 귀국 · <https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html> *(최종본 추가)*
 - [US-73] Wall Street Journal · Meta’s Unending AI Spending — 메타의 끝없는 AI 지출 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
+- [US-74] Wall Street Journal · Oil Declines on Likely Technical Correction — 유가, 기술적 조정 가능성에 하락 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일) *(최종본 추가)*
 - [US-75] Wall Street Journal · Gold Flat, Hovering Below $4,000/Oz — 금값 보합, 온스당 4,000달러 아래 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
 - [US-77] Wall Street Journal · The U.S. Shipbuilding Revival Is Taking Lessons Halfway Around the World — 미국 조선업 부흥, 지구 반대편에서 교훈 얻는다 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
 - [US-78] Wall Street Journal · Kim Jong Un Makes Surprise Trip to China, Crosses New Bridge — 김정은, 깜짝 방중… 신(新)교량 건너 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
 - [US-79] Wall Street Journal · Exclusive | Death Threats, Lawsuits and Billions in Play: The Battle Over Moving Russian Oil — [단독] 살해 위협·소송·수십억 달러: 러시아 원유 운송 둘러싼 싸움 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
 - [US-90] Bloomberg · Stocks Edge Up With Treasuries, Crude Oil Declines: Markets Wrap — 주식 소폭 상승, 국채 강세·유가 하락: 시장 마감 · <https://www.bloomberg.com/news/articles/2026-10-25/us-equity-futures-climb-as-crude-oil-price-dips-markets-wrap>
 - [US-91] Bloomberg · Trump Says Decision Nearing on Iran: Deal or ‘Finish It Off’ — 트럼프 "이란 결정 임박: 협상이냐 '끝장내기'냐" · <https://www.bloomberg.com/news/videos/2026-10-26/trump-says-decision-nearing-on-iran-video>
+- [US-92] Bloomberg · Latest Oil Market News and Analysis for Oct. 26 — 10월 26일 원유시장 뉴스·분석(미-이란 공방 속 유가 후퇴) · <https://www.bloomberg.com/news/articles/2026-10-25/latest-oil-market-news-and-analysis-for-oct-26> *(최종본 추가)*
 - [US-93] Bloomberg · Copper Extends Drop as AI Stocks Weigh Ahead of Fed Meeting — AI주 부진·연준 회의 앞두고 구리 낙폭 확대 · <https://www.bloomberg.com/news/articles/2026-10-26/copper-extends-drop-as-ai-stocks-weigh-ahead-of-fed-meeting>
 - [US-94] Bloomberg · EM Stocks Fall Before Key Earnings, Brazil in Focus as Lula Wins — 빅테크 실적 앞두고 신흥국 증시 하락, 룰라 승리로 브라질 주목 · <https://www.bloomberg.com/news/articles/2026-10-26/em-stocks-fall-before-key-earnings-brazil-in-focus-as-lula-wins>
 - [US-95] Bloomberg · Brazil Markets Brace for Rout on Lula’s Improbable Election Win — 룰라의 예상 밖 승리에 브라질 시장 급락 대비 · <https://www.bloomberg.com/news/articles/2026-10-26/brazil-markets-brace-for-rout-on-lula-s-improbable-election-win>
@@ -455,10 +462,12 @@
 - [KR-2] KBS · 청와대, ‘가상자산 과세’ 재유예 무게…당정협의 거쳐 조만간 결론 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
 - [KR-4] KBS · “트럼프 미 조선업 부흥의 핵심 파트너”…WSJ, 한화오션 조명 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
 - [KR-8] KBS · ‘농협 개혁법’ 여야 이견 심화…연내 처리 ‘안갯속’ · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
+- [KR-13] MBC · 北도 안보리 의장에 서한‥"지뢰 폭발은 韓 자작극" 주장 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일) *(최종본 추가)*
 - [KR-17] MBC · 신입 대신 AI·경력직‥청년 고용 '질적 악화' 뚜렷 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
 - [KR-20] SBS · 민주 "'오세훈 무죄' 조희대 탄핵이 답"…국힘 "비상식적인 이야기" · <https://news.sbs.co.kr/news/endPage.do?news_id=N1008815087&plink=RSSLINK&cooper=RSSREADER>
 - [KR-34] YTN · 코스피, 장 초반 약세...중동발 긴장에 유가 상승 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
 - [KR-38] 연합뉴스 · 韓 카메라에 찍힐만큼 내려온 북한군 자주포…접경지 긴장고조 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
+- [KR-39] 연합뉴스 · 北도 안보리 의장에 서한…"지뢰폭발은 韓 자작극" 주장 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일) *(최종본 추가)*
 - [KR-42] 연합뉴스 · 코스피, 반짝 상승전환했다가 다시 1% 안팎 하락…코스닥 2%대↓ · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
 - [KR-43] 연합뉴스 · [특징주] LIG D&A, 방사청 추가 제재 검토 소식에 장초반 6%대 급락 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
 - [KR-44] 연합뉴스 · 홈플러스 6개 점포, 이달말 전기료 체납으로 한전서 '단전 예고' · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
@@ -476,7 +485,9 @@
 - [JP-3] NHK · 政府 相次ぐ不正アクセス受け今夜関係閣僚会議開催へ — 정부, 잇단 부정접속 사태에 오늘 밤 관계 각료회의 개최 · <https://news.web.nhk/newsweb/na/nd-20261026de65587>
 - [JP-4] NHK · 株価 値下がり 半導体関連の銘柄を中心に売り注文 — 주가 하락, 반도체 관련주 중심 매도 · <https://news.web.nhk/newsweb/na/nd-20261026de65589>
 - [JP-5] NHK · 中国『五中全会』軍人事に注目 — 중국 '5중전회', 군 인사에 주목 · <https://news.web.nhk/newsweb/na/nd-20261026de65531>
+- [JP-6] NHK · 韓国と北朝鮮 軍事境界線付近 地雷爆発めぐり国連で非難の応酬 — 남북, 군사분계선 부근 지뢰 폭발 두고 유엔서 비난 공방 · <https://news.web.nhk/newsweb/na/nd-20261026de65609> *(최종본 추가)*
 - [JP-12] TBS News · GMO社長「対応が十分でなかった」FX不正アクセスで利用者に被害 「課題、事前に指摘されていた」 — GMO 사장 "대응 불충분", FX 부정접속으로 이용자 피해, "과제 사전 지적받아" · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
+- [JP-21] FNN · ノーベル平和賞のマチャド氏、10カ月ぶりにベネズエラに帰国 早期大統領選挙の実現が焦点 — 마차도 10개월 만에 귀국, 조기 대선 실현이 초점 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일) *(최종본 추가)*
 - [JP-24] 日本経済新聞 · サイバー攻撃の無害化「要請有無にかかわらず適切に判断」 官房長官 — 사이버 공격 무력화 "요청 유무 관계없이 적절히 판단" 관방장관 · <https://www.nikkei.com/article/DGXZQOUA2627C0W6A021C2000000/>
 - [JP-25] 日本経済新聞 · 東証後場寄り 日経平均は再び下げ幅縮小 石油や商社株が高い — 도쿄증시 오후장, 닛케이평균 낙폭 재축소·석유·상사주 강세 · <https://www.nikkei.com/article/DGXZQOFL262SJ0W6A021C2000000/>
 - [JP-26] 日本経済新聞 · KOA株価一時15.7%高 27年3月期2度目の上方修正、AI向け堅調 — KOA 주가 한때 15.7%↑, AI용 호조로 두 번째 상향 · <https://www.nikkei.com/article/DGXZQOFL261FF0W6A021C2000000/>
@@ -501,22 +512,30 @@
 - [DE-4] Tagesschau (ARD) — 공영 · Stromsteuer-Debatte: Union und SPD weiter weit auseinander — 전기세 논쟁: 기민·기사련(Union)과 사민당 여전히 이견 커 · <https://www.tagesschau.de/inland/bericht-aus-berlin-stromsteuer-100.html>
 - [DE-5] Tagesschau (ARD) — 공영 · Neuer Gebäudetyp E: Schnelles und günstiges Bauen per Gesetz — 신규 '건물유형 E': 법으로 빠르고 저렴한 건축 추진 · <https://www.tagesschau.de/inland/gebaeudetyp-e-104.html>
 - [DE-22] Deutsche Welle — 연방정부 재원 대외방송 · Trump announces Audi will build $4 billion factory in US — 트럼프, 아우디 40억 달러 규모 미국 공장 건설 발표 · <https://www.dw.com/en/trump-announces-audi-will-build-4-billion-factory-in-us/a-79753479>
+- [DE-23] Deutsche Welle — 연방정부 재원 대외방송 · In Bulgaria, record low voter turnout triggers a November 1 presidential run-off in a poll colored by divisions over Ukraine war — 불가리아, 우크라戰 둘러싼 분열 속 사상 최저 투표율로 11월 1일 대선 결선 · <https://www.dw.com/en/in-bulgaria-record-low-voter-turnout-triggers-a-november-1-presidential-run-off-in-a-poll-colored-by-divisions-over-ukraine-war/a-79753496> *(최종본 추가)*
+- [DE-26] Deutsche Welle — 연방정부 재원 대외방송 · France: Hundreds arrested after nationwide protests — 프랑스 전국 시위로 수백 명 체포 · <https://www.dw.com/en/france-hundreds-arrested-after-nationwide-protests/live-79748223> *(최종본 추가)*
 - [DE-28] Deutsche Welle — 연방정부 재원 대외방송 · Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure — 사우디, 후티 압박 속 AI 우위 위해 미국에 기대 · <https://www.dw.com/en/saudi-arabia-looks-to-us-for-an-ai-edge-as-yemen-s-houthis-up-pressure/a-79735138>
+- [DE-31] Der Spiegel · Proteste in Deutschland: Union und SPD warnen vor möglichen Ausschreitungen — 독일 시위: Union·SPD, 폭력 사태 가능성 경고 · <https://www.spiegel.de/politik/proteste-in-deutschland-union-und-spd-warnen-vor-moeglichen-ausschreitungen-a-7fb1e9d7-375c-4a03-8cbe-737a3ec6870d> *(최종본 추가)*
 - [DE-42] FAZ · Fabrik in Georgia: Der Audi-Chef macht sich zu Trumps Wahlhelfer — 조지아 공장: 아우디 CEO, 트럼프 선거 도우미 자처 · <https://www.faz.net/aktuell/wirtschaft/unternehmen/audi-chef-gernot-doellner-als-trumps-wahlkampfhelfer-201619089.html>
+- [DE-47] FAZ · Krawalle in Frankreich: Kein europaweites Aufbegehren der Generation Z — 프랑스 폭동: 유럽 전역 Z세대 봉기는 아니다 · <https://www.faz.net/aktuell/politik/ausland/kein-europaweites-aufbegehren-der-generation-z-201619652.html> *(최종본 추가)*
 - [DE-52] Süddeutsche Zeitung · Krieg in der Ukraine: Berichte: Ukraine greift russische Raketenfabrik an — 우크라이나 전쟁: 우크라, 러시아 미사일 공장 공격 보도 · <https://www.sueddeutsche.de/politik/ukraine-krieg-russland-raketenfabrik-iskander-li.3563283>
 - [DE-54] Süddeutsche Zeitung · Autoindustrie: Fürs Geschäft geht der Audi-Chef sogar mit Trump auf die Bühne — (사설) 자동차산업: 사업 위해 아우디 CEO 트럼프와 무대에까지 · <https://www.sueddeutsche.de/meinung/audi-gernot-doellner-donald-trump-georgia-volkswagen-kommentar-li.3568599>
+- [DE-57] Süddeutsche Zeitung · Proteste: Mehr als 1300 Festnahmen in Frankreich — 시위: 프랑스서 1300명 이상 체포 · <https://www.sueddeutsche.de/politik/frankreich-demonstrationen-paris-lyon-lille-li.3568339> *(최종본 추가)*
 - [DE-68] Handelsblatt · Morning Briefing: Der gar nicht so verrückte Trump-Besuch des Audi-Chefs — 모닝 브리핑: 아우디 CEO의 트럼프 행사 참석, 생각만큼 무모하지 않다 · <https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-der-gar-nicht-so-verrueckte-trump-besuch-des-audi-chefs/100264829.html>
 - [DE-70] Handelsblatt · Kommentar: Der Preis der Billigjagd: Europa geht die Elektronik aus — 논평: 저가 경쟁의 대가, 유럽에 전자산업이 사라진다 · <https://www.handelsblatt.com/technik/it-internet/kommentar-der-preis-der-billigjagd-europa-geht-die-elektronik-aus/100263837.html>
 - [DE-71] Handelsblatt · +++ Iran-Krieg +++: Rekordhoch bei Angriffen auf Schiffe in Straße von Hormus — 이란 전쟁: 호르무즈 해협 선박 공격 사상 최고 · <https://www.handelsblatt.com/politik/international/iran-krieg-rekordhoch-bei-angriffen-auf-schiffe-in-strasse-von-hormus/100136895.html>
 - [DE-73] Handelsblatt · Nikkei, Yen, Hang Seng: Asiens Börsen geben nach – Tech-Werte belasten und Ölpreis sinkt — 아시아 증시 하락, 기술주 부담·유가 하락 · <https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-yen-hang-seng-asiens-boersen-geben-nach-tech-werte-belasten-und-oelpreis-sinkt/100264841.html>
 - [DE-79] Die Welt · Bolsonaro erkennt Lulas Sieg nicht an und will Wahl „annullieren" lassen — 보우소나루, 룰라 승리 불인정·선거 "무효화" 추진 · <https://www.welt.de/politik/ausland/article6adea308ba080c37bf6d1671/brasilien-bolsonaro-erkennt-lulas-sieg-nicht-an-und-will-wahl-annullieren-lassen.html>
+- [DE-81] Die Welt · Innenminister warnen vor Protest-Eskalation an Halloween — 내무장관들, 핼러윈 시위 격화 경고 · <https://www.welt.de/politik/deutschland/video6adedfc2247c1fa201306e1a/gen-z-demos-innenminister-warnen-vor-protest-eskalation-an-halloween.html> *(최종본 추가)*
 - [UK-5] BBC News · Lula wins in Brazil but faces hostile Congress and divided country — 룰라 승리했지만 적대적 의회·분열된 국가 직면 · <https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss>
 - [UK-6] BBC News · Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement — 세르비아 환호 — 부치치, 학생 주도 시위운동에 패배 인정 · <https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss>
+- [UK-19] ITV News · Burnham: Time for ‘honest discussion’ about freedom of movement with EU — 버넘 총리 'EU와 이동의 자유에 대해 솔직한 논의할 때' · (Google News 경유, 링크 생략 — 원 링크는 팀 파일) *(최종본 추가)*
 - [UK-26] Financial Times · Lula is re-elected Brazil’s president in knife-edge vote — 룰라, 박빙 끝 브라질 대통령 재선 — 트럼프의 중남미 영향력 확대 구상에 타격 · <https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1>
 - [UK-30] Financial Times · Germany to tap Ukrainian tech with missile purchase — 독일, 우크라이나 개발 'Bars' 타격체계 구매 — 연방군 첫 우크라産 공격무기 · <https://www.ft.com/content/f9476b15-c2b6-4b8b-86fc-58ae5795fb87?syn-25a6b1a6=1>
 - [UK-36] The Guardian · Burnham to double spending on homelessness amid drive to end rough sleeping by Christmas — 버넘, 성탄 전 노숙 근절 위해 노숙 예산 두 배로(예산안에 4.32억 파운드 추가) · <https://www.theguardian.com/society/2026/oct/25/homelessness-rough-sleeping-double-spending-burnham>
 - [UK-40] The Guardian · Macron accused of putting France’s right to protest at risk with ‘vandal’s law’ — 마크롱, '반달법'으로 시위권 위협한다는 비판 · <https://www.theguardian.com/world/2026/oct/25/macrons-vandals-pay-bill-puts-right-to-protest-at-risk>
 - [UK-43] The Telegraph · Healey draws up ‘green tax’ on petrol — 힐리, 휘발유에 '녹색세' 도입 검토 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
+- [UK-44] The Telegraph · Burnham opens door to EU freedom of movement — 버넘, EU 이동의 자유에 문 열어 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일) *(최종본 추가)*
 - [UK-48] The Telegraph · Streeting: Britain must be ready for war in 1,000 days — 스트리팅 '영국은 1000일 안에 전쟁 대비 갖춰야' · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
 - [UK-52] The Times · John Healey to announce billions more for defence at budget — 힐리, 예산안에서 국방비 수십억 파운드 증액 발표 예정 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
 - [UK-76] The Economist · India has stabilised its currency. But at what cost? — 인도, 루피화 안정시켰지만 대가는? · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
@@ -528,11 +547,14 @@
 - [FR-28] RFI · Volodymyr Zelensky confirme qu'une réunion entre Russes, Ukrainiens et Américains aura lieu en novembre — 젤렌스키, 11월 러·우·미 3자 회담 개최 확인 · <https://www.rfi.fr/fr/europe/20261025-volodymyr-zelensky-confirme-qu-une-r%C3%A9union-entre-russes-ukrainiens-et-am%C3%A9ricains-aura-lieu-en-novembre>
 - [FR-29] RFI · Nigeria–France: une «danse» économique malgré les soubresauts du naira — 나이지리아-프랑스: 나이라화 급변동 속 경제 '줄다리기' · <https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20261025-nigeria%E2%80%93france-une-danse-%C3%A9conomique-malgr%C3%A9-les-soubresauts-du-naira>
 - [FR-31] BFMTV · ÉDITO ÉCO: en novembre, le prix du gazole pourrait baisser de 12 à 18 centimes par litre avec la libération des stocks — [경제 사설] 비축유 방출로 11월 경유값 리터당 12~18상팀 하락 가능 · <https://www.bfmtv.com/replay-emissions/bfm-premiere/video-edito-eco-en-novembre-le-prix-du-gazole-pourrait-baisser-de-12-a-18-centimes-par-litre-avec-la-liberation-des-stocks_VN-202610260080.html>
+- [FR-33] BFMTV · Attentat raciste à Trappes: la garde à vue du suspect levée pour raisons psychiatriques — 트라프 인종차별 테러: 용의자, 정신과적 사유로 구금 해제 · <https://www.bfmtv.com/police-justice/video-attentat-raciste-a-trappes-la-garde-a-vue-du-suspect-levee-pour-raisons-psychiatriques_VN-202610260070.html> *(최종본 추가)*
 - [FR-34] BFMTV · Berlin veut nationaliser des logements pour réduire les loyers, le géant immobilier Vonovia risque de perdre 8,4 milliards d'euros — 베를린, 임대료 인하 위해 주택 국유화 추진…보노비아 84억 유로 손실 위기 · <https://www.bfmtv.com/immobilier/berlin-veut-nationaliser-des-logements-pour-reduire-les-loyers-le-geant-immobilier-vonovia-risque-de-perdre-8-4-milliards-d-euros_AN-202610260065.html>
 - [FR-36] BFMTV · "Plus de 3.000 navires commerciaux ont franchi avec succès le détroit": les États-Unis affirment avoir aidé à l'exportation de 1,5 milliard de barils de pétrole par Ormuz — "상선 3,000척 이상 해협 통과": 미국, 호르무즈 경유 원유 15억 배럴 수출 지원 주장 · <https://www.bfmtv.com/economie/entreprises/energie/plus-de-3-000-navires-commerciaux-ont-franchi-avec-succes-le-detroit-les-etats-unis-affirment-avoir-aide-a-l-exportation-de-1-5-milliard-de-barils-de-petrole-par-ormuz_AD-202610260063.html>
 - [FR-38] BFMTV · "Ils sont prêts à nous donner tout ce que l'on veut": Donald Trump assure qu'un accord commercial avec le Canada arrivera "rapidement" — 트럼프 "캐나다는 원하는 것 다 줄 준비"…무역협정 "곧" 타결 주장 · <https://www.bfmtv.com/economie/international/ils-sont-prets-a-nous-donner-tout-ce-que-l-on-veut-donald-trump-assure-qu-un-accord-commercial-avec-le-canada-arrivera-rapidement_AD-202610260057.html>
 - [FR-42] Le Monde · Après les manifestations du 24 octobre, l’exécutif confronté à la perspective d’un long automne social — 10월 24일 시위 이후, 행정부 '긴 사회적 가을' 전망에 직면 · <https://www.lemonde.fr/politique/article/2026/10/26/apres-les-manifestations-du-24-octobre-l-executif-confronte-a-la-perspective-d-un-long-automne-social_6800384_823448.html>
 - [FR-43] Le Monde · Présidentielle 2027 : à Orléans, Marine Le Pen lance sa campagne entre radicalité et « optimisme », dans une ville en état de siège — 2027 대선: 르펜, '포위된 도시' 오를레앙서 급진성과 '낙관' 사이 캠페인 출범 · <https://www.lemonde.fr/politique/article/2026/10/25/presidentielle-2027-a-orleans-marine-le-pen-lance-sa-campagne-entre-radicalite-et-optimisme-dans-une-ville-en-etat-de-siege_6800113_823448.html>
+- [FR-44] Le Monde · Après l’attentat raciste de Trappes, le maire, Ali Rabeh déclare : « Le président de la République n’a pas été le protecteur qu’il aurait dû être » — 트라프 인종차별 테러 후 알리 라베 시장 "대통령은 마땅히 보호자 역할 못 해" · <https://www.lemonde.fr/politique/article/2026/10/25/apres-l-attentat-raciste-de-trappes-le-maire-ali-rabeh-le-president-de-la-republique-n-a-pas-ete-le-protecteur-qu-il-aurait-du-etre_6800093_823448.html> *(최종본 추가)*
+- [FR-53] Le Figaro · L’éditorial de Gaëtan de Capèle : «La France danse sur un volcan» — [가에탕 드 카펠 사설] "프랑스는 화산 위에서 춤추고 있다" · <https://www.lefigaro.fr/vox/l-editorial-de-gaetan-de-capele-la-france-danse-sur-un-volcan-20261025> *(최종본 추가)*
 - [FR-58] Le Figaro · Des taux à 4% sur 20 ans : près de 230.000 emprunteurs immobiliers sont menacés d’exclusion — 20년 만기 4% 금리: 주택담보 대출자 약 23만 명 대출 배제 위기 · <https://immobilier.lefigaro.fr/article/des-taux-a-4-sur-20-ans-pres-de-230-000-emprunteurs-immobiliers-sont-menaces-d-exclusion-20261026>
 - [IL-1] i24NEWS · Final Election Polls Point To Deadlock As Neither Bloc Secures A Majority — 최종 여론조사, 어느 진영도 과반 확보 못 해 교착 전망 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
 - [IL-2] i24NEWS · Iran Threatens Gulf Civilian Targets If US, Israel Renew Air Campaign | LIVE BLOG — 이란, 미·이스라엘 공습 재개 시 걸프 민간 목표물 위협 (라이브) · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
@@ -574,8 +596,13 @@
 - [CN-1] CCTV / CGTN · Russia, US, Ukraine signal plans for trilateral talks in November — 러·미·우크라, 11월 3자 회담 계획 시사 · <https://news.cgtn.com/news/2026-10-26/Russia-US-Ukraine-signal-plans-for-trilateral-talks-in-November-1Ry4HHmq1xe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World>
 - [CN-3] CCTV / CGTN · Serbia's Vucic concedes election defeat as student-led movement wins — 세르비아 부치치, 총선 패배 인정…학생 주도 운동 승리 · <https://news.cgtn.com/news/2026-10-26/news-1RxZaoMn57O/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World>
 - [CN-4] CCTV / CGTN · Lula re-elected Brazilian president in runoff — 룰라, 브라질 대선 결선서 재선 · <https://news.cgtn.com/news/2026-10-26/news-1Ry0dIAj0Q0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World>
+- [CN-5] CCTV / CGTN · Report on Global Governance Initiative released in Xiongan — 슝안서 글로벌거버넌스이니셔티브(GGI) 보고서 발표 · <https://news.cgtn.com/news/2026-10-25/Report-on-Global-Governance-Initiative-released-in-Xiongan-1RwrAIiTR04/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World> *(최종본 추가)*
+- [CN-6] CCTV / CGTN · Global Governance Forum calls for stronger multilateral cooperation — 글로벌거버넌스포럼, 다자협력 강화 촉구 · <https://news.cgtn.com/news/2026-10-25/Global-Governance-Forum-calls-for-stronger-multilateral-cooperation-1RxfovFfLr2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World> *(최종본 추가)*
 - [CN-7] CCTV / CGTN · From Karakoram to Arabian Sea, Ep. 2: Ancient River, New Possibilities — 카라코람에서 아라비아해까지 2편: 오래된 강, 새로운 가능성 (중-파 경제회랑 다큐) · <https://news.cgtn.com/news/2026-10-25/From-Karakoram-to-Arabian-Sea-Ep-2-Ancient-River-New-Possibilities-1RwD3o85dG8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World>
+- [CN-8] CCTV / CGTN · Violence flares in Paris after largely peaceful protests across France — 프랑스 전역 평화 시위 후 파리서 폭력 사태 · <https://news.cgtn.com/news/2026-10-25/Violence-flares-in-Paris-after-largely-peaceful-protests-across-France-1RwneUhjBAY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World> *(최종본 추가)*
 - [CN-11] Xinhua 新华社 · 20th CPC Central Committee starts fifth plenary session — 제20기 중앙위원회 5중전회 개막 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
+- [CN-21] People's Daily 人民日报 · Xinhua Commentary: Marking Taiwan Recovery Day with shared resolve to advance China's reunification — 신화 논평: 대만광복절, 조국 통일 추진 결의 공유 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일) *(최종본 추가)*
+- [CN-41] Global Times 环球时报 (국영·인민일보 계열) — RSS 0건, Google News로 보충 · PLA Eastern Theater Command releases first Taiwan Recovery Day poster, warning against 'Taiwan independence' — 인민해방군 동부전구, 첫 대만광복절 포스터 공개…"대만독립" 경고 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일) *(최종본 추가)*
 - [CN-43] Global Times 环球时报 (국영·인민일보 계열) — RSS 0건, Google News로 보충 · China condemns US proposed rules expanding American investment curbs — 중국, 미국 대중 투자규제 확대안 규탄 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
 - [CN-48] Global Times 环球时报 (국영·인민일보 계열) — RSS 0건, Google News로 보충 · US labeling of Confucius Institutes a security threat exposes irony of its claimed openness, risks deepening ignorance of China: expert — 미국의 공자학원 안보위협 지정, 개방성 주장의 아이러니 드러내: 전문가 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
 - [CN-49] Global Times 环球时报 (국영·인민일보 계열) — RSS 0건, Google News로 보충 · China's token prices double, usage triples amid AI application boom: report — AI 응용 붐 속 중국 토큰 가격 2배, 사용량 3배: 보고서 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
@@ -584,9 +611,54 @@
 - [CN-54] Caixin 财新 · General-Purpose AI Could Squeeze Out Smart Driving Specialists, Industry Exec Warns — "범용 AI가 자율주행 전문업체 밀어낼 수도" 업계 경고 · (Google News 경유, 링크 생략 — 원 링크는 팀 파일)
 - [CN-59] South China Morning Post · China shoots ahead on AI video models — 중국, AI 영상 모델에서 앞서 나가다 · <https://www.scmp.com/plus/tech/big-tech/article/3371915/china-shoots-ahead-ai-video-models>
 - [CN-60] South China Morning Post · Tibetan river hosting world’s biggest dam is facing increasing flood risk: study — 세계 최대 댐 들어설 티베트 강(얄룽창포), 홍수 위험 증가: 연구 · <https://www.scmp.com/news/china/science/article/3371763/tibetan-river-hosting-worlds-biggest-dam-facing-increasing-flood-risk-study>
+- [CN-63] South China Morning Post · Hong Kong arbitration body eyes Mideast, Africa prospects amid global tensions — 홍콩 중재기구, 글로벌 긴장 속 중동·아프리카 진출 모색 · <https://www.scmp.com/news/hong-kong/politics/article/3372084/hong-kong-arbitration-body-eyes-mideast-africa-prospects-amid-global-tensions> *(최종본 추가)*
 
 ### 팀장 검토 반영 내역
-- 초안 단계이므로 아직 없음. `data/2026-10-26/lead_review.md` 수령 후 final 모드에서 반영한다.
+입력: `data/2026-10-26/lead_review.md`(판정: 수정 필요). 피쉬본 JSON 7개(산업·비즈니스·코인·통화정책·미래 예측·지정학·주식)와 종합 JSON을 고쳤고 SVG 9개를 다시 렌더링했다.
+
+**[필수 수정] 12건 — 모두 반영**
+| ID | 반영 내용 |
+|---|---|
+| F-1 | 통화정책 피쉬본 항목을 `브렌트 117$ 돌파 후 하락 [RU-55·단일출처 미확인]`로 바꾸고, 확인된 `美 시장기사: 유가 하락 [US-90]`을 앞에 넣었다. 5장 ①에 "분석 논거로 쓰지 않는다"를 명시했다. |
+| F-2 | 5장 ⑤의 "급등 뒤 하락 중"을 "오늘 유가는 하락했다[US-90][US-74][US-92]"로 고쳤다. |
+| F-3 | 분야 간 연결 첫 줄에서 [RU-55]를 빼고 [DE-71][US-90][US-92][KR-34]로 바꿨다. |
+| F-4 | 비즈니스 피쉬본 항목을 `GMO 사장 '대응 불충분' 인정 [JP-12]`로 고쳤다. |
+| F-5 | 코인 ③ 직접 원인에 [IL-54][RU-65][KR-2][KR-63]을 붙였다. 출처에 없는 '투자자 이탈 우려'는 삭제했고, 동기는 판단하지 않는다고 🔎로 밝혔다. |
+| L-1 | 영국 예산안 → 프랑스 시위·르펜 연결을 분야 간 연결과 6장 ④에서 모두 삭제했다. 6장 ④에는 영국 내부 사실 두 건만 남기고 "인과로 묶지 않는다"고 적었다. |
+| L-2 | 7장 ④의 "AI 고용 대체 → 유럽 시위·극우 부상"을 삭제했다. 그 자리에 🔎로 "연결 근거 수집분에 없음"과 프랑스 매체가 다룬 원인[FR-42][FR-53][FR-44]을 적었다. |
+| S-1 | 3줄 요약 3번을 사실(선거 결과[FR-11][UK-6])과 🔎 해석(FT[UK-26], 부치치 주장·TASS[RU-7])으로 나눴다. 8장 ④의 "러시아 발칸 우호국 상실"도 해석 주체를 밝혀 🔎로 고쳤다. |
+| S-2 | 본질 도출 (a)에서 RU-55를 논거에서 뺐다. 확인된 근거(유가 하락[US-90][US-74][US-92], 통항 주장[FR-36], 공격 최고[DE-71])로 "급등 압력과 통항 유지가 공존하는가"를 다시 썼다. |
+| S-3 | H1 반대 칸의 FR-36 해석에 🔎를 붙이고 '='를 없앴다. H4 지지 칸은 "🔎 긴장 지속(종결 여부는 미정)"으로 낮췄다. |
+| S-4 | A7 표현을 "현금(통화 미확인) 실물망, 루블 기준 송금 보도"로 고쳤다(트래커 H4·코인 ①④⑤⑥·분야 간 연결·피쉬본). H4 판단은 "판단 유보 / 약한 반대"로 낮췄다. 팀장 다이제스트 TOP13의 같은 표현은 팀장 쪽에서 정정할 사항이라 다이제스트 파일은 고치지 않았다. |
+| S-5 | 6장 ⑥의 "미국·이스라엘·일본 감세" 진술을 삭제하고, 미국(중간선거 직전 선거 소송[US-62][US-35][US-44])으로 한정했다. 본질 문장도 "미국은 중간선거 직전에"로 범위를 좁혔다. |
+
+**[권고] — 모두 반영(미반영 0건)**
+- 검토서 말미의 집계는 "[권고] 18건"이지만, 실제 나열된 ID는 F-6, L-3~L-7, M-1, M-2, S-6~S-9, C-1~C-5로 **17건**이다. 17건 모두 반영했다.
+
+| ID | 반영 내용 |
+|---|---|
+| F-6 | 산업·비즈니스 피쉬본에 `(머스크 발언)`, `계획(총리 발언)`, `계획(보도)`를 달았다. 지정학 피쉬본은 `부치치: 대러 제재 도입 전망 [RU-7]`로 고쳤다. 같은 취지로 IL-50도 `참모총장 반발 보도`로 고쳤다. |
+| L-3 | 산업 피쉬본 머리를 "연산력·제조 미국 재집결 시도(발표 단계)"로 바꿨다. '전력·토지(미국 병목)' 뼈에서 CN-53·JP-77을 뺐다(CN-53은 '중국·기타(반대 흐름)'으로 옮기고, JP-77은 본문에만 남겼다). |
+| L-4 | US-77을 '관세 회피 현지화'에서 '주주환원·수주·협력' 뼈로 옮겼다. 2장 ④의 IL-74 연결은 🔎로 바꾸고 "출처에 관계 없음"을 명시했다. 1장 ④의 관세 사슬에서도 한화를 뺐다. |
+| L-5 | 코인 피쉬본 뼈 이름을 '제재 집행(코인 무관 배경)'으로 고치고 RU-31을 그 뼈로 옮겼다. 머리를 "코인, 제재 회피 쟁점으로 소환"으로 낮췄다. 4장 ①에도 "코인과 직접 관계없는 실물 제재 배경"이라고 적었다. |
+| L-6 | 통화정책 피쉬본의 '유럽' 뼈를 '유럽(재정·금리)'로 바꿨다. 미래 예측 피쉬본에서 CN-60을 뺐다(본문 ①에는 구조 변화 사실로 남겼다). |
+| L-7 | 지정학 ① 소제목과 피쉬본 뼈를 "선거 결과"로 바꿨다. 피쉬본 머리를 "병목 장악 시도와 선거 변수"로 바꿨다. '이탈' 해석은 ③④⑥에서 🔎로만 다룬다. |
+| M-1 | 지정학 ①에 '유럽 사회·정치' 줄을 넣었다. 프랑스 시위 체포자 수가 엇갈린다는 점(US-26/DE-57/DE-26, 미확인), 르몽드 FR-42, '반달법' UK-40, 독일 핼러윈 시위 경고 DE-31/DE-81을 담았다. 지정학 피쉬본에도 한 항목을 넣었다. |
+| M-2 | 지정학 ①에 대만광복절 메시지[CN-21][CN-41], 북한 안보리 서한전[KR-13][KR-39][JP-6], 버넘 EU 이동의 자유[UK-19][UK-44], 트라프 테러·대통령 책임론[FR-33][FR-44], 마차도 귀국[US-69][JP-21], 불가리아 결선[DE-23]을 한 줄씩 넣었다. |
+| S-6 | '오늘의 본질' 문장에 🔎를 붙였다. 같은 기회에 "같은 주"를 사실에 맞게 "열흘 사이(10/25~11/3)"로 고쳤다. |
+| S-7 | 3줄 요약 2번, 본질 도출 (b), 3장 ③⑥, 주식 피쉬본 머리를 "아시아 반도체주 중심 매도, 미국 본장은 소폭 상승"으로 고쳤다. US-90 피쉬본 항목의 '선물'도 헤드라인대로 '주식'으로 고쳤다. |
+| S-8 | 5장 ④의 엔·국채 압력과 ⑥의 시장 신뢰 서술에 🔎를 붙이고 "출처 밖"이라고 명시했다. |
+| S-9 | 3줄 요약 1번과 8장 ①을 "반발했다고 보도됐다(N12 단독 → JPost)"로 고쳤다. |
+| C-1 | H1 반대 칸에 골드만의 엔화 헤지[JP-82]와 🔎 금 4,000달러 부근(약한 근거)[US-75]을 넣었다. |
+| C-2 | H3 반대 칸에 GGI[CN-5][CN-6]와 홍콩 중재기구[CN-63]를 넣었다. |
+| C-3 | H4 반대 칸에 카타르 중재단[IL-33]과 사우디·튀르키예·파키스탄 테헤란 회동 예정[IL-19][IL-51]을 넣었다. |
+| C-4 | H2 지지 칸의 monday.com[IL-71]을 "🔎(간접·약함)"으로 낮추고, 달러 수요와의 연결은 출처에 없다고 적었다. |
+| C-5 | H3 지지 칸의 한화오션[KR-4][US-77]에 "WSJ 본문 미확인 → 항로 개편 연결은 판단 유보"를 달았다. |
+
+**검토 외 자체 수정**
+- 분야 간 연결 마지막 줄(아우디 → 독일 공동화 → 전기세 이견)도 인과 근거가 수집분에 없다. 그래서 🔎로 바꾸고 "같은 주제 묶음이지 인과 사슬이 아니다"라고 명시했다.
+- 5장 ⑦ 하방 시나리오의 "유가 재급등"은 직전 급등(RU-55)을 전제한 표현이라 "유가 급등"으로 고쳤다.
+- 본질 도출 (a)에 유가 방향이 엇갈린다는 보도(YTN 장 초반 상승[KR-34])를 함께 적었다.
 
 ### 수집 공백
 - **통화정책**: BOJ·ECB·BoE·인민은행·한국은행의 금리 결정·발언 헤드라인 0건. 연준은 "이번 주 FOMC" 예고뿐[US-93]. 환율(원/달러·위안·루블·셰켈) 직접 헤드라인 0건. → 5장은 판단 유보, 피쉬본에 "수집 공백" 뼈로 명시했다.
@@ -596,6 +668,6 @@
 - **수집 실패 매체**: RT(러시아) — 제목 "RT на русском"뿐, DNS 실패. 러시아 국영 대외 프레이밍은 TASS·RIA로만 판단.
 - **본문 미확인**: Google News 리디렉트 경유 매체(CNN·CNBC·WSJ·Economist·Times·Telegraph·Xinhua·Global Times·Caixin·KBS·한겨레·ToI·N12 등)는 헤드라인 수준으로만 판단했다.
 - **국가 범위 밖**: 걸프·인도·튀르키예·이란 매체는 수집 대상 아님. 이란·호르무즈 당사국 시각은 2차 정보뿐.
-- **미확인 표시 항목**: 브렌트 117달러 돌파(RU-55, 단일 출처) · 이라크 내 중국산 미사일 창고 피격 의혹(IL-11, 본문에서 제외) · 부치치 현 직위(총리/대통령 표기 엇갈림, 본문에서 직위 생략) · 프랑스 시위 체포자 수(수백~1,300명) · 헤브론 피란민 수(약 2,000~2,670명 이상) · 다카이치 지지율(62%/45%) · 네타냐후 암호화폐안의 구체 내용 · 스페이스X·소프트뱅크 투자의 확정 계약 여부 · 메르츠 순방지(URL 추정).
+- **미확인 표시 항목**: 브렌트 117달러 돌파(RU-55, 단일 출처. 팀장 WebSearch 재확인에서도 확인 안 됨 → 본질 도출·인과 근거에서 제외) · A7 처리 현금의 통화(RU-65 헤드라인에 없음 → '비달러' 단정 안 함) · 이라크 내 중국산 미사일 창고 피격 의혹(IL-11, 본문에서 제외) · 부치치 현 직위(총리/대통령 표기 엇갈림, 본문에서 직위 생략) · 프랑스 시위 체포자 수(수백~1,300명) · 헤브론 피란민 수(약 2,000~2,670명 이상) · 다카이치 지지율(62%/45%) · 네타냐후 암호화폐안의 구체 내용 · 스페이스X·소프트뱅크 투자의 확정 계약 여부 · 메르츠 순방지(URL 추정).
 - **결과 미발표**: 5중전회 공보, 이스라엘 총선, FOMC, 영국 예산안, 미 중간선거.
 - **역사 사례 출처**: ②⑤의 과거 사례는 일반 역사 지식으로 작성했으며 오늘 수집분의 출처 ID가 없다.
