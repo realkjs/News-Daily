@@ -650,7 +650,8 @@
           "name": "China Daily",
           "url": "https://www.chinadaily.com.cn",
           "domain": "chinadaily.com.cn",
-          "rss": "https://www.chinadaily.com.cn/rss/china_rss.xml"
+          "rss": "https://www.chinadaily.com.cn/rss/china_rss.xml",
+          "state_media": true
         }
       ],
       "google_news": {
