@@ -1,0 +1,1488 @@
+{
+  "team": "de",
+  "headlines": [
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "tagesschau in 100 Sekunden",
+      "title_ko": "tagesschau 100초 뉴스",
+      "summary_ko": "ARD의 100초 요약 뉴스 영상.",
+      "url": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1672816.html",
+      "published": "2026-10-26T22:38:55+09:00",
+      "tags": [],
+      "event": "tagesschau-100s",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Welt-Schlaganfalltag, Straßenkünstler in Indonesien, Ahmedabad in Indien",
+      "title_ko": "세계 뇌졸중의 날, 인도네시아 거리 예술가, 인도 아마다바드",
+      "summary_ko": "ARD 포토 갤러리(오늘의 사진).",
+      "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10528.html",
+      "published": "2026-10-26T22:25:15+09:00",
+      "tags": [],
+      "event": "ard-photo-gallery",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Andreas Herz, ARD Wien, zzt. Belgrad, zum überraschenden Wahlsieg der Studentenliste in Serbien",
+      "title_ko": "ARD 빈 특파원 안드레아스 헤르츠, 세르비아 학생 명단의 예상 밖 총선 승리 현지 보도",
+      "summary_ko": "ARD 특파원이 베오그라드에서 세르비아 학생 명단의 총선 승리를 전하는 영상.",
+      "url": "https://www.tagesschau.de/video/video-1672792.html",
+      "published": "2026-10-26T22:15:28+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "serbia-election",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Lula gewinnt Präsidentenwahl in Brasilien - Bolsonaro erkennt Niederlage nicht an",
+      "title_ko": "룰라, 브라질 대선 승리 — 보우소나루는 패배 불인정",
+      "summary_ko": "룰라가 브라질 대선에서 승리했으나 보우소나루 측이 결과를 인정하지 않았다(영상).",
+      "url": "https://www.tagesschau.de/video/video-1672794.html",
+      "published": "2026-10-26T22:14:42+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "brazil-election",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Wohnungsbau: Regierung plant Gebäudetyp E gegen schleppenden Neubau",
+      "title_ko": "주택 건설: 정부, 신축 부진 대응해 '건물유형 E' 도입 계획",
+      "summary_ko": "정부가 더딘 신규 주택 건설에 대응해 간소화 건축 기준 '건물유형 E(Gebäudetyp E)'를 추진한다(영상).",
+      "url": "https://www.tagesschau.de/video/video-1672798.html",
+      "published": "2026-10-26T22:13:48+09:00",
+      "tags": [
+        "legislation",
+        "industry"
+      ],
+      "event": "gebaeudetyp-e-bill",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Audi-Chef bei Trump - Verstoß gegen Konzernregeln?",
+      "title_ko": "트럼프 무대에 선 아우디 CEO — 그룹 내부 규정 위반?",
+      "summary_ko": "트럼프 미 대통령과 아우디 CEO 될너가 한 무대에 서 강한 비판을 받고 있다. 될너는 미국 신공장 건설을 발표했으며, 회사 자체 행동지침이 문제가 될 수 있다.",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-us-werk-doellner-trump-100.html",
+      "published": "2026-10-26T21:48:59+09:00",
+      "tags": [
+        "business",
+        "industry",
+        "geopolitics"
+      ],
+      "event": "audi-us-plant-trump",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Carl Zeiss Jenas Vereinsikone Heiko Weber gestorben",
+      "title_ko": "카를 차이스 예나의 상징 하이코 베버 별세",
+      "summary_ko": "FC 카를 차이스 예나의 선수·감독이었던 하이코 베버가 투병 끝에 61세로 별세했다. 동독 오버리가 마지막 골의 주인공이다.",
+      "url": "https://www.tagesschau.de/inland/regional/regionalliga-trainerlegende-heiko-weber-gestorben,heiko-weber-tod-100.html",
+      "published": "2026-10-26T21:07:45+09:00",
+      "tags": [],
+      "event": "heiko-weber-death",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Massenproteste gegen Rundfunkreform in Tschechien",
+      "title_ko": "체코, 공영방송 개혁에 대규모 항의 시위",
+      "summary_ko": "체코 정부가 공영방송 재원을 국가예산으로 전환하고 대폭 삭감하려 하자 전국에서 수만 명이 독립성 약화를 우려하며 시위했다.",
+      "url": "https://www.tagesschau.de/ausland/europa/tschechien-rundfunk-proteste-100.html",
+      "published": "2026-10-26T21:02:27+09:00",
+      "tags": [
+        "legislation",
+        "geopolitics"
+      ],
+      "event": "czech-broadcasting-reform-protest",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Simone Thomalla glamourös beim Leipziger Opernball",
+      "title_ko": "시모네 토말라, 라이프치히 오페라 무도회서 화려한 모습",
+      "summary_ko": "연예인 소식 사진 모음.",
+      "url": "https://www.zdfheute.de/panorama/prominente/stars-promi-news-bilder-oktober-2026-100.html",
+      "published": "2026-10-26T22:25:00+09:00",
+      "tags": [],
+      "event": "celebrity-news-zdf",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Aktuelles zum Krieg in der Ukraine",
+      "title_ko": "우크라이나 전쟁 최신 소식(라이브 티커)",
+      "summary_ko": "2022년 2월 시작된 러시아의 우크라이나 침공 전쟁 관련 실시간 업데이트.",
+      "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
+      "published": "2026-10-26T22:17:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-war-liveticker",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Hier gibt es \"Gemüse auf Rezept\"",
+      "title_ko": "'처방 채소' 프로젝트가 있는 곳",
+      "summary_ko": "저소득층이 할인 회원제로 신선 채소를 얻도록 돕는 '처방 채소' 프로젝트 소개.",
+      "url": "https://www.zdfheute.de/video/gemuese-auf-rezept-projekt-video-102.html",
+      "published": "2026-10-26T22:09:00+09:00",
+      "tags": [],
+      "event": "vegetables-on-prescription",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
+      "title_ko": "이란 전쟁·중동 분쟁: 라이브 블로그",
+      "summary_ko": "중동 정세가 계속 긴장 상태이며 공격이 반복되고, 요르단강 서안 상황이 악화되고 있다는 실시간 업데이트.",
+      "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+      "published": "2026-10-26T22:09:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "middle-east-liveblog",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Bremerhaven: Kreuzfahrtschiff rammt Containerschiffe",
+      "title_ko": "브레머하펜: 크루즈선이 컨테이너선과 충돌",
+      "summary_ko": "폭풍 속 브레머하펜에서 크루즈선 1척과 컨테이너선 2척이 충돌해 승객 2,428명의 여행이 중단됐다.",
+      "url": "https://www.zdfheute.de/panorama/schiff-kreuzfahrt-bremerhaven-unfall-100.html",
+      "published": "2026-10-26T21:31:00+09:00",
+      "tags": [],
+      "event": "bremerhaven-cruise-collision",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Ballon d'Or: Die Top-Favoriten von Lothar Matthäus",
+      "title_ko": "발롱도르: 로타어 마테우스가 꼽은 유력 후보",
+      "summary_ko": "마테우스가 2026 발롱도르 후보 5명을 영상으로 소개.",
+      "url": "https://www.zdfheute.de/sport/video/fussball-ballon-d-or-matthaeus-gewinner-100.html",
+      "published": "2026-10-26T21:27:00+09:00",
+      "tags": [],
+      "event": "ballon-dor-2026",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Merz auf Partnersuche in schwierigen Zeiten",
+      "title_ko": "메르츠, 어려운 시기에 아시아서 파트너 찾기",
+      "summary_ko": "메르츠 총리가 4일간 아시아를 방문한다. 독일·EU와 비슷한 도전에 직면한 우방·교역 상대국 순방이다.",
+      "url": "https://www.zdfheute.de/politik/kanzler-reise-asien-merz-100.html",
+      "published": "2026-10-26T21:17:00+09:00",
+      "tags": [
+        "geopolitics",
+        "business"
+      ],
+      "event": "merz-asia-trip",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Reise nach Kollision abgesagt",
+      "title_ko": "충돌 후 크루즈 여행 취소",
+      "summary_ko": "돌풍으로 크루즈선 '마인 쉬프 3'이 브레머하펜에서 컨테이너선 2척에 밀려 부딪혀 세 척 모두 파손됐다.",
+      "url": "https://www.zdfheute.de/video/mein-schiff-3-kollision-video-100.html",
+      "published": "2026-10-26T20:28:00+09:00",
+      "tags": [],
+      "event": "bremerhaven-cruise-collision",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Harry Kane: Ballon d’Or für Bayern Münchens Stürmer?",
+      "title_ko": "해리 케인, 바이에른 공격수로 발롱도르 받나?",
+      "summary_ko": "케인이 바이에른 뮌헨의 수십 년 발롱도르 공백을 끝낼지 주목된다.",
+      "url": "https://www.dw.com/de/harry-kane-ballon-d-or-für-bayern-münchens-stürmer/a-79760904?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-10-26T22:01:00+09:00",
+      "tags": [],
+      "event": "ballon-dor-2026",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Thailands Urlaubsinsel Phuket nach Starkregen unter Wasser - Meteorologen rechnen mit weiteren Niederschlägen",
+      "title_ko": "태국 휴양지 푸껫 폭우로 침수 — 추가 강우 예보",
+      "summary_ko": "푸껫 파통 지역이 폭우로 큰 피해를 입었고 기상청은 추가 강우를 경고했다.",
+      "url": "https://www.dw.com/de/thailands-urlaubsinsel-phuket-nach-starkregen-unter-wasser-meteorologen-rechnen-mit-weiteren-niederschlägen/a-79760438?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-10-26T19:59:00+09:00",
+      "tags": [],
+      "event": "phuket-flooding",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Angriffe zwischen Saudi-Arabien und den Huthis im Jemen nehmen zu",
+      "title_ko": "사우디아라비아와 예멘 후티 간 공격 증가",
+      "summary_ko": "예멘 분쟁 재격화 이후 이란 지원 후티 반군과 사우디가 거의 매일 공격을 주고받고 있으며, 리야드 공항이 또 표적이 됐다.",
+      "url": "https://www.dw.com/de/angriffe-zwischen-saudi-arabien-und-den-huthis-im-jemen-nehmen-zu/a-79760782?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-10-26T19:55:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "saudi-houthi-attacks",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Serbiens Studierende beenden die Ära des Präsidenten Vucic",
+      "title_ko": "세르비아 학생들, 부치치 대통령 시대 끝내다",
+      "summary_ko": "2년간의 시위 끝에 학생 명단이 총선에서 절대 과반을 얻었다. 세르비아는 부치치 체제 퇴진을 축하하지만 가장 어려운 과제가 시작된다.",
+      "url": "https://www.dw.com/de/serbiens-studierende-beenden-die-ära-des-präsidenten-vucic/a-79759750?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-10-26T19:34:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "serbia-election",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Steinmeiers Staatsbesuch in China: Balanceakt in heiklen Zeiten",
+      "title_ko": "슈타인마이어 중국 국빈 방문: 민감한 시기의 줄타기",
+      "summary_ko": "슈타인마이어 대통령이 정치·경제적으로 민감한 시기에 중국을 국빈 방문하며 독일은 대화에 무게를 둔다.",
+      "url": "https://www.dw.com/de/steinmeiers-staatsbesuch-in-china-balanceakt-in-heiklen-zeiten/a-79759624?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-10-26T18:11:00+09:00",
+      "tags": [
+        "geopolitics",
+        "business"
+      ],
+      "event": "steinmeier-china-visit",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Frankreich: Rechtspopulistin Marine Le Pen startet Wahlkampf",
+      "title_ko": "프랑스: 우익 포퓰리스트 마린 르펜 선거운동 개시",
+      "summary_ko": "프랑스 소요 사태 이후 여론조사에서 지지를 얻은 르펜이 오를레앙 국민연합(RN) 전당대회에서 공식 선거운동을 시작했다.",
+      "url": "https://www.dw.com/de/frankreich-rechtspopulistin-marine-le-pen-startet-wahlkampf/a-79759731?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-10-26T17:42:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "france-le-pen-campaign",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Brasiliens Präsident Lula gewinnt Stichwahl, Bolsonaro erkennt das Ergebnis nicht an - News kompakt: Das Wichtigste kurz gefasst",
+      "title_ko": "브라질 룰라 결선 승리, 보우소나루 결과 불인정 — 뉴스 요약",
+      "summary_ko": "룰라가 대선에서 승리했으나 패자 플라비우 보우소나루가 결과를 인정하지 않았다. 세르비아 부치치는 선거 패배를 인정했다.",
+      "url": "https://www.dw.com/de/brasiliens-präsident-lula-gewinnt-stichwahl-bolsonaro-erkennt-das-ergebnis-nicht-an-news-kompakt-das-wichtigste-kurz-gefasst/a-79759184?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-10-26T17:00:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "brazil-election",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Nach Lula-Sieg steht Brasilien vor einer Zerreißprobe",
+      "title_ko": "룰라 승리 후 브라질, 분열의 시험대",
+      "summary_ko": "룰라가 역사적인 4선에 성공했으나 보우소나루가 선거 결과에 이의를 제기할 방침이다.",
+      "url": "https://www.dw.com/de/nach-lula-sieg-steht-brasilien-vor-einer-zerreißprobe/a-79759494?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-10-26T16:42:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "brazil-election",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Bezug zu Asylheim?: Mehrere Säcke mit Leichenteilen im Rhein entdeckt",
+      "title_ko": "난민숙소 관련?: 라인강서 시신 일부 담긴 자루 여러 개 발견",
+      "summary_ko": "독일·스위스 접경 아르가우주 라인강에서 시신 일부가 담긴 자루들이 발견돼 경찰이 수사 중이다.",
+      "url": "https://www.n-tv.de/panorama/Mehrere-Saecke-mit-Leichenteilen-im-Rhein-entdeckt-id31458920.html",
+      "published": "2026-10-26T22:29:24+09:00",
+      "tags": [],
+      "event": "rhine-body-parts",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Windböe führt zu Kollision: Polizei ermittelt gegen \"Mein Schiff 3\"-Kapitän",
+      "title_ko": "돌풍으로 충돌: 경찰, '마인 쉬프 3' 선장 수사",
+      "summary_ko": "카나리아제도로 향하던 약 2,400명 탑승 크루즈선이 브레머하펜 출항 중 화물선 2척과 충돌해 선장이 수사 대상이 됐다.",
+      "url": "https://www.n-tv.de/panorama/Polizei-ermittelt-gegen-Mein-Schiff-3-Kapitaen-id31458141.html",
+      "published": "2026-10-26T22:25:00+09:00",
+      "tags": [],
+      "event": "bremerhaven-cruise-collision",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Ukraine oder Russland: Stehen Oleschkys Einwohner vor der Entscheidung ihres Lebens?",
+      "title_ko": "우크라이나냐 러시아냐: 올레슈키 주민들의 갈림길",
+      "summary_ko": "우크라이나가 최전선 도시 올레슈키 주민 구출을 시도하지만 상당 부분 러시아에 달려 있으며, 키이우는 러시아가 주민을 점령지로 유도할 것이라 본다.",
+      "url": "https://www.n-tv.de/politik/Einwohner-aus-Horror-Stadt-koennten-vor-Entscheidung-ihres-Lebens-stehen-id31458093.html",
+      "published": "2026-10-26T22:22:54+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "oleshky-evacuation",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Millioneneinsparung möglich: Salzwiesen können Küsten erstaunlich gut schützen",
+      "title_ko": "수백만 유로 절감 가능: 염습지가 해안을 놀랍도록 잘 보호",
+      "summary_ko": "네덜란드 연구팀이 북해 연안 염습지 식물이 파도를 줄이고 제방 비용을 낮춘다는 점을 입증했다.",
+      "url": "https://www.n-tv.de/wissen/Salzwiesen-koennen-Kuesten-erstaunlich-gut-schuetzen-id31458985.html",
+      "published": "2026-10-26T22:14:57+09:00",
+      "tags": [],
+      "event": "salt-marsh-study",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "NFL-Schicksalswoche sieben: Ausverkauf in Indy unausweichlich? Erster Coach vor Entlassung",
+      "title_ko": "NFL 7주차: 인디애나폴리스 매각 불가피? 첫 감독 경질 임박",
+      "summary_ko": "NFL 7주차 결산과 감독 경질 가능성.",
+      "url": "https://www.n-tv.de/sport/nfl/NFL-Ausverkauf-in-Indy-unausweichlich-Erster-Coach-vor-Entlassung-id31457049.html",
+      "published": "2026-10-26T21:57:07+09:00",
+      "tags": [],
+      "event": "nfl-week7",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Schock für Berliner Familie: Unbekannte schießen durch Wohnungstür und treffen Kühlschrank",
+      "title_ko": "베를린 가족 충격: 괴한이 현관문 너머로 총격, 냉장고 맞아",
+      "summary_ko": "베를린의 한 가정 현관문에서 총탄 구멍이 발견돼 경찰이 수사 중이다.",
+      "url": "https://www.n-tv.de/panorama/Berlin-Unbekannte-schiessen-durch-Wohnungstuer-und-treffen-Kuehlschrank-id31459026.html",
+      "published": "2026-10-26T21:54:08+09:00",
+      "tags": [],
+      "event": "berlin-door-shooting",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Mit eigens entwickeltem Modell: Helsing steigt ins Geschäft mit Luftverteidigungssystemen ein",
+      "title_ko": "자체 개발 모델로: 헬싱, 방공 시스템 사업 진출",
+      "summary_ko": "러시아가 제트 드론·순항미사일 생산을 늘리는 가운데 뮌헨 방산업체 헬싱이 새 방공 시스템을 베를린에서 공개한다.",
+      "url": "https://www.n-tv.de/wirtschaft/Helsing-steigt-ins-Geschaeft-mit-Luftverteidigungssystemen-ein-id31458683.html",
+      "published": "2026-10-26T21:52:51+09:00",
+      "tags": [
+        "industry",
+        "business",
+        "geopolitics"
+      ],
+      "event": "helsing-air-defense",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Bei Rückkehr nach Deutschland: Polizei nimmt mutmaßlichen IS-Anhänger am Frankfurter Flughafen fest",
+      "title_ko": "독일 귀국 시 체포: 경찰, 프랑크푸르트 공항서 IS 추종 혐의자 검거",
+      "summary_ko": "IS 합류를 위해 떠났던 베를린 출신 요슈아 W.가 파키스탄에서 체포된 뒤 귀국길에 프랑크푸르트 공항에서 체포됐다.",
+      "url": "https://www.n-tv.de/panorama/Polizei-nimmt-mutmasslichen-IS-Anhaenger-am-Frankfurter-Flughafen-fest-id31458676.html",
+      "published": "2026-10-26T21:50:43+09:00",
+      "tags": [],
+      "event": "is-suspect-arrest-frankfurt",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Archäologen entdecken unterirdischen Bahnhof in Stuttgart",
+      "title_ko": "고고학자들, 슈투트가르트서 지하 기차역 발견",
+      "summary_ko": "슈투트가르트 발굴 중 오래전 계획된 것으로 보이는 기차역 구조물이 발견됐다.",
+      "url": "https://www.welt.de/satire/article6a1d5049ae59523b137e3cf0/stuttgart-21-archaeologen-entdecken-mysterioesen-unterirdischen-bahnhof.html",
+      "published": "2026-10-26T21:45:00+09:00",
+      "tags": [],
+      "event": "stuttgart-underground-station",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Die besten Witzbilder der WELT – Hitlers Teehaus erst der Anfang?",
+      "title_ko": "WELT 풍자 사진 모음 — '히틀러의 찻집은 시작에 불과?'",
+      "summary_ko": "WELT 풍자팀의 사진 모음.",
+      "url": "https://www.welt.de/satire/article256400460/witzbild-aktuell-iran-macht-trump-top-angebot.html",
+      "published": "2026-10-26T21:44:00+09:00",
+      "tags": [],
+      "event": "welt-satire",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Es war ein großes Fettnäpfchen, in das Audi mit dieser Ankündigung getreten ist“",
+      "title_ko": "\"아우디가 이번 발표로 큰 실수를 저질렀다\"",
+      "summary_ko": "아우디 CEO 될너가 트럼프 유세 무대에서 조지아주 공장을 발표했다. 자동차 전문가 두덴회퍼는 미국 진출은 경제적으로 옳지만 무대 등장은 내부 지침 위반이라고 비판했다.",
+      "url": "https://www.welt.de/wirtschaft/video6adf4769c303dbdd29105b20/autobauer-plant-us-werk-es-war-ein-grosses-fettnaepfchen-in-das-audi-mit-dieser-ankuendigung-getreten-ist.html",
+      "published": "2026-10-26T21:37:25+09:00",
+      "tags": [
+        "business",
+        "industry",
+        "geopolitics"
+      ],
+      "event": "audi-us-plant-trump",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Gehört die Berliner Linke beobachtet? Das sagt ein Ex-Verfassungsschutz-Chef",
+      "title_ko": "베를린 좌파당은 감시 대상이어야 하나? 전 헌법수호청장의 견해",
+      "summary_ko": "베를린 좌파당 일부가 극단적 입장으로 주목받는 가운데, 브란덴부르크 전 헌법수호청장 뮐러가 감시 대상이 되는 조건을 설명했다.",
+      "url": "https://www.welt.de/politik/deutschland/plus6ad9e88ad76437b82f93535c/extreme-positionen-gehoert-die-berliner-linke-beobachtet-das-sagt-ein-ex-verfassungsschutz-chef.html",
+      "published": "2026-10-26T21:35:37+09:00",
+      "tags": [],
+      "event": "berlin-left-party-surveillance",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Petros wird bei Kilometer 37 behindert – und muss sich rechtfertigen",
+      "title_ko": "페트로스, 37km 지점서 방해받아 — 해명 나서",
+      "summary_ko": "프랑크푸르트 마라톤에서 유럽 챔피언 아마날 페트로스가 코스 위 배달원을 피해야 했던 상황을 설명했다.",
+      "url": "https://www.welt.de/sport/leichtathletik/article6adf36f7c303dbdd29105968/frankfurt-marathon-amanal-petros-wird-bei-kilometer-37-behindert-und-kritisiert-er-aeussert-sich.html",
+      "published": "2026-10-26T21:27:04+09:00",
+      "tags": [],
+      "event": "frankfurt-marathon",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Reproduktion des Farbwechseleffekts des antiken Lykurgos-Bechers",
+      "title_ko": "고대 리쿠르고스 잔의 색 변화 효과 재현",
+      "summary_ko": "셰필드대 기술자가 로마 걸작의 색 변화 효과를 1,600년 만에 처음 대량 재현했다.",
+      "url": "https://www.welt.de/videos/video6adf2cdac303dbdd29105811/universitaet-sheffield-reproduktion-des-farbwechseleffekts-des-antiken-lykurgos-bechers.html",
+      "published": "2026-10-26T21:21:20+09:00",
+      "tags": [],
+      "event": "lycurgus-cup",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Wohnungen entstehen durch Bauen und nicht durch die Umverteilung von Grundbuchauszügen“",
+      "title_ko": "\"주택은 건설로 생기지, 등기부 재분배로 생기지 않는다\"",
+      "summary_ko": "작가 하스나인 카짐은 SPD가 연정 때문에 기존 신념에서 물러선다고 비판하며, 수용(몰수)은 주택을 만들지 못하고 문제는 수십 년간의 건설 부족이라고 주장했다(논평).",
+      "url": "https://www.welt.de/wirtschaft/video6adf38647846c6ec50e70134/berliner-wohnungspolitik-wohnungen-entstehen-durch-bauen-und-nicht-durch-die-umverteilung-von-grundbuchauszuegen.html",
+      "published": "2026-10-26T21:20:15+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "housing-expropriation-debate",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Leonor Fini kannte keine Opferrolle",
+      "title_ko": "레오노르 피니는 피해자 역할을 몰랐다",
+      "summary_ko": "화가 레오노르 피니를 재조명하는 대형 전시 소개.",
+      "url": "https://www.welt.de/kultur/article6acdd6e532c9e7b96d74fa13/malerin-mit-giftigem-stachel-leonor-fini-kannte-keine-opferrolle.html",
+      "published": "2026-10-26T21:17:40+09:00",
+      "tags": [],
+      "event": "leonor-fini-exhibition",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "IPO: Anthropic reicht Prospekt für geplanten Börsengang ein",
+      "title_ko": "IPO: 앤트로픽, 상장 위한 증권신고서 제출",
+      "summary_ko": "앤트로픽의 상장은 AI 시장 전체의 분위기를 가늠할 시험대이며, 월요일 공개된 문서가 투자자에게 새 단서를 준다.",
+      "url": "https://www.handelsblatt.com/technik/ki/anthropic-ki-firma-reicht-prospekt-fuer-geplanten-boersengang-ein/100264987.html",
+      "published": "2026-10-26T22:32:32+09:00",
+      "tags": [
+        "stocks",
+        "business",
+        "industry"
+      ],
+      "event": "anthropic-ipo-filing",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Südamerika: Lula gewinnt Präsidentschaftswahl in Brasilien – Bolsonaro erkennt Ergebnis nicht an",
+      "title_ko": "남미: 룰라 브라질 대선 승리 — 보우소나루 결과 불인정",
+      "summary_ko": "룰라가 극적인 역전으로 우파 도전자 플라비우 보우소나루를 꺾었고, 보우소나루는 선거 무효 신청을 예고했다.",
+      "url": "https://www.handelsblatt.com/politik/international/brasilien-lula-gewinnt-zum-vierten-mal-die-praesidentschaftswahl/100264825.html",
+      "published": "2026-10-26T22:30:07+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "brazil-election",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "ING: Privatkundenchefin erklärt Altersvorsorgedepot zur Top-Priorität in diesem Jahr",
+      "title_ko": "ING: 개인고객 부문장 \"올해 최우선 과제는 연금저축계좌\"",
+      "summary_ko": "ING가 신규 연금저축계좌에 가입 보너스를 내걸고 네오브로커의 공격적 조건을 비판했다.",
+      "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/ing-privatkundenchefin-erklaert-altersvorsorgedepot-zur-top-prioritaet/100264553.html",
+      "published": "2026-10-26T22:13:24+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "ing-pension-depot",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Gebäudetyp E: „Ohne teure Extras“: Justizministerin Hubig legt Gesetzentwurf für einfacheres Bauen vor",
+      "title_ko": "건물유형 E: \"비싼 부가사양 없이\" — 후비히 법무장관, 간소화 건축 법안 제출",
+      "summary_ko": "법정 기본 기준으로 건축을 쉽고 저렴하게 하려는 법안이지만, 건물유형 E가 '새로운 표준'으로 예정된 것은 아니다.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/gebaeudetyp-e-justizministerin-legt-gesetzentwurf-fuer-einfacheres-bauen-vor/100264892.html",
+      "published": "2026-10-26T22:11:16+09:00",
+      "tags": [
+        "legislation",
+        "industry"
+      ],
+      "event": "gebaeudetyp-e-bill",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Dax aktuell: Dax beginnt große Zahlenwoche mit Gewinn – Bayer-Aktie im Plus",
+      "title_ko": "DAX 동향: 실적 주간 상승 출발 — 바이엘 주가 강세",
+      "summary_ko": "전주 하락 후 DAX가 반등했으며, 유가 하락이 부담을 덜어줬다.",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-startet-grosse-zahlenwoche-mit-gewinn-bayer-aktie-im-plus/100264883.html",
+      "published": "2026-10-26T22:05:15+09:00",
+      "tags": [
+        "stocks"
+      ],
+      "event": "dax-market-update",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Kommentar: Die Wahlniederlage des nächsten Putin-Freundes ist eine schlechte Nachricht für Europas Rechte",
+      "title_ko": "논평: 또 한 명의 푸틴 우군 낙선은 유럽 우파에 악재",
+      "summary_ko": "헝가리 오르반에 이어 세르비아 부치치도 젊은 운동에 의해 물러났다. 학생 명단은 새 출발을 약속하지만 실행은 쉽지 않다.",
+      "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-vucic-wahlniederlage-ist-schlechte-nachricht-fuer-europas-rechte/100264902.html",
+      "published": "2026-10-26T21:37:09+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "serbia-election",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Handelsblatt-Berechnungen: Gaspreis-Schock: Industriestrompreis wird zum Milliardenrisiko",
+      "title_ko": "핸델스블라트 계산: 가스가격 충격으로 산업용 전기요금 보조가 수십억 유로 리스크로",
+      "summary_ko": "정부가 3년간 산업용 전기를 보조하기로 했는데 전기요금이 급등하면서 지원 비용이 예상보다 크게 늘 수 있다(핸델스블라트 자체 계산).",
+      "url": "https://www.handelsblatt.com/unternehmen/energie/energie-gaspreis-schock-industriestrompreis-wird-zum-milliardenrisiko/100263344.html",
+      "published": "2026-10-26T21:18:45+09:00",
+      "tags": [
+        "industry",
+        "legislation",
+        "forecast"
+      ],
+      "event": "eu-gas-price-surge",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Künstliche Intelligenz: Meta sammelt bis zu 95 Milliarden für KI‑Entwicklung ein – und schafft neue Aktienklasse",
+      "title_ko": "AI: 메타, AI 개발 위해 최대 950억 달러 조달 — 신규 주식 클래스 도입",
+      "summary_ko": "의결권 없는 신주로 AI 투자 자금 최대 600억 달러를 추가 확보할 계획이며, 유명 반도체 기업 3곳이 관심을 보이고 있다.",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-meta-sammelt-bis-zu-95-milliarden-fuer-ki-entwicklung-ein/100264973.html",
+      "published": "2026-10-26T21:14:14+09:00",
+      "tags": [
+        "stocks",
+        "business",
+        "industry"
+      ],
+      "event": "meta-ai-funding",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Ballon d'Or féminin: Wer wird Weltfußballerin? Das ist der SPIEGEL-Kandidatinnencheck",
+      "title_ko": "발롱도르 여자부: 누가 세계 최고 여자 선수가 될까 — 슈피겔 후보 점검",
+      "summary_ko": "클라라 뷜이 독일인 최초 수상에 도전한다.",
+      "url": "https://www.spiegel.de/sport/fussball/ballon-dor-feminin-wer-wird-weltfussballerin-das-ist-der-spiegel-kandidatinnencheck-a-cb007259-a6ce-46cf-9e6c-4a4230083188#ref=rss",
+      "published": "2026-10-26T22:32:00+09:00",
+      "tags": [],
+      "event": "ballon-dor-2026",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Ballon d'Or-Wahl: Wer wird Weltfußballer? Was für Harry Kane, Kylian Mbappé, Messi und Lamine Yamal spricht",
+      "title_ko": "발롱도르: 케인·음바페·메시·라민 야말, 각자의 근거",
+      "summary_ko": "올해 발롱도르 경쟁 후보 분석.",
+      "url": "https://www.spiegel.de/sport/fussball/ballon-dor-wahl-wer-wird-weltfussballer-was-fuer-harry-kane-kylian-mbappe-messi-und-lamine-yamal-spricht-a-6fa25a8a-f0e2-4895-8044-9445b99f4d33#ref=rss",
+      "published": "2026-10-26T22:31:00+09:00",
+      "tags": [],
+      "event": "ballon-dor-2026",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Erdgas: Europäischer Referenzpreis klettert auf knapp unter 100 Euro",
+      "title_ko": "천연가스: 유럽 기준가격 100유로 턱밑까지 상승",
+      "summary_ko": "추운 계절이 시작되며 가스 가격이 오르고 있으며, 상승 속도가 우려스럽다.",
+      "url": "https://www.spiegel.de/wirtschaft/erdgas-europaeischer-referenzpreis-klettert-auf-knapp-unter-100-euro-a-ca54cf5d-ba4a-4513-8e11-1933a6d857b0#ref=rss",
+      "published": "2026-10-26T22:17:00+09:00",
+      "tags": [
+        "industry",
+        "forecast"
+      ],
+      "event": "eu-gas-price-surge",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Heiko Weber: Der letzte Torschütze der DDR-Oberliga ist tot",
+      "title_ko": "하이코 베버: 동독 오버리가 마지막 골 주인공 별세",
+      "summary_ko": "동독 오버리가 마지막 골을 넣고 감독으로 카를 차이스 예나를 이끈 하이코 베버가 별세했다.",
+      "url": "https://www.spiegel.de/sport/fussball/heiko-weber-der-letzte-torschuetze-der-ddr-oberliga-ist-tot-a-1259c7ab-3c05-468b-b3fd-280a6db6046d#ref=rss",
+      "published": "2026-10-26T21:57:00+09:00",
+      "tags": [],
+      "event": "heiko-weber-death",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
+      "title_ko": "슈피겔 오늘의 퀴즈: 일반상식 7문제",
+      "summary_ko": "매일 7문제 상식 퀴즈.",
+      "url": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
+      "published": "2026-10-26T21:52:00+09:00",
+      "tags": [],
+      "event": "spiegel-quiz",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Stromsteuersenkung: Anke Rehlinger wirft Friedrich Merz »leere Versprechungen« vor",
+      "title_ko": "전기세 인하: 레링어, 메르츠에 \"빈 약속\" 비판",
+      "summary_ko": "메르츠 총리는 내년 전 국민 대상 전기세 인하에 자신감을 보였으나 재원이 불분명하며, 자를란트 주총리 레링어가 이를 비판했다.",
+      "url": "https://www.spiegel.de/politik/deutschland/stromsteuersenkung-anke-rehlinger-wirft-friedrich-merz-leere-versprechungen-vor-a-d54f0f8c-c394-4a5f-aae0-1437263c3f24#ref=rss",
+      "published": "2026-10-26T21:45:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "electricity-tax-cut",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Carolina Wilga: Zwölf Tage überlebte sie im Outback von Australien – so geht es ihr ein Jahr später",
+      "title_ko": "카롤리나 빌가: 호주 아웃백 12일 생존 — 1년 후 근황",
+      "summary_ko": "2025년 호주 아웃백에서 12일 만에 구조된 카롤리나 빌가의 근황.",
+      "url": "https://www.spiegel.de/panorama/gesellschaft/carolina-wilga-zwoelf-tage-ueberlebte-sie-im-outback-von-australien-so-geht-es-ihr-ein-jahr-spaeter-a-4a23e36a-da5c-43aa-af6d-707b98bb9b40#ref=rss",
+      "published": "2026-10-26T21:41:00+09:00",
+      "tags": [],
+      "event": "carolina-wilga",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Chris Brown wegen Nachtclub-Schlägerei zu acht Monaten auf Bewährung verurteilt",
+      "title_ko": "크리스 브라운, 나이트클럽 폭행으로 집행유예 8개월",
+      "summary_ko": "영국 법원이 런던 나이트클럽 폭행 사건으로 크리스 브라운에게 집행유예를 선고했다.",
+      "url": "https://www.spiegel.de/panorama/justiz/chris-brown-wegen-nachtclub-schlaegerei-zu-acht-monaten-auf-bewaehrung-verurteilt-a-1eed4625-b979-41fe-b161-27a810a30b06#ref=rss",
+      "published": "2026-10-26T21:21:00+09:00",
+      "tags": [],
+      "event": "chris-brown-sentence",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "In London verurteilt: Bewährungsstrafe für Chris Brown nach Angriff in Club",
+      "title_ko": "런던서 선고: 크리스 브라운, 클럽 폭행으로 집행유예",
+      "summary_ko": "1년간 재범 시 8개월 수감. 일부 혐의를 인정했고 중대한 혐의는 기각됐다.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/bewaehrungsstrafe-fuer-chris-brown-nach-angriff-in-club-accg-201622545.html",
+      "published": "2026-10-26T22:29:57+09:00",
+      "tags": [],
+      "event": "chris-brown-sentence",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Aichinger-Roman dramatisiert: Lieber noch mal nachdenken",
+      "title_ko": "아이힝거 소설 연극화: 다시 생각해 봐야",
+      "summary_ko": "빈 부르크극장 아카데미극장의 일제 아이힝거 소설 각색 공연 비평.",
+      "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/theater/aigner-roman-in-wien-dramatisiert-accg-201619032.html",
+      "published": "2026-10-26T22:25:46+09:00",
+      "tags": [],
+      "event": "aichinger-play-review",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Ifo-Index: Das Geschäftsklima hellt sich weiter auf",
+      "title_ko": "Ifo 지수: 기업 경기체감 계속 개선",
+      "summary_ko": "독일 제조업이 서서히 바닥을 벗어나 수출 개선을 기대하며 가동률이 오르고 있다.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/ifo-geschaeftsklimaindex-steigt-zum-sechsten-mal-in-folge-accg-201622214.html",
+      "published": "2026-10-26T22:23:53+09:00",
+      "tags": [
+        "industry",
+        "forecast"
+      ],
+      "event": "ifo-business-climate",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Prozess in Konstanz: Falscher Schönheitsarzt zu fast vier Jahren Haft verurteilt",
+      "title_ko": "콘스탄츠 재판: 가짜 성형의사에 징역 약 4년",
+      "summary_ko": "면허 없이 수백 차례 보톡스·히알루론산 시술을 한 남성에게 실형이 선고됐다.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/falscher-schoenheitsarzt-zu-fast-vier-jahren-haft-verurteilt-accg-201622354.html",
+      "published": "2026-10-26T22:14:25+09:00",
+      "tags": [],
+      "event": "fake-doctor-konstanz",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Betrug flog auf: Gefälschte Wahlumfragen spielen Trump in die Karten",
+      "title_ko": "사기 적발: 조작된 여론조사가 트럼프에 유리하게 작용",
+      "summary_ko": "미국에서 두 업체의 조작 여론조사가 드러났다.",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/gefaelschte-wahlumfragen-in-usa-spielen-trump-in-die-karten-accg-201621041.html",
+      "published": "2026-10-26T22:13:43+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-fake-polls",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Milo Rau und Wagner: Mary knallt den Palästinenser einfach ab",
+      "title_ko": "밀로 라우와 바그너: 메리가 팔레스타인인을 그냥 쏜다",
+      "summary_ko": "베를린 도이체 오퍼의 '방황하는 네덜란드인' 연출 비평.",
+      "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/oper/milo-rau-verdreht-wagners-fliegenden-hollaender-in-berlin-accg-201621295.html",
+      "published": "2026-10-26T22:13:08+09:00",
+      "tags": [],
+      "event": "milo-rau-wagner",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Tyla in Offenbach: Ganz ohne Benzin bis nach Südafrika",
+      "title_ko": "오펜바흐의 타일라 공연",
+      "summary_ko": "남아공 가수 타일라의 월드투어 오펜바흐 공연 리뷰.",
+      "url": "https://www.faz.net/aktuell/rhein-main/kultur/so-war-das-konzert-von-tiktok-star-tyla-in-offenbach-accg-201621750.html",
+      "published": "2026-10-26T22:06:29+09:00",
+      "tags": [],
+      "event": "tyla-concert",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Daten aus 100 Jahren: Wo Insekten besonders schnell schwinden",
+      "title_ko": "100년 데이터: 곤충이 특히 빠르게 사라지는 곳",
+      "summary_ko": "유럽 대규모 연구로 화분매개 곤충 감소를 조사했으며, 의무 모니터링에서 독일이 뒤처져 있다.",
+      "url": "https://www.faz.net/aktuell/wissen/leben-gene/insektenschwund-im-nordwesten-europas-ist-das-problem-besonders-deutlich-accg-201602209.html",
+      "published": "2026-10-26T22:05:00+09:00",
+      "tags": [],
+      "event": "insect-decline-study",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Energiekrise: In der Schweiz werden Diesel und Kerosin knapp",
+      "title_ko": "에너지 위기: 스위스, 경유·항공유 부족",
+      "summary_ko": "상황이 '긴장'돼 고속도로 시속 80km 제한을 검토하고 비상비축분까지 방출한다.",
+      "url": "https://www.sueddeutsche.de/politik/schweiz-benzin-kerosin-engpass-tempolimit-li.3568974",
+      "published": "2026-10-26T21:32:26+09:00",
+      "tags": [
+        "industry",
+        "geopolitics"
+      ],
+      "event": "swiss-fuel-shortage",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Nahost: Israel will acht neue Siedlungsaußenposten um Hebron bauen",
+      "title_ko": "중동: 이스라엘, 헤브론 주변 신규 정착촌 전초기지 8곳 건설 추진",
+      "summary_ko": "군 초소 테러 공격에 대응해 이스라엘이 팔레스타인인 수천 명을 쫓아내고 국제법 위반인 전초기지를 추가 건설하려 한다.",
+      "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-wahl-israel-hebron-westjordanland-siedlungen-vertreibung-anschlag-li.3560260",
+      "published": "2026-10-26T21:17:56+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "west-bank-hebron-settlements",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Parlamentswahl in Serbien: Die Sieger über Vučićs Machtapparat",
+      "title_ko": "세르비아 총선: 부치치 권력기구를 이긴 승자들",
+      "summary_ko": "부치치가 패배를 인정했고 신생 학생 명단이 승리했으나, 총리 인선 등 많은 문제가 남아 있다.",
+      "url": "https://www.sueddeutsche.de/politik/serbien-wahl-vucic-studierendenliste-fragen-und-antworten-li.3568979",
+      "published": "2026-10-26T21:17:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "serbia-election",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Literatur: In weiter Ferne, so nah",
+      "title_ko": "문학: 아득히 멀고도 가까이",
+      "summary_ko": "일본 작가 야마자키 나오코라의 '거리의 아름다움' 서평.",
+      "url": "https://www.sueddeutsche.de/kultur/nao-cola-yamazaki-roman-liebe-tod-japan-li.3533692",
+      "published": "2026-10-26T20:57:25+09:00",
+      "tags": [],
+      "event": "book-review-yamazaki",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Ernährung: Food Noise: die Erfindung eines Leidens?",
+      "title_ko": "영양: '푸드 노이즈'는 만들어진 질환인가?",
+      "summary_ko": "SNS에서 확산되는 '푸드 노이즈' 개념과 그 수혜자를 짚는다.",
+      "url": "https://www.sueddeutsche.de/gesundheit/food-noise-abnehmspritzen-ozempic-pharmaindustrie-ernaehrung-li.3566458",
+      "published": "2026-10-26T20:57:04+09:00",
+      "tags": [],
+      "event": "food-noise",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Serbien: Vučić war eigentlich nicht zu besiegen. Sie haben es trotzdem geschafft",
+      "title_ko": "세르비아: 부치치는 무너뜨릴 수 없어 보였지만 그들은 해냈다",
+      "summary_ko": "이번 총선도 자유·공정하지 않았지만 부치치가 빠르게 패배를 인정한 것은 큰 차이의 패배를 시사한다. 이제 국가 재정비가 과제다(논평).",
+      "url": "https://www.sueddeutsche.de/meinung/serbien-aleksandar-vucic-parlamentswahl-studentenliste-kommentar-li.3564621",
+      "published": "2026-10-26T20:46:54+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "serbia-election",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Clásico in Spanien: Real gewinnt die Mikroschlachten",
+      "title_ko": "스페인 엘 클라시코: 레알, 작은 싸움에서 이기다",
+      "summary_ko": "레알 마드리드가 2-1로 이겨 바르셀로나와의 승점 차를 절반으로 줄였다.",
+      "url": "https://www.sueddeutsche.de/sport/clasico-real-barcelona-mourinho-yamal-cucurella-li.3569016",
+      "published": "2026-10-26T20:30:20+09:00",
+      "tags": [],
+      "event": "el-clasico",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Influencer vs. Wanderer: Warum Reinhold Messner den Ausflug in die Berge kontingentieren will",
+      "title_ko": "인플루언서 대 등산객: 메스너가 산행 인원 제한을 주장하는 이유",
+      "summary_ko": "라인홀트 메스너의 알고이 산행 인원 제한 제안이 논란이 됐다.",
+      "url": "https://www.sueddeutsche.de/bayern/reinhold-messner-allgaeu-bergwandern-influencer-kolumne-li.3567873",
+      "published": "2026-10-26T19:42:33+09:00",
+      "tags": [],
+      "event": "messner-mountain-quota",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Auch Hubschrauber im Einsatz: 40-minütige Verfolgungsjagd mit zwei Jugendlichen auf A3",
+      "title_ko": "헬기까지 투입: A3서 10대 2명과 40분 추격전",
+      "summary_ko": "",
+      "url": "https://www.zeit.de/news/2026-10/26/40-minuetige-verfolgungsjagd-mit-zwei-jugendlichen-auf-a3",
+      "published": "2026-10-26T22:35:05+09:00",
+      "tags": [],
+      "event": "a3-car-chase",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Israel: Bundesregierung besorgt über mögliche Abriegelung des Westjordanlands",
+      "title_ko": "이스라엘: 독일 정부, 요르단강 서안 봉쇄 가능성에 우려",
+      "summary_ko": "이스라엘이 화요일 총선 기간 서안 경계를 폐쇄하려 하자 독일 외무부가 권리 침해를 경고했다.",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/abriegelung-westjordanland-israel-bundesregierung-johann-wadephul",
+      "published": "2026-10-26T22:34:42+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "west-bank-closure-israel-election",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Auswirkung auf Bahnverkehr: Geldautomat auf U-Bahnsteig Gneisenaustraße gesprengt",
+      "title_ko": "철도 운행 영향: 그나이제나우슈트라세 지하철역 ATM 폭파",
+      "summary_ko": "",
+      "url": "https://www.zeit.de/news/2026-10/26/geldautomat-auf-u-bahnsteig-gneisenaustrasse-gesprengt",
+      "published": "2026-10-26T22:34:10+09:00",
+      "tags": [],
+      "event": "atm-blast-berlin",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Fußball-Bundesliga: Union-Coach zu Kompany: «Manchmal braucht man die Pause»",
+      "title_ko": "분데스리가: 우니온 감독, 콤파니에게 \"때로는 휴식이 필요\"",
+      "summary_ko": "",
+      "url": "https://www.zeit.de/news/2026-10/26/union-coach-zu-kompany-manchmal-braucht-man-die-pause",
+      "published": "2026-10-26T22:34:06+09:00",
+      "tags": [],
+      "event": "bundesliga-union-kompany",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Josef Duchač: Ehemaliger Thüringer Ministerpräsident Duchač ist tot",
+      "title_ko": "요제프 두하치 전 튀링겐 주총리 별세",
+      "summary_ko": "통일 후 첫 튀링겐 주총리 두하치가 투병 끝에 88세로 별세했다.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/josef-duchac-thueringen-ministerpraesident-cdu-tod",
+      "published": "2026-10-26T22:33:33+09:00",
+      "tags": [],
+      "event": "duchac-death",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Schifffahrt: Wieder Zwischenfall mit Ausflugsschiff auf der Müritz",
+      "title_ko": "해운: 뮈리츠 호수 유람선 또 사고",
+      "summary_ko": "",
+      "url": "https://www.zeit.de/news/2026-10/26/wieder-zwischenfall-mit-ausflugsschiff-auf-der-mueritz",
+      "published": "2026-10-26T22:33:28+09:00",
+      "tags": [],
+      "event": "mueritz-boat-incident",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Zusammenstoß in Bremerhaven: Unfall von Kreuzfahrtschiff: Polizei ermittelt gegen Kapitän",
+      "title_ko": "브레머하펜 충돌: 크루즈선 사고, 경찰 선장 수사",
+      "summary_ko": "",
+      "url": "https://www.zeit.de/news/2026-10/26/unfall-von-kreuzfahrtschiff-polizei-ermittelt-gegen-kapitaen",
+      "published": "2026-10-26T22:33:21+09:00",
+      "tags": [],
+      "event": "bremerhaven-cruise-collision",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Polizeieinsatz in Bayern: Mann in Bayern durch Schuss an Haustür verletzt",
+      "title_ko": "바이에른 경찰 출동: 현관에서 총격으로 남성 부상",
+      "summary_ko": "",
+      "url": "https://www.zeit.de/news/2026-10/26/mann-in-bayern-durch-schuss-an-haustuer-verletzt",
+      "published": "2026-10-26T22:30:20+09:00",
+      "tags": [],
+      "event": "bavaria-door-shooting",
+      "state_media": false
+    }
+  ],
+  "events": [
+    {
+      "event": "serbia-election",
+      "title_ko": "세르비아 총선: 학생 명단 승리, 부치치 패배 인정",
+      "sources": [
+        "ARD Tagesschau",
+        "Deutsche Welle",
+        "Handelsblatt",
+        "Süddeutsche Zeitung"
+      ],
+      "count": 5
+    },
+    {
+      "event": "brazil-election",
+      "title_ko": "브라질 대선: 룰라 승리, 보우소나루 불인정",
+      "sources": [
+        "ARD Tagesschau",
+        "Deutsche Welle",
+        "Handelsblatt"
+      ],
+      "count": 4
+    },
+    {
+      "event": "bremerhaven-cruise-collision",
+      "title_ko": "브레머하펜 크루즈선 '마인 쉬프 3' 충돌",
+      "sources": [
+        "ZDF heute",
+        "n-tv",
+        "Die Zeit"
+      ],
+      "count": 4
+    },
+    {
+      "event": "ballon-dor-2026",
+      "title_ko": "2026 발롱도르 후보",
+      "sources": [
+        "ZDF heute",
+        "Deutsche Welle",
+        "Der Spiegel"
+      ],
+      "count": 4
+    },
+    {
+      "event": "gebaeudetyp-e-bill",
+      "title_ko": "건물유형 E 간소화 건축 법안",
+      "sources": [
+        "ARD Tagesschau",
+        "Handelsblatt"
+      ],
+      "count": 2
+    },
+    {
+      "event": "audi-us-plant-trump",
+      "title_ko": "아우디 CEO 트럼프 무대서 미국 공장 발표 논란",
+      "sources": [
+        "ARD Tagesschau",
+        "WELT"
+      ],
+      "count": 2
+    },
+    {
+      "event": "heiko-weber-death",
+      "title_ko": "하이코 베버 별세",
+      "sources": [
+        "ARD Tagesschau",
+        "Der Spiegel"
+      ],
+      "count": 2
+    },
+    {
+      "event": "eu-gas-price-surge",
+      "title_ko": "유럽 가스가격 급등과 산업용 전기 보조 부담",
+      "sources": [
+        "Handelsblatt",
+        "Der Spiegel"
+      ],
+      "count": 2
+    },
+    {
+      "event": "chris-brown-sentence",
+      "title_ko": "크리스 브라운 집행유예",
+      "sources": [
+        "Der Spiegel",
+        "FAZ"
+      ],
+      "count": 2
+    },
+    {
+      "event": "tagesschau-100s",
+      "title_ko": "tagesschau 100초 뉴스",
+      "sources": [
+        "ARD Tagesschau"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ard-photo-gallery",
+      "title_ko": "세계 뇌졸중의 날, 인도네시아 거리 예술가, 인도 아마다바드",
+      "sources": [
+        "ARD Tagesschau"
+      ],
+      "count": 1
+    },
+    {
+      "event": "czech-broadcasting-reform-protest",
+      "title_ko": "체코, 공영방송 개혁에 대규모 항의 시위",
+      "sources": [
+        "ARD Tagesschau"
+      ],
+      "count": 1
+    },
+    {
+      "event": "celebrity-news-zdf",
+      "title_ko": "시모네 토말라, 라이프치히 오페라 무도회서 화려한 모습",
+      "sources": [
+        "ZDF heute"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ukraine-war-liveticker",
+      "title_ko": "우크라이나 전쟁 최신 소식(라이브 티커)",
+      "sources": [
+        "ZDF heute"
+      ],
+      "count": 1
+    },
+    {
+      "event": "vegetables-on-prescription",
+      "title_ko": "'처방 채소' 프로젝트가 있는 곳",
+      "sources": [
+        "ZDF heute"
+      ],
+      "count": 1
+    },
+    {
+      "event": "middle-east-liveblog",
+      "title_ko": "이란 전쟁·중동 분쟁: 라이브 블로그",
+      "sources": [
+        "ZDF heute"
+      ],
+      "count": 1
+    },
+    {
+      "event": "merz-asia-trip",
+      "title_ko": "메르츠, 어려운 시기에 아시아서 파트너 찾기",
+      "sources": [
+        "ZDF heute"
+      ],
+      "count": 1
+    },
+    {
+      "event": "phuket-flooding",
+      "title_ko": "태국 휴양지 푸껫 폭우로 침수 — 추가 강우 예보",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "saudi-houthi-attacks",
+      "title_ko": "사우디아라비아와 예멘 후티 간 공격 증가",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "steinmeier-china-visit",
+      "title_ko": "슈타인마이어 중국 국빈 방문: 민감한 시기의 줄타기",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "france-le-pen-campaign",
+      "title_ko": "프랑스: 우익 포퓰리스트 마린 르펜 선거운동 개시",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "rhine-body-parts",
+      "title_ko": "난민숙소 관련?: 라인강서 시신 일부 담긴 자루 여러 개 발견",
+      "sources": [
+        "n-tv"
+      ],
+      "count": 1
+    },
+    {
+      "event": "oleshky-evacuation",
+      "title_ko": "우크라이나냐 러시아냐: 올레슈키 주민들의 갈림길",
+      "sources": [
+        "n-tv"
+      ],
+      "count": 1
+    },
+    {
+      "event": "salt-marsh-study",
+      "title_ko": "수백만 유로 절감 가능: 염습지가 해안을 놀랍도록 잘 보호",
+      "sources": [
+        "n-tv"
+      ],
+      "count": 1
+    },
+    {
+      "event": "nfl-week7",
+      "title_ko": "NFL 7주차: 인디애나폴리스 매각 불가피? 첫 감독 경질 임박",
+      "sources": [
+        "n-tv"
+      ],
+      "count": 1
+    },
+    {
+      "event": "berlin-door-shooting",
+      "title_ko": "베를린 가족 충격: 괴한이 현관문 너머로 총격, 냉장고 맞아",
+      "sources": [
+        "n-tv"
+      ],
+      "count": 1
+    },
+    {
+      "event": "helsing-air-defense",
+      "title_ko": "자체 개발 모델로: 헬싱, 방공 시스템 사업 진출",
+      "sources": [
+        "n-tv"
+      ],
+      "count": 1
+    },
+    {
+      "event": "is-suspect-arrest-frankfurt",
+      "title_ko": "독일 귀국 시 체포: 경찰, 프랑크푸르트 공항서 IS 추종 혐의자 검거",
+      "sources": [
+        "n-tv"
+      ],
+      "count": 1
+    },
+    {
+      "event": "stuttgart-underground-station",
+      "title_ko": "고고학자들, 슈투트가르트서 지하 기차역 발견",
+      "sources": [
+        "WELT"
+      ],
+      "count": 1
+    },
+    {
+      "event": "welt-satire",
+      "title_ko": "WELT 풍자 사진 모음 — '히틀러의 찻집은 시작에 불과?'",
+      "sources": [
+        "WELT"
+      ],
+      "count": 1
+    },
+    {
+      "event": "berlin-left-party-surveillance",
+      "title_ko": "베를린 좌파당은 감시 대상이어야 하나? 전 헌법수호청장의 견해",
+      "sources": [
+        "WELT"
+      ],
+      "count": 1
+    },
+    {
+      "event": "frankfurt-marathon",
+      "title_ko": "페트로스, 37km 지점서 방해받아 — 해명 나서",
+      "sources": [
+        "WELT"
+      ],
+      "count": 1
+    },
+    {
+      "event": "lycurgus-cup",
+      "title_ko": "고대 리쿠르고스 잔의 색 변화 효과 재현",
+      "sources": [
+        "WELT"
+      ],
+      "count": 1
+    },
+    {
+      "event": "housing-expropriation-debate",
+      "title_ko": "\"주택은 건설로 생기지, 등기부 재분배로 생기지 않는다\"",
+      "sources": [
+        "WELT"
+      ],
+      "count": 1
+    },
+    {
+      "event": "leonor-fini-exhibition",
+      "title_ko": "레오노르 피니는 피해자 역할을 몰랐다",
+      "sources": [
+        "WELT"
+      ],
+      "count": 1
+    },
+    {
+      "event": "anthropic-ipo-filing",
+      "title_ko": "IPO: 앤트로픽, 상장 위한 증권신고서 제출",
+      "sources": [
+        "Handelsblatt"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ing-pension-depot",
+      "title_ko": "ING: 개인고객 부문장 \"올해 최우선 과제는 연금저축계좌\"",
+      "sources": [
+        "Handelsblatt"
+      ],
+      "count": 1
+    },
+    {
+      "event": "dax-market-update",
+      "title_ko": "DAX 동향: 실적 주간 상승 출발 — 바이엘 주가 강세",
+      "sources": [
+        "Handelsblatt"
+      ],
+      "count": 1
+    },
+    {
+      "event": "meta-ai-funding",
+      "title_ko": "AI: 메타, AI 개발 위해 최대 950억 달러 조달 — 신규 주식 클래스 도입",
+      "sources": [
+        "Handelsblatt"
+      ],
+      "count": 1
+    },
+    {
+      "event": "spiegel-quiz",
+      "title_ko": "슈피겔 오늘의 퀴즈: 일반상식 7문제",
+      "sources": [
+        "Der Spiegel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "electricity-tax-cut",
+      "title_ko": "전기세 인하: 레링어, 메르츠에 \"빈 약속\" 비판",
+      "sources": [
+        "Der Spiegel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "carolina-wilga",
+      "title_ko": "카롤리나 빌가: 호주 아웃백 12일 생존 — 1년 후 근황",
+      "sources": [
+        "Der Spiegel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "aichinger-play-review",
+      "title_ko": "아이힝거 소설 연극화: 다시 생각해 봐야",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ifo-business-climate",
+      "title_ko": "Ifo 지수: 기업 경기체감 계속 개선",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "fake-doctor-konstanz",
+      "title_ko": "콘스탄츠 재판: 가짜 성형의사에 징역 약 4년",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "us-fake-polls",
+      "title_ko": "사기 적발: 조작된 여론조사가 트럼프에 유리하게 작용",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "milo-rau-wagner",
+      "title_ko": "밀로 라우와 바그너: 메리가 팔레스타인인을 그냥 쏜다",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "tyla-concert",
+      "title_ko": "오펜바흐의 타일라 공연",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "insect-decline-study",
+      "title_ko": "100년 데이터: 곤충이 특히 빠르게 사라지는 곳",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "swiss-fuel-shortage",
+      "title_ko": "에너지 위기: 스위스, 경유·항공유 부족",
+      "sources": [
+        "Süddeutsche Zeitung"
+      ],
+      "count": 1
+    },
+    {
+      "event": "west-bank-hebron-settlements",
+      "title_ko": "중동: 이스라엘, 헤브론 주변 신규 정착촌 전초기지 8곳 건설 추진",
+      "sources": [
+        "Süddeutsche Zeitung"
+      ],
+      "count": 1
+    },
+    {
+      "event": "book-review-yamazaki",
+      "title_ko": "문학: 아득히 멀고도 가까이",
+      "sources": [
+        "Süddeutsche Zeitung"
+      ],
+      "count": 1
+    },
+    {
+      "event": "food-noise",
+      "title_ko": "영양: '푸드 노이즈'는 만들어진 질환인가?",
+      "sources": [
+        "Süddeutsche Zeitung"
+      ],
+      "count": 1
+    },
+    {
+      "event": "el-clasico",
+      "title_ko": "스페인 엘 클라시코: 레알, 작은 싸움에서 이기다",
+      "sources": [
+        "Süddeutsche Zeitung"
+      ],
+      "count": 1
+    },
+    {
+      "event": "messner-mountain-quota",
+      "title_ko": "인플루언서 대 등산객: 메스너가 산행 인원 제한을 주장하는 이유",
+      "sources": [
+        "Süddeutsche Zeitung"
+      ],
+      "count": 1
+    },
+    {
+      "event": "a3-car-chase",
+      "title_ko": "헬기까지 투입: A3서 10대 2명과 40분 추격전",
+      "sources": [
+        "Die Zeit"
+      ],
+      "count": 1
+    },
+    {
+      "event": "west-bank-closure-israel-election",
+      "title_ko": "이스라엘: 독일 정부, 요르단강 서안 봉쇄 가능성에 우려",
+      "sources": [
+        "Die Zeit"
+      ],
+      "count": 1
+    },
+    {
+      "event": "atm-blast-berlin",
+      "title_ko": "철도 운행 영향: 그나이제나우슈트라세 지하철역 ATM 폭파",
+      "sources": [
+        "Die Zeit"
+      ],
+      "count": 1
+    },
+    {
+      "event": "bundesliga-union-kompany",
+      "title_ko": "분데스리가: 우니온 감독, 콤파니에게 \"때로는 휴식이 필요\"",
+      "sources": [
+        "Die Zeit"
+      ],
+      "count": 1
+    },
+    {
+      "event": "duchac-death",
+      "title_ko": "요제프 두하치 전 튀링겐 주총리 별세",
+      "sources": [
+        "Die Zeit"
+      ],
+      "count": 1
+    },
+    {
+      "event": "mueritz-boat-incident",
+      "title_ko": "해운: 뮈리츠 호수 유람선 또 사고",
+      "sources": [
+        "Die Zeit"
+      ],
+      "count": 1
+    },
+    {
+      "event": "bavaria-door-shooting",
+      "title_ko": "바이에른 경찰 출동: 현관에서 총격으로 남성 부상",
+      "sources": [
+        "Die Zeit"
+      ],
+      "count": 1
+    }
+  ],
+  "unavailable_sources": []
+}
