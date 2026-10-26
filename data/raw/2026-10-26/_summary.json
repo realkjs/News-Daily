@@ -1,41 +1,45 @@
 {
   "us": {
-    "headlines": 59,
-    "unavailable": []
+    "headlines": 80,
+    "unavailable": [
+      "AP"
+    ]
   },
   "kr": {
-    "headlines": 56,
+    "headlines": 112,
     "unavailable": []
   },
   "jp": {
-    "headlines": 56,
-    "unavailable": []
+    "headlines": 96,
+    "unavailable": [
+      "Nikkei Asia"
+    ]
   },
   "de": {
-    "headlines": 47,
+    "headlines": 80,
     "unavailable": []
   },
   "uk": {
-    "headlines": 48,
+    "headlines": 86,
     "unavailable": []
   },
   "fr": {
-    "headlines": 48,
+    "headlines": 64,
     "unavailable": []
   },
   "il": {
-    "headlines": 32,
+    "headlines": 48,
     "unavailable": [
       "Kan (KAN News)",
       "N12 (Channel 12)"
     ]
   },
   "ru": {
-    "headlines": 56,
+    "headlines": 72,
     "unavailable": []
   },
   "cn": {
-    "headlines": 34,
+    "headlines": 42,
     "unavailable": [
       "Global Times",
       "Caixin"
