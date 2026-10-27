@@ -18,7 +18,7 @@
     "unavailable": []
   },
   "uk": {
-    "headlines": 88,
+    "headlines": 85,
     "unavailable": []
   },
   "fr": {
@@ -26,8 +26,10 @@
     "unavailable": []
   },
   "il": {
-    "headlines": 50,
-    "unavailable": []
+    "headlines": 48,
+    "unavailable": [
+      "Kan (KAN News)"
+    ]
   },
   "ru": {
     "headlines": 72,

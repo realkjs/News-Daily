@@ -1,8 +1,26 @@
 {
   "team": "fr",
   "team_name_ko": "프랑스팀",
-  "collected_at": "2026-10-28T06:15:24.198226+09:00",
+  "collected_at": "2026-10-28T08:15:20.840698+09:00",
   "headlines": [
+    {
+      "source": "France 24",
+      "title_original": "Tennis : fin d'une longue carrière pour le Suisse Stan Wawrinka, battu au 1er tour à Bâle",
+      "summary_original": "Battu mardi à Bâle par le Tchèque Jiri Lehecka, le Suisse Stan Wawrinka, triple vainqueur en Grand Chelem, quitte le circuit après 16 titres et une longue carrière. Ancien N.3 mondial, il était l’un des rares joueurs à avoir contesté l’emprise de Federer, Nadal et Djokovic.",
+      "url": "https://www.france24.com/fr/sports/20261027-tennis-fin-carriere-stan-wawrinka-battu-1er-tour-bale-suisse",
+      "published": "2026-10-28T07:30:37+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Législatives en Israël : participation record, Netanyahu et Eisenkot au coude-à-coude",
+      "summary_original": "Selon des sondages de sortie des urnes, le Premier ministre sortant Benjamin Netanyahu ​était donné mardi au coude-à-coude avec son rival Gadi Eisenkot à l'issue des premières élections législatives en Israël depuis les attaques du 7 octobre 2023. Le taux de participation enregistré, établi à 74,3 % deux heures avant la fermeture des bureaux de vote, était le plus élevé depuis les élections de 198",
+      "url": "https://www.france24.com/fr/moyen-orient/20261027-l%C3%A9gislatives-isra%C3%ABl-participation-record-netanyahu-eisenkot-coude-%C3%A0-coude",
+      "published": "2026-10-28T06:53:41+09:00",
+      "via": "rss",
+      "state_media": false
+    },
     {
       "source": "France 24",
       "title_original": "🔴 Flavio Bolsonaro a fui le Brésil pour les États-Unis, selon la presse brésilienne",
@@ -58,20 +76,65 @@
       "state_media": false
     },
     {
-      "source": "France 24",
-      "title_original": "Flavio Bolsonaro a fui le Brésil pour les États-Unis, malgré l'annulation de ses passeports",
-      "summary_original": "Le sénateur ultraconservateur Flavio Bolsonaro a fui le Brésil pour se rendre aux États-Unis après avoir refusé de se conformer à une décision de la Cour suprême lui ordonnant de remettre ses passeports, ont indiqué deux sources à Reuters mardi. Selon la presse brésilienne, qui cite l'entourage du candidat défait à la présidentielle, sa femme et ses deux filles ont également quitté le Brésil.",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20261027-br%C3%A9sil-passeports-flavio-bolsonaro-annul%C3%A9s-argentine-nie-toute-fuite-territoire",
-      "published": "2026-10-28T02:25:34+09:00",
+      "source": "franceinfo (France 2)",
+      "title_original": "Elections législatives en Israël : les premières estimations sont un désaveu \"complet\" pour Benyamin Nétanyahou, selon son rival Gadi Eisenkot",
+      "summary_original": "Le bloc de l'opposition au Premier ministre sortant est arrivé en tête mardi des premières élections législatives en Israël depuis le 7-Octobre, selon des sondages réalisés à la sortie des urnes.",
+      "url": "https://www.franceinfo.fr/monde/israel/direct-elections-legislatives-en-israel-tres-critique-le-premier-ministre-benyamin-netanyahou-joue-sa-survie-politique-dans-les-urnes_8254444.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-28T07:58:10+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "France 24",
-      "title_original": "Serbie : l'ex-dirigeant Aleksandar Vucic va-t-il vraiment manquer à la Russie ?",
-      "summary_original": "Considéré comme l’un des principaux soutiens de la Russie en Europe, le dirigeant nationaliste serbe Aleksandar Vucic a perdu, dimanche, les élections législatives face au mouvement étudiant. Mais il est encore trop tôt pour dire que la Serbie va couper les ponts avec Moscou. Explications.",
-      "url": "https://www.france24.com/fr/europe/20261027-serbie-ex-dirigeant-aleksandar-vucic-vraiment-manquer-russie",
-      "published": "2026-10-28T02:05:02+09:00",
+      "source": "franceinfo (France 2)",
+      "title_original": "Flavio Bolsonaro soupçonné d'avoir fui le Brésil pour les Etats-Unis, le président Lula dénonce un exil \"honteux\"",
+      "summary_original": "Selon des médias américains, le sénateur conservateur, visé par plusieurs enquêtes, a quitté le pays après sa défaite à la présidentielle. Son coordinateur de campagne assure ne pas savoir où il se trouve.",
+      "url": "https://www.franceinfo.fr/monde/bresil/flavio-bolsonaro-soupconne-d-avoir-fui-le-bresil-pour-les-etats-unis-le-president-lula-denonce-un-exil-honteux_8256505.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-28T07:56:08+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "L'incroyable destin de \"Forest Man\", l'homme qui a sauvé son île de l'érosion en Inde en plantant sa propre forêt",
+      "summary_original": "C’est le combat d’une vie, celui d’un homme face à la montée des eaux. En Inde, Jadav Payeng a consacré plus de 40 ans à planter des arbres pour protéger son île, menacée par l’érosion. Aujourd’hui, une forêt qui porte son nom s’étend sur plus de 500 hectares. Elle abrite une faune sauvage exceptionnelle. Surnommé \"Forest Man\", l’homme a transformé un territoire menacé en un refuge pour la biodive",
+      "url": "https://www.franceinfo.fr/environnement/l-incroyable-destin-de-forest-man-l-homme-qui-a-sauve-son-ile-de-l-erosion-en-plantant-sa-propre-foret-pendant-plus-de-40-ans_8256487.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-28T07:44:31+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "\"L'ingéniosité des trafiquants est sans limite\" : un Français au cœur d'une affaire de trafic international de cocaïne cachée dans du quinoa",
+      "summary_original": "De la cocaïne dissimulée dans du quinoa. Derrière ce procédé, un Français soupçonné d’être à la tête d’un réseau international de trafic de drogue. Soner Akca, surnommé \"El Francés\", a été arrêté en juin dernier à Medellín, en Colombie. Né en Seine-Saint-Denis, il aurait organisé un système de trafic entre plusieurs pays, avec des complicités en France.",
+      "url": "https://www.franceinfo.fr/societe/drogue/l-ingeniosite-des-trafiquants-est-sans-limite-un-francais-au-c-ur-d-une-affaire-de-trafic-international-de-cocaine-cachee-dans-du-quinoa_8256475.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-28T07:37:13+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "Le journaliste Bruno Meyerfeld remporte le prix Albert Londres 2026 pour ses reportages sur les peuples indigènes au Brésil",
+      "summary_original": "Ses articles, publiés par \"Le Monde\", s'inscrivent dans son travail \"largement consacré aux enjeux environnementaux\", relève le jury. Les prix de l'audiovisuel et du livre ont, eux, été décernés à Brice Lambert et Arthur Sarradin.",
+      "url": "https://www.franceinfo.fr/economie/medias/le-journaliste-bruno-meyerfeld-remporte-le-prix-albert-londres-2026-pour-ses-reportages-sur-les-peuples-indigenes-au-bresil_8256496.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-28T07:18:59+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "L'adolescente de 17 ans qui a perdu un œil à Mulhouse en marge de la mobilisation du 17 octobre va porter plainte",
+      "summary_original": "La jeune fille aurait été grièvement blessée en raison d'un projectile lancé par les forces de l'ordre pendant la manifestation, une enquête a déjà été confiée à l'IGPN.",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/l-adolescente-de-17-ans-qui-a-perdu-un-il-a-mulhouse-en-marge-de-la-mobilisation-du-17-octobre-va-porter-plainte_8256484.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-28T07:00:34+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "Après les pillages de commerces, plus de 1 700 annonces suspectes ont été supprimées des plateformes de revente en ligne, selon le gouvernement",
+      "summary_original": "En marge de la manifestation du 17 octobre, plus de 1 000 commerces avaient été pillés, saccagés ou incendiés, selon un bilan du réseau CCI France. Plusieurs centaines d'annonces font toujours l'objet d'investigations.",
+      "url": "https://www.franceinfo.fr/societe/manifestations/apres-les-pillages-de-commerces-plus-de-1-700-annonces-suspectes-ont-ete-supprimees-des-plateformes-de-revente-en-ligne-selon-le-gouvernement_8256394.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-28T06:45:53+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -85,66 +148,39 @@
       "state_media": false
     },
     {
-      "source": "franceinfo (France 2)",
-      "title_original": "Elections législatives en Israël : les premières estimations sont un désaveu \"complet\" pour Benyamin Nétanyahou, selon son rival Gadi Eisenkot",
-      "summary_original": "Le bloc de l'opposition au Premier ministre sortant est arrivé en tête mardi des premières élections législatives en Israël depuis le 7-Octobre, selon des sondages réalisés à la sortie des urnes.",
-      "url": "https://www.franceinfo.fr/monde/israel/direct-elections-legislatives-en-israel-tres-critique-le-premier-ministre-benyamin-netanyahou-joue-sa-survie-politique-dans-les-urnes_8254444.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-10-28T06:08:49+09:00",
-      "via": "rss",
+      "source": "TF1 Info",
+      "title_original": "Après les émeutes de 2023 : qui a vraiment payé les réparations ?",
+      "summary_original": "Après les émeutes de 2023 : qui a vraiment payé les réparations ? TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOUlOcF9RNTdzOU1XWGxCUXZPSklEX2VtYWZOVklVUVZqMHJlbmZNWEcxVjlSaExYS2ktd2xPcFc2Y1ZQZHY2NFFoaTM5QjNOMDdfa3BQNEN6S0NsRzBZTmVYT3A2UWdGUUlOREgzTEhFZ2ZzX3lYZjNhZ1djaVI0T1g2UElJTk9fYTIxVkdSV1QtWl9sNlFDdWhOTWlJRlpSMEdfcTdNWF9ZSFp3TmtoWV9jZlFRcW45TXdsUnJMNi0tUi05RjRlMFZ6bjg2cGszb0x3?oc=5",
+      "published": "2026-10-28T08:00:17+09:00",
+      "via": "google_news",
       "state_media": false
     },
     {
-      "source": "franceinfo (France 2)",
-      "title_original": "\"Nous avons été manipulés\" : des évêques catholiques américains s'excusent après une prière pour Donald Trump dans le Bureau ovale",
-      "summary_original": "Une vidéo postée jeudi sur X par la conseillère en communication du chef d'Etat américain a déclenché une polémique et certains membres du clergé présents accusent la Maison Blanche de récupération politique à quelques jours des midterms.",
-      "url": "https://www.franceinfo.fr/monde/usa/nous-avons-ete-manipules-des-eveques-catholiques-presentent-leurs-excuses-apres-la-diffusion-d-une-video-les-montrant-en-train-de-prier-pour-donald-trump-dans-le-bureau-ovale_8256025.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-10-28T05:39:34+09:00",
-      "via": "rss",
+      "source": "TF1 Info",
+      "title_original": "Multiplier les radars en ville : pour remplir les caisses de l'État ?",
+      "summary_original": "Multiplier les radars en ville : pour remplir les caisses de l'État ? TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRW95NENCcUtHem1SX1pobm5DMFFoVV9BUV9ZdmZ3ZDNXMkx2aG5iSlZ4UHNjRnZjYy11T2IxclM1LUpPSzFNQUJURVVGMzRWZm1DbUlCUTlWSk1HUjE3MHhIazBWOTlZUHZOR2F3NU5HUjRqSWVfLXJXZWpBZ0tHSkRhNC1hWHlnaEdycDNPLWZ3bEZyd2xZTllMQkxfcHJKNEZiUmpsNEFNTXpHM19xN0ZSd2Y0QUNRRktZRXV4bExtM19jNHozYWFwczVpamUxX09PZFI2dnY?oc=5",
+      "published": "2026-10-28T07:55:18+09:00",
+      "via": "google_news",
       "state_media": false
     },
     {
-      "source": "franceinfo (France 2)",
-      "title_original": "Le RN poursuit \"Le Monde\" en diffamation, dénonçant la publication d'une \"information mensongère\" sur l'attentat raciste dans les Yvelines",
-      "summary_original": "Le journal avait affirmé que des tracts du Rassemblement national avaient été retrouvés dans la voiture de Kévin T., le suspect de l'attaque terroriste. L'information a été démentie par le procureur national antiterroriste.",
-      "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/le-rn-poursuit-le-monde-en-diffamation-denoncant-la-publication-d-une-information-mensongere-sur-l-attentat-raciste-de-trappes_8255479.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-10-28T04:17:14+09:00",
-      "via": "rss",
+      "source": "TF1 Info",
+      "title_original": "Militants d'ultra-droite arrêtés à Nice : premières comparutions",
+      "summary_original": "Militants d'ultra-droite arrêtés à Nice : premières comparutions TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb0E5VUZlV25vR0VCS0NsNm5fNlhaM194LVpVQ1dBLTJqMFFWWTUzNTRuOTBYOVRZa2tDaDVEWlAySVFYMGppMTRiTjh1a2daWWgxdlRxbm96VGRWTWRuOGtxRHMxSmtqbmVtSUVwa0R2S01QdDNJRGdKVHFRa1Q1UlRacnE0U0ZrVFBPdzRZaEpyX1BWYkJJM0liSEhDenJwTVJlUWpnVGI0QkFvM3F4NTJkSFZlRV9weHk0akZ5cUlWTXFLdnF0WEstY3FoR3BLendLcQ?oc=5",
+      "published": "2026-10-28T07:40:18+09:00",
+      "via": "google_news",
       "state_media": false
     },
     {
-      "source": "franceinfo (France 2)",
-      "title_original": "Le grand magasin parisien BHV Marais demande son placement en redressement judiciaire",
-      "summary_original": "L'emblématique enseigne du centre de la capitale, qui a changé de direction en juin, entend \"sécuriser son plan de relance\" grâce à cette procédure, qui ne constitue pas selon elle le signe d'un \"échec\".",
-      "url": "https://www.franceinfo.fr/economie/entreprises/le-grand-magasin-parisien-bhv-marais-demande-son-placement-en-redressement-judiciaire_8256289.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-10-28T04:12:35+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "franceinfo (France 2)",
-      "title_original": "Le prix Décembre 2026 est attribué à Anne Godard pour \"Nous aussi\"",
-      "summary_original": "Il s'agit du troisième texte de cette professeure de littérature à la Sorbonne, paru dix ans après le dernier.",
-      "url": "https://www.franceinfo.fr/culture/livres/prix-litteraires/le-prix-decembre-2026-est-attribue-a-anne-godard-pour-nous-aussi_8255944.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-10-28T03:04:08+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "franceinfo (France 2)",
-      "title_original": "#SauvonsLaLecture : le monde du livre se mobilise contre la \"baisse historique\" des aides à la lecture",
-      "summary_original": "Parmi les signataires, figurent le Syndicat de la librairie française, le Syndicat de l'Edition, la Société des gens de lettres, l'Association des bibliothécaires de France ou l'Union des photographes professionnels.",
-      "url": "https://www.franceinfo.fr/culture/livres/sauvonslalecture-le-monde-du-livre-se-mobilise-contre-la-baisse-historique-des-aides-a-la-lecture_8256235.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-10-28T02:51:11+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "franceinfo (France 2)",
-      "title_original": "Trois hommes condamnés pour injure publique raciste contre un journaliste du quotidien \"Ouest-France\"",
-      "summary_original": "L'histoire remonte à 2021, lorsque le leader du groupuscule identitaire L'Alvarium, désormais dissous, avait critiqué la couverture par \"Ouest-France\" des activités de son mouvement, citant nommément un journaliste d'origine guadeloupéenne.",
-      "url": "https://www.franceinfo.fr/economie/medias/trois-hommes-condamnes-pour-injure-raciste-contre-un-journaliste-du-quotidien-ouest-france_8256178.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-10-28T02:42:36+09:00",
-      "via": "rss",
+      "source": "TF1 Info",
+      "title_original": "Manifestant mort le 17 octobre à Paris : l'autopsie conclut à une \"défaillance cardiorespiratoire\"",
+      "summary_original": "Manifestant mort le 17 octobre à Paris : l'autopsie conclut à une \"défaillance cardiorespiratoire\" TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZU93NDY2T0haaUpVWGt2N1lNek5MdXZVMHo2eTR1eFppMHRwaFlVc1ZUeUtBOEtJZExPRmpCdHZqclBoUlE3Y2RqZjlXekJSenI5OTlDTW9pMlVXdm5IcXpELS1hZngwSjlDTC1SWXplbGFyOEtPcTNRbG1wcFhvb1NuRk5YU3Q0Tm55dGcxNlA1OHRCX0FjcW12dXhyQnJGbFJQb0pqSXNOZFJ5aWJqbGxuclBoMHpWNjF2Vll3X3RmZFZITTlucmpUNUxZX3JwZWU1aHJVMVZvZFNEaEs4TzROM1VIUQ?oc=5",
+      "published": "2026-10-28T06:12:36+09:00",
+      "via": "google_news",
       "state_media": false
     },
     {
@@ -158,19 +194,19 @@
     },
     {
       "source": "TF1 Info",
-      "title_original": "Législatives en Israël : le bloc d'opposition à Benyamin Netanyahou en tête, mais sans majorité",
-      "summary_original": "Législatives en Israël : le bloc d'opposition à Benyamin Netanyahou en tête, mais sans majorité TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORFlTWEN1aHlVRm5ZZ2tjT0JNQnBOc0ZJWHpOVXp6YW9HdjM2ZVNIamJRRGhjQ08yZl9RdkJmbVdOVkh4cmxaYVVjdS05SkFteEFHZEM4akhCX0h4U2lTYXhKMVFjdFBmZUZHQ0pndTVIc18zSndDZDZNMzUtSVFhSV9zRVNaczk5SWdyYVZJNXhtZW9wZy1yYUFfeDVSR3hpQ1FoZ0xUU01rS05DaGJibkJVVzJ6cElwaDBOX3VFZUxPMi1LUW93dXU0MS1aUUptTnZjaHlxRGYtZw?oc=5",
-      "published": "2026-10-28T05:42:16+09:00",
+      "title_original": "Violences urbaines : comment faire payer les casseurs",
+      "summary_original": "Violences urbaines : comment faire payer les casseurs TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWjF0N1FtYnpOU2FpR1Zyd0t2Y0Fsemw3dURIb3FJNGRFVmpISUZxOUJwLVFKODJ4ZFRyMXRPdUdQb2FiTWJmbVRkYjBBOU1LbmpPUkFlNVYzam1mZXIyZWttOGc5UU1GYlFwMFk3SDB4RjdtNUxRNGJMMDRnSGlGWGJIOERiN2dfTzdRY09pSXJBOXphWHktU095X3RRMW9UWHVtcUlpNWY5MThPSWt6dTEySEw?oc=5",
+      "published": "2026-10-28T05:55:11+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "TF1 Info",
-      "title_original": "\"44% des automobilistes ne savent pas\" : quels sont les équipements autorisés dans le cadre de la loi Montagne",
-      "summary_original": "\"44% des automobilistes ne savent pas\" : quels sont les équipements autorisés dans le cadre de la loi Montagne TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdm9JVC1teFpudUZ3RWNKdzBRaXRiaEd4NnpSNGJ1SHZWdzNOZVlxM04yal9qVHR0LWNVd0lkV1g1cDVKZVRtSFM2SWJfS0Y0aTBxamhwN3ZsVUVmVGdUd0duNTgxZjBRb2FUekJnMkFMaU42cUVJQWw4QjF4clg5ZjZuQ1g3VE16ZTBzRm4xNVIwZlZxdHI4bUVGcDJSS21fSC1HREFkTll4Tml2dXd5MnhUTExUWlVTSFFieUtRbnhQQjJEME5jZFh5X204VDUzQ01ULVFWemFfczFNZXZZX0Nod3BUM1U?oc=5",
-      "published": "2026-10-28T05:30:01+09:00",
+      "title_original": "Ultradroite à Nice : au tribunal, les 10 prévenus nient en bloc avoir participé aux affrontements du 24 octobre",
+      "summary_original": "Ultradroite à Nice : au tribunal, les 10 prévenus nient en bloc avoir participé aux affrontements du 24 octobre TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNcmZxRFNPcDRxblNONU9CRmpzaWZDNjdhTkRWVlJPb1ZRc010Ump3Yi1NZFRneXZxMlpuSUtTYndTbTFnamk5MHY5QUNaU18yRzQ3d3pxXzFERnJuY2duUDZ4RUk2VVJzY3g5MjBCN25IZDNxMk1ldFN1NWxqVndrWFUzOXJTbURsam5NaVBZenVtRC00R2J6aGkwdTlpWVU4RnJRZTlhcF9HWXpWbFlyZHdpNGx4WGZCZzU4XzdBaXRsWXI1bWdQOGVuMEhOMm1xSHg2Ql9CZHZPQVp0MFR5OTg4enY4LWdtY1JOUkN1Tk1ESjdpYW1FcUR1dHYwdWlnRXc?oc=5",
+      "published": "2026-10-28T05:49:22+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -184,110 +220,119 @@
       "state_media": false
     },
     {
-      "source": "TF1 Info",
-      "title_original": "17 tonnes de bois dérobés : mystérieux vols en série dans le Doubs",
-      "summary_original": "17 tonnes de bois dérobés : mystérieux vols en série dans le Doubs TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdk1fUE1Jc0lsMDZUUVU4U3pacjhrbU1pd2gxRFBVV1NBeVZVQWVtNXRjTjRYR2RXc2JBQ1hkX2hwdHA2OVhWSFVVdUg2UUpfM0pzb3NJU2tuUmJHMkZXMmRpT1F6S3QzMG9YTThSUEdVdzE0SmFlNVhPb3E1clRQVlR2eHBCNkktbEZxeXh6d3FraFpBa3NZd0puamlKb1FCcGNVNTQ1R3QwRm5PRW5SNnRKTlZuRUVSTE0xcThCZ2dGOEZ0MnVvYUtfRE8yXzNMQVl2NDNhMA?oc=5",
-      "published": "2026-10-28T05:10:22+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "\"Au début, la personne est traitée comme un prince ou une princesse\" : une psychologue explique pourquoi des personnes restent dans une relation qu'elles savent toxiques",
-      "summary_original": "\"Au début, la personne est traitée comme un prince ou une princesse\" : une psychologue explique pourquoi des personnes restent dans une relation qu'elles savent toxiques TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQaHZTOHhqa1BaMmc3NWl1TkZlaEtaeHhEN2ljdEF4elp3Yl9MNldzSEFUVWR3WkY3N1FzZTlxZElWUnY5a3Y4eTJjYUp0ODFjUlpMNTl2M3REOW5FbHc2ZUZLYl9LbG5xMkhXRzE0RmQ2T25PN1A5ZXNDUzdLVjVjckVya0F3UXphNy03YzU5OTdkUnhpUDd2S1RuREJ4ajI4UDVIUDlOSFByX1JqTWRsTkJ4MG04OG5wc0kzYWVTSmpWS0xldGhiX0JsaDUtcVVBdlN2Qk45MmkxOUx6aW5WVjRPWG1fUTl0U0tXODdjY2FJX0Nyd3E5dURiWXdJb3BzeE5sa1dqenJrWmY2X3dZZ0d4allZYUszSEhKZmtJc2NRUklPbkVGc2VlS0NuSFhHVXc?oc=5",
-      "published": "2026-10-28T05:00:49+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "VÉRIF' - Une ado de 16 ans a-t-elle vraiment inventé un appareil capable d'éteindre un feu rien qu'avec du son",
-      "summary_original": "VÉRIF' - Une ado de 16 ans a-t-elle vraiment inventé un appareil capable d'éteindre un feu rien qu'avec du son TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcXE4UnI5Vy1PWHZuTmJFYzNjMGRtV2VFQmdDdTA1X1pEWUVzNXdITTJRN3lGQWF0Qlp0bzlWOGJQYmtqaUN6bzh6dTl0TUx6Mlh6czhyeFY5RXgtVmFjR0VmWHVFQVducFcxYTBybk14UG93d2xWQmZWdTdOODhZRVBIemRIdnhlMTBucjhRY3VpNFRSZlZaVjdDa19Gd2R0VXQ0amRmOVd5eXVGTnFfYVB1aTlhcnQxLU9SbmVacHFQYTk0RVV5dEJZNDlDTXFXT19YMEtRNGlhM2NsN1JLVms3Q3RVNjZMZ25QOEt3?oc=5",
-      "published": "2026-10-28T05:00:37+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "Après les émeutes de 2023 : qui a vraiment payé les réparations ?",
-      "summary_original": "Après les émeutes de 2023 : qui a vraiment payé les réparations ? TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOUlOcF9RNTdzOU1XWGxCUXZPSklEX2VtYWZOVklVUVZqMHJlbmZNWEcxVjlSaExYS2ktd2xPcFc2Y1ZQZHY2NFFoaTM5QjNOMDdfa3BQNEN6S0NsRzBZTmVYT3A2UWdGUUlOREgzTEhFZ2ZzX3lYZjNhZ1djaVI0T1g2UElJTk9fYTIxVkdSV1QtWl9sNlFDdWhOTWlJRlpSMEdfcTdNWF9ZSFp3TmtoWV9jZlFRcW45TXdsUnJMNi0tUi05RjRlMFZ6bjg2cGszb0x3?oc=5",
-      "published": "2026-10-28T04:55:16+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
       "source": "BFMTV",
-      "title_original": "Renforcer notre souveraineté sur l’IA - 27/10",
-      "summary_original": "Ce mardi 27 octobre, Damien Lucas, directeur général de Scaleway, s'est penché sur le renforcement de notre souveraineté sur l’IA, dans l'émission Tech&Co Business présentée par Frédéric Simottel. Tech&Co Business est à voir ou écouter le mardi sur BFM Business.",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/01-business/video-renforcement-de-notre-souverainete-sur-l-ia-27-10_VN-202610270863.html",
-      "published": "2026-10-28T05:51:54+09:00",
+      "title_original": "Violences du 17 octobre: Édouard Philippe estime que \"l'échec de l'intégration\" depuis \"plusieurs décennies est incontestable\"",
+      "summary_original": "Commentant les violences survenues en France lors du week-end des 17 et 18 octobre, Édouard Philippe, candidat Horizons à l'élection présidentielle, a affirmé que \"l'échec de l'intégration\" depuis \"plusieurs décennies est incontestable\".",
+      "url": "https://www.bfmtv.com/politique/horizons/violences-du-17-octobre-edouard-philippe-estime-que-l-echec-de-l-integration-depuis-plusieurs-decennies-est-incontestable_AD-202610270924.html",
+      "published": "2026-10-28T08:00:01+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "\"Comme d'autres, Gérard Larcher peut incarner ce rassemblement\": Yaël Braun-Pivet plaide pour \"un candidat unique\" du centre et de la droite le \"plus vite\" possible",
-      "summary_original": "La présidente de l'Assemblée nationale appelle à \"travailler avec les candidats du socle commun déjà déclarés, du MoDem à la droite républicaine\" pour qu'émerge une candidature unique pour 2027.",
-      "url": "https://www.bfmtv.com/politique/parlement/comme-d-autres-gerard-larcher-peut-incarner-ce-rassemblement-yael-braun-pivet-plaide-pour-un-candidat-unique-du-centre-et-de-la-droite-le-plus-vite-possible_AD-202610270859.html",
-      "published": "2026-10-28T05:50:36+09:00",
+      "title_original": "Lycées, facs : le gouvernement n'éteint pas la colère - 27/10",
+      "summary_original": "Chaque soir, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.",
+      "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-lycees-facs-le-gouvernement-n-eteint-pas-la-colere-27-10_VN-202610270920.html",
+      "published": "2026-10-28T07:49:01+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Laurent Guengant (Biomemory) : Biomemory lance la conservation de données sur ADN - 27/10",
-      "summary_original": "Laurent Guengant, PDG de Biomemory, était l'invité de François Sorel dans Tech & Co, la quotidienne, ce mardi 27 octobre. Il s'est penché sur le lancement de la conservation des données informatiques sur ADN, sur BFM Business. Retrouvez l'émission du lundi au jeudi et réécoutez la en podcast.",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-laurent-guengant-biomemory-biomemory-lance-la-conservation-de-donnees-sur-adn-27-10_VN-202610270855.html",
-      "published": "2026-10-28T05:38:43+09:00",
+      "title_original": "Mobilisation du 31 octobre, colère lycéenne: \"L'inquiétude est palpable et elle est entendable\", explique Céline Géraud, porte-parole de la campagne de Gabriel Attal",
+      "summary_original": "Le mouvement des gilets jaunes a appelé à une nouvelle mobilisation le samedi 31 octobre lors d'une conférence de presse organisée place de la Bastille ce samedi 24 octobre, peu avant le début de la manifestation contre la vie chère et pour les revendications lycéennes.",
+      "url": "https://www.bfmtv.com/politique/video-mobilisation-du-31-octobre-colere-lyceenne-l-inquietude-est-palpable-et-elle-est-entendable-explique-celine-geraud-porte-parole-de-la-campagne-de-gabriel-attal_VN-202610270917.html",
+      "published": "2026-10-28T07:32:48+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Jérôme Doncieux (Majelan X) : Majelan X veut révolutionner l'audio embarqué - 27/10",
-      "summary_original": "Jérôme Doncieux, fondateur et PDG de Majelan X, était l'invité de François Sorel dans Tech & Co, la quotidienne, ce mardi 27 octobre. Il s'est penché sur la volonté de l’entreprise de révolutionner l’audio embarqué sur BFM Business. Retrouvez l'émission du lundi au jeudi et réécoutez-la en podcast.",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-jerome-doncieux-majelan-x-majelan-x-veut-revolutionner-l-audio-embarque-27-10_VN-202610270852.html",
-      "published": "2026-10-28T05:37:35+09:00",
+      "title_original": "Pouvoir d'achat, carburants... Les démocrates américains imposent leurs thèmes dans la campagne des midterms",
+      "summary_original": "Les élections de mi-mandat se tiennent le 3 novembre prochain aux États-Unis. Décryptage avec Antoine Heulard, correspondant de BFMTV aux États-Unis, de la campagne menée par les démocrates.",
+      "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-pouvoir-d-achat-carburants-les-democrates-americains-imposent-leurs-themes-dans-la-campagne-des-midterms_VN-202610270911.html",
+      "published": "2026-10-28T07:23:22+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "\"C'est une mobilisation sociale, par bien des aspects, exceptionnelle\", assure Olivier Besancenot, membre du NPA",
-      "summary_original": "Olivier Besancenot, membre du Nouveau Parti anticapitaliste et ancien candidat à la présidentielle, était l'invité de BFM ce mardi 27 octobre.",
-      "url": "https://www.bfmtv.com/politique/video-c-est-une-mobilisation-sociale-par-bien-des-aspects-exceptionnelle-assure-olivier-besancenot-membre-du-npa_VN-202610270849.html",
-      "published": "2026-10-28T05:36:33+09:00",
+      "title_original": "Résultats EuroMillions: le tirage du mardi 27 octobre 2026",
+      "summary_original": "Le premier tirage de l'EuroMillions de la semaine a été effectué ce mardi 27 octobre 2026. Les numéros sont disponibles dans cette page pour les joueurs qui souhaitent vérifier s'ils ont gagné.",
+      "url": "https://www.bfmtv.com/loto/resultats-euro-millions-le-tirage-du-mardi-27-octobre-2026_AN-202610270623.html",
+      "published": "2026-10-28T07:20:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Le Débrief de la tech - Mardi 27 octobre",
-      "summary_original": "Ce mardi 27 octobre, François Sorel a reçu Thomas Serval, PDG de Baracoda, Michel Levy Provençal, fondateur de Qapten, et Christophe Aulnette, senior advisor chez Seven2 et ancien président de Microsoft France et Asie du Sud, dans l'émission Tech & Co, la quotidienne. Retrouvez l'émission du lundi au jeudi et réécoutez la en podcast.",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-le-debrief-de-la-tech-mardi-27-octobre_VN-202610270861.html",
-      "published": "2026-10-28T05:33:31+09:00",
+      "title_original": "À six mois de la présidentielle, le pays en \"ébullition\" - 27/10",
+      "summary_original": "Chaque soir, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.",
+      "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-a-six-mois-de-la-presidentielle-le-pays-en-ebullition-27-10_VN-202610270912.html",
+      "published": "2026-10-28T07:18:02+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Louis Aliot appelle Bruno Retailleau et David Lisnard à rejoindre le RN pour la présidentielle",
-      "summary_original": "Pour Louis Aliot, vice-président du RN, LFI \"pousse à la division du pays et sont dans la violence\". Invité de BFMTV ce mardi 27 octobre, le maire RN de Perpignan est revenu sur la séance de questions au gouvernement houleuse qui a eu lieu plus tôt dans la journée. Alors que le député RN Sébastien Chenu, parle de l'attentat raciste commis à Trappes et présente ses \"condoléances\" à la famille du je",
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-louis-aliot-appelle-bruno-retailleau-et-david-lisnard-a-rejoindre-le-rn-pour-la-presidentielle_VN-202610270851.html",
-      "published": "2026-10-28T05:32:18+09:00",
+      "title_original": "Marschall Truchot : Colère sociale, vers un hiver explosif ? - 27/10",
+      "summary_original": "Marschall Truchot, du lundi au jeudi de 17h à 18h45 avec Olivier Truchot & Alain Marschall. Deux heures pour faire un tour complet de l’actualité en présence d’invités pour expliquer et débattre sur les grands sujets qui ont marqué la journée.",
+      "url": "https://www.bfmtv.com/replay-emissions/bfm-story/video-marschall-truchot-colere-sociale-vers-un-hiver-explosif-27-10_VN-202610270910.html",
+      "published": "2026-10-28T07:16:12+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Le Tech Flash : Nvidia va investir trois milliards de dollars dans Meta, par Léa Benaim - 27/10",
-      "summary_original": "Ce mardi 27 octobre, dans Le Tech Flash, Léa Benaim s'est penchée sur l’investissement de trois milliards de dollars de Nvidia dans Meta, le nouveau report de la conduite autonome de Tesla, la reconnaissance par Apple d’un problème d’écran sur l’iPhone Duo, la signature d’un accord entre la compagnie EasyJet et Starlink, ainsi que sur l’attaque d’Anthropic par les ayants droit d’Elvis Presley. Cet",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-le-tech-flash-nvidia-va-investir-trois-milliards-de-dollars-dans-meta-par-lea-benaim-27-10_VN-202610270846.html",
-      "published": "2026-10-28T05:26:42+09:00",
+      "title_original": "\"Je trouve ça d'une indécence crasse\": Arthur Delaporte, député PS, reivent sur la séance houleuse à l'Assemblée concernant l'attentat raciste dans les Yvelines",
+      "summary_original": "Arthur Delaporte, député PS du Calavados et porte-parole du groupe à l'Assemblée, était l'invité de BFM de ce mardi 27 octobre.",
+      "url": "https://www.bfmtv.com/politique/parti-socialiste/video-je-trouve-ca-d-une-indecence-crasse-arthur-delaporte-depute-ps-reivent-sur-la-seance-houleuse-a-l-assemblee-concernant-l-attentat-raciste-dans-les-yvelines_VN-202610270901.html",
+      "published": "2026-10-28T07:07:14+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Egypte : la journaliste Lina Attalah, directrice du média indépendant « Mada Masr », libérée après le paiement d’une amende",
+      "summary_original": "A l’issue d’une unique audience, un tribunal a ordonné la fermeture du site Internet et imposé une amende de près de 49 000 euros, pour l’avoir exploité « sans licence ». Il s’agit de la sixième affaire visant Lina Attalah et le média « Mada Masr » en six ans, mais aucune n’avait jusque-là abouti à un procès.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/10/27/egypte-la-journaliste-lina-attalah-directrice-du-media-independant-mada-masr-liberee-apres-le-paiement-d-une-amende_6801280_3213.html",
+      "published": "2026-10-28T07:27:58+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "EN DIRECT, législatives en Israël : les premières estimations favorables à l’opposition, mais l’incertitude sur une future majorité est complète",
+      "summary_original": "Les bureaux de vote ont fermé à 22 heures locales (21 heures à Paris), après une journée de vote marquée par une participation historique.",
+      "url": "https://www.lemonde.fr/international/live/2026/10/27/en-direct-legislatives-en-israel-les-premieres-estimations-favorables-a-l-opposition-mais-l-incertitude-sur-une-future-majorite-est-complete_6801217_3210.html",
+      "published": "2026-10-28T06:53:26+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Pourquoi le BHV demande sa mise en redressement judiciaire aux juges de Lyon",
+      "summary_original": "L’enseigne parisienne s’est tournée vers la préfecture du Rhône pour se placer sous la protection de la justice. Au grand dam de ses 700 salariés.",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/27/pourquoi-le-bhv-demande-sa-mise-en-redressement-judiciaire-aux-juges-de-lyon_6801349_3234.html",
+      "published": "2026-10-28T06:45:10+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Mort d’un manifestant le 17 octobre à Paris : l’autopsie conclut à « une défaillance cardiorespiratoire aiguë » ; la famille dénonce l’usage de gaz lacrymogène",
+      "summary_original": "Lundi, l’avocat de la famille de Christophe M. a déposé plainte contre les forces de l’ordre pour « violences volontaires par personne dépositaire de l’autorité publique ayant entraîné la mort sans intention de la donner ».",
+      "url": "https://www.lemonde.fr/societe/article/2026/10/27/mort-d-un-manifestant-le-17-octobre-a-paris-l-autopsie-conclut-a-une-defaillance-cardiorespiratoire-aigue-la-famille-denonce-l-usage-de-gaz-lacrymogene_6801348_3224.html",
+      "published": "2026-10-28T06:39:49+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Avec le projet de loi « casseurs-payeurs », le gouvernement veut pouvoir censurer les appels à la violence sur les réseaux sociaux",
+      "summary_original": "L’exécutif souhaite avoir la possibilité de recourir au blocage administratif des sites et plateformes sur lesquels sont diffusées des invitations à la violence. Depuis sa mise en place, en 2014, cette procédure permettant de bloquer un site sans décision de justice a déjà été étendue plusieurs fois.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/10/27/avec-le-projet-de-loi-casseurs-payeurs-le-gouvernement-veut-pouvoir-censurer-les-appels-a-la-violence-sur-les-reseaux-sociaux_6801347_4408996.html",
+      "published": "2026-10-28T06:24:16+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -319,137 +364,110 @@
       "state_media": false
     },
     {
-      "source": "Le Monde",
-      "title_original": "Le prix Albert Londres de la presse écrite attribué à Bruno Meyerfeld pour ses reportages dans « Le Monde »",
-      "summary_original": "Brice Lambert, dans la catégorie audiovisuelle, et Arthur Sarradin, dans celle consacrée aux livres, ont également été récompensés, mardi, à Paris.",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/27/le-prix-albert-londres-de-la-presse-ecrite-attribue-a-bruno-meyerfeld-pour-ses-reportages-dans-le-monde_6801340_3234.html",
-      "published": "2026-10-28T04:08:26+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "France 2030 : le grand plan d’Emmanuel Macron face à un « mur budgétaire », alerte la Cour des comptes",
-      "summary_original": "Lancé « sans réflexion suffisante » en 2021 et déployé très vite, le plan d’avenir commence à se heurter à de fortes contraintes financières. De nombreux investissements ont été décidés, mais l’argent public risque de manquer pour les concrétiser.",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/27/france-2030-le-grand-plan-d-emmanuel-macron-face-a-un-mur-budgetaire-alerte-la-cour-des-comptes_6801339_3234.html",
-      "published": "2026-10-28T04:00:04+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "Une intolérable campagne de haine",
-      "summary_original": "",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/27/une-intolerable-campagne-de-haine_6801338_823448.html",
-      "published": "2026-10-28T03:33:32+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "A la Martinique, dans une colonie de vacances pilotée par le Théâtre national de Chaillot, on apprend la danse, l’équilibre, le respect et la confiance",
-      "summary_original": "Depuis 2022, des artistes circassiens et des animateurs-éducateurs encadrent, forment et sensibilisent des préadolescents de deux collèges de l’île à la danse et à l’acrobatie, durant les vacances scolaires.",
-      "url": "https://www.lemonde.fr/culture/article/2026/10/27/a-la-martinique-dans-une-colonie-de-vacances-pilotee-par-le-theatre-national-de-chaillot-on-apprend-la-danse-l-equilibre-le-respect-et-la-confiance_6801337_3246.html",
-      "published": "2026-10-28T03:30:05+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "EN DIRECT, guerre en Ukraine : un centre de maintenance de missiles Patriot, utilisés par Kiev et par l’OTAN, va être implanté en Pologne",
-      "summary_original": "C’est une « décision historique », s’est réjouie Magdalena Sobkowiak, la vice-ministre de la défense polonaise. Le coût du projet s’élèvera à 230 millions d’euros et sa mise en place prendra plusieurs mois, a-t-elle ajouté, précisant que la Pologne espérait ensuite pouvoir produire ces missiles.",
-      "url": "https://www.lemonde.fr/international/live/2026/10/27/en-direct-guerre-en-ukraine-un-centre-de-maintenance-de-missiles-patriot-utilises-par-kiev-et-par-l-otan-va-etre-implante-en-pologne_6799896_3210.html",
-      "published": "2026-10-28T03:20:01+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
       "source": "Les Echos",
-      "title_original": "Historique Actions GlucoTrack - GCTK US45824Q8794",
-      "summary_original": "Historique Actions GlucoTrack - GCTK US45824Q8794 Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTi1DbmVMWEpFcFdTTS1EUkRqMzJTNTRNU0RJdy1GbW0zeEZEbHUzc1FuUXhPcFVIOVkxeEdNYzBNakc3OXlHVjVNQTJibU9jTlRlMGl6QVZHZmdOZkZKVFZVTGlwX0VVMTFySTNpcDJua2I0RDBfNTBaeHhXT1lZTGdlM3VYcTg2SDR0NFE1djc?oc=5",
-      "published": "2026-10-28T04:05:00+09:00",
+      "title_original": "Cours Obligations 4.765 Marseil 34 -S - 4.765 Marseil 34 -S FR001401BSH2",
+      "summary_original": "Cours Obligations 4.765 Marseil 34 -S - 4.765 Marseil 34 -S FR001401BSH2 Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd2NqNjJvbWlwRWpaN3BHemxIZzE0Ynp2MzFUX3F3ZFlXa3pDeHRmcjBjdFQyOHVCNzJKTGtjelBCSUVfeHJzUGd3NjJKOVphQ3JGSnRZMXV1dUI1ZU5iY0lpcWZ4UUcxd3lGb0x4R1pJSFVmc1NmYV9meERHdUJ5dGlvdXB0NFR4UGE4?oc=5",
+      "published": "2026-10-28T08:12:50+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Les Echos",
-      "title_original": "Société Actions MSG Knicker - MSGK US55825T1034",
-      "summary_original": "Société Actions MSG Knicker - MSGK US55825T1034 Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVllPdTJjXzFCVmtyd2FUR205dmM0OGc2b1kzVGVwNG9IMTc1eWIyS0NIenEyOXRIV2NOYW53UVlPNVpueHFnOG9kaWdXdTJRNFItQk9rQXRQVURCTDdyRFVnclg1RnNwaWVEWDY2QU1hNWxBZXd1dEo5RG9ITzI1bFBWR3NETUNKNExIRmxB?oc=5",
-      "published": "2026-10-28T04:02:00+09:00",
+      "title_original": "Cours Obligations Auto ABS 26 38 ABS - Auto ABS 26 38 ABS FR001401AYQ3",
+      "summary_original": "Cours Obligations Auto ABS 26 38 ABS - Auto ABS 26 38 ABS FR001401AYQ3 Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcS1ReDE5RXE4WEhkRjFpVG1SZ1dxQ3JDWWRuQ25Od0YxeXRtdUxLQkFZZnNieDhCUGgwNmpqanRGdER4NHI0WlNYOVNpNDM3bW9wOWJzMGYxZU9CdlhfRU0ta3VKTUdXUFh2bWxEVnplYXZsaEZWZE1UbnBxTFZaaXVqZFZXc0liR2Vr?oc=5",
+      "published": "2026-10-28T08:12:50+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Les Echos",
-      "title_original": "Analyse technique Actions MSG Knicker - MSGK US55825T1034",
-      "summary_original": "Analyse technique Actions MSG Knicker - MSGK US55825T1034 Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV1NlWDl6NS10RV9fR2VHRHVVT3BSZVZfZTB4eHpRZ3prZzUyMDIxYjM4WF9lS3hKYmd1eGV6MWxaQklpeDBlSWlPVG1VN1ZqYm9TeGdVQ2o3QzdrdTY4QmprbmpOemZzM3pEQ0JmNHFSdGNyNkdrWmpEQkRhYWlxLVZ0WjhLSENua1VUUVhxd2lSdHZrLURRZ3o0cw?oc=5",
-      "published": "2026-10-28T04:02:00+09:00",
+      "title_original": "Cours Obligations 0 CA CONSUMER 28 CD - 0 CA CONSUMER 28 CD FR0130064555",
+      "summary_original": "Cours Obligations 0 CA CONSUMER 28 CD - 0 CA CONSUMER 28 CD FR0130064555 Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTzc0LWhWTm5vck9kSkNvNXByTVR6Y3I2NmdpSlRmUjF1OVJKSjk1MWNWZFNhc084bkk4c1RRZHBDeW03MHlmTUFLeUVuelVabU5TZGNYc0UwT3ZBcFppSlJ0a3JRR0lQLW9aeHhocnlUMTdBa0p1LWpLcy00WF93ZzFuTXhXX3Bfd3JDWQ?oc=5",
+      "published": "2026-10-28T08:12:50+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Les Echos",
-      "title_original": "Historique Actions Aetherion - GBBWD70R8 CA00809Q1054",
-      "summary_original": "Historique Actions Aetherion - GBBWD70R8 CA00809Q1054 Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeUVzc21ETlVzaWUzLWwtMUNBMWRzak1NZEFkTkVGcGw5VkRYaEVxZW03T2pnVUJjQkJtRlZBUENKcG5GN2xNWGZDeFNUVUFGRnRKR1JJQk92SnJPUk9UQ1VLNUs1QXVBOEpSTlJBdmtTOW1Ya0d2QlAyUE1SLVl6TDhrc1BrQmZrZ192YlBWbUhtekVSNEE?oc=5",
-      "published": "2026-10-28T04:01:00+09:00",
+      "title_original": "Cours Obligations 4.982 Marseil 36 -S - 4.982 Marseil 36 -S FR001401BSI0",
+      "summary_original": "Cours Obligations 4.982 Marseil 36 -S - 4.982 Marseil 36 -S FR001401BSI0 Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUzVDUFI0TzllcC1mUXhFVXFoTVUwbmk3NW9ob2cybGNXVWVpZkFWaWdVdm95RXN5bGhRc29qRXlmLUMwSnd4bThQZVAwbXk4bHdzZ29CczQxV3U2WXJxenlzbEVqU2l4cGlTNGU3SkF4ZHZtdmI0LU91cGNuRVlPYkY5N1YweFBRTTJV?oc=5",
+      "published": "2026-10-28T08:12:50+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Les Echos",
-      "title_original": "Société Actions Envoy Med - COCH US29415V3078",
-      "summary_original": "Société Actions Envoy Med - COCH US29415V3078 Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTWxUSE5MdHVfOHNqSWtGUXh2ZTUxYi1QVzlLdGV4VUlzTXVpdFFDOVBpOEtlcVZpSUxOZjhnN0xXUkNxSGVJaE1wMEhfbzliTG9qcjV4Rk5OZ1hHalNZaWhub3dWS2xMR2JyUHo3UXVUai16MlliLXhDYlZia3VVSWVSRFRTN2JtMjNN?oc=5",
-      "published": "2026-10-28T04:00:00+09:00",
+      "title_original": "Cours ETF iShares III PLC - iShares Global Defence & Security Active UCITS ETF - DSEC IE000VXXM2N0",
+      "summary_original": "Cours ETF iShares III PLC - iShares Global Defence & Security Active UCITS ETF - DSEC IE000VXXM2N0 Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWGEzQ3FQdkc5NlQ2SDBJSGk5OE1zTXVEN2tQbHRqZjd4NW1LeDdkaWstQnBZZlo3WG0yRjZoV1pqbFMyM1R6eUl4a0NhbFlBUHpIX3BGT2tIUnZRNTZDZWFxZlRLeVVRYkhUc1hQSVFGUkxPQ3V3ZUtrc0lYSnJVSjI4QmlRMTY0am1LN0lwTU4yMTJ0ODBCSlFtdVdRVU5BWWFVaEJsM0c3aDVmaTFFdTV3STFmQnl0R2ZZbUJnc2xJOURv?oc=5",
+      "published": "2026-10-28T07:42:48+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Les Echos",
-      "title_original": "Actualités & conseils Actions China SXT Pharm - SXTC VGG2161P1817",
-      "summary_original": "Actualités & conseils Actions China SXT Pharm - SXTC VGG2161P1817 Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd2FfWHRTU1JEeWF3cHZxN3ZodG0xc2VaWTQyZE1FeEs1bVIwc0tqTC1RdnVoNnNHX0JyR2Y2a3UyYjRSeTdvZVdvNEhEVGltZXNZMmNKU2pkWTdRUWpNRDFiTEZMcXVPbl9ER3lyZHdGLWxtcVBQUmZSZzVXMm1fdVN3MEZscmN4ZnRjWkJQaWh0WHAtRmd1SksxaE5rWUtZdG5F?oc=5",
-      "published": "2026-10-28T03:59:00+09:00",
+      "title_original": "Elections en Israël : pourquoi la défaite de Netanyahou est proche mais pas certaine",
+      "summary_original": "Elections en Israël : pourquoi la défaite de Netanyahou est proche mais pas certaine Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ1dhSURxNEVjWHNqZ0hsTU9EUnRaZHo2cDZVV2VLR1VpMG00ZnpfU1llU2h0X21oQmpqT2gwSDRsRFJsVTV1MFBwNTNWYWtXRlZyWHV0X2EybWR5LWIxT3dRR2ZzRF9LQ3p1SWtkS1Bsd2pqdllrT2k0Y1FKbDhlNVlWanZ4VXVxVzJGdHlBLVJjVGsyT0UtOXMxaXZPZzh0ckRxZjBkQS1Ua3ZYU3VDdjZzVDN0RDJJbmRrTlFB?oc=5",
+      "published": "2026-10-28T07:05:16+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Les Echos",
-      "title_original": "Actualités & conseils Actions Biodexa Ph - BDRX US59564R8640",
-      "summary_original": "Actualités & conseils Actions Biodexa Ph - BDRX US59564R8640 Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUFpibXNKekkxZEV6aUY2WHhTeEJSQTNpSGxzVGJjd0JucUxmQ281TDJjUnZrdlhkNnpOQ2VsMkFlSE94T3JNb2pLbDFsNzZaZ1lLXzJjeXNpWFZGYzQyakdONDlNd0phN3VkNHlsQksyLVpiWE1GY1k0NVp6dlAybG1VZmdJNWRHZHE0Umh2Zk5zcC1xWjhHX1NPVHQ?oc=5",
-      "published": "2026-10-28T03:58:00+09:00",
+      "title_original": "Une fuite nébuleuse et un visa offert par l'administration Trump : Bolsonaro fils a quitté le Brésil pour les Etats-Unis",
+      "summary_original": "Une fuite nébuleuse et un visa offert par l'administration Trump : Bolsonaro fils a quitté le Brésil pour les Etats-Unis Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQWpPeHhhc25zeGl4X3E3Sjd4aU54Z09TQWpIRC1FXzJNT0N3dlNqTF9EVUhORnp5YlJtaTB2anFqTHFIdnVVbDRqUS1iLTlrRy1OSjQ2Ni1aMWJtbV9BOHFEdk9tdXNaR2tmSDRzaGJVeFJDRm81c0Voay15VmNsNGxjTjhzUFJTaUtzTjQyUzFlRWRNTjRDZ3RyeGdXbnZDR280dy00dExvQ1RtSjdjdlNYQWRUWTN3VGhDM2tfZDdKOTRqd1FPWjY0SmVZcDQ0NjFEcjlXUzN6M2o4NzVUd291VUZJTE5SMjBFQWNTdUg2Tkl1b0FPdg?oc=5",
+      "published": "2026-10-28T07:00:31+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Les Echos",
-      "title_original": "Historique Actions Biodexa Ph - BDRX US59564R8640",
-      "summary_original": "Historique Actions Biodexa Ph - BDRX US59564R8640 Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUFp2S1RvRGJXOGNPUkJFUGc4UWd4cEhEdXd4eFJqc1ctbHVyMG1kZU9WbnVJQzFOb0htVUNTOWEyYm5XMkxZOXV6SWVYWUY1aTItczJ1NmZTaGt5SVg0SEF1VGtZd2E0bF9aOUFXMUk2LXpPZnlXS1BLUlN6OFBSVkdHdFJTdEpHRVhZMVQ3aE0?oc=5",
-      "published": "2026-10-28T03:58:00+09:00",
+      "title_original": "Seiko, 145 ans à défier le temps",
+      "summary_original": "Seiko, 145 ans à défier le temps Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVVo3c2pkendzdTc1dkl5UDlwM2tNNWc3SkZHMEFLUGdsZXE2ZDZad0JYVFJsNjVvNk50cUZyNHR2ZnhmU2hJOTZveXlNQW9KQjMzamRxRHR1dy1LaEhUZkZ4RUdMcGRYZ1pIQlQtcDBJUFNYSGRjMnBVdWtmVGU2UV9iTUxJbTVD?oc=5",
+      "published": "2026-10-28T05:28:13+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Le Figaro",
-      "title_original": "Budget 2027: les députés suppriment la surtaxe des grandes entreprises, contre l’avis du gouvernement",
-      "summary_original": "À deux voix près, les députés sont revenus sur ce dispositif fiscal créé lors du budget 2025, puis prolongé en 2026. Il vise aujourd’hui les entreprises réalisant au moins 1,5 milliard d’euros de chiffre d’affaires.",
-      "url": "https://www.lefigaro.fr/conjoncture/budget-2027-les-deputes-suppriment-la-surtaxe-des-grandes-entreprises-contre-l-avis-du-gouvernement-20261027",
-      "published": "2026-10-28T06:13:06+09:00",
+      "title_original": "Présidentielle 2027 : le député UDR Charles Alloncle devient porte-parole de la campagne de Marine Le Pen",
+      "summary_original": "L’ex-rapporteur ciottiste de la commission d’enquête de l’Assemblée nationale sur l’audiovisuel public rejoint ainsi l’équipe de la quadruple candidate nationaliste, au même poste que d’autres élus RN.",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-le-depute-udr-charles-alloncle-devient-porte-parole-de-la-campagne-de-marine-le-pen-20261027",
+      "published": "2026-10-28T07:54:21+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Le Figaro",
-      "title_original": "Le journaliste et essayiste Antoine Spire, grande voix de France Culture, est mort à 80 ans",
-      "summary_original": "Pendant plus de vingt ans, Antoine Spire a marqué l’histoire de France Culture, où il a animé plusieurs émissions emblématiques.",
-      "url": "https://www.lefigaro.fr/flash-actu/le-journaliste-et-essayiste-antoine-spire-grande-voix-de-france-culture-est-mort-a-80-ans-20261027",
-      "published": "2026-10-28T06:12:20+09:00",
+      "title_original": "Réseaux sociaux : le gouvernement veut pouvoir bloquer les contenus appelant aux pillages",
+      "summary_original": "Les plateformes seraient tenues de procéder au retrait de ces contenus dans un délai de 24 heures, sans quoi elles s’exposeraient à un «blocage» ou un «déréférencement».",
+      "url": "https://www.lefigaro.fr/secteur/high-tech/reseaux-sociaux-le-gouvernement-veut-pouvoir-bloquer-les-contenus-appelant-aux-pillages-20261027",
+      "published": "2026-10-28T07:35:59+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "«100 euros de plus par an» : Sacha Houlié (Place publique) promet une hausse dérisoire du salaire net des smicards, avant de rectifier",
+      "summary_original": "Sur BFMTV mardi soir, l’ex-macroniste devenu porte-parole de Raphaël Glucksmann s’est emmêlé les pinceaux en défendant l’une des mesures phares du candidat social-démocrate sur le pouvoir d’achat.",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/100-euros-de-plus-par-an-sacha-houlie-place-publique-promet-une-hausse-derisoire-du-salaire-net-des-smicards-avant-de-rectifier-20261027",
+      "published": "2026-10-28T07:35:16+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Lula affirme qu’une fuite de Flavio Bolsonaro hors du Brésil serait «honteuse»",
+      "summary_original": "Selon plusieurs médias, le candidat défait à la présidentielle s’est envolé pour les États-Unis. Il est soupçonné de corruption et de blanchiment d’argent dans plusieurs enquêtes policières.",
+      "url": "https://www.lefigaro.fr/international/lula-affirme-qu-une-fuite-de-flavio-bolsonaro-hors-du-bresil-serait-honteuse-20261027",
+      "published": "2026-10-28T07:25:24+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -458,7 +476,7 @@
       "title_original": "Présidentielle au Brésil : acculé par les affaires, Flávio Bolsonaro s’enfuit aux États-Unis après sa défaite face à Lula",
       "summary_original": "RÉCIT - Le sénateur de Rio de Janeiro, qui perdra son immunité parlementaire début février, est soupçonné de corruption et de blanchiment d’argent dans plusieurs enquêtes policières.",
       "url": "https://www.lefigaro.fr/international/bresil-flavio-bolsonaro-aurait-fui-aux-etats-unis-apres-sa-defaite-a-la-presidentielle-20261027",
-      "published": "2026-10-28T06:05:40+09:00",
+      "published": "2026-10-28T07:02:44+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -473,15 +491,6 @@
     },
     {
       "source": "Le Figaro",
-      "title_original": "Notre critique de Final Fantasy Resonance : un grand jeu «fan service» qui en fait un peu trop pour son propre bien",
-      "summary_original": "TEST - Malgré un système de combat phénoménal, le nouveau-né de Square Enix donne parfois l’impression de privilégier la nostalgie de ses fans à la nouveauté et à la cohérence de son univers.",
-      "url": "https://www.lefigaro.fr/secteur/high-tech/notre-critique-de-final-fantasy-resonance-un-grand-jeu-fan-service-qui-en-fait-un-peu-trop-pour-son-propre-bien-20261027",
-      "published": "2026-10-28T06:00:05+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
       "title_original": "Témoins terrorisés, regards noirs et amnésie : la peur s’invite au procès de l’assassinat du frère d’Amine Kessaci",
       "summary_original": "COMPTE-RENDU D’AUDIENCE - Au procès du triple assassinat qui a coûté la vie au frère aîné d’Amine Kessaci en 2020, accusations de menaces de mort et altercations ont rythmé une journée marquée par la terreur des témoins.",
       "url": "https://www.lefigaro.fr/marseille/temoins-terrorises-regards-noirs-et-amnesie-la-peur-s-invite-au-proces-de-l-assassinat-du-frere-d-amine-kessaci-20261027",
@@ -491,28 +500,46 @@
     },
     {
       "source": "Le Figaro",
-      "title_original": "Présidentielle 2027 : le député UDR Charles Alloncle devient porte-parole de la campagne de Marine Le Pen",
-      "summary_original": "L’ex-rapporteur ciottiste de la commission d’enquête de l’Assemblée nationale sur l’audiovisuel public rejoint ainsi l’équipe de la quadruple candidate nationaliste, au même poste que d’autres élus RN.",
-      "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-le-depute-udr-charles-alloncle-devient-porte-parole-de-la-campagne-de-marine-le-pen-20261027",
-      "published": "2026-10-28T05:31:19+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "Ballon d’Or : Kylian Mbappé, 24 heures entre déception sportive et polémique avec la Chine",
-      "summary_original": "DÉCRYPTAGE – Arrivé à Londres avec des rêves de consécration plein la tête, le capitaine des Bleus en est reparti sans titre, mais avec un scandale international.",
-      "url": "https://www.lefigaro.fr/sports/football/espagne/ballon-d-or-kylian-mbappe-24-heures-entre-deception-sportive-et-polemique-avec-la-chine-20261027",
-      "published": "2026-10-28T05:08:31+09:00",
+      "title_original": "Vladimir Poutine cherche la faille chez les Occidentaux pour faire plier l’Ukraine",
+      "summary_original": "RÉCIT - Le chef du Kremlin discute tantôt avec les Américains, tantôt avec les Européens, dans le but manifeste de fragiliser leur soutien à Kiev et Volodymyr Zelensky.",
+      "url": "https://www.lefigaro.fr/international/vladimir-poutine-cherche-la-faille-chez-les-occidentaux-pour-faire-plier-l-ukraine-20261027",
+      "published": "2026-10-28T05:08:05+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Libération",
-      "title_original": "Elections législatives en Israël : la coalition de Gadi Eisenkot devance celle de Nétanyahou, mais n’a pas de majorité",
-      "summary_original": "Selon les premiers sondages sortis des urnes, le bloc d’opposition rassemble plus de sièges que la coalition pro-Nétanyahou. Mais au soir d’un scrutin marqué par une très forte participation, mardi 27 octobre, aucune de ces deux forces ne pourra gouverner sans le soutien des listes arabes, qui affichent une forte percée.",
+      "title_original": "Les experts du «Lancet» appellent à reconnaître le réchauffement climatique comme une urgence sanitaire mondiale",
+      "summary_original": "Dix ans après l’entrée en vigueur de l’accord de Paris, un rapport piloté par la célèbre revue médicale britannique, paru ce mercredi 28 octobre, regrette des progrès trop lents. Les chercheurs mettent en cause l’administration Trump et les climatosceptiques.",
+      "url": "https://www.liberation.fr/environnement/les-experts-du-lancet-appellent-a-reconnaitre-le-rechauffement-climatique-comme-une-urgence-sanitaire-mondiale-20261028_MGSNEEGKOBFN3ATBOPIN42FBNY/",
+      "published": "2026-10-28T08:01:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "Législatives en Israël : «l’opposition ne pourra diriger le pays que si elle coopère avec les partis arabes»",
+      "summary_original": "David Khalfa, codirecteur de l’observatoire de l’Afrique du Nord et du Moyen-Orient à la Fondation Jean Jaurès, décrypte les premiers résultats partiels des élections législatives de ce mardi en Israël.",
+      "url": "https://www.liberation.fr/international/moyen-orient/legislatives-en-israel-lopposition-ne-pourra-diriger-le-pays-que-si-elle-coopere-avec-les-partis-arabes-20261027_6GK4JWOB5FGXVOJ6T66TXR52GM/",
+      "published": "2026-10-28T07:49:42+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "Brésil : les Etats-Unis accordent un visa à Flávio Bolsonaro, qui a fui son pays",
+      "summary_original": "Le candidat battu par Lula dimanche à la présidentielle aurait quitté le pays, direction la Floride, mardi 27 octobre, selon plusieurs médias. La justice brésilienne, qui enquête sur lui pour corruption et blanchiment d’argent, redoutait ce départ et lui avait demandé de remettre ses passeports.",
+      "url": "https://www.liberation.fr/international/amerique/bresil-interrogations-autour-dune-possible-fuite-de-flavio-bolsonaro-en-dehors-du-pays-20261027_MAS4SSIGYBCLTFNYZKG6KAPLIQ/",
+      "published": "2026-10-28T06:58:26+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "Elections législatives en Israël : légère avance pour Gadi Eisenkot, le Likoud en perte de vitesse, percée des partis arabes",
+      "summary_original": "Selon les premiers sondages sortis des urnes, le bloc d’opposition rassemble plus de sièges que la coalition pro-Nétanyahou. Mais au soir d’un scrutin marqué par une très forte participation, mardi 27 octobre, aucune de ces deux forces ne pourra gouverner sans le soutien des listes arabes.",
       "url": "https://www.liberation.fr/international/moyen-orient/elections-legislatives-en-israel-la-coalition-de-gadi-eisenkot-devance-celle-de-netanyahou-20261027_NJFOWDG675HA3P2R4RSGLKYC5M/",
-      "published": "2026-10-28T05:44:06+09:00",
+      "published": "2026-10-28T06:33:35+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -549,33 +576,6 @@
       "summary_original": "Entendues une première fois ce mardi 27 octobre par le tribunal correctionnel, onze personnes, interpellées en marge de rixes qui ont émaillé la fin de la mobilisation de samedi, expliquent avoir voulu «protéger» les commerces. Elles seront jugées en novembre.",
       "url": "https://www.liberation.fr/politique/a-laudience-sur-les-descentes-de-lextreme-droite-a-nice-contre-des-manifestants-letat-desprit-est-clair-on-va-commencer-la-guerre-20261027_Z2H5GQMM4BAPVAYHZUY7ZJKMLA/",
       "published": "2026-10-28T04:48:38+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Libération",
-      "title_original": "Entrée d’Anthropic à Wall Street : le géant de l’IA veut faire la Bourse en tête",
-      "summary_original": "L’entreprise californienne derrière le chatbot Claude a publié lundi 26 octobre son dossier d’introduction à Wall Street, alors que les Etats-Unis sont de plus en plus méfiants vis-à-vis de l’intelligence artificielle.",
-      "url": "https://www.liberation.fr/economie/economie-numerique/entree-danthropic-a-wall-street-le-geant-de-lia-veut-faire-la-bourse-en-tete-20261027_YOCNYIGNARHCNIHSJMWBBVDY74/",
-      "published": "2026-10-28T04:39:09+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Libération",
-      "title_original": "Prix Albert-Londres : Arthur Sarradin lauréat dans la catégorie livre, Bruno Meyerfeld en presse écrite et Brice Lambert en audiovisuel",
-      "summary_original": "La cérémonie, dédiée à Christophe Gleizes, avait lieu le 27 octobre au théâtre parisien de la Concorde, pour désigner les successeurs de Julie Brafman, Jules Giraudat & Arthur Bouvart, et Elena Volochine, primés en 2025.",
-      "url": "https://www.liberation.fr/economie/medias/arthur-sarradin-designe-prix-albert-londres-bruno-meyerfeld-remporte-le-prix-de-la-presse-ecrite-et-brice-lambert-celui-de-laudiovisuel-20261027_662MJLEAKBBWFFYJZMW63QXBEA/",
-      "published": "2026-10-28T04:33:04+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Libération",
-      "title_original": "Mobilisation lycéenne, combat contre les polluants éternels : le droit de choisir son avenir",
-      "summary_original": "L’interview de la militante Camille Etienne, porte-voix de la cause environnementale, que nous publions ce mardi 27 octobre, nous pousse à faire le parallèle entre le mépris politique envers la cause lycéenne et le danger invisibilisé des Pfas.",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/mobilisation-lyceenne-combat-contre-les-polluants-eternels-le-droit-de-choisir-son-avenir-20261027_YT3EWGA4AVAQHLUMH4TLIHIX7U/",
-      "published": "2026-10-28T04:25:22+09:00",
       "via": "rss",
       "state_media": false
     }
