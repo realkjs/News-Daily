@@ -1,0 +1,805 @@
+{
+  "team": "uk",
+  "team_name_ko": "영국팀",
+  "collected_at": "2026-10-28T06:15:24.198226+09:00",
+  "headlines": [
+    {
+      "source": "BBC",
+      "title_original": "Landline switchover could cut people off in emergency, minister warned",
+      "summary_original": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T05:54:48+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Fleetwood-Arsenal halted for eight minutes because of drone",
+      "summary_original": "Arsenal's match with Fleetwood Town in the last-16 of the Carabao Cup is delayed for more than eight minutes after a drone is spotted above the stadium during the match.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T05:26:31+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Ceasefire extended across Ukraine's Kherson region, officials say",
+      "summary_original": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+      "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T05:19:53+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "King acknowledges 'suffering of the past' as Caribbean tour begins",
+      "summary_original": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T05:14:59+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Ex-Met officer from Couzens unit guilty of rape",
+      "summary_original": "Mark Tyrrell is also convicted of sexual assault and trying to delete messages he sent the woman.",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qgjd0w3no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T05:08:10+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
+      "summary_original": "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget.",
+      "url": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T04:41:05+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Dutch zookeeper dies after being mauled in leopard enclosure",
+      "summary_original": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
+      "url": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T04:30:37+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Ballon d'Or in London - the most chaotic ever?",
+      "summary_original": "It was the first time the Ballon d'Or had been held in London in its 70-year history - but the event was not plain sailing. BBC Sport assesses a chaotic night.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6y8lgg21l89o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T04:06:02+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Sky News",
+      "title_original": "Defeated Brazilian presidential candidate 'ordered to hand over passports'",
+      "summary_original": "Flavio Bolsonaro, Brazil's defeated presidential election candidate, has said that he is being stopped from leaving the country, claiming police ordered him to surrender his passports on the orders of a top judge.",
+      "url": "https://news.sky.com/story/flavio-bolsonaro-defeated-brazilian-presidential-candidate-ordered-to-hand-over-passports-13604365",
+      "published": "2026-10-27T22:01:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Sky News",
+      "title_original": "At least 62 killed and thousands displaced in gunmen attack in Nigeria",
+      "summary_original": "At least 62 people have been killed after an attack in northeastern Nigeria, the country's emergency agency said.",
+      "url": "https://news.sky.com/story/at-least-62-killed-and-thousands-displaced-in-gunmen-attack-in-northern-nigeria-13604353",
+      "published": "2026-10-27T21:02:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Sky News",
+      "title_original": "Virgin Atlantic fury as Heathrow forces Delta terminal move",
+      "summary_original": "Virgin Atlantic Airways has reacted furiously after Heathrow Airport decided to force its joint venture partner to relocate to another terminal - a move it warned would risk driving fares up for passengers.",
+      "url": "https://news.sky.com/story/virgin-atlantic-fury-as-heathrow-forces-delta-terminal-move-13604337",
+      "published": "2026-10-27T20:28:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Sky News",
+      "title_original": "Woman dies in sea off Isle of Wight - as search suspended for man in Scotland",
+      "summary_original": "A woman has died in the sea off the Isle of Wight, while the search for a man swept into the sea in Scotland by large waves has been suspended.",
+      "url": "https://news.sky.com/story/woman-dies-after-getting-into-difficulty-in-sea-off-the-isle-of-wight-13604334",
+      "published": "2026-10-27T20:09:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Sky News",
+      "title_original": "Hundreds of troops sent to deal with anti-immigration protests",
+      "summary_original": "More than 500 soldiers have been sent to deal with anti-migrant protests in South Africa, the country's government has said.",
+      "url": "https://news.sky.com/story/south-africa-more-than-500-troops-sent-to-deal-with-anti-immigration-protests-in-kwazulu-natal-13604332",
+      "published": "2026-10-27T20:09:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Sky News",
+      "title_original": "Labour MPs urge chancellor to forgive councils' debt to boost house building",
+      "summary_original": "Labour MPs are urging the Treasury to forgive billions of pounds of legacy debt owed by councils to support Andy Burnham's pledge for a post-war housebuilding boom.",
+      "url": "https://news.sky.com/story/labour-mps-urge-chancellor-to-forgive-councils-debt-to-boost-house-building-13604326",
+      "published": "2026-10-27T19:55:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Sky News",
+      "title_original": "Poundland close to collapse as new directors head for exit",
+      "summary_original": "The directors recruited to steer Poundland through its emergency sale process less than two weeks ago are on the brink of resigning, heightening the risk that one of Britain's biggest discount retailers will collapse within days, risking thousands of job losses.",
+      "url": "https://news.sky.com/story/poundland-close-to-collapse-as-new-directors-head-for-exit-13604265",
+      "published": "2026-10-27T17:03:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Sky News",
+      "title_original": "Debate unfolds over removal of mummified Egyptian remains from two museums",
+      "summary_original": "The removal of mummified Egyptian remains from display at two Glasgow museums has sparked a lively debate - is it \"woke madness\" or the decent and \"ethical\" thing to do?",
+      "url": "https://news.sky.com/story/debate-unfolds-over-removal-of-mummified-egyptian-remains-from-glasgow-museums-13603919",
+      "published": "2026-10-26T18:48:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "King to acknowledge ‘great suffering of the past’ during visit to Caribbean",
+      "summary_original": "King to acknowledge ‘great suffering of the past’ during visit to Caribbean ITVX",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSHVkbk5yLW9heEpwWFN0ZnlrMEdrX0V5QUJTQTdBbDVTSmd5eFJLd1NZZDR2T1cwcGs3NHJadjFxcnZCcnYzR2NIZkthOTVJZEQ2UHFmNl80dm1WaVBwUGJ5bEt5NklPRFJSbWhnd1V5a21fR1ZYSW41WWUycmR2S1ppY2NxeDRsVlRjT05IRXluVy1kNDU1WDktcWp2N2M0dklYWVRQU0pXODZtcHc?oc=5",
+      "published": "2026-10-28T05:48:23+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "How will King deal with calls for slavery apology on tricky Caribbean tour?",
+      "summary_original": "How will King deal with calls for slavery apology on tricky Caribbean tour? ITVX",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRVp1ZG1OajdtYVhFalMzREFmdFdIOHlWYlRid1JhdVpHZjloV2VZaEpNd29TTDBsXzJQZDBtMHBLMXUxclRDV1FVYmMyS1VweWYtQjAyWS1Qb21vbXhIb2UwUHQxTFRtLWRLc18zdkJ5YS1YSlJqWWN1NEVOZWNZbC0zZmFKcnFlaTFIV21xM1JHeUJEVDF5UTltRlBXbU1xS01WcFZMWEFkRTZOUlJV?oc=5",
+      "published": "2026-10-28T05:47:04+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "The latest headlines - as exit polls suggest no clear winner in Israeli election",
+      "summary_original": "The latest headlines - as exit polls suggest no clear winner in Israeli election ITVX",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaHJQbXUxbE5xOUtTWVNXV2xtcmZXbjYyM3A0LTdJNzFKVDJ3eG95elc1ZDdKTU5fdzlfMGlZdEtKZkJhekdhTlUtSWs5c3hxX1FxS0Q4dXlUOVRPWHVuZVVyOTJxUnJKMGk4RDlmLUgyRERCYTI2N0psdEVwSjlyUzkyTmdxWnlqR1FDbkFZTmxzcGoxLUlaVWE3Q0IxWk5DT0NldnlQcGZLVjNMRHhhWFh0VjdzbmJu?oc=5",
+      "published": "2026-10-28T05:45:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "Israel election: Netanyahu’s fate in limbo as exit polls show no clear winner | ITV News",
+      "summary_original": "Israel election: Netanyahu’s fate in limbo as exit polls show no clear winner | ITV News ITVX",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS0pYRmxYSjk2NXNGUXExRTZxRGdmeE5Ua3NybTdyYmdYSExIcXdtdW9uaFgwWGpQVTdtdk5CMWpSSkJtTURWY19odDBNeFVSdjVzb3J4T1dLRlkzMi1qaFlXMDJtZGFjT3l5cUMyWnBIR2J2NWxJel9KbUp6c3J0ZkhSakQyV0tUTDdRdVhuTTk2dDZ4?oc=5",
+      "published": "2026-10-28T05:32:42+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "ITV Evening News - Series 11 - Episode 214",
+      "summary_original": "ITV Evening News - Series 11 - Episode 214 ITVX",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43bV9qbUdQeHBIeVlOUFNTcTFENk9xUHhZZmlyeDNtWnkxQkpoWDJMWnktMXNCdENqT09UQVFHYkZ3ZUVlNVV1Y1ctY3JDbmNCOWtmZUVoUjE3bTA1NElRWWtudmdCcW9IMkRfWS1n?oc=5",
+      "published": "2026-10-28T05:04:39+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "Watch the latest Granada Reports from Tuesday 27th October",
+      "summary_original": "Watch the latest Granada Reports from Tuesday 27th October ITVX",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeS1OVnlCSmpqdHlKMm03amtVU25Wc3lkZzIwcDNvTGwwcG1EYjBDUUZ2bXFnWkkxMTdzc1ZMLUo1d18zVGRCb1g0dm91c1V5eTZoeldUS1hCVUx0MjlUREdFQl9zUDBncElkOGVoREtqd09LWUlvbTVhRGR2czFLSmhEMC1TeWxSdTM1dVZ0WFhlRnN0OGxtZTdWb2hBdw?oc=5",
+      "published": "2026-10-28T04:45:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "Catch up on ITV News Central (West Midlands) - Tuesday 27th October",
+      "summary_original": "Catch up on ITV News Central (West Midlands) - Tuesday 27th October ITVX",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMFU1VmNUVlAycTZzLVZ1dnN3cDBrWnBnNG9KYWtOY1EyN3NFWldRUjJXUzNKRW16Nk5tTjRaR1NUSy1vOVNsSm5Oa0hBMkljaUZGZEV6SzFQUG9xNUxjVnMzYkE4dl9rVDdsQXdqY1d6Q09DWGZwZk0zMDA2NF82MW84cGpsbFBUYklWMjltTFRUWGRLVG9RODkxMDIyUU9tRHRjbQ?oc=5",
+      "published": "2026-10-28T04:24:37+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "ITV Win Latest Competitions",
+      "summary_original": "ITV Win Latest Competitions ITVX",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GWWtJVmcwZ0QyZU55djJTbC1sMU0wenlPUkhNa3lIcmlMZmFjY3lYOFRDVHBBTFZzVEF2OWJ0TnRjalp3OV9sRHQ5Q1UyaTVMMlF1N1VrLU9RekFqcGpVdlpnd0ZKWC14aG1Uay15Sk1TTG12QUhmS3pvNEg?oc=5",
+      "published": "2026-10-28T04:18:26+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "Budget: Does the government have any surprises in store?",
+      "summary_original": "Budget: Does the government have any surprises in store? Channel 4",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOWhsYlVxOWlhSDl6dUVnc3lJZW1ZX3JmblVBYmZhdGZHdFJ3WGQ3TjZUSTAyY0tuN2k3bzBNZ0dHc3Z1d0dseWxIZFhDeGRYVVNNQUxmWU8tZE1YeEw0X3h1eTk0YnZQVTl6T3JfNUxYTGlocDhxQjVDOXVWRDlQOWNGMGVTZVFaaXVUVQ?oc=5",
+      "published": "2026-10-28T05:06:13+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "Four men accused of sexually assaulting drugged woman appear in court",
+      "summary_original": "Four men accused of sexually assaulting drugged woman appear in court Channel 4",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQnhENl8wZEdNT0tqaTN2SmRBaVBqWkFBb050cFR6WG9NSDRPQzNTbjczNDllQThrdkZLdF9wbDBYdERYaWtudWZ3WmRNSFJDa2FMb090LVZVd0I3UTQ0YXJoamdWbDlLOWRRanlhOTBLM050T3VBNnFBSnlNZU9xSW83bDRfRjhhV0ZyT0FSQTVQcnNzekhJLVVsblctQUgx?oc=5",
+      "published": "2026-10-28T04:55:02+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "Bolsonaro reportedly flees Brazil after election loss",
+      "summary_original": "Bolsonaro reportedly flees Brazil after election loss Channel 4",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPODhvY08yT0d2dl9Qem1Md1JQOFJPa2hMVXppNkVTbW9jMWI3VG83b0ItYVVldWpJQ1U3XzFrYWZkNVBtNlNYRTduNWRDQmhVdWdOWHhick5zMzdSMTRXR3VmYkE0R0szSWRYZGExMVJHcERBd3UxclhEcFEyLW84M2NIdENxQ3JLMFpV?oc=5",
+      "published": "2026-10-28T04:54:03+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "Ukraine: Limited ceasefire begins around besieged Kherson",
+      "summary_original": "Ukraine: Limited ceasefire begins around besieged Kherson Channel 4",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONExJM3dUZ1dobmM3WnlEY1JXeDlyOWs1SjRDQXU4ZXJLaThEcjlsSXRLbkExS2lReW9mazNIVy1Lb05UbGFXZm1uTGlqV1JNWHlNSGF2bXNiZm0xdm4yVWhQNlcxaGpPMFJJeGVmMmFzSi1NV0JySW90YnBxVDNvVmNBMzE0VE4yQjZLeTEydw?oc=5",
+      "published": "2026-10-28T04:50:19+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "RAF Fairford: Two men appear in court charged with national security offences",
+      "summary_original": "RAF Fairford: Two men appear in court charged with national security offences Channel 4",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTGMyYnN2UXYzcnhzRmZNSlMxN3B1YmotZkc3bnByeEFNWExWLUdjU3N2SGg3XzFWS1Q3dzNrR0FPUzdLbWtiYWlKMFdKOVVOY1hPakRUalQ5dlRhX3pxOUI4X1dZZUhZQ0dvQnd6MTVVVWV0Vzc4ZGRuUXhhcWFoMmo3YzhPTjhKenhod3RPMnFZRVZFZ1plZ29NanE3TG94dTY3eVZKc1RLUQ?oc=5",
+      "published": "2026-10-28T04:45:22+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "Russia, Iran and 1,000 days until war: Wes Streeting Interview",
+      "summary_original": "Russia, Iran and 1,000 days until war: Wes Streeting Interview Channel 4",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQblZEMDZtRzNLMl8yWmdrYWxKQ2ZubGxPZ3VTZ1BnSTFGUmgzU2FSc0RQbVF6NEp4MEdXVDBTNVVQdXlVV0VZSXV4REx6TXZRVU9INW9TX2dwbzRMYmN4TEl5LS03TDNVM1dtT1g0cUZrMUxiN19JV1JVU0E0Q1RiNVFRTEYzbk9FUFc1VHNiSU40RWs?oc=5",
+      "published": "2026-10-28T04:44:42+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "Israel election",
+      "summary_original": "Israel election Channel 4",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lWUxrSGNEeENja2w0SWx0UWNER0Zvalc3NkF6NF9CVzcyZXk2S1BFOFdvMzRHMF9vTjc3MG9aTW5QRWRnY0ZSUkhnc2NUV1dBYXNOa1VxOThyb2tkbW5YWQ?oc=5",
+      "published": "2026-10-28T04:44:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "Tariffs on imported goods ‘could save average household £21 a year’",
+      "summary_original": "Tariffs on imported goods ‘could save average household £21 a year’ Channel 4",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQWFGeUtDQllhdWgtV19BajFzbUJkZmZldXg0U3gycmJnVFUybXJpbkZVTFJsM1FhYTVvX0twLVJhODB0NzRRSnAxNE5kU2ZGbnlIaGh3R0pHN3FHQmo2b19mcXIza05Ud3c1MHFNNUZVSlNHMXdNTWo1TkZyZGZFYzBrbVNwT0Rob2tjeVJBSlVtQVlHal9BaTZn?oc=5",
+      "published": "2026-10-28T04:36:22+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Insight: Crypto blitzes midterms with $176 million to support allies as it prepares for post-Trump era",
+      "summary_original": "Insight: Crypto blitzes midterms with $176 million to support allies as it prepares for post-Trump era Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbGVzelluUlRtODRKTG5wazVoU01tTjQ5bkZxZGI2TWpkTDNSc01XZEJaQTJlaE1EREtyZ0lqR2RieHZZcWVHcUk3T0RMNTY2SkwzYmhLY0I3aFZhV3RVbEwtakpyYm1tZHpfMlU2VVBIa0RTRGNLVTZRUVRsajJBdkhybVd6Q2tldlAtZGVBT1lWUUxrN2c4eXlfN1FiRWZYZlpjUmEzd1lKVGlQbjRFSkpPOUstSFpabzNjRnhIeDFnWHNZYmRYWHpYN3Q1SUk?oc=5",
+      "published": "2026-10-28T05:29:48+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Wall Street ends higher on revived AI momentum",
+      "summary_original": "Wall Street ends higher on revived AI momentum Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR21qQWZsLUZqbWRjR2YtQ3FGakpEWWVjSUVFNjVDSi01MnRiWmV3Z2pPQUsyVGhJR3UxQ1o4RjRVa2tCLXNXbnJjNE9fbE5KVzlKTEZtNHpZb3lPR0hXcFFSVGVydlpnR3RQdVM5bDE3aVI3aVowN0NqY3NHb3VDN3hlaXpLTmxkeFc3NE13dUNqYUtIMHNxRFR5M3VYZmpKUDRzVE5WLUdwRHJCeEpQM1pKaw?oc=5",
+      "published": "2026-10-28T05:22:45+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Bond investors are thinking less about the Fed and more about AI, deficits",
+      "summary_original": "Bond investors are thinking less about the Fed and more about AI, deficits Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVZDTFViUjF0VS1rM2FQX1ZjYmpIQncyQi1pMldoZ1N2U2JXUjIydVFJUGN1dXV4STlvYlVEM3FPSEZaSEt3Rnkxc0R5c3JrOEg2b0g2d2pUemFMbXpKNjZ6M1NabkwxcmJrbE5sdWtnU2pDd3R0X3ZkakhTNTZraUU0ejJKdDVRR0NheWhzcXBLUnU2dGxGUXFURnJZaExIM1hTRW9LWE5KbkNJN2RZ?oc=5",
+      "published": "2026-10-28T04:55:40+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Law firm Weil hires restructuring counsel amid mounting partner exits",
+      "summary_original": "Law firm Weil hires restructuring counsel amid mounting partner exits Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT1FkYnktbTUyNHZpd1NHcFlmNHdqNzhjSnQ5NFlPU3pvWUpRMV9IR3YtX2pVMnEyUHRyU0h1azA4ek9LMWdmVlRiY3RtOHVnTkZvZG9RRWdZTy1vRE4wREtrSVZmT0Rpc0Z6eVJuS2hIWFNUMm9hT2VsdUhyWUxadWhZdHF2eEtUc1Zrd0VucjJFSDM3Z210N0dHSURQUk9TcTY0U3ZCaHlRUGNibTZBS2pxeWFlTEZNeGRPd2hTNA?oc=5",
+      "published": "2026-10-28T04:49:47+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Flavio Bolsonaro headed to the US after losing Brazil election, sources say",
+      "summary_original": "Flavio Bolsonaro headed to the US after losing Brazil election, sources say Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaUpaNGJkUU9FeDRxVTFGcVljX3VfUHhKM1p2bm82UjZ3bW5aUUprejByam9oWGpoeWllcC0wRUlNZi1yRlV2YVcwY2tYODVJWXZ0ZVZvMm85eEN4VC00NmJKTTk5enF1TTRZZmZRelpUMzhmY0NiUzNQRVVFdmc3amptbjZFWHJuUHdRSDZkZVlNakZWQks2WWRIVXhWdw?oc=5",
+      "published": "2026-10-28T04:44:56+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Hacking attempts against US Federal Election Commission system triggered outage, email shows",
+      "summary_original": "Hacking attempts against US Federal Election Commission system triggered outage, email shows Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbDV3WWJ5Ulh3Q05tT203WGNGVE1UNmFvZ2ZoclFXemtrWXFhNlRhUmtabmlPZXRaYU1sQ251VWhSSWJMODNJQkRrMk9MNFdfb1RVT2VJQTR4akpfM0JQNk9wMkpMV2tFY2tHc2ZpTGMwcHlLNFU3UDBrZk5MbGFrb2ZqX25XRVZCQmI5Z29LbDI5cjF2S0JodjVNcVVmV3RyUFR1SW5RZUwwY2JlSWJrRUMyNEgta3dl?oc=5",
+      "published": "2026-10-28T04:35:39+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Boeing shares sell off on slower-than-expected 737 production, weaker free cash flow outlook",
+      "summary_original": "Boeing shares sell off on slower-than-expected 737 production, weaker free cash flow outlook Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNnZ1c1Q5Q2tSYnRpdnppV25UNEpNekRsVGhpbkdLVk95QjBkenF1Ni0tOFJFYThrcXlnYjhRbUJWMlo2WHlkLUIzNlJ5UUpoN1p3VUh3b1p5TlJlZHBpaENqVmY4RDZPVTFsRHhMZXJKQzhseUM1V2U4TjMySHdvNzZ1VE9MbnI4ajV1dklVemhwWFRrZmtYWF9qYUNjUTFLOVRMaGNVUG0wSDhHcEZMbXNjcWpHWGZqeUEzc3puMGZwd2FvVU93?oc=5",
+      "published": "2026-10-28T04:22:26+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Yemen's Houthis say they hit Saudi Ras Tanura oil refinery with missile",
+      "summary_original": "Yemen's Houthis say they hit Saudi Ras Tanura oil refinery with missile Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMU9tRHdmbzQ2ZHlsQzBDVmpqUEhlTk9meXgzN1VMOWlUMnlKOU1ibFRMQ1VQNDNjTkloUG9lb054S2JXZ2YwMS1MMXM4b1pwczl2clNyTHM5RGZVdnd6bzJXTVl4bW4yZ0pGTEV2aEV4dlR2cDNkc0lvNjVMN2ZScklvRDE3S1VyS0FoaC02Z3BqTHJPeTJrekxhM0dONmN0VzdXTmE5QjNfM0pIZ1Q2SHMtSkZzbFNqSThaN2RybDFBdw?oc=5",
+      "published": "2026-10-28T04:17:53+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "No clear winner in Israeli parliamentary election, exit polls suggest",
+      "summary_original": "Neither Benjamin Netanyahu nor Gadi Eisenkot forecast to secure majority, according to TV surveys",
+      "url": "https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1",
+      "published": "2026-10-28T05:19:36+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "Flávio Bolsonaro’s passport cancelled as reports say he has fled Brazil",
+      "summary_original": "Defeated rightwing presidential candidate is under investigation by federal police over alleged corruption and money laundering",
+      "url": "https://www.ft.com/content/f294230a-0956-4c8c-9bb5-4dd5b6e7438a?syn-25a6b1a6=1",
+      "published": "2026-10-28T04:53:39+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "Israel election turnout highest in decades",
+      "summary_original": "First vote since October 7 2023 attack pits Netanyahu’s far-right coalition against opposition bloc in knife-edge contest",
+      "url": "https://www.ft.com/content/87d81352-5086-44bd-a5bb-797582e2d07c?syn-25a6b1a6=1",
+      "published": "2026-10-28T04:13:09+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "Washington discusses Russian deals for US oil majors in Ukraine peace talks",
+      "summary_original": "White House proposes renewed postwar business ties in an effort to bring President Vladimir Putin to the negotiating table",
+      "url": "https://www.ft.com/content/d703aaae-f607-4b30-9830-ac2a25472d44?syn-25a6b1a6=1",
+      "published": "2026-10-28T04:06:02+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "Putin lectures Nordic leaders on Russian history",
+      "summary_original": "Russia’s leader goes on extended tangent in call with western European leaders as they seek to revive Ukraine peace talks",
+      "url": "https://www.ft.com/content/a384acd1-c90c-4b71-bf7d-6c6e00bf9822?syn-25a6b1a6=1",
+      "published": "2026-10-28T03:50:30+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "Law firm Weil prepares for possible wind-down as crisis deepens",
+      "summary_original": "Big Law powerhouse working with Davis Polk on options that also include last-minute merger or slimmed-down entity",
+      "url": "https://www.ft.com/content/69ccfcb0-3f5e-4b77-9e04-a386e827b872?syn-25a6b1a6=1",
+      "published": "2026-10-28T03:06:33+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "Apple hit by ‘Crackgate’ outcry over iPhone Duo screen problems",
+      "summary_original": "Claims of flaws in Big Tech company’s first foldable smartphone are a setback for new chief executive John Ternus",
+      "url": "https://www.ft.com/content/324875fb-8631-4339-8516-6057de9ac085?syn-25a6b1a6=1",
+      "published": "2026-10-28T02:55:41+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "The limits of hedging the AI boom",
+      "summary_original": "As tech investment soars, finding protection is becoming more urgent — and harder",
+      "url": "https://www.ft.com/content/0b0ae366-c1e0-4c35-8cad-c924a23d33e7?syn-25a6b1a6=1",
+      "published": "2026-10-28T02:07:56+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Fleetwood Town v Arsenal: Carabao Cup fourth round – live",
+      "summary_original": "⚽ League Cup updates from the 8pm GMT kick-off ⚽ Game briefly delayed by drone over Highbury | Mail Niall Here’s the Fleetwood head coach, Matt Lawlor: “We’ve had to make changes, with the champions in town. But we’ve got a plan with substitutions to manage the game. Arsenal have paid us a lot of respect by naming such a strong team … it’s a very difficult challenge, but one we should enjoy, and n",
+      "url": "https://www.theguardian.com/football/live/2026/oct/27/fleetwood-town-v-arsenal-carabao-cup-fourth-round-live",
+      "published": "2026-10-28T06:12:44+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Israel election live: exit polls project no clear winner, as anti-Netanyahu bloc leads but Likud remains biggest party",
+      "summary_original": "Israel’s major TV stations project majority of Israelis have voted against Netanyahu’s coalition, but his Likud party has emerged as largest party Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats Across Israel , voting is now under way. Here are some of the latest images being sent to us over the newswires: Tens of thousands of Israelis living abroad have fl",
+      "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+      "published": "2026-10-28T06:04:07+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Trump and Vance step up attacks on Abdul El-Sayed as president tours Texas in final midterms push – live",
+      "summary_original": "Trump and Vance double down on racist and Islamophobic slurs against Michigan Senate candidate Abdul El-Sayed Sign up for the Breaking News US email US voters: tell us what issues will decide your vote? Speaking to reporters on the tarmac before departing for a campaign event in Michigan, JD Vance responded to a question about President Trump’s remarks branding Democratic Senate candidate Abdul El",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
+      "published": "2026-10-28T06:04:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Alexander brothers each sentenced to 30 years for drugging and raping dozens of women",
+      "summary_original": "Oren, Alon and Tal Alexander sentenced to prison in New York after being convicted in sex trafficking case Three Florida brothers who exploited the wealth and influence of their family’s luxury real estate business to drug and rape dozens of women were each sentenced to 30 years in prison in New York on Tuesday for sex trafficking. Twins Oren and Alon Alexander, 39, and Tal Alexander, 40, were con",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/oren-alon-tal-alexander-sentenced-sex-trafficking",
+      "published": "2026-10-28T05:45:59+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Former Met officer who worked with Wayne Couzens found guilty of rape",
+      "summary_original": "Mark Tyrrell, who was in same unit as Sarah Everard’s killer, also guilty on three counts of sexual assault A former Metropolitan police officer who served in the same unit as Sarah Everard’s killer, Wayne Couzens, has been found guilty of sexual offences against a woman he met through his work as an officer. A court heard that Mark Tyrrell raped the woman – who cannot be identified for legal reas",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/27/former-met-officer-who-served-in-same-unit-as-david-carrick-and-wayne-couzens-found-guilty-of-sexual-offences",
+      "published": "2026-10-28T05:34:59+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Olivia Chow elected as Toronto mayor for second term in victory for progressives",
+      "summary_original": "Tightly fought election saw record turnout as incumbent mayor ran against her rival Brad Bradford The mayor of Toronto, Olivia Chow, promised more rental housing, free school lunches and reduce fares for frequent transit riders after she was elected to a decisive second term as mayor in a wave of support for progressives councillors. The tightly fought election saw record turnout but Chow ultimate",
+      "url": "https://www.theguardian.com/world/2026/oct/27/olivia-chow-toronto-mayor-election-results",
+      "published": "2026-10-28T05:23:46+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "An unmanageable club? Carrick the latest to suffer in Manchester United’s faded grandeur",
+      "summary_original": "Only Matt Busby and Alex Ferguson have truly succeeded in the Old Trafford hot seat with each casting uneasy shadows Should any football club fit the Great Man theory of history it is Manchester United. In the past 100 years, only Matt Busby and Alex Ferguson have knocked the club into shape. A pair of 20th-century Scotsmen, born 15 miles apart in Bellshill and Govan respectively, found the key. O",
+      "url": "https://www.theguardian.com/football/2026/oct/27/manchester-united-michael-carrick-faded-grandeur",
+      "published": "2026-10-28T05:02:34+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Unpaid carers say chancellor’s plan to scrap allowance cliff edge falls short",
+      "summary_original": "Digital taper system for benefit expected in budget, but those already hit with overpayments will still have to pay “On the surface it sounds really positive – and I really hope that it is,” says unpaid carer Guy Shahar of the government’s decision to abolish the notorious carer’s allowance cliff edge . But Shahar is angry that most carers hit with unjust overpayments in the past will still have t",
+      "url": "https://www.theguardian.com/society/2026/oct/27/unpaid-carers-chancellor-plan-scrap-allowance-cliff-edge-falls-short-budget",
+      "published": "2026-10-28T04:48:53+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Telegraph",
+      "title_original": "Nigeria’s women and girls impacted the most by British and US funding cuts, committee is told",
+      "summary_original": "The country is among the hardest-hit as Western governments slash overseas development budgets to increase defence spending",
+      "url": "https://www.telegraph.co.uk/global-health/women-and-girls/nigerias-women-and-girls-impacted-the-most-by-funding-cuts/",
+      "published": "2026-10-28T03:05:05+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Telegraph",
+      "title_original": "Taliban forbids ‘un-Islamic’ sight-saving operations",
+      "summary_original": "Afghan doctors told they will no longer be able to perform corneal transplants",
+      "url": "https://www.telegraph.co.uk/global-health/terror-and-security/taliban-forbids-un-islamic-sight-saving-operations/",
+      "published": "2026-10-28T01:36:44+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Telegraph",
+      "title_original": "Telegraph Fantasy Football: Team of the Week Game Week 8",
+      "summary_original": "Find out which XI players have scored the most Telegraph Fantasy Football points and made the Team of the Week",
+      "url": "https://www.telegraph.co.uk/fantasy-sports/fantasy-football/telegraph-fantasy-football-team-of-the-week/",
+      "published": "2026-10-27T21:35:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Telegraph",
+      "title_original": "The silent war: As Israel chooses a new leader Gazans wait for life to begin again",
+      "summary_original": "One year after the ceasefire, a humanitarian crisis overwhelms the Strip with few signs of long-term recovery",
+      "url": "https://www.telegraph.co.uk/global-health/terror-and-security/as-israel-chooses-new-leader-gazans-wait-for-life-to-begin/",
+      "published": "2026-10-27T21:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Telegraph",
+      "title_original": "Harry Kane ends England’s 25-year wait for Ballon d’Or winner",
+      "summary_original": "Harry Kane ends England’s 25-year wait for Ballon d’Or winner",
+      "url": "https://www.telegraph.co.uk/football/2026/10/26/ballon-dor-2026-live-latest-updates-kane-yamal-mbappe/",
+      "published": "2026-10-27T17:45:51+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Telegraph",
+      "title_original": "Nurse accused of spreading Ebola murdered by mob",
+      "summary_original": "Teacher badly injured in attack as mistrust of outbreak responders deepens",
+      "url": "https://www.telegraph.co.uk/global-health/science-and-disease/nurse-accused-of-spreading-ebola-murdered-by-mob/",
+      "published": "2026-10-27T01:25:31+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Telegraph",
+      "title_original": "‘Our world is yellow’: Fears for children as sickening smog blankets Indonesia",
+      "summary_original": "Palangkaraya is on the front line of an environmental crisis that has cloaked much of the region in a toxic haze",
+      "url": "https://www.telegraph.co.uk/global-health/climate-and-people/fears-for-children-as-sickening-smog-blankets-indonesia/",
+      "published": "2026-10-27T00:51:30+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Telegraph",
+      "title_original": "Britain sanctions warlords accused of rape in Sudan",
+      "summary_original": "At least 15 commanders on both sides of the conflict accused of weaponising sexual violence during the siege of El Fasher",
+      "url": "https://www.telegraph.co.uk/global-health/terror-and-security/britain-sanctions-warlords-accused-of-rape-in-sudan/",
+      "published": "2026-10-26T22:30:14+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Latest news & breaking headlines | The Times and The Sunday Times",
+      "summary_original": "Latest news & breaking headlines | The Times and The Sunday Times The Times",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE1rUkwwNVRWQUpTalMyTmJSWVRxR2VTTHQ2RmV1amVFSzlPXzY3SUdfTzVzM0dNNXVzUzZscWV3?oc=5",
+      "published": "2026-10-28T05:49:39+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Ireland",
+      "summary_original": "Ireland The Times",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1VWnlueDlEYVdDRGl0a1MyRU1Gd2FDZWtpazRWNkk0cEtQNnZmM0ljWkpSOTlqUkk3NmpURG5DTHBqQzY4VGJj?oc=5",
+      "published": "2026-10-28T05:35:46+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Israel election results: Netanyahu’s Likud party in deadlock with opposition",
+      "summary_original": "Israel election results: Netanyahu’s Likud party in deadlock with opposition The Times",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRTVhUm03bVk5cjNMNkVnR3ZQdFVySWJaSjRYR3pVYTRhRnF1Znh3dkltbjVJZEVSS0FCaGFLOUx1Uk03a2RaMWt5T2ZTNmxfVHpaWnAwMlAxSVVyQlJLWm5TN3llUk9icEFaWVZ5Y0tMYUE4b1p1RVFwdVZQbDBtTlVXWVFDbjljZFEyY0UtalBTWklJSk50VTA4N25OdUN3Zy1kakJhLTNUZW1Y?oc=5",
+      "published": "2026-10-28T05:25:48+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Flavio Bolsonaro flees Brazil for the United States",
+      "summary_original": "Flavio Bolsonaro flees Brazil for the United States The Times",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWDZBNXlPN3ExVU9hbDdzR1p5TElFT3lEMWNGTHpKcGVGS21oVEdJTXFueDFjQkExMEMweXJYd2p6Ulc3dDc3aGVkQjR6Vk9EM2c4eF9VSUJIelRyemRpTmYzTTVHZUxuNnZfY3gtV2tZYUNtLW9BdGwxSVUxVzRyM2pfMEVmV1l0Q3cyNkFNbXZXckdLZ3hZemJUZ0luaHJrWGRaUkwtQQ?oc=5",
+      "published": "2026-10-28T05:15:58+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Obituaries",
+      "summary_original": "Obituaries The Times",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WMTdBTm9uZ3BmUnVFc1JNdldBZWJicER0VW1ETW00NVlNVkctYkFmcWdjQkdUQXdQbzk2UUFTcEMzLWEwVFNhZ2QzNFV4THM?oc=5",
+      "published": "2026-10-28T04:04:14+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "I’m sticking to my guns on Ukraine, so there",
+      "summary_original": "I’m sticking to my guns on Ukraine, so there The Times",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWFQ0TEFoU1doUzkxbEFZZEhqdnpudmZEZXRkSEJWYUNuMUMwejI2elhsTVNiQnNON0g4YmRhSVJfcGRQSnhXYzVaSkg4SGR2WU1QQWk1WkROMlJyVlFhRkQyNzg5bmFQSXFpM1lxNl9hZnAycXREVXl0MVA5RHlKVThZSlJvbzFZNkxQSTEyUXNQT0Z1YU0tdDNKUDZLcDNQNlBaWHZ6a2ZaWW1TSW1kU2RQOA?oc=5",
+      "published": "2026-10-28T03:45:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Gianni Infantino critic faces disciplinary threat after bribery accusation",
+      "summary_original": "Gianni Infantino critic faces disciplinary threat after bribery accusation The Times",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNDhrWTNRSE93eFVaZThoa2M1aHA3UHMtV2diVnpqYUk1Qm5MN1FfNW50eFFSZWlseVo0SE5uU0pqdjdEVjJFXzFrb3FRNWhEYW96ZTBrQ3Q4dG53ZmY3SVFNTlBIX01KeHRRT1ZRbWh3RUJnSWRRWXlfdElXazZ4RkZHQTRncW5ibXd4TFNGNTNON1NLdUhNTThmb1lXSE81Q0JRVHM4SVdFM0hsV2c?oc=5",
+      "published": "2026-10-28T03:25:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Subscription & Billing - Newsletters - The Times",
+      "summary_original": "Subscription & Billing - Newsletters - The Times The Times",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zR0hoaGt6SlVQdi1WZXU1TEZiTVg2U21XYjkzcmkyU3REblRRQlBpdDdQVllnQ3RiRmZveXg3ODNaUU5vbDBPMXlWZFJWS21sNThhSDNOSVUwUkw3aTRB?oc=5",
+      "published": "2026-10-28T03:18:46+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Trump reportedly pardoned Savannah Chrisley’s mysterious new fiance",
+      "summary_original": "Trump reportedly pardoned Savannah Chrisley’s mysterious new fiance The Independent",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZVZnUWhBMXNnOTc1Wl9acl9vdEhtTXJFbm9KcUpmUDRlV2k4M1JNNHNLS1pjdU9PWkJyZjZqUGhmUW5UelQ4dUdBaFN4bXRiUXFmWGIwSlJ4OU1LQWR3YnNncndyb3A5RUhqaEZybXh4Q3pRSHZGOC1NRG84WUw4MU9kdlV0a1ZKaHZEUU1WeVA0Y3Nnbkd1MkFKN2NtbjNxMV9tRTladEZFQQ?oc=5",
+      "published": "2026-10-28T04:32:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Trump official is called a 'liar' during shouting match with Cuban officials at UN",
+      "summary_original": "Trump official is called a 'liar' during shouting match with Cuban officials at UN The Independent",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSENrazV3c1h5Q0FkNjViT1FRNUpRLWpvYWY2bUtJQUNoQkxFV3IyeVV4N1AtVDlYcHlra1BZbTl1b1NtS3VqdTIydUdUMFdSSHBvckRneVkyQmlvZk1GWTA4RTdTaDd2WUZ2ckVXUE5sbThod2NIVkpqcmZEZ1E5UVpWZ1BudEpHQllkVHk1WGRPcHBCaXp5M0M0S2g4QWhSR3JBLTZ5N2dHYlNIMWc?oc=5",
+      "published": "2026-10-28T04:25:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Two men charged over alleged terror plot at RAF Fairford were being controlled by Iranian handler, court told",
+      "summary_original": "Two men charged over alleged terror plot at RAF Fairford were being controlled by Iranian handler, court told The Independent",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ2NqSU1veF9fWVBoUi1yN1ozX0JPTzR4SWxwbzBRWjdSVHRtTjhRUmMyX0RPWGxrUU5ZU1NMTmJEcEdBNmlnM0x3TG9DRW51aDl1dGR5T0ZUeVJRNTBrbVZlbV9ObjY5ZnAyMXNRWDZRRnZMbjdGWVFncWQyYzY3MllhM1F3LVNGTlBQdGpEUmxDU0l1UmNDMzEtY3o1RGhs?oc=5",
+      "published": "2026-10-28T04:04:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Not that Alpha? Humiliating poll reveals how few Americans think Pete Hegseth is strong role model",
+      "summary_original": "Not that Alpha? Humiliating poll reveals how few Americans think Pete Hegseth is strong role model The Independent",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc0lMQlhPTS1EMFpsZGdFa1BFYnNKVlVBWklnbS11bzNoVkZZSVdIQnJvUGVOU2hmckR1U3pyZGpZM0dBOU5XX1p1aTBCQkxkY21Lc2dTQjBuUHd0U3dxTElGbWJmZVAya1Z1NmF1UTU4SGl2RTJUUWhMWjVNb2EzNlZPWnZGb1ozUTNybG1WSHFPRFIyRG0yVl95UzcyRUdIUWVjVFpKNA?oc=5",
+      "published": "2026-10-28T03:59:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Trump accused of raping former Miss Switzerland in Democrats’ Epstein report",
+      "summary_original": "Trump accused of raping former Miss Switzerland in Democrats’ Epstein report The Independent",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQczZRZlhzdWdva2lYUjJZNGJFazJTZHpyN0hrOEZaMHdqRkxYN18tYkxsQURhY0VJM3c1UFI5bUx6b3VzVVg5WlhxbW1mTkxlM2JVOXZyeFF5dnBjRlVqajRuNHBKRjhRSFVJMEVMQ0FMUjJJdnZjUFR5UXQtNzJjUk9jNHRwRE4xbDh0d20tdlI0dkNyVVNsMDVwNEJ6eFJobXZfbUhycVdyNVNyZmlVZTM3ZzludW5oR0pEN25BUGI?oc=5",
+      "published": "2026-10-28T03:46:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Trump says he will ban everyone from using the phrase ‘artificial intelligence’",
+      "summary_original": "Trump says he will ban everyone from using the phrase ‘artificial intelligence’ The Independent",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN2dSeFdLbnF6X080cDF5aXEwakdhTWFTY0F0UWlPdWxSZl94SjRlLWZud3B2Q2w1RGVhOHQtajNBMDNUR3RkeWtpTm9hQVpEelhidndoMHBKM0MzX0NEaTZQS2N3UGFETjJkdGY1aVIwTDRwYlBtSDVVTExHUGdrU2FGV0tjdmtKMDJBQWd3WHUtNEM4VDJXeE9CX0V0T2M4d3dobWZBb1NWYkN1X1pZLUNDZEtmQTQ?oc=5",
+      "published": "2026-10-28T03:36:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Smashing Pumpkins frontman Billy Corgan turns heads with age-gap ‘advantage’ comment about younger wife",
+      "summary_original": "Smashing Pumpkins frontman Billy Corgan turns heads with age-gap ‘advantage’ comment about younger wife The Independent",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTlJDV1FoWnpUY0RjaDVZTUt2Mm1DTGd4SlIwWUxBR0tvZjdsQml2aHVQc3ZsN2hfeDFfRVhnYmVxaTNKWUZicjg3d3BrZF9NdnB2eFJESnhoRy1yNDdEck9uSFpHdlFRbGlNdFRkV1lhN2xXNXoyTS1IUlFnSEc1LUN6QkRfdml0SDE1TjJFVElhN09RdVdjSHo1ZUw4Rzg?oc=5",
+      "published": "2026-10-28T03:02:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Flavio Bolsonaro ‘leaves Brazil for US with family days after losing election’",
+      "summary_original": "Flavio Bolsonaro ‘leaves Brazil for US with family days after losing election’ The Independent",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONE9EamdkY09hUnYwZEg0SWE5LWpPTUVHREJQVHo4em9NblloeUlfT1dEMEVtQkFWTDA2UmxxSlJRSzYtVWJkNTBZY3hIV0dSVVJEQlVFOERYY19ubVJ1Tzg1dnNaQ3ZIMnVhZ3U3eG1hdGpIWERrODQ3RWh2QnY3TVlvaVlqY2cyWEpTQzFua1A2Q0l1bXUxUi1YcFhTWVRzSllqb1cxS1dtaDhK?oc=5",
+      "published": "2026-10-28T03:00:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "Donald Trump may love the Middle East to death",
+      "summary_original": "Donald Trump may love the Middle East to death The Economist",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZWY0aUxlYW9FNkxOUjNmUWVrWHRTOFNwbHhYNEVndHVKY1N5RERsWFVGWUk0RFJZTVVDVnNUZUtWa3pfTXZTN0JHeFFFOTJjMWZHeFpQeC1SdVFqcWp4UWhaekY5WUlLcWdYcFMwdUlmTGlxaXl3V0QwZ1B2Y2RpOTFBM3hhUVltNFcxOGp3RFp4MGNjVmpMMWF5Yjg2Zw?oc=5",
+      "published": "2026-10-28T05:38:56+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "Feed - The Economist",
+      "summary_original": "Feed - The Economist The Economist",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MeTZucGE3dF9VV3kzdDh2N2U0a2hNLXFTTTdCY3BKWFZfSUlnXzVhcVRvS0dTdngxNGR1U0Y2QUdOYlJ6dGgyOUpLOXNHS2M?oc=5",
+      "published": "2026-10-28T03:33:33+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "Blighty newsletter: What a Center Parcs break says about you",
+      "summary_original": "Blighty newsletter: What a Center Parcs break says about you The Economist",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcHVvLV9pcHVJZThlLVVNcHc1NEwyMW9yTGZwa0FkZ25DVzlzVjN6a05JWVBQbVhlLXNlbWg0cm1VU1ltR3U0d25VX3RQNVZKVTJtT2VQUzlGQmZpTUNXWnRwNkswMGRNUWxIRUxaZHhfWkNJYU5fbUwwcFBYYkdxc0VReE0tT0N6UWY3VS05a0M1RHhwVGlOZFhUQjdPZzJCVHBLYWNpQQ?oc=5",
+      "published": "2026-10-28T02:27:17+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "After its Odyssey, IMAX hits the big time",
+      "summary_original": "After its Odyssey, IMAX hits the big time The Economist",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORF9VdXh2QnA4S19pN2ppN2wyVEphMlRGQ2pUT2VUcWViWXBmRTBmR2FDMVFsdVc4VXcybkZvNkszRVp3cGkxelV0UXNhSllGR1lXem14WFQ2TkItUm5VMWMyU1JZalNHMHpjNHRqR2VPZnR5TklWN0pOaW83OTBTaUhibDgzR05WQk9hcUtndw?oc=5",
+      "published": "2026-10-28T02:25:14+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "France is rioting. The rest of Europe is surprisingly peaceful",
+      "summary_original": "France is rioting. The rest of Europe is surprisingly peaceful The Economist",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZkZfXzVSdWdzX0luS3pjUHZuakpHWEp5MFd4ZFhpZEd3cVMxUHNOdGVBWGY0MkxCNXc3X2FjaTFCVTFOZUc3WUF5RmRpX3pYc0JRYzV4WjlqcDlHMTNCTWl3MHR4V0dnaVBhNXMxdzd6YVJCMkhjTGlWQlJXekZ2b0ltREJBMHY0MnViMWtsVmwzcUk1ckxmajhaMURuakNpS0g3MEgwTjRVaWlqeElsRUtqaw?oc=5",
+      "published": "2026-10-28T01:50:52+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "Daily quiz",
+      "summary_original": "Daily quiz The Economist",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhdDdhNnlRc2d2dmlpRnQ5VXRDZ0tqRWFrU2E0VVB2X1MwRWZVYkhXcmdKMHdyYmpySHkwOHBIekZoTG5qS01FTUtYb1k2dDM4RTlRb3NQVFh0Y2c0WkhSa0dIdXpTVk83ZjM0cw?oc=5",
+      "published": "2026-10-28T01:42:43+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "A shot in the arm for China’s economy",
+      "summary_original": "A shot in the arm for China’s economy The Economist",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWWE5aFo0eVpFTXZuS3lubHk1cmtiNTltSEhLWTZibzlhMjl2SHA1eG9kb0NNZDUwRFpJT2FDM1VoMncwTE1ub1dyNVBJMi1seVp3ZVNIb1ljX2gwcExVT0g0ME4tUS1aQmpFZ3VzZUJSRzZBekNrZUYzTmpMbHFXQnVXcWFSNGZsd0E?oc=5",
+      "published": "2026-10-28T01:23:32+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "Kim Jong Un’s curious visit to China",
+      "summary_original": "Kim Jong Un’s curious visit to China The Economist",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNemNJaGxMR0YtdTlrVjVYR1NRVHl5QkFLdmVvNkNacHZTbTJOUnVsdmVkZ0lXbWxIUkFVN1ItandrYXBybDRSUWVGZDBSQzVtM3RHNkZjRlY1RWxubmhNelk4MHZ1SEJvU05sSW5jYkhObHdvV3NVTDdLd25BTnFLOHhMQkY?oc=5",
+      "published": "2026-10-28T01:17:18+09:00",
+      "via": "google_news",
+      "state_media": false
+    }
+  ],
+  "unavailable_sources": [],
+  "errors": {
+    "The Independent": [
+      "rss 실패: ParseError: not well-formed (invalid token): line 1, column 0"
+    ]
+  }
+}

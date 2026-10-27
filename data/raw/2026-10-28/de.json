@@ -1,0 +1,729 @@
+{
+  "team": "de",
+  "team_name_ko": "독일팀",
+  "collected_at": "2026-10-28T06:15:24.198226+09:00",
+  "headlines": [
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Keine klare Mehrheit bei Parlamentswahl in Israel",
+      "summary_original": "Die Parlamentswahl in Israel hat laut ersten Prognosen keinen klaren Sieger hervorgebracht. Weder für Premierminister Netanjahu noch für seinen wichtigsten Herausforderer Eisenkot zeichnet sich eine Mehrheit in der 120 Sitze zählenden Knesset ab.",
+      "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-prognose-100.html",
+      "published": "2026-10-28T06:01:11+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Bahnstrecke Hamburg-Berlin nach Bombenfund wieder frei",
+      "summary_original": "Nach dem Fund eines Sprengkopfes aus dem Zweiten Weltkrieg in Müssen in Schleswig-Holstein war der Bahnverkehr zwischen Hamburg und Berlin sowie Schwerin unterbrochen. Nun ist die Sperrung wieder aufgehoben.",
+      "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/raketenteil-in-muessen-geborgen-bahnstrecke-hamburg-berlin-wieder-frei,muessen-100.html",
+      "published": "2026-10-28T05:43:58+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "tagesschau in 100 Sekunden",
+      "summary_original": "tagesschau in 100 Sekunden",
+      "url": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1673740.html",
+      "published": "2026-10-28T05:37:14+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Niedersachsen: Auto in Menschengruppe gesteuert - mehrere Verletzte",
+      "summary_original": "In Neustadt am Rübenberge in Niedersachsen ist am späten Abend ein Auto in eine Menschengruppe gesteuert worden. Mehrere Menschen wurden verletzt. Drei Personen wurden laut Polizei vorläufig festgenommen.",
+      "url": "https://www.tagesschau.de/inland/regional/niedersachsen/auto-in-menschenmenge-gesteuert-polizei-nimmt-drei-verdaechtige-fest,neustadt-158.html",
+      "published": "2026-10-28T05:24:51+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Bei Knesset-Wahl zeichnet sich enorm hohe Wahlbeteiligung ab",
+      "summary_original": "Für viele Israelis ist es nicht weniger als eine Schicksalswahl - und das spiegelt sich in der Wahlbeteiligung wider. Die liegt auf einem Rekordniveau. Umfragen deuten auf ein knappes Rennen hin.",
+      "url": "https://www.tagesschau.de/ausland/asien/hohe-wahlbeteiligung-israel-100.html",
+      "published": "2026-10-28T05:05:11+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "CDU-Politikerin Claus signalisiert Interesse an Steinmeier-Nachfolge",
+      "summary_original": "Bisher gibt es nur den Vorschlag der CSU: Ilse Aigner soll Bundespräsidentin werden. Doch in der CDU gibt es den Wunsch nach einem Namen aus den eigenen Reihen. Nun wird der von Ines Claus genannt. Hätte sie Chancen? Von Kirsten Girschick.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/moegliche-nachfolgerin-steinmeier-ines-claus-100.html",
+      "published": "2026-10-28T04:52:58+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Frankfurt gewinnt Duell beim HSV",
+      "summary_original": "Eintracht Frankfurt hat das Bundesliga-Duell beim Hamburger SV gewonnen und steht im Achtelfinale des DFB-Pokals. Für den HSV war wesentlich mehr drin, doch er nutzte seine Chancen nicht.",
+      "url": "https://www.sportschau.de/fussball/dfbpokal/frankfurt-bestraft-hsv-chancenwucher,spielbericht-dfb-pokal-hamburg-frankfurt-100.html",
+      "published": "2026-10-28T04:36:18+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Brasilien: Bolsonaro trotz Ausreiseverbots offenbar auf Weg in USA",
+      "summary_original": "Der unterlegene Präsidentschaftskandidat Flávio Bolsonaro hat nach Medienberichten Brasilien verlassen und ist auf dem Weg in die USA. Bolsonaro darf wegen einer Entscheidung des Obersten Gerichts eigentlich nicht ausreisen.",
+      "url": "https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html",
+      "published": "2026-10-28T04:25:34+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Wahl in Israel: Kein klarer Sieger nach ersten Prognosen",
+      "summary_original": "Bei der Wahl in Israel zeichnet sich kein klarer Sieger im Rennen zwischen den Lagern von Ministerpräsident Netanjahu und Herausforderer Eisenkot ab.",
+      "url": "https://www.zdfheute.de/politik/ausland/wahl-israel-netanjahu-eisenkot-liveblog-100.html",
+      "published": "2026-10-28T06:02:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Niederlande nehmen nun doch nicht am ESC teil",
+      "summary_original": "Eigentlich wollten die Niederlande 2027 wieder am Eurovision Song Contest teilnehmen, nachdem sie den Wettbewerb in diesem Jahr boykottiert hatten. Doch daraus wird nun nichts.",
+      "url": "https://www.zdfheute.de/panorama/esc-eurovision-song-contest-niederlande-israel-100.html",
+      "published": "2026-10-28T05:47:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Patt zwischen Netanjahu und Eisenkot - Regierungsbildung offen",
+      "summary_original": "Bei der Wahl in Israel zeichnet sich nach Schließung der Wahllokale ein Patt ab. Weder Ministerpräsident Netanjahu noch Herausforderer Eisenkot können mit einer Mehrheit rechnen.",
+      "url": "https://www.zdfheute.de/politik/ausland/israel-parlamentswahl-netanjahu-eisenkot-100.html",
+      "published": "2026-10-28T05:20:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Zehntausende fliehen vor Zyklon \"Arnab\"",
+      "summary_original": "Rund 100.000 Menschen in Indien sollen ihre Häuser verlassen. Zyklon \"Arnab\" droht mit Wind bis zu 150 Kilometern pro Stunde.",
+      "url": "https://www.zdfheute.de/video/indien-zyklon-evakuierung-video-100.html",
+      "published": "2026-10-28T04:47:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Leipzig entgeht in Unterzahl Pokal-Blamage in Essen",
+      "summary_original": "Ein früher Rückstand und ein Platzverweis bringen Leipzig im Pokal gegen Drittligist Essen in Bedrängnis. Am Ende sorgt ein Joker aber doch noch fürs Weiterkommen des Favoriten.",
+      "url": "https://www.zdfheute.de/sport/fussball-dfb-pokal-rb-leipzig-rw-essen-100.html",
+      "published": "2026-10-28T04:29:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Bolsonaro flieht offenbar trotz Ausreiseverbot in die USA",
+      "summary_original": "Gegen den unterlegenen Präsidentschaftskandidaten Flávio Bolsonaro wird wegen Geldwäsche ermittelt. Statt seine Pässe abzugeben, ist er nun offenbar in die USA geflohen.",
+      "url": "https://www.zdfheute.de/politik/ausland/brasilien-wahl-bolsonaro-ermittlungen-geldwaesche-ausreiseverbot-100.html",
+      "published": "2026-10-28T04:16:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Borussia Dortmund gegen Werder Bremen",
+      "summary_original": "Das ZDF überträgt aus der 2. Runde des DFB-Pokals 2026/27 die Partie Borussia Dortmund gegen Werder Bremen.",
+      "url": "https://www.zdfheute.de/sport/fussball-dfb-pokal/video/dfb-pokal-2-runde-borussia-dortmund-sv-werder-bremen-livestream-100.html",
+      "published": "2026-10-28T04:15:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Nach der Landtagswahl: Sachsen-Anhalt im Schwebezustand",
+      "summary_original": "Im September hat die AfD die Wahl in Sachsen-Anhalt gewonnen, ohne absolute Mehrheit. Eine neue Regierung gibt es bislang nicht, ein Landeshaushalt steht aus - ein Stimmungsbild.",
+      "url": "https://www.zdfheute.de/politik/deutschland/sachsen-anhalt-afd-regierung-haushalt-foerdermittel-soziales-kommunen-100.html",
+      "published": "2026-10-28T03:16:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Zwischenwahlen in den USA: Warum sind sie wichtig, wer wird gewählt, wo wird’s spannend?",
+      "summary_original": "Die US-Amerikaner wählen einen neuen Kongress. Die Midterms gelten dabei auch als Bewertung von Trumps Politik. Senat, Abgeordnetenhaus, Gouverneure – die Zwischenwahl hat entscheidenden Einfluss auf die Zukunft der USA.",
+      "url": "https://www.dw.com/de/zwischenwahlen-in-den-usa-warum-sind-sie-wichtig-wer-wird-gewählt-wo-wird-s-spannend/a-79776241?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-10-28T01:25:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Russland in Afrika: Was der Kreml erreichen will",
+      "summary_original": "Nach der Invasion der Ukraine und dem anschließenden Bruch mit dem Westen hat Russland eine \"historische Rückkehr\" nach Afrika angekündigt. Was ist bislang dabei herausgekommen?",
+      "url": "https://www.dw.com/de/russland-in-afrika-was-der-kreml-erreichen-will/a-79774216?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-10-27T23:28:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Nach der Niederlage von Langzeit-Herrscher Aleksandar Vucic bei den Parlamentswahlen hofft Serbiens Medienwelt auf einen Neuanfang",
+      "summary_original": "Regierungsnahe Sender dominierten 15 Jahre lang die Öffentlichkeit Serbiens. Seit dem Wahlsieg der Studentenliste wächst die Hoffnung auf mehr Medienfreiheit und eine Aufarbeitung der Propaganda.",
+      "url": "https://www.dw.com/de/nach-der-niederlage-von-langzeit-herrscher-aleksandar-vucic-bei-den-parlamentswahlen-hofft-serbiens-medienwelt-auf-einen-neuanfang/a-79775750?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-10-27T23:09:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Steinmeier in China: Bundespräsident wirbt für fairen Handel und weniger Abhängigkeiten",
+      "summary_original": "Deutsche Technologie wird in China weiter geschätzt. Wie nutzt Volkswagen dort die Chancen der Elektromobilität und was tut die EU gegen die Abhängigkeit der Europäer?",
+      "url": "https://www.dw.com/de/steinmeier-in-china-bundespräsident-wirbt-für-fairen-handel-und-weniger-abhängigkeiten/a-79774788?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-10-27T22:34:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "NSU-Terroristin Zschäpe bleibt bis mindestens 2035 in Haft",
+      "summary_original": "Das OLG München hat eine vorzeitige Entlassung von Beate Zschäpe abgelehnt. Die wegen der NSU-Mordserie verurteilte Rechtsterroristin muss mindestens 24 Jahre Haft verbüßen und könnte frühestens 2035 freikommen.",
+      "url": "https://www.dw.com/de/nsu-terroristin-zschäpe-bleibt-bis-mindestens-2035-in-haft/a-79776152?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-10-27T22:31:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Waffenruhe in ukrainischer Stadt Oleschky in Kraft",
+      "summary_original": "Die Zivilbevölkerung soll dringend benötigte Hilfe erhalten. Es fehlt an Wasser, Lebensmitteln und Medikamenten. Russland hält die Stadt in der Region Cherson seit Jahren besetzt.",
+      "url": "https://www.dw.com/de/waffenruhe-in-ukrainischer-stadt-oleschky-in-kraft/a-79776172?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-10-27T22:13:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "UN-Untersuchung wirft Israel Völkermord und Verbrechen gegen Menschlichkeit vor",
+      "summary_original": "Eine UN-Untersuchungskommission wirft Israel Verbrechen gegen die Menschlichkeit im Westjordanland und Völkermordhandlungen im Gazastreifen vor. Israel weist die Vorwürfe als Desinformation zurück.",
+      "url": "https://www.dw.com/de/un-untersuchung-wirft-israel-völkermord-und-verbrechen-gegen-menschlichkeit-vor/a-79774010?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-10-27T20:40:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Brasilien: Bolsonaro-Lager erkennt Lula-Sieg nur teilweise an",
+      "summary_original": "Die Partei von Flávio Bolsonaro akzeptiert das Wahlergebnis in Brasilien formell, verlangt aber die Klärung offener Fragen zum Wahlprozess. Unterstützung kommt von US-Präsident Donald Trump.",
+      "url": "https://www.dw.com/de/brasilien-bolsonaro-lager-erkennt-lula-sieg-nur-teilweise-an/a-79772977?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-10-27T18:26:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Tragödie im Urlaub: Deutscher stirbt bei Schwimmbrillen-Suche auf den Seychellen",
+      "summary_original": "Ein Urlauber vergisst seine Schwimmbrille am Strand und kommt von der Suchaktion nicht mehr ins Hotel zurück. Erst am nächsten Tag entdeckt ein Suchtrupp auf den Seychellen die Leiche des Deutschen.",
+      "url": "https://www.n-tv.de/panorama/Deutscher-stirbt-bei-Schwimmbrillen-Suche-auf-den-Seychellen-id31465115.html",
+      "published": "2026-10-28T05:34:11+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Krimi gegen 20-Jährigen: Zverev fehlt nach Zitterpartie nur noch ein Sieg zur Nummer 1",
+      "summary_original": "Mit einem Marathon-Tiebreak in Richtung Spitze der Weltrangliste: Beim Auftakt in Wien tut sich Alexander Zverev gegen den spanischen Youngster Martín Landaluce mächtig schwer - dennoch fehlt nur noch ein Schritt bis zum großen Traum.",
+      "url": "https://www.n-tv.de/sport/Zverev-fehlt-nach-Zitterpartie-nur-noch-ein-Sieg-zur-Nummer-1-id31465144.html",
+      "published": "2026-10-28T05:25:35+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Netanjahu-Partei leicht vorn: Bei der Parlamentswahl in Israel zeichnet sich ein Patt ab",
+      "summary_original": "Israel steht nach einer von Sicherheitsfragen und gesellschaftlichen Konflikten geprägten Wahl vor schwierigen Mehrheitsverhältnissen. Erste Prognosen sehen den Likud von Ministerpräsident Netanjahu knapp vorn. Für eine Regierungsbildung reicht es nach derzeitigem Stand nicht.",
+      "url": "https://www.n-tv.de/politik/Bei-der-Parlamentswahl-in-Israel-zeichnet-sich-ein-Patt-ab-id31465131.html",
+      "published": "2026-10-28T05:04:03+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Streit belastet Koalitionspläne: Berliner Linke vertagt Entscheidung über Vanessa Emde",
+      "summary_original": "Die Berliner Linke ringt weiter um den Umgang mit Vanessa Emde. Ein Gespräch mit der wegen ihrer Positionen zu Israel umstrittenen Abgeordneten bringt keine Annäherung. Kurz vor dem Parteitag bleibt damit eine zentrale Personalfrage ungelöst.",
+      "url": "https://www.n-tv.de/politik/Berliner-Linke-vertagt-Entscheidung-ueber-Vanessa-Emde-id31465046.html",
+      "published": "2026-10-28T04:31:07+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Auch 2027 keine Teilnahme: Niederlande boykottieren weiterhin den ESC",
+      "summary_original": "Während in Israel gewählt wird, haben andere Länder ihre Wahl bereits getroffen: Die Niederlande werden, ebenso wie Irland, auch 2027 nicht am Eurovision Song Contest teilnehmen. Hintergrund ist, dass Israel trotz des Gaza-Krieges bei dem Wettbewerb weiter dabei ist.",
+      "url": "https://www.n-tv.de/leute/Niederlande-boykottieren-weiterhin-den-ESC-id31464278.html",
+      "published": "2026-10-28T04:30:30+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Dammbruch im Gewichtheben?: Zynische WM-Vergabe an Russland wirft heikle Fragen auf",
+      "summary_original": "Der Gewichtheber-Weltverband hat die WM 2030 an Russland vergeben. Eine Blaupause für andere Sportarten? Denn auch dort werden russische Sportler und Sportverbände mittlerweile wieder nahezu anstandslos anerkannt.",
+      "url": "https://www.n-tv.de/sport/Zynische-WM-Vergabe-an-Russland-wirft-heikle-Fragen-auf-id31463676.html",
+      "published": "2026-10-28T04:26:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Leipzig wehrt Pokal-Blamage ab: Bochum schockt Mainz, Frankfurt kegelt HSV raus",
+      "summary_original": "Die zweite Runde des DFB-Pokals beginnt wild: Zweitligist Bochum haut Mainz raus und Drittligist Rot-Weiß Essen ist kurz davor, RB Leipzig zu düpieren. Aber dann dreht der Champions-League-Teilnehmer die Partie kurz vor Schluss. Die HSV-Notelf hat keine Chance gegen Frankfurt.",
+      "url": "https://www.n-tv.de/sport/fussball/Bochum-schockt-Mainz-Frankfurt-kegelt-HSV-raus-id31464991.html",
+      "published": "2026-10-28T04:01:16+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Bericht aus Epstein-Akten: Schweizer Ex-Model wirft Trump Vergewaltigung vor",
+      "summary_original": "Schon einmal erhebt das Ex-Model Beatrice Keul den Vorwurf, dass Trump sie sexuell belästigt haben soll. Einem Bericht über die Epstein-Akten zufolge soll es aber um mehr gehen: Der US-Präsident soll die Schweizerin vergewaltigt haben.",
+      "url": "https://www.n-tv.de/politik/Schweizer-Ex-Model-wirft-Trump-Vergewaltigung-vor-id31464844.html",
+      "published": "2026-10-28T03:33:41+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Israel steht nun vor einer weiteren Phase politischer Ungewissheit – das sind die Szenarien",
+      "summary_original": "Nach den Parlamentswahlen in Israel zeichnet sich ein Patt zwischen den einzelnen Lagern ab. Wie geht es nun weiter? WELT skizziert die nun möglichen Szenarien.",
+      "url": "https://www.welt.de/politik/ausland/plus6ae10818af96de42f96e9223/parlamentswahl-israel-steht-nun-vor-einer-weiteren-phase-politischer-ungewissheit-das-sind-die-szenarien.html",
+      "published": "2026-10-28T05:53:54+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Keine klare Mehrheit bei Parlamentswahl in Israel – leichter Vorsprung für Netanjahu",
+      "summary_original": "Bei der Parlamentswahl in Israel zeichnet sich laut erster Prognose ein enges Rennen zwischen dem Lager von Ministerpräsident Benjamin Netanjahu und seinen politischen Gegnern ab. Niemand erreicht offenbar die absolute Mehrheit.",
+      "url": "https://www.welt.de/politik/ausland/article6ae10006f74d161423be0ad4/wahlprognose-keine-klare-mehrheit-bei-parlamentswahl-in-israel-leichter-vorsprung-fuer-netanjahu.html",
+      "published": "2026-10-28T05:04:53+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Die arabischen Parteien könnten zum Königsmacher werden“",
+      "summary_original": "So viele Israelis wie nie zuvor geben ihre Stimme ab. Viele sprechen von der „wichtigsten Wahl ihres Lebens“. Vor allem der Wunsch nach Wandel ist spürbar, berichtet Axel Springer Global Reporter Jan Philipp Burgard aus Tel Aviv.",
+      "url": "https://www.welt.de/politik/ausland/video6ae0fbc7f74d161423be0aaa/wahlen-in-israel-die-arabischen-parteien-koennten-zum-koenigsmacher-werden.html",
+      "published": "2026-10-28T04:56:12+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Dieser Ex-General will Netanjahu ablösen",
+      "summary_original": "Gadi Eisenkot fordert Benjamin Netanjahu bei den israelischen Wahlen heraus. Der frühere Generalstabschef verspricht einen politischen Neuanfang, die Aufarbeitung des 7. Oktober und eine Wehrpflicht auch für Ultraorthodoxe. Axel Springer Global Reporter Jan Philipp Burgard berichtet.",
+      "url": "https://www.welt.de/politik/ausland/video6ae0fa327645cbab4cf3fe18/israels-zukunft-dieser-ex-general-will-netanjahu-abloesen.html",
+      "published": "2026-10-28T04:48:28+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Kommt Werder nach Dortmunds Doppelschlag noch einmal zurück?",
+      "summary_original": "Die zweite Runde im DFB-Pokal wird mit einem Duell zweier Traditionsvereine fortgesetzt: Borussia Dortmund empfängt Werder Bremen. Verfolgen Sie die Partie hier im Liveticker.",
+      "url": "https://www.welt.de/sport/fussball/article6ae0fdb1f74d161423be0abd/dfb-pokal-kommt-werder-nach-dortmunds-doppelschlag-noch-einmal-zurueck.html",
+      "published": "2026-10-28T04:44:36+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Dann muss man auch die Koalition in Frage stellen“",
+      "summary_original": "Der hessische JU-Chef Lukas Brandscheid fordert von der Union schnelle Ergebnisse in der Bundesregierung. Die „politische Schonfrist“ sei vorbei: Dringende Reformen dürften nicht „dauerhaft an der SPD scheitern“.",
+      "url": "https://www.welt.de/videos/video6ae0e38367fc5d0d0ce67a03/ju-chef-zur-spd-dann-muss-man-auch-die-koalition-in-frage-stellen.html",
+      "published": "2026-10-28T04:17:59+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Kulturkampf im Brötchen – der große Irrtum der McRib-Patrioten",
+      "summary_original": "Ein Burger verschwindet, und die Abendlandretter wittern Unterwerfung. Der Kulturkampf um den McRib belegt aber vor allem eines: wie wenig sie ihre eigene Heimat verstanden haben.",
+      "url": "https://www.welt.de/debatte/article6ae0befc67fc5d0d0ce67792/mcrib-kulturkampf-im-broetchen-der-grosse-irrtum-der-mcrib-patrioten.html",
+      "published": "2026-10-28T04:12:02+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Ich hätte da Angst, einzugreifen“, sagt der Jugendliche nach dem Gewaltexzess",
+      "summary_original": "Überwiegend ausländische 13- bis 15-Jährige schlagen und treten einen deutschen Jugendlichen zusammen: Diese Attacke nahe einer Schule wühlt Frankfurt (Oder) auf. Die Stadt will ein Signal senden – die AfD auch.",
+      "url": "https://www.welt.de/politik/deutschland/plus6ae05a7816ed143d64a1ddae/migrantische-jugendgewalt-ich-haette-da-angst-einzugreifen-sagt-der-jugendliche-nach-dem-gewaltexzess.html",
+      "published": "2026-10-28T04:06:15+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Kommentar: Israels Partner dürfen auf eine verlässlichere Regierung hoffen",
+      "summary_original": "Die Israelis wollen Benjamin Netanjahu offenbar ablösen. Für Deutschland und andere Partner wäre das eine gute Nachricht. Die aktuelle Regierung war unberechenbar.",
+      "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-israels-partner-duerfen-auf-eine-verlaesslichere-regierung-hoffen/100265372.html",
+      "published": "2026-10-28T05:36:11+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Wahl in Israel: Erste Hochrechnung sieht Oppositionslager leicht vorn – Arabische Parteien gewinnen deutlich hinzu",
+      "summary_original": "Der bisherige Oppositionsblock liegt bei der Parlamentswahl mit 52 Sitzen vorn, hat aber keine Mehrheit. Die Koalition unter Premier Netanjahu kommt auf 50 von 120 Sitzen.",
+      "url": "https://www.handelsblatt.com/politik/international/israel-erste-hochrechnung-sieht-oppositionslager-leicht-vorne/100264665.html",
+      "published": "2026-10-28T05:33:04+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Luftfahrt: Boeing baut weniger 737 Max als geplant – Aktie fällt deutlich",
+      "summary_original": "Fünf Maschinen mehr pro Monat wollte Boeing ab Sommer 2026 fertigstellen. Dieses Ziel wird nun wohl erst im nächsten Jahr erreicht. Die Aktie fällt auf den tiefsten Stand seit anderthalb Jahren.",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/luftfahrt-boeing-baut-weniger-737-max-als-geplant-aktie-faellt-deutlich/100265384.html",
+      "published": "2026-10-28T03:09:08+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "US-Wahlen: Warum Trumps Anhänger unbeirrbar sind – trotz aller Eskapaden",
+      "summary_original": "Er ist peinlich, gibt sich ungebildet, pfeift auf Kultur, doch genau dafür lieben die Fans Trump – trotz gebrochener Versprechen. Warum? Erkundigungen in Florida, dem Epizentrum des Trumpismus.",
+      "url": "https://www.handelsblatt.com/politik/international/us-wahlen-warum-trumps-anhaenger-unbeirrbar-sind-trotz-aller-eskapaden/100264826.html",
+      "published": "2026-10-28T03:05:55+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Brasilien: Bolsonaro nach Wahlniederlage offenbar auf dem Weg in die USA",
+      "summary_original": "Per gerichtlicher Anordnung sollte Flávio Bolsonaro eigentlich seinen Pass abgeben. Die Frist dafür ließ er verstreichen – und hat nun offenbar das Land verlassen.",
+      "url": "https://www.handelsblatt.com/politik/international/brasilien-bolsonaro-nach-wahlniederlage-offenbar-auf-dem-weg-in-die-usa/100265385.html",
+      "published": "2026-10-28T03:02:21+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "US-Börsen: US-Börsen schließen durchmischt – Boeing-Aktie verliert zweistellig",
+      "summary_original": "Nach der Euphorie über den geplanten Börsengang von Anthropic lässt die Dynamik an den US-Märkten etwas nach. Anleger richten den Blick auf neue Unternehmenszahlen und den Nahen Osten.",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-usboersen-ueberwiegend-im-plus-boeing-aktie-verliert-zweistellig/100265281.html",
+      "published": "2026-10-28T02:07:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "„S-Neo“: Sparkassen übertreffen mit neuem Wertpapier-Depot-Angebot eigenes Ziel",
+      "summary_original": "DSGV-Chef Ulrich Reuter spricht von mehr als 50.000 „S-Neo“-Depots nach nur wenigen Monaten. Gemessen an der Zahl der Girokonten ist das aber wenig – und der Gesamtmarkt ist hart umkämpft.",
+      "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/broker-sparkassen-uebertreffen-mit-s-neo-wertpapier-depots-eigenes-ziel/100264982.html",
+      "published": "2026-10-28T02:01:03+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Märkte Insight: Das lange Warten auf die KI-Rendite",
+      "summary_original": "Der KI-Boom sorgt für fabelhafte Umsatz- und Gewinnprognosen. Allerdings nur bei den Techkonzernen. Dass sich der Hype bisher kaum für die Realwirtschaft lohnt, könnte für die Rally zum Problem werden.",
+      "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/maerkte-insight-das-lange-warten-auf-die-ki-rendite/100265170.html",
+      "published": "2026-10-28T01:30:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Schortens: Bürgermeister Böhling richtet Halteverbot an Privatgrundstück ein",
+      "summary_original": "Gerhard Böhling ist Bürgermeister von Schortens. In dieser Funktion ließ er im Sommer ein Halteverbot vor seinem Privatgrundstück installieren. Mittlerweile bereut er das, sagt er. Die Staatsanwaltschaft ermittelt trotzdem.",
+      "url": "https://www.spiegel.de/mobilitaet/schortens-buergermeister-boehling-richtet-halteverbot-an-privatgrundstueck-ein-a-a5e11f90-0e22-47df-81a3-fe17c68ecc3d#ref=rss",
+      "published": "2026-10-28T05:24:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Prozess in Düsseldorf: 32-Jährige nach tödlicher Flucht vor Polizei zu zweieinhalb Jahren Haft verurteilt",
+      "summary_original": "Mit bis zu 150 Kilometern pro Stunde soll eine 32-Jährige vor der Polizei geflohen sein, bevor sie gegen einen Baum krachte. Ihre beste Freundin starb bei dem Unglück. Nun gab es ein Urteil.",
+      "url": "https://www.spiegel.de/panorama/justiz/prozess-in-duesseldorf-32-jaehrige-nach-toedlicher-flucht-vor-polizei-zu-zweieinhalb-jahren-haft-verurteilt-a-e75545ee-7f1c-44c9-a262-63818890f6cd#ref=rss",
+      "published": "2026-10-28T05:09:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "US-Filmpreis: Sandra Hüller und Sandra Wollner für Gotham Awards nominiert",
+      "summary_original": "Die Gotham Awards gelten als Startschuss für die Filmpreissaison in den USA. Nominiert wurden auch zwei Frauen aus dem deutschsprachigen Raum: Schauspielerin Sandra Hüller und Regisseurin Sandra Wollner.",
+      "url": "https://www.spiegel.de/kultur/tv/us-filmpreis-sandra-hueller-und-sandra-wollner-fuer-gotham-awards-nominiert-a-dfeee3c8-fbfe-41f2-a953-684c843887fb#ref=rss",
+      "published": "2026-10-28T04:58:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Urlaub in den Herbstferien: Welcher Herbstreisetyp sind Sie?",
+      "summary_original": "Endlich wird es kühl genug für eine Kulturreise zu Ruinen. Dänemark startet in die Hygge-Hauptsaison. Und wie angenehm sind jetzt griechische Strände! Testen Sie hier, welches Urlaubsziel für Sie das richtige ist.",
+      "url": "https://www.spiegel.de/reise/urlaub-in-den-herbstferien-welcher-herbstreisetyp-sind-sie-a-736a3054-fbac-420d-98c9-d14f8738073d#ref=rss",
+      "published": "2026-10-28T04:50:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Seychellen, La Digue: Deutscher Tourist tot aufgefunden",
+      "summary_original": "Ein 30-jähriger deutscher Tourist wollte offenbar nur seine Schwimmbrille suchen, die er am Strand auf einer Insel der Seychellen verloren hatte. Er kehrte jedoch nicht ins Hotel zurück.",
+      "url": "https://www.spiegel.de/ausland/seychellen-la-digue-deutscher-tourist-tot-aufgefunden-a-cd42c181-18e7-4dbd-9ce4-284cf2a35b17#ref=rss",
+      "published": "2026-10-28T04:32:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Fall Christina Block: Warum die Richter auf den Tonaufnahmen der »Zeit« bestehen",
+      "summary_original": "Im Fall Block stellten Ermittler Tonaufnahmen einer »Zeit«-Journalistin sicher, die Zeitung wehrte sich. Nun gibt das Landgericht Hamburg der Journalistin in einigen Punkten recht. Doch der Fall geht weiter.",
+      "url": "https://www.spiegel.de/panorama/justiz/block-prozess-und-die-zeit-landgericht-betont-bedeutung-der-aufzeichnungen-a-6becb157-197d-46fb-a7df-020fdf1f6294#ref=rss",
+      "published": "2026-10-28T04:26:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Juli Zeh: Schriftstellerin hört offenbar als Verfassungsrichterin auf",
+      "summary_original": "Erfolgsautorin Juli Zeh hat erst kürzlich einen neuen Roman veröffentlicht. Da bleibt womöglich nicht mehr viel Zeit für ein Ehrenamt. Einem Bericht zufolge hat sie nun um einen entsprechenden Rücktritt gebeten.",
+      "url": "https://www.spiegel.de/kultur/literatur/juli-zeh-schriftstellerin-hoert-offenbar-als-verfassungsrichterin-auf-a-25226669-4514-4274-8612-ae76e44d62b1#ref=rss",
+      "published": "2026-10-28T04:18:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "DFB-Pokal: Frankfurts Nationalstürmer Burkardt und Ebnoutalib werfen den HSV raus",
+      "summary_original": "Eintracht Frankfurt hat den Luxus, einen DFB-Stürmer für den anderen einwechseln zu können. Diese Offensivgewalt reichte für den HSV, der mit dem Schiedsrichter haderte. RB Leipzig entging knapp einer Blamage.",
+      "url": "https://www.spiegel.de/sport/fussball/dfb-pokal-frankfurts-nationalstuermer-burkardt-und-ebnoutalib-werfen-den-hsv-raus-a-0959fdeb-3489-4ccf-95fe-9806b545fd9a#ref=rss",
+      "published": "2026-10-28T04:13:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Liveblog Israel-Wahl: Netanjahus Likud stärkste Partei – aber Eisenkots Bündnis liegt vorn",
+      "summary_original": "Keines der beiden Lager erreicht bislang eine Mehrheit +++ Oppositionsführer Lapid: „Netanjahu-Block hat eine vernichtende Niederlage erlitten“ +++ Höchste Wahlbeteiligung seit Jahrzehnten +++ alle Entwicklungen im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-netanjahus-likud-staerkste-partei-aber-eisenkots-buendnis-liegt-vorn-faz-200583539.html",
+      "published": "2026-10-28T06:06:42+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "ATP-Turnier in Wien: Zverev übersteht Krimi zum Auftakt und ist der Nummer eins ganz nah",
+      "summary_original": "Beim ATP-Turnier in Wien liefert sich Alexander Zverev mit dem jungen Spanier Martín Landaluce einen echten Krimi. Damit ist der Hamburger nur noch einen Sieg von der Tennisspitze entfernt.",
+      "url": "https://www.faz.net/aktuell/sport/mehr-sport/atp-turnier-in-wien-alexander-zverev-ist-der-tennisspitze-ganz-nah-201627077.html",
+      "published": "2026-10-28T05:24:12+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Künstliche Intelligenz: Sieben Gründer auf dem Weg zu Börsenmilliardären",
+      "summary_original": "Anthropic steht kurz vor dem Börsengang. Die Geschwister Amodei und ihre fünf Mitgründer haben ihre Macht in dem KI-Unternehmen zementiert.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anthropic-boersengang-wie-dario-und-daniela-amodei-die-macht-sichern-201625333.html",
+      "published": "2026-10-28T04:54:09+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Künstliche Intelligenz: Anthropic-Aktionäre müssen wissen, dass sie wenig zu sagen haben",
+      "summary_original": "Anthropic beschreibt sich in seinem Börsenprospekt als Unternehmen, das nicht nur seine eigenen wirtschaftlichen Interessen verfolgt. Aber dieses Selbstbild hat Risse bekommen.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anthropics-boersenprospekt-hohes-ideal-mit-rissen-201625973.html",
+      "published": "2026-10-28T04:53:59+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "NIedersachsen: Kämpferischer Friese",
+      "summary_original": "Wiard Siebels ist neuer Vorsitzender der SPD-Fraktion im niedersächsischen Landtag. Er kommt aus Friesland – und ist damit weit entfernt von den Skandalen der Hannover-SPD.",
+      "url": "https://www.faz.net/aktuell/politik/inland/wiard-siebels-neuer-spd-fraktionschef-in-niedersachsen-201624721.html",
+      "published": "2026-10-28T04:30:38+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Krieg in der Ukraine: Für vier Tage sollen in Oleschky die Waffen schweigen",
+      "summary_original": "Am Dienstag ist in Oleschky bei Cherson ein humanitärer Waffenstillstand in Kraft getreten. Dafür hatten sich der Papst und Melania Trump eingesetzt.",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/waffenstillstand-in-oleschky-melania-trump-vermittelte-humanitaere-feuerpause-201625607.html",
+      "published": "2026-10-28T04:26:31+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "DFB-Pokal: Leipzig entgeht Pokalblamage – Mainz scheidet aus",
+      "summary_original": "RB Leipzig kann bei Rot-Weiß Essen in Unterzahl gerade so das Ausscheiden verhindern. Mainz 05 verliert derweil bei einem Zweitligaklub und Augsburg benötigt vier Tore in Großaspach.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/dfb-pokal-rb-leipzig-entgeht-pokalblamage-bei-rot-weiss-essen-201305769.html",
+      "published": "2026-10-28T04:17:47+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Mögliche Zinspause: Halten sich EZB und Fed zurück?",
+      "summary_original": "Die Zins-Entscheidungen der Europäischen Zentralbank und der amerikanischen Federal Reserve stehen an. Unter den Fachleuten fällt die Prognose für die Leitzinsen im Oktober eindeutig aus.",
+      "url": "https://www.faz.net/aktuell/finanzen/woche-der-notenbanken-ezb-und-fed-im-gleichschritt-201621661.html",
+      "published": "2026-10-28T04:11:04+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Nahost: Opposition: Netanjahu-Regierung wurde „gefeuert“",
+      "summary_original": "Netanjahus Likud-Partei wurde zwar laut Prognosen stärkste Kraft im Parlament, kommt aber mit ihren Partnern nicht auf eine Mehrheit. Sein Rivale Eisenkot will daher selbst versuchen, eine Regierung zu bilden.",
+      "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-wahl-israel-prognosen-regierungsbildung-li.3560260",
+      "published": "2026-10-28T06:04:50+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Wahl in Israel: Ersten Prognosen zufolge verliert Netanjahu – aber wer regiert jetzt?",
+      "summary_original": "Wie es bisher aussieht, hat das Regierungsbündnis von Benjamin Netanjahu die Wahl in Israel verloren. Doch auch der Herausforderer Gadi Eisenkot verfehlt mit seinem Oppositionsbündnis die Mehrheit.",
+      "url": "https://www.sueddeutsche.de/politik/wahl-in-israel-2026-benjamin-netanjahu-gadi-eisenkot-likud-knesset-li.3568846",
+      "published": "2026-10-28T05:57:42+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Präsidentschaftsrennen in Brasilien: Wahlverlierer Flávio Bolsonaro flieht angeblich aus Brasilien",
+      "summary_original": "Gegen den unterlegenen ultrarechten Kandidaten der Liberalen Partei wird wegen Geldwäsche und Steuerhinterziehung ermittelt. Einem Medienbericht zufolge will US-Präsident Trump ihm politisches Asyl gewähren.",
+      "url": "https://www.sueddeutsche.de/politik/wahlverlierer-flavio-bolsonaro-brasilien-korruptionsvorwuerfe-li.3569705",
+      "published": "2026-10-28T05:13:07+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "2. Runde im DFB-Pokal: Frankfurts Nationalspieler erledigen HSV – Leipziger Comeback in Essen",
+      "summary_original": "Jonathan Burkardt und Younes Ebnoutalib schießen die Eintracht eine Runde weiter. RB liegt im Ruhrgebiet lange in Unterzahl zurück, ehe ein Offensivspieler auftrumpft. Mainz scheitert.",
+      "url": "https://www.sueddeutsche.de/sport/dfb-pokal-leipzig-essen-frankfurt-hsv-li.3570131",
+      "published": "2026-10-28T04:03:18+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Versicherungsmathematiker: Das neue Altersvorsorgedepot kann teuer werden",
+      "summary_original": "Die Reform der staatlich geförderten Altersvorsorge soll das Sparen fürs Alter billiger machen. Doch erste Daten zeigen: Wenn Verbraucher nicht aufpassen, drohen hohe Abschlusskosten.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/altersvorsorgedepot-lebensversicherung-riester-rente-kosten-li.3569950",
+      "published": "2026-10-28T03:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Nach Gefängnisurteil wegen Steuerhinterziehung: Masken-Millionärin Andrea Tandler fordert Schmerzensgeld",
+      "summary_original": "Die Tochter des einstigen CSU-Generalsekretärs und Ministers Gerold Tandler fühlt sich von ihrer Steuerkanzlei hintergangen. Die Kanzlei weist das zurück. Der Streit führt in die Wirren der Pandemie und zu früheren CSU-Größen.",
+      "url": "https://www.sueddeutsche.de/muenchen/muenchen-justizpalast-prozess-andrea-tandler-maskenaffaere-li.3569464",
+      "published": "2026-10-28T02:02:50+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Kreuzfahrten: Rechtsanwalt: „Tui Cruises hätte gar nicht auslaufen dürfen“",
+      "summary_original": "Nach der Kollision der „Mein Schiff 3“ mit Containerschiffen hat Tui Cruises eine 20-tägige Kreuzfahrt abgesagt. Welche Rechte Reisende jetzt haben, was noch unklar ist und worauf sie achten sollten.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/mein-schiff-3-tui-cruises-kreuzfahrt-reiserecht-li.3569466",
+      "published": "2026-10-28T01:32:15+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "„Antifa Ost“-Prozess: Welche Schuld trifft das Gericht, wenn ein Angeklagter im Verfahren stirbt?",
+      "summary_original": "Henry A. war psychisch krank und suizidgefährdet, trotzdem musste er immer wieder ans Gericht. Er soll Teil einer linksextremen Bande gewesen sein, ein Gutachter befand ihn als verhandlungsfähig. Nun ist er tot.",
+      "url": "https://www.sueddeutsche.de/panorama/antifa-ost-prozess-dresden-henry-a-angeklagter-gestorben-suizid-li.3569034",
+      "published": "2026-10-28T00:51:12+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Parlamentswahl in Israel: Netanjahu-Lager liegt laut Prognosen zurück",
+      "summary_original": "Das Lager des Oppositionspolitikers Gadi Eisenkot liegt Prognosen zufolge knapp vor dem Benjamin Netanjahus. Dessen Likud-Partei könnte dennoch stärkste Kraft werden.",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/israel-parlament-wahl-prognose-benjamin-netanjahu-gadi-gadi-eisenkot",
+      "published": "2026-10-28T06:10:56+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Fotografie: Bilder des Tages",
+      "summary_original": "",
+      "url": "https://www.zeit.de/news/2026-10/27/bilder-des-tages",
+      "published": "2026-10-28T06:00:26+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Richtungsweisende Abstimmung: Prognosen: Netanjahus Likud-Partei bei Wahl in Israel vorn",
+      "summary_original": "",
+      "url": "https://www.zeit.de/news/2026-10/27/millionen-israelis-waehlen-neues-parlament",
+      "published": "2026-10-28T05:59:37+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Parlamentswahl in Israel: Gadi Eisenkot wertet Wahlprognosen als Sieg über Netanjahu",
+      "summary_original": "Laut Eisenkot zeigt sich in den Prognosen das Misstrauen gegenüber der Regierung. Jair Lapid spricht von einer »vernichtenden Niederlage« Netanjahus. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/parlamentswahl-israel-benjamin-netanjahu-gadi-eisenkot-live",
+      "published": "2026-10-28T05:54:05+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Kurioses: Handy fällt von Anhänger - großer Rettungseinsatz",
+      "summary_original": "",
+      "url": "https://www.zeit.de/news/2026-10/27/handy-faellt-von-anhaenger-grosser-rettungseinsatz",
+      "published": "2026-10-28T05:53:20+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Knappe Wahl in Israel: Eisenkot: Will Netanjahu-Regierung ablösen",
+      "summary_original": "",
+      "url": "https://www.zeit.de/news/2026-10/27/netanjahus-herausforderer-eisenkot-gibt-sich-siegesbewusst",
+      "published": "2026-10-28T05:51:24+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Krieg gegen die Ukraine: Zunächst keine Verstöße gegen Waffenruhe bei Oleschky gemeldet",
+      "summary_original": "Die Waffenruhe in der russisch besetzten Frontstadt Oleschky scheint weiter anzuhalten. Die Stadt Kyjiw kündigt den Bau neuer Brücken über den Dnipro an. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "2026-10-28T05:42:40+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Verkehrsunfall: A24 bei Hamburg wegen Lkw-Unfall voll gesperrt",
+      "summary_original": "",
+      "url": "https://www.zeit.de/news/2026-10/27/a24-bei-hamburg-wegen-lkw-unfall-voll-gesperrt",
+      "published": "2026-10-28T05:24:58+09:00",
+      "via": "rss",
+      "state_media": false
+    }
+  ],
+  "unavailable_sources": [],
+  "errors": {}
+}
