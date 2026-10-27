@@ -40,3 +40,30 @@
 - 작업 가설은 검증 대상: 반박 증거를 반드시 찾고 표기한다.
 - 국영·관영 매체(state_media=true)는 "메시지"로 읽는다.
 - 단일 출처 수치·주장은 "단일 출처·미확인"으로 표시하고 핵심 근거로 쓰지 않는다.
+
+---
+
+# 주간 브리핑 (매주 일요일, 최신 편향 교정)
+
+일요일 아침 예약 작업이 실행한다. 새 뉴스를 찾지 않고 그 주 일일 브리핑과 원자료만 다시 읽는다.
+
+## W0. 준비
+- 기간 = 이번 ISO 주의 월요일 ~ 일요일(오늘). 주 이름 = `YYYY-Www` (예: `2026-W44`, `date +%G-W%V`). `git pull`.
+- 그 주 `briefings/<날짜>.json`이 몇 일분 있는지 확인한다. 0일이면 분석하지 말고 원인을 보고하고 종료한다.
+
+## W1. 임원 — 주간 초안
+- `prompts/weekly.md` + `prompts/analysis-framework.md` 적용 → `briefings/weekly/<주>.json` (스키마 `briefings/WEEKLY_SCHEMA.md`).
+- `python template/verify_weekly.py <주>` 통과. 임시 파일은 `data/work/weekly/<주>/tmp/` 에만.
+
+## W2. 팀장 — 주간 검토
+- 점검: 이어진 흐름이 정말 여러 날에 걸쳐 있는가(일일 브리핑에서 날짜 확인), 사라진 소음 판정이 공정한가,
+  예측 채점에 근거가 있는가(근거 없는 적중 금지), 반박 증거 누락 → `data/work/weekly/<주>/_review.md` (`[필수 수정]`/`[권고]`, 판정).
+
+## W3. 임원 — 주간 최종
+- 필수 수정 전부 반영 → `python template/verify_weekly.py <주>` 통과.
+
+## W4. 산출
+- `python template/render_weekly.py <주>` → `site/weekly.html`.
+- Artifact 도구로 게시: `site/WEEKLY_ARTIFACT_URL`에 URL이 있으면 그 URL로 갱신(먼저 read), 없으면 새로 게시(title "News-Daily 주간 브리핑")하고 URL을 그 파일에 저장.
+- `git add briefings/weekly data/work/weekly site && git commit && git push`.
+- 마지막 메시지: 이번 주의 본질, 이어진 흐름 TOP 3, 사라진 소음 개수와 대표 1건, 예측 채점(적중/빗나감/진행중/확인불가), 가설 주간 판정, 페이지 링크.
