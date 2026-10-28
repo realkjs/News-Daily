@@ -1,0 +1,883 @@
+{
+  "team": "cn",
+  "headlines": [
+    {
+      "source": "CCTV",
+      "title_original": "知情人士称卡塔尔向伊朗提交旨在结束战事的新协议草案",
+      "title_ko": "소식통 \"카타르, 이란에 전쟁 종식 위한 새 협정 초안 제출\"",
+      "summary_ko": "관련 소식통을 인용해 카타르가 이란에 교전 종식을 목표로 한 새 협정 초안을 제출했다고 보도(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wYnRZQ1ltcDBuZHVORVlkR0RCNFlxel9MSDNGdkJSclJwUmhMdDdaS3pWeHBvVWpMQ2pzTExLTkRmbHRzS2ZwX3NkdmNXeHFWbXlqNHUybXdNRnZvZjVkNzdsN21TSEtUbnZOZ0hONlpTWk1YZjlCTg?oc=5",
+      "published": "2026-10-29T05:06:46+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "qatar-iran-ceasefire-draft",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "“蛟龙”号下潜的背后",
+      "title_ko": "유인잠수정 '자오룽'호 잠항의 이면",
+      "summary_ko": "유인 심해잠수정 '자오룽(蛟龙)'호 잠항 관련 기획 보도(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUdUI5U2dxcXpqN19Cd1ltZnJHTVU4Q3Q1XzY3RGIxaXcyZlpYQVBCS0ZqUmNiZ1c2eV80TmNaN2V3WmQ0MGhNRVlJbVJMMjZCMzhCWUVXVXBENEFlYzJKM3puanR3anJUTUE3WnFOZTMzVHZuYXJ1Xw?oc=5",
+      "published": "2026-10-29T05:06:33+09:00",
+      "tags": [],
+      "event": "jiaolong-dive",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "16.8万尾标志鱼放流舟山海域 开展海洋生命补给",
+      "title_ko": "저우산 해역에 표지어 16만8천 마리 방류…해양 생물자원 보충",
+      "summary_ko": "저장성 저우산 해역에 표지(태그) 어류 16만8천 마리를 방류했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JT0kzdDRaM2twUXFzRENXanVxOXJYSkRBQ21TV3pacVgwNXgybnNxWFJRaHRGUlpuWUhYUWQ1WjUteWF6XzhHVW5vRmpBRWpILU9ZNEdvUEVLSjJpNFB2b3BXYmJYWEg1VzRVMWRhamdLa0wxQ1o3Mg?oc=5",
+      "published": "2026-10-29T04:06:14+09:00",
+      "tags": [],
+      "event": "zhoushan-fish-release",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "宋陵石刻头像归来 三十年后麦田守望者终于“回家”",
+      "title_ko": "송대 능묘 석각 두상 귀환…30년 만에 '밀밭 파수꾼' 고향으로",
+      "summary_ko": "송나라 능묘(宋陵) 석각 두상이 30년 만에 반환됐다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1US3hadF9YMWVUUy1BZDVGYzJxQmRkVHZMaU1JaUVFMG1leS1qakJwSUZ5OTN3OFZ2VDBWRndPSjBIcFRZVmllclZTR2VKc1RGRlNUUEJ3bDg2RWtFWG5ob1FCWXZoRVZaVXV2eHotS2s0OWstVnM0Mw?oc=5",
+      "published": "2026-10-29T04:06:06+09:00",
+      "tags": [],
+      "event": "song-tomb-head-return",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "接驳车、地铁、网约车配齐！进博会交通攻略请收好",
+      "title_ko": "셔틀버스·지하철·호출차 완비…수입박람회 교통 안내",
+      "summary_ko": "중국국제수입박람회(진보회) 방문객용 교통 안내(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FQXBrSHJnUHlYYk83NEtmeFRhRUMtTUQ5Z1JoZVdFZ2FXUXJicjVrR1JjZWU3QVhhbGhVMi0yTmowWU5jSThVZ1ZrUnk3T2RoLU9qaEpuUTl6WEJyMkVXeVVPOER3VlhTX1R6MS1hS2VrX0R5MW5LXw?oc=5",
+      "published": "2026-10-29T03:35:09+09:00",
+      "tags": [],
+      "event": "ciie-2026",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "AI加速网络攻防 防守如何跟上？",
+      "title_ko": "AI가 사이버 공방을 가속…방어는 어떻게 따라잡나",
+      "summary_ko": "AI로 사이버 공격·방어가 빨라지는 가운데 방어 대응 과제를 다룬 보도(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9acE1tVzRnaHdvbUFZbXJyOFkyTFVGbTB5UlJqeU15YWpJbHdkaVA1RHBxV1BuNllra3ByOTNIcnAwV1lFRk5LT2pmSk1oV3ZKaGtIMjUyNG5taTJOVUhVdVlJYy1lZUNoMGZDRWpia3dCc0J1bENKVw?oc=5",
+      "published": "2026-10-29T03:05:58+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "ai-cyber-defense",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "西班牙首相宣布为列车相撞事故遇难者全国哀悼三天",
+      "title_ko": "스페인 총리, 열차 충돌 사고 희생자 위해 3일간 국가 애도 선포",
+      "summary_ko": "스페인 총리가 열차 충돌 사고 희생자를 위한 3일간 국가 애도 기간을 선포했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UMk9zRXgzbk9MSTI2U0EzYmVIekhKd1F5Ti0yVDN4c1pJNERJbksydTV2TUx3dkttdktRdGl6UE9EdTB4ckh3RWlKZTNXQUxoNjR0YTFRRFM5WXE2ZTBOYk53Mk1oemswUnJibmZ1ZDQ1N2h1YjlXaw?oc=5",
+      "published": "2026-10-29T03:05:49+09:00",
+      "tags": [],
+      "event": "spain-train-crash",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "全国首个AI服务一条街开放 机器人“租着用 按图造”",
+      "title_ko": "전국 첫 'AI 서비스 거리' 개방…로봇 '임대해 쓰고 도면대로 제작'",
+      "summary_ko": "중국 최초의 AI 서비스 거리가 개방돼 로봇 임대·주문 제작 서비스를 제공한다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YTk1JbE1qOF9aY2xOczdNdnhQZkhlYmxNYnVWcTgwZ2RPeGljbDBwQmZBbzRha3FuTDRjaGRUTjVONnh3ZkF5ZEFneEdhdDVmbmg1OFlwdUo2RG5oR0p0RElMUENNMXZUMTBreFk0dlhDei0wa3J1cg?oc=5",
+      "published": "2026-10-29T03:05:40+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "ai-service-street",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "Death toll rises to 68 in deadly train crash in Spain",
+      "title_ko": "스페인 열차 충돌 사고 사망자 68명으로 늘어",
+      "summary_ko": "스페인 열차 충돌 사고 사망자가 68명으로 증가했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92QXVTTENxNnc3ZHRIanNjb2ZaMS04R0loRGp1eXNGLTMxTlY2MWxUNEFIS04waEptT3hHNGNtcmVKZEF5XzdkUU1JczZaMlRJUWd3WVU0ejFpMHFnQko2SHE0VUNDOENiZ2p3NzZ5YmlZck90bURzcg?oc=5",
+      "published": "2026-10-28T23:44:00+09:00",
+      "tags": [],
+      "event": "spain-train-crash",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "European natural gas prices hit 100 euros per MWh for first time since 2022",
+      "title_ko": "유럽 천연가스 가격, 2022년 이후 처음 MWh당 100유로 돌파",
+      "summary_ko": "유럽 천연가스 가격이 2022년 이후 처음으로 메가와트시당 100유로에 도달했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZaUR2X2N3a2Y5aE5yanRNdzJZbEVWbVJWdm82ZURWbnROR3dRNlB1LXJaUDJkTUVsdkFVY1o2dkVTR3ppUnpVRHJaRENYcWI3RERZU0c5Wko0Z0wyR21EY0FGQ0ViejgyZWZDbkpKWDYyY0hmTlFmdA?oc=5",
+      "published": "2026-10-28T23:11:24+09:00",
+      "tags": [
+        "industry",
+        "stocks"
+      ],
+      "event": "eu-gas-100-euro",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "DEATH TOLL IN TRAIN CRASH IN SPAIN REACHES 64, CASTILLA LA MANCHA REGIONAL GOVERNMENT SAYS",
+      "title_ko": "스페인 열차 사고 사망자 64명…카스티야라만차 지방정부 발표",
+      "summary_ko": "카스티야라만차 지방정부에 따르면 스페인 열차 사고 사망자가 64명에 달했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Mek1tbTIyNndsZm9NS2VhN01IQ2dqTTBjU3lKQkMzU1VubUsxRkdDQW1fdnBPaDZfZk1FVGNDMUpBemZSc3R2Mk91SUxhWUVLZWxXdUlqRWRHSEpmUXN2eUFTdURZRV9OeTVqcjJGZnR0MUVwYkVXYg?oc=5",
+      "published": "2026-10-28T21:51:53+09:00",
+      "tags": [],
+      "event": "spain-train-crash",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "Spain train collision kills 31, injures 80: regional govt",
+      "title_ko": "스페인 열차 충돌로 31명 사망·80명 부상: 지방정부",
+      "summary_ko": "지방정부 발표로 스페인 열차 충돌 사고 사망 31명, 부상 80명(초기 집계, 제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02V3lZUXpXanIyTjZmdEc3ZDB0OVlQNHRSQjFFNzV5bG93RXZGSEZVTVN4WmtqZEYtbUM3dlR6bWw1eTktcmx1RTN3MFFqdHpmd2NYRDFhWXM3TmxQZkVKRVBoci1ORjVjVDF4WHYtVkxDTzlnUTkzcw?oc=5",
+      "published": "2026-10-28T20:58:08+09:00",
+      "tags": [],
+      "event": "spain-train-crash",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "Several injured in southern Spain train crash: local mayor",
+      "title_ko": "스페인 남부 열차 충돌로 여러 명 부상: 현지 시장",
+      "summary_ko": "현지 시장에 따르면 스페인 남부 열차 충돌로 여러 명이 부상했다(초기 보도, 제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96S1RteW43OFVJemNZeExGSHYxTFY2azM5bzFJcnkxbG1BdWw3b3ZrXzlIMGFWNUJSM096UENhcWdvN1JIc2VTc1pnc05Kb3RFOGlDZHRfV3BSUWp6bWd2cnN0VXF6dVdUQWlvWENORXhodzEwNk5ZeA?oc=5",
+      "published": "2026-10-28T18:01:00+09:00",
+      "tags": [],
+      "event": "spain-train-crash",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "Rubio expels Cuban diplomat from the US",
+      "title_ko": "루비오, 쿠바 외교관 미국에서 추방",
+      "summary_ko": "마코 루비오 미 국무장관이 쿠바 외교관을 추방했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hU1AySnB5c09YRXE0elpaME03Y0tTdUZOeTlmR3RGWXd1NUxJSHRNa0c3LWp0bGJqUTAtcnpiakV0TkltSWZsV1NmQXB1T2tOcXNoUmpBQzBmZXlCcVY1eFg5NV9kNmdHeUp2U0IwU292S2tBNlVTTg?oc=5",
+      "published": "2026-10-28T13:45:55+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-cuba-relations",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "One killed, five injured by Afghan firing near Angoor Adda, Pakistan's Geo News reports.",
+      "title_ko": "파키스탄 앙구르 아다 인근서 아프간 측 총격으로 1명 사망·5명 부상: 지오뉴스",
+      "summary_ko": "파키스탄 지오뉴스 인용, 앙구르 아다 인근 아프가니스탄 측 총격으로 1명 사망·5명 부상(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WdnU5VzJoZXU2dUh0dl9Hc3h3WFJfVGYzTDV1UTF6c3VwM3Z6VEY5N2dwRjZYZzRFRHZaZ09IOVpNUTI1UHhVQnhDWllTbXVnSW80SE9ZZkZIZUVXQUs0Y2I2dHpOWkFpazhVaEZXVVlQTDNlcDJUNA?oc=5",
+      "published": "2026-10-28T12:26:13+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "af-pak-border-firing",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "NETANYAHU'S LIKUD UP TO 27 SEATS -KAN 11 UPDATED EXIT POLL",
+      "title_ko": "네타냐후 리쿠드당 27석까지 상승: 칸11 수정 출구조사",
+      "summary_ko": "이스라엘 칸11 방송 수정 출구조사에서 리쿠드당이 27석을 얻을 것으로 나타났다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53NmxCMWQya0hJYzhQZDktNlJhN2hRc3dUcXpkRGhzRkRzYlhHM2tYb1BIR0Q3Y3FzYk1Fa0tSR1B6ZGNpQTVndGlSelozRkF4OFQ4S1Rsb01YdTRTWTIzeXF2Sko3R1FuODVOLVNvZWlpM19DRklsaw?oc=5",
+      "published": "2026-10-28T08:39:45+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "israel-election",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "美元指数28日下跌",
+      "title_ko": "미 달러 지수 28일 하락",
+      "summary_ko": "미 달러 지수가 28일 하락했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBReFFrSjNyaGRIMDdPSzROTm5lemNldmNFUVgwdDhYY3dKMHJ4TnFIbnU3VlQ2WnUwd1dDTWZ5aFpId1lJNmh5blFKb0RpZUp5ZG5ZaUF6dEJaOExsMGN2SkU4MUV4bkllVlRxXzkwZHBkNmFjTWp3?oc=5",
+      "published": "2026-10-29T05:04:27+09:00",
+      "tags": [
+        "stocks",
+        "monetary"
+      ],
+      "event": "usd-index-fall",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "联大通过决议再次敦促美国终止对古巴封锁",
+      "title_ko": "유엔총회, 미국에 쿠바 봉쇄 종료 재촉구 결의 채택",
+      "summary_ko": "유엔총회가 미국의 대쿠바 봉쇄 종료를 다시 촉구하는 결의를 통과시켰다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4eTZSSkpaX0s0VEVOMnVsdmRMbUQ4UlA0eV83MmtuWi1HMmhNU2xCNkJTX1pRSmNwenZsZm5KUTRkNEUxZ2p5R2ZiNldGUS1IM1lLby03M3BKMmM3dUd1eTNYa0NPVFhKdEtZSERCM0tobG13ZEtUaWpoLTY1eDQ?oc=5",
+      "published": "2026-10-29T03:50:34+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-cuba-relations",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "两名叙利亚士兵遭不明身份人员枪击身亡",
+      "title_ko": "시리아 군인 2명, 신원불명 괴한 총격에 사망",
+      "summary_ko": "시리아 군인 2명이 신원 미상 인물들의 총격으로 숨졌다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XM3d4U01VNDJudXVfMGJUODFDX3Rtd0s5RVhSZ25RNXpTM2gyUWpuTTV6QjB0bjlNNF95N0dldDJUeUtDVDBXeklFLURyT21qRE9WYTRqSWxoYzlNS25HTG5XLXE5S1p4el9KaXVZN1hrTy14YUUxZU1KQ0dOejQ?oc=5",
+      "published": "2026-10-29T03:47:05+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "syria-soldiers-shot",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "新华社快讯：美联储宣布维持利率不变",
+      "title_ko": "신화사 속보: 미 연준, 금리 동결 발표",
+      "summary_ko": "미 연방준비제도가 기준금리 동결을 발표했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vdmdBeGFYbGRhS2dzeno2OHh1cThfbE14UHZLQlFGVUd3dWhsS0V0Z1lMZllnRFBFNnhpeGtTZURHS3VJYTFDSVp4RkFBcmdac1dGa2pMMFhMcm9jYndhTU1lUng1ZUtJS2thaGw4OTJvZktibE13?oc=5",
+      "published": "2026-10-29T03:16:45+09:00",
+      "tags": [
+        "monetary"
+      ],
+      "event": "fed-rate-hold",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "加拿大央行上调基准利率25个基点至2.5%",
+      "title_ko": "캐나다 중앙은행, 기준금리 25bp 인상해 2.5%로",
+      "summary_ko": "캐나다은행이 기준금리를 0.25%포인트 올려 2.5%로 했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XN3pVYkhnTWs5UUNZQVpGQ0xTWnZUclFqRXFNSFM3SWhvTHdoVi1SNmZCYkJvb2VLSkIwTG9TdW5xSGFBSnhzc252aFYtbk1kXzlRMUhzLVZObmk2QndwWk1XNG0zdTdLVzVEaVBiejVUTUNyZlVv?oc=5",
+      "published": "2026-10-29T02:50:47+09:00",
+      "tags": [
+        "monetary"
+      ],
+      "event": "boc-rate-hike",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "内塔尼亚胡阵营在议会选举中领先 但未过半数",
+      "title_ko": "네타냐후 진영, 총선에서 앞서지만 과반엔 못 미쳐",
+      "summary_ko": "이스라엘 의회 선거에서 네타냐후 진영이 선두지만 과반 의석은 확보하지 못했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEU0JYVU0xSWNLNnR1LTEtLTVYRGxZWnhYM2lQLXBHSEUyWjd0T016dVo4Qk9XYmo4YWxtVlNDa0xqUUljM04zZ0dzR1NDWUtFd1Q3MEQ0R3dEdWFGSGRTN0V3RFlKei1ETFB4UUJBV3dScURrd1AxV2txcGEyZmM?oc=5",
+      "published": "2026-10-29T01:28:26+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "israel-election",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "巴西最高法院否认授权搜查弗拉维奥·博索纳罗住所",
+      "title_ko": "브라질 대법원, 플라비우 보우소나루 자택 수색 승인 거부",
+      "summary_ko": "브라질 연방대법원이 플라비우 보우소나루 자택에 대한 수색 승인을 거부했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FdW84bWxTcTNiOFhUVDFvMlRWamdrZUItdXBsVERnbzJiMnRWOVVtTmpOZHZlV2J4TF9SMWN4REltMWUwYjFEMnRwQzFYMjJGNlhqWFU4cUpfMEJ6UmFpVE1BWkU0alBnNGxBQ1FLZUt1cXY0Vkl6dk9feHFvdzA?oc=5",
+      "published": "2026-10-29T01:28:17+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "brazil-bolsonaro-search",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "西班牙交通大臣：铁路网安全系统故障致列车相撞",
+      "title_ko": "스페인 교통장관 \"철도망 안전시스템 고장으로 열차 충돌\"",
+      "summary_ko": "스페인 교통장관은 철도망 안전시스템 고장이 열차 충돌 원인이라고 밝혔다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wcVpEWV9vMTNmWXQ5Z29yR3Y1VGhtQk9LeWdHNmN2SERjZk8zWmlXTWVJVmp5c3h1cUNsX1dHM2dIcGJ3MHN5dk5RTEtpSGxTRmViUU15bUpiZ3kxUVdqSkxsaWNMMXR4S25ENXloWTMyWWhKaWtB?oc=5",
+      "published": "2026-10-29T01:09:52+09:00",
+      "tags": [],
+      "event": "spain-train-crash",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "西班牙列车相撞事故死亡人数上升至68人--国际",
+      "title_ko": "스페인 열차 충돌 사고 사망자 68명으로 증가",
+      "summary_ko": "스페인 열차 충돌 사고 사망자가 68명으로 늘었다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LMEJOb1dyYkZaN2N2OGxWdE5pdXFsRFo2UmhHREhvYjJ6QllPNVNCbzVKeDgtTmR2ejZRX1BLZFRLeVY5UUEzeFRhZU14NVBNd2hvSXN0ajRBOC10aGZLLTNnWU0tU1dwYTY2ZQ?oc=5",
+      "published": "2026-10-28T23:57:00+09:00",
+      "tags": [],
+      "event": "spain-train-crash",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "同心共筑精神家园 青春唱响青海华章",
+      "title_ko": "한마음으로 정신적 터전 함께 쌓아…청춘이 노래하는 칭하이의 장",
+      "summary_ko": "칭하이성 관련 선전성 기획 보도(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kZDEzU2t5bzJIWWZGa0FMRWtCbFJhVmFrUFRSTjk3TU5ycEtjWDRQNE1kdmNDOXJ1QkxlVVBnYWNuME15MlFBS244SjdZLXlPcF9Ka1dlRkVnRk5GMlZZa0VIZTlQLVdaRUE?oc=5",
+      "published": "2026-10-28T22:45:00+09:00",
+      "tags": [],
+      "event": "qinghai-feature",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "一习话·我们的长征路丨“在新的长征路上奋力创造新的辉煌”",
+      "title_ko": "'일습화·우리의 장정길' — '새로운 장정길에서 새로운 영광을 힘껏 창조하자'",
+      "summary_ko": "시진핑 발언을 소개하는 인민일보 연재 기획(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kVGRYOGowdnpBeld5UmIzS0tIdEZfVWRnRk1ZRjJlRWZVLUZTemVybTdGWUFBWUVkczdwdUN1NGZZRHdMMEZ5cFZmSnFCYlZSQm1CaEZKSUhfR0xDMHhLTTZPT2dBREI1eHFlQi1UNk5DUQ?oc=5",
+      "published": "2026-10-28T20:21:00+09:00",
+      "tags": [],
+      "event": "xi-quote-series",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "拾光纪·“只要触犯了党纪国法，都要受到严肃追究和严厉惩处”",
+      "title_ko": "'습광기' — '당 규율과 국법을 어기면 엄중히 책임을 묻고 엄벌한다'",
+      "summary_ko": "당 기율·법 위반 엄벌 원칙을 강조하는 인민일보 연재 기획(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EWFhsWHd5MUJTMEhKb1FFX3N5TmZOTDZweVEzSWd6eF9DNkZYM3dYMDBpRHVEYzZvQlJyeVo5RHhvdTdWNmNiTGdzWEQ2OG41OGlZbTZtSmJFSFJiTUh3eEs3NnZDNk5VTUtBSGNPX3Jadw?oc=5",
+      "published": "2026-10-28T20:17:00+09:00",
+      "tags": [],
+      "event": "party-discipline-series",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "西班牙列车相撞事故死亡人数升至50人--国际",
+      "title_ko": "스페인 열차 충돌 사고 사망자 50명으로 늘어",
+      "summary_ko": "스페인 열차 충돌 사고 사망자가 50명으로 증가했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50azNQTGZXbUt3anlPTTJnblJkNkZvRlpFOHRITmxnSzR1aTdWbE9xekd3Tmh4WEtIS0JfbzZLdG9mRWRNSTFlSzVpY2dSS1FfRXVVRlY2UXJkVWUtR05hM2Z3SUQ4TGxCZkY4?oc=5",
+      "published": "2026-10-28T19:31:00+09:00",
+      "tags": [],
+      "event": "spain-train-crash",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "第十五届上海国际魔术周开幕，设两大核心板块",
+      "title_ko": "제15회 상하이 국제 마술 주간 개막…2대 핵심 부문 마련",
+      "summary_ko": "제15회 상하이 국제 마술 주간이 두 개의 핵심 프로그램으로 개막했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Rd2lRd1NfNnFPcUdzbV8xQUhYOU43Zy1NRmNLdzhrWFpUdjgzaXp1VzdGTTRQNUJvcVMweENnVmE1Y01KM01fSElGRGFVck9OV0hyTjFZN1BucXZXLTU5MWhubktfejJkYnc?oc=5",
+      "published": "2026-10-28T19:25:00+09:00",
+      "tags": [],
+      "event": "shanghai-magic-week",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "第九届进博会党群服务保障工作会议在上海召开",
+      "title_ko": "제9회 수입박람회 당·군중 서비스 보장 업무회의 상하이서 개최",
+      "summary_ko": "제9회 중국국제수입박람회 지원을 위한 당·군중 서비스 보장 회의가 상하이에서 열렸다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIUTdzOGhGMFlRSURGZkY0dVJIMXFQQWZyN0ZONWprc2tzUk5PZ1Y2NlcwRzJpc09jN0hzTGw2NXhFbDRUVHVvR0w4U1FiOC1VLXY4Z1RKVDZEZEtwU0tjU2tqRkJDWlZmTWc?oc=5",
+      "published": "2026-10-28T19:17:00+09:00",
+      "tags": [],
+      "event": "ciie-2026",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "陈明聪已任福州市中级人民法院代院长 - 人民网-福建频道",
+      "title_ko": "천밍충, 푸저우시 중급인민법원 대리원장 취임",
+      "summary_ko": "천밍충이 푸저우시 중급인민법원 대리원장을 맡았다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEZHRINEcwQmYwOVJEb2NFSXFCakFFWnZPVklyS0ZuWUpsU0JvVldfaWZucEQ0U0NMck52TGJXVWZJdlhqN19wVk8tVzAtVy1BdGItckx2ZDllUEtlY0V3QXpCVTZRU3IxWlE?oc=5",
+      "published": "2026-10-28T19:05:00+09:00",
+      "tags": [],
+      "event": "fuzhou-court-appointment",
+      "state_media": true
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Huawei opens defence in US criminal trial, touting its record of innovation",
+      "title_ko": "화웨이, 미 형사재판서 변론 시작…혁신 실적 내세워",
+      "summary_ko": "화웨이가 뉴욕 동부지법 형사재판에서 변론을 시작해, 세계적 기술 선도 기업으로서 영업비밀을 훔칠 이유가 없다고 주장했다. 화웨이는 14개 혐의에 무죄를 주장하고 있다.",
+      "url": "https://www.scmp.com/news/us/article/3372491/huawei-opens-defence-us-criminal-trial-touting-its-record-innovation",
+      "published": "2026-10-29T05:26:16+09:00",
+      "tags": [
+        "business",
+        "geopolitics",
+        "legislation"
+      ],
+      "event": "huawei-us-trial",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "US Fed holds interest rates steady despite surging inflation",
+      "title_ko": "미 연준, 인플레이션 급등에도 금리 동결",
+      "summary_ko": "연준이 중간선거를 며칠 앞두고 시장 예상대로 금리를 3.75~4.00%로 동결했다(FOMC 10대 2 표결). 인플레이션 대응에 더 많은 데이터가 필요하다는 이유를 들었다.",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3372489/us-fed-holds-interest-rates-steady-despite-surging-inflation",
+      "published": "2026-10-29T03:37:06+09:00",
+      "tags": [
+        "monetary",
+        "forecast"
+      ],
+      "event": "fed-rate-hold",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "92-year-old US judge handling Maduro case dies",
+      "title_ko": "마두로 사건 담당 92세 미 판사 별세",
+      "summary_ko": "축출된 베네수엘라 대통령 니콜라스 마두로의 마약 밀매 사건을 맡은 앨빈 헬러스타인 판사가 92세로 별세했다. 고령으로 장기 재판 진행 적격성에 의문이 제기돼 왔다.",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3372488/92-year-old-us-judge-handling-maduro-case-dies",
+      "published": "2026-10-29T03:08:43+09:00",
+      "tags": [
+        "legislation",
+        "geopolitics"
+      ],
+      "event": "maduro-judge-dies",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Netanyahu set to remain caretaker PM after inconclusive Israel election",
+      "title_ko": "결론 없는 이스라엘 총선…네타냐후 과도정부 총리 유지 전망",
+      "summary_ko": "개표 약 86% 시점, 우파 진영이 의회 과반을 잃었지만 유대계 유권자의 예상 밖 강한 지지로 네타냐후가 과도정부 총리직을 유지할 것으로 보인다.",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3372487/netanyahu-set-remain-caretaker-pm-after-inconclusive-israel-election",
+      "published": "2026-10-29T02:39:33+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "israel-election",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Real Madrid issues apology to China over Mbappe’s Mao remarks",
+      "title_ko": "레알 마드리드, 음바페의 마오쩌둥 발언 관련 중국에 사과",
+      "summary_ko": "레알 마드리드가 음바페의 마오쩌둥 관련 발언으로 인한 중국 내 반발이 가라앉지 않자 홈페이지 성명을 통해 중국 국민에게 사과했다. 음바페 본인은 전날 해명했다.",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3372485/real-madrid-issues-apology-china-over-mbappes-mao-remarks",
+      "published": "2026-10-29T00:54:07+09:00",
+      "tags": [],
+      "event": "real-madrid-mao-apology",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Hegseth pitches US-Asean defence framework but will it be a hard sell?",
+      "title_ko": "헤그세스, 미-아세안 국방 프레임워크 제안…수용은 미지수",
+      "summary_ko": "헤그세스 미 국방장관이 새로운 미-아세안 국방협력 틀을 제안했으나 세부 내용은 거의 없었다. 분석가들은 아세안 회원국이 양자 협력을 선호할 수 있다고 본다.",
+      "url": "https://www.scmp.com/week-asia/politics/article/3372484/hegseth-pitches-us-asean-defence-framework-will-it-be-hard-sell",
+      "published": "2026-10-29T00:45:41+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-asean-defence-framework",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Russia’s Putin woos African leaders at summit, slams ‘colonial’ West",
+      "title_ko": "푸틴, 아프리카 정상회의서 구애…'식민주의' 서방 비판",
+      "summary_ko": "모스크바에서 열린 제3차 러시아-아프리카 정상회의(48개국 참석)에서 푸틴은 러시아가 최고의 파트너라며 서방이 자원 착취와 부채로 아프리카 발전을 막는다고 비판했다.",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3372483/russias-putin-woos-african-leaders-summit-slams-colonial-west",
+      "published": "2026-10-29T00:42:01+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "russia-africa-summit",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "‘Not to find scapegoats’: Singapore ministers summon bosses of 10 firms over haze",
+      "title_ko": "싱가포르 장관들, 연무 관련 10개 기업 경영진 소환",
+      "summary_ko": "싱가포르가 인도네시아 연무 유발 산불과 연관 가능성이 있는 자국 등록 기업 10곳 경영진을 장관 3명과의 회의에 이례적으로 소환했고, 경영진은 조사 협조에 동의했다.",
+      "url": "https://www.scmp.com/week-asia/health-environment/article/3372479/not-find-scapegoats-singapore-ministers-summon-bosses-10-firms-over-haze",
+      "published": "2026-10-28T23:51:30+09:00",
+      "tags": [
+        "business",
+        "legislation"
+      ],
+      "event": "singapore-haze-firms",
+      "state_media": false
+    },
+    {
+      "source": "China Daily",
+      "title_original": "俄罗斯科学院院士：俄中多层次互动已成文明交往典范",
+      "title_ko": "러시아 과학원 원사 \"러중 다층적 교류는 문명 교류의 모범\"",
+      "summary_ko": "러시아 과학원 원사가 러중 간 다층적 교류를 문명 교류의 모범으로 평가했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12UVE3cjN1NG5ka21HM2hBeEZ6TnFMT3FWR0JtQVR5VWdhZllsemNEQXNQMDBGVE1RR2xkWm83M1E3N0RNZC1iakI2X2VxOFppV0ZTRkhib3NRVmhtOFczYzB3Q1IyYl9HRXVfc2FUd1NxT3YwTmJ2ZnZuQ0c?oc=5",
+      "published": "2026-10-28T23:21:37+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "russia-china-ties",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "西班牙列车相撞事故已致64人死亡 初步调查指向调度失误",
+      "title_ko": "스페인 열차 충돌 사고 64명 사망…초기 조사 '운행관제 실수' 지목",
+      "summary_ko": "스페인 열차 충돌 사망자가 64명이며 초기 조사는 배차·관제 실수를 원인으로 지목했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlUWd2Z2NUX3RoZW0tQ2tMeW1CX2JFQ1NsbC1jVUh2eHRqWkx0YzZTcWV1WWpabkh4TGwzWXo1bXVYdm1lUS16OHFVTEdDVVhPQ21IZzVEWVFBc3RLRnRqY0xqVVVHbkNqWnBrVDRTVUQ4WmF5YlJibld5WUc?oc=5",
+      "published": "2026-10-28T22:11:09+09:00",
+      "tags": [],
+      "event": "spain-train-crash",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "板房“新居” 烟火渐起",
+      "title_ko": "조립식 주택 '새 보금자리'에 생활의 온기 살아나",
+      "summary_ko": "조립식 임시주택 이재민 생활 관련 보도(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zRy1hUGVsV2N6M2JxbWdINTcxa1RiZ3dZQWZpTmxEQnQwTUhEWjY0Nk9uWFphdWptTGJOcUVlR3I2VW5ienN4eUdtRHE0anVCYmFNYzV6VWo0TUk3RjItc19KakZqWDAxSU1lWnBzTktiUGFhYW41UFptR1g?oc=5",
+      "published": "2026-10-28T22:05:30+09:00",
+      "tags": [],
+      "event": "prefab-housing-feature",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "我国最北高铁开行“满月”运送旅客45.3万人次",
+      "title_ko": "중국 최북단 고속철 개통 '한 달'…승객 45만3천 명 수송",
+      "summary_ko": "중국 최북단 고속철도가 개통 한 달간 45만3천 명을 수송했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHeEpYb3FSaHJvLWRRalQ4WFZCTTRFV1h1NlNnYmU0N1Y4Y3UyTWZHY0xDZ1NwSkRCSXdaRS1jTHNVckVyTWFkUW1VNWtyYUM0SDZSeU9FQi1WMmhPbl9Zd1RBQUlMZGJXc2ZvOHRBM0dkYkh5Q3NOOVZzcW8?oc=5",
+      "published": "2026-10-28T22:02:34+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "northernmost-hsr",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "原云上贵州大数据（集团）有限公司党委书记、董事长徐昊受贿案一审宣判",
+      "title_ko": "전 윈상구이저우 빅데이터그룹 당서기·회장 쉬하오 수뢰 사건 1심 선고",
+      "summary_ko": "윈상구이저우 빅데이터(그룹) 전 당서기 겸 회장 쉬하오의 뇌물수수 사건 1심 판결이 나왔다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yZTZmbXFmX2NZaGRVbWZLVFNTaHp3VGhXbVFNRUxXY3BDMGozUDh3VFdST0lXYkFWQ2JRYXFGRklwdnlORVdfeHNPZjFhSi1lbTl4QlJnXzBYcTVZUWdkckQ0LWExOGpoTWN1VWxFVi1yRDBtV2JJbDJRdU8?oc=5",
+      "published": "2026-10-28T22:02:29+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "xu-hao-bribery",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "青春华章·山河铭记丨从抗战到建设：三晋大地上的红色光芒- 中国日报网",
+      "title_ko": "청춘화장·산하명기 — 항전에서 건설까지, 산시 땅의 붉은 빛",
+      "summary_ko": "산시(山西)성 혁명 역사 관련 기획 보도(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTGc0dDhXRTdKVWhMeVpsSXNpdGJFcmlNVENqSkRIUWpicUdoUmtya242QURLblNwckktb1hzaDNyNjBVNnk3Y0o1Wm9ZYXZoc0ZIWmY4MEx1aDhVaXpjVTkyNUpMcFVMZDVDUGlCWkpBcGNFTVRsUmdfX0I3RGVpUQ?oc=5",
+      "published": "2026-10-28T21:52:07+09:00",
+      "tags": [],
+      "event": "shanxi-red-feature",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "万人说新疆丨守护交河故城的古丽- 中国日报网",
+      "title_ko": "만인설신장 — 자오허 고성을 지키는 굴리",
+      "summary_ko": "신장 자오허 고성을 지키는 위구르족 여성 굴리를 소개하는 기획(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWF82OGd6WU1EbmlIMUtwY243Mk54MXNUM2lRZDZ5T1g3bW00Uk9tY1J2czc4eEFuZFdYRVZXS2FaU3RWZGhoaXd6cmZFNngwdmdqczRoRWllcWJ2REdoTDNISlBkZklaaHFFQWk3TW5qXzlZVEZ2SlhpRmJMTEthMA?oc=5",
+      "published": "2026-10-28T21:45:03+09:00",
+      "tags": [],
+      "event": "xinjiang-feature",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "关键密码- 中国日报网",
+      "title_ko": "핵심 암호",
+      "summary_ko": "차이나데일리 기획 기사, 제목 외 내용 확인 불가(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wVmdRNVhjazFDQ2REbGdnWTZPNmxCWDVfeGRkS185UVlsdldfMHhybWZRS2tad192OXI5QmVoRmgwVExlcFA1UVpocTBHbV83bjF1bkE3UEZmTGpGTV9UZmVjNmQxTFoyOXhGa3BadWRURURBcGpjQ3h0UjVtak0?oc=5",
+      "published": "2026-10-28T21:28:45+09:00",
+      "tags": [],
+      "event": "china-daily-key-code",
+      "state_media": true
+    }
+  ],
+  "events": [
+    {
+      "event": "spain-train-crash",
+      "title_ko": "스페인 열차 충돌 사고(사망자 최대 68명, 안전시스템 고장·관제 실수 지목)",
+      "sources": [
+        "CCTV",
+        "CGTN",
+        "Xinhua",
+        "People's Daily",
+        "China Daily"
+      ],
+      "count": 9
+    },
+    {
+      "event": "israel-election",
+      "title_ko": "이스라엘 총선: 네타냐후 진영 선두·과반 미달",
+      "sources": [
+        "CGTN",
+        "Xinhua",
+        "SCMP (홍콩)"
+      ],
+      "count": 3
+    },
+    {
+      "event": "ciie-2026",
+      "title_ko": "제9회 중국국제수입박람회 준비",
+      "sources": [
+        "CCTV",
+        "People's Daily"
+      ],
+      "count": 2
+    },
+    {
+      "event": "us-cuba-relations",
+      "title_ko": "미-쿠바: 쿠바 외교관 추방·유엔총회 봉쇄 해제 결의",
+      "sources": [
+        "CGTN",
+        "Xinhua"
+      ],
+      "count": 2
+    },
+    {
+      "event": "fed-rate-hold",
+      "title_ko": "미 연준 금리 동결(3.75~4.00%)",
+      "sources": [
+        "Xinhua",
+        "SCMP (홍콩)"
+      ],
+      "count": 2
+    },
+    {
+      "event": "qatar-iran-ceasefire-draft",
+      "title_ko": "소식통 \"카타르, 이란에 전쟁 종식 위한 새 협정 초안 제출\"",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "jiaolong-dive",
+      "title_ko": "유인잠수정 '자오룽'호 잠항의 이면",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "zhoushan-fish-release",
+      "title_ko": "저우산 해역에 표지어 16만8천 마리 방류…해양 생물자원 보충",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "song-tomb-head-return",
+      "title_ko": "송대 능묘 석각 두상 귀환…30년 만에 '밀밭 파수꾼' 고향으로",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ai-cyber-defense",
+      "title_ko": "AI가 사이버 공방을 가속…방어는 어떻게 따라잡나",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ai-service-street",
+      "title_ko": "전국 첫 'AI 서비스 거리' 개방…로봇 '임대해 쓰고 도면대로 제작'",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "eu-gas-100-euro",
+      "title_ko": "유럽 천연가스 가격, 2022년 이후 처음 MWh당 100유로 돌파",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 1
+    },
+    {
+      "event": "af-pak-border-firing",
+      "title_ko": "파키스탄 앙구르 아다 인근서 아프간 측 총격으로 1명 사망·5명 부상: 지오뉴스",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 1
+    },
+    {
+      "event": "usd-index-fall",
+      "title_ko": "미 달러 지수 28일 하락",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "syria-soldiers-shot",
+      "title_ko": "시리아 군인 2명, 신원불명 괴한 총격에 사망",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "boc-rate-hike",
+      "title_ko": "캐나다 중앙은행, 기준금리 25bp 인상해 2.5%로",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "brazil-bolsonaro-search",
+      "title_ko": "브라질 대법원, 플라비우 보우소나루 자택 수색 승인 거부",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "qinghai-feature",
+      "title_ko": "한마음으로 정신적 터전 함께 쌓아…청춘이 노래하는 칭하이의 장",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "xi-quote-series",
+      "title_ko": "'일습화·우리의 장정길' — '새로운 장정길에서 새로운 영광을 힘껏 창조하자'",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "party-discipline-series",
+      "title_ko": "'습광기' — '당 규율과 국법을 어기면 엄중히 책임을 묻고 엄벌한다'",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "shanghai-magic-week",
+      "title_ko": "제15회 상하이 국제 마술 주간 개막…2대 핵심 부문 마련",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "fuzhou-court-appointment",
+      "title_ko": "천밍충, 푸저우시 중급인민법원 대리원장 취임",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "huawei-us-trial",
+      "title_ko": "화웨이, 미 형사재판서 변론 시작…혁신 실적 내세워",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "maduro-judge-dies",
+      "title_ko": "마두로 사건 담당 92세 미 판사 별세",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "real-madrid-mao-apology",
+      "title_ko": "레알 마드리드, 음바페의 마오쩌둥 발언 관련 중국에 사과",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "us-asean-defence-framework",
+      "title_ko": "헤그세스, 미-아세안 국방 프레임워크 제안…수용은 미지수",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "russia-africa-summit",
+      "title_ko": "푸틴, 아프리카 정상회의서 구애…'식민주의' 서방 비판",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "singapore-haze-firms",
+      "title_ko": "싱가포르 장관들, 연무 관련 10개 기업 경영진 소환",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "russia-china-ties",
+      "title_ko": "러시아 과학원 원사 \"러중 다층적 교류는 문명 교류의 모범\"",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "prefab-housing-feature",
+      "title_ko": "조립식 주택 '새 보금자리'에 생활의 온기 살아나",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "northernmost-hsr",
+      "title_ko": "중국 최북단 고속철 개통 '한 달'…승객 45만3천 명 수송",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "xu-hao-bribery",
+      "title_ko": "전 윈상구이저우 빅데이터그룹 당서기·회장 쉬하오 수뢰 사건 1심 선고",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "shanxi-red-feature",
+      "title_ko": "청춘화장·산하명기 — 항전에서 건설까지, 산시 땅의 붉은 빛",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "xinjiang-feature",
+      "title_ko": "만인설신장 — 자오허 고성을 지키는 굴리",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "china-daily-key-code",
+      "title_ko": "핵심 암호",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    }
+  ],
+  "unavailable_sources": [
+    "Global Times",
+    "Caixin"
+  ]
+}
