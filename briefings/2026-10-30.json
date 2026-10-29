@@ -1,0 +1,2117 @@
+{
+ "date": "2026-10-30",
+ "generated_at": "2026-10-30 06:38 KST",
+ "essence": {
+  "headline": "빅테크 실적에 시장이 거세게 반응했다(알파벳 사상 최악의 하루 — 매출 미달·마이너스 잉여현금흐름·AI 지출 우려, 아마존 6~7% 하락 — 매출 전망 하회·현금흐름, 인텔 16~17% 급락 — PC 부진). 이란 전선에서는 공격 옵션 보고와 외교 재개 모색이 같은 날 나왔고 유가는 외교 기대에 내렸다 — 이스라엘은 개표가 끝나고도 과반 정부가 없다.",
+  "derivation": {
+   "assumptions": "통념 1: AI 붐은 계속 오른다. 통념 2: 이란 전쟁은 확전 아니면 종전 중 하나로 간다. 통념 3: 개표가 끝나면 이스라엘 정국이 정리된다. 🔎 왜 다들 이렇게 보도하는가 — 하나의 방향으로 묶어야 기사가 쉬워서다. 원자료는 같은 날 반대 방향 신호를 함께 적고 있다.",
+   "decomposition": "기술(연산력)·돈: 알파벳 정규장 사상 최악의 하루(CNBC '약 13%·5천억 달러', Sky '12% 넘게', MBC '12.6%', Handelsblatt '5천억 달러'), CNBC는 '연간 지출 가이던스 유지 속 예상보다 큰 마이너스 잉여현금흐름', Reuters는 '매출 미달이 AI 설비투자 불안을 되살렸다'. FT 요약은 '알파벳과 MS가 예상보다 낮은 설비투자를 발표한 뒤 나스닥100 1.4% 하락'이라고 써 원인 서술이 매체마다 다르다. 아마존: 잉여현금흐름 -424억 달러(CNBC 단일 수치), AWS 39% 성장(연합뉴스·한국경제), 주가 6~7% 하락(시간외 추정; Le Figaro 6%·한국경제 7%), 4분기 매출 전망 하회(Reuters·FT; 연합뉴스·YTN도 '기대치 밑돈 실적'). 인텔 16%(CNBC)·17%(FT) 급락 — 원인은 PC 부진(CNBC·FT·Handelsblatt). AI 지출로 투자등급 회사채 발행 연간 기록·MS 250억 달러 채권(Bloomberg 단일 매체). 군사력·에너지: 이란 '유조선 기뢰 피격' 주장(CBS 4척·AP 3척), 미군 수뇌부의 대이란 공격 옵션 보고(WSJ 단독; Interfax는 WSJ 인용), 트럼프 '공습 수주 걸릴 수도'·자국민 대피 촉구(WaPo 단일), 미국의 외교 재개 모색에 유가 하락(WSJ; MBC·YTN 'WTI 102달러'). 피격 주장·공격 옵션 보도는 원유 정산(03:30 KST) 뒤에 나왔다. EU 11개국 석유 4,260만 배럴 방출(Libération 단일). 제재: 러시아 경유 수출 금지 연장·미국 예외(Handelsblatt 단일), 뉴저지 주지사의 러시아산 경유 반입 저지 경고(FT 단일). (참고: DW의 '다크 탱커 합법화' 검토 보도는 러시아 언급이 없고 '제재 대상이 아닌' 원유 운송 이야기라 방향 불분명.) 돈(통화): 라가르드 조기 사임(Bloomberg '2월 7일'; 한국경제TV '내년 2월'; 닛케이·Japan Times), ECB 예금금리 2.50% 동결(매일경제 단일), 미 3분기 GDP 3.4%(NYT·요미우리). 정치: 이스라엘 최종 연정 53·변화 블록 48·아랍 19석(Globes), 양 진영 과반 실패(ZDF·n-tv·Handelsblatt·i24NEWS), 리쿠드 '선거 도둑' 주장(BBC·FT·AP), 푸틴 '전쟁 준비는 돼 있지만 유럽과 전쟁은 원치 않는다'(Meduza; 동아일보는 Interfax 인용; KBS·MBC·한국경제TV; Independent는 '위협'으로 보도).",
+   "rebuild": "🔎 재조립: 복수 출처로 단단한 사실은 ① 알파벳의 사상 최악 하루와 아마존·인텔의 동반 급락(원인은 매출 미달·현금흐름·PC 부진으로 종목마다 다름), ② 외교 재개 기대에 따른 유가 하락(이란 측 유조선 피격 주장과 공격 옵션 보고는 장 마감 뒤 보도), ③ 이스라엘 개표 완료 후에도 과반 정부 부재, ④ 푸틴의 '전쟁 준비는 돼 있지만 유럽과 전쟁은 원치 않는다' 발언(Independent는 '위협'으로 보도)이다. 근본 요소로 다시 쌓으면, 빅테크의 연산력 투자는 매출과 현금흐름이라는 돈의 검증을 받았고(차입으로 보충한다는 보도는 Bloomberg 단일), 에너지·군사 축에서는 확전 준비와 협상 모색이 같은 날 나란히 보도됐다(가격은 아직 외교 기대만 반영). 즉 오늘의 실체는 '연산력 투자와 전쟁 모두에 청구서가 날아들기 시작한 것'이다(해석). 러시아 경유의 미국 반입 보도(Handelsblatt·FT, 각각 단일)는 대러 에너지 제재의 선택적 완화를 가리키지만 규모·조건이 없어 핵심 근거로 쓰지 않는다."
+  }
+ },
+ "fishbone": {
+  "head": "빅테크는 실적으로 검증받고, 이란 전선은 확전 준비와 외교 모색이 나란히, 러시아 경유는 미국으로",
+  "bones": [
+   {
+    "field": "industry",
+    "items": [
+     {
+      "id": "n1",
+      "label": "인텔 16~17%↓(PC 부진)",
+      "country": "us"
+     },
+     {
+      "id": "n2",
+      "label": "AWS 39% 성장",
+      "country": "kr"
+     },
+     {
+      "id": "n3",
+      "label": "아우디 공장 대가 관세 인하(소식통)",
+      "country": "de"
+     },
+     {
+      "id": "n4",
+      "label": "캐나다·슈바르츠, 코히어 투자",
+      "country": "de"
+     },
+     {
+      "id": "n41",
+      "label": "EU 11개국 석유 4,260만 배럴 방출",
+      "country": "fr"
+     }
+    ]
+   },
+   {
+    "field": "business",
+    "items": [
+     {
+      "id": "n5",
+      "label": "아마존 잉여현금흐름 -424억$",
+      "country": "us"
+     },
+     {
+      "id": "n6",
+      "label": "엑손 CEO, 보안 우려로 ADIPEC 불참",
+      "country": "uk"
+     },
+     {
+      "id": "n7",
+      "label": "러 주택건설사 재무 위기",
+      "country": "ru"
+     }
+    ]
+   },
+   {
+    "field": "stocks",
+    "items": [
+     {
+      "id": "n8",
+      "label": "알파벳 사상 최악의 하루",
+      "country": "us"
+     },
+     {
+      "id": "n9",
+      "label": "WTI 102달러(외교 기대)",
+      "country": "kr"
+     },
+     {
+      "id": "n10",
+      "label": "AI 차입에 회사채 발행 연간 기록",
+      "country": "us"
+     },
+     {
+      "id": "n11",
+      "label": "코스피 1%대↓·삼성전자 4%↓",
+      "country": "kr"
+     }
+    ]
+   },
+   {
+    "field": "crypto",
+    "items": [
+     {
+      "id": "n12",
+      "label": "폴리마켓 해킹·거래 중단",
+      "country": "us"
+     },
+     {
+      "id": "n13",
+      "label": "폴리마켓, 이스라엘 선거 의심거래 조사",
+      "country": "il"
+     },
+     {
+      "id": "n14",
+      "label": "코인베이스 흑자 전환·매출 감소",
+      "country": "us"
+     }
+    ]
+   },
+   {
+    "field": "monetary",
+    "items": [
+     {
+      "id": "n15",
+      "label": "라가르드 2월 7일 조기 사임",
+      "country": "jp"
+     },
+     {
+      "id": "n16",
+      "label": "ECB 예금금리 2.50% 동결",
+      "country": "kr"
+     },
+     {
+      "id": "n17",
+      "label": "미 3분기 GDP 3.4%",
+      "country": "us"
+     },
+     {
+      "id": "n18",
+      "label": "미 9월 PCE 3.6%",
+      "country": "kr"
+     },
+     {
+      "id": "n19",
+      "label": "[관영] 중·칠레 통화스와프 갱신",
+      "country": "cn"
+     }
+    ]
+   },
+   {
+    "field": "legislation",
+    "items": [
+     {
+      "id": "n20",
+      "label": "FCC, 중국 시험소 전자기기 시험 금지",
+      "country": "cn"
+     },
+     {
+      "id": "n21",
+      "label": "법무부 알래스카·캘리포니아 선거 수사",
+      "country": "us"
+     },
+     {
+      "id": "n22",
+      "label": "메디케이드 '허약' 규칙 법원 제동",
+      "country": "us"
+     },
+     {
+      "id": "n23",
+      "label": "필리프 '조력 증인' 신분",
+      "country": "fr"
+     }
+    ]
+   },
+   {
+    "field": "forecast",
+    "items": [
+     {
+      "id": "n24",
+      "label": "미 사전투표 4,300만 표+",
+      "country": "uk"
+     },
+     {
+      "id": "n25",
+      "label": "'민주당 이겨도 관세 2년 그대로'",
+      "country": "kr"
+     },
+     {
+      "id": "n26",
+      "label": "트럼프 '이란 공습 수주 걸릴 수도'",
+      "country": "us"
+     }
+    ]
+   },
+   {
+    "field": "geopolitics",
+    "items": [
+     {
+      "id": "n27",
+      "label": "이란 '유조선 기뢰 피격' 주장",
+      "country": "us"
+     },
+     {
+      "id": "n28",
+      "label": "미군 수뇌부 대이란 공격 옵션 보고",
+      "country": "us"
+     },
+     {
+      "id": "n29",
+      "label": "WSJ '미, 이란과 외교 재개 모색'",
+      "country": "us"
+     },
+     {
+      "id": "n30",
+      "label": "러 경유 수출금지 연장 '미국 예외'",
+      "country": "de"
+     },
+     {
+      "id": "n31",
+      "label": "뉴저지 주지사, 러 경유 반입 저지 경고",
+      "country": "uk"
+     },
+     {
+      "id": "n32",
+      "label": "미 '다크 탱커 합법화' 검토 보도",
+      "country": "de"
+     },
+     {
+      "id": "n33",
+      "label": "푸틴 '유럽과 전쟁 원치 않아'",
+      "country": "kr"
+     },
+     {
+      "id": "n34",
+      "label": "우크라 철도역 공격 14명 사망",
+      "country": "jp"
+     },
+     {
+      "id": "n35",
+      "label": "이스라엘 최종: 연정 53·야권 48·아랍 19",
+      "country": "il"
+     },
+     {
+      "id": "n36",
+      "label": "리쿠드 '외국 세력이 선거 훔쳐' 주장",
+      "country": "uk"
+     },
+     {
+      "id": "n37",
+      "label": "카니·EU, 준회원·'트럼프 위협 맞선 동맹' 추진",
+      "country": "us"
+     },
+     {
+      "id": "n38",
+      "label": "ZIM 화물선 흑해서 드론에 침몰",
+      "country": "il"
+     },
+     {
+      "id": "n39",
+      "label": "슈타인마이어, 베이징서 직설 비판(DW)",
+      "country": "de"
+     },
+     {
+      "id": "n40",
+      "label": "한미 SCM 연기·회담자료 미배포",
+      "country": "kr"
+     }
+    ]
+   }
+  ],
+  "links": [
+   {
+    "from": "n2",
+    "to": "n5",
+    "from_label": "AWS 39% 성장",
+    "to_label": "아마존 잉여현금흐름 -424억$",
+    "logic": "한국경제는 'AWS 39% 성장에도 아마존 주가 7% 급락… AI 투자에 현금흐름 악화'라고 썼다. CNBC는 잉여현금흐름 -424억 달러와 2026년 설비투자 유지를 보도했다. 🔎 한국경제는 AI 투자의 현금 소모를 원인으로 봤지만, Reuters·FT·연합뉴스·YTN은 매출·4분기 전망 하회를 원인으로 들었다."
+   },
+   {
+    "from": "n5",
+    "to": "n10",
+    "from_label": "아마존 잉여현금흐름 -424억$",
+    "to_label": "AI 차입에 회사채 발행 연간 기록",
+    "logic": "🔎 해석: 아마존의 마이너스 잉여현금흐름(CNBC)과 같은 날, Bloomberg는 AI 지출로 투자등급 회사채 발행이 연간 기록을 세웠고 MS가 250억 달러 채권을 발행했다고 전했다(단일 매체). AI 설비투자의 자금원이 현금에서 달러 채권 차입으로 넓어지는 흐름 — 아마존이 채권을 냈다는 내용은 원자료에 없다."
+   },
+   {
+    "from": "n8",
+    "to": "n1",
+    "from_label": "알파벳 사상 최악의 하루",
+    "to_label": "인텔 16~17%↓(PC 부진)",
+    "logic": "🔎 병치: 같은 날 알파벳(CNBC·Sky·Handelsblatt)과 인텔(CNBC·FT·Handelsblatt)이 함께 급락했다. 원인은 다르다 — 알파벳은 예상보다 큰 마이너스 잉여현금흐름(CNBC)·매출 미달이 되살린 AI 설비투자 불안(Reuters), 인텔은 PC 부진(CNBC)과 높은 메모리 가격에 따른 PC 구매 감소(Handelsblatt)."
+   },
+   {
+    "from": "n29",
+    "to": "n9",
+    "from_label": "WSJ '미, 이란과 외교 재개 모색'",
+    "to_label": "WTI 102달러(외교 기대)",
+    "logic": "WSJ는 미국이 이란과 외교 재개를 모색하며 유가가 내렸다고 보도했고, MBC·YTN은 중동·이란 외교 해결 기대감에 WTI가 102달러가 됐다고 전했다. 원자료가 직접 잇는 인과."
+   },
+   {
+    "from": "n28",
+    "to": "n26",
+    "from_label": "미군 수뇌부 대이란 공격 옵션 보고",
+    "to_label": "트럼프 '이란 공습 수주 걸릴 수도'",
+    "logic": "🔎 병치: 미군 최고위 제독이 트럼프에게 이란 공격 옵션을 보고했고(WSJ 단독; Interfax는 WSJ 인용), 트럼프는 공습이 수주 걸릴 수 있다며 자국민에게 지역을 떠나라고 촉구했다(WaPo 단일). 같은 날 WSJ는 외교 재개 모색도 보도 — 확전 준비와 협상이 병행된다."
+   },
+   {
+    "from": "n30",
+    "to": "n31",
+    "from_label": "러 경유 수출금지 연장 '미국 예외'",
+    "to_label": "뉴저지 주지사, 러 경유 반입 저지 경고",
+    "logic": "🔎 해석(각각 단일 출처): 러시아가 경유 수출 금지를 연장하며 미국을 예외로 했고(Handelsblatt), 뉴저지 주지사는 '트럼프-푸틴 거래'를 비판하며 러시아산 경유의 동부 해안 반입을 막겠다고 했다(FT). 러시아 경유가 미국으로 향하는 흐름이 두 매체에서 따로 확인되지만, 거래 규모·조건은 원자료에 없다."
+   },
+   {
+    "from": "n35",
+    "to": "n36",
+    "from_label": "이스라엘 최종: 연정 53·야권 48·아랍 19",
+    "to_label": "리쿠드 '외국 세력이 선거 훔쳐' 주장",
+    "logic": "FT는 팔레스타인계 시민의 높은 투표율로 네타냐후가 완승하지 못하자 보안기관이 개입 의혹을 조사 중이라고 썼고, BBC는 연정이 과반을 잃은 뒤 리쿠드가 외국 개입·'선거 도둑'을 주장했다고 보도했다. 원자료가 직접 잇는 연결."
+   },
+   {
+    "from": "n37",
+    "to": "n4",
+    "from_label": "카니·EU, 준회원·'트럼프 위협 맞선 동맹' 추진",
+    "to_label": "캐나다·슈바르츠, 코히어 투자",
+    "logic": "🔎 해석: 카니 총리와 EU가 '트럼프 위협에 맞선 더 넓은 동맹(wider alliance against Trump threats)'을 추진하는 같은 날(AP), 캐나다는 AI 기업 코히어 지분을 인수했고(WSJ) 슈바르츠 그룹·엔비디아·캐나다 정부가 '소버린 AI' 투자에 참여했다(Handelsblatt). 안보와 AI 모두에서 대미 의존을 줄이려는 신호 — 두 사안을 잇는 발언은 원자료에 없고, 미국 기업 엔비디아도 코히어 투자에 참여해 'AI 탈미국'으로 보기는 이르다."
+   },
+   {
+    "from": "n12",
+    "to": "n13",
+    "from_label": "폴리마켓 해킹·거래 중단",
+    "to_label": "폴리마켓, 이스라엘 선거 의심거래 조사",
+    "logic": "🔎 병치: 폴리마켓은 외부 업체 침해로 거래를 1시간 멈추고 이용자 자금을 도난당했으며(NBC·CNBC; Le Figaro '수백만 달러 도난 가능성'), 이스라엘 총선 관련 의심 거래도 조사 중이다(Ynet·WSJ). 미국 중간선거를 며칠 앞둔 예측시장의 보안·공정성 문제."
+   }
+  ]
+ },
+ "fields": [
+  {
+   "id": "industry",
+   "phenomenon": "인텔은 PC 시장 부진에 약한 가이던스를 내 16%(CNBC)·17%(FT) 급락했고, Handelsblatt는 높은 메모리 가격이 PC 구매를 줄였다고 썼다. 아마존 AWS는 39% 성장했다(연합뉴스·한국경제). 미국이 아우디가 조지아에 공장을 지으면 관세 인하를 약속했다고 소식통이 전했다(WELT '10%'; Handelsblatt는 '구두 약속 단계'). 캐나다 정부와 슈바르츠 그룹·엔비디아가 AI 기업 코히어에 투자했다(WSJ·Handelsblatt). EU 11개국은 1월 말까지 석유 4,260만 배럴(절반은 경유)을 방출하며, 여러 나라에서 경유가 리터당 2.30유로를 넘었다 — 단, EU 집행위는 공급 차질을 우려하지 않는다고 했다(Libération 단일).",
+   "precedent": "🔎 2017~18년 메모리 가격 급등이 PC·스마트폰 수요를 깎은 사례, 1980년대 일본 자동차의 대미 현지 생산(관세·쿼터 회피), 2022년 IEA 회원국의 비축유 공동 방출.",
+   "cause": "높은 메모리 가격이 PC 구매를 줄였다(Handelsblatt). 🔎 해석: 메모리 가격 강세가 AI 수요 때문이라면 AI가 기존 완제품 수요를 밀어내는 구도이지만, 그 원인은 원자료에 없다. 미국은 관세를 공장 유치의 지렛대로 쓰고(아우디), 동맹국은 자국 AI를 키우려 한다(캐나다 코히어). 유럽은 경유 가격 급등에 비축유를 푼다.",
+   "essence": "🔎 비싼 부품, 관세로 끌어오는 공장, 비축유로 막는 에너지 비용 — 제조 비용 압박이 여러 경로로 나타나는 국면(메모리 가격의 AI 원인설은 미확인).",
+   "counter": "이 해석이 틀렸다면: 인텔 부진은 자체 경쟁력 문제일 수 있고 메모리 가격 원인설은 Handelsblatt 단일이다. 아우디 관세 인하는 소식통 수치·구두 약속이고, EU 비축유 방출은 Libération 단일 보도다.",
+   "scenarios": [
+    {
+     "name": "기본",
+     "desc": "메모리 가격 강세 지속, 완제품 수요 둔화, 관세-공장 유치 거래 확산.",
+     "signal": "다른 PC·스마트폰 업체 가이던스, BMW·메르세데스 관세 합의 보도"
+    },
+    {
+     "name": "상방",
+     "desc": "메모리 증설로 가격 안정, 완제품 수요 회복.",
+     "signal": "메모리 현물가 하락 보도"
+    },
+    {
+     "name": "하방",
+     "desc": "에너지·부품 비용이 함께 올라 제조업 전반 감산.",
+     "signal": "유럽 경유 가격 추가 상승, 제조업 PMI 하락"
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "phenomenon": "아마존은 3분기 잉여현금흐름 -424억 달러를 기록하고 2026년 설비투자 계획을 유지했다(CNBC 단일 수치). 매출은 2,019억 달러로 12% 늘었지만(Le Figaro) 4분기 매출 전망은 시장 예상을 밑돌았다(Reuters·FT). NYT는 빅테크의 데이터센터 공세가 현금을 태워 월가가 불안해한다고 썼다. 엑손모빌 CEO는 보안 우려로 아부다비 ADIPEC 연설을 취소했다(FT 단일). 러시아에서는 최대 주택 건설사 '사몰룟'의 문제를 시작으로 등록 건설사의 8.4~13.1%가 재무난을 겪는다(Kommersant 단일 매체).",
+   "precedent": "🔎 2000년 통신 버블 때 설비투자 급증이 현금흐름 적자로 이어진 통신사들, 2021년 중국 헝다발 부동산 개발사 연쇄 위기.",
+   "cause": "🔎 해석: AI 설비투자가 매출 성장 속도를 앞질러 현금흐름이 마이너스로 돌아섰다. 러시아에서는 판매 감소와 대출 조건 악화가 건설사 재무를 압박한다(Kommersant). 걸프의 안보 불안은 글로벌 에너지 기업 경영진의 동선까지 바꿨다(FT).",
+   "essence": "🔎 비싼 돈과 전쟁 위험이 기업의 현금흐름과 동선을 직접 제약한다.",
+   "counter": "이 해석이 틀렸다면: AWS 39% 성장(연합뉴스·한국경제)처럼 AI 매출도 빠르게 늘고 있어 현금흐름 적자는 일시적 투자 사이클일 수 있다. 러시아 건설사 위기는 국내 요인(규제·보조금 축소)이 클 수 있다.",
+   "scenarios": [
+    {
+     "name": "기본",
+     "desc": "빅테크 설비투자 유지, 현금흐름 적자는 차입으로 메움.",
+     "signal": "추가 대형 회사채 발행, 4분기 가이던스"
+    },
+    {
+     "name": "상방",
+     "desc": "AI 매출이 투자 속도를 따라잡아 현금흐름 개선.",
+     "signal": "다음 분기 잉여현금흐름 흑자 전환"
+    },
+    {
+     "name": "하방",
+     "desc": "설비투자 축소 발표가 잇따르며 AI 공급망 주문 감소.",
+     "signal": "빅테크 설비투자 하향 발표"
+    }
+   ]
+  },
+  {
+   "id": "stocks",
+   "phenomenon": "알파벳은 정규장에서 사상 최악의 하루를 보냈다(CNBC '약 13%·5천억 달러', Sky '12% 넘게·약 반조 달러', MBC '12.6%', Handelsblatt '5천억 달러'). FT 요약은 '알파벳과 MS가 예상보다 낮은 설비투자를 발표한 뒤 나스닥100 1.4% 하락'이라고 썼고, Reuters는 '매출 미달이 AI 설비투자 불안을 되살렸다'고 했다. 아마존 주가는 6~7% 떨어졌다(시간외 추정; Le Figaro 6%, 한국경제 7%). WTI는 외교 해결 기대감에 102달러로 내렸다(MBC·YTN; WSJ '외교 재개 모색에 유가 하락'). Bloomberg는 AI 지출로 투자등급 회사채 발행이 연간 기록을 세웠다고 전했다(단일 매체). 한국에서는 SK하이닉스의 20조 원 자사주 매입에도 삼성전자가 주주환원 실망으로 4% 넘게 떨어져 코스피가 1%대 하락했다(조선일보).",
+   "precedent": "🔎 2022년 메타의 하루 26% 폭락(설비투자 우려), 2000년 닷컴 정점 이후 대형 기술주의 연쇄 하락.",
+   "cause": "🔎 해석: 실적 시즌에 매출과 현금흐름이 공개되자 시장이 AI 투자의 회수 가능성을 위험으로 평가했다(인텔은 PC 부진이라는 다른 원인). 다만 FT는 설비투자가 '예상보다 낮았다'고 써 원인 해석이 엇갈린다. 유가는 외교 재개 기대에 내렸다(WSJ·MBC·YTN). 이란의 유조선 피격 주장과 공격 옵션 보고는 원자료 시각상 장 마감 뒤에 나와 이날 유가에 반영됐는지 알 수 없다.",
+   "essence": "🔎 시장이 AI 투자의 현금 비용을 가격에 반영하기 시작했다.",
+   "counter": "이 해석이 틀렸다면: 알파벳 하락은 매출 미달(Reuters)·검색 사업 약화 우려(한국경제; CNBC는 Reddit 실적 기사에서 '구글 검색 트래픽 감소')와 겹쳤을 수 있고, FT 서술처럼 오히려 투자 축소가 실망을 줬을 가능성도 있다. 하루 급락만으로 추세를 단정할 수 없다.",
+   "scenarios": [
+    {
+     "name": "기본",
+     "desc": "기술주 변동성 확대, 설비투자 대비 매출을 따지는 차별화 지속.",
+     "signal": "메타 등 남은 빅테크 실적 반응, 나스닥100 추세"
+    },
+    {
+     "name": "상방",
+     "desc": "AI 매출 가시성이 확인되며 반등.",
+     "signal": "애널리스트 목표가 상향, 클라우드 성장 가속 보도"
+    },
+    {
+     "name": "하방",
+     "desc": "AI 투자 회의론 확산으로 반도체·부품주까지 동반 하락.",
+     "signal": "SK하이닉스·엔비디아 등 공급망 주가 급락"
+    }
+   ]
+  },
+  {
+   "id": "crypto",
+   "phenomenon": "예측시장 폴리마켓은 외부 업체 침해로 국제 플랫폼 거래를 1시간 멈췄고 이용자 자금이 도난당했으며(NBC·CNBC; Le Figaro '수백만 달러 도난 가능성') 영국 당국에 회부했다(CNBC). 폴리마켓은 이스라엘 총선 관련 의심 거래도 조사 중이다(Ynet·WSJ). 코인베이스는 1년 만에 흑자로 돌아섰지만 분기 매출은 또 줄었다(Bloomberg 단일). 오늘 스테이블코인 관련 헤드라인은 없다.",
+   "precedent": "🔎 2022년 FTX 붕괴(거래 플랫폼 보안·지배구조 위기), 2014년 마운트곡스 해킹.",
+   "cause": "🔎 해석: 미국 중간선거로 거래가 크게 늘 것으로 예상되던 시점(CNBC)에 예측시장의 보안과 공정성이 동시에 흔들렸다. 거래소 실적은 암호화폐 시장 의존이 여전하다(Bloomberg).",
+   "essence": "🔎 오늘 코인 분야의 실체는 '성장'이 아니라 '플랫폼 신뢰'의 문제다.",
+   "counter": "이 해석이 틀렸다면: 폴리마켓 해킹은 외부 협력업체 사고로 플랫폼 구조 문제가 아닐 수 있고, 코인베이스 흑자 전환은 업황 회복의 신호일 수 있다.",
+   "scenarios": [
+    {
+     "name": "기본",
+     "desc": "예측시장 규제 논의가 이어지되 거래는 유지.",
+     "signal": "CFTC·영국 당국 조사 진행"
+    },
+    {
+     "name": "상방",
+     "desc": "스테이블코인 제도화 등 새 뉴스 등장(가설 지지 방향).",
+     "signal": "스테이블코인 법안·인가 헤드라인"
+    },
+    {
+     "name": "하방",
+     "desc": "추가 해킹·조작 의혹으로 예측시장 위축.",
+     "signal": "중간선거 관련 의심 거래 조사 확대"
+    }
+   ]
+  },
+  {
+   "id": "monetary",
+   "phenomenon": "라가르드 ECB 총재가 내년 10월 임기 만료 전인 2월 7일 사임한다(Bloomberg; 닛케이는 '프랑스 대선 전 퇴임 결단', 한국경제TV는 '마크롱에 후임 인선 기회'). Japan Times는 ECB가 이란발 유가 충격에 따른 인플레이션 위험과 국채 금리 급등에 맞서는 시점이라고 썼다. ECB는 예금금리를 2.50%로 동결했다(매일경제 단일 속보 — 원자료 시각이 수집 시각보다 늦어 시점 미확인). 미국 3분기 GDP는 3.4% 성장했고(NYT·요미우리), Reuters는 견조한 소비와 AI 관련 투자가 견인했다고 했다. 9월 PCE 물가는 3.6%로 예상(3.7%)을 소폭 밑돌았다(매일경제 단일). 일본은행은 금융정책 발표를 앞두고 '물가 2% 도달' 언급이 주목된다(아사히). [메시지] 중국·칠레 중앙은행이 통화스와프를 갱신했다(인민일보 관영). ",
+   "precedent": "🔎 2011년 트리셰 퇴임과 드라기 취임 직후의 유로 위기 대응, 1970년대 오일쇼크기 중앙은행의 물가-성장 딜레마.",
+   "cause": "🔎 해석: 유가 충격(Japan Times)과 국채 금리 상승이 유럽 통화당국을 압박하는 가운데, 수장 교체 시점이 프랑스 대선 정치와 맞물렸다(닛케이·한국경제TV). 미국은 성장(3.4%, NYT·요미우리)과 물가(PCE 3.6%, 매일경제 단일)가 모두 높아 금리를 낮추기 어렵다.",
+   "essence": "🔎 유가 충격(Japan Times)과 국채 금리 상승 속에서 유럽은 금리 인상 관측까지 나오고(닛케이 유럽 국채 개황), 미·유럽 통화당국 모두 '인하할 여지가 없는' 국면이다.",
+   "counter": "이 해석이 틀렸다면: PCE가 예상을 밑돌았고(매일경제) ECB는 동결했으므로 긴축 압력이 정점을 지났을 수 있다. 라가르드 사임은 개인 진로 문제일 수 있다(닛케이 '통화정책 외 영역에 관여').",
+   "scenarios": [
+    {
+     "name": "기본",
+     "desc": "ECB·연준 동결 지속, ECB 후임 인선이 정치 쟁점화.",
+     "signal": "ECB 후임 후보 보도, 12월 FOMC"
+    },
+    {
+     "name": "상방",
+     "desc": "유가 하락으로 물가 둔화, 내년 인하 기대 부활.",
+     "signal": "WTI 100달러 하회 지속, PCE 추가 둔화"
+    },
+    {
+     "name": "하방",
+     "desc": "유가 재급등으로 ECB 인상·국채 금리 급등.",
+     "signal": "유럽 경유 가격 추가 상승, 프랑스 국채 스프레드 확대"
+    }
+   ]
+  },
+  {
+   "id": "legislation",
+   "phenomenon": "미 FCC는 미국 시장용 전자기기를 중국 시험소·인증기관이 시험하지 못하도록 의결했다 — 트럼프가 수주 뒤 선전 APEC에서 시진핑을 만나기 직전이다(SCMP 단일). 법무부는 알래스카 상원 선거에서 민주당 측이 공화당 현직 의원과 동명인 후보를 영입하려 했다는 의혹 수사로 새 소환장을 냈고(ABC·AP, 소식통; CNN은 '수사 가속'), 캘리포니아 선거 관리들에게 대배심 소환장을 발부했다(NYT 단일). 연방 판사는 트럼프 행정부의 메디케이드 '의학적 허약' 입증 규칙에 제동을 걸었다(ABC·AP). 프랑스 대선 후보 에두아르 필리프는 공금 횡령 사건에서 '조력 증인' 신분이 됐다(franceinfo·Le Monde·Le Figaro·Libération).",
+   "precedent": "🔎 2019년 화웨이 장비 금지(FCC 공급망 규칙), 2020년 미 대선 전후 선거 소송 급증.",
+   "cause": "🔎 해석: 미국은 정상회담 직전에도 기술 규제를 행정 절차로 계속 쌓고, 국내에서는 선거 절차를 수사와 소송으로 다툰다. 법원은 행정부 규칙 일부에 제동을 건다(메디케이드).",
+   "essence": "🔎 미국은 대외 기술 견제와 국내 선거 모두를 '규칙과 수사'로 밀어붙인다.",
+   "counter": "이 해석이 틀렸다면: FCC 결정은 SCMP 단일 보도이고 정상회담 협상용 카드일 수 있다. 알래스카 건은 민주당 측의 동명이인 후보 영입 의혹이라는 구체적 사안에 대한 수사이고(ABC), 선거 절차 전반을 겨냥한 것이라는 근거는 아직 없다. 캘리포니아 수사는 NYT 단일 보도다.",
+   "scenarios": [
+    {
+     "name": "기본",
+     "desc": "정상회담 전 기술 규제 유지, 선거 관련 수사 지속.",
+     "signal": "APEC 정상회담 의제 발표"
+    },
+    {
+     "name": "상방",
+     "desc": "정상회담에서 기술 규제 일부 완화 합의.",
+     "signal": "FCC·상무부 규제 유예 발표"
+    },
+    {
+     "name": "하방",
+     "desc": "중국 보복 규제, 선거 불복 소송 확산.",
+     "signal": "중국 상무부 대응 조치, 개표 후 소송"
+    }
+   ]
+  },
+  {
+   "id": "forecast",
+   "phenomenon": "미 중간선거 사전투표가 4,300만 표를 넘었다(BBC). 민주당은 주요 상원 경합지에서 앞선다(CNN). 한국경제TV는 민주당이 이겨도 향후 2년간 관세율은 바뀌지 않을 것이라는 전망을 전했다. 트럼프는 이란 공습이 수주 걸릴 수 있다고 했다(WaPo 단일). 리소나애셋은 닛케이평균 2027년 3월 말 7만2000엔을 전망했다(닛케이 단일).",
+   "precedent": "🔎 2018년 중간선거 하원 교체 후에도 관세 정책이 유지된 사례.",
+   "cause": "🔎 해석: 한국경제TV가 전한 전망(단일)처럼, 선거가 의회를 바꿔도 관세·군사 결정권은 대통령에게 남는다는 관측이 있다.",
+   "essence": "🔎 다음 주 미국 선거는 의회를 바꿔도 관세·전쟁 경로를 바로 바꾸지는 못할 수 있다.",
+   "counter": "이 해석이 틀렸다면: 관세 전망은 한국경제TV가 전한 단일 전망이고, 의회 권력 교체가 예산(국방예산 교착, RBC가 WP 인용)으로 대통령을 제약할 수 있다.",
+   "scenarios": [
+    {
+     "name": "기본",
+     "desc": "민주당 하원 탈환, 관세 유지, 이란 군사 옵션 대기.",
+     "signal": "11월 3일 개표 결과"
+    },
+    {
+     "name": "상방",
+     "desc": "선거 후 이란과 외교 재개 진전.",
+     "signal": "미·이란 직접 접촉 보도"
+    },
+    {
+     "name": "하방",
+     "desc": "선거 직후 대이란 공습 개시.",
+     "signal": "중동 미군 증강·공습 보도"
+    }
+   ]
+  },
+  {
+   "id": "geopolitics",
+   "phenomenon": "이란은 호르무즈 해협에서 유조선이 기뢰에 맞았다고 주장했다(CBS 4척·AP 3척). 미군 최고위 제독이 트럼프에게 이란 공격 옵션을 보고했고(WSJ 단독; Interfax는 WSJ 인용) 트럼프는 공습이 수주 걸릴 수 있다며 자국민에게 지역을 떠나라고 했다(WaPo 단일). 같은 날 WSJ는 미국이 이란과 외교 재개를 모색한다고 보도했다. [메시지] 이란은 미 부통령 서한에 아직 답하지 않았다(Xinhua 관영). 러시아는 경유 수출 금지를 연장하며 미국을 예외로 했고(Handelsblatt 단일), 뉴저지 주지사는 러시아산 경유 반입을 막겠다고 했다(FT 단일). 푸틴은 '유럽과 전쟁에 준비돼 있지만 원치 않는다'(Meduza; 동아일보는 Interfax 인용; KBS·MBC·한국경제TV; Independent는 '섬뜩한 위협'으로 보도)며 관계 회복 조치를 지지한다고 했다(Interfax). 같은 날 멜라니아 트럼프가 중재한 휴전에도(Channel 4) 러시아 드론 공격으로 우크라이나 철도역에서 14명이 숨졌다(TBS·Japan Times·Channel 4). ZIM 운영 화물선이 불가리아 흑해 연안에서 해상 드론 공격으로 침몰했다(i24NEWS·Globes). 이스라엘 개표가 끝나 연정 53·변화 블록 48·아랍 정당 19석으로 양 진영 모두 과반에 못 미쳤다(Globes; ZDF·n-tv·Handelsblatt). 카니 캐나다 총리와 EU는 캐나다의 EU 준회원 지위와 '트럼프 위협에 맞선 더 넓은 동맹'을 추진했다(AP; SCMP는 '공동선언에서 용어 빠짐'). 슈타인마이어는 베이징에서 중국을 이례적으로 직설 비판했다(DW 단일 매체; ARD는 연설 사실만). 한미 SCM은 연기됐고 미 국방부는 회담 결과 자료를 배포하지 않았다(SBS·MBC).",
+   "precedent": "🔎 1987~88년 '탱커 전쟁'(호르무즈 기뢰·유조선 공격과 미군 호위), 1970년대 데탕트기 미·소 곡물·에너지 거래.",
+   "cause": "🔎 해석: 이란 전선은 확전 준비(공격 옵션·자국민 대피)와 외교 재개 모색이 함께 진행된다. 러시아와는 전쟁이 계속되는 가운데(철도역 공격) 에너지 거래의 틈이 생긴다(경유 '미국 예외'). 미국의 동맹국 가운데 캐나다(EU 접근)와 한국(SCM 연기)은 거리를 조정하는 신호가 있고, 독일은 오히려 관세 합의를 기대한다(아우디, WELT·Handelsblatt).",
+   "essence": "🔎 미국은 적과 거래하고 동맹과는 거리가 벌어지는, 이해관계 중심의 재배열이 진행 중이다.",
+   "counter": "이 해석이 틀렸다면: 러시아 경유 '미국 예외'(Handelsblatt)·뉴저지 반입(FT)은 각각 단일 출처이고, 이란 공격 옵션 보고는 압박용 신호일 수 있다. KF-21과 미 공군의 첫 편대비행(연합뉴스)처럼 동맹 협력도 이어진다. 캐나다의 EU 접근은 Spiegel이 보도했듯 메르츠의 제동을 받았다.",
+   "scenarios": [
+    {
+     "name": "기본",
+     "desc": "이란과 간접 협상 재개 시도 속 군사 옵션 대기, 러시아와 에너지 거래 확대.",
+     "signal": "미·이란 접촉 공식 확인, 러시아 경유 미국 입항 보도"
+    },
+    {
+     "name": "상방",
+     "desc": "이란 호르무즈 재개방 합의와 우크라 3자 협상 개시.",
+     "signal": "호르무즈 통항 정상화 보도, 아부다비 협상 날짜"
+    },
+    {
+     "name": "하방",
+     "desc": "미국의 대이란 공습 개시와 흑해·호르무즈 동시 항로 마비.",
+     "signal": "공습 보도, 해상보험료 급등"
+    }
+   ]
+  }
+ ],
+ "hypothesis_check": {
+  "support": [
+   "AI 연산 투자의 달러 채권 조달: AI 지출로 투자등급 회사채 발행 연간 기록·MS 250억 달러 채권(Bloomberg 단일 매체 — 핵심 근거 아님). '연산력 결제의 달러화' 직접 증거는 오늘도 없음",
+   "분쟁 장기화 요소: 이란 '유조선 기뢰 피격' 주장(CBS·AP), 미군 수뇌부 대이란 공격 옵션 보고(WSJ 단독; Interfax는 WSJ 인용), 트럼프 '공습 수주 걸릴 수도'(WaPo 단일), 멜라니아 트럼프 중재 휴전에도 러시아 드론의 우크라이나 철도역 공격 14명 사망(TBS·Japan Times·Channel 4), ZIM 화물선 흑해 침몰(i24NEWS·Globes)",
+   "에너지 압박(유럽 내부 비용): EU 11개국 석유 4,260만 배럴 방출·경유 2.30유로 초과(Libération 단일 — EU 집행위는 공급 차질을 우려하지 않는다고 함), Japan Times 'ECB, 이란발 유가 충격 인플레 위험과 싸워'",
+   "대중 기술 포위선: FCC의 중국 시험소 전자기기 시험 금지(SCMP 단일), 미 정보기관 '젠슨 황 지인 중국 여성은 스파이' 판단(요미우리; 한국경제TV·중앙일보도 보도 — 방첩 보도로 기술 제재 조치는 아님), 슈타인마이어의 대중 직설 비판(DW 단일 매체 — 독일의 입장으로 미국의 포위선과 직접 관련 없음)",
+   "관세를 지렛대로 한 공장 유치: 아우디 조지아 공장 대가 관세 인하(WELT 소식통·Handelsblatt '구두 약속')",
+   "[메시지] 해상 물류 위협: 파트루셰프 '러시아행 화물선 1년간 100여 차례 공격'(TASS·RIA 관영)"
+  ],
+  "against": [
+   "가설 균열 — AI 달러화 축의 지속성: 알파벳 사상 최악의 하루(CNBC·Sky·Handelsblatt; MBC '12.6%↓') — Reuters는 '매출 미달이 AI 설비투자 불안을 되살렸다', 아마존 잉여현금흐름 -424억 달러(CNBC)·주가 6~7% 하락(시간외 추정, Le Figaro·한국경제), NYT '데이터센터 공세의 현금 소진에 월가 불안'. 연산력 투자 기업이 시장에서 매출·현금흐름으로 검증받기 시작함(복수 출처)",
+   "가설 균열 — '어제의 적과의 에너지 거래': 러시아 경유 수출 금지 연장 속 '미국 예외'(Handelsblatt), 뉴저지 주지사의 '트럼프-푸틴 거래' 비판과 러시아산 경유 반입 저지 경고(FT) — Handelsblatt와 FT 두 매체가 러시아 경유의 미국행을 따로 보도(거래 규모·조건 미상). DW의 '다크 탱커' 보도는 방향이 불분명해 참고로만",
+   "가설 균열 — 분쟁 장기화: 미국의 이란 외교 재개 모색에 유가 하락(WSJ; MBC·YTN), 푸틴 '전쟁 준비는 돼 있지만 유럽과 전쟁은 원치 않아·관계 회복 조치 지지'(KBS·MBC·한국경제TV·동아일보·Meduza·Interfax; Independent는 '위협'으로 보도), 멜라니아 트럼프 중재 휴전(Channel 4), 젤렌스키의 '영토 문제 정상회담 논의 용의' 전달(Meduza, 헬싱긴 사노마트 인용), [메시지] 카타르에너지-이란 전후 협력 모색(CGTN 관영, 통신 속보 전재)",
+   "가설 균열 — 대중 포위선: 트럼프의 누그러진 대중 어조로 미시간 상원 후보들이 대중 강경론에서 다른 쟁점을 찾음(SCMP), EU가 중국차 확산에 원칙을 굽힘(마이니치), 미 빅파마의 규제 속 중국 신약 후보 탐색(경향신문) — 각각 단일 매체",
+   "동맹의 이탈·헤지: 카니·EU '캐나다 준회원·트럼프 위협에 맞선 더 넓은 동맹'(AP; SCMP), 캐나다의 코히어 지분 인수·'소버린 AI'(WSJ·Handelsblatt — 단, 엔비디아도 참여), 한미 SCM 연기·미 국방부 회담 자료 미배포(SBS·MBC)",
+   "비달러 결제망: [메시지] 중국·칠레 통화스와프 갱신(인민일보 관영, 규모 미기재)",
+   "스테이블코인 경로 부재·코인 신뢰 문제: 오늘 스테이블코인 헤드라인 없음, 폴리마켓 해킹(NBC·CNBC·Le Figaro)·이스라엘 선거 의심 거래 조사(Ynet·WSJ), 코인베이스 매출 감소(Bloomberg 단일)"
+  ],
+  "verdict": "약화",
+  "note": "🔎 판정 '약화'(직전 브리핑 10-29와 같음, 사흘째). 오늘은 반박 쪽이 복수 출처로 단단해졌다: 'AI 연산 투자의 달러 자본 집중'이라는 지지 축의 핵심 근거였던 빅테크가 시장에서 매출·현금흐름으로 검증받았다(알파벳·아마존 급락, 복수 출처 — 원인 서술은 매체마다 다름). 지지 쪽 복수 출처는 분쟁 지속 요소(이란 측 유조선 피격 주장, 휴전 속 철도역 공격, ZIM 화물선 침몰)뿐이고, 슈타인마이어 비판(DW)·AI 회사채 기록(Bloomberg)·FCC 규제(SCMP)·EU 비축유 방출(Libération)은 단일 출처라 판정 근거에서 뺀다. 대중 포위선은 규제(FCC)가 쌓이는 같은 날 대통령의 대중 어조 완화(SCMP)·EU의 중국차 수용(마이니치)·미 빅파마의 중국 탐색(경향)이 반대로 움직이는 균열을 보였다(각각 단일). 러시아 경유의 미국행(Handelsblatt·FT)은 RDIF 제재 해제 논의(10-29 크렘린 언급, 오늘 재확인 없음)와 같은 방향이어서 대안 가설('미국은 적과의 에너지·제재 거래로 이익을 취한다')을 계속 시험한다. 검토 반영: [필수 수정] 10건 전부, [권고] 20건 전부 반영(links: 다크 탱커 병치 링크 삭제)."
+ },
+ "top10": [
+  {
+   "headline_ko": "빅테크 실적 충격: 알파벳 사상 최악의 하루(약 12~13%↓·시총 5천억$ 증발), 아마존 잉여현금흐름 -424억$·매출 전망 하회, 인텔 16~17%↓(PC 부진)",
+   "importance": 5,
+   "why": "알파벳은 정규장에서 사상 최악의 하루를 기록했다(CNBC '약 13%·5천억 달러', Sky '12% 넘게·약 반조 달러', MBC '12.6%', Handelsblatt '5천억 달러'). CNBC는 알파벳이 연간 지출 가이던스를 유지하면서 예상보다 큰 마이너스 잉여현금흐름을 냈다고 썼고, Reuters는 '매출 미달이 AI 설비투자 불안을 되살렸다'고 했다. FT 요약은 '알파벳과 MS가 예상보다 낮은 설비투자를 발표한 뒤 나스닥100 1.4% 하락'이라고 써 원인 서술이 매체마다 다르다. 아마존은 잉여현금흐름 -424억 달러·2026년 설비투자 유지(CNBC), AWS 39% 성장(연합뉴스·한국경제)에도 주가 6~7% 하락(실적이 장 마감 뒤 나와 시간외 추정; Le Figaro 6%·한국경제 7%). 하락 원인으로 Reuters·FT·연합뉴스·YTN은 매출·4분기 전망 하회를, 한국경제는 AI 투자에 따른 현금흐름 악화를 들었다. 인텔은 PC 부진으로 16%(CNBC)·17%(FT) 급락, Handelsblatt는 높은 메모리 가격이 PC 구매를 줄였다고 봤다. NYT '빅테크 데이터센터 공세의 현금 소진에 월가 불안'. 🔎 해석: 원인은 종목마다 다르지만(매출 미달·현금흐름·PC 부진), 연산력(기술)과 돈(현금흐름)이 부딪힌 장면이 겹친 하루.",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html"
+    },
+    {
+     "name": "Sky News",
+     "url": "https://news.sky.com/story/google-parent-alphabet-takes-500bn-hit-on-ai-worries-13605428"
+    },
+    {
+     "name": "MBC",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDZzFYY0NUaDVVWDNacS05VGNYRGhKVkFOVjFNMG5YYlViNFNtY3RBTGMtcWxmejJyYlhrOHlCTU9ubW1iMXc2aGFUWnh4UU05VW16cWVDd1BzM0hkMHB3ZEF0bXZCdEo5Q0hWOTE2dTZ3Um520gF0QVVfeXFMUEtjdUwybWp2ejVDaGxORE55VW1ISFlSNFFENTc3M1h2c2FPaWV4Rkp3MFl3QTllNEk3czl3T0pZUUZwMUstblEyLTZyQkFBazN1cWYzTDVreEJoOVdZeXBmM1pfZzY4MG1zSW5YSmFlRDZ0ako?oc=5"
+    },
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-alphabet-kursrutsch-vernichtet-500-milliarden-dollar-boersenwert/100265906.html"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tUjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA?oc=5"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html"
+    },
+    {
+     "name": "연합뉴스",
+     "url": "https://www.yna.co.kr/view/AKR20261030007351091"
+    },
+    {
+     "name": "YTN",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52Z2x2N1V5VWtVODVXaURuUm9UU3JFeHcteTJVVGd0Z1ItUXVMVFZUOFM0Ym5SYXhteHJVOFNndngyRV9ZTnhjLWZ2NmFjT19Hd2N2cXlWYTJ3cFctblE?oc=5"
+    },
+    {
+     "name": "한국경제",
+     "url": "https://www.hankyung.com/article/202610304811i"
+    },
+    {
+     "name": "Le Figaro",
+     "url": "https://www.lefigaro.fr/secteur/high-tech/amazon-l-action-du-titre-chute-malgre-les-bons-resultats-de-son-activite-informatique-20261029"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXhDSjU4RmlrZmUyT0E5dzJNbmJNaXBBdGhndktXeGUtZVItTWlpNDBZcXR5LTZDMjFOdzdXenRpTnhNd01pZXBXX0V0OTVlYkMtVlJnN2l4YS1QeENxeWlzUUN6bDZkeThpc1VBMUZDQjFYcGxrQWFrVzBVOXdueV9Tb0drZjZ4T3JYWmRXS2MwWnMwMGpoT05FU1lUVWhRbXlPZEpYUjZQbnlrQWh3SGdsTQ?oc=5"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://www.ft.com/content/8affd8dd-b783-48c8-86e2-ac4a647fa0f3?syn-25a6b1a6=1"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://www.ft.com/content/d7540e89-08db-43d3-92e0-3c15dd3a60cb?syn-25a6b1a6=1"
+    },
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/technik/it-internet/chiphersteller-intel-prognose-enttaeuscht-boerse-aktie-bricht-ein/100266014.html"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html"
+    }
+   ],
+   "fields": [
+    "stocks",
+    "industry",
+    "business"
+   ],
+   "hypothesis": "반박"
+  },
+  {
+   "headline_ko": "이란 전선: 호르무즈 유조선 '기뢰 피격' 주장(CBS 4척·AP 3척) 속 미군 수뇌부 대이란 공격 옵션 보고, 트럼프 '공습 수주 걸릴 수도'… 한편 '외교 재개 모색'에 유가 하락(WTI 102달러)",
+   "importance": 5,
+   "why": "확전 신호: 이란이 호르무즈 해협에서 유조선이 기뢰에 맞았다고 주장(CBS 4척, AP 3척 — 척수 엇갈림, 이란 측 주장). 미군 최고위 제독(WSJ)·CENTCOM 사령관(Interfax의 WSJ 인용)이 트럼프에게 이란 공격 옵션을 보고했고, 트럼프는 공습이 수주 걸릴 수 있다며 자국민에게 지역을 떠나라고 촉구했다(WaPo). 외교 신호: WSJ는 미국이 이란과 외교 재개를 모색하며 유가가 내렸다고 보도했고, MBC·YTN은 외교 해결 기대감에 WTI 102달러를 전했다. [메시지] 이란은 미 부통령 서한에 아직 답하지 않았다(Xinhua 관영), 카타르에너지 CEO가 이란 석유장관 대행과 두 차례 만나 전후 협력을 모색(CGTN 관영, 'EXCLUSIVE' 통신 속보 전재 — 원 출처 미표기). 이란의 유조선 피격 주장(AP 04:58·CBS 06:12 KST)과 공격 옵션 보고(WSJ 05:30)는 원유 정산(03:30 KST) 뒤에 나와, 이날 유가 하락은 외교 기대만 반영한 것으로 보인다. 에너지 비용: EU 11개국이 석유 4,260만 배럴 방출, 여러 나라에서 경유 리터당 2.30유로 초과(Libération 단일). 엑손모빌 CEO는 보안 우려로 아부다비 ADIPEC 불참(FT 단일).",
+   "sources": [
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/"
+    },
+    {
+     "name": "AP",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPODlXY2RDRGVPYkNGQ20xbjVsN01Vdzl0NWItMlVkOFJzTnRjNU1GRW9vdzBOckdWVjNhdHdfa3RLV0VETGxWOVVCVWFSbVUxSUJnQ2lKaUFrdFNoU1gyNHdyQVhoc3h4MFNTaXRoOEl0aHRmZGpfb2txSEpXS1M1WWR3UmoxZXVwNWV3Y080emJWX1pNSWJLMlYxNXhVOHNPeUNOV0ZWT0oxZ3pMYUN2c2VlR1Y?oc=5"
+    },
+    {
+     "name": "Wall Street Journal",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeXlDRTRqNXluY3ZWOXVwdmY2ck13Z0ttaTdMaVhreFZYdXhpbDJsNlNBcUM2TFo5OFVNSW5sal8xNkVvY3pjT2xOSXFLb0xpaXdvMGdpRzB4UEZlaFZfT0ZKY0FmeFh1TjM2djRzWXVrV3B1Ym9oRjEwbHAtQWd1VnhnRG5tMmswUUJOU3hES1J1ZTdzWHNNZi1ld1VHXzZNeVM3YlBR?oc=5"
+    },
+    {
+     "name": "Interfax",
+     "url": "https://www.interfax.ru/world/1125929"
+    },
+    {
+     "name": "Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPY19kREoyamlsWExoaW1lZGw3cW90a2VMSmRzVk5sUkdxOHdfQkpvNVlXRWlySjRqMEEwRHh3S1RnRDlIcEdOWW82SEZ6TVEwdUZoajZvQmcyZlV1cGJkTjdsclh0TkhzRHJxbXZfbUlKQzhDTGh3WHhweVdweWpwUVNweXBrY0daSDJLRFNDdjhjNlpaYmFzSXZhanMzX18yWHd3eHloSUYyMG05QXZwQnphSndKUHo5aWhDZWd6TWlSLThsOHRmUmNHV0tyWDJDVEtYWWFmUmR0RjhRMGk2M0xMOEptb3Q2dVVuSGhkMG82YmdwLTRnOFdhTjItQlVLSzFFblBlRXRfR0I2TG82NG1RVnpoQQ?oc=5"
+    },
+    {
+     "name": "Wall Street Journal",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTW53UkVQVFpVMFB6SjNNeTdCWjNiSUxKZGJVVGVHQkJRZTA2UFljc3ZMc1ZqeVdtMzNPa1BtTkw5T21VMGp5bmVxOUF4QVQ4QWxWNERFbnJicUtuUXo2QWIyVkRCUzVFaHoycEpFVFVjcWRPWGdyQ2xyWHc2V1F3YVVsTk9JQ2pfV2VFLVFKT1lyRHRsM2NhaXlHUWNlSzJTV0E?oc=5"
+    },
+    {
+     "name": "MBC",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByQjUtT2R3ZjdpRnJ4MFlZRy1QOW52M3NGaWlzY0hUOHRpTjNaLTFXdlNqWDlOSXRqX1pSWkZ1cWQxcWZoM1Z5UVR0MVA2RFBhb0dDaHRhX0p2MXkyQkdjb1UtQnpqY0tiTkdVaE1zX052NTlU0gF0QVVfeXFMTUsxd2dJQktabHRKdHM0X2NZYnUzVlRpOU1NRkJvbUNOVFl0cDM3NHV1MEF3UjlrVFQ5ekQ1Y21mMVoxYXhPV2NLd0VuY3RnNWF5aE1iczIzUDFoWV9uVHh2VFFTT1l3eE5qUl9LZEdRTFhTTjU?oc=5"
+    },
+    {
+     "name": "YTN",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03RWdOWVFNaTNjX3FtR1dVV25sNHd6cTh0UkJESERLY1lpNUZQWWx2aGhSTmFkeFpOaUFlNkNZMUFZVERndWhoc0sySjl2VEVSQ2c3WHFlR3ViXzdxVVE?oc=5"
+    },
+    {
+     "name": "Xinhua [관영]",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VeUFCckg0d1RYXzhlR3pfaHlxangxbEgyczdUS2Q4MjdVSGZzVTlFbzF4ZXZQdDR3UmhkMnJfTl8wSmNwYnJ4b2I2RFdwSEp5RVE0OHBXOVdMZWtSelRPRDNaWThYUXdzLVJqejBnNzZLaGVRN0Rn?oc=5"
+    },
+    {
+     "name": "CGTN [관영]",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tc2ZSeWE0ZUZnUGJHWmNfNUtBcE02M0xldEs0dThZVkVPbi03Ty16TVlIWXMzZmNJeU1MRlRyRUZ3MTJoQXlucEVqWUN0WEVNcDRQYVZqYTQ5UllVbVM4U2YyZ1Y1LXphZzVtUTk1bm1mUWJHOG5tTQ?oc=5"
+    },
+    {
+     "name": "Libération",
+     "url": "https://www.liberation.fr/international/europe/crise-des-carburants-douze-pays-de-lue-vont-liberer-426-millions-de-barils-de-petrole-dont-la-moitie-de-gazole-20261029_IIUBYMLTFRENBGOYP22V5PFWVY/"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://www.ft.com/content/288ccf9d-6456-4bed-85c0-e7216bb31c66?syn-25a6b1a6=1"
+    }
+   ],
+   "fields": [
+    "geopolitics",
+    "industry",
+    "stocks"
+   ],
+   "hypothesis": "지지"
+  },
+  {
+   "headline_ko": "러시아 경유가 미국으로: 러시아, 경유 수출 금지 연장하며 '미국은 예외'… 뉴저지 주지사 '부패·불법적 트럼프-푸틴 거래' 반발",
+   "importance": 5,
+   "why": "에너지·제재 축에서 러시아산 경유 카고의 미국 동부 항구 반입이 거론됐다(FT). Handelsblatt 뉴스블로그는 러시아가 경유 수출 금지를 연장하면서 미국을 예외로 했다고 썼고, FT는 미키 셰릴 뉴저지 주지사가 트럼프와 푸틴의 거래를 '부패하고 불법적'이라 비판하며 러시아산 경유의 동부 해안 항구 반입을 막을 조치를 검토한다고 보도했다. 러시아 경유의 미국행은 Handelsblatt와 FT 두 매체가 따로 보도했다(각각 단일 기사, 거래 규모·조건은 원자료에 없음). 참고: DW는 언론 보도를 인용해 미국이 '다크 탱커'를 합법 선박으로 전환해 '제재 대상이 아닌' 원유를 운송하게 하는 방안을 검토한다고 썼다 — 러시아 언급이 없고 제재 완화 여부도 불분명해 같은 방향의 근거로 세지 않는다. 같은 날 푸틴은 발트해 긴장 고조를 경고하며 '호르무즈 같은 상황은 원치 않는다'고 했다(Handelsblatt). 🔎 해석: RDIF 제재 해제 논의(크렘린 언급 — 10-29 원자료, 오늘 재확인 없음)에 이어 '어제의 적과의 에너지 거래'가 이어지는 흐름.",
+   "sources": [
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/politik/international/ukraine-putin-warnt-vor-ostsee-situation-wie-in-strasse-von-hormus/27982126.html"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://www.ft.com/content/3d9ac5af-d6c7-48f8-a5b4-7b3b22cc243d?syn-25a6b1a6=1"
+    },
+    {
+     "name": "Deutsche Welle",
+     "url": "https://www.dw.com/de/kampf-den-schattenflotten-was-kann-die-eu-ohne-die-usa-tun/a-79797804?maca=de-rss-de-all-1119-rdf"
+    }
+   ],
+   "fields": [
+    "geopolitics",
+    "industry",
+    "legislation"
+   ],
+   "hypothesis": "반박"
+  },
+  {
+   "headline_ko": "이스라엘 개표 완료: 연정 53·변화 블록 48·아랍 정당 19석, 리쿠드 27석으로 제1당… 리쿠드 '외국 세력이 선거 훔쳤다' 주장에 보안기관 조사",
+   "importance": 4,
+   "why": "최종 의석(Globes): 현 연정 53, 야권 '변화 블록' 48, 아랍 정당 19, 리쿠드 27·샤스 6. 570만 명 이상 투표(Haaretz). 양 진영 모두 과반 실패(ZDF·n-tv·Handelsblatt·i24NEWS), 아랍 정당은 의석을 거의 두 배로 늘렸다(n-tv). 리쿠드는 아랍 정당들이 선거를 '훔쳤다'·'외국 세력' 개입을 주장했고(BBC·FT·AP '미확인 주장'), FT는 보안기관이 개입 의혹을 조사 중이라고 썼다. 헤르초그 대통령은 아랍계 유권자 전체를 낙인찍지 말라고 했다(France 24). Haaretz는 정책 변화가 없으면 대이스라엘 제재에 반대하는 서방국들이 입장을 유지하기 어렵다는 서방 외교관 발언을 전했다(익명 단일).",
+   "sources": [
+    {
+     "name": "Globes",
+     "url": "https://en.globes.co.il/en/article-1001561412#utm_source=RSS"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-10-29/ty-article/.premium/israel-election-count-completed-these-are-the-final-results/000001a1-88f2-def7-adad-8afabb6f0000"
+    },
+    {
+     "name": "ZDF heute",
+     "url": "https://www.zdfheute.de/politik/ausland/israel-wahl-auszaehlung-ergebnis-gewinner-netanjahu-eisenkot-100.html"
+    },
+    {
+     "name": "n-tv",
+     "url": "https://www.n-tv.de/politik/Wahl-in-Israel-fuehrt-zu-Patt-Situation-im-Parlament-id31474248.html"
+    },
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/politik/international/israel-patt-im-parlament-keine-klare-regierungsmehrheit-nach-wahl/100266007.html"
+    },
+    {
+     "name": "i24NEWS",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQy1BSExSSGlmbDF2STJqOWxhZlFvNEpudlpwaFBZUTE2d08yZkdWaV9sZDJXOWgwVVFnWlNvVzUtZER2WDhPSnpLQTMyaFkxa29UYkZYOFl0XzAzVVJwSVh0U0pFdk1LLUhvdzI4QXdkQzBYRXZrOWZBRmlXMll2dE5Tb1Q3NkZMdGRoaWZuQTd4ZnM3X3NSVGQ5dG80Rk5UbnJCaVdna2xPTVlJRXVtT3dlekphblJ0emI5R0tJbEg?oc=5"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://www.ft.com/content/f66a684c-4073-4cf8-b5b8-8851c72e8bc0?syn-25a6b1a6=1"
+    },
+    {
+     "name": "AP",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUlRWdElCT21MdGllQ29QbmxreHhfeTJvaUQ5Rjd2VndKSFRqSmJVMEhKY1VpOTNYWm1zZklsVWVjY0FHbDZxenZUa2NFaWQ0NEluY1ZXV1lqSWNPOWVyMXZ4eGhuQnkxLWVha01PVlhLb2l4Y2RzdENjSTQ0c3UweG5qTFZiOWE1MHFoVllsQjdqeURjUUxfSHpCWnlwNFdnR0N1Y2h1dUw5VElo?oc=5"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261029-l%C3%A9gislatives-en-isra%C3%ABl-accusations-de-fraude-le-pr%C3%A9sident-appelle-au-calme"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-10-29/ty-article/.premium/israels-election-deadlock-leaves-europe-waiting-and-trump-weighing-his-options/000001a1-88fc-d2b4-a1f3-8dfe80f10000"
+    }
+   ],
+   "fields": [
+    "geopolitics",
+    "legislation"
+   ],
+   "hypothesis": "무관"
+  },
+  {
+   "headline_ko": "푸틴 '유럽과 전쟁 준비돼 있지만 원치 않는다'·'관계 회복 조치 지지'… 젤렌스키, 핀·노 정상 통해 '영토 문제 정상회담 논의 용의' 전달 보도",
+   "importance": 4,
+   "why": "푸틴은 러-아프리카 정상회의 결산 기자회견에서 유럽과의 전쟁에 준비돼 있지만 원하지 않는다고 했다(Meduza; 동아일보는 Interfax 인용; KBS·MBC·한국경제TV는 '원치 않아'). Independent는 '유럽과 전쟁할 준비'를 '섬뜩한 위협'으로 보도했다. Interfax는 푸틴이 EU 및 개별국과의 관계 회복 조치를 지지한다고 전했다. Meduza는 우크라이나 외무장관이 헬싱긴 사노마트에 밝힌 내용을 인용해 젤렌스키가 핀란드·노르웨이 정상을 통해 영토 문제를 정상회담에서 논의할 용의를 푸틴에게 전했다고 보도했다(재인용 단일). RBC는 Guardian을 인용해 EU가 모스크바와의 협상 대표 문제로 '혼란'을 겪는다고 썼다. [메시지] 칼라스 '유럽이 우크라이나 분쟁에 지쳤다'(RIA 관영). 반대 신호: 멜라니아 트럼프가 중재한 휴전에도(Channel 4) 러시아 드론 공격으로 우크라이나 철도역 14명 사망(TBS·Japan Times·Channel 4), 모스크바 접근 드론 누적 194대 격추(Interfax).",
+   "sources": [
+    {
+     "name": "Meduza (독립·망명)",
+     "url": "https://meduza.io/news/2026/10/29/esli-zaydet-slishkom-daleko-pobediteley-ne-budet-vladimir-putin-o-vozmozhnoy-voyne-s-evropoy"
+    },
+    {
+     "name": "동아일보",
+     "url": "https://www.donga.com/news/Inter/article/all/20261030/134937156/1"
+    },
+    {
+     "name": "KBS",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03Q05vTkdPdFBGdHdLSmFfcDQ4c183czRxRmdESjNrQWQ2Tk5wanA0VUFKT0hhVHBuM2FsRThCZzNVcENYRi1yMUN4TnFGT1N5d3lHamNQdVNkTzQ?oc=5"
+    },
+    {
+     "name": "MBC",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wRDJwdzdxRTRFdVJwWmRiSXhiMlZoTWF5TGg5a3dhaVhCOEx1dVRBV214cF85SDA3WkwxSkR3Mk9yNGZJYlRTaGNwSWg4WGxVcFNpSEZKMTN4YnJhY2NCUlRYMXZkVkRKQW5hVXpYbTFBeTh30gF0QVVfeXFMTklEUEVwWGg1QS1IX0QydFpGeTloLXB4RERqQ3ZXaE5iMWVZN1daaGw2V2dqeGhOdjF1TGZoSi00eWpnMjE0alhUNVJvRy1vQWJEOW1KMGJaZm1GeHpXTnpjOWtnVWNta3NlblRaMVkwMWg4cV8?oc=5"
+    },
+    {
+     "name": "한국경제TV",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTk1UVFFMVHNOc0otamZnS2hzVldOUHpROVpzRkpMQmo4MjZXZmtBc0ZUX056ZzNGckJZQUZEZWVnZUlmZDlXWTI1SXpsdWtDc2J4dnF3aUhkaDVPS21HRV9IVUU3dExMa2xJWHJrQTlCY09KcHhWczk0M1pfdkozSA?oc=5"
+    },
+    {
+     "name": "The Independent",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM0NmLVQ0S2xTd1AwdlphZ2pZLVV2UkpyRFpFNWd2ZE5RT0NFd2k2R3lVT0oxLWVjOG1NMmhQNGlybkY1a2o4b1JXUC12WHZzUkpXRVVFMkEyNURzN2NMX1VDcXhUd3M0bHF6WFB0QWFWWlR2T0ctMlUyWGJNXzN2NUU1dTd3c21KaTRzaDl0WnpSNnowRzFUaG1wdm81bkRfNGc?oc=5"
+    },
+    {
+     "name": "Interfax",
+     "url": "https://www.interfax.ru/world/1125930"
+    },
+    {
+     "name": "Meduza (독립·망명)",
+     "url": "https://meduza.io/news/2026/10/29/zelenskiy-cherez-liderov-finlyandii-i-norvegii-peredal-putinu-chto-gotov-obsuzhdat-na-lichnoy-vstreche-vopros-territoriy"
+    },
+    {
+     "name": "RBC",
+     "url": "https://www.rbc.ru/politics/29/10/2026/6ae39e95f1d11a85f97f24a4"
+    },
+    {
+     "name": "RIA Novosti [관영]",
+     "url": "https://ria.ru/20261030/kallas-2127958633.html"
+    },
+    {
+     "name": "TBS",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2a3NsQkRVdF9lZlFXVnZxQjg3TlJwaFhGRGhRSXJyX1NIMkY2cjFVdFktcDFSSmkyUXZkb1J2bC13WGNNQTRhMGNSTHB2alZRUzNLVDE1RXBTeldXQmpDYTg3NnppcU04YXR4bkYzM2xIeUZL?oc=5"
+    },
+    {
+     "name": "Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/10/29/world/ukraine-dnipro-train-strike/"
+    },
+    {
+     "name": "Channel 4 News",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUlQya2tjM0VLdjl2eTUxYWNuX2Rqd3l0b2xtd2lNbmtHQ1gzalB1eEFscHN0cV91R29PWmN5Unotb0UyZ2VBbXVER0VhMUpOQjVqUXMtdzh0a3F1TmdwOWdBem1reGJMcEhkNEJRTkt6SHBLVU5Kd0NrWFhKLTY2bmJ2WEhZTENYV2c3cGlJMnM5OGdHT1ZYVzNja0FNT3BIVWJqbGtlaDBPYXBiQW41RjJSR2w?oc=5"
+    },
+    {
+     "name": "Interfax",
+     "url": "https://www.interfax.ru/moscow/1125928"
+    }
+   ],
+   "fields": [
+    "geopolitics"
+   ],
+   "hypothesis": "반박"
+  },
+  {
+   "headline_ko": "라가르드 ECB 총재 2월 7일 조기 사임, ECB는 예금금리 2.50% 동결… 미 3분기 GDP 3.4%·9월 PCE 3.6%",
+   "importance": 4,
+   "why": "라가르드가 내년 10월 임기 만료 전 2월 7일 사임한다(Bloomberg; 닛케이 '프랑스 대선 전 퇴임 결단', 한국경제TV '마크롱에 후임 인선 기회'). Japan Times는 ECB가 '이란발 유가 충격'에 따른 인플레이션 위험과 국채 금리 급등에 맞서는 시점이라고 썼다. ECB 예금금리 2.50% 동결은 매일경제 속보(단일). 미국 3분기 GDP 3.4%(NYT·요미우리), Reuters는 견조한 소비와 AI 관련 투자가 견인했다고 했다. 9월 PCE 3.6%로 예상 3.7%를 소폭 밑돌았다(매일경제 단일). 일본은행은 금융정책 발표를 앞두고 '물가 2% 도달' 언급이 주목된다(아사히). [메시지] 달러 지수 29일 하락(Xinhua 관영).",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/videos/2026-10-29/lagarde-quits-ecb-early-french-debt-global-return-video"
+    },
+    {
+     "name": "日本経済新聞",
+     "url": "https://www.nikkei.com/article/DGXZQOGR29B4Z0Z21C26A0000000/"
+    },
+    {
+     "name": "한국경제TV",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVXdVQTJiWklfU0Mwb0NlNFFHUm9lXzRsamlmcFRKSktxRzFHdlI1bFdVOXgzaUtDNWxRczZfSm1ZWHNRbzREQ2YydFoyUE1VSlNpNTZiTFVMN2xlRE02U05GV1ZaVjFTeUxFQnQwZ192WVJrYVZFR2JyZEdlOE5Kaw?oc=5"
+    },
+    {
+     "name": "Japan Times",
+     "url": "https://www.japantimes.co.jp/business/2026/10/29/ecb-lagarde-resignation/"
+    },
+    {
+     "name": "매일경제",
+     "url": "https://www.mk.co.kr/news/world/12190687"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html"
+    },
+    {
+     "name": "読売新聞",
+     "url": "https://www.yomiuri.co.jp/economy/20261029-GYT1T00442/"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0JuSzdaWWtxaGJGdW5CV0pONGc2dlpzMVJnaGl2UUIwQmtkc1FNSUVNQzhxTFRycVZ4dGpRaVlvbGdraXBWenkzY1otSno3TC1zWTlQUmFRandmM0hlSm14a1pfWTJMNjdNclo5bFlFQWt3UlpIcFlPY3RtZzBQVXhKUzVPSWMxUXZFckNVM3ZXZEU?oc=5"
+    },
+    {
+     "name": "매일경제",
+     "url": "https://www.mk.co.kr/news/world/12190662"
+    },
+    {
+     "name": "朝日新聞",
+     "url": "http://www.asahi.com/articles/ASVBY3FP7VBYULFA00NM.html?ref=rss"
+    },
+    {
+     "name": "Xinhua [관영]",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGc3FhV0x2dXlyYS1lYkRaYU5Gb2JCZ2NMTGFabU1GeXJHNGI3YjE1ckpWUklBM3ZLSGZLYlFJNUN0R09iSVEyYndXM1Jsal9CNS1yMGVya01raDZMZ3FaejF5NzFHMm5iX1FMNno1ZGptelRzTHpN?oc=5"
+    }
+   ],
+   "fields": [
+    "monetary",
+    "forecast"
+   ],
+   "hypothesis": "무관"
+  },
+  {
+   "headline_ko": "미·중 기술 전선: FCC, 트럼프-시진핑 선전 APEC 회담 앞두고 중국 시험소의 미국행 전자기기 시험 금지… '젠슨 황 지인 중국 여성은 스파이' 판단 보도",
+   "importance": 4,
+   "why": "FCC가 미국 시장용 전자기기를 중국 시험소·인증기관이 시험하지 못하도록 의결했다(SCMP 단일) — 트럼프가 수주 뒤 선전 APEC에서 시진핑을 만나기 직전이다. 요미우리는 미 정보기관이 젠슨 황과 친분 있는 중국인 여성을 중국 스파이로 판단해 트럼프에게 보고했다고 보도했다(한국경제TV·중앙일보도 보도). 슈타인마이어는 베이징 기조연설에서 '크기와 힘에는 큰 책임이 따른다'며 이례적으로 직설적으로 중국을 비판했다(DW 단일 매체 2건; ARD는 연설 사실만). 반대 흐름: 미국 빅파마는 규제에도 '특허 절벽'에 중국에서 신약 후보를 찾고(경향신문 단일), 미시간 상원 후보들은 트럼프의 누그러진 대중 어조로 대중 강경론에서 다른 쟁점을 찾는다(SCMP 단일). [메시지] 중국 국방부, 일본의 감시를 '피해망상'이라 비판(China Daily 관영).",
+   "sources": [
+    {
+     "name": "SCMP (홍콩)",
+     "url": "https://www.scmp.com/news/us/article/3372632/us-bans-chinese-labs-testing-electronics-ahead-trump-xi-meeting"
+    },
+    {
+     "name": "読売新聞",
+     "url": "https://www.yomiuri.co.jp/economy/20261029-GYT1T00490/"
+    },
+    {
+     "name": "한국경제TV",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdFhuYkFwMnhsemRsQWd3elRlcUFBV2JnV0pVeVZlWlBUSWtRVjBJWVFOaHlHRVI5RWFyZ21oRjQxbU9XNWljTW9CX0VPa2VOdWZyUGVJU3l4djItSTBWNzQ0TDZrMngxdnlIb1kzVXF0VmktV0s4YWdHUzl4NlVURw?oc=5"
+    },
+    {
+     "name": "중앙일보",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wM2dvUWlrOXdGZjRKbmZRWGJiVjYzeXlXc2FhNERDMUFKTlgwSF9Xc2l5ZTk3b2Y5Rmc2UmtiMkhETkVXWUpYZ28taUtHdl95YmY5NFFn?oc=5"
+    },
+    {
+     "name": "Deutsche Welle",
+     "url": "https://www.dw.com/de/steinmeier-wird-in-china-überraschend-deutlich/a-79797976?maca=de-rss-de-all-1119-rdf"
+    },
+    {
+     "name": "Deutsche Welle",
+     "url": "https://www.dw.com/de/bundespräsident-steinmeier-verbindet-grundsatzrede-in-peking-mit-symbolischem-tischtennis-auftritt/a-79797176?maca=de-rss-de-all-1119-rdf"
+    },
+    {
+     "name": "경향신문",
+     "url": "https://www.khan.co.kr/article/202610300600061/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+    },
+    {
+     "name": "SCMP (홍콩)",
+     "url": "https://www.scmp.com/news/us/us-elections/article/3372640/michigan-senate-race-trumps-softer-china-tone-gives-candidates-room-look-elsewhere"
+    },
+    {
+     "name": "China Daily [관영]",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tNVZzQWxOb0tSWWpJMG5mUG1mM044N1hBc1pNazZvVmJoMUE2NlBkTVpjYkRwLWc1bUE0dl9Rak1POVlvemhLMEQ2dWpXUF9FMFdGUGxiejBsQ3N5cS0wY1VFU2cxZEkwNXlQNHFGam9ZMXFCZTllMzdZZw?oc=5"
+    }
+   ],
+   "fields": [
+    "legislation",
+    "geopolitics",
+    "industry"
+   ],
+   "hypothesis": "지지"
+  },
+  {
+   "headline_ko": "미국 동맹의 헤지: 카니·EU '캐나다 EU 준회원·트럼프 위협 맞선 연대' 추진, 캐나다 20여 년 만의 국가안보전략… 캐나다 정부·슈바르츠 그룹, AI 기업 코히어 투자('소버린 AI')",
+   "importance": 4,
+   "why": "AP는 카니 총리와 EU 고위 인사가 캐나다의 EU 준회원 지위와 '트럼프 위협에 맞선 더 넓은 동맹(wider alliance against Trump threats)'을 추진한다고 보도했다. SCMP는 내부 반대로 '준회원' 용어가 공동선언에 빠졌지만 검토는 계속된다고 했고, Spiegel은 메르츠가 이 구상에 제동을 걸었다고 썼다. [메시지] CCTV는 'EU가 구상을 포기했다'고 논평(관영). 캐나다는 20여 년 만에 첫 국가안보전략을 발표했다(CGTN·Xinhua 관영 — 메시지). AI: 캐나다가 코히어 지분을 인수하고(WSJ), 슈바르츠 그룹이 투자 라운드를 주도하며 엔비디아·캐나다 정부도 참여해 '소버린 AI' 입지를 강화한다(Handelsblatt). 🔎 해석: 미국의 가장 가까운 이웃이 안보·AI 모두에서 대미 의존을 줄이려는 신호 — 다만 미국 기업 엔비디아도 코히어 투자에 참여해 'AI 탈미국'으로 보기는 이르다.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX01JdWZRb19GUU9tM1JsQkhzcGM4dFBqdENqQ3VRdWhLcjRmaTFreXFZRkFuc3VZVDc3MTFCUHlTbGltZzlmbm53M2VoUkQ4YzB4VnQ5Nl9GVTF6U2hxTkRYa2tVNlZLcHpTX2pUWjBPaTdjSldHOG9WMVV0MUlTWFY0WU45NmNjR2lzNndfdVNGWTdtdHJFUUoxd1Q?oc=5"
+    },
+    {
+     "name": "SCMP (홍콩)",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3372638/eu-considering-canada-associate-member-despite-internal-opposition"
+    },
+    {
+     "name": "Der Spiegel",
+     "url": "https://www.spiegel.de/politik/deutschland/eu-und-kanada-friedrich-merz-durchkreuzt-kanada-plan-von-ursula-von-der-leyen-a-d972d632-6667-485a-888f-968c823de942#ref=rss"
+    },
+    {
+     "name": "CCTV [관영]",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OdG1vRF9TbllHNjEtaDJ6bm9SRUFwR0w1VjhrNW52ZDNOYkZyTlJ3OF9YMlpjaFFJSjR1Uk42RWRhd1FqZkc3RFVpTWVxVHZlVWRFTVdTRFZOQWZLYkdhZ1FvNWkyN2RYYk5Xc0hnRWRGUHhrb0NKbg?oc=5"
+    },
+    {
+     "name": "CGTN [관영]",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hSHZKMGZWcXpYd2RMNHJ3RF9tWnBaOTBTeE91eTAxdVVRZHZvd1k3Ulk1MVBlMFZ0YkdYYUlObWFYanVlQTd4eDIzNzBULUkxNmtPXzNHLV9jQ0xEZmhaTjFvcW92dmpuLWxmZjl2UldrRXRSOFZySw?oc=5"
+    },
+    {
+     "name": "Xinhua [관영]",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKbk9vMEYyZ3EtX1Y2YVBvYUxQd2hhNE5UVE1fQWJxWkdzQkhNOUo5dzF4M1o2akNrRDk4amRqd3FPSjVyWjR3VEQ1T09TLW9xVzRfaUw1cHBueUZkUnhNWXZHMi1OX0pncEdUNWdWaW5uWktIbmpB?oc=5"
+    },
+    {
+     "name": "Wall Street Journal",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEVSWHVMeWdhSEpveGFxMzh1Q0FFUTNpaGRUTWgxbGlBOHlOTkQyZTA3QjVCUXJJY3kwaFRFN3ViQTlXalowMVBKLV9Mci1nWXRoOEhjT053SHdnNklfcDBoWVp0LWgzLVFZeE5EcjlCOUZTak1DRHl0ckd3SGt4Y3dpRTZPVXhMV0VvdXRvSm1DT21CVjNNS1h3?oc=5"
+    },
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/unternehmen/dienstleister/ki-unternehmen-cohere-sammelt-milliarden-ein-schwarz-und-nvidia-investieren/100265998.html"
+    }
+   ],
+   "fields": [
+    "geopolitics",
+    "industry"
+   ],
+   "hypothesis": "반박"
+  },
+  {
+   "headline_ko": "미 중간선거 D-4: 사전투표 4,300만 표 돌파, 민주당 상원 경합지 우세… 법무부의 알래스카 '스포일러 후보'·캘리포니아 유권자 수사 확대, 트럼프는 본디 법무장관 경질(WaPo 단일)",
+   "importance": 3,
+   "why": "사전투표 4,300만 표 이상(BBC), 민주당이 주요 상원 경합지에서 앞선다(CNN). 법무부는 알래스카 상원 선거에서 민주당 측이 공화당 현직 의원과 동명인 후보를 영입하려 했다는 의혹 수사로 새 소환장을 냈고(ABC·AP, 소식통), CNN은 수사가 빨라지고 있다고 전했다. 공화당은 펠톨라 캠프 조사에 착수(WaPo), 트럼프는 펠톨라 기소를 재차 촉구했다(Guardian). NYT는 법무부가 캘리포니아 선거 관리들에게 대배심 소환장을 발부했다고 보도. 트럼프는 '여론조사는 가짜'(MBC·YTN). 팸 본디 법무장관 경질은 WaPo 단일. 한국경제TV는 민주당이 이겨도 2년간 관세율은 그대로일 것이라는 전망을 전했다.",
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c30rlxkjv2yko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "CNN",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWjhaT2QwYUJBc01WYXdWUkZDMDFoN1pjREhiQ28zUnRoOUNVWnJUZDlwcE5GS0JlQl9kUDRnX09rcG5hSS1oUlpaaWJUY3VGdTRySm9NNWhnUFFxSHM5cmVXNXpQT1FPeVplQm5ERS1uMlhWWHNQeVV4bmREdXdpa1V1OVg2eUNaYk9YUWhfbGJGeUs0UERCVi14WU5JcHRLWEFZ?oc=5"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://abcnews.com/Politics/alaska-governor-orders-probe-alleged-effort-confuse-senate/story?id=137667167"
+    },
+    {
+     "name": "AP",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZFMwOVMxQVRwVnBFam0waFlKVG8tQ1poNGdDUmhPaXlHX1A0bVRscWFGSmwtMnNtUzFMQnAtbkt4WmtJbWRFUnNnYWhPVGFHOHRsTkdsTzducml1dVlhR25LQTFaeC1Ld0V6amhGS0doakg2dFZ0ckhDeVhqVndUTmliLW8zWDNZV1NvT3pxbk1zdkN2ZFBNaWxnS2FyeldUeFM5YmJmQ1o1QnMyeXJ5YzVjMA?oc=5"
+    },
+    {
+     "name": "CNN",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQk12NkcyOTh2Q2FQX0FhSmxNd3lTeTJBaExsMkRWWDRJQjlQS1l6OWZYS3lqS2xMcTR2amFIcy1kWW5fVTZqVGZ6RFB0cXJEb2lhdWJZb0xONjhUOFYybnBybkNjcXkwRnBrQUpFSTlEQjhmZU5nd2I4TGZvUExRa05ac2l5RlF2dThuSlZHR3dMMFN1Z3UtNjhiME9hY0ZRX1RkaEVJaklHQQ?oc=5"
+    },
+    {
+     "name": "Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWW56bmg5eGRveDc3N18yOGxYT0tyM3A4ZzkwSy1HU29OMXlUQlNHZ2h5d1lyY3dnNGZqUzBFRmp5bU1KLXBSd1MzMEUySDhlUGU2QzJVQkRFUXEtSVptbktPTEZTZEhtVWJMblN4T1hTY1hldGZ5Mzl3U3RaTTdoWGxvak1vbVgxY0VNVmN3SWpIS2Q0V0ZLNHdDN2dCQkNtcGp1RGdhTC02by1qcWlpOHAzUHhOeGJCRkNR?oc=5"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/us-news/live/2026/oct/29/midterm-elections-politics-trump-obama-california-alaska-latest-news-updates"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2026/10/29/us/trump-doj-california-voter-rolls-midterms.html"
+    },
+    {
+     "name": "MBC",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xSjkxRVpQdll2NUx5M3VpYTBhbUVsSTF3eGtja0d4bE83clkwdEV1elNjWDdCUERlbmNOdG9pU0w3YkM2eE93SHBPc0I3Mm0zZklCWFhFSWpRYU1iYW9kN3FnZVN6T00wZG43NlRlbnV4Vlg40gF0QVVfeXFMUEI2MkNNNGxlaFZ5YmpKV0VUVkFadjVtZDByWGNiMlhldklLV0JYczRpYl9OSktEeU5ya0xMbmdUQ2ZsaVA2M1dvV0xRZ055N1VWQVVGa1hIODgwbEN2Rm5XZzRiVUotN0UyMUJwZVdST2FqRUE?oc=5"
+    },
+    {
+     "name": "Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaW4yQVZnQktFN0JxRzJ6UWprX0UxVGRoX2kyLTRWMU1acUxpUDZDNFhHWDNnTFhHdVJ0dzV0b2NhQ0lkb1poejd2a0M3aUdveXV5UXFtVHQ0UEhydkhZZ2pLQ1hjWVB2STByTy0wcnF0WWRRUUl1ZWFVWTNUN0kzdFhBRDI4OS13dTZrTGxidVlyQjNLa0dBYVFuQ2pmNVZWa01XdkdrUFF3dmpOY0ZDLVBSaUpaS3B5ODZqaGtTVVA2YVQxVlk2M3RVNkVoWnBhWE1zcFB1Z0d5NkU?oc=5"
+    },
+    {
+     "name": "한국경제TV",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMUdNMmRmNEVhUnA4aDdMY2VpOXJlWms1aWFYYVJybk9ZN3Ryelc0dFJONDlIVWJiNXZqbERYVkpBa25qZVZRNGQ4cFhVX2RmOEV4ZV9SRFNnZmV1R1J5NWhWcEI3RlU5N3AtX2dFMXZuQUlyLS00RDM1eHlDMXhRRQ?oc=5"
+    }
+   ],
+   "fields": [
+    "legislation",
+    "forecast"
+   ],
+   "hypothesis": "무관"
+  },
+  {
+   "headline_ko": "동맹 관리 엇박자: 주한미군 사령관 정보체계 문제 제기·SCM 연기에 전작권 입장차, 미 국방부 '한미 국방회담 결과 자료 배포 안 해'… 한편 KF-21·미 공군 첫 편대비행",
+   "importance": 3,
+   "why": "SBS는 주한미군 사령관이 한미 실시간 정보체계에 문제를 제기했고 올해 SCM이 내년으로 미뤄진 배경에 전작권 입장차가 있다고 분석했다. MBC는 미 국방부가 한미 국방장관 회담 결과 자료를 배포하지 않겠다고 했다고 보도. 반대 신호: KF-21이 미 공군 U-2·F-35와 첫 편대비행(연합뉴스). 독일은 한국과 반도체·방산 협력을 강화하는 '강화된 전략적 동반자 관계'에 합의했다(JTBC). 산케이 사설(일독 정상회담)은 차세대 전투기 GCAP 지연은 용납 안 된다고 주장. 각 사안은 대부분 단일 매체 보도.",
+   "sources": [
+    {
+     "name": "SBS",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821978"
+    },
+    {
+     "name": "MBC",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmQWFyLUc2bnZESzh6dUFlNHlxY1VoZVkxdEV6MzNJR2tJZ2pVMjc2YXUwMENkNDZuU1JuNDJsRWJjbDJwNnVaY2VoeVc3cEkwRlBxM0NQSE1FZ1pMN1lHTXRIYmQzZ0FXX3J5V3hvbWZVcVdP0gF0QVVfeXFMTUhwVjhhWEoxY3BCZEtBVERNTm1aSzBvX0VTR3dSWXE0TnloNExEdDdzaFZFVWlLZTRIN3dOOHF2YUF4SUx1MGZjajFfN2xGUkliMWViNEJsNnk1VC01LUtjVzQ5S0lReTRPUkUyQzBsTlpKUUw?oc=5"
+    },
+    {
+     "name": "연합뉴스",
+     "url": "https://www.yna.co.kr/view/AKR20261029163400504"
+    },
+    {
+     "name": "JTBC",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fcU9zdUVPWWlSaHZvVFdVdl9xeVpxalZzUUoyY0ZnUlYxUGJUZHVrdi1GbzlGem4yUXBoajZrcnI2MGlINEtTZDI4N3FvT0F6dTgwdQ?oc=5"
+    },
+    {
+     "name": "産経新聞",
+     "url": "https://www.sankei.com/article/20261030-Q46QPUFWCRIEXHTYGTISJHFQP4/"
+    }
+   ],
+   "fields": [
+    "geopolitics"
+   ],
+   "hypothesis": "반박"
+  }
+ ],
+ "by_country": {
+  "us": [
+   {
+    "headline_ko": "알파벳, 사상 최악의 하루로 약 13% 급락·시총 5천억$ 증발",
+    "importance": 5,
+    "why": "CNBC. 연간 지출 가이던스를 유지하면서 예상보다 큰 마이너스 잉여현금흐름(CNBC). 같은 날 다우 하락(CNBC 실시간).",
+    "sources": [
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html"
+     },
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/stock-market-today-live-updates.html"
+     }
+    ],
+    "fields": [
+     "stocks",
+     "industry"
+    ],
+    "hypothesis": "반박"
+   },
+   {
+    "headline_ko": "아마존 잉여현금흐름 -424억$, 설비투자 유지… AWS 성장률 5년 만에 최고",
+    "importance": 4,
+    "why": "CNBC(현금흐름), WSJ(AWS). NYT는 데이터센터 공세의 현금 소진에 월가가 불안해한다고 썼다.",
+    "sources": [
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html"
+     },
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVHZWSE5vTFZGTUM4YWNYVnpyc0hKUC1jbzN3c1g5c1BLTlRzcU9VdHlLOWI2eFdxWTJOVmc3YnNqUmhQeDM3V1dVdl9Pb190OThLWVRwLWJuUUpBVlRvQXZjcFV0YV9wTUhvZ2U2MDg5d0pNRlZ6bGowd2MtaVhGRQ?oc=5"
+     },
+     {
+      "name": "New York Times",
+      "url": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html"
+     }
+    ],
+    "fields": [
+     "business",
+     "industry"
+    ],
+    "hypothesis": "반박"
+   },
+   {
+    "headline_ko": "이란 '유조선 기뢰 피격' 주장, 미군 수뇌부 공격 옵션 보고, 트럼프 '공습 수주 걸릴 수도'",
+    "importance": 5,
+    "why": "CBS(4척)·AP(3척)는 이란 측 주장, WSJ 단독(공격 옵션 보고), WaPo(수주·자국민 대피 촉구). WSJ는 같은 날 '외교 재개 모색에 유가 하락'도 보도.",
+    "sources": [
+     {
+      "name": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/"
+     },
+     {
+      "name": "AP",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPODlXY2RDRGVPYkNGQ20xbjVsN01Vdzl0NWItMlVkOFJzTnRjNU1GRW9vdzBOckdWVjNhdHdfa3RLV0VETGxWOVVCVWFSbVUxSUJnQ2lKaUFrdFNoU1gyNHdyQVhoc3h4MFNTaXRoOEl0aHRmZGpfb2txSEpXS1M1WWR3UmoxZXVwNWV3Y080emJWX1pNSWJLMlYxNXhVOHNPeUNOV0ZWT0oxZ3pMYUN2c2VlR1Y?oc=5"
+     },
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeXlDRTRqNXluY3ZWOXVwdmY2ck13Z0ttaTdMaVhreFZYdXhpbDJsNlNBcUM2TFo5OFVNSW5sal8xNkVvY3pjT2xOSXFLb0xpaXdvMGdpRzB4UEZlaFZfT0ZKY0FmeFh1TjM2djRzWXVrV3B1Ym9oRjEwbHAtQWd1VnhnRG5tMmswUUJOU3hES1J1ZTdzWHNNZi1ld1VHXzZNeVM3YlBR?oc=5"
+     },
+     {
+      "name": "Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPY19kREoyamlsWExoaW1lZGw3cW90a2VMSmRzVk5sUkdxOHdfQkpvNVlXRWlySjRqMEEwRHh3S1RnRDlIcEdOWW82SEZ6TVEwdUZoajZvQmcyZlV1cGJkTjdsclh0TkhzRHJxbXZfbUlKQzhDTGh3WHhweVdweWpwUVNweXBrY0daSDJLRFNDdjhjNlpaYmFzSXZhanMzX18yWHd3eHloSUYyMG05QXZwQnphSndKUHo5aWhDZWd6TWlSLThsOHRmUmNHV0tyWDJDVEtYWWFmUmR0RjhRMGk2M0xMOEptb3Q2dVVuSGhkMG82YmdwLTRnOFdhTjItQlVLSzFFblBlRXRfR0I2TG82NG1RVnpoQQ?oc=5"
+     },
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTW53UkVQVFpVMFB6SjNNeTdCWjNiSUxKZGJVVGVHQkJRZTA2UFljc3ZMc1ZqeVdtMzNPa1BtTkw5T21VMGp5bmVxOUF4QVQ4QWxWNERFbnJicUtuUXo2QWIyVkRCUzVFaHoycEpFVFVjcWRPWGdyQ2xyWHc2V1F3YVVsTk9JQ2pfV2VFLVFKT1lyRHRsM2NhaXlHUWNlSzJTV0E?oc=5"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "지지"
+   },
+   {
+    "headline_ko": "법무부, 알래스카 '스포일러 후보' 수사로 새 소환장",
+    "importance": 3,
+    "why": "CNN·CBS·ABC·AP·WaPo. 선거 절차가 수사 대상이 되는 흐름.",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://abcnews.com/Politics/alaska-governor-orders-probe-alleged-effort-confuse-senate/story?id=137667167"
+     },
+     {
+      "name": "AP",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZFMwOVMxQVRwVnBFam0waFlKVG8tQ1poNGdDUmhPaXlHX1A0bVRscWFGSmwtMnNtUzFMQnAtbkt4WmtJbWRFUnNnYWhPVGFHOHRsTkdsTzducml1dVlhR25LQTFaeC1Ld0V6amhGS0doakg2dFZ0ckhDeVhqVndUTmliLW8zWDNZV1NvT3pxbk1zdkN2ZFBNaWxnS2FyeldUeFM5YmJmQ1o1QnMyeXJ5YzVjMA?oc=5"
+     },
+     {
+      "name": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQk12NkcyOTh2Q2FQX0FhSmxNd3lTeTJBaExsMkRWWDRJQjlQS1l6OWZYS3lqS2xMcTR2amFIcy1kWW5fVTZqVGZ6RFB0cXJEb2lhdWJZb0xONjhUOFYybnBybkNjcXkwRnBrQUpFSTlEQjhmZU5nd2I4TGZvUExRa05ac2l5RlF2dThuSlZHR3dMMFN1Z3UtNjhiME9hY0ZRX1RkaEVJaklHQQ?oc=5"
+     },
+     {
+      "name": "CBS News",
+      "url": "https://www.cbsnews.com/news/alaska-senate-two-dan-sullivans-mary-peltola/"
+     },
+     {
+      "name": "Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWW56bmg5eGRveDc3N18yOGxYT0tyM3A4ZzkwSy1HU29OMXlUQlNHZ2h5d1lyY3dnNGZqUzBFRmp5bU1KLXBSd1MzMEUySDhlUGU2QzJVQkRFUXEtSVptbktPTEZTZEhtVWJMblN4T1hTY1hldGZ5Mzl3U3RaTTdoWGxvak1vbVgxY0VNVmN3SWpIS2Q0V0ZLNHdDN2dCQkNtcGp1RGdhTC02by1qcWlpOHAzUHhOeGJCRkNR?oc=5"
+     }
+    ],
+    "fields": [
+     "legislation"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "미 3분기 GDP 3.4%… AI 지출로 투자등급 회사채 발행 연간 기록, MS 250억$ 채권",
+    "importance": 4,
+    "why": "GDP는 NYT, 회사채는 Bloomberg 프로그램 2편(단일 매체). AI 투자가 달러 채권으로 조달되는 경로.",
+    "sources": [
+     {
+      "name": "New York Times",
+      "url": "https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html"
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-29/moving-down-in-high-grade-quality-goldman-s-lynam-video"
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-29/issuers-come-to-market-when-window-opens-cisar-video"
+     }
+    ],
+    "fields": [
+     "monetary",
+     "stocks"
+    ],
+    "hypothesis": "지지"
+   }
+  ],
+  "kr": [
+   {
+    "headline_ko": "푸틴 '유럽과 전쟁 원치 않아… 관계 회복 조치 지지'",
+    "importance": 4,
+    "why": "KBS·MBC·한국경제TV·동아일보(Interfax 인용 '준비돼 있지만').",
+    "sources": [
+     {
+      "name": "KBS",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03Q05vTkdPdFBGdHdLSmFfcDQ4c183czRxRmdESjNrQWQ2Tk5wanA0VUFKT0hhVHBuM2FsRThCZzNVcENYRi1yMUN4TnFGT1N5d3lHamNQdVNkTzQ?oc=5"
+     },
+     {
+      "name": "MBC",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wRDJwdzdxRTRFdVJwWmRiSXhiMlZoTWF5TGg5a3dhaVhCOEx1dVRBV214cF85SDA3WkwxSkR3Mk9yNGZJYlRTaGNwSWg4WGxVcFNpSEZKMTN4YnJhY2NCUlRYMXZkVkRKQW5hVXpYbTFBeTh30gF0QVVfeXFMTklEUEVwWGg1QS1IX0QydFpGeTloLXB4RERqQ3ZXaE5iMWVZN1daaGw2V2dqeGhOdjF1TGZoSi00eWpnMjE0alhUNVJvRy1vQWJEOW1KMGJaZm1GeHpXTnpjOWtnVWNta3NlblRaMVkwMWg4cV8?oc=5"
+     },
+     {
+      "name": "한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTk1UVFFMVHNOc0otamZnS2hzVldOUHpROVpzRkpMQmo4MjZXZmtBc0ZUX056ZzNGckJZQUZEZWVnZUlmZDlXWTI1SXpsdWtDc2J4dnF3aUhkaDVPS21HRV9IVUU3dExMa2xJWHJrQTlCY09KcHhWczk0M1pfdkozSA?oc=5"
+     },
+     {
+      "name": "동아일보",
+      "url": "https://www.donga.com/news/Inter/article/all/20261030/134937156/1"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "반박"
+   },
+   {
+    "headline_ko": "국제유가, 이란 외교 해결 기대에 하락… WTI 102달러",
+    "importance": 4,
+    "why": "MBC·YTN.",
+    "sources": [
+     {
+      "name": "MBC",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByQjUtT2R3ZjdpRnJ4MFlZRy1QOW52M3NGaWlzY0hUOHRpTjNaLTFXdlNqWDlOSXRqX1pSWkZ1cWQxcWZoM1Z5UVR0MVA2RFBhb0dDaHRhX0p2MXkyQkdjb1UtQnpqY0tiTkdVaE1zX052NTlU0gF0QVVfeXFMTUsxd2dJQktabHRKdHM0X2NZYnUzVlRpOU1NRkJvbUNOVFl0cDM3NHV1MEF3UjlrVFQ5ekQ1Y21mMVoxYXhPV2NLd0VuY3RnNWF5aE1iczIzUDFoWV9uVHh2VFFTT1l3eE5qUl9LZEdRTFhTTjU?oc=5"
+     },
+     {
+      "name": "YTN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03RWdOWVFNaTNjX3FtR1dVV25sNHd6cTh0UkJESERLY1lpNUZQWWx2aGhSTmFkeFpOaUFlNkNZMUFZVERndWhoc0sySjl2VEVSQ2c3WHFlR3ViXzdxVVE?oc=5"
+     }
+    ],
+    "fields": [
+     "geopolitics",
+     "stocks"
+    ],
+    "hypothesis": "반박"
+   },
+   {
+    "headline_ko": "한미 '같이 갑시다' 삐걱: SCM 연기·전작권 입장차, 미 국방부 회담 자료 미배포",
+    "importance": 4,
+    "why": "SBS(분석), MBC. KF-21·미 공군 첫 편대비행은 연합뉴스.",
+    "sources": [
+     {
+      "name": "SBS",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821978"
+     },
+     {
+      "name": "MBC",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmQWFyLUc2bnZESzh6dUFlNHlxY1VoZVkxdEV6MzNJR2tJZ2pVMjc2YXUwMENkNDZuU1JuNDJsRWJjbDJwNnVaY2VoeVc3cEkwRlBxM0NQSE1FZ1pMN1lHTXRIYmQzZ0FXX3J5V3hvbWZVcVdP0gF0QVVfeXFMTUhwVjhhWEoxY3BCZEtBVERNTm1aSzBvX0VTR3dSWXE0TnloNExEdDdzaFZFVWlLZTRIN3dOOHF2YUF4SUx1MGZjajFfN2xGUkliMWViNEJsNnk1VC01LUtjVzQ5S0lReTRPUkUyQzBsTlpKUUw?oc=5"
+     },
+     {
+      "name": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261029163400504"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "반박"
+   },
+   {
+    "headline_ko": "9월 주택 착공 46.4% 감소·서울 분양 14가구… 국토부, 신규 공공택지 6곳",
+    "importance": 3,
+    "why": "조선일보(국토부 통계), 경향신문(택지 후보지·2030년 7만6700가구 착공 목표).",
+    "sources": [
+     {
+      "name": "조선일보",
+      "url": "https://www.chosun.com/economy/real_estate/2026/10/30/GRSTSNBQME2WGNRUGFSGKZDCMI/"
+     },
+     {
+      "name": "조선일보",
+      "url": "https://www.chosun.com/jp/economy-jp/2026/10/30/YU5BN7FHRFCU3KIMXMO3ZNYUGY/"
+     },
+     {
+      "name": "경향신문",
+      "url": "https://www.khan.co.kr/article/202610300600101/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
+     }
+    ],
+    "fields": [
+     "industry",
+     "legislation"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "외국인 9월 국내 증시 순매도(한겨레 26.7조·한국경제 19조)… SK하이닉스 20조 자사주 매입에도 코스피 1%대 하락",
+    "importance": 3,
+    "why": "외국인 매도 규모가 두 매체에서 다르다(집계 기준 차이 가능, 미확인). 29일에는 외국인이 3거래일 연속 순매수했고, 코스피 하락 원인은 삼성전자의 주주환원 실망(조선일보).",
+    "sources": [
+     {
+      "name": "한겨레",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uWE9iWEhZa1cxNmktVFVmZGhoVkdfcDQ0OWRjdnNPczRsRThYUjQ4RjhxR0VPVWdjUE5qSmxMUGZiT0FjRkpJNnQ5Ti1Vd01qRGpHU0RRY2c1azhWNnROa0FubUk5aGc?oc=5"
+     },
+     {
+      "name": "한국경제",
+      "url": "https://www.hankyung.com/article/2026102936326"
+     },
+     {
+      "name": "조선일보",
+      "url": "https://www.chosun.com/economy/stock-finance/2026/10/30/GRSDKN3CG4ZDGNRTMIZDOMBVHE/"
+     }
+    ],
+    "fields": [
+     "stocks"
+    ],
+    "hypothesis": "무관"
+   }
+  ],
+  "jp": [
+   {
+    "headline_ko": "라가르드 ECB 총재, 프랑스 대선 전 퇴임 결단",
+    "importance": 4,
+    "why": "닛케이, Japan Times('이란발 유가 충격' 국면).",
+    "sources": [
+     {
+      "name": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGR29B4Z0Z21C26A0000000/"
+     },
+     {
+      "name": "Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/10/29/ecb-lagarde-resignation/"
+     }
+    ],
+    "fields": [
+     "monetary"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "일본은행 금융정책 발표, '물가 2% 도달' 언급 주목… 실질임금·소비자 부담 기사 잇따라",
+    "importance": 3,
+    "why": "아사히 3건(단일 매체).",
+    "sources": [
+     {
+      "name": "朝日新聞",
+      "url": "http://www.asahi.com/articles/ASVBY3FP7VBYULFA00NM.html?ref=rss"
+     },
+     {
+      "name": "朝日新聞",
+      "url": "http://www.asahi.com/articles/ASVBW2J88VBWULFA01HM.html?ref=rss"
+     },
+     {
+      "name": "朝日新聞",
+      "url": "http://www.asahi.com/articles/ASVBX2DBVVBXULFA00FM.html?ref=rss"
+     }
+    ],
+    "fields": [
+     "monetary"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "러시아 드론 공격으로 우크라이나 철도역 14명 사망",
+    "importance": 4,
+    "why": "TBS·Japan Times.",
+    "sources": [
+     {
+      "name": "TBS",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2a3NsQkRVdF9lZlFXVnZxQjg3TlJwaFhGRGhRSXJyX1NIMkY2cjFVdFktcDFSSmkyUXZkb1J2bC13WGNNQTRhMGNSTHB2alZRUzNLVDE1RXBTeldXQmpDYTg3NnppcU04YXR4bkYzM2xIeUZL?oc=5"
+     },
+     {
+      "name": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/29/world/ukraine-dnipro-train-strike/"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "지지"
+   },
+   {
+    "headline_ko": "SK하이닉스 호실적에 AI 반도체주 상승, 닛케이평균 연속 상승… 미 GDP 3.4%",
+    "importance": 3,
+    "why": "TV도쿄(닛케이CNBC), 요미우리(GDP).",
+    "sources": [
+     {
+      "name": "テレビ東京(日経)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SbUZ5alV5NTNlY3J3Ylo5cWRLb0l6ZEFUVUZCOEZUOHdHWnIyeWg5amxFSzd3UDFieWZZZ0FEc1l5QVBweDAtajd0QmtVVDZPY3hILVpXcXdLNHBpTmRRQklRYTVIbDg?oc=5"
+     },
+     {
+      "name": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/economy/20261029-GYT1T00442/"
+     }
+    ],
+    "fields": [
+     "stocks",
+     "industry"
+    ],
+    "hypothesis": "지지"
+   },
+   {
+    "headline_ko": "미 정보기관 '젠슨 황 지인 중국 여성은 스파이' 판단, 트럼프에 보고",
+    "importance": 3,
+    "why": "요미우리(한국경제TV·중앙일보도 보도).",
+    "sources": [
+     {
+      "name": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/economy/20261029-GYT1T00490/"
+     }
+    ],
+    "fields": [
+     "geopolitics",
+     "industry"
+    ],
+    "hypothesis": "지지"
+   }
+  ],
+  "de": [
+   {
+    "headline_ko": "이스라엘 개표 완료, 교착… 아랍 정당 의석 거의 두 배",
+    "importance": 4,
+    "why": "ZDF·n-tv·Handelsblatt.",
+    "sources": [
+     {
+      "name": "ZDF heute",
+      "url": "https://www.zdfheute.de/politik/ausland/israel-wahl-auszaehlung-ergebnis-gewinner-netanjahu-eisenkot-100.html"
+     },
+     {
+      "name": "n-tv",
+      "url": "https://www.n-tv.de/politik/Wahl-in-Israel-fuehrt-zu-Patt-Situation-im-Parlament-id31474248.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/international/israel-patt-im-parlament-keine-klare-regierungsmehrheit-nach-wahl/100266007.html"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "슈타인마이어, 베이징 연설서 이례적 직설 '크기와 힘엔 큰 책임'",
+    "importance": 4,
+    "why": "DW 2건(비판 내용), ARD(연설 사실만).",
+    "sources": [
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/de/steinmeier-wird-in-china-überraschend-deutlich/a-79797976?maca=de-rss-de-all-1119-rdf"
+     },
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/de/bundespräsident-steinmeier-verbindet-grundsatzrede-in-peking-mit-symbolischem-tischtennis-auftritt/a-79797176?maca=de-rss-de-all-1119-rdf"
+     },
+     {
+      "name": "ARD Tagesschau",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1674802.html"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "지지"
+   },
+   {
+    "headline_ko": "미국, 아우디 조지아 공장 대가로 관세 인하 약속(소식통 '10%')… BMW·메르세데스도 기대",
+    "importance": 4,
+    "why": "WELT(소식통 수치), Handelsblatt('아직 구두 약속'). 관세를 공장 유치 지렛대로 쓰는 사례.",
+    "sources": [
+     {
+      "name": "WELT",
+      "url": "https://www.welt.de/wirtschaft/article6ae39c4c8909be5eb7ff5e28/audi-zollrabatt-fuer-us-werk-sorgt-in-deutschland-fuer-empoerung.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/autoindustrie-audi-als-dealmaker-bmw-und-mercedes-hoffen-auf-zollerleichterung/100265925.html"
+     }
+    ],
+    "fields": [
+     "industry",
+     "legislation"
+    ],
+    "hypothesis": "지지"
+   },
+   {
+    "headline_ko": "알파벳 폭락·인텔 급락(인텔은 높은 메모리 가격에 PC 수요 감소)",
+    "importance": 4,
+    "why": "Handelsblatt·Die Zeit.",
+    "sources": [
+     {
+      "name": "Handelsblatt",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-alphabet-kursrutsch-vernichtet-500-milliarden-dollar-boersenwert/100265906.html"
+     },
+     {
+      "name": "Handelsblatt",
+      "url": "https://www.handelsblatt.com/technik/it-internet/chiphersteller-intel-prognose-enttaeuscht-boerse-aktie-bricht-ein/100266014.html"
+     },
+     {
+      "name": "Die Zeit",
+      "url": "https://www.zeit.de/news/2026-10/29/intel-prognose-enttaeuscht-boerse-aktie-bricht-ein"
+     }
+    ],
+    "fields": [
+     "stocks",
+     "industry"
+    ],
+    "hypothesis": "반박"
+   },
+   {
+    "headline_ko": "러시아, 경유 수출 금지 연장하며 미국 예외… 미국 '다크 탱커 합법화' 검토 보도",
+    "importance": 5,
+    "why": "Handelsblatt 뉴스블로그, DW(언론 보도 인용). 각각 단일 매체.",
+    "sources": [
+     {
+      "name": "Handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/international/ukraine-putin-warnt-vor-ostsee-situation-wie-in-strasse-von-hormus/27982126.html"
+     },
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/de/kampf-den-schattenflotten-was-kann-die-eu-ohne-die-usa-tun/a-79797804?maca=de-rss-de-all-1119-rdf"
+     }
+    ],
+    "fields": [
+     "geopolitics",
+     "industry"
+    ],
+    "hypothesis": "반박"
+   }
+  ],
+  "uk": [
+   {
+    "headline_ko": "알파벳 사상 최악의 하루 — 매출 미달에 AI 설비투자 불안 재점화(Reuters)",
+    "importance": 5,
+    "why": "Sky·Reuters·FT. FT 요약은 '설비투자가 예상보다 낮게' 발표된 뒤 나스닥100 1.4% 하락으로 서술(원인 서술이 매체마다 다름).",
+    "sources": [
+     {
+      "name": "Sky News",
+      "url": "https://news.sky.com/story/google-parent-alphabet-takes-500bn-hit-on-ai-worries-13605428"
+     },
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tUjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA?oc=5"
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1"
+     }
+    ],
+    "fields": [
+     "stocks",
+     "industry"
+    ],
+    "hypothesis": "반박"
+   },
+   {
+    "headline_ko": "아마존 4분기 매출 전망 하회… 인텔 17% 급락",
+    "importance": 4,
+    "why": "Reuters·FT.",
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXhDSjU4RmlrZmUyT0E5dzJNbmJNaXBBdGhndktXeGUtZVItTWlpNDBZcXR5LTZDMjFOdzdXenRpTnhNd01pZXBXX0V0OTVlYkMtVlJnN2l4YS1QeENxeWlzUUN6bDZkeThpc1VBMUZDQjFYcGxrQWFrVzBVOXdueV9Tb0drZjZ4T3JYWmRXS2MwWnMwMGpoT05FU1lUVWhRbXlPZEpYUjZQbnlrQWh3SGdsTQ?oc=5"
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://www.ft.com/content/8affd8dd-b783-48c8-86e2-ac4a647fa0f3?syn-25a6b1a6=1"
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://www.ft.com/content/d7540e89-08db-43d3-92e0-3c15dd3a60cb?syn-25a6b1a6=1"
+     }
+    ],
+    "fields": [
+     "business",
+     "stocks"
+    ],
+    "hypothesis": "반박"
+   },
+   {
+    "headline_ko": "뉴저지 주지사, 러시아산 경유 화물 반입 저지 경고… '트럼프-푸틴 거래는 부패·불법'",
+    "importance": 5,
+    "why": "FT 단일.",
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://www.ft.com/content/3d9ac5af-d6c7-48f8-a5b4-7b3b22cc243d?syn-25a6b1a6=1"
+     }
+    ],
+    "fields": [
+     "geopolitics",
+     "industry"
+    ],
+    "hypothesis": "반박"
+   },
+   {
+    "headline_ko": "힐리 재무장관, 복지 삭감 후퇴… 280억 파운드 재정 부족 경고, IFS '전례 없는 소득 압박'",
+    "importance": 3,
+    "why": "Guardian·Independent·Channel 4·Telegraph.",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/29/john-healey-budget-backs-away-from-cutting-welfare-public-finance-shortfall"
+     },
+     {
+      "name": "The Independent",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVFIzY21nNW5uRW9jcTJxbjFsMjJZaW9aWVBTTlBpUWp4QlpBLThlQldYNnpFdGY2am5TbzhOWWo1bmpfQ1FPazBYeExfTlFnSFhkLURSc1NpWVBpSGNveFAzdHFTSDJyMWNKaF9xMC16WWFnY3BTbmNlOUszd00yeVdkTjEtRXZnU2dnVUVUZkEtU0hHSmJCdzNva2RPZw?oc=5"
+     },
+     {
+      "name": "Channel 4 News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTTZWR1VsNGlMbC1jMzJBRUoyUm5PUUVXSUZrMUJiT2xxQ2h3WWgtN3VFRm9XT3J5aXRRUF9uWDhUZldWOGVWdDYwMnp2d2U4MF9ValRXU09KQXNqNFBMSU4ybk9DSUt4dlBoMkYtSWtCTWpnX3ZjQWphOWV3d2NGWHlKLUNTcmpVaFhIX2NleFUxb19QX2hHM1hxQTlZVkZzRkR3UXZ6ZkUyQQ?oc=5"
+     },
+     {
+      "name": "The Telegraph",
+      "url": "https://www.telegraph.co.uk/business/2026/10/29/budget-healey-burnham-welfare-spending-ftse-100-markets/"
+     }
+    ],
+    "fields": [
+     "legislation",
+     "monetary"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "리쿠드 '외국 세력이 선거 훔쳤다'… 보안기관 조사",
+    "importance": 4,
+    "why": "BBC·FT.",
+    "sources": [
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss"
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://www.ft.com/content/f66a684c-4073-4cf8-b5b8-8851c72e8bc0?syn-25a6b1a6=1"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "무관"
+   }
+  ],
+  "fr": [
+   {
+    "headline_ko": "에두아르 필리프, 공금 횡령 사건 '조력 증인' 신분",
+    "importance": 3,
+    "why": "franceinfo·Le Monde·Figaro·Libération. 2027 대선 유력 후보의 사법 리스크.",
+    "sources": [
+     {
+      "name": "franceinfo (France 2)",
+      "url": "https://www.franceinfo.fr/politique/edouard-philippe/edouard-philippe-place-sous-le-statut-de-temoin-assiste-dans-une-affaire-de-detournement-de-fonds-publics-son-avocat-salue-une-decision-favorable_8259449.html#xtor=RSS-3-[lestitres]"
+     },
+     {
+      "name": "Le Monde",
+      "url": "https://www.lemonde.fr/societe/article/2026/10/29/edouard-philippe-place-sous-le-statut-de-temoin-assiste-dans-une-enquete-ouverte-notamment-pour-detournement-de-fonds-publics_6802392_3224.html"
+     },
+     {
+      "name": "Le Figaro",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/accusations-de-detournement-de-fonds-publics-edouard-philippe-place-sous-le-statut-de-temoin-assiste-20261029"
+     },
+     {
+      "name": "Libération",
+      "url": "https://www.liberation.fr/politique/elections/accusations-de-detournement-de-fonds-publics-edouard-philippe-place-sous-le-statut-de-temoin-assiste-20261029_UWFAVBEB3JFJTOXIU74AZIPC6I/"
+     }
+    ],
+    "fields": [
+     "legislation"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "10월 31일 시위 대비 경찰·헌병 7만 명 배치",
+    "importance": 3,
+    "why": "franceinfo·Les Echos.",
+    "sources": [
+     {
+      "name": "franceinfo (France 2)",
+      "url": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-31-octobre-70-000-policiers-et-gendarmes-seront-mobilises-un-dispositif-exceptionnel-similaire-au-24-octobre-annonce-laurent-nunez_8259305.html#xtor=RSS-3-[lestitres]"
+     },
+     {
+      "name": "Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSG1GcUFVZVFKdms0NmZEUFFuZnVNdXMxVkVySVQ0WEtfN18zYnY3c00wQTFZbXdLNE5lMDRGU1V1cHVXMzdjM3F6WS1IVkYwU0VVZFBNTDlpaXdOMm41VFJDQ1VYTzFWemV1WEV5cVdhOVF4Sk9aMlBRWVZzRldLdm50YmpYUm04cnN1UFZOcXlZXzBCYlV5ZlhjdDJhOFBKeDFPQjVxRldTWF9nRkh0RVVFMHBzQXdBdnEtbEVnaTQyS19rOUxDb2dYZ1VWTnJoZmZJa0h4ejRfankzVHEyZl94REpzdmZDRWVyNWM2ZV9QS2dTWTlpRklJRllvc0U?oc=5"
+     }
+    ],
+    "fields": [
+     "legislation"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "EU 11개국, 석유 4,260만 배럴 방출(절반 경유)… 경유 리터당 2.30유로 초과",
+    "importance": 5,
+    "why": "Libération 단일. 같은 날 프랑스 항구 '군사화' 반대 파업(TF1, 제목만).",
+    "sources": [
+     {
+      "name": "Libération",
+      "url": "https://www.liberation.fr/international/europe/crise-des-carburants-douze-pays-de-lue-vont-liberer-426-millions-de-barils-de-petrole-dont-la-moitie-de-gazole-20261029_IIUBYMLTFRENBGOYP22V5PFWVY/"
+     },
+     {
+      "name": "TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcXMtMXJjNmpfT21vQnZraFBMNVdSWWU1WDVhVW5waUt6QVh4R3FqODZvTVdFVUJtaUFYZ1hlenZkY0pCNHdCVVI5N0ZHeFNQbUQ2RUVCT0pRY3E1cnRVY0Z3el9mbHdDMENlVnhaU0RUNTl0eXVQaU9SSGZ1MDRmdmJmZGw0dVo1dzNPbjJnUWg0UkY3c0NZWDJBNkdUUDFsckZjRmkyMGZ4NlRTSThaalZ4cUZ4Zk4zRE01TDBCbmtfcWZ6dUU0LXdUNTNjRklzVy1JNVYzazM2elVI?oc=5"
+     }
+    ],
+    "fields": [
+     "industry",
+     "geopolitics"
+    ],
+    "hypothesis": "지지"
+   },
+   {
+    "headline_ko": "아마존, 매출 2,019억$(+12%)에도 주가 6% 하락… 월가, 알파벳·AI 우려에 하락",
+    "importance": 4,
+    "why": "Le Figaro('종가 기준'이라 썼으나 실적이 장 마감 뒤 나와 시간외 낙폭일 가능성), Les Echos(제목만).",
+    "sources": [
+     {
+      "name": "Le Figaro",
+      "url": "https://www.lefigaro.fr/secteur/high-tech/amazon-l-action-du-titre-chute-malgre-les-bons-resultats-de-son-activite-informatique-20261029"
+     },
+     {
+      "name": "Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdzAzbXlrZmtEMF9HcGJJRGZvN1RFbUlsbHdrc3drRmRsVklDblpRMzlFTGdoYUpScEppbGtFMzdtR3VqUklzWVlibGVzcTRvU3FVLUZ0SGxwTHJRVW5RV3k2aGVjYUp5eWhMTDYwaEZRLTJwWi1DMW0zcmtXcFZkTC1pVWt3TXFhblRLb3hxeGZiSm1YXzFfbHFuUGZlREh5T0EtWmJCTGd2RFVTY21oeUpvbnVBSDN3ek1jYUVNWFB5QjUwUWlCNmFnWQ?oc=5"
+     }
+    ],
+    "fields": [
+     "stocks",
+     "industry"
+    ],
+    "hypothesis": "반박"
+   },
+   {
+    "headline_ko": "헤르초그, 아랍계 유권자 낙인 말라 촉구",
+    "importance": 3,
+    "why": "France 24.",
+    "sources": [
+     {
+      "name": "France 24",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261029-l%C3%A9gislatives-en-isra%C3%ABl-accusations-de-fraude-le-pr%C3%A9sident-appelle-au-calme"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "무관"
+   }
+  ],
+  "il": [
+   {
+    "headline_ko": "개표 완료: 연정 53·변화 블록 48·아랍 19, 리쿠드 27석",
+    "importance": 5,
+    "why": "Globes, Haaretz(570만 명 이상 투표), i24NEWS, JPost.",
+    "sources": [
+     {
+      "name": "Globes",
+      "url": "https://en.globes.co.il/en/article-1001561412#utm_source=RSS"
+     },
+     {
+      "name": "Haaretz",
+      "url": "https://www.haaretz.com/israel-news/elections/2026-10-29/ty-article/.premium/israel-election-count-completed-these-are-the-final-results/000001a1-88f2-def7-adad-8afabb6f0000"
+     },
+     {
+      "name": "i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQy1BSExSSGlmbDF2STJqOWxhZlFvNEpudlpwaFBZUTE2d08yZkdWaV9sZDJXOWgwVVFnWlNvVzUtZER2WDhPSnpLQTMyaFkxa29UYkZYOFl0XzAzVVJwSVh0U0pFdk1LLUhvdzI4QXdkQzBYRXZrOWZBRmlXMll2dE5Tb1Q3NkZMdGRoaWZuQTd4ZnM3X3NSVGQ5dG80Rk5UbnJCaVdna2xPTVlJRXVtT3dlekphblJ0emI5R0tJbEg?oc=5"
+     },
+     {
+      "name": "Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oeHhfTnotN1N5OU1vQ1lzRHUwTm5QUEdQd0k1bGxEWXRORldPalZGbVktUzNrMTRPT1pGZk0zLWlvMFNRV3RoOUpfeWIwQ0dPNHM3Q0thX1R4SHlCOXlNYmZ4SWFsRWdW?oc=5"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "유대-아랍 정부 논쟁: 시위대·아랍 정당 지도자 '네타냐후 교체 길 닦겠다'",
+    "importance": 4,
+    "why": "Haaretz·JPost(여론조사, 수치 미기재).",
+    "sources": [
+     {
+      "name": "Haaretz",
+      "url": "https://www.haaretz.com/israel-news/elections/2026-10-29/ty-article/.premium/protesters-call-on-eisenkot-to-team-up-with-arab-parties/000001a1-890b-dd01-a9ed-ababe1cd0000"
+     },
+     {
+      "name": "Haaretz",
+      "url": "https://www.haaretz.com/israel-news/elections/2026-10-29/ty-article/.premium/israels-opposition-won-the-numbers-to-defeat-netanyahu-it-may-defeat-itself/000001a1-875c-dabc-afb5-ffdeb1f90000"
+     },
+     {
+      "name": "Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WbEZHZUtTMmY3UU0wWnhoX0pYVjI0SlZXeWt3cDRqd3RtZXhORmlHbk42NmxvT0JxdV9nR2w3NDdfOXM2aHFDSHV2QTUyaDBoOGpjVjM4Q2pCdktzWWx1OUdoRWQzN05y?oc=5"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "아이젠코트 '네타냐후, 선거 정당성 훼손'… 서방 외교관 '정책 변화 없으면 제재 반대 어려워'",
+    "importance": 4,
+    "why": "i24NEWS, Haaretz(익명 외교관 단일).",
+    "sources": [
+     {
+      "name": "i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcHJQRjdtcUhabVU1MWtWTmlCeUFsZDV2TlZWSXEtUFRtdmtlaDR1N3RVTEItNS1ESWhjUUVJOENaV0hGbDN3enhQY3VkVjVRM056WFFOTnpPRXJGem9ZMVVQbDFHN3UyOEtTSThJMmdaamgwcjU1T2Y5SzJQRUZEWVcwUjVlUkpFSTVlcjVZeEluajRyN0NzcVFTRVhFdWtfS3FRUVhrY1ZGV3J1UWtsZlkyVTZKQ3U1Vklqd1hKbEVmRmlZVjYyOXduUFNqRDdYWFJnUl9GMA?oc=5"
+     },
+     {
+      "name": "Haaretz",
+      "url": "https://www.haaretz.com/israel-news/elections/2026-10-29/ty-article/.premium/israels-election-deadlock-leaves-europe-waiting-and-trump-weighing-his-options/000001a1-88fc-d2b4-a1f3-8dfe80f10000"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "ZIM 운영 화물선, 불가리아 흑해 연안서 해상 드론에 침몰",
+    "importance": 4,
+    "why": "i24NEWS·Globes(컨테이너 421개 침몰, 선원 구조).",
+    "sources": [
+     {
+      "name": "i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2oyT2JkdV85eEZJc0Q5N1JpOE5qUm1QaHh1cFpFZnlzdWJkSFNEYklaMUxsWW5udldTSTVrRU9RZTBMTUl5UGtkZjN3WlQtd1JfV1NjRkJETUtTWkZtUWhXUFQ5bWRaLWpmZ3h6QWQtOTlLVnBsRlhwQjh2VmNndHdUSmdaM0VHdzFUU0hBbkpPdEp2Ui1MZUFVRWVnWk9hUVNxT0ozTTItQVp0V3NjWDBLTVluRUpzOEVCLWg3TWhqYXVPZ3V0VnB2Z2Rtdw?oc=5"
+     },
+     {
+      "name": "Globes",
+      "url": "https://en.globes.co.il/en/article-1001561300#utm_source=RSS"
+     }
+    ],
+    "fields": [
+     "geopolitics",
+     "industry"
+    ],
+    "hypothesis": "지지"
+   },
+   {
+    "headline_ko": "트럼프 이란 군사 옵션 검토 보도… 이스라엘 군인, 이란에 기밀 넘긴 혐의 기소",
+    "importance": 4,
+    "why": "i24NEWS 각 단일.",
+    "sources": [
+     {
+      "name": "i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc2lEMkpOOU45S2JtaFBwYURzYk1OUzNSelRUSVVTd0t2Rzg2dXJvbzRNWmdQd2w1T2xkbDhuVjNXdnF5STB4amNtYklfRWliQ2JzTWROaDg3VFdkS0hDd2dQNmtpdlZQZW9RMHNGcXlkblE3b2ZTZGdkZXM3OHNhN3R1c0RSNTVWZmVwTjk0RE52cE5Cc25pdFNISTlHcjZSOXpkbUhRNDI0OVhfT3NKaW9odjhUUThEYUxlY3g0aHdYcUU?oc=5"
+     },
+     {
+      "name": "i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbzhYTmNWNTZjakZLQ1BFUDB1aEt5T3hOem03X3RHMDk4Z1Utc2duWWQtbzFXUWtOaTBORGZpMUZYczJjQVI1eG5uYnJmb0lEMC1TSGN4b19IeHk0dldpdjZUN3U5Z0VhT0QtckNkNkRYX1FHVmpHb2lEWkRCT3pfWW5VZGRBWnNkRFdvd2ZKb2g3aFdaaWlVYXRpb0dYNF84XzVDRnpSWE1taHYxWHJVRjZadzN5aFUxS2hwS2pCQTM0NWhIQjdKd3FpQVBhbExZeDlpRE9mUQ?oc=5"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "지지"
+   }
+  ],
+  "ru": [
+   {
+    "headline_ko": "푸틴 '유럽과 관계 회복 위한 모든 조치 지지'·'전쟁 준비돼 있지만 원치 않아'",
+    "importance": 5,
+    "why": "Interfax·Meduza. RBC(Guardian 인용)는 EU의 협상 대표 '혼란'을 전했다.",
+    "sources": [
+     {
+      "name": "Interfax",
+      "url": "https://www.interfax.ru/world/1125930"
+     },
+     {
+      "name": "Meduza (독립·망명)",
+      "url": "https://meduza.io/news/2026/10/29/esli-zaydet-slishkom-daleko-pobediteley-ne-budet-vladimir-putin-o-vozmozhnoy-voyne-s-evropoy"
+     },
+     {
+      "name": "RBC",
+      "url": "https://www.rbc.ru/politics/29/10/2026/6ae39e95f1d11a85f97f24a4"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "반박"
+   },
+   {
+    "headline_ko": "젤렌스키, 핀·노 정상 통해 '영토 문제 정상회담 논의 용의' 전달",
+    "importance": 5,
+    "why": "Meduza(Helsingin Sanomat 인용, 재인용 단일).",
+    "sources": [
+     {
+      "name": "Meduza (독립·망명)",
+      "url": "https://meduza.io/news/2026/10/29/zelenskiy-cherez-liderov-finlyandii-i-norvegii-peredal-putinu-chto-gotov-obsuzhdat-na-lichnoy-vstreche-vopros-territoriy"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "반박"
+   },
+   {
+    "headline_ko": "모스크바 접근 드론 누적 194대 격추, 공항 운항 중단·제한",
+    "importance": 4,
+    "why": "Interfax(194대·공항); Vesti(관영)도 공항 중단 보도.",
+    "sources": [
+     {
+      "name": "Interfax",
+      "url": "https://www.interfax.ru/moscow/1125928"
+     },
+     {
+      "name": "Interfax",
+      "url": "https://www.interfax.ru/moscow/1125926"
+     },
+     {
+      "name": "Rossiya 24 (Vesti) [관영]",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS1V3aWF0UHhvUU8zTXFhWFFteldrTUtzdy05d0dIcjRmcjZ2X3IxR3c4UmJlNXlzQ1NKVVN0UnhRVGFuUU5YajMyRWJ0SExnYkkxakhxVUMza19CSVdrYVlmNDFCcHRBYWdhWEttbVhjN0J6OUNXZWZYV1h1SjFxRGg1ZmVrWUNQLXlweTczOVdpSzU5QVd5R1Jwa2ZCcmdFWVFfd2hR?oc=5"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "지지"
+   },
+   {
+    "headline_ko": "'사몰룟'발 주택 건설사 재무 위기… 등록 업체 8.4~13.1% 재무난",
+    "importance": 3,
+    "why": "Kommersant 3건(단일 매체). 원인은 판매 감소·대출 조건 악화(Kommersant). 🔎 해석: 긴축의 실물 전이.",
+    "sources": [
+     {
+      "name": "Kommersant",
+      "url": "https://www.kommersant.ru/doc/9063909"
+     },
+     {
+      "name": "Kommersant",
+      "url": "https://www.kommersant.ru/doc/9063720"
+     }
+    ],
+    "fields": [
+     "business",
+     "monetary"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "[메시지] 파트루셰프 '러시아행 화물선 1년간 100여 차례 공격'·'NATO·EU·영국이 대규모 전쟁 부추겨'",
+    "importance": 3,
+    "why": "TASS·RIA(관영). 해상 물류 위협을 강조하는 메시지.",
+    "sources": [
+     {
+      "name": "TASS [관영]",
+      "url": "https://tass.ru/politika/28269127"
+     },
+     {
+      "name": "RIA Novosti [관영]",
+      "url": "https://ria.ru/20261030/patrushev-2127958431.html"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "지지"
+   }
+  ],
+  "cn": [
+   {
+    "headline_ko": "미 FCC, 트럼프-시진핑 회담 앞두고 중국 시험소의 전자기기 시험 금지",
+    "importance": 4,
+    "why": "SCMP 단일.",
+    "sources": [
+     {
+      "name": "SCMP (홍콩)",
+      "url": "https://www.scmp.com/news/us/article/3372632/us-bans-chinese-labs-testing-electronics-ahead-trump-xi-meeting"
+     }
+    ],
+    "fields": [
+     "legislation",
+     "geopolitics"
+    ],
+    "hypothesis": "지지"
+   },
+   {
+    "headline_ko": "EU-캐나다 '준회원' 구상: 공동선언엔 빠졌지만 검토 계속",
+    "importance": 4,
+    "why": "SCMP, CGTN(관영 — 폰데어라이엔 발언), CCTV(관영 — '포기' 논평, 메시지).",
+    "sources": [
+     {
+      "name": "SCMP (홍콩)",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3372638/eu-considering-canada-associate-member-despite-internal-opposition"
+     },
+     {
+      "name": "CGTN [관영]",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ncHljeVVMUlRpVWNpV0g1QzBROUxIMTNQYzZHSHctYVZtZDdESDRKNktzVWpFVG4yX25nTlMzdF9JcTBtUFVvaVdkam9GdUNDVVVxZEJFMUJDMEdEUGFQbmhGUzZpaFNZSmhNRnBBTUk2TmVfdnhEZQ?oc=5"
+     },
+     {
+      "name": "CCTV [관영]",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OdG1vRF9TbllHNjEtaDJ6bm9SRUFwR0w1VjhrNW52ZDNOYkZyTlJ3OF9YMlpjaFFJSjR1Uk42RWRhd1FqZkc3RFVpTWVxVHZlVWRFTVdTRFZOQWZLYkdhZ1FvNWkyN2RYYk5Xc0hnRWRGUHhrb0NKbg?oc=5"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "반박"
+   },
+   {
+    "headline_ko": "[메시지] 중공 20기 5중전회, '전면적 종엄치당' 결정 통과",
+    "importance": 3,
+    "why": "인민일보(관영). 당 기율 강화 메시지.",
+    "sources": [
+     {
+      "name": "People's Daily [관영]",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfZmlwQkxyd293X18tNWxSR3RRZU9mX1N6Z2p2Zi1WNzQ3SjAyUEczcG4zZTR6TldoaERDTTRIcVY5QlpWc1BJTjh0MXFIWi10ODBxdC1hbW1sc1NzNlhRakZaOW5IMnZDTnlv?oc=5"
+     },
+     {
+      "name": "People's Daily [관영]",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sc0ZNSzdpNlhqUTdOaDA4aXl6X1JnY3d5bVpLeGR2bUoxOEF4RFZkaWlja3o4SEdBU0NOZGR4MjBvdGZmVHh5RmRmQjh4cGpyOEJWTTlyN2I3bHpsMGZ6WGJmODZnRjJlOVE?oc=5"
+     }
+    ],
+    "fields": [
+     "legislation"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "[메시지] 카타르에너지 CEO, 이란 석유장관 대행과 두 차례 회동… 이란, 미 부통령 서한에 아직 무응답",
+    "importance": 4,
+    "why": "CGTN(관영, 'EXCLUSIVE' 통신 속보 전재 — 원 출처 미표기), Xinhua(관영).",
+    "sources": [
+     {
+      "name": "CGTN [관영]",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tc2ZSeWE0ZUZnUGJHWmNfNUtBcE02M0xldEs0dThZVkVPbi03Ty16TVlIWXMzZmNJeU1MRlRyRUZ3MTJoQXlucEVqWUN0WEVNcDRQYVZqYTQ5UllVbVM4U2YyZ1Y1LXphZzVtUTk1bm1mUWJHOG5tTQ?oc=5"
+     },
+     {
+      "name": "Xinhua [관영]",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VeUFCckg0d1RYXzhlR3pfaHlxangxbEgyczdUS2Q4MjdVSGZzVTlFbzF4ZXZQdDR3UmhkMnJfTl8wSmNwYnJ4b2I2RFdwSEp5RVE0OHBXOVdMZWtSelRPRDNaWThYUXdzLVJqejBnNzZLaGVRN0Rn?oc=5"
+     }
+    ],
+    "fields": [
+     "geopolitics",
+     "industry"
+    ],
+    "hypothesis": "반박"
+   },
+   {
+    "headline_ko": "[메시지] 중국·칠레 중앙은행 통화스와프 갱신",
+    "importance": 3,
+    "why": "인민일보(관영). 위안화 결제망 확대 시도 — 규모 미기재.",
+    "sources": [
+     {
+      "name": "People's Daily [관영]",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWeE01cVJieWlTQWYxc1g0SjQzYTQ4NF9CclFJUVdPc291bEVQQUZSVnQzeG9fZ0lzWmpGUHNvM0hwSjh2bzZtZm1rX01zTUNmN0Qwdzhaa09vUDdqLWJ2bEJCTmZYMFFGdVNJdw?oc=5"
+     }
+    ],
+    "fields": [
+     "monetary"
+    ],
+    "hypothesis": "반박"
+   }
+  ]
+ },
+ "watch": [
+  "미국의 대이란 공습 여부 vs 외교 재개 — 이란의 미 부통령 서한 답신, 호르무즈 유조선 피격 주장의 복수 매체 확인, 다음 거래일 유가가 피격 주장에 반응하는지",
+  "러시아산 경유의 미국 입항·뉴저지주 대응, 미 재무부의 RDIF 관련 공식 조치 여부",
+  "메타 등 남은 빅테크 실적과 설비투자 가이던스 — 알파벳·아마존 급락이 AI 공급망(메모리·반도체)으로 번지는지",
+  "11월 3일 미 중간선거 결과와 알래스카·캘리포니아 선거 수사의 향방",
+  "이스라엘 연정 협상(아랍 정당 참여 여부)과 대통령의 정부 구성 위임 순서, ECB 후임 인선 논의"
+ ],
+ "coverage": {
+  "us": {
+   "headlines": 88,
+   "unavailable": []
+  },
+  "kr": {
+   "headlines": 112,
+   "unavailable": []
+  },
+  "jp": {
+   "headlines": 96,
+   "unavailable": [
+    "Nikkei Asia"
+   ]
+  },
+  "de": {
+   "headlines": 80,
+   "unavailable": []
+  },
+  "uk": {
+   "headlines": 85,
+   "unavailable": []
+  },
+  "fr": {
+   "headlines": 64,
+   "unavailable": []
+  },
+  "il": {
+   "headlines": 49,
+   "unavailable": [
+    "Kan (KAN News)"
+   ]
+  },
+  "ru": {
+   "headlines": 72,
+   "unavailable": []
+  },
+  "cn": {
+   "headlines": 48,
+   "unavailable": [
+    "Global Times",
+    "Caixin"
+   ]
+  }
+ }
+}

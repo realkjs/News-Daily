@@ -1,0 +1,882 @@
+{
+  "team": "il",
+  "headlines": [
+    {
+      "source": "N12 (Channel 12)",
+      "title_original": "מילים לשיר Say It - כריסטופר קנת' בראיד",
+      "title_ko": "노래 'Say It'(크리스토퍼 케네스 브라이드) 가사",
+      "summary_ko": "N12 피드에 실린 가요 가사 페이지(쉬로넷)로, 뉴스 기사가 아님.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3hMM2ZKY2JTdVFFdWNxMkxocElqcVVvcnZwaUtKSkRxZ2tYT1B1RFY4am55T2I5RV9xYTdQZTh5aGJLXzRjUVRDUWp0Y0JYQUFyVks5MHVlbE9ZZ09pNzYtZ3V0eHluR3ZZTzlvOHhWREM5VUxQazJCMU10S2xpMXgxNA?oc=5",
+      "published": "2026-10-29T17:29:31+09:00",
+      "tags": [],
+      "event": "il-misc-lyrics",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Trump Reviews Iran Military Options In White House Briefing - Report",
+      "title_ko": "트럼프, 백악관 브리핑에서 이란 군사 옵션 검토 — 보도",
+      "summary_ko": "트럼프 대통령이 백악관 브리핑에서 이란에 대한 군사 옵션을 검토했다는 보도(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc2lEMkpOOU45S2JtaFBwYURzYk1OUzNSelRUSVVTd0t2Rzg2dXJvbzRNWmdQd2w1T2xkbDhuVjNXdnF5STB4amNtYklfRWliQ2JzTWROaDg3VFdkS0hDd2dQNmtpdlZQZW9RMHNGcXlkblE3b2ZTZGdkZXM3OHNhN3R1c0RSNTVWZmVwTjk0RE52cE5Cc25pdFNISTlHcjZSOXpkbUhRNDI0OVhfT3NKaW9odjhUUThEYUxlY3g0aHdYcUU?oc=5",
+      "published": "2026-10-30T05:12:12+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-iran-military-options",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Israel Completes Vote Count With Netanyahu’s Bloc Short Of A Majority",
+      "title_ko": "이스라엘 개표 완료… 네타냐후 진영 과반 미달",
+      "summary_ko": "이스라엘 총선 개표가 완료됐으며 네타냐후 진영이 과반에 미치지 못했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQy1BSExSSGlmbDF2STJqOWxhZlFvNEpudlpwaFBZUTE2d08yZkdWaV9sZDJXOWgwVVFnWlNvVzUtZER2WDhPSnpLQTMyaFkxa29UYkZYOFl0XzAzVVJwSVh0U0pFdk1LLUhvdzI4QXdkQzBYRXZrOWZBRmlXMll2dE5Tb1Q3NkZMdGRoaWZuQTd4ZnM3X3NSVGQ5dG80Rk5UbnJCaVdna2xPTVlJRXVtT3dlekphblJ0emI5R0tJbEg?oc=5",
+      "published": "2026-10-30T03:22:09+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation"
+      ],
+      "event": "il-election-final-results",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Israeli Soldier Charged With Passing Sensitive Military Information To Iranian Operatives",
+      "title_ko": "이스라엘 군인, 이란 공작원에 민감 군사정보 넘긴 혐의로 기소",
+      "summary_ko": "이스라엘 군인 1명이 이란 공작원에게 민감한 군사 정보를 전달한 혐의로 기소됐다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbzhYTmNWNTZjakZLQ1BFUDB1aEt5T3hOem03X3RHMDk4Z1Utc2duWWQtbzFXUWtOaTBORGZpMUZYczJjQVI1eG5uYnJmb0lEMC1TSGN4b19IeHk0dldpdjZUN3U5Z0VhT0QtckNkNkRYX1FHVmpHb2lEWkRCT3pfWW5VZGRBWnNkRFdvd2ZKb2g3aFdaaWlVYXRpb0dYNF84XzVDRnpSWE1taHYxWHJVRjZadzN5aFUxS2hwS2pCQTM0NWhIQjdKd3FpQVBhbExZeDlpRE9mUQ?oc=5",
+      "published": "2026-10-30T02:29:06+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "il-soldier-iran-espionage",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Eisenkot Accuses Netanyahu Of Delegitimizing Election Results Amid Shin Bet Probe",
+      "title_ko": "아이젠코트, 신베트 수사 속 네타냐후가 선거 결과 정당성 훼손한다고 비난",
+      "summary_ko": "신베트(국내정보기관) 수사가 진행되는 가운데 아이젠코트가 네타냐후가 선거 결과의 정당성을 훼손하고 있다고 비난했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcHJQRjdtcUhabVU1MWtWTmlCeUFsZDV2TlZWSXEtUFRtdmtlaDR1N3RVTEItNS1ESWhjUUVJOENaV0hGbDN3enhQY3VkVjVRM056WFFOTnpPRXJGem9ZMVVQbDFHN3UyOEtTSThJMmdaamgwcjU1T2Y5SzJQRUZEWVcwUjVlUkpFSTVlcjVZeEluajRyN0NzcVFTRVhFdWtfS3FRUVhrY1ZGV3J1UWtsZlkyVTZKQ3U1Vklqd1hKbEVmRmlZVjYyOXduUFNqRDdYWFJnUl9GMA?oc=5",
+      "published": "2026-10-30T02:05:00+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation"
+      ],
+      "event": "il-election-legitimacy-dispute",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Read The 2026 Election Articles: Analysis And Updates",
+      "title_ko": "2026 총선 기사 모음: 분석과 업데이트",
+      "summary_ko": "i24NEWS의 2026년 이스라엘 총선 관련 기사·분석 모음 페이지.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ROTF6WjFCWEtoY0JQal9VMm85cHo0ZDhmb2ljNnVHOS1mamdnRTF4NXBPcjBfd2Y3VkRQWG4xdXlsYmRPanA4b0MwRGlJdG9sVkpfLUdfbVpZcmtmMXN4MVM4cWFxdzdEOGpSaFNKdw?oc=5",
+      "published": "2026-10-30T01:10:18+09:00",
+      "tags": [],
+      "event": "il-misc-election-index",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "The Worst-case Scenario For The Arab Parties",
+      "title_ko": "아랍 정당들에게 최악의 시나리오",
+      "summary_ko": "아랍 정당들에게 최악의 시나리오를 다룬 기사(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc1JmVlRHZXhZeVRZcTJwR24wQ1Nva1Z2YkFkZnNJSFVyYVVyVThlNlZfdFhiRGJ6cThvLUhHMjBWUEZXeTlqd1M0empRN25wT1J6azZlSzNia3BIVVJndms5UzFtSFV6U3BGQ0lLV0tYMVhYSElITGRydW81LXpSUEFTeE5SaW40ZlVIRE1uN3YxU3AwSEFDTlViZ1Q?oc=5",
+      "published": "2026-10-29T23:39:56+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "il-election-arab-parties-coalition",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Naval Drones Sink Israeli-operated Cargo Ship Off Bulgaria's Black Sea Coast",
+      "title_ko": "해상 드론, 불가리아 흑해 연안서 이스라엘 운영 화물선 격침",
+      "summary_ko": "불가리아 흑해 연안에서 해상 드론 공격으로 이스라엘 측이 운영하던 화물선이 침몰했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2oyT2JkdV85eEZJc0Q5N1JpOE5qUm1QaHh1cFpFZnlzdWJkSFNEYklaMUxsWW5udldTSTVrRU9RZTBMTUl5UGtkZjN3WlQtd1JfV1NjRkJETUtTWkZtUWhXUFQ5bWRaLWpmZ3h6QWQtOTlLVnBsRlhwQjh2VmNndHdUSmdaM0VHdzFUU0hBbkpPdEp2Ui1MZUFVRWVnWk9hUVNxT0ozTTItQVp0V3NjWDBLTVluRUpzOEVCLWg3TWhqYXVPZ3V0VnB2Z2Rtdw?oc=5",
+      "published": "2026-10-29T23:37:00+09:00",
+      "tags": [
+        "geopolitics",
+        "business"
+      ],
+      "event": "black-sea-zim-ship-sunk",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Elif Erlap, News And Latest Headlines",
+      "title_ko": "엘리프 에를랍 관련 뉴스·최신 헤드라인",
+      "summary_ko": "i24NEWS 기자(엘리프 에를랍) 기사 목록 페이지로, 개별 뉴스 아님.",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CU3NnTUtVVlNxb1E4MHMyMXIzLXhKejFlZmZFaDNLN0NPV1NXWmo2U3FoN3M3S2JSbVl1cnhheFFCXzJocFlpMG9GZ0pWUm5SZ2Zj?oc=5",
+      "published": "2026-10-29T21:57:21+09:00",
+      "tags": [],
+      "event": "il-misc-author-page",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Blogs: How Much Should Israel Define Us?",
+      "title_ko": "[블로그] 이스라엘은 우리를 얼마나 규정해야 하는가?",
+      "summary_ko": "Times of Israel 블로그 기고(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VbGowSnZLdWR4a01vYnFPZURIcVJhblVjeXN3c0xSQzhoTGtIMHN0bFF4XzZDTDUtR0M1ZG15WWk3OVZiS0NQNTVzV1piYkRreW5HUUJDdWgtVmE0RnhYcjhsbWdEWVg4MkVqbzUzSWg5aGs?oc=5",
+      "published": "2026-10-30T06:02:00+09:00",
+      "tags": [],
+      "event": "il-misc-blogs",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "Haftarat Parshat Vayera: Here I Am, My Son",
+      "title_ko": "바예라 주간 하프타라: '내가 여기 있다, 내 아들아'",
+      "summary_ko": "주간 토라 독송(하프타라) 관련 종교 칼럼.",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90WnpERVMwVHlMa3UwT1RMeFNrTzVEaTZIWlNkMVFUcHZ3QUU5RFlvZHN4RHNaZjNKbEVqMGpsOEoxa25wdGszLVZ5bXJoMlFLSmRBcGo1NDRQbktNMTd5aDE2YUFqZ3IxUEhoaENWNmNoNk5fZ2VQRDdtUGJxdw?oc=5",
+      "published": "2026-10-30T05:50:00+09:00",
+      "tags": [],
+      "event": "il-misc-blogs",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "A Night at Binyanei Hauma: More Than Just Counting Votes",
+      "title_ko": "빈야네이 하우마의 밤: 단순한 개표 그 이상",
+      "summary_ko": "예루살렘 빈야네이 하우마(개표 장소)에서의 개표 현장 기고(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWUF6bml0cG5CQTVwamVhUDZkbklXcDNiUXZsY09DQld2VWQzQnRjSjU3UnhSdGlHckdEcWhONTkyQktxOEFWRXY3QmV4NHpCczQ0OENtY2d5bkgyaVpuZ2dCamtPYmZZVUM0Um1tYXItNnBULVZNc2M5aS1kWW82OFhEUVlPTllBaWNWMGlINmlhUQ?oc=5",
+      "published": "2026-10-30T05:41:00+09:00",
+      "tags": [],
+      "event": "il-misc-blogs",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Blogs: Vayera: When Hesitation Becomes Paralysis",
+      "title_ko": "[블로그] 바예라: 망설임이 마비가 될 때",
+      "summary_ko": "Times of Israel 블로그 종교 칼럼(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DVC1DRUJkekpKX3dKZ2dmbEU5dkI4Nm9EenNsMmpkQjZFNnB1d0xpRlZQaXNxT0tPa2k2VU53SG9vcllpZmpDZ1RuUlRqSEwwM2ZLVWpwa1JiZjlKWlJpMXdCVUhoMmRFWnFiVzAxSnFmdnFyU29RRHZ0Q1l2UQ?oc=5",
+      "published": "2026-10-30T05:39:00+09:00",
+      "tags": [],
+      "event": "il-misc-blogs",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Blogs: And salt she became",
+      "title_ko": "[블로그] 그리고 그녀는 소금이 되었다",
+      "summary_ko": "Times of Israel 블로그 기고(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1UnpIQzRVUVRRb1doUlh0STZLaFA0SjF1MVVHS21iQ2IxM0N0a0t6VEktR3JYeGwzU1dfRldjZTQ1ZjJFOFQyQkdmQ1VVWUtFNTV5QzV5TjFJa2R4cE1adlBR?oc=5",
+      "published": "2026-10-30T05:28:00+09:00",
+      "tags": [],
+      "event": "il-misc-blogs",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "Could Arab Parties Embrace a Jewish and Democratic Israel?",
+      "title_ko": "아랍 정당들이 유대적·민주적 이스라엘을 받아들일 수 있을까?",
+      "summary_ko": "아랍 정당의 정부 참여 가능성을 다룬 기고(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS1d3N0c1aTdiRXV2ODh2dkdsN0VGVHVDS3JXMnUxamFBd2JZU2FBak1oVUdaUG5qNE1IaUNrcU5HVXcwODZmZXQ5NGdQb3pzRzRzQVA0SG00eVhnbGxJWmxOck5OS3NSUnNyMEZrYkNXek9TRVoxa2FKYWxkNTZaYTNPTjN1REkwdGpYSkp4UllJRFAy?oc=5",
+      "published": "2026-10-30T05:26:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "il-election-arab-parties-coalition",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "Israel Needs a Government. The Division Must End",
+      "title_ko": "이스라엘엔 정부가 필요하다. 분열은 끝나야 한다",
+      "summary_ko": "총선 후 정부 구성과 분열 종식을 촉구하는 기고(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNjREUkVKMzNwU2dJaGV1c1VNSThWcDNsUmRTQ0tZWHVSbVdpX2x6YjlqVGxtUFRuNkNLVmdPbVh4bjd6N1Vmc2V3VmIwVGpqUkJoVG5tWVU4NUdLMElVSWp4WDZlWnRJM04zS1pMUUFuYWRiVjRjaF9hdl82eU5rU2NMNV8tNFU?oc=5",
+      "published": "2026-10-30T05:18:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "il-election-deadlock",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Blogs: A muddy and messy affair",
+      "title_ko": "[블로그] 진흙투성이의 지저분한 일",
+      "summary_ko": "Times of Israel 블로그 기고(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RODVLZ3lYVGJtUXZZbEprX2xSZVVFbmtiZ3Nvc2ZfVk1DQS1KRm1sZlE3NFVsNGNjQWhMeDFhVzh6ZEZydWp3R2MtMFVDU2k2cmxyYXFxVUpUM2tXc3pSU3E5MnJvZmNU?oc=5",
+      "published": "2026-10-30T05:15:00+09:00",
+      "tags": [],
+      "event": "il-misc-blogs",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Israel's election deadlock leaves Europe waiting and Trump weighing his options",
+      "title_ko": "이스라엘 총선 교착… 유럽은 기다리고 트럼프는 선택지 저울질",
+      "summary_ko": "서방 정부들은 이번 총선으로 서안·가자 정책 변화를 기대했다. 한 서방 외교관은 하레츠에 그런 변화가 없으면 이스라엘에 대한 제재성 조치에 반대하는 나라들이 입장을 유지하기 어려울 것이라고 말했다.",
+      "url": "https://www.haaretz.com/israel-news/elections/2026-10-29/ty-article/.premium/israels-election-deadlock-leaves-europe-waiting-and-trump-weighing-his-options/000001a1-88fc-d2b4-a1f3-8dfe80f10000",
+      "published": "2026-10-30T05:29:32+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "il-election-deadlock",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Republican senator says Muslim Senate nominee El-Sayed is unfit because he's not Chrisitan",
+      "title_ko": "美 공화당 상원의원, 무슬림 상원 후보 엘사예드는 기독교인이 아니라 부적격이라고 발언",
+      "summary_ko": "반유대주의 감시단체 넥서스 프로젝트는 모레노 의원을 비판하며, 예수에 대한 믿음을 공직 자격 기준으로 삼으면 모든 비기독교인이 배제된다고 경고하고 양당에 그 메시지를 거부하라고 촉구했다.",
+      "url": "https://www.haaretz.com/us-news/2026-10-29/ty-article/.premium/gop-senator-says-hopeful-el-sayed-is-unfit-because-hes-not-christian/000001a1-892c-d73c-abb3-fd7f712b0000",
+      "published": "2026-10-30T05:02:44+09:00",
+      "tags": [],
+      "event": "us-senate-religion-remark",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "King of the algorithm: How Netanyahu enjoys the role of undisputed ruler of Israel's social media feeds",
+      "title_ko": "알고리즘의 왕: 네타냐후는 어떻게 이스라엘 소셜미디어 피드를 지배했나",
+      "summary_ko": "하레츠 조사 결과 플랫폼들이 네타냐후를 아이젠코트보다 3배 더 자주 추천했고, 정적들이 오히려 그를 띄워 주었으며, 채널14 미디어그룹이 추가로 힘을 실어 주었다.",
+      "url": "https://www.haaretz.com/israel-news/security-aviation/2026-10-29/ty-article-magazine/.premium/how-netanyahu-enjoys-the-role-of-undisputed-ruler-of-israels-social-media-feeds/000001a1-8766-dceb-abfd-bf7f334c0000",
+      "published": "2026-10-30T04:58:33+09:00",
+      "tags": [],
+      "event": "il-election-social-media",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "'They call me Abu Yair': When it served him, Netanyahu asked Arab voters to be partners",
+      "title_ko": "'날 아부 야이르라 부른다': 필요할 때 네타냐후는 아랍 유권자에게 동반자가 되자고 했다",
+      "summary_ko": "과거 선거에서 네타냐후는 '정부에 들어올 것이다, 이번엔 진짜 안쪽에 있게 된다'며 팔레스타인계 이스라엘인에게 공개적으로 지지를 호소했다.",
+      "url": "https://www.haaretz.com/israel-news/elections/2026-10-29/ty-article/.premium/they-call-me-abu-yair-when-it-served-him-netanyahu-asked-arab-voters-to-be-partners/000001a1-882a-d2b4-a1f3-8dba35070000",
+      "published": "2026-10-30T04:38:09+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "il-election-arab-parties-coalition",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Protesters call on Yashar's Eisenkot to form government backed by Arab parties",
+      "title_ko": "시위대, 야샤르 당 아이젠코트에게 아랍 정당 지지 기반 정부 구성 촉구",
+      "summary_ko": "통합아랍리스트(라암) 대표 만수르 아바스와 민주당 대표 야이르 골란은 목요일 '협력 구축 방안'을 논의했고, 조인트리스트 대표 유세프 자바린은 네타냐후 교체를 위해 '길을 닦을' 준비가 됐다고 말했다.",
+      "url": "https://www.haaretz.com/israel-news/elections/2026-10-29/ty-article/.premium/protesters-call-on-eisenkot-to-team-up-with-arab-parties/000001a1-890b-dd01-a9ed-ababe1cd0000",
+      "published": "2026-10-30T04:33:02+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "il-election-arab-parties-coalition",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Israel election count completed: These are the final results",
+      "title_ko": "이스라엘 총선 개표 완료: 최종 결과",
+      "summary_ko": "570만 명 이상이 투표했고 25,789표가 무효 처리됐다. 30만6,679표는 봉쇄조항을 넘지 못한 정당에 돌아갔으며, 개표는 약 1만3,000개 투표소를 대상으로 했다.",
+      "url": "https://www.haaretz.com/israel-news/elections/2026-10-29/ty-article/.premium/israel-election-count-completed-these-are-the-final-results/000001a1-88f2-def7-adad-8afabb6f0000",
+      "published": "2026-10-30T04:13:58+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation"
+      ],
+      "event": "il-election-final-results",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Lula's victory in Brazil will shape our kids' future no less than a Netanyahu defeat",
+      "title_ko": "브라질 룰라의 승리는 네타냐후 패배 못지않게 우리 아이들의 미래를 좌우할 것",
+      "summary_ko": "룰라 브라질 대통령의 아마존 보호 노력이 기후위기에 맞설 기회를 주고 있다는 칼럼.",
+      "url": "https://www.haaretz.com/science-and-health/nature-environment/2026-10-29/ty-article-magazine/.highlight/lulas-victory-in-brazil-will-shape-our-kids-future-no-less-than-bibis-defeat/000001a1-87be-def7-adad-8ffe513c0000",
+      "published": "2026-10-30T04:12:33+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "brazil-lula-victory-opinion",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Israel's opposition won the numbers to defeat Netanyahu. It may defeat itself instead",
+      "title_ko": "이스라엘 야권은 네타냐후를 이길 의석을 얻었지만 스스로 무너질 수도",
+      "summary_ko": "네타냐후의 독주가 역사적인 아랍-유대 협력의 문을 열었지만, 야권이 그의 반아랍 수사에 굴복하면 이를 날릴 수 있다. 야권은 아랍 정당 배제와 네타냐후 축출 중 어느 공약을 깰지 선택해야 한다는 칼럼.",
+      "url": "https://www.haaretz.com/israel-news/elections/2026-10-29/ty-article/.premium/israels-opposition-won-the-numbers-to-defeat-netanyahu-it-may-defeat-itself/000001a1-875c-dabc-afb5-ffdeb1f90000",
+      "published": "2026-10-30T04:04:31+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "il-election-arab-parties-coalition",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Opinion: Why are Israelis surprised Arab voters showed up?",
+      "title_ko": "[오피니언] 아랍 유권자들이 투표하러 나온 게 왜 놀라운가?",
+      "summary_ko": "아랍 유권자 투표 참여를 다룬 오피니언(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NdGZGOXpITHlvZjQ1NF9KVEcydE1HNnNtRzJiamw1U2NBZlc2S1FBeUZ6SFZJUGdiNzI5NlpZQlBneXItSHBPVnZSenhlSFBjT1B1YWRodw?oc=5",
+      "published": "2026-10-30T05:38:53+09:00",
+      "tags": [],
+      "event": "il-election-arab-parties-coalition",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Egyptian man who fire-bombed pro-Israel rally in Colorado pleads guilty to federal hate crimes",
+      "title_ko": "콜로라도 친이스라엘 집회에 화염병 던진 이집트인, 연방 증오범죄 유죄 인정",
+      "summary_ko": "콜로라도의 친이스라엘 집회에 화염병을 던진 이집트 남성이 연방 증오범죄 혐의에 대해 유죄를 인정했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52U283NTBVYmFPNTBzZjgxTGlSZ1FKVzl0a2loTU9ORmotSFZzLTBQNnljRTJaRWNtbnItNlFjcFhhSUdaREdzaThDVUdrUTJscFg4cU0xTDZYRWhKN0d4bTBBTnBrRnp4a0E?oc=5",
+      "published": "2026-10-30T05:31:29+09:00",
+      "tags": [],
+      "event": "us-colorado-firebomb-plea",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Israel Election 2026: Netanyahu's Likud remains Israel's biggest party",
+      "title_ko": "2026 이스라엘 총선: 네타냐후의 리쿠드, 제1당 유지",
+      "summary_ko": "네타냐후가 이끄는 리쿠드가 이스라엘 최대 정당 자리를 지켰다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oeHhfTnotN1N5OU1vQ1lzRHUwTm5QUEdQd0k1bGxEWXRORldPalZGbVktUzNrMTRPT1pGZk0zLWlvMFNRV3RoOUpfeWIwQ0dPNHM3Q0thX1R4SHlCOXlNYmZ4SWFsRWdW?oc=5",
+      "published": "2026-10-30T05:31:20+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation"
+      ],
+      "event": "il-election-final-results",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Majority of opposition voters back Eisenkot-led government with Arab party Ra'am - poll",
+      "title_ko": "야권 지지자 과반, 아랍 정당 라암 참여 아이젠코트 주도 정부 지지 — 여론조사",
+      "summary_ko": "여론조사에서 야권 지지자 과반이 아랍 정당 라암이 참여하는 아이젠코트 주도 정부를 지지했다(제목 기준, 조사 수치는 원문 미기재).",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WbEZHZUtTMmY3UU0wWnhoX0pYVjI0SlZXeWt3cDRqd3RtZXhORmlHbk42NmxvT0JxdV9nR2w3NDdfOXM2aHFDSHV2QTUyaDBoOGpjVjM4Q2pCdktzWWx1OUdoRWQzN05y?oc=5",
+      "published": "2026-10-30T04:20:29+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "il-election-arab-parties-coalition",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "High Court demands answers on Israel's media law",
+      "title_ko": "대법원, 이스라엘 미디어법에 대해 해명 요구",
+      "summary_ko": "이스라엘 대법원이 미디어법과 관련해 답변을 요구했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JUTFmdXhZbGdRVGltbm9DR2JDWmhWZ29LQjFrb2U4QVhUWDM4T0k3M0N0aUJYemlRanZEeWswN043dzdfSk9laXAwRG1IT2hqSGVOT25IcHd4U0ZV?oc=5",
+      "published": "2026-10-30T04:12:45+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "il-media-law-high-court",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Three arrested after haredi protest clashes wound multiple protesters, three police officers",
+      "title_ko": "하레디 시위 충돌로 시위대 다수·경찰 3명 부상, 3명 체포",
+      "summary_ko": "하레디(초정통파) 시위 중 충돌로 시위대 여러 명과 경찰관 3명이 다쳤고 3명이 체포됐다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50Rk9xdWJxcVdlamRoTUhUczhLYXczZThnOWNTV0EtOWo4cFpRdFVGSzBrSzd5a0p3OU5KX1NiemZuMUxFS29RaU1TOTRJTHg4MHpKa1pCaDFvNktQ?oc=5",
+      "published": "2026-10-30T04:04:38+09:00",
+      "tags": [],
+      "event": "il-haredi-protest-clash",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "10 good SEO agencies in Singapore & what goes into their work",
+      "title_ko": "싱가포르의 좋은 SEO 대행사 10곳과 그 업무",
+      "summary_ko": "광고성 콘텐츠로 보이는 기사(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNRE1lc2ZzREtmTVkyaHNwbFE0SXdaZWVNaUZKOEVxdkdDQ3ZoV0g5WEZxQXg2NUJmUk8tczdSQ0dYUUJsYUxFYk43allucTVMM2gtekRWREIxUkxPQ1dPQUlzVm50MWs1elpmX0YzNDJhMk95aXVrbw?oc=5",
+      "published": "2026-10-30T03:53:16+09:00",
+      "tags": [],
+      "event": "il-misc-sponsored",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Israel's next government must confront Arab inclusion",
+      "title_ko": "이스라엘 차기 정부는 아랍 포용 문제에 직면해야 한다",
+      "summary_ko": "차기 정부가 아랍 시민·정당 포용 문제를 다뤄야 한다는 기사(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8ycWFDbEt3ajlzTE1zWG16bDNjZGx4VDBxME52MXVvYUYtT21yR2RfVzk0ajFYbjJLMS1SOFhZNjZBNXMxSXRwQzVKQnhiSElqUlJfOUdhNA?oc=5",
+      "published": "2026-10-30T03:42:12+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "il-election-arab-parties-coalition",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Polymarket Investigating Suspected Insider Trading in Israeli Election",
+      "title_ko": "폴리마켓, 이스라엘 총선 관련 내부자 거래 의혹 조사",
+      "summary_ko": "예측시장 폴리마켓이 이스라엘 총선 관련 내부자 거래 의혹을 조사하고 있다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jRmlEcnBYVU8tUFlKclBsSXdhVXY4aHo5bUIzZVBqeDU4bUg5TkdrVHA2a0JMdkZ0ZkxBc0hqdGU4T1U0eWpGRXJOXzFXTHRQTThtbA?oc=5",
+      "published": "2026-10-30T06:10:21+09:00",
+      "tags": [
+        "crypto"
+      ],
+      "event": "polymarket-il-election-insider",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Netanyahu and Smotrich Meet to Coordinate Steps",
+      "title_ko": "네타냐후·스모트리치 회동, 향후 행보 조율",
+      "summary_ko": "네타냐후와 스모트리치가 만나 향후 조치를 조율했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZUWpSM2FFRUw3TFRBekRXamduMVRsU09LUTVPdGJpMUdXRENKX0NPWFJWM1ZuOEJ1bE5nMVdnYXA0YW0wX0NHOXVidUJ5T1hpVFZhWQ?oc=5",
+      "published": "2026-10-30T05:50:20+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "il-netanyahu-smotrich-meeting",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "First Title After 14 Years: Hapoel Tel Aviv Wins Derby, Claims Toto Cup",
+      "title_ko": "14년 만의 첫 우승: 하포엘 텔아비브, 더비 승리로 토토컵 차지",
+      "summary_ko": "하포엘 텔아비브가 더비에서 이겨 14년 만에 첫 우승(토토컵)을 차지했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96dzkxOTU4X0s0b2JyRFBwSWJsQjBoejVIdmtzdmh6M0FvZmxWLWVQYzV6S2tQVG1IcG82cm52RXZxOE1tWFd6TkdhYXQwODNiSDJLLQ?oc=5",
+      "published": "2026-10-30T05:36:50+09:00",
+      "tags": [],
+      "event": "il-sports-toto-cup",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "AliExpress opens platform to Israeli sellers, promising faster deliveries, competitive prices",
+      "title_ko": "알리익스프레스, 이스라엘 판매자에 플랫폼 개방… 배송 단축·가격 경쟁력 약속",
+      "summary_ko": "알리익스프레스가 이스라엘 판매자에게 플랫폼을 열고 더 빠른 배송과 경쟁력 있는 가격을 약속했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FU1pJUWVzbGhiaFdEMzZfY3gxbkJwVHg1c3FkYkRCS1U2bk5scHpKZERILTlNN1haenk4ZlB6bURhZFgyZ3lQZnNUSXZCTTJrSUtHTXZ0bnZRSXdBNWF4dlZR?oc=5",
+      "published": "2026-10-30T04:35:44+09:00",
+      "tags": [
+        "business",
+        "industry"
+      ],
+      "event": "aliexpress-israel-sellers",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Israeli startup Bites raises $40 million to train restaurant workers",
+      "title_ko": "이스라엘 스타트업 바이츠, 식당 직원 교육용으로 4,000만 달러 유치",
+      "summary_ko": "이스라엘 스타트업 바이츠(Bites)가 식당 종업원 교육 사업으로 4,000만 달러를 조달했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UR2cyX3FsZTltNkRnRXBGZVFoaTMxeVdVSFhtNGwxMjRIaTVNVThUOVhyZ2F0Y0xtZF9xM1N1ekRjRzhPbkY0Vlp1bkFOb1JJem04WXRmQmZ5bUFXQkFVdmozVQ?oc=5",
+      "published": "2026-10-30T04:33:17+09:00",
+      "tags": [
+        "business",
+        "industry"
+      ],
+      "event": "bites-funding",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Alone in a small boat against the storm: Israeli sailor's ordeal in the open ocean",
+      "title_ko": "폭풍 속 작은 배에 홀로: 이스라엘 선원의 망망대해 사투",
+      "summary_ko": "이스라엘 선원이 홀로 작은 배로 폭풍을 겪은 이야기(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWV1pYalUzOW1hdjNTZTFhZjhrdnJKb0s5Yl81MlVFLUw1UmhlYWVuZGZiNVZUS0h4SkIzcTVxTkJQbVN6MVZLd195bFBDd1l1UUc0RDEtazdMLVp3QzNF?oc=5",
+      "published": "2026-10-30T04:31:25+09:00",
+      "tags": [],
+      "event": "il-misc-sailor",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "They flew home to vote in Israel, only to face another political deadlock",
+      "title_ko": "투표하러 귀국했지만 또다시 정치 교착에 직면",
+      "summary_ko": "이스라엘에 투표하러 귀국한 유권자들이 다시 정치적 교착 상태를 맞았다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tSVpDbEFJdHI5Y05MYnlfNWs2aUlCZ2Nmb2R5MkVwQ09CTWFZZy1pYXY3bm00S09ib0NrLWpVb3NhemVrQWFhczRuRjE1am9QcGcyenhPbw?oc=5",
+      "published": "2026-10-30T04:27:58+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "il-election-deadlock",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Health Ministry: Rabid Jackal Found Near Gesher Kibbutz, One Person Exposed",
+      "title_ko": "보건부: 게셰르 키부츠 인근서 광견병 자칼 발견, 1명 노출",
+      "summary_ko": "보건부에 따르면 게셰르 키부츠 인근에서 광견병에 걸린 자칼이 발견됐고 1명이 노출됐다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RNzJZbGpoOGdNMVo5ZW5URGZTcmV3eVNuLW5FU2tnV2J2ckVrRzFYbHlCOEM4WXA2ZjlXMU1rUXk0Zk1PemQ2cDdkU3Y0RzI2RTVxTA?oc=5",
+      "published": "2026-10-30T03:32:38+09:00",
+      "tags": [],
+      "event": "il-rabies-jackal",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Court approves debt settlement for REE Automotive",
+      "title_ko": "법원, REE 오토모티브 채무조정 승인",
+      "summary_ko": "나스닥 상장 당시 기업가치 31억 달러였으나 현재 장외(OTC)시장에서 거래되는 이스라엘 오토테크 기업으로, 부채가 총 5,100만 셰켈이다.",
+      "url": "https://en.globes.co.il/en/article-1001561423#utm_source=RSS",
+      "published": "2026-10-30T02:56:00+09:00",
+      "tags": [
+        "business",
+        "stocks"
+      ],
+      "event": "ree-automotive-debt-settlement",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Ehud Schneorson leaving Paragon to join new cyber co",
+      "title_ko": "에후드 슈네오르손, 파라곤 떠나 신생 사이버 기업 합류",
+      "summary_ko": "신생 기업 리본(Ribon)은 정식 설립 전부터 대규모 투자 약정을 확보했다.",
+      "url": "https://en.globes.co.il/en/article-1001561422#utm_source=RSS",
+      "published": "2026-10-30T02:53:00+09:00",
+      "tags": [
+        "business",
+        "industry"
+      ],
+      "event": "ribon-cyber-startup",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Thu: Market steadies",
+      "title_ko": "목요일 장: 시장 안정",
+      "summary_ko": "전날 급락 후 주요 지수가 이날 소폭 올랐으며, 주요 종목 가운데 엘빗 시스템즈가 두드러졌다.",
+      "url": "https://en.globes.co.il/en/article-1001561413#utm_source=RSS",
+      "published": "2026-10-30T01:32:00+09:00",
+      "tags": [
+        "stocks"
+      ],
+      "event": "tase-market-thursday",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Count complete: Likud has 27 Knesset seats, Shas drops to 6",
+      "title_ko": "개표 완료: 리쿠드 27석, 샤스 6석으로 하락",
+      "summary_ko": "현 연정은 53석, 야권 '변화 블록'은 48석, 아랍 정당들은 19석을 얻었다.",
+      "url": "https://en.globes.co.il/en/article-1001561412#utm_source=RSS",
+      "published": "2026-10-30T01:15:00+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation"
+      ],
+      "event": "il-election-final-results",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "ZIM-operated ship sinks in Black Sea after drone strike",
+      "title_ko": "ZIM 운영 선박, 드론 공격 후 흑해서 침몰",
+      "summary_ko": "선원은 무사히 구조됐으나 선적된 컨테이너 421개는 불가리아 연안에서 선박과 함께 가라앉았다.",
+      "url": "https://en.globes.co.il/en/article-1001561300#utm_source=RSS",
+      "published": "2026-10-29T22:36:00+09:00",
+      "tags": [
+        "geopolitics",
+        "business",
+        "industry"
+      ],
+      "event": "black-sea-zim-ship-sunk",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Gasoline prices to fall Saturday night then rise more sharply",
+      "title_ko": "휘발유 가격, 토요일 밤 인하 후 더 큰 폭 인상",
+      "summary_ko": "정부 가격 통제 대상인 95옥탄 셀프 휘발유 최고가가 11월 1일 리터당 0.42셰켈 내린 뒤 11월 4일 1셰켈 오른다.",
+      "url": "https://en.globes.co.il/en/article-1001561295#utm_source=RSS",
+      "published": "2026-10-29T22:02:00+09:00",
+      "tags": [
+        "business",
+        "monetary"
+      ],
+      "event": "il-gasoline-price",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Mobileye falls despite beating analysts on Q3",
+      "title_ko": "모빌아이, 3분기 실적 예상치 상회에도 주가 하락",
+      "summary_ko": "후계 CEO(암논 샤슈아 후임)가 지명되지 않은 탓으로 보이며 주가가 약세다.",
+      "url": "https://en.globes.co.il/en/article-1001561293#utm_source=RSS",
+      "published": "2026-10-29T21:41:14+09:00",
+      "tags": [
+        "stocks",
+        "business"
+      ],
+      "event": "mobileye-q3",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Salesforce in talks to lease Tel Aviv office space in ToHa2",
+      "title_ko": "세일즈포스, 텔아비브 토하2 사무실 임차 협상",
+      "summary_ko": "미국 기업용 소프트웨어 대기업 세일즈포스가 5년간 2개 층을 임차하는 1억4,000만 셰켈 규모 계약을 막바지 협상 중이다.",
+      "url": "https://en.globes.co.il/en/article-1001561253#utm_source=RSS",
+      "published": "2026-10-29T17:36:36+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "salesforce-toha2-lease",
+      "state_media": false
+    }
+  ],
+  "events": [
+    {
+      "event": "il-election-arab-parties-coalition",
+      "title_ko": "아랍 정당 참여 정부 구성 논쟁",
+      "sources": [
+        "i24NEWS",
+        "Times of Israel",
+        "Haaretz",
+        "Jerusalem Post"
+      ],
+      "count": 8
+    },
+    {
+      "event": "il-election-final-results",
+      "title_ko": "이스라엘 총선 개표 완료: 리쿠드 제1당, 네타냐후 진영 과반 미달",
+      "sources": [
+        "i24NEWS",
+        "Haaretz",
+        "Jerusalem Post",
+        "Globes"
+      ],
+      "count": 4
+    },
+    {
+      "event": "il-election-deadlock",
+      "title_ko": "총선 후 정치 교착·정부 구성 지연",
+      "sources": [
+        "Times of Israel",
+        "Haaretz",
+        "Ynet News"
+      ],
+      "count": 3
+    },
+    {
+      "event": "black-sea-zim-ship-sunk",
+      "title_ko": "흑해서 ZIM 운영 화물선 드론 공격으로 침몰",
+      "sources": [
+        "i24NEWS",
+        "Globes"
+      ],
+      "count": 2
+    },
+    {
+      "event": "il-misc-blogs",
+      "title_ko": "Times of Israel 블로그·종교 칼럼(비뉴스)",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 6
+    },
+    {
+      "event": "il-misc-lyrics",
+      "title_ko": "노래 'Say It'(크리스토퍼 케네스 브라이드) 가사",
+      "sources": [
+        "N12 (Channel 12)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "us-iran-military-options",
+      "title_ko": "트럼프, 백악관 브리핑에서 이란 군사 옵션 검토 — 보도",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "il-soldier-iran-espionage",
+      "title_ko": "이스라엘 군인, 이란 공작원에 민감 군사정보 넘긴 혐의로 기소",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "il-election-legitimacy-dispute",
+      "title_ko": "아이젠코트, 신베트 수사 속 네타냐후가 선거 결과 정당성 훼손한다고 비난",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "il-misc-election-index",
+      "title_ko": "2026 총선 기사 모음: 분석과 업데이트",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "il-misc-author-page",
+      "title_ko": "엘리프 에를랍 관련 뉴스·최신 헤드라인",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "us-senate-religion-remark",
+      "title_ko": "美 공화당 상원의원, 무슬림 상원 후보 엘사예드는 기독교인이 아니라 부적격이라고 발언",
+      "sources": [
+        "Haaretz"
+      ],
+      "count": 1
+    },
+    {
+      "event": "il-election-social-media",
+      "title_ko": "알고리즘의 왕: 네타냐후는 어떻게 이스라엘 소셜미디어 피드를 지배했나",
+      "sources": [
+        "Haaretz"
+      ],
+      "count": 1
+    },
+    {
+      "event": "brazil-lula-victory-opinion",
+      "title_ko": "브라질 룰라의 승리는 네타냐후 패배 못지않게 우리 아이들의 미래를 좌우할 것",
+      "sources": [
+        "Haaretz"
+      ],
+      "count": 1
+    },
+    {
+      "event": "us-colorado-firebomb-plea",
+      "title_ko": "콜로라도 친이스라엘 집회에 화염병 던진 이집트인, 연방 증오범죄 유죄 인정",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "il-media-law-high-court",
+      "title_ko": "대법원, 이스라엘 미디어법에 대해 해명 요구",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "il-haredi-protest-clash",
+      "title_ko": "하레디 시위 충돌로 시위대 다수·경찰 3명 부상, 3명 체포",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "il-misc-sponsored",
+      "title_ko": "싱가포르의 좋은 SEO 대행사 10곳과 그 업무",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "polymarket-il-election-insider",
+      "title_ko": "폴리마켓, 이스라엘 총선 관련 내부자 거래 의혹 조사",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "il-netanyahu-smotrich-meeting",
+      "title_ko": "네타냐후·스모트리치 회동, 향후 행보 조율",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "il-sports-toto-cup",
+      "title_ko": "14년 만의 첫 우승: 하포엘 텔아비브, 더비 승리로 토토컵 차지",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "aliexpress-israel-sellers",
+      "title_ko": "알리익스프레스, 이스라엘 판매자에 플랫폼 개방… 배송 단축·가격 경쟁력 약속",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "bites-funding",
+      "title_ko": "이스라엘 스타트업 바이츠, 식당 직원 교육용으로 4,000만 달러 유치",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "il-misc-sailor",
+      "title_ko": "폭풍 속 작은 배에 홀로: 이스라엘 선원의 망망대해 사투",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "il-rabies-jackal",
+      "title_ko": "보건부: 게셰르 키부츠 인근서 광견병 자칼 발견, 1명 노출",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ree-automotive-debt-settlement",
+      "title_ko": "법원, REE 오토모티브 채무조정 승인",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ribon-cyber-startup",
+      "title_ko": "에후드 슈네오르손, 파라곤 떠나 신생 사이버 기업 합류",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "tase-market-thursday",
+      "title_ko": "목요일 장: 시장 안정",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "il-gasoline-price",
+      "title_ko": "휘발유 가격, 토요일 밤 인하 후 더 큰 폭 인상",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "mobileye-q3",
+      "title_ko": "모빌아이, 3분기 실적 예상치 상회에도 주가 하락",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "salesforce-toha2-lease",
+      "title_ko": "세일즈포스, 텔아비브 토하2 사무실 임차 협상",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    }
+  ],
+  "unavailable_sources": [
+    "Kan (KAN News)"
+  ]
+}

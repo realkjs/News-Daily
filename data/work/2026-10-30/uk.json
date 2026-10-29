@@ -1,0 +1,1458 @@
+{
+  "team": "uk",
+  "headlines": [
+    {
+      "source": "BBC",
+      "title_original": "'Continue your journey': Key moments of leaked Spain train crash audio",
+      "title_ko": "'계속 운행하라': 유출된 스페인 열차 충돌 음성의 주요 장면",
+      "summary_ko": "관제센터와 기관사 간 녹음에 따르면 다른 열차가 선로에 멈춰 서 있었는데도 한 열차에 운행 허가가 내려진 것으로 보인다.",
+      "url": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T05:50:25+09:00",
+      "tags": [],
+      "event": "spain-train-crash-audio",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "King Charles arrives in Guyana as Bahamas visit declared 'diplomatic success'",
+      "title_ko": "찰스 국왕 가이아나 도착…바하마 방문은 '외교적 성공'으로 평가",
+      "summary_ko": "국왕이 바하마를 떠나며 대변인은 바하마 제도가 '국왕의 마음속에 특별한 자리'를 차지한다고 말했다.",
+      "url": "https://www.bbc.co.uk/news/articles/c893zev54341o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T05:35:05+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "king-charles-caribbean-tour",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Zverev seals world number one spot after win",
+      "title_ko": "즈베레프, 승리로 세계 1위 확정",
+      "summary_ko": "알렉산더 즈베레프가 빈 대회 8강에 올라 가장 이른 시점에 야니크 신네르를 제치고 남자 세계 1위에 오르게 됐다.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cwdr8m8g4jz2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T05:25:37+09:00",
+      "tags": [],
+      "event": "zverev-world-number-one",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
+      "title_ko": "패트릭 스튜어트 경: 스타트렉과 셰익스피어를 자유롭게 오간 배우",
+      "summary_ko": "영국 배우인 그는 무대에서 경력을 시작해 USS 엔터프라이즈호 선장 역으로 명성을 얻었다.",
+      "url": "https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T05:24:59+09:00",
+      "tags": [],
+      "event": "patrick-stewart-death",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "title_ko": "이스라엘 야당, 네타냐후가 선거를 '정당성 훼손'하려 한다고 비판",
+      "summary_ko": "총리의 리쿠드당은 연립정부가 과반을 잃은 뒤 외국 개입을 주장하며 아랍계 정당들이 선거를 '훔쳤다'고 했다.",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T05:21:54+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "israel-election-dispute",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+      "title_ko": "'도시가 살아났다': 헤르손의 짧은 평화, 주민들은 다음을 두려워해",
+      "summary_ko": "일시 휴전으로 헤르손에 드문 고요가 찾아와 주민들이 전투 재개 전 일상의 단면을 맛보고 있다.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T05:05:57+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-kherson-truce",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Jury shown CCTV of Huntingdon train staff using frying pan in defence",
+      "title_ko": "배심원단, 헌팅던 열차 승무원이 프라이팬으로 방어하는 CCTV 시청",
+      "summary_ko": "법정에서 한 열차 승무원이 '생명을 구하려는 순수한 용기와 용감함'을 보였다는 진술이 나왔다.",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8qpdeym4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T05:02:27+09:00",
+      "tags": [],
+      "event": "huntingdon-train-attack-trial",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "More than 43 million ballots cast so far in midterms early voting surge",
+      "title_ko": "미국 중간선거 사전투표 급증…지금까지 4,300만 표 이상 투표",
+      "summary_ko": "히스패닉 유권자들이 사전투표 수치를 끌어올렸으며, 일부 경합 카운티에서는 이전 선거의 전체 투표율을 웃도는 것으로 보인다.",
+      "url": "https://www.bbc.co.uk/news/articles/c30rlxkjv2yko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T04:50:07+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-midterms",
+      "state_media": false
+    },
+    {
+      "source": "Sky News",
+      "title_original": "Star Trek and X-Men actor Sir Patrick Stewart dies",
+      "title_ko": "스타트렉·엑스맨 배우 패트릭 스튜어트 경 별세",
+      "summary_ko": "패트릭 스튜어트 경이 '알츠하이머와의 짧고 가슴 아픈 여정' 끝에 세상을 떠났다.",
+      "url": "https://news.sky.com/story/star-trek-and-x-men-actor-sir-patrick-stewart-dies-13605543",
+      "published": "2026-10-30T04:44:00+09:00",
+      "tags": [],
+      "event": "patrick-stewart-death",
+      "state_media": false
+    },
+    {
+      "source": "Sky News",
+      "title_original": "FIFA to double Women's World Cup prize money - but it doesn't match men's tournament",
+      "title_ko": "FIFA, 여자 월드컵 상금 두 배로…남자 대회 수준엔 못 미쳐",
+      "summary_ko": "FIFA가 내년 여자 월드컵 상금을 두 배로 늘릴 계획이지만 남자 대회와 같은 상금을 주겠다는 인판티노 회장의 목표는 이루지 못한다고 스카이뉴스가 파악했다.",
+      "url": "https://news.sky.com/story/fifa-to-double-womens-world-cup-prize-money-but-it-doesnt-match-mens-tournament-13605433",
+      "published": "2026-10-30T01:25:00+09:00",
+      "tags": [],
+      "event": "fifa-womens-world-cup-prize",
+      "state_media": false
+    },
+    {
+      "source": "Sky News",
+      "title_original": "Met refers itself to police watchdog over handling of letter about Meghan's father",
+      "title_ko": "런던경찰청, 메건 아버지 관련 서한 처리 문제로 경찰감시기구에 자진 회부",
+      "summary_ko": "런던경찰청이 서식스 공작부인의 아버지 토머스 마클 시니어에 관한 의혹이 담긴 서한 처리와 관련해 독립경찰행위감시청(IOPC)에 스스로를 회부했다.",
+      "url": "https://news.sky.com/story/met-refers-itself-to-police-watchdog-over-handling-of-letter-about-meghans-father-13605429",
+      "published": "2026-10-30T01:16:00+09:00",
+      "tags": [],
+      "event": "met-meghan-letter-iopc",
+      "state_media": false
+    },
+    {
+      "source": "Sky News",
+      "title_original": "Google owner Alphabet suffers its worst-ever day on stock market - as value plunges $500bn",
+      "title_ko": "구글 모회사 알파벳, 사상 최악의 주가 하락…시가총액 5,000억 달러 증발",
+      "summary_ko": "알파벳 주가가 미국 증시에서 12% 넘게 떨어져 사상 최악의 하루를 기록했고 시가총액 약 5,000억 달러(약 반 조 달러)가 사라졌다.",
+      "url": "https://news.sky.com/story/google-parent-alphabet-takes-500bn-hit-on-ai-worries-13605428",
+      "published": "2026-10-30T01:06:00+09:00",
+      "tags": [
+        "stocks",
+        "business"
+      ],
+      "event": "alphabet-ai-capex-selloff",
+      "state_media": false
+    },
+    {
+      "source": "Sky News",
+      "title_original": "Former church leader and wife charged with eight counts of rape",
+      "title_ko": "전직 교회 지도자 부부, 강간 8건 혐의로 기소",
+      "summary_ko": "전직 교회 지도자와 그의 아내가 강간 혐의로 기소됐다.",
+      "url": "https://news.sky.com/story/former-sheffield-church-leader-and-his-wife-charged-with-eight-counts-of-rape-13605410",
+      "published": "2026-10-30T00:37:00+09:00",
+      "tags": [],
+      "event": "church-leader-rape-charges",
+      "state_media": false
+    },
+    {
+      "source": "Sky News",
+      "title_original": "Why defeated Flavio Bolsonaro fled Brazil for Miami - and what comes next",
+      "title_ko": "대선 패배한 플라비우 보우소나루가 브라질을 떠나 마이애미로 간 이유와 향후 전망",
+      "summary_ko": "지난주 브라질 대선에서 패한 플라비우 보우소나루가 수요일 한밤중에 출국해 전용기로 미국에 도착하는 모습이 포착됐다.",
+      "url": "https://news.sky.com/story/why-defeated-flavio-bolsonaro-fled-brazil-for-miami-and-what-comes-next-13605308",
+      "published": "2026-10-29T21:28:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "flavio-bolsonaro-flees",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "Thomas Markle investigation is all-too familiar for police in the Philippines",
+      "title_ko": "토머스 마클 수사, 필리핀 경찰에겐 너무나 익숙한 일",
+      "summary_ko": "토머스 마클 수사가 필리핀 경찰에게 익숙한 유형의 사건이라는 ITV 보도(제목만 확인).",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSmF4c2ZYcUxiNjBVZGZ3N0ttRXFUNGUtWHh3OTJ2cmZ6MFFHNTRmaUdsWE5zMFlrRXBCb1Mwc1Z5bXBTb1MySjhvc2lQb2ZEcW9QVHROZE1uMEt4WGltUk9RQ0VCbEc4Z0RRYmNFVUt0SjcyWXhIdmdmWGFLeUIzQlVUQUEzVjVxTkRRV1hmSGJ3WDB1amNJQXg0MGU0ekJDTDJtQkVMeHNzUQ?oc=5",
+      "published": "2026-10-30T06:00:11+09:00",
+      "tags": [],
+      "event": "met-meghan-letter-iopc",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "Star Trek actor Sir Patrick Stewart dies aged 86",
+      "title_ko": "스타트렉 배우 패트릭 스튜어트 경, 86세로 별세",
+      "summary_ko": "스타트렉 배우 패트릭 스튜어트 경이 86세로 세상을 떠났다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOHRPbm5mc1UzbDRfMkk2ejJTZzNGbjRwdUEtR1RLMmxra1JfQzlzOTJvZUZJSEthZXJBXzM1SEFTSGJrejJ5Y2M3UzR2S01YSDM3TEtxY29oT04xel9FUnhmdTNMUmNDcktWMHlPRE9kZUVOR3Vqd1F5WXRyM0lXVDM2Z3p5UXN2ejgyYw?oc=5",
+      "published": "2026-10-30T05:30:31+09:00",
+      "tags": [],
+      "event": "patrick-stewart-death",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "Watch the latest Granada Reports from Thursday 29th October",
+      "title_ko": "10월 29일(목) 그라나다 리포트 최신판 보기",
+      "summary_ko": "ITV 지역 뉴스 프로그램 영상 페이지(제목만 확인).",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb1Z2NDZ2b0h3VXg5SGFtTWtENlUxc1kzdl9aYjFOeTczZGM0NEZVZzUzMTR4Y0FjTGdVMjRYM3VVMGwzSndCcEttRVFVZlZPSzV0WnI4bGFzdmNKc2hSS05OT3FESlZDT2JIdGRZX3FlbXNjV0J5NzZNREVBSkhQMmsxYW02MHdRVkIzR0ZUOGVTaHZTb0hzaEZhaHRpTVE?oc=5",
+      "published": "2026-10-30T04:45:00+09:00",
+      "tags": [],
+      "event": "itv-regional-bulletins",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "Met Police refers itself to watchdog over handling of letter about Meghan Markle's dad",
+      "title_ko": "런던경찰청, 메건 마클 부친 관련 서한 처리로 감시기구에 자진 회부",
+      "summary_ko": "런던경찰청이 메건 마클의 아버지에 관한 서한 처리 문제로 감시기구에 스스로를 회부했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMzUtdUY2VE1XZWJGdV9XcXF0Ymo4Wi1pVms3ZzRieUpTTUNMbW5pYUx2M21xc1hPX3N5TGEwMENjT24tTHc2aDN2T2dGNUtTRm1NeUo0SlE5dU5mUExJdjVpbkluR2J0RVNGQjNiUVYwZkxOdExqV0NmRlNXeVlkLUlpNmcxb3pIeFBqYjJ3R0pMU2tINTdhUjBEdTRhTU0zZmRXOS1kSTRITTNBMTZ2UjczT3dEVmVGWmNZSHpCNjJtZw?oc=5",
+      "published": "2026-10-30T04:44:00+09:00",
+      "tags": [],
+      "event": "met-meghan-letter-iopc",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "Catch up on ITV News Central (East Midlands) - Thursday 29th October",
+      "title_ko": "ITV 뉴스 센트럴(이스트미들랜즈) 10월 29일(목) 다시보기",
+      "summary_ko": "ITV 지역 뉴스 프로그램 영상 페이지(제목만 확인).",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRnNJZmNXT1RoSWV1Um90Uk5YaGlpVjl5SlI0YkdQcTEwbFBFTHN1WW1MU0M3TnZ2djl1UjRnbjNaUTlqc01ha1lMdlZtNmN3dEN6M0JYTlFrYkQyZEc3T0pROTR6WW5kdElyX0JlWDE0Um8wb3I2T0lDLWFJNlcxdnU5Sl8xV190ZUtCR0l5NkdTXzFtLVlfRGl1Sy14enZueGZ4QllB?oc=5",
+      "published": "2026-10-30T04:43:00+09:00",
+      "tags": [],
+      "event": "itv-regional-bulletins",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "Catch up on ITV News Central (West Midlands) - Thursday 29th October",
+      "title_ko": "ITV 뉴스 센트럴(웨스트미들랜즈) 10월 29일(목) 다시보기",
+      "summary_ko": "ITV 지역 뉴스 프로그램 영상 페이지(제목만 확인).",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRXo5V2FkampJWG00MU5FYVlIVFhEQmR1XzB1TUl4OWpwTl9rZGNZdlZkMk0wZGtRbXU3TXhsWHFqQzA2U2xVWExKMV9vR3Z0aU5YdnFxOEthbkdXYUxpTnoxQ3BCQ2JYTk93WWNsZy1ZZV9zVHF2TDhIb0xDWF94SkZIb0pja18xbFN4cnBGRHBGZXBMNlU4aHN0OGlQeFoxNmM1N3dR?oc=5",
+      "published": "2026-10-30T04:43:00+09:00",
+      "tags": [],
+      "event": "itv-regional-bulletins",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "The ticking time bomb of SS Richard Montgomery",
+      "title_ko": "SS 리처드 몽고메리호, 시한폭탄",
+      "summary_ko": "SS 리처드 몽고메리호를 '시한폭탄'으로 다룬 ITV 보도(제목만 확인).",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQkhROFZTZ18zU2QxNnJnOHhJdFJjUDB3QmZuaFdHNnExN2NKdlVmdm1JUEswc0w0UjZ3cEpST2xTN3paaE1rR0k3akczTGVqSk1tU3E3SlplZE9OMFZlYlVtMUtxekV3ZnhvaDNFSkpPUkkyb08zcG45YjZ6NE1OV0E5VEtzLS1ZcWZITzRn?oc=5",
+      "published": "2026-10-30T04:35:48+09:00",
+      "tags": [],
+      "event": "ss-richard-montgomery",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "Brighter skies return: Watch the latest ITV weather forecast",
+      "title_ko": "다시 맑아지는 하늘: ITV 최신 날씨 예보",
+      "summary_ko": "ITV 날씨 예보 영상(제목만 확인).",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWGRPT1djQUNTQVAyT1I1dmRibE9DWFhQRGhlSmNOQVBaODFObXpwOFY2cnpQLWFoTkpzZExqXzFjQXhFajdETmRrX01vYnBldkZxNzE4RDBPZW1kVzhJejBQZVE0WTVRcXdsQWpvUE5kUkZSNHRHMmRpcGdhMVJPb1ptQ29lMG1SSWUwbVpkYzMwMFEwVnA1MzNVOWRpV1U?oc=5",
+      "published": "2026-10-30T04:30:00+09:00",
+      "tags": [],
+      "event": "itv-weather",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "Chancellor challenged on when he will cut welfare bill and Rosebank decision",
+      "title_ko": "재무장관, 복지 지출 삭감 시점과 로즈뱅크 결정에 대해 추궁받아",
+      "summary_ko": "재무장관이 언제 복지 예산을 줄일지와 로즈뱅크(유전) 결정에 관해 질문을 받았다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTTZWR1VsNGlMbC1jMzJBRUoyUm5PUUVXSUZrMUJiT2xxQ2h3WWgtN3VFRm9XT3J5aXRRUF9uWDhUZldWOGVWdDYwMnp2d2U4MF9ValRXU09KQXNqNFBMSU4ybk9DSUt4dlBoMkYtSWtCTWpnX3ZjQWphOWV3d2NGWHlKLUNTcmpVaFhIX2NleFUxb19QX2hHM1hxQTlZVkZzRkR3UXZ6ZkUyQQ?oc=5",
+      "published": "2026-10-30T05:18:40+09:00",
+      "tags": [
+        "legislation",
+        "industry"
+      ],
+      "event": "uk-budget-welfare",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "New UAE candidate for UN leader sparks controversy",
+      "title_ko": "UAE의 새 유엔 사무총장 후보, 논란 촉발",
+      "summary_ko": "UAE가 내세운 새 유엔 사무총장 후보가 논란을 일으키고 있다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcmEyVG5KQVVrcU1INjhhcDFfbng0bEJGU0dkQW50cVFiTTNjcklsd3Exd2JwYUl4eTRBZF9VQlZoak12N1hmb0dCQWRsNmo4RGhFZTlPLWw4WVVwS2E5cnBWcTl4MEZtR3VtNEMzX0J4V1YzM1NjVnlra1p1dFVNSEtEbjJEaTg?oc=5",
+      "published": "2026-10-30T05:10:15+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "uae-un-sg-candidate",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "Debate: Could religion sway Michigan’s US midterms elections?",
+      "title_ko": "토론: 종교가 미시간 중간선거를 좌우할까?",
+      "summary_ko": "미시간주 중간선거에서 종교의 영향력을 다룬 토론(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZXd2WG9yWURDZVpmNHB6YjljVWh1SXgxOFVuNmxSUEhPa3VTMmp2T1VmVnJJUU5KM3FqTnEzcU1oQVFQTTJITnVxdTBnZFBLcmFzOGExZU9NcG1ESHI5TldCc1pVOVRUR0dtaVFjc2JGMmxXR2oza3BtSWNIQi1tZGgzNjV5aWdSbWxsaTdxeThrdw?oc=5",
+      "published": "2026-10-30T05:05:05+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-midterms",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "Meet the Christians turning away from Trump in Kansas",
+      "title_ko": "캔자스에서 트럼프에게 등 돌리는 기독교인들",
+      "summary_ko": "캔자스주에서 트럼프 지지를 철회하는 기독교인들을 다룬 보도(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOamFiN2ZXYjV2VHA3SmQ1bnE2bFh5OUxGTy1JTU1ST0dHNlNJS2JKQ1l2Tkt0T2Z4cm44RE9EQjF3bVp4OEZfTUV0bjNRdV9oQ2ZBQVB3T1J0Q0lpS21Ecm0xbUFmWTFYMExKQWxpRjRzWWttbnBOYlRQZ3FOTTM3MUlzZjR5ZXU5U3d3?oc=5",
+      "published": "2026-10-30T05:00:33+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-midterms",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "Foursight",
+      "title_ko": "포사이트(Foursight)",
+      "summary_ko": "Channel 4 뉴스 프로그램/코너 페이지(제목만 확인, 내용 불명).",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3dTZGb2lLQ1BHQktMSHVMUFFnMS1oblR0Uk9DZ2xNTXoyQmdtOEFDQ19EbEQ3dmc1bnNDYXBwNmtSSHJwUllheERtX0NoVUJt?oc=5",
+      "published": "2026-10-30T04:52:04+09:00",
+      "tags": [],
+      "event": "c4-foursight",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "Russell Brand’s wife tells court he is a ‘wonderful father’",
+      "title_ko": "러셀 브랜드의 아내, 법정에서 그가 '훌륭한 아버지'라고 증언",
+      "summary_ko": "러셀 브랜드의 아내가 법정에서 그를 '훌륭한 아버지'라고 말했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS25LY0Fpay03REFTbUd4SnYtY0MtRFRtYjhVUDJyZ0VvRDF0TVpNRlI3TWpBZzdBcWVpUjJwRWFYUUk3a2VnYnphS2xSMTFqZzZwOWJ3blZUcklwNXFrNldMekNaY2wzOHBHUm1VT204dzFpMnZBRzAzV2Y2R0VEWG5FLVdjRmdpNk1WYVlmbw?oc=5",
+      "published": "2026-10-30T04:51:15+09:00",
+      "tags": [],
+      "event": "russell-brand-trial",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "Russian train strike kills 14 despite Melania Trump’s negotiated ceasefire in Ukraine",
+      "title_ko": "멜라니아 트럼프가 중재한 우크라이나 휴전에도 러시아 열차 공습으로 14명 사망",
+      "summary_ko": "멜라니아 트럼프가 협상한 우크라이나 휴전에도 불구하고 러시아의 열차 공격으로 14명이 숨졌다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUlQya2tjM0VLdjl2eTUxYWNuX2Rqd3l0b2xtd2lNbmtHQ1gzalB1eEFscHN0cV91R29PWmN5Unotb0UyZ2VBbXVER0VhMUpOQjVqUXMtdzh0a3F1TmdwOWdBem1reGJMcEhkNEJRTkt6SHBLVU5Kd0NrWFhKLTY2bmJ2WEhZTENYV2c3cGlJMnM5OGdHT1ZYVzNja0FNT3BIVWJqbGtlaDBPYXBiQW41RjJSR2w?oc=5",
+      "published": "2026-10-30T04:51:15+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-kherson-truce",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "Budget 2026",
+      "title_ko": "2026 예산안",
+      "summary_ko": "Channel 4의 2026 예산안 관련 페이지(제목만 확인).",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpcWZaek1JZkpqZXo3NTEwNVlKUTVQVzJaLTM1RjZIc0RuVTg2cWhRb2JuUXpXc2tfSXAxYS11YzFCUmoyY01SSHVwX1g1TUJyYUJIMVh2UTB1VUE?oc=5",
+      "published": "2026-10-30T04:49:22+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "uk-budget-2026",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "US First Lady praised for Oleshky relief truce as Moscow strikes Ukrainian commuters",
+      "title_ko": "미국 영부인, 올레시키 구호 휴전으로 찬사…모스크바는 우크라이나 통근객 공격",
+      "summary_ko": "미국 영부인이 올레시키 구호를 위한 휴전으로 찬사를 받는 가운데 러시아가 우크라이나 통근객을 공격했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb181OURQbFRFR1NyNmlZamlYdUppa18yeko2a0YycFZ1MEFzR1FRX1VYV1dqZGxlQ1EzTm5OS3lsNDNaSnhuOTNpT0NPRUhJa3FYdzg4R25fTzF5azY4VDJvb0VaNjZodWZtaGNKWEloMVpaM2VIMHFoMXQyQXYySUxBQmpJUTZCbFdOczhvYlFmeEU4UTJpbFdVTFU0QzR6MnhIS1VLckEwSU5HZ29PNjlzOGJIZ2RYSWlGVmVzNnRsQkk?oc=5",
+      "published": "2026-10-30T05:58:11+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-kherson-truce",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Taliban’s poppy ban falters as Afghan farmers say they can't feed their children",
+      "title_ko": "탈레반의 양귀비 재배 금지 흔들려…아프간 농민들 '아이들을 먹일 수 없다'",
+      "summary_ko": "탈레반의 양귀비 금지 정책이 흔들리고 있으며 아프간 농민들은 자녀를 먹일 수 없다고 호소한다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVmVMOEtmempEZzNDUWFSelpadU16THlEMmdVZGdlNl9ZS1VHQl8tV2F6LWxVNE51anVZSEFRVHpsYzVqeDNTOWtfanExbk5xRTVXVGFPQmhJUlZhaEluNVJHRFZRbXBEaTZ6TTl3eXc2T3VweTNqLVlLTzF1QkVnRkt6dTlYUGZjbHhQY1RXTVFGWXI3ZXJ3ZDRwMjZ0ZWV3S1hHcTM5OWV3TXRHeXVNS1hkdWtWYVV0Z050NUlsT3V5RWdSSjE4OEtR?oc=5",
+      "published": "2026-10-30T05:49:56+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "taliban-poppy-ban",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Amazon projects fourth quarter sales below estimates",
+      "title_ko": "아마존, 4분기 매출 전망 시장 예상치 하회",
+      "summary_ko": "아마존이 4분기 매출을 시장 추정치보다 낮게 전망했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXhDSjU4RmlrZmUyT0E5dzJNbmJNaXBBdGhndktXeGUtZVItTWlpNDBZcXR5LTZDMjFOdzdXenRpTnhNd01pZXBXX0V0OTVlYkMtVlJnN2l4YS1QeENxeWlzUUN6bDZkeThpc1VBMUZDQjFYcGxrQWFrVzBVOXdueV9Tb0drZjZ4T3JYWmRXS2MwWnMwMGpoT05FU1lUVWhRbXlPZEpYUjZQbnlrQWh3SGdsTQ?oc=5",
+      "published": "2026-10-30T05:33:44+09:00",
+      "tags": [
+        "business",
+        "forecast",
+        "stocks"
+      ],
+      "event": "amazon-q4-guidance",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Wall Street ends lower as Alphabet revenue miss revives AI capex jitters",
+      "title_ko": "알파벳 매출 부진에 AI 설비투자 불안 재점화…월가 하락 마감",
+      "summary_ko": "알파벳의 매출이 예상에 못 미치면서 AI 설비투자(capex)에 대한 불안이 되살아나 뉴욕증시가 하락 마감했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tUjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA?oc=5",
+      "published": "2026-10-30T05:30:27+09:00",
+      "tags": [
+        "stocks",
+        "business"
+      ],
+      "event": "alphabet-ai-capex-selloff",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Robust consumer spending, AI-related investment power US economy in third quarter",
+      "title_ko": "견조한 소비와 AI 관련 투자, 미국 3분기 경제 견인",
+      "summary_ko": "강한 소비 지출과 AI 관련 투자가 3분기 미국 경제를 이끌었다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0JuSzdaWWtxaGJGdW5CV0pONGc2dlpzMVJnaGl2UUIwQmtkc1FNSUVNQzhxTFRycVZ4dGpRaVlvbGdraXBWenkzY1otSno3TC1zWTlQUmFRandmM0hlSm14a1pfWTJMNjdNclo5bFlFQWt3UlpIcFlPY3RtZzBQVXhKUzVPSWMxUXZFckNVM3ZXZEU?oc=5",
+      "published": "2026-10-30T05:29:42+09:00",
+      "tags": [
+        "industry",
+        "forecast"
+      ],
+      "event": "us-q3-gdp",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Alaska dispute threatening to complicate fight for US Senate control",
+      "title_ko": "알래스카 분쟁, 미 상원 주도권 다툼 복잡하게 만들 우려",
+      "summary_ko": "알래스카에서의 분쟁이 미국 상원 장악 경쟁을 복잡하게 만들 수 있다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSHY5R0oyOUtJUmI4bnZKNWFvX2NBNmw2VS0yQ3FnNmNWclVzVkNZYmU1U2diTXU4UE91Rm9wckZYS1ZoYXljM0Ffd01haWlsOVRkNy1WZU1CdnJKVV9EcC1SWExzcDJRTERYd0ZwdDlJeDRXdlQ2ZTdzaTlTQkpDUXZhZnFsTXNXM1NScmZxTi0zbnRfU002VWpsMTFiS1Q2Ymc?oc=5",
+      "published": "2026-10-30T05:29:29+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-midterms-alaska-peltola",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Patrick Stewart, Shakespearean actor turned 'Star Trek' and 'X-Men' star, dies at 86",
+      "title_ko": "셰익스피어 배우에서 '스타트렉'·'엑스맨' 스타가 된 패트릭 스튜어트, 86세로 별세",
+      "summary_ko": "패트릭 스튜어트가 86세로 세상을 떠났다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWhaZUxRSlZQeF9wYnU2b0k0U2FuYUUyY0RWX3hpZmJTdFVHdk5SeUk4MlpnTXozUjVGdHllRnNXOTdDMUppd2hnbmdOMUVwWThMUGRUaGRuZjVLUTR2eld0aGQwOUt3aXVlYmtLM0xNbHFWUVdRWXVDbFdVekM1T3Q3MURNX2M0cWl0Vi1QNTVUU3o0N1BfZnVnQ2RwRDA1?oc=5",
+      "published": "2026-10-30T05:25:43+09:00",
+      "tags": [],
+      "event": "patrick-stewart-death",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Yemen's hospitals buckle as fighting escalates",
+      "title_ko": "예멘 병원들, 전투 격화로 한계 상황",
+      "summary_ko": "예멘에서 전투가 격화되면서 병원들이 무너지고 있다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2FrR3hGTjlic3RtRHdHQWtvbjJ5cXNPNFExeWlSMGRpOFpIOFk1WFBUX3VoUEs5MWhkMXVIcFlmc3BaMkE0NnlWbXdacUNZRXg0emVrUjhJTENacVRqY2M5aGpvY08wQmhVYWJxbkdOZlB6dzUwZGNLY3ZkUGFQOVJZekxCM19qdVAtajNOdmdrU2JIc0M5QXZuN1M?oc=5",
+      "published": "2026-10-30T05:16:56+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "yemen-fighting-hospitals",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "Amazon shares slide on lower Christmas sales forecast",
+      "title_ko": "아마존, 크리스마스 매출 전망 하향에 주가 하락",
+      "summary_ko": "이커머스 대기업 아마존이 클라우드 부문 호황에도 실망스러운 매출과 가이던스를 내놨다.",
+      "url": "https://www.ft.com/content/8affd8dd-b783-48c8-86e2-ac4a647fa0f3?syn-25a6b1a6=1",
+      "published": "2026-10-30T05:55:16+09:00",
+      "tags": [
+        "business",
+        "forecast",
+        "stocks"
+      ],
+      "event": "amazon-q4-guidance",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "How Flávio Bolsonaro fled Brazil",
+      "title_ko": "플라비우 보우소나루는 어떻게 브라질을 빠져나갔나",
+      "summary_ko": "자금세탁 수사를 받는 대선 패배 후보는 출국을 생각해 본 적이 없다고 말했지만 다음 날 사라졌다.",
+      "url": "https://www.ft.com/content/0cb91253-62e1-4cdf-864e-61174b297e51?syn-25a6b1a6=1",
+      "published": "2026-10-30T05:53:21+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "flavio-bolsonaro-flees",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "New Jersey governor threatens to block delivery of Russian diesel cargoes",
+      "title_ko": "뉴저지 주지사, 러시아산 디젤 화물 반입 저지 경고",
+      "summary_ko": "미키 셰릴 주지사가 트럼프와 푸틴의 거래를 '부패하고 불법적'이라고 비판하며 동부 해안 항구로의 선적을 막을 조치를 검토하고 있다.",
+      "url": "https://www.ft.com/content/3d9ac5af-d6c7-48f8-a5b4-7b3b22cc243d?syn-25a6b1a6=1",
+      "published": "2026-10-30T05:34:22+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "nj-russian-diesel",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "US tech stocks fall after earnings fuel AI spending concerns",
+      "title_ko": "실적 발표가 AI 지출 우려 키우며 미국 기술주 하락",
+      "summary_ko": "구글 모회사 알파벳과 마이크로소프트가 예상보다 낮은 설비투자를 발표한 뒤 나스닥100 지수가 1.4% 떨어졌다.",
+      "url": "https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1",
+      "published": "2026-10-30T05:10:36+09:00",
+      "tags": [
+        "stocks",
+        "business"
+      ],
+      "event": "alphabet-ai-capex-selloff",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "Intel stock falls 17% as it forecasts weaker chip sales",
+      "title_ko": "인텔, 칩 판매 약화 전망에 주가 17% 급락",
+      "summary_ko": "예상보다 낮은 매출 전망이 반도체 업체 인텔의 회생 전망에 타격을 줬다.",
+      "url": "https://www.ft.com/content/d7540e89-08db-43d3-92e0-3c15dd3a60cb?syn-25a6b1a6=1",
+      "published": "2026-10-30T05:02:33+09:00",
+      "tags": [
+        "stocks",
+        "industry",
+        "forecast"
+      ],
+      "event": "intel-weak-forecast",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "ExxonMobil boss pulls out of Gulf energy conference over security concerns",
+      "title_ko": "엑손모빌 CEO, 보안 우려로 걸프 에너지 콘퍼런스 불참",
+      "summary_ko": "대런 우즈 CEO는 월요일 아부다비 ADIPEC 콘퍼런스에서 연설할 예정이었다.",
+      "url": "https://www.ft.com/content/288ccf9d-6456-4bed-85c0-e7216bb31c66?syn-25a6b1a6=1",
+      "published": "2026-10-30T03:55:08+09:00",
+      "tags": [
+        "industry",
+        "geopolitics"
+      ],
+      "event": "exxon-adipec-withdrawal",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "Google is eating itself — but it could still eat everyone else too",
+      "title_ko": "구글은 스스로를 잠식하고 있다 — 그래도 다른 모두를 집어삼킬 수 있다",
+      "summary_ko": "AI 경쟁의 주도권은 빠르게 얻고 잃고 다시 얻을 수 있다는 FT 칼럼.",
+      "url": "https://www.ft.com/content/245107d8-ef54-4b30-a75a-538d055bc6d7?syn-25a6b1a6=1",
+      "published": "2026-10-30T03:00:36+09:00",
+      "tags": [
+        "business",
+        "industry"
+      ],
+      "event": "alphabet-ai-capex-selloff",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "Netanyahu’s party claims election ‘stolen’ by ‘foreign entities’",
+      "title_ko": "네타냐후 정당, 선거를 '외국 세력'이 '훔쳤다'고 주장",
+      "summary_ko": "이스라엘 내 팔레스타인계 시민들의 높은 투표율로 총리가 완승하지 못한 뒤, 보안기관이 개입 의혹을 조사하고 있다.",
+      "url": "https://www.ft.com/content/f66a684c-4073-4cf8-b5b8-8851c72e8bc0?syn-25a6b1a6=1",
+      "published": "2026-10-30T02:36:37+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "israel-election-dispute",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Everton v Newcastle: Carabao Cup fourth round – live",
+      "title_ko": "에버턴 대 뉴캐슬: 카라바오컵 4라운드 – 실시간",
+      "summary_ko": "그릴리시가 '규율 위반'으로 16강전에 결장한다는 내용 등을 담은 경기 실시간 중계.",
+      "url": "https://www.theguardian.com/football/live/2026/oct/29/everton-v-newcastle-carabao-cup-fourth-round-live",
+      "published": "2026-10-30T06:08:41+09:00",
+      "tags": [],
+      "event": "grealish-everton-dropped",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Manchester City v Paris Saint-Germain: Women’s Champions League – live",
+      "title_ko": "맨체스터 시티 대 파리 생제르맹: 여자 챔피언스리그 – 실시간",
+      "summary_ko": "여자 챔피언스리그 경기 실시간 중계(킥오프 그리니치 표준시 오후 8시).",
+      "url": "https://www.theguardian.com/football/live/2026/oct/29/manchester-city-v-paris-saint-germain-womens-champions-league-live",
+      "published": "2026-10-30T06:07:30+09:00",
+      "tags": [],
+      "event": "wcl-mancity-psg",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "The Celebrity Traitors: episode nine – LIVE",
+      "title_ko": "셀러브리티 트레이터스 9화 – 실시간",
+      "summary_ko": "결승을 앞둔 리얼리티 프로그램 준결승 회차 실시간 해설.",
+      "url": "https://www.theguardian.com/tv-and-radio/live/2026/oct/29/the-celebrity-traitors-episode-nine-live",
+      "published": "2026-10-30T06:06:55+09:00",
+      "tags": [],
+      "event": "celebrity-traitors",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Patrick Stewart, Star Trek actor and acclaimed thespian, dies aged 86",
+      "title_ko": "스타트렉 배우이자 명배우 패트릭 스튜어트, 86세로 별세",
+      "summary_ko": "'스타트렉: 넥스트 제너레이션'과 '엑스맨' 배우가 '알츠하이머병과 루이소체 치매와의 짧고 가슴 아픈 여정' 끝에 자택에서 숨졌다.",
+      "url": "https://www.theguardian.com/culture/2026/oct/29/patrick-stewart-dead",
+      "published": "2026-10-30T06:02:36+09:00",
+      "tags": [],
+      "event": "patrick-stewart-death",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Trump again calls for prosecution of Mary Peltola as turmoil grows over Alaska campaign investigation – live",
+      "title_ko": "트럼프, 메리 펠톨라 기소 재차 촉구…알래스카 선거운동 수사 둘러싼 혼란 확산 – 실시간",
+      "summary_ko": "트럼프 대통령은 사우스캐롤라이나 유세에서 '최고 수준의 선거 사기'라고 말했고, 알래스카 주지사는 공화당 반발 속에 펠톨라 상원 선거캠프 조사를 지시했다.",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/29/midterm-elections-politics-trump-obama-california-alaska-latest-news-updates",
+      "published": "2026-10-30T05:54:07+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-midterms-alaska-peltola",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Healey backs away from cutting welfare cost despite warnings of public finance shortfall",
+      "title_ko": "힐리 재무장관, 재정 부족 경고에도 복지 비용 삭감에서 후퇴",
+      "summary_ko": "존 힐리 재무장관이 이번 의회 임기 내 복지 비용 삭감에서 물러섰으며, 전문가들은 공공재정 280억 파운드 부족으로 첫 예산안이 가혹한 지출 삭감으로 이어질 수 있다고 경고하고 '산발적' 예산이라며 비판했다.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/29/john-healey-budget-backs-away-from-cutting-welfare-public-finance-shortfall",
+      "published": "2026-10-30T05:02:16+09:00",
+      "tags": [
+        "legislation",
+        "forecast"
+      ],
+      "event": "uk-budget-welfare",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Met refers itself to police watchdog over Meghan warning letter",
+      "title_ko": "런던경찰청, 메건 관련 경고 서한 문제로 경찰감시기구에 자진 회부",
+      "summary_ko": "필리핀 경찰이 토머스 마클 시니어의 옛 집에서 발견된 것으로 알려진 아동 성학대 이미지를 수사하는 가운데, 런던경찰청이 서식스 공작부인 신변 위험을 경고한 2019년 서한 처리상 오류 가능성으로 감시기구에 회부했다.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/29/metropolitan-police-refers-itself-to-watchdog-over-meghan-warning-letter",
+      "published": "2026-10-30T04:55:58+09:00",
+      "tags": [],
+      "event": "met-meghan-letter-iopc",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Metro-themed shirts, ‘We love public transport’ signs and a kiss at Bankstown: Sydney’s newest train line opens",
+      "title_ko": "메트로 티셔츠, '대중교통 사랑해요' 팻말, 뱅크스타운의 키스: 시드니 최신 철도 노선 개통",
+      "summary_ko": "수백 명의 철도 애호가와 일부 통근객이 시드니 메트로 신규 노선의 첫 운행에 탑승했다.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/30/sydney-metro-extension-opening-date-first-trip-on-new-train-line",
+      "published": "2026-10-30T04:25:02+09:00",
+      "tags": [],
+      "event": "sydney-metro-opening",
+      "state_media": false
+    },
+    {
+      "source": "The Telegraph",
+      "title_original": "Trump administration loses grip on bird flu, experts warn",
+      "title_ko": "트럼프 행정부, 조류독감 통제력 상실…전문가 경고",
+      "summary_ko": "밍크와 소 사이에서 '완전히 예방 가능했던' 조류독감 확산이 일어나고 있다.",
+      "url": "https://www.telegraph.co.uk/global-health/science-and-disease/trump-administration-loses-grip-on-bird-flu-experts-warn/",
+      "published": "2026-10-30T01:27:25+09:00",
+      "tags": [],
+      "event": "us-bird-flu",
+      "state_media": false
+    },
+    {
+      "source": "The Telegraph",
+      "title_original": "Britain faces unprecedented squeeze on incomes, IFS says",
+      "title_ko": "IFS '영국, 전례 없는 소득 압박 직면'",
+      "summary_ko": "재정연구소(IFS)가 영국이 전례 없는 소득 압박에 직면했다고 밝혔다(제목 기준).",
+      "url": "https://www.telegraph.co.uk/business/2026/10/29/budget-healey-burnham-welfare-spending-ftse-100-markets/",
+      "published": "2026-10-30T00:45:16+09:00",
+      "tags": [
+        "forecast",
+        "legislation"
+      ],
+      "event": "uk-budget-2026",
+      "state_media": false
+    },
+    {
+      "source": "The Telegraph",
+      "title_original": "Risk of Ebola spread in UK is low, experts stress",
+      "title_ko": "전문가들 '영국 내 에볼라 확산 위험 낮아'",
+      "summary_ko": "아프리카 전역에서 에볼라 확진 사례가 나오자 미국 당국은 국경 규정을 강화했다.",
+      "url": "https://www.telegraph.co.uk/global-health/science-and-disease/risk-of-ebola-spread-in-uk-is-low-experts-stress/",
+      "published": "2026-10-29T21:59:21+09:00",
+      "tags": [],
+      "event": "ebola-risk",
+      "state_media": false
+    },
+    {
+      "source": "The Telegraph",
+      "title_original": "Wesley Fofana’s Chelsea nightmare continues as Liverpool win shoot-out",
+      "title_ko": "웨슬리 포파나의 첼시 악몽 계속…리버풀 승부차기 승리",
+      "summary_ko": "리버풀이 첼시를 승부차기로 이겼다(제목 기준).",
+      "url": "https://www.telegraph.co.uk/football/2026/10/28/liverpool-vs-chelsea-live-score-latest-carabao-cup-updates/",
+      "published": "2026-10-29T17:26:11+09:00",
+      "tags": [],
+      "event": "liverpool-chelsea-carabao",
+      "state_media": false
+    },
+    {
+      "source": "The Telegraph",
+      "title_original": "Burnham rules out calling early election",
+      "title_ko": "버넘, 조기 총선 가능성 일축",
+      "summary_ko": "버넘이 조기 총선을 치르지 않겠다고 밝혔다(제목 기준, 텔레그래프 예산 실시간 페이지).",
+      "url": "https://www.telegraph.co.uk/business/2026/10/28/budget-healey-burnham-autumn-labour-chancellor-markets/",
+      "published": "2026-10-29T04:02:55+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "uk-budget-2026",
+      "state_media": false
+    },
+    {
+      "source": "The Telegraph",
+      "title_original": "Government remains tight-lipped on aid spending in Autumn budget",
+      "title_ko": "정부, 가을 예산안의 원조 지출에 대해 침묵",
+      "summary_ko": "외무·영연방·개발부(FCDO) 개편의 일환으로 원조 지출 삭감을 되돌릴 것으로 예상됐었다.",
+      "url": "https://www.telegraph.co.uk/global-health/climate-and-people/government-tight-lipped-on-aid-spending-in-autumn-budget/",
+      "published": "2026-10-29T02:56:08+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "uk-budget-2026",
+      "state_media": false
+    },
+    {
+      "source": "The Telegraph",
+      "title_original": "Budget 2026: Key points at a glance",
+      "title_ko": "2026 예산안: 핵심 요점 한눈에 보기",
+      "summary_ko": "존 힐리가 발표한 주요 세금·지출 정책 정리.",
+      "url": "https://www.telegraph.co.uk/business/2026/10/28/budget-2026-key-points-at-a-glance/",
+      "published": "2026-10-28T21:33:42+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "uk-budget-2026",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Recipes: meal ideas and inspiration",
+      "title_ko": "레시피: 식사 아이디어와 영감",
+      "summary_ko": "더타임스 레시피 섹션 페이지(뉴스 아님).",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1WdFFXUVI4VldTOGVRSmVvWDFUVHEzUXFTMTdkcDFoLUppazltVXZSZFFrQkdjRTBUenBCeVkwcThhT255WFMw?oc=5",
+      "published": "2026-10-30T05:48:06+09:00",
+      "tags": [],
+      "event": "times-section-pages",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Ireland",
+      "title_ko": "아일랜드",
+      "summary_ko": "더타임스 아일랜드 섹션 페이지(제목만 확인).",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1VWnlueDlEYVdDRGl0a1MyRU1Gd2FDZWtpazRWNkk0cEtQNnZmM0ljWkpSOTlqUkk3NmpURG5DTHBqQzY4VGJj?oc=5",
+      "published": "2026-10-30T05:36:05+09:00",
+      "tags": [],
+      "event": "times-section-pages",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Scotland",
+      "title_ko": "스코틀랜드",
+      "summary_ko": "더타임스 스코틀랜드 섹션 페이지(제목만 확인).",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GeWRvRlNZVDZneGJwWjdScHM5RXU3c1lTcUNycEtoek9mRDhIRkV4R0tZX1RaTm9pNHJ1NXRWRXVabzVEdDNlaQ?oc=5",
+      "published": "2026-10-30T05:32:18+09:00",
+      "tags": [],
+      "event": "times-section-pages",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Who will win the 2026 midterm elections? Polls and predictions",
+      "title_ko": "2026 중간선거 누가 이길까? 여론조사와 예측",
+      "summary_ko": "2026 미국 중간선거 여론조사·예측 페이지(제목만 확인).",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnpCV1NDNnk4SXdjQkEzNjhGZUIwTWJhVDlQZS1NZGRnNzdDamRHR0Q3M0w4djlsT1BvZWIxaWpVakVYbk5rUHJfZkJlQ18wNlBjZmM3cEp2ekhPNG1jd09CWFJUQWVORVhxRjh2UjBuQVkydGxLd05UR3JCVEYzVXltcEpSRWVXQlVoZEdsNmJaVFM1ZTZFcERta19lVWtZZGs0dlhEMlUybGItRGwtN0xXVQ?oc=5",
+      "published": "2026-10-30T05:20:45+09:00",
+      "tags": [
+        "geopolitics",
+        "forecast"
+      ],
+      "event": "us-midterms",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Sir Patrick Stewart, renowned stage and screen actor, dies aged 86",
+      "title_ko": "저명한 무대·스크린 배우 패트릭 스튜어트 경, 86세로 별세",
+      "summary_ko": "패트릭 스튜어트 경이 86세로 세상을 떠났다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb3NTZm9GNzNsbWYzMzZJdWl4REtZYVVkaUdvUmlLZ19iMTBNMmh4Ykc1djNUSlc0QmdDalBfeDlackFnWTJxNVVBcXpTLTNVTnEyYmY3aFplWC12T3pVRVN2ellNM2kya2ZtYWFWM0xfQ2FYMzc4STRKMDc2WFk5MmZBQnRtRmdTQ0VwR0t6VEtDTlJiQlhLVExqc01uRHdmVUp2UzlmUVU0RTZ1ZEdB?oc=5",
+      "published": "2026-10-30T04:55:00+09:00",
+      "tags": [],
+      "event": "patrick-stewart-death",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Forget John Healey, this was the Martin Lewis budget",
+      "title_ko": "존 힐리는 잊어라, 이번은 마틴 루이스 예산이었다",
+      "summary_ko": "이번 예산안을 소비자 금융 전문가 마틴 루이스의 예산이라고 평한 더타임스 기사(제목만 확인).",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT2ZVMG9kSDh1bzJCZVdORzNMbjA0cEZJS3ltcF80WTVxYlVibVcxMEsyeTg3aWVXRGRGdVR6T1ZsS2pHNFVfLXdacGFyazlZSVljYzdiQW5kRE9URWJFanVwei1nXzkwY1c2czNpbkI4WjRVQ3p5UU54VTRoMUVvVjVzS0hkNVRkQzc4azFhay1vRlo1Wnp0VkYxZw?oc=5",
+      "published": "2026-10-30T04:53:20+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "uk-budget-2026",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Latest news & breaking headlines | The Times and The Sunday Times",
+      "title_ko": "최신 뉴스와 속보 | 더타임스·선데이타임스",
+      "summary_ko": "더타임스 메인 페이지(개별 기사 아님).",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE1rUkwwNVRWQUpTalMyTmJSWVRxR2VTTHQ2RmV1amVFSzlPXzY3SUdfTzVzM0dNNXVzUzZscWV3?oc=5",
+      "published": "2026-10-30T04:53:07+09:00",
+      "tags": [],
+      "event": "times-section-pages",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Login",
+      "title_ko": "로그인",
+      "summary_ko": "더타임스 로그인 페이지(뉴스 아님).",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9RZkhSTWx6cXlUN09xWU83NWdKZzhGR0xYSHBjakhaeTFFS29uQzRXMEFWTlAxaEIzV0xlY1dnNmU?oc=5",
+      "published": "2026-10-30T04:26:38+09:00",
+      "tags": [],
+      "event": "times-section-pages",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Putin says Russia is ‘ready for war’ with Europe in chilling threat",
+      "title_ko": "푸틴 '러시아는 유럽과 전쟁할 준비가 돼 있다'…섬뜩한 위협",
+      "summary_ko": "푸틴이 러시아가 유럽과 전쟁할 준비가 됐다고 말했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM0NmLVQ0S2xTd1AwdlphZ2pZLVV2UkpyRFpFNWd2ZE5RT0NFd2k2R3lVT0oxLWVjOG1NMmhQNGlybkY1a2o4b1JXUC12WHZzUkpXRVVFMkEyNURzN2NMX1VDcXhUd3M0bHF6WFB0QWFWWlR2T0ctMlUyWGJNXzN2NUU1dTd3c21KaTRzaDl0WnpSNnowRzFUaG1wdm81bkRfNGc?oc=5",
+      "published": "2026-10-30T05:08:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "putin-ready-for-war-europe",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Jack Grealish dropped by Everton for Newcastle game after breach of club discipline",
+      "title_ko": "잭 그릴리시, 구단 규율 위반으로 에버턴의 뉴캐슬전 명단 제외",
+      "summary_ko": "잭 그릴리시가 규율 위반으로 뉴캐슬전 명단에서 빠졌다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZVZ5TzNiYmQyZUVPRFJDQlZlcHRnQUEtU3p2eV9ZcjNKLUcwbTVsc0VXTVd5emx3MXRoeXMxN25mN0ZkNE13T0FBMmxPSWVTV1l6encySDJoQmJrckJfTG1Wa2tMckdiMGZTR2xNT1I1OXN4bDFlLWhEcTRVLVI2RVlpX1VNM1plRE5EQS1qaWxyNGU5T2VtT3pzcnBodmFLdlgtMUtnd1Y1X0hrZ0F1SW0ydm1VOVNuaXcxWkxLLW50bEk?oc=5",
+      "published": "2026-10-30T04:32:00+09:00",
+      "tags": [],
+      "event": "grealish-everton-dropped",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Trump’s Cheesecake Factory fixation reveals his true weakness in the midterms homestretch",
+      "title_ko": "트럼프의 '치즈케이크 팩토리' 집착, 중간선거 막판 그의 진짜 약점 드러내",
+      "summary_ko": "트럼프의 치즈케이크 팩토리 언급이 중간선거 막판 약점을 보여준다는 인디펜던트 논평(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcU55Wm9mMWFsT29HRHVFNlpHVHdwZFdFdkctTmRuZjJNbTVUOTN2Q1JBTkpJVk5icW5oOGt5RXRpcWtadlVYd2VxclA4RW5MRXBoN1hzcThuTk9wdGtaOU1jQnpyMXN2aDEwRWZQampJWlBnd0xsTm5tazZRRzhtUTB4YnN0ZkMxZ3hmY3pyZko1Q0FIZ2dMbEVJODVrR2JQcVd2Y0V5LXU3aGJSZnpKVUpIdkc4d1ZaSS1STHZuTQ?oc=5",
+      "published": "2026-10-30T04:18:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-midterms",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "ITV reality show champion says winning contest was ‘a waste of time’",
+      "title_ko": "ITV 리얼리티쇼 우승자 '우승은 시간 낭비였다'",
+      "summary_ko": "ITV 리얼리티쇼 우승자가 우승이 '시간 낭비'였다고 말했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTWhhNDY2dlVJcHZUb3RDZE04ZEN1dy0zVnc0QlhxaVlGZ2ZIeVh6XzlhT2xwMmVQc2J3N3FhSm03YU5WU1BxNm9EaXIteHQyX1RVUTZMcXJ5cnZobjVXdTFQWDBBN3cyR01Kc2tsbFRRcFk3ZmRHVzNWc3dxYVhwTmRzMmhLZExHOHpvTW1FcVV2WE95aFg5ZmV3b2tuSjRsMjhmN0owLWo?oc=5",
+      "published": "2026-10-30T03:47:00+09:00",
+      "tags": [],
+      "event": "itv-reality-winner",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Turmoil as No 10 forced to admit welfare won’t be cut by next election",
+      "title_ko": "총리실, 다음 총선 전 복지 삭감 없다고 인정…혼란",
+      "summary_ko": "총리실(No 10)이 다음 총선 전까지 복지 지출이 삭감되지 않을 것이라고 인정하면서 혼란이 일었다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVFIzY21nNW5uRW9jcTJxbjFsMjJZaW9aWVBTTlBpUWp4QlpBLThlQldYNnpFdGY2am5TbzhOWWo1bmpfQ1FPazBYeExfTlFnSFhkLURSc1NpWVBpSGNveFAzdHFTSDJyMWNKaF9xMC16WWFnY3BTbmNlOUszd00yeVdkTjEtRXZnU2dnVUVUZkEtU0hHSmJCdzNva2RPZw?oc=5",
+      "published": "2026-10-30T03:22:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "uk-budget-welfare",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Britain needs a bolder approach to growth, not a Budget of short-term fixes",
+      "title_ko": "영국에 필요한 건 단기 처방 예산이 아니라 더 과감한 성장 전략",
+      "summary_ko": "예산안이 단기 처방에 그쳤다며 과감한 성장 접근을 촉구한 인디펜던트 논평(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHhiVXY2TTBJQW1KblVoMDVrT01QLUtHaHhOZjE0ZzhXcVNhMk02MFpwWkJ4YTdMOEJOZ3dHZ19SSFJIY3dJUjQ4eTNOQnhJQ05tRktyejBJRVVJa0FzX1pGVnAyZkJGNkNGVFZDcDkxNVdxdVdrYWpxazZfS01FZTVCQWRCeFNEb09zRHhjNk0xSnB4al9sQVZjaGhRWXVYcVE?oc=5",
+      "published": "2026-10-30T03:21:00+09:00",
+      "tags": [
+        "legislation",
+        "forecast"
+      ],
+      "event": "uk-budget-2026",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Putin dwarfed by world’s tallest political leader as he meets 6ft 8in president",
+      "title_ko": "세계에서 가장 키 큰 정치 지도자 앞에서 왜소해 보인 푸틴…6피트 8인치 대통령과 회담",
+      "summary_ko": "푸틴이 키 6피트 8인치(약 203cm)의 대통령과 만났다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaE9FZS1DXzJJdXp3S0Y5MjVMYXhKMDgyYmFEWnVoblJjWUJOQzUzOXR4TzJ2RW93di04NXhnN044bW5YSnhQR1d1dzNkaVk0U3FKUzZ5b1N2bGxLa3ROR3lQNlFaTEJxSmRZbVdRc1FOdnJsbDFWcWg5UVNGM2xUZG5nTDF0cnUzOHdBNy10SjVFUms5aWJSeE9ERVViN3hiTzQ4?oc=5",
+      "published": "2026-10-30T03:11:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "putin-tall-president-meeting",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Man pleads guilty to 'heinous' murder of woman in Henley-on-Thames drowning case",
+      "title_ko": "헨리온템스 익사 사건, 남성이 여성 '극악한' 살해 혐의 인정",
+      "summary_ko": "헨리온템스에서 여성을 익사시킨 남성이 살인 혐의에 유죄를 인정했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOVFIQ3pvVl9rTDZhMGxKZ0ZYdXVXQnZYakcxZkM0Wk1ialR4T0tyOGtqSjJ5ZGIzWEhRYk5kZ1dHMWpHbVJJS0hQZ28zY3NhVjhGWlhxa3piLW44OTZud25ZZW41SS1udEp3NlI5QlpMU1gycFllTHVndjBvVnNfMjczVkdoTXFnUTNzajhzSndfdlN4VFZhRkNpN3paNEpPQ1k5RjBjaVFaajZKamJZcnFYWXI2Vmc?oc=5",
+      "published": "2026-10-30T02:43:00+09:00",
+      "tags": [],
+      "event": "henley-murder-plea",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "United States elections | Latest news and analysis from The Economist",
+      "title_ko": "미국 선거 | 이코노미스트 최신 뉴스·분석",
+      "summary_ko": "이코노미스트 미국 선거 섹션 페이지(개별 기사 아님).",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdFBWdTZ5RXpGUlN6WTFUcTB2YXZXbWlmQ0ZrbHc1Z1lxVXV1V00wUTBYRFZMdjZrZEtROEZaWVYwdkpNeFZmTkZjb1dLbXhwYV9hV0h2SV9jM3BOVmZPVkJKN3NWOUhlOUxtcFA1dEswRnBvWUd2RUJwX1ZSamk2T0RRbWNuYnFkZ21CdHZrM3F2UQ?oc=5",
+      "published": "2026-10-30T05:36:05+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-midterms",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "Leaders",
+      "title_ko": "리더스(사설)",
+      "summary_ko": "이코노미스트 사설(Leaders) 섹션 페이지(제목만 확인, 내용 불명).",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSEI3VHRDMnB3emhIaUFpeUE4cFVDZGV3dnFkSEt4MWdVeXJuemNyWmlxNGIxa3gtbjE0YTk5Q05HRmg1V3ZSY2dENFl2bW5BSXdDSXREeFVVZGRxZXlWdjk1MHhvVm95c0FoX1lGZjBZM0N3ZmJpNUhnRnVMazFTYUZ4eTQ1di04WDY0?oc=5",
+      "published": "2026-10-30T05:18:08+09:00",
+      "tags": [],
+      "event": "economist-section-pages",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "Leaders",
+      "title_ko": "리더스(사설)",
+      "summary_ko": "이코노미스트 사설(Leaders) 섹션 페이지(제목만 확인, 내용 불명). 78번과 URL이 다름.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSHdWTEVUY3JjOXRwb0h6YUM0Uk9KbDU0R0IwU2wtM0lKUlc2ZFFaamc0UmRJUDlmOVZBcEt1N3FxeV9lZ2RHczRCd2hxdDdDVTdLY0JMUW1pUzNFVmZXZEl4UHpMOFlURDNoUm52enNSYWxpUTgyNGFIb2FwNUc5SE8wVUlubjJILXNR?oc=5",
+      "published": "2026-10-30T05:07:53+09:00",
+      "tags": [],
+      "event": "economist-section-pages",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "The Americans changing politics for the better",
+      "title_ko": "정치를 더 낫게 바꾸는 미국인들",
+      "summary_ko": "이코노미스트 기사(제목만 확인).",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZNlJYa0tTaVdMTzhadWJRWmJpTXZPbUZjNGdTaVdveDM0WU4tTjhSUkxuYk1ZdmFUN3gxVVRPN3RaWU8wa3Y0SVBlTy1zaWtYOVVmS1dscDZ1NE9LdUVr?oc=5",
+      "published": "2026-10-30T05:01:27+09:00",
+      "tags": [],
+      "event": "economist-americans-politics",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "Books",
+      "title_ko": "도서",
+      "summary_ko": "이코노미스트 도서 섹션 페이지(제목만 확인).",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOenBYOWJyUWlKNE5fY0ViXzFob283WnRLeFB5SUxFamlKMzhmR0dwSENpdTJIV2dVdEFRX3lOMDVWMmZZaE85bTJxYUFRd3oyTnVKMlYtWkxXQktGQy1USnpUZk12OUQzWHY1VlZQZXFYZl92b0dhdUd1amJkcnU3LUtfS0lUcFBR?oc=5",
+      "published": "2026-10-30T05:00:21+09:00",
+      "tags": [],
+      "event": "economist-section-pages",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "History",
+      "title_ko": "역사",
+      "summary_ko": "이코노미스트 역사 섹션 페이지(제목만 확인).",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUl2MDhibFA2UWVlVVJhM1ZjOGc2TlBsVHg0TnZ3cTFFaW1vNGhodmJaZU5uUnFuenllZ19uYV92Qk9QMDhnQWZIY1NPV0xmMmxCSEFOT3RCQzhGeF9ZQnczaFYyZHRsbjNnZDJ2R2ozRUIyMmRvUDAzcXcwUlNEUFQwOThfcmhrN1lN?oc=5",
+      "published": "2026-10-30T04:57:45+09:00",
+      "tags": [],
+      "event": "economist-section-pages",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "War in the Middle East",
+      "title_ko": "중동 전쟁",
+      "summary_ko": "이코노미스트 '중동 전쟁' 섹션 페이지(제목만 확인, 개별 기사 아님).",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVFM5TGdHZnpYUXJmZnNRMG9zbTE4T2o5bXNkc1hxOEFZY1RndHFETFE3MHE1aTYwZ1REVjlxbEpFOThhQUNLcEZ0ZUZETVJmdENfb2JsTWxETUh4UGVRa1NLZ3hJRW5BTXJON3gxMWRXZ1h4eFNSZ2R3NWdjSHJlUEN4NWs5S3FBWjFlRlE1MU9OdnVlYTh6aGMwRjlHQWs?oc=5",
+      "published": "2026-10-30T04:49:48+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "economist-section-pages",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "Management",
+      "title_ko": "경영",
+      "summary_ko": "이코노미스트 경영 섹션 페이지(제목만 확인).",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUHpSV2NnV1RlM0Vta0N1bnI1Yy10WV9HNV84YTRFaHFSeTFYdkRNWEV6ZmtaVFhwa2RUTzRqUlBBcE8waGR5Y0ZKVWcwQ0UwUi1rcW90VGNWR1R5ZDVkS3ZVOTJ2SUtGbDR1YWVSZWdkeHNVWWFQNXlXNXQyUGVOS1pvT3pFakl3LWhKV2RTbw?oc=5",
+      "published": "2026-10-30T04:49:47+09:00",
+      "tags": [],
+      "event": "economist-section-pages",
+      "state_media": false
+    }
+  ],
+  "events": [
+    {
+      "event": "patrick-stewart-death",
+      "title_ko": "배우 패트릭 스튜어트 경 별세(86세)",
+      "sources": [
+        "BBC",
+        "Sky News",
+        "ITV News",
+        "Reuters",
+        "The Guardian",
+        "The Times"
+      ],
+      "headline_count": 6,
+      "count": 6
+    },
+    {
+      "event": "us-midterms",
+      "title_ko": "미국 중간선거(사전투표·판세)",
+      "sources": [
+        "BBC",
+        "Channel 4 News",
+        "The Times",
+        "The Independent",
+        "The Economist"
+      ],
+      "headline_count": 6,
+      "count": 5
+    },
+    {
+      "event": "uk-budget-2026",
+      "title_ko": "영국 2026 가을 예산안(힐리 재무장관) 전반",
+      "sources": [
+        "Channel 4 News",
+        "The Telegraph",
+        "The Times",
+        "The Independent"
+      ],
+      "headline_count": 7,
+      "count": 4
+    },
+    {
+      "event": "met-meghan-letter-iopc",
+      "title_ko": "런던경찰청, 메건 부친 관련 서한 처리로 IOPC 자진 회부·필리핀 수사",
+      "sources": [
+        "Sky News",
+        "ITV News",
+        "The Guardian"
+      ],
+      "headline_count": 4,
+      "count": 3
+    },
+    {
+      "event": "alphabet-ai-capex-selloff",
+      "title_ko": "알파벳 실적 부진·AI 설비투자 우려로 기술주 급락",
+      "sources": [
+        "Sky News",
+        "Reuters",
+        "Financial Times"
+      ],
+      "headline_count": 4,
+      "count": 3
+    },
+    {
+      "event": "ukraine-kherson-truce",
+      "title_ko": "헤르손·올레시키 일시 휴전(멜라니아 트럼프 중재)과 러시아 열차 공격",
+      "sources": [
+        "BBC",
+        "Channel 4 News",
+        "Reuters"
+      ],
+      "headline_count": 3,
+      "count": 3
+    },
+    {
+      "event": "uk-budget-welfare",
+      "title_ko": "영국 예산안: 정부, 이번 임기·총선 전 복지 삭감 후퇴",
+      "sources": [
+        "Channel 4 News",
+        "The Guardian",
+        "The Independent"
+      ],
+      "headline_count": 3,
+      "count": 3
+    },
+    {
+      "event": "israel-election-dispute",
+      "title_ko": "이스라엘 총선 후 리쿠드 '선거 도둑맞았다' 주장 논란",
+      "sources": [
+        "BBC",
+        "Financial Times"
+      ],
+      "headline_count": 2,
+      "count": 2
+    },
+    {
+      "event": "flavio-bolsonaro-flees",
+      "title_ko": "브라질 대선 패배 플라비우 보우소나루 미국 출국",
+      "sources": [
+        "Sky News",
+        "Financial Times"
+      ],
+      "headline_count": 2,
+      "count": 2
+    },
+    {
+      "event": "amazon-q4-guidance",
+      "title_ko": "아마존 4분기 매출 전망 예상 하회",
+      "sources": [
+        "Reuters",
+        "Financial Times"
+      ],
+      "headline_count": 2,
+      "count": 2
+    },
+    {
+      "event": "us-midterms-alaska-peltola",
+      "title_ko": "알래스카 펠톨라 상원 캠프 수사 논란",
+      "sources": [
+        "Reuters",
+        "The Guardian"
+      ],
+      "headline_count": 2,
+      "count": 2
+    },
+    {
+      "event": "grealish-everton-dropped",
+      "title_ko": "그릴리시, 규율 위반으로 에버턴 명단 제외",
+      "sources": [
+        "The Guardian",
+        "The Independent"
+      ],
+      "headline_count": 2,
+      "count": 2
+    },
+    {
+      "event": "economist-section-pages",
+      "title_ko": "리더스(사설)",
+      "sources": [
+        "The Economist"
+      ],
+      "headline_count": 6,
+      "count": 1
+    },
+    {
+      "event": "times-section-pages",
+      "title_ko": "레시피: 식사 아이디어와 영감",
+      "sources": [
+        "The Times"
+      ],
+      "headline_count": 5,
+      "count": 1
+    },
+    {
+      "event": "itv-regional-bulletins",
+      "title_ko": "10월 29일(목) 그라나다 리포트 최신판 보기",
+      "sources": [
+        "ITV News"
+      ],
+      "headline_count": 3,
+      "count": 1
+    },
+    {
+      "event": "spain-train-crash-audio",
+      "title_ko": "'계속 운행하라': 유출된 스페인 열차 충돌 음성의 주요 장면",
+      "sources": [
+        "BBC"
+      ],
+      "headline_count": 1,
+      "count": 1
+    },
+    {
+      "event": "king-charles-caribbean-tour",
+      "title_ko": "찰스 국왕 가이아나 도착…바하마 방문은 '외교적 성공'으로 평가",
+      "sources": [
+        "BBC"
+      ],
+      "headline_count": 1,
+      "count": 1
+    },
+    {
+      "event": "zverev-world-number-one",
+      "title_ko": "즈베레프, 승리로 세계 1위 확정",
+      "sources": [
+        "BBC"
+      ],
+      "headline_count": 1,
+      "count": 1
+    },
+    {
+      "event": "huntingdon-train-attack-trial",
+      "title_ko": "배심원단, 헌팅던 열차 승무원이 프라이팬으로 방어하는 CCTV 시청",
+      "sources": [
+        "BBC"
+      ],
+      "headline_count": 1,
+      "count": 1
+    },
+    {
+      "event": "fifa-womens-world-cup-prize",
+      "title_ko": "FIFA, 여자 월드컵 상금 두 배로…남자 대회 수준엔 못 미쳐",
+      "sources": [
+        "Sky News"
+      ],
+      "headline_count": 1,
+      "count": 1
+    },
+    {
+      "event": "church-leader-rape-charges",
+      "title_ko": "전직 교회 지도자 부부, 강간 8건 혐의로 기소",
+      "sources": [
+        "Sky News"
+      ],
+      "headline_count": 1,
+      "count": 1
+    },
+    {
+      "event": "ss-richard-montgomery",
+      "title_ko": "SS 리처드 몽고메리호, 시한폭탄",
+      "sources": [
+        "ITV News"
+      ],
+      "headline_count": 1,
+      "count": 1
+    },
+    {
+      "event": "itv-weather",
+      "title_ko": "다시 맑아지는 하늘: ITV 최신 날씨 예보",
+      "sources": [
+        "ITV News"
+      ],
+      "headline_count": 1,
+      "count": 1
+    },
+    {
+      "event": "uae-un-sg-candidate",
+      "title_ko": "UAE의 새 유엔 사무총장 후보, 논란 촉발",
+      "sources": [
+        "Channel 4 News"
+      ],
+      "headline_count": 1,
+      "count": 1
+    },
+    {
+      "event": "c4-foursight",
+      "title_ko": "포사이트(Foursight)",
+      "sources": [
+        "Channel 4 News"
+      ],
+      "headline_count": 1,
+      "count": 1
+    },
+    {
+      "event": "russell-brand-trial",
+      "title_ko": "러셀 브랜드의 아내, 법정에서 그가 '훌륭한 아버지'라고 증언",
+      "sources": [
+        "Channel 4 News"
+      ],
+      "headline_count": 1,
+      "count": 1
+    },
+    {
+      "event": "taliban-poppy-ban",
+      "title_ko": "탈레반의 양귀비 재배 금지 흔들려…아프간 농민들 '아이들을 먹일 수 없다'",
+      "sources": [
+        "Reuters"
+      ],
+      "headline_count": 1,
+      "count": 1
+    },
+    {
+      "event": "us-q3-gdp",
+      "title_ko": "견조한 소비와 AI 관련 투자, 미국 3분기 경제 견인",
+      "sources": [
+        "Reuters"
+      ],
+      "headline_count": 1,
+      "count": 1
+    },
+    {
+      "event": "yemen-fighting-hospitals",
+      "title_ko": "예멘 병원들, 전투 격화로 한계 상황",
+      "sources": [
+        "Reuters"
+      ],
+      "headline_count": 1,
+      "count": 1
+    },
+    {
+      "event": "nj-russian-diesel",
+      "title_ko": "뉴저지 주지사, 러시아산 디젤 화물 반입 저지 경고",
+      "sources": [
+        "Financial Times"
+      ],
+      "headline_count": 1,
+      "count": 1
+    },
+    {
+      "event": "intel-weak-forecast",
+      "title_ko": "인텔, 칩 판매 약화 전망에 주가 17% 급락",
+      "sources": [
+        "Financial Times"
+      ],
+      "headline_count": 1,
+      "count": 1
+    },
+    {
+      "event": "exxon-adipec-withdrawal",
+      "title_ko": "엑손모빌 CEO, 보안 우려로 걸프 에너지 콘퍼런스 불참",
+      "sources": [
+        "Financial Times"
+      ],
+      "headline_count": 1,
+      "count": 1
+    },
+    {
+      "event": "wcl-mancity-psg",
+      "title_ko": "맨체스터 시티 대 파리 생제르맹: 여자 챔피언스리그 – 실시간",
+      "sources": [
+        "The Guardian"
+      ],
+      "headline_count": 1,
+      "count": 1
+    },
+    {
+      "event": "celebrity-traitors",
+      "title_ko": "셀러브리티 트레이터스 9화 – 실시간",
+      "sources": [
+        "The Guardian"
+      ],
+      "headline_count": 1,
+      "count": 1
+    },
+    {
+      "event": "sydney-metro-opening",
+      "title_ko": "메트로 티셔츠, '대중교통 사랑해요' 팻말, 뱅크스타운의 키스: 시드니 최신 철도 노선 개통",
+      "sources": [
+        "The Guardian"
+      ],
+      "headline_count": 1,
+      "count": 1
+    },
+    {
+      "event": "us-bird-flu",
+      "title_ko": "트럼프 행정부, 조류독감 통제력 상실…전문가 경고",
+      "sources": [
+        "The Telegraph"
+      ],
+      "headline_count": 1,
+      "count": 1
+    },
+    {
+      "event": "ebola-risk",
+      "title_ko": "전문가들 '영국 내 에볼라 확산 위험 낮아'",
+      "sources": [
+        "The Telegraph"
+      ],
+      "headline_count": 1,
+      "count": 1
+    },
+    {
+      "event": "liverpool-chelsea-carabao",
+      "title_ko": "웨슬리 포파나의 첼시 악몽 계속…리버풀 승부차기 승리",
+      "sources": [
+        "The Telegraph"
+      ],
+      "headline_count": 1,
+      "count": 1
+    },
+    {
+      "event": "putin-ready-for-war-europe",
+      "title_ko": "푸틴 '러시아는 유럽과 전쟁할 준비가 돼 있다'…섬뜩한 위협",
+      "sources": [
+        "The Independent"
+      ],
+      "headline_count": 1,
+      "count": 1
+    },
+    {
+      "event": "itv-reality-winner",
+      "title_ko": "ITV 리얼리티쇼 우승자 '우승은 시간 낭비였다'",
+      "sources": [
+        "The Independent"
+      ],
+      "headline_count": 1,
+      "count": 1
+    },
+    {
+      "event": "putin-tall-president-meeting",
+      "title_ko": "세계에서 가장 키 큰 정치 지도자 앞에서 왜소해 보인 푸틴…6피트 8인치 대통령과 회담",
+      "sources": [
+        "The Independent"
+      ],
+      "headline_count": 1,
+      "count": 1
+    },
+    {
+      "event": "henley-murder-plea",
+      "title_ko": "헨리온템스 익사 사건, 남성이 여성 '극악한' 살해 혐의 인정",
+      "sources": [
+        "The Independent"
+      ],
+      "headline_count": 1,
+      "count": 1
+    },
+    {
+      "event": "economist-americans-politics",
+      "title_ko": "정치를 더 낫게 바꾸는 미국인들",
+      "sources": [
+        "The Economist"
+      ],
+      "headline_count": 1,
+      "count": 1
+    }
+  ],
+  "unavailable_sources": [],
+  "notes": "The Independent RSS 직접 수집 실패(ParseError) — 해당 기사는 Google News 경유 URL로 수집됨. The Times·The Economist·ITV 일부 항목은 섹션/영상 페이지로 원문 요약 없음(제목 기준 번역). events.count=보도 매체 수, headline_count=헤드라인 수."
+}

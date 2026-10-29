@@ -1,0 +1,916 @@
+{
+  "team": "cn",
+  "headlines": [
+    {
+      "source": "CCTV",
+      "title_original": "北京汽车以旧换新补贴申报截止时间延长至明年1月",
+      "title_ko": "베이징 자동차 이구환신(노후차 교체) 보조금 신청 마감, 내년 1월로 연장",
+      "summary_ko": "베이징시 자동차 이구환신 보조금 신청 마감 시한이 내년 1월까지 연장됐다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5iWWtES0ZPbVV6YkZaejI4Z0thdjMyMWtVZUgwODlQLWszVU9HeVNTVjhWeEEzTEo1alZuaWFWT2tkSFFWRVVBZlNjVExnLUlKZnpmYWVXc0tGSngzWnc4d0JENC1ZTjFsZzBGV2t4T0o5Y0ptSmprZQ?oc=5",
+      "published": "2026-10-30T05:01:47+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "beijing-car-tradein-subsidy",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "从机械臂到无线光通信技术 我国深海装备加快创新突破",
+      "title_ko": "로봇팔에서 무선 광통신 기술까지…중국 심해 장비 혁신 돌파 가속",
+      "summary_ko": "중국의 심해 장비가 로봇팔·무선 광통신 기술 등에서 혁신 돌파를 가속하고 있다고 보도했다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIdWwzNkkxY18xTVBVcVVSeXlDSHlEVDBjT0xnblZ0QkowUkdUOU1lTXBjdURXVGNmNF9YSWFjX0FGdW5aQm0tNFNhLUFHbWxDdVBfVHJ4NFh4V0lfRlRpVWVyemNIbmRpaUNfMFJyelpMdFFaX1NyVw?oc=5",
+      "published": "2026-10-30T04:43:38+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "china-deep-sea-equipment",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "拉美观澜丨卢拉再执政 巴西面临哪些考验？",
+      "title_ko": "[라틴아메리카 관찰] 룰라 재집권, 브라질이 맞을 시험은?",
+      "summary_ko": "룰라 재집권 이후 브라질이 직면한 과제를 다룬 해설 기사(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xMFREcVZHR0xab3lreDh4WmZoLXc4ZTd0NS1QS0xlMjY3MXg5UklSdkNfenJmd3NEUm5pLW81S291ZkZGWDZZbFR2emtVRlFxRHo3bXNyVXpsWXFKeV9IdXI3WXBvcGhJV1VqVlhSSWRlMnBIWW0xcw?oc=5",
+      "published": "2026-10-30T04:14:10+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "brazil-lula-reelection",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "秋冬登山推荐“三层夹心式”穿戴 这份实用指南请收好",
+      "title_ko": "가을·겨울 등산엔 '3겹 샌드위치식' 복장 추천…실용 가이드",
+      "summary_ko": "가을·겨울 등산 시 3겹 레이어드 복장을 권하는 생활 정보 기사.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50QmhmbHhQUlBmaXBSVHBxOHYzdzVUanFnTWdNT2NIb2xBZlBOS0JiUllTZEpnWUxIdTVsdjFwcl9wZTREZ3ljSVBRQUcyY2VZVTQ5elRyVm5seHRpd3lXLW1fcEV1S1phdlVIQVRaNTV5cEVMa1U2dQ?oc=5",
+      "published": "2026-10-30T03:57:49+09:00",
+      "tags": [],
+      "event": "autumn-hiking-guide",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "美计划增购F-35战机 “十年大单”究竟意味什么",
+      "title_ko": "미국 F-35 전투기 추가 구매 계획…'10년 대형 계약'은 무엇을 의미하나",
+      "summary_ko": "미국의 F-35 추가 구매 계획과 '10년 대형 계약'의 의미를 다룬 해설(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96RWk3VjVfd2tXWW5Rb2VjUWdrR05RZi1JWjdPX2FlTklLYjVyQjAxd1RUZVlGRG5EdEF2RkxuSTF3UFVrVXdSRklRcE53czBwN2pVeDJ1SVZxYThsVnlwdU11Y21NZzZpdkt4MWdPVWdKN1lBTXVuOA?oc=5",
+      "published": "2026-10-30T03:36:52+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "us-f35-purchase",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "锁边“合龙”不是终点 塔克拉玛干沙漠边缘还在不断变绿",
+      "title_ko": "둘레 봉쇄 '완공'이 끝이 아니다…타클라마칸 사막 가장자리 녹화 계속",
+      "summary_ko": "타클라마칸 사막 가장자리 방사림 띠 완공 이후에도 녹화가 이어지고 있다는 보도.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aaURQSnRWREVKMWdMaXIxZ0FkV0NCcGpsWm1ybl9CaldzRkxIR0Y2NmZfM3ZFTW5kQl9BaDd5YV9MeE1vb1ZRc0NzeEJOQ2l4amxFcnhtNUg2NlMxTHhBRklFT20yMU8wZ2t6dnV0NDlHZjE2eTItTQ?oc=5",
+      "published": "2026-10-30T03:30:42+09:00",
+      "tags": [],
+      "event": "taklamakan-greening",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "多所高校内出现这种“小房子” 学生：太实用！",
+      "title_ko": "여러 대학 캠퍼스에 등장한 '작은 집'…학생들 \"정말 실용적\"",
+      "summary_ko": "여러 대학 캠퍼스에 설치된 소형 시설에 대한 생활 기사(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82OWxENk9IbjdLd0MxZEEyTHRFM3pNNmtaLVdGdlNOWHJkOFRxdUMzS2ZJN05jMVRFVnZVLS01YUhWRnhNc3lLeFFsaUZwWHI4clktRF83Tlc1ZUxULXAxdy00dWQ4TzJxUGJrLVNkRjZ6VDdCLW5VUA?oc=5",
+      "published": "2026-10-30T03:10:37+09:00",
+      "tags": [],
+      "event": "campus-small-houses",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "闪评︱峰会前夕改口 欧盟为何放弃加拿大 “联席成员”？",
+      "title_ko": "[긴급논평] 정상회의 앞두고 말 바꾼 EU, 왜 캐나다 '준회원' 구상을 포기했나",
+      "summary_ko": "EU-캐나다 정상회의 직전 EU가 캐나다 '준회원(연계 회원)' 구상을 접은 이유를 다룬 논평(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OdG1vRF9TbllHNjEtaDJ6bm9SRUFwR0w1VjhrNW52ZDNOYkZyTlJ3OF9YMlpjaFFJSjR1Uk42RWRhd1FqZkc3RFVpTWVxVHZlVWRFTVdTRFZOQWZLYkdhZ1FvNWkyN2RYYk5Xc0hnRWRGUHhrb0NKbg?oc=5",
+      "published": "2026-10-30T02:43:31+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "eu-canada-associate-membership",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "Canadian PM: We have just launched Canada's first national security strategy in over 20 years.",
+      "title_ko": "캐나다 총리 \"20여 년 만에 첫 국가안보전략 발표\"",
+      "summary_ko": "캐나다 총리가 20여 년 만의 첫 국가안보전략을 발표했다고 밝혔다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hSHZKMGZWcXpYd2RMNHJ3RF9tWnBaOTBTeE91eTAxdVVRZHZvd1k3Ulk1MVBlMFZ0YkdYYUlObWFYanVlQTd4eDIzNzBULUkxNmtPXzNHLV9jQ0xEZmhaTjFvcW92dmpuLWxmZjl2UldrRXRSOFZySw?oc=5",
+      "published": "2026-10-29T23:48:45+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation"
+      ],
+      "event": "canada-national-security-strategy",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "EXCLUSIVE-QATARENERGY CEO SAYS HAS MET IRANIAN ACTING PETROLEUM MINISTER TWICE IN PAST TWO WEEKS, EXPLORING POST-WAR COOPERATION IN OIL AND GAS",
+      "title_ko": "[단독] 카타르에너지 CEO \"최근 2주간 이란 석유장관 대행과 두 차례 회동…전후 석유·가스 협력 모색\"",
+      "summary_ko": "카타르에너지 CEO가 지난 2주간 이란 석유장관 대행을 두 차례 만나 전후(戰後) 석유·가스 협력을 모색했다고 밝혔다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tc2ZSeWE0ZUZnUGJHWmNfNUtBcE02M0xldEs0dThZVkVPbi03Ty16TVlIWXMzZmNJeU1MRlRyRUZ3MTJoQXlucEVqWUN0WEVNcDRQYVZqYTQ5UllVbVM4U2YyZ1Y1LXphZzVtUTk1bm1mUWJHOG5tTQ?oc=5",
+      "published": "2026-10-29T23:16:05+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "qatarenergy-iran-talks",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "EU'S VON DER LEYEN: CANADA CANNOT BE A EU MEMBER BECAUSE OF GEOGRAPHY, BUT WE WANT TO TAKE OUR RELATIONSHIP TO THE HIGHEST POSSIBLE LEVEL",
+      "title_ko": "폰데어라이엔 EU 집행위원장 \"캐나다는 지리적 이유로 EU 회원국이 될 수 없지만 관계를 최고 수준으로 끌어올리길 원해\"",
+      "summary_ko": "폰데어라이엔 위원장은 캐나다가 지리적 이유로 EU 회원국이 될 수 없지만 관계를 가능한 최고 수준으로 끌어올리고 싶다고 말했다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ncHljeVVMUlRpVWNpV0g1QzBROUxIMTNQYzZHSHctYVZtZDdESDRKNktzVWpFVG4yX25nTlMzdF9JcTBtUFVvaVdkam9GdUNDVVVxZEJFMUJDMEdEUGFQbmhGUzZpaFNZSmhNRnBBTUk2TmVfdnhEZQ?oc=5",
+      "published": "2026-10-29T23:08:49+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "eu-canada-associate-membership",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "CEOE confirms the death of former minister Fátima Báñez in the Urda train accident. - Spanish media",
+      "title_ko": "스페인 CEOE, 우르다 열차 사고로 파티마 바녜스 전 장관 사망 확인 - 스페인 언론",
+      "summary_ko": "스페인 경영자단체 CEOE가 우르다 열차 사고로 파티마 바녜스 전 장관이 사망했다고 확인했다(스페인 언론 인용).",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IcjVudkxBNnJWdGV2ZXFHeG5QbkY3NVZXaEp4c1doSkFQRmdjMnVka2xEOW96bkJqaEhxVE0yVU5YenJsTWJtWUJ5Si0wanJRN245bTlGbmdScndzZlVHMkFZQmpycDR1Ym5ySTZnYmdjdEJxcmxITw?oc=5",
+      "published": "2026-10-29T22:38:45+09:00",
+      "tags": [],
+      "event": "spain-urda-train-accident",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "97.3% of all votes have been counted; the Netanyahu bloc is leading 48:53 against the Eisenkot bloc. - Israeli media",
+      "title_ko": "개표 97.3% 진행, 네타냐후 진영 48:53으로 아이젠코트 진영에 '앞서' - 이스라엘 언론",
+      "summary_ko": "이스라엘 언론에 따르면 97.3% 개표 기준 네타냐후 진영이 아이젠코트 진영에 앞서고 있으며 의석은 48:53으로 표기됐다(원문 수치 그대로, 앞섬과 수치 순서가 상충 — 확인 필요).",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TRUc5aGdleDFydkttMjI1dHN0WVl2R3Q4eEw4aXJUUlZQRGhocGphandnN1YzWV9jQTc3UnRDXzJhM2M3N19FekVhWU1HUXJ4bWw0UEVNbmdna1FWeWwwX1pJQV8tS2Y4VmpkRHZMTnNMemNFd0FvMw?oc=5",
+      "published": "2026-10-29T22:18:42+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "israel-election",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "The CEO of Iryo warned three weeks ago that the LZB system was failing and leaving its trains \"stopped\"",
+      "title_ko": "이리오 CEO, 3주 전 LZB 시스템 고장으로 열차가 '멈춰' 선다고 경고",
+      "summary_ko": "스페인 철도사 이리오(Iryo) CEO가 3주 전 LZB 신호 시스템이 고장 나 열차가 멈춰 서고 있다고 경고했었다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UQU9oYmFVeUg2b0FZMjczSHNSNU96U2VMZkQ3ZHYzRGhDV0FyN0JCSnlJekUyTkl6S2l0RUNLYTdraTVMNEhtYTZacUJqa2hiTlZ3SkVDcUlQSU5ramdrd1hoTjA1ZUxsSW9Icmo1ZjZsNERaUWFiUw?oc=5",
+      "published": "2026-10-29T20:55:35+09:00",
+      "tags": [],
+      "event": "spain-urda-train-accident",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "Arab-Israeli candidate says party has 'no connection' with fraud allegations: media",
+      "title_ko": "아랍계 이스라엘 후보 \"우리 당은 부정 의혹과 '무관'\" - 언론",
+      "summary_ko": "아랍계 이스라엘 후보가 자신의 정당이 선거 부정 의혹과 관련이 없다고 밝혔다(언론 인용).",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hb1Utd1RjOGx2VzVvblVZTTgxcXdOWmpWMXNURXV4eEozYUdmUGt3YTFua2MtQkNWLUhzem03cTdFQ3JpRFlkUU1YMDF5LTdNVnppdWsyOXNHTUVURzI0RUlRaXpJWmxFeTF6bV9PYnhjY1lKRnFpVA?oc=5",
+      "published": "2026-10-29T20:47:27+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "israel-election",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "FINLAND POLICE: INVESTIGATING ENVIRONMENTAL DAMAGE AT GOOGLE DATA CENTRE SITE",
+      "title_ko": "핀란드 경찰, 구글 데이터센터 부지 환경 훼손 수사",
+      "summary_ko": "핀란드 경찰이 구글 데이터센터 부지의 환경 훼손을 수사 중이라고 밝혔다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwWFNTblFfVXpoZDVaYUFOSTN6Y1FjTUE3MUpxZlA1WnBNWGJPQ2cxYmpPeEJYRXY2MzQ0WEtqdXotbjR1TWhNWUI1Rnk0d1ZuSkVROWtCTUpRbW1fdjJEMF82NE5TQ0g5dzFvcFdISlhnVWhyeEVHVg?oc=5",
+      "published": "2026-10-29T20:06:58+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "finland-google-datacenter",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "纽约股市三大股指29日下跌",
+      "title_ko": "뉴욕 증시 3대 지수 29일 하락",
+      "summary_ko": "29일 뉴욕 증시 3대 지수가 하락 마감했다.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JUFN2eFFCZW93NWZCTlZTQ2RuV0FkMkZOeFJpYU1FdHVFbFZWbVNWZEZSYTl6WVpWRlFGZ0U4MDFCdmZOVEpvNkVTMFpTaUJsbTg3aXhPVDRFRGFDcnNKYlFKanIzWlgtM0RUak1xajFvd3BqdWFn?oc=5",
+      "published": "2026-10-30T05:25:46+09:00",
+      "tags": [
+        "stocks"
+      ],
+      "event": "global-markets-oct29",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "美元指数29日下跌",
+      "title_ko": "달러 지수 29일 하락",
+      "summary_ko": "29일 달러 지수가 하락했다.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGc3FhV0x2dXlyYS1lYkRaYU5Gb2JCZ2NMTGFabU1GeXJHNGI3YjE1ckpWUklBM3ZLSGZLYlFJNUN0R09iSVEyYndXM1Jsal9CNS1yMGVya01raDZMZ3FaejF5NzFHMm5iX1FMNno1ZGptelRzTHpN?oc=5",
+      "published": "2026-10-30T05:01:55+09:00",
+      "tags": [
+        "monetary"
+      ],
+      "event": "global-markets-oct29",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "欧盟驻波黑维和部队一架直升机坠毁致三死12伤",
+      "title_ko": "EU 보스니아 평화유지군 헬기 추락, 3명 사망·12명 부상",
+      "summary_ko": "보스니아 헤르체고비나 주둔 EU 평화유지군 헬기가 추락해 3명이 숨지고 12명이 다쳤다.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YSGJtR1MyM1o1OXFzQUptTG1tVFRMc1U1VFk0eWpONGF2ODI2am9yR3ZzbUNPQnk4bVpGbzNNU0gyYWVOcVZlMmlfOWE5YlhiRkllNjhCY1hzbV9JZ3ZhWlRhc2xwSmtQVFZNVzA2ckh4c2JoVmZV?oc=5",
+      "published": "2026-10-30T04:28:13+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "eufor-helicopter-crash",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "伊媒：伊朗尚未对美副总统来信作出回应",
+      "title_ko": "이란 매체 \"이란, 미국 부통령 서한에 아직 답하지 않아\"",
+      "summary_ko": "이란 매체에 따르면 이란은 미국 부통령이 보낸 서한에 아직 회신하지 않았다.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VeUFCckg0d1RYXzhlR3pfaHlxangxbEgyczdUS2Q4MjdVSGZzVTlFbzF4ZXZQdDR3UmhkMnJfTl8wSmNwYnJ4b2I2RFdwSEp5RVE0OHBXOVdMZWtSelRPRDNaWThYUXdzLVJqejBnNzZLaGVRN0Rn?oc=5",
+      "published": "2026-10-30T04:28:08+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "iran-us-vp-letter",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "伦敦股市29日上涨",
+      "title_ko": "런던 증시 29일 상승",
+      "summary_ko": "29일 런던 증시가 상승 마감했다.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZcmNfdEFwZkp1cEtLMVJZMEdfanQ3VUNfOWFYbWtOUUt6Rlh6b0NFeklnU0dncm11M09EaG5vcHZ0MXo0NVgtOFp1cGY4cjU4cE5tdDBuc1hHV2lFTjhjaVJQYzB6bFNVMU5QelFOSmVINVg5SVpV?oc=5",
+      "published": "2026-10-30T04:26:43+09:00",
+      "tags": [
+        "stocks"
+      ],
+      "event": "global-markets-oct29",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "美国一名高级将领遭解职",
+      "title_ko": "미국 고위 장성 1명 해임",
+      "summary_ko": "미국의 한 고위 장성이 해임됐다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzVDlveERocTlOZjFaOEszRm13WlhkOHRVaWtMbkxpS0pPWmpKVHkyY1lsU1pSUXdOTzJpRE81bzVCdTlvY3BKdDFvYWV3Z194Z1lBa0N5eUN2aTQ1RUotZkhwLWpaSFBOZE5fVDlPWUhsa2tWdzdN?oc=5",
+      "published": "2026-10-30T04:08:16+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-general-dismissed",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "沙特主导联军称拦截两枚胡塞武装射向利雅得的导弹",
+      "title_ko": "사우디 주도 연합군 \"후티 반군이 리야드로 쏜 미사일 2발 요격\"",
+      "summary_ko": "사우디 주도 연합군은 후티 반군이 리야드를 향해 발사한 미사일 2발을 요격했다고 밝혔다.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9aZV9JLWlaOXprRnAxQmhXczZDZkYzWDM0Z3hIMWNmeFVhenhyWm9vbXduZW1ldG9jLTJXRVBmX1diR3dMN0Zkamx5XzdvcnZkazRXVWIxcWdfbUFKQ1lQdGw3bWV6My1rOVFQeUtFbXJUY21KSENN?oc=5",
+      "published": "2026-10-30T03:43:02+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "houthi-missiles-riyadh",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "加拿大发布20多年来首份国家安全战略",
+      "title_ko": "캐나다, 20여 년 만에 첫 국가안보전략 발표",
+      "summary_ko": "캐나다가 20여 년 만에 처음으로 국가안보전략을 발표했다.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKbk9vMEYyZ3EtX1Y2YVBvYUxQd2hhNE5UVE1fQWJxWkdzQkhNOUo5dzF4M1o2akNrRDk4amRqd3FPSjVyWjR3VEQ1T09TLW9xVzRfaUw1cHBueUZkUnhNWXZHMi1OX0pncEdUNWdWaW5uWktIbmpB?oc=5",
+      "published": "2026-10-30T03:22:41+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation"
+      ],
+      "event": "canada-national-security-strategy",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "此行间·持之以恒推进全面从严治党，总书记在多次讲话中指引方向",
+      "title_ko": "[이 여정 사이] 전면적 종엄치당 꾸준히 추진…총서기가 여러 연설에서 방향 제시",
+      "summary_ko": "시진핑 총서기가 여러 연설에서 전면적 종엄치당(엄격한 당 관리)의 방향을 제시했다는 기사.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qZkFCLU4xcXZxcmZEdUFjcWd6V21SX3BXNzdEQUxEdHU0R3FFSzJ4Mzc0TEpJeGtmUlRiYTVfOXRXVEdVTkc2dlJNTGlhTXBOZkhIbEpzWjBXcnljYmtvSnVqTkt0aEJ1YkV0VXdFem5zZw?oc=5",
+      "published": "2026-10-29T21:55:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "cpc-5th-plenum",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "淮安淮阴区：鱼跃人欢起网忙【2】",
+      "title_ko": "화이안 화이인구: 물고기 뛰고 사람들 기뻐하며 그물 걷기 바빠【2】",
+      "summary_ko": "장쑤성 화이안시 화이인구의 어획 풍경을 담은 지역 기사.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44ODhMRzYwaU9VckZDLU5RU1FfakRvMWo1OHNTUHV3RjBLbnNGRHFXNl9VYlRLSmxfWmRFY0EwOUZRUXMydjlPQ3NpY29lRE1URVo4X1I3ZmJhVmJseWlTT1BESlJjc2xLbTFXVw?oc=5",
+      "published": "2026-10-29T21:36:00+09:00",
+      "tags": [],
+      "event": "huaian-fishing",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "中国共产党第二十届中央委员会第五次全体会议在京举行【2】 - 人民网-图片频道",
+      "title_ko": "중국공산당 제20기 중앙위원회 제5차 전체회의 베이징서 개최【2】 - 인민망 사진채널",
+      "summary_ko": "중국공산당 제20기 5중전회가 베이징에서 열렸다(사진 기사).",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pYjFIS3pUTlpGWjZ4ajBpX2JZUWJMZWN3NjA4R0FHYXlhYXk4TTNPODhqRlRJYm9JbFcyQmk3RDNJSjBLV3BzejBJM1RzOWNFUUFrX3c2ckp6Y013MW5IYlhKd01NY0ZGVXMzRjZB?oc=5",
+      "published": "2026-10-29T21:09:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "cpc-5th-plenum",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "让青年站“C位” 南京举行“理响鼓楼·青年说”",
+      "title_ko": "청년이 '센터'에… 난징 '리샹구러우·청년설' 개최",
+      "summary_ko": "난징 구러우구에서 청년 강연 행사가 열렸다는 지역 기사.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NQkY3M0w1amgzZ1pCakVtc3cwV256cV9JVnVWS0lvSFZsZ21fOTkyZ3dmN05QTXo5OXEwUjlKUUk1aXNUYnhuelg2OF9jRmRyMjlQdkktS096QS1yUnNHLXNmZUNmN08wZ0E?oc=5",
+      "published": "2026-10-29T20:29:00+09:00",
+      "tags": [],
+      "event": "nanjing-youth-event",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "盐城东台赴青岛举办农业发展投资说明会 11个项目集中签约",
+      "title_ko": "옌청 둥타이, 칭다오서 농업 발전 투자설명회…11개 프로젝트 일괄 계약",
+      "summary_ko": "장쑤성 옌청시 둥타이가 칭다오에서 농업 투자설명회를 열어 11개 프로젝트를 계약했다.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yWmJwTnMwLWJET3h6ZElnbUNfVjJScEJaRDRKaUNYcFBKU0V0VEM1SkUxQnBUSWVtMUU4RHlSWjY0WkJfM2VwMmZLVGR0V2hvVW9FakJyNmxjZ3ZuSXF2YnlrWVlxazhqR1E?oc=5",
+      "published": "2026-10-29T19:34:00+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "dongtai-agri-investment",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "中国和智利两国央行续签双边本币互换协议--国际",
+      "title_ko": "중국·칠레 중앙은행, 양자 통화스와프 협정 갱신",
+      "summary_ko": "중국과 칠레 양국 중앙은행이 양자 본위화폐 스와프 협정을 갱신했다.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWeE01cVJieWlTQWYxc1g0SjQzYTQ4NF9CclFJUVdPc291bEVQQUZSVnQzeG9fZ0lzWmpGUHNvM0hwSjh2bzZtZm1rX01zTUNmN0Qwdzhaa09vUDdqLWJ2bEJCTmZYMFFGdVNJdw?oc=5",
+      "published": "2026-10-29T19:14:00+09:00",
+      "tags": [
+        "monetary",
+        "geopolitics"
+      ],
+      "event": "china-chile-currency-swap",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "党的二十届五中全会审议通过《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》",
+      "title_ko": "20기 5중전회, 「전면적 종엄치당을 꾸준히 추진하는 데 관한 약간의 중대 문제에 대한 중공중앙 결정」 심의·통과",
+      "summary_ko": "중국공산당 20기 5중전회가 전면적 종엄치당 추진에 관한 중앙 결정을 심의·통과시켰다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfZmlwQkxyd293X18tNWxSR3RRZU9mX1N6Z2p2Zi1WNzQ3SjAyUEczcG4zZTR6TldoaERDTTRIcVY5QlpWc1BJTjh0MXFIWi10ODBxdC1hbW1sc1NzNlhRakZaOW5IMnZDTnlv?oc=5",
+      "published": "2026-10-29T18:48:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "cpc-5th-plenum",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "中共中央将于30日上午举行新闻发布会介绍和解读党的二十届五中全会精神--新闻报道",
+      "title_ko": "중공중앙, 30일 오전 기자회견 열어 20기 5중전회 정신 소개·해설 예정",
+      "summary_ko": "중국공산당 중앙이 30일 오전 기자회견을 열어 20기 5중전회 정신을 소개·해설할 예정이다.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sc0ZNSzdpNlhqUTdOaDA4aXl6X1JnY3d5bVpLeGR2bUoxOEF4RFZkaWlja3o4SEdBU0NOZGR4MjBvdGZmVHh5RmRmQjh4cGpyOEJWTTlyN2I3bHpsMGZ6WGJmODZnRjJlOVE?oc=5",
+      "published": "2026-10-29T18:48:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "cpc-5th-plenum",
+      "state_media": true
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "In Michigan Senate race, Trump’s softer China tone gives candidates room to look elsewhere",
+      "title_ko": "미시간 상원 선거, 트럼프의 누그러진 대중국 어조에 후보들 다른 쟁점 모색",
+      "summary_ko": "2년 전 공화당 전당대회에서 '중국 공산당과 손잡지 않고는 EV를 만들 수 없다'고 경고했던 마이크 로저스 전 하원 정보위원장은 2024년 미시간 상원 선거에서 중국 투자 반대를 주요 쟁점으로 삼았다가 민주당 엘리사 슬롯킨에게 근소하게 패했다. 트럼프의 대중 어조가 누그러지면서 후보들이 다른 쟁점을 찾고 있다.",
+      "url": "https://www.scmp.com/news/us/us-elections/article/3372640/michigan-senate-race-trumps-softer-china-tone-gives-candidates-room-look-elsewhere",
+      "published": "2026-10-30T05:49:13+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "michigan-senate-china",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Patrick Stewart, of Star Trek and X-Men fame, dies at 86",
+      "title_ko": "'스타트렉'·'엑스맨' 패트릭 스튜어트, 86세로 별세",
+      "summary_ko": "'스타트렉: 넥스트 제너레이션'의 피카드 선장, '엑스맨'의 자비에 교수로 유명한 셰익스피어 배우 패트릭 스튜어트가 86세로 별세했다. 그는 2010년 엘리자베스 여왕으로부터 기사 작위를 받았다.",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3372639/patrick-stewart-star-trek-and-x-men-fame-dies-86",
+      "published": "2026-10-30T05:17:56+09:00",
+      "tags": [],
+      "event": "patrick-stewart-death",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "EU considering Canada as ‘associate member’ despite internal opposition",
+      "title_ko": "EU, 내부 반대에도 캐나다 '준회원' 지위 검토",
+      "summary_ko": "폰데어라이엔 집행위원장은 목요일 EU와 캐나다가 캐나다를 EU 최초의 '준회원'으로 하는 방안을 계속 모색하고 있다고 말했으나, 이 용어는 회원국 간 논란이 커 공동선언에는 포함되지 않았다. 양측은 AI·기후·에너지·안보 협력 심화를 목표로 한다.",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3372638/eu-considering-canada-associate-member-despite-internal-opposition",
+      "published": "2026-10-30T04:43:34+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "eu-canada-associate-membership",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "3 killed in rock spire collapse in Turkey’s touristic Cappadocia",
+      "title_ko": "튀르키예 관광지 카파도키아 암석 첨탑 붕괴로 3명 사망",
+      "summary_ko": "폭우로 인한 산사태로 유네스코 세계유산인 튀르키예 카파도키아의 암석 첨탑이 무너져 외국인 1명을 포함해 3명이 숨졌다고 당국이 밝혔다.",
+      "url": "https://www.scmp.com/news/world/europe/article/3372637/3-killed-rock-spire-collapse-turkeys-touristic-cappadocia",
+      "published": "2026-10-30T02:58:57+09:00",
+      "tags": [],
+      "event": "cappadocia-collapse",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Hong Kong’s John Lee apologises for Tai Po fire, unveils reforms as housing chief resigns",
+      "title_ko": "홍콩 존 리 행정장관, 타이포 화재 사과·개혁안 발표…주택국장 사임",
+      "summary_ko": "존 리 행정장관이 지난해 타이포 대형 화재에 대해 사과하고 공무원·입법 개혁과 정부 부처 개편을 약속했다. 위니 호 주택국장은 정치적 책임을 지고 사임했다.",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3372634/hong-kongs-john-lee-apologises-tai-po-fire-unveils-reforms-housing-chief-resigns",
+      "published": "2026-10-30T01:08:24+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "hk-tai-po-fire-reforms",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "US bans Chinese labs from testing electronics ahead of Trump-Xi meeting",
+      "title_ko": "미국, 트럼프-시진핑 회담 앞두고 중국 실험실의 전자제품 시험 금지",
+      "summary_ko": "미 연방통신위원회(FCC)는 목요일 미국 시장용 전자기기를 중국 내 시험소·인증기관이 시험하지 못하도록 금지하는 안을 표결로 의결했다. 트럼프 대통령은 수주 뒤 선전 APEC 정상회의 계기에 시진핑 주석과 만날 예정이다.",
+      "url": "https://www.scmp.com/news/us/article/3372632/us-bans-chinese-labs-testing-electronics-ahead-trump-xi-meeting",
+      "published": "2026-10-30T00:39:38+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation",
+        "industry"
+      ],
+      "event": "us-fcc-china-labs-ban",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Thailand revokes naturalised head rabbi’s citizenship over repeated US passport use",
+      "title_ko": "태국, 미국 여권 반복 사용한 귀화 랍비장 시민권 박탈",
+      "summary_ko": "태국 정부는 2013년 귀화한 랍비장 요세프 하임 칸토르가 귀화 후 미국 여권을 반복 사용했다는 이유로 태국 시민권을 박탈했다고 밝혔다. 이민법 집행 강화의 일환이다.",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372630/thailand-revokes-naturalised-head-rabbis-citizenship-over-repeated-us-passport-use",
+      "published": "2026-10-29T23:44:01+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "thailand-rabbi-citizenship",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "China tests powerful AI that could one day be used on submarines",
+      "title_ko": "중국, 잠수함 탑재 가능성 있는 강력한 AI 시험",
+      "summary_ko": "중국이 개량형 심해 유인잠수정 자오룽호의 7,000m급 심해 시험과 함께 AI 기술을 선보였다. 자오룽호는 필리핀 해분에서 세 차례 잠수해 최대 7,056.9m에 도달했으며, 유사 시스템이 핵잠수함 의사결정 지원에 쓰일 가능성이 거론된다.",
+      "url": "https://www.scmp.com/news/china/science/article/3372528/china-tests-powerful-ai-could-one-day-be-used-submarines",
+      "published": "2026-10-29T23:43:53+09:00",
+      "tags": [
+        "industry",
+        "geopolitics"
+      ],
+      "event": "china-deep-sea-equipment",
+      "state_media": false
+    },
+    {
+      "source": "China Daily",
+      "title_original": "海外怎么看姆巴佩事件",
+      "title_ko": "해외는 음바페 사건을 어떻게 보나",
+      "summary_ko": "음바페 관련 사건에 대한 해외 시각을 다룬 기사(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtNGNuMmJpajd6S0hhUDdIZnVTeWJqQkZCQXR5bWhDWEpmUlg5MEhoOUxZS2JUdXYzUXo5VW9jempuNUZwNVhUQmVWMHlkbnlMTEtHNjIyTG11bkY5c0U3SlgxNmRPd2h0c2RUbGJtQmRGdGt5cTROZXJJV08?oc=5",
+      "published": "2026-10-29T23:56:54+09:00",
+      "tags": [],
+      "event": "mbappe-incident",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "德国总统施泰因迈尔访问中国科学院",
+      "title_ko": "슈타인마이어 독일 대통령, 중국과학원 방문",
+      "summary_ko": "프랑크발터 슈타인마이어 독일 대통령이 중국과학원을 방문했다.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9udEhlQUlWUUJ6ZVgwVDhmNXNRRXJuc0U0V3FicVpMaDF2YWVySEhoN3JxZ3ltZENPWWdfVGlMdGtlTjhUWEZLRzhlckh4SnVzczhDM0ZyMGpQRWVNd2VnemtfdXl3bkpPOUlBTy1YVFkxYUlaVzlIamN3MEc?oc=5",
+      "published": "2026-10-29T22:35:21+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "steinmeier-china-visit",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "奥地利前防长谈非洲基建：中欧携手赋能，全球南方应深度参与",
+      "title_ko": "오스트리아 전 국방장관, 아프리카 인프라 논하며 \"중·유럽 협력해 역량 부여, 글로벌 사우스 깊이 참여해야\"",
+      "summary_ko": "오스트리아 전 국방장관이 아프리카 인프라와 관련해 중국·유럽 협력과 글로벌 사우스의 참여를 강조했다(인터뷰, 제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56bEdGRExNSzRJNFhJZW8zWXc5bXRxRHFYbVJlb0RvMnhNZ2pGdnVXMlVfeWNSVFdfVDNTdVM0TTVYay04WjBnSkRsckhRanl1Q2RWRHN3bkRNWnB3M1ZfSHJRLTBqeWgyQXN1RnNFOXJ5VmZCY25KYlpIdV8?oc=5",
+      "published": "2026-10-29T22:12:54+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "austria-exminister-africa",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "国内最长地铁环线全线开通",
+      "title_ko": "국내 최장 지하철 순환선 전 구간 개통",
+      "summary_ko": "중국 국내 최장 지하철 순환선이 전 구간 개통했다(도시명은 제목에 없음).",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvMzkyT3hkLUx5RUs0cVItdXFZVXBTTjZnb0xvSDNfUTJlNmJHZVFzeGhKMG5GZkdKYy10UDZIbVBCYkhGdHdaWlZENE84XzJxZS1aVXkxd0dBdUp3YzkxYXU4OGtaVnloRjVib0IwSWtrUXpodVR1d2dCMA?oc=5",
+      "published": "2026-10-29T22:02:54+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "longest-metro-loop",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "国防部：日方窥视滋扰中方正当行动暴露受迫害妄想症",
+      "title_ko": "국방부 \"일본의 중국 정당 활동 엿보기·방해는 피해망상증 드러낸 것\"",
+      "summary_ko": "중국 국방부가 일본 측이 중국의 정당한 활동을 엿보고 방해한 것은 피해망상증을 드러낸 것이라고 비판했다.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tNVZzQWxOb0tSWWpJMG5mUG1mM044N1hBc1pNazZvVmJoMUE2NlBkTVpjYkRwLWc1bUE0dl9Rak1POVlvemhLMEQ2dWpXUF9FMFdGUGxiejBsQ3N5cS0wY1VFU2cxZEkwNXlQNHFGam9ZMXFCZTllMzdZZw?oc=5",
+      "published": "2026-10-29T21:59:37+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "china-mod-japan",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "此行间·持之以恒推进全面从严治党，总书记在多次讲话中指引方向",
+      "title_ko": "[이 여정 사이] 전면적 종엄치당 꾸준히 추진…총서기가 여러 연설에서 방향 제시",
+      "summary_ko": "시진핑 총서기가 여러 연설에서 전면적 종엄치당의 방향을 제시했다는 기사(인민일보 동일 제목 기사와 같은 내용).",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVWWpIZkUxR0lJS1NCSDdvRDBwdHlrZVlHbFNBeWptRXV3eDRYMEgzSFVWSGNsNnBSZ1p2V3VfWXpZbzl4WTZGX3R3X0hydEZCX1REb2JFNV9GRTJibnlQdVZwc3h6SFhuY0ZUV0xSVmswdzFTem83T0YyNTc?oc=5",
+      "published": "2026-10-29T21:56:36+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "cpc-5th-plenum",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "汪顺、叶诗文宣讲中华体育精神：“泳”往直前的成长之路",
+      "title_ko": "왕순·예스원, 중화 체육정신 강연: 수영처럼 '앞으로' 나아간 성장기",
+      "summary_ko": "수영 스타 왕순·예스원이 중화 체육정신을 주제로 강연했다.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lanpqNmlMZlJ2M2FmYXZjU19Pc1FKUVVDd3g1dVo4eHBKSkNpb0s4QnAxdzAwaVZnMmN6R2hXaDA4dGt1MlduSGRySldQMUY0ZnEyT3B5Q0d2eEdzajBIODhGZ0FLWjJDelJnNXh5NXZlVWhTQ3VmbXg3X2s?oc=5",
+      "published": "2026-10-29T21:45:44+09:00",
+      "tags": [],
+      "event": "swimmers-lecture",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "中法工商会常务副会长：大湾区模式给全球南方提供新思路",
+      "title_ko": "중·프 상공회의소 상무부회장 \"대만구(그레이터베이) 모델, 글로벌 사우스에 새 아이디어 제공\"",
+      "summary_ko": "중국·프랑스 상공회의소 상무부회장이 광둥-홍콩-마카오 대만구 모델이 글로벌 사우스에 새로운 해법을 제시한다고 말했다.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zemNZNTRnN3puWkI4eElxTlZUdXo1U2VRQ1htQ19URFZlM0VZWTdDSlg2RFA3NHlLQ0F4NHlpUzVXTnc1MnZtVV8tMk1WRVdHTW9kZHJsZENQNFRtbVJ4VGNBejVHWV9DQkppbDA4MV9pSDdZa0ZBZ2ZIczA?oc=5",
+      "published": "2026-10-29T21:16:57+09:00",
+      "tags": [
+        "business",
+        "geopolitics"
+      ],
+      "event": "gba-model-global-south",
+      "state_media": true
+    }
+  ],
+  "events": [
+    {
+      "event": "eu-canada-associate-membership",
+      "title_ko": "EU-캐나다 정상회의·캐나다 '준회원' 구상",
+      "sources": [
+        "CCTV",
+        "CGTN",
+        "SCMP (홍콩)"
+      ],
+      "count": 3
+    },
+    {
+      "event": "cpc-5th-plenum",
+      "title_ko": "중국공산당 20기 5중전회(종엄치당 결정)",
+      "sources": [
+        "People's Daily",
+        "China Daily"
+      ],
+      "count": 5
+    },
+    {
+      "event": "china-deep-sea-equipment",
+      "title_ko": "중국 심해 장비·자오룽호 AI 시험",
+      "sources": [
+        "CCTV",
+        "SCMP (홍콩)"
+      ],
+      "count": 2
+    },
+    {
+      "event": "canada-national-security-strategy",
+      "title_ko": "캐나다 20여 년 만의 첫 국가안보전략",
+      "sources": [
+        "CGTN",
+        "Xinhua"
+      ],
+      "count": 2
+    },
+    {
+      "event": "global-markets-oct29",
+      "title_ko": "29일 뉴욕·런던 증시, 달러 지수",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 3
+    },
+    {
+      "event": "spain-urda-train-accident",
+      "title_ko": "스페인 우르다 열차 사고",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 2
+    },
+    {
+      "event": "israel-election",
+      "title_ko": "이스라엘 총선 개표",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 2
+    },
+    {
+      "event": "beijing-car-tradein-subsidy",
+      "title_ko": "베이징 자동차 이구환신(노후차 교체) 보조금 신청 마감, 내년 1월로 연장",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "brazil-lula-reelection",
+      "title_ko": "[라틴아메리카 관찰] 룰라 재집권, 브라질이 맞을 시험은?",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "autumn-hiking-guide",
+      "title_ko": "가을·겨울 등산엔 '3겹 샌드위치식' 복장 추천…실용 가이드",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "us-f35-purchase",
+      "title_ko": "미국 F-35 전투기 추가 구매 계획…'10년 대형 계약'은 무엇을 의미하나",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "taklamakan-greening",
+      "title_ko": "둘레 봉쇄 '완공'이 끝이 아니다…타클라마칸 사막 가장자리 녹화 계속",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "campus-small-houses",
+      "title_ko": "여러 대학 캠퍼스에 등장한 '작은 집'…학생들 \"정말 실용적\"",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "qatarenergy-iran-talks",
+      "title_ko": "[단독] 카타르에너지 CEO \"최근 2주간 이란 석유장관 대행과 두 차례 회동…전후 석유·가스 협력 모색\"",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 1
+    },
+    {
+      "event": "finland-google-datacenter",
+      "title_ko": "핀란드 경찰, 구글 데이터센터 부지 환경 훼손 수사",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 1
+    },
+    {
+      "event": "eufor-helicopter-crash",
+      "title_ko": "EU 보스니아 평화유지군 헬기 추락, 3명 사망·12명 부상",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "iran-us-vp-letter",
+      "title_ko": "이란 매체 \"이란, 미국 부통령 서한에 아직 답하지 않아\"",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "us-general-dismissed",
+      "title_ko": "미국 고위 장성 1명 해임",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "houthi-missiles-riyadh",
+      "title_ko": "사우디 주도 연합군 \"후티 반군이 리야드로 쏜 미사일 2발 요격\"",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "huaian-fishing",
+      "title_ko": "화이안 화이인구: 물고기 뛰고 사람들 기뻐하며 그물 걷기 바빠【2】",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "nanjing-youth-event",
+      "title_ko": "청년이 '센터'에… 난징 '리샹구러우·청년설' 개최",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "dongtai-agri-investment",
+      "title_ko": "옌청 둥타이, 칭다오서 농업 발전 투자설명회…11개 프로젝트 일괄 계약",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "china-chile-currency-swap",
+      "title_ko": "중국·칠레 중앙은행, 양자 통화스와프 협정 갱신",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "michigan-senate-china",
+      "title_ko": "미시간 상원 선거, 트럼프의 누그러진 대중국 어조에 후보들 다른 쟁점 모색",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "patrick-stewart-death",
+      "title_ko": "'스타트렉'·'엑스맨' 패트릭 스튜어트, 86세로 별세",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "cappadocia-collapse",
+      "title_ko": "튀르키예 관광지 카파도키아 암석 첨탑 붕괴로 3명 사망",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "hk-tai-po-fire-reforms",
+      "title_ko": "홍콩 존 리 행정장관, 타이포 화재 사과·개혁안 발표…주택국장 사임",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "us-fcc-china-labs-ban",
+      "title_ko": "미국, 트럼프-시진핑 회담 앞두고 중국 실험실의 전자제품 시험 금지",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "thailand-rabbi-citizenship",
+      "title_ko": "태국, 미국 여권 반복 사용한 귀화 랍비장 시민권 박탈",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "mbappe-incident",
+      "title_ko": "해외는 음바페 사건을 어떻게 보나",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "steinmeier-china-visit",
+      "title_ko": "슈타인마이어 독일 대통령, 중국과학원 방문",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "austria-exminister-africa",
+      "title_ko": "오스트리아 전 국방장관, 아프리카 인프라 논하며 \"중·유럽 협력해 역량 부여, 글로벌 사우스 깊이 참여해야\"",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "longest-metro-loop",
+      "title_ko": "국내 최장 지하철 순환선 전 구간 개통",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "china-mod-japan",
+      "title_ko": "국방부 \"일본의 중국 정당 활동 엿보기·방해는 피해망상증 드러낸 것\"",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "swimmers-lecture",
+      "title_ko": "왕순·예스원, 중화 체육정신 강연: 수영처럼 '앞으로' 나아간 성장기",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "gba-model-global-south",
+      "title_ko": "중·프 상공회의소 상무부회장 \"대만구(그레이터베이) 모델, 글로벌 사우스에 새 아이디어 제공\"",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    }
+  ],
+  "unavailable_sources": [
+    "Global Times",
+    "Caixin"
+  ]
+}
