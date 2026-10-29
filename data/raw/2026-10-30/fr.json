@@ -1,8 +1,35 @@
 {
   "team": "fr",
   "team_name_ko": "프랑스팀",
-  "collected_at": "2026-10-30T06:15:25.361184+09:00",
+  "collected_at": "2026-10-30T08:38:20.809080+09:00",
   "headlines": [
+    {
+      "source": "France 24",
+      "title_original": "Midterms aux États-Unis : les démocrates en position de force ?",
+      "summary_original": "J-5 avant les midterms aux États-Unis. La campagne bat son plein. Barack Obama est venu soutenir les candidats démocrates dans l’Ohio, le Michigan et la Géorgie. De son côté, Donald Trump poursuit sa tournée électorale en Caroline du Sud, à Rock Hill, après s’être rendu hier dans l’Ohio. Il a également fait campagne en Géorgie, dans le Michigan, au Mississippi et au Texas.",
+      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261029-midterms-aux-%C3%A9tats-unis-les-d%C3%A9mocrates-en-position-de-force",
+      "published": "2026-10-30T06:53:12+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Un sommet Russie-Afrique à l'avantage de Moscou ?",
+      "summary_original": "La coopération économique entre la Russie et l'Afrique est-elle sur un pied d'égalité ? La question se pose alors que s'achève le 3e sommet organisé à Moscou. Vladimir Poutine insiste sur le renforcement de cette coopération mais le bilan des précédents partenariats montre qu'ils bénéficient surtout à la Russie.",
+      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261029-un-sommet-russie-afrique-%C3%A0-l-avantage-de-moscou",
+      "published": "2026-10-30T06:44:31+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Soupçons de détournement de fonds publics : Édouard Philippe placé sous le statut de témoin assisté",
+      "summary_original": "Candidat à l'élection présidentielle, Édouard Philippe a été placé jeudi sous le statut de témoin assisté dans l'enquête ouverte pour détournement de fonds publics, favoritisme et harcèlement moral au sein de la communauté d'agglomération du Havre, dont il est maire, rapportent des sources proches du dossier. Il a été entendu par deux juges d'instruction financiers.",
+      "url": "https://www.france24.com/fr/france/20261029-soup%C3%A7ons-de-d%C3%A9tournement-de-fonds-publics-%C3%A9douard-philippe-plac%C3%A9-sous-le-statut-de-t%C3%A9moin-assist%C3%A9",
+      "published": "2026-10-30T06:09:57+09:00",
+      "via": "rss",
+      "state_media": false
+    },
     {
       "source": "France 24",
       "title_original": "L'acteur Patrick Stewart, célèbre pour ses rôles dans \"X-Men\" et \"Star Trek\" est mort",
@@ -49,56 +76,20 @@
       "state_media": false
     },
     {
-      "source": "France 24",
-      "title_original": "Midterms : Barack Obama, le joker des démocrates de la dernière heure",
-      "summary_original": "L’ex-président démocrate Barack Obama a participé en une semaine à trois grands rassemblements de campagne pour les élections de mi-mandat aux États-Unis. Au fil des ans, il semble être devenu le joker du camp démocrate dans la dernière ligne droite avant un scrutin. Ce n’est pas un hasard.",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20261029-midterms-barack-obama-joker-des-d%C3%A9mocrates-derni%C3%A8re-heure-campagne",
-      "published": "2026-10-30T02:27:44+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "France 24",
-      "title_original": "Le sport espagnol rend hommage aux victimes de la collision entre deux trains",
-      "summary_original": "En Espagne, le sport est lui aussi en deuil. Après la collision entre deux trains ce mercredi 28 octobre à Urda, dans le sud de Madrid, de nombreuses équipes et sportifs espagnols ont rendu hommage aux victimes de l'accident.",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261029-le-sport-espagnol-rend-hommage-aux-victimes-de-la-collision-entre-deux-trains-ce-mercredi",
-      "published": "2026-10-30T02:13:58+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "France 24",
-      "title_original": "Législatives en Israël : accusations de fraude envers le parti arabe, le président appelle au calme",
-      "summary_original": "Le président israélien Isaac Herzog a appelé jeudi 29 octobre à ne pas stigmatiser tout le vote arabe israélien, alors que le camp de Netanyahu et ses alliés accusent les partis de cette minorité de fraudes électorales via des financements étrangers, une enquête a été ouverte.",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261029-l%C3%A9gislatives-en-isra%C3%ABl-accusations-de-fraude-le-pr%C3%A9sident-appelle-au-calme",
-      "published": "2026-10-30T02:07:29+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "franceinfo (France 2)",
-      "title_original": "Edouard Philippe placé sous le statut de témoin assisté dans une affaire de détournement de fonds publics, son avocat salue une \"décision favorable\"",
-      "summary_original": "L'ancien Premier ministre, candidat à la présidentielle, a été entendu toute la journée par deux juges d'instruction financiers, qui l'avaient convoqué pour l'entendre comme témoin assisté, un statut moins incriminant qu'une mise en examen.",
-      "url": "https://www.franceinfo.fr/politique/edouard-philippe/edouard-philippe-place-sous-le-statut-de-temoin-assiste-dans-une-affaire-de-detournement-de-fonds-publics-son-avocat-salue-une-decision-favorable_8259449.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-10-30T06:09:21+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
       "source": "franceinfo (France 2)",
       "title_original": "Attentat raciste dans les Yvelines : le suspect, Kévin Tessier, a été mis en examen et placé en détention provisoire",
       "summary_original": "L'homme de 39 ans a reconnu être l'auteur de l'attentat raciste et a admis avoir \"spécifiquement\" ciblé des personnes \"de type musulman, africain ou nord-africain\", a annoncé le procureur du Pnat jeudi.",
       "url": "https://www.franceinfo.fr/societe/trappes/direct-attentat-raciste-a-trappes-le-suspect-a-ete-transfere-dans-la-nuit-au-tribunal-judiciaire-de-paris-en-vue-de-sa-mise-en-examen_8258192.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-10-30T05:56:57+09:00",
+      "published": "2026-10-30T07:52:46+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "franceinfo (France 2)",
-      "title_original": "L'acteur britannique Patrick Stewart, légendaire capitaine Picard dans la série \"Star Trek\", est mort à l'âge de 86 ans",
-      "summary_original": "Il s'était également fait connaître pour son interprétation du professeur Charles Xavier dans les films de la saga \"X-Men\".",
-      "url": "https://www.franceinfo.fr/culture/cinema/l-acteur-britannique-patrick-stewart-legendaire-capitaine-picard-dans-la-serie-star-trek-est-mort-a-l-age-de-86-ans_8259416.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-10-30T05:46:03+09:00",
+      "title_original": "Christine Lagarde annonce son départ anticipé de la Banque centrale européenne en février 2027",
+      "summary_original": "L'ancienne ministre de l'Economie affirme vouloir \"avoir la liberté de parole, la liberté d'expression et la liberté de m'engager sur des sujets qui ne relèvent pas de la politique monétaire\", à quelques mois de l'élection présidentielle en France.",
+      "url": "https://www.franceinfo.fr/monde/europe/christine-lagarde-annonce-son-depart-anticipe-de-la-banque-centrale-europeenne-en-fevrier-2027_8258633.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-30T07:51:06+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -107,70 +98,70 @@
       "title_original": "Un hélicoptère de la Force européenne militaire s'écrase en Bosnie, au moins quatre morts",
       "summary_original": "Cet aéronef italien s'est écrasé \"lors d'une opération de routine\", selon le commandement de l'Eufor, une force chargée de maintenir la paix dans ce pays des Balkans. Onze autres personnes ont été blessées, selon une source hospitalière.",
       "url": "https://www.franceinfo.fr/faits-divers/accident/un-helicoptere-de-la-force-europeenne-militaire-s-ecrase-en-bosnie-au-moins-quatre-morts_8259398.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-10-30T04:49:06+09:00",
+      "published": "2026-10-30T07:39:49+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "franceinfo (France 2)",
-      "title_original": "Attentat raciste dans les Yvelines : \"Il y a eu plusieurs ratés\", regrette Yassine Bouzrou, avocat de victimes",
-      "summary_original": "Le suspect avait notamment été arrêté trois jours avant pour avoir agressé un homme noir dans une station-service d'Ile-de-France, selon une source proche de l’enquête.",
-      "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-dans-les-yvelines-il-y-a-eu-plusieurs-rates-regrette-yassine-bouzrou-avocat-de-victimes_8259278.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-10-30T04:04:00+09:00",
+      "title_original": "Edouard Philippe placé sous le statut de témoin assisté dans une affaire de détournement de fonds publics, son avocat salue une \"décision favorable\"",
+      "summary_original": "L'ancien Premier ministre, candidat à la présidentielle, a été entendu toute la journée par deux juges d'instruction financiers, qui l'avaient convoqué pour l'entendre comme témoin assisté, un statut moins incriminant qu'une mise en examen.",
+      "url": "https://www.franceinfo.fr/politique/edouard-philippe/edouard-philippe-place-sous-le-statut-de-temoin-assiste-dans-une-affaire-de-detournement-de-fonds-publics-son-avocat-salue-une-decision-favorable_8259449.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-30T07:36:05+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "franceinfo (France 2)",
-      "title_original": "Avant l'attentat raciste dans les Yvelines, le suspect avait été arrêté pour avoir agressé un homme noir",
-      "summary_original": "Trois jours avant son périple meurtrier à Trappes, Kevin Tessier a frappé un homme noir avant d’être interpellé par des policiers, selon les premiers éléments de l'enquête.",
-      "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/avant-l-attentat-raciste-dans-les-yvelines-le-suspect-avait-ete-arrete-trois-jours-plus-tot-pour-avoir-agresse-un-homme-noir_8258999.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-10-30T04:02:57+09:00",
+      "title_original": "Violences dans les manifestations : les cellules locales de déontologie, l'autre police des polices, sont-elles assez contrôlées ?",
+      "summary_original": "Alors que les plaintes visant les forces de l’ordre se multiplient, une grande partie des enquêtes pour des faits impliquant des policiers échappe à l’IGPN. Elles sont confiées à des cellules locales de déontologie, dont le manque de transparence et les conditions de fonctionnement soulèvent des questions sur l’indépendance et la qualité des investigations.",
+      "url": "https://www.franceinfo.fr/faits-divers/police/revelations-sur-les-cellules-de-deontologie-l-autre-police-des-polices_8259413.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-30T07:23:27+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "franceinfo (France 2)",
-      "title_original": "Manifestations du 31 octobre : 70 000 policiers et gendarmes seront mobilisés, \"un dispositif exceptionnel\" similaire au 24 octobre, annonce Laurent Nuñez",
-      "summary_original": "Le ministre de l'Intérieur dit s'attendre à \"une journée à risque très élevé\", samedi, notamment en soirée, avec la concomitance de la fête d’Halloween.",
-      "url": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-31-octobre-70-000-policiers-et-gendarmes-seront-mobilises-un-dispositif-exceptionnel-similaire-au-24-octobre-annonce-laurent-nunez_8259305.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-10-30T04:00:18+09:00",
+      "title_original": "\"Cheveux blonds, mi-longs, taille environ 1m60\" : en Espagne, la quête des Français portés disparus après la collision meurtrière entre deux trains",
+      "summary_original": "Des ressortissants français sont portés disparus après la collision meurtrière entre deux trains en Espagne, dont Marie Audan, une cheffe d’entreprise installée à Madrid depuis plus de 25 ans.",
+      "url": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/sept-francais-portes-disparus-apres-la-collision-meurtriere-entre-deux-trains-en-espagne_8259401.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-30T06:53:48+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "franceinfo (France 2)",
-      "title_original": "Le parquet de Lorient ouvre une enquête après la présence d'individus masqués prétendant défendre les commerçants en marge de la mobilisation du 24 octobre",
-      "summary_original": "Ce groupe autoproclamé \"d'entraide citoyenne\" s'est constitué dans le secteur de Lorient, en réponse à un appel national à défendre les commerçants face aux pillages éventuels. Un témoin a également fait état d'intimidations de leur part lorsqu'il a pris ces personnes en photo.",
-      "url": "https://www.franceinfo.fr/societe/manifestations/le-parquet-de-lorient-ouvre-une-enquete-apres-la-presence-d-individus-masques-pretendant-defendre-les-commercants-en-marge-de-la-mobilisation-du-24-octobre_8259350.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-10-30T03:26:03+09:00",
+      "title_original": "\"Ses derniers mots ont été 'Dieu est bon'\" : l'émotion des premiers témoins venus porter secours aux victimes de l'accident de trains en Espagne",
+      "summary_original": "Les habitants d'Urda, la petite ville près de Tolède en Espagne où a eu lieu le dramatique accident de train mercredi, ont été les premiers à intervenir pour secourir les blessés. Ils sont encore choqués par ce qu'ils ont vu. Les rescapés racontent ces minutes cruciales pour sauver les autres passagers.",
+      "url": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/ils-avaient-froid-ils-perdaient-beaucoup-de-sang-ils-ont-ete-les-premiers-a-porter-secours-aux-victimes-de-l-accident-de-train-en-espagne_8259425.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-30T06:44:26+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "Halloween inquiète les forces de l'ordre en marge des manifestations du 31 octobre",
+      "summary_original": "À l’approche du 31 octobre, les autorités redoutent une soirée sous tension. Entre manifestations des Gilets jaunes aux références macabres, risques de violences urbaines et présence annoncée de groupes d’ultra-droite, les forces de l’ordre se préparent à une journée jugée particulièrement sensible.",
+      "url": "https://www.franceinfo.fr/decouverte/halloween/halloween-inquiete-les-forces-de-l-ordre-en-marge-des-manifestations-du-31-octobre_8259482.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-30T06:21:39+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "TF1 Info",
-      "title_original": "\"On ne sait rien, c'est le chaos\" : ces familles qui recherchent désespérément un proche disparu dans la collision en Espagne",
-      "summary_original": "\"On ne sait rien, c'est le chaos\" : ces familles qui recherchent désespérément un proche disparu dans la collision en Espagne TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUi02b0t2enpTSGE2Q0xza2dGWGt0VVdZU2FDY3BkMENxUGp1NVp6Rk5SMmNQcFNTZGVWeDUxV1FjUlFJbzFWUGY1SmYzLV9fcUMzaE5YOEo3dVhfbTBMV1c1aDZMNWhXa0lZNkxyZU43SGwtWXZnczJJUTA5aWVvS0pqQjBaTHVlNktmenR3WDBiVFVTVlVLVXRaU1F1OTd1YW1TRXZCX21lYUR4amRkWld5Mmtya1VyajI2Q3RMMkl0RjRZaWNqX244YV9waTIzbWVrT2E2MGE4UnpINnZ4U05RaU5CaFprbmMxOWk0cFFJWEw3X0laZGFRYzRwVEE?oc=5",
-      "published": "2026-10-30T05:39:33+09:00",
+      "title_original": "Collision de trains : des enregistrements accablants",
+      "summary_original": "Collision de trains : des enregistrements accablants TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWlluR0hENGdjYUZndjFOWDZ0aUNseWpidUxPMXoydXhrOUpxX3c1eWM3bjhfSGNUclV2aUN6WDYzUDZybXlUeUY2R0s0VGpEb1hFZGNyQ2lrOFZGU3RYQnZDTVFEOFlFRVVaQ3p6ZlF6aVh1enFsSVhVU3E4NkFleVljdEROSm5hM25vTThDTWtNSDQzVTFaU0VPb3FYWGJOdklyd0xjaEI5SExSWnN4dmkyaFk5YWZKWUc0?oc=5",
+      "published": "2026-10-30T08:15:08+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "TF1 Info",
-      "title_original": "Patrick Stewart, acteur star des sagas \"X-Men\" et \"Star Trek\", est mort",
-      "summary_original": "Patrick Stewart, acteur star des sagas \"X-Men\" et \"Star Trek\", est mort TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRU1KVzhMXzZtMWp3UVJkZ2dGU0s5WHYzck1DVk00SGtiR3RaRTE4N01jWHhFVmRDLXlOM1Q5SzE1Q2VUUGliZ2ZyWFJLczc1a1k1RDBtb1A0MHFueVRObmNqdHVuakdETzA2SUREbDUtbHNLaUZhcDBvaFo1UUdXRmtNZTV1TUsyZ1NBZU85YVFSR3VUM2tPS0xXcDc5ZDVTRENKUGtNeXJuNnZwMkE?oc=5",
-      "published": "2026-10-30T05:06:33+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "Une piscine trop courte... de 3 centimètres",
-      "summary_original": "Une piscine trop courte... de 3 centimètres TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkJvZFVVUDZYNnFqY2JxYnhJMUFHQ3ZOeTZfSVRmTV9WcVhCWXVqUEJ6UW1LcjJDcS1CQWl3emxGSDREcWUwX3VoYlA2M0hGQnNOVmllNWltbTBncFZ0OWQxRHJfS0NkYmRmcjUyVXdYLXpIaEozSkd5djFaUXlzVEJrQ09TM3hCd2hCeHNra204UG5YMXI3eTRfMlE3NmdBMEtHbFRR?oc=5",
-      "published": "2026-10-30T05:00:11+09:00",
+      "title_original": "Incendie à Bergerac : d'importants dégâts à déplorer",
+      "summary_original": "Incendie à Bergerac : d'importants dégâts à déplorer TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRnVBYU0zN1NQUEE3b25nZHNiVXRMczhkZlF4VGJDLUxFMUp2Mm4yNXpYN1ZkRklfR0tuQVdKR0F0eUJnTmxEb3VsTjFGS2NWbm5HSjdLV3YzZlJoeXVKTmNJVVNBX1RkTHhSZG1SZ2ZvMEcyWUF6ZTZNbElVQ08wV1VNVk8xa2MwYXdPWHpscGtWcFZfX3JFQkQwX09sSUt1UWtKQS04YUhxdHl6RUVrOGdyUk9oWHktUnRBYl9kb0JZUWRt?oc=5",
+      "published": "2026-10-30T08:05:10+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -179,115 +170,133 @@
       "title_original": "Halloween et manifestations : un samedi à hauts risques",
       "summary_original": "Halloween et manifestations : un samedi à hauts risques TF1 Info",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVGJQNHdJSU83R2h1SDB2aWpidjJiZHVfUHFlb01zUm95SmZiZ3FSTy1DM2lTUDMyS1pfV2VEVVU5Z3Nic3hTMktsZlQtci1sNmpCYUhsUXFISmQ0SmE5eS1IZE1Za0pGWjBZd1pyRXhUZDlPWE1xNXRHMmhicVA1MC11Q2doVFFMeGVoRDh3YTB3M2F1YUcwaE1LSnlVSDVUZXRWWTlpZkJkbnJWaW1KbGswdXZLcEs3X2tyZ3pRU29OOTJsREhJdA?oc=5",
-      "published": "2026-10-30T04:55:14+09:00",
+      "published": "2026-10-30T07:55:13+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "TF1 Info",
-      "title_original": "Attentat raciste de Trappes : le récit glaçant du tueur",
-      "summary_original": "Attentat raciste de Trappes : le récit glaçant du tueur TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVzdWVkg1ZTdSNDk5eERJU0xKcjA4a1cyZC04NHM1UWVCVE5YbWszSElXaEZZaDF3WXZVZGVEcEZ6bktPQXUyQ09WSWxyUVdUUzA4bU5ha1RaeFdYLUc1cHNoRHFtM3N4dEdpTkVZOTh4czU4WmJ4SkFTVDgzazdvQjNScHItdVhjQVpsOHI1M2tVZFE5ekVUZjRlWXFjai1qWThGYjJpVWVBSEt6ekk4dFN1Ry10OXAtam1tTXR4cWRuMFl0Q1VvNA?oc=5",
-      "published": "2026-10-30T04:30:22+09:00",
+      "title_original": "70.000 forces de l'ordre mobilisées, \"risque très élevé\"… Le dispositif sécuritaire pour ce 31 octobre \"atypique\" dévoilé",
+      "summary_original": "70.000 forces de l'ordre mobilisées, \"risque très élevé\"… Le dispositif sécuritaire pour ce 31 octobre \"atypique\" dévoilé TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQczJwd0V6ZmdSM21yMEdlQkdBNS1KMUR5OVZGcGk3NVVvN3VDUnRpZHRDNjctc25BM1gtWnZUcmdnZEIzMlR4aWVUN0FJV3J6MEVjWE01T1BNWkZhQllmZHBES1FFYmRyRnBCTFRNS1c5cUlWV3k3SkhZSzdad2JtTm5FTXRhd0NTeGdJZmlLdW1BNUR5aGswUmt4ckJ2aU9UbHRWdUd5UjJDUTE4QndQR291UFB5UGFIXy0yUF9zRnlJZE5hTW4wUG5kZDgyMDdNUUFQcGxIOVJYRW81bW9ZT2s5R2J0MVFsMkdKY3FzLWZncl9xM1ZBY1dJSmN3YTF0Qm1xNHNXNGFlYVQ2cDNBWmlOV3NUVnhIQmZtTDBn?oc=5",
+      "published": "2026-10-30T07:53:02+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "TF1 Info",
-      "title_original": "Manifestations du 31 octobre : pourquoi Halloween donne des sueurs froides aux autorités",
-      "summary_original": "Manifestations du 31 octobre : pourquoi Halloween donne des sueurs froides aux autorités TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRHpNbDNZNEFjOXFYN1ZDajV6Mjg3ZWh4eG1heV9QUDItRFFycmctS0s4T0ZqQkt4TndISWRwT05UbDJ6ZUthVVQ1amFDZ1A2a011TnNLeEtXSHN6aG85WktKRUpZZXVTeTJNQ09hMmoyQ3lMazRudnZwMjBINFFxUTFndTJDYnFMQ0dVVnpaMGEtR2tOUV9CWGpUZlFxa1BjelhybHczSUJGdGEyZTRHekVUcmx2cXJaOWtoVExuSkkyREVnemlsY29zQW5KRWtCQjFuYVhQaUJtUHFPRmZScy1scGlMdXRQUklJ?oc=5",
-      "published": "2026-10-30T04:19:17+09:00",
+      "title_original": "À vendre, sous-marin tout juste volé !",
+      "summary_original": "À vendre, sous-marin tout juste volé ! TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRFNLNklBeEhVNHhKd2FyYUp5ZFhUbjNXQjFlQ1dsTTFLNUF2MjVtV053bjZrelhfZlhJRnlnNkVYQUtCUGlaMXk3TG5WZlJGZVgzZ3UwZTFzMXdNMTVneEFtZjRrNjVhSldGOFVPTDVWVDQ2T0VaaV9MQWFIVGs3YjdrYkpadXl4a2dmNU5ac0ZXT3FlYjdFdmZ5R1NFMHBEVnZXbUQ2NExsYVBydWFB?oc=5",
+      "published": "2026-10-30T07:50:09+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "TF1 Info",
-      "title_original": "\"C'est un véritable refuge émotionnel et affectif\" : comment les grands-parents doivent-ils se comporter avec leurs petits-enfants",
-      "summary_original": "\"C'est un véritable refuge émotionnel et affectif\" : comment les grands-parents doivent-ils se comporter avec leurs petits-enfants TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQU0NJa09PR2lqM2V4ekN1cjBwZFlIU0xSeDFXYTFkZjFURzY3cTVjNHJjTEprUXV6cWhrTVhaWWVCZE1YLWl1OXgtV0tTMF84NVpEWGtwZzVwWWpZd1NCclZwbVRjVEJmQ3lyZTVld25FdWJIOXlTQmtwcjZFdDNTdjROMGo1Tl9aUEVFUEFvN29xeDFJZVpKSjZ3UWxMRkdiQTFRcW1XU1RNeGdzTjdPc1FQaVlfWGhPOVFOeFFLN0xoeFc1dzgwSEpUaVIzNDg2OVZiQUZubnpTY1pxRXY0QjJBSC1IVi1DVjdfNklYeE9WSTgxaHlNVlp3U1VfYVJMa2c?oc=5",
-      "published": "2026-10-30T04:00:01+09:00",
+      "title_original": "Piratage des impôts : qui sont « ChatNoir » et « casquette » ?",
+      "summary_original": "Piratage des impôts : qui sont « ChatNoir » et « casquette » ? TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRW40N1dnbV95bGdFZVVqUkMzajQwSV9Ga0t5U0Q4LXZkWkxNRmlUeE5qM25Uci1xd0hFUS1OSGNQcXRpblVBUi1YZ3o5d2cwcWZvOVFzU1VwTkRsYW5zTExUSC13cVNzUF9Pc1FXeDZzUFJKLThTRFIzZll5VDQ3QTQzV1I1V3R4RV9PbWNwckRqcFQxSUVDNlVJdU1YT0JheWphZ09qNWZVN0NkQnlBcElrQWJmc2RkZ25MeWhpVzR5amwx?oc=5",
+      "published": "2026-10-30T07:10:18+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "TF1 Info",
-      "title_original": "Les ports français immobilisés le 30 octobre par une grève contre leur \"militarisation\"",
-      "summary_original": "Les ports français immobilisés le 30 octobre par une grève contre leur \"militarisation\" TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcXMtMXJjNmpfT21vQnZraFBMNVdSWWU1WDVhVW5waUt6QVh4R3FqODZvTVdFVUJtaUFYZ1hlenZkY0pCNHdCVVI5N0ZHeFNQbUQ2RUVCT0pRY3E1cnRVY0Z3el9mbHdDMENlVnhaU0RUNTl0eXVQaU9SSGZ1MDRmdmJmZGw0dVo1dzNPbjJnUWg0UkY3c0NZWDJBNkdUUDFsckZjRmkyMGZ4NlRTSThaalZ4cUZ4Zk4zRE01TDBCbmtfcWZ6dUU0LXdUNTNjRklzVy1JNVYzazM2elVI?oc=5",
-      "published": "2026-10-30T03:53:45+09:00",
+      "title_original": "Attentat de Trappes : l'assaillant interpellé trois jours plus tôt pour avoir frappé un automobiliste",
+      "summary_original": "Attentat de Trappes : l'assaillant interpellé trois jours plus tôt pour avoir frappé un automobiliste TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQZ0JMMnh1NG5FWElkZldlaGxkQl92YTVab2VlMnRaX2ZBc1MxdzNVcjVDbS1MNTU0cVRCbVk1MzlMOUR5MUQ4VG5uS0szUExhQlFZcFUxWl81MjBoWHdFZlFpcUxwTE45c3c0VFJDbmFyTlRyRlE1eC05cVFoWi1XSlRxZjBqQW1XaHpkTm90U2p0alJEeHd6SkdHMGhEMjJQM29jaHhDbXd6RUY0QnZXc0c4Q25Tc05KTjFUY1Bhc0pYakFNMEpPTHRjZDBrRlZjOEowalJmVDl0WEU4aGxXZGhlVGViM2pteXY5dDNzcG9QV3FMcVBra216N0c5SU9GNXdUNkdFSEx4TnNRMWItUA?oc=5",
+      "published": "2026-10-30T06:34:45+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Votre corps a besoin de se reposer entre deux sessions de sport : comment trouver le bon équilibre selon vos pratiques sportives",
+      "summary_original": "Votre corps a besoin de se reposer entre deux sessions de sport : comment trouver le bon équilibre selon vos pratiques sportives TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQaGl4ZmU2ZDlsOXl1QWk5MVhnU2s5QU9ObndHMjJsY2hDUjVJUnhlQUd0eWlxeXhCWjRLWkNQclhFai1xMUt4UFRnUnREMjR5enZzRkxxMEY5S0VaenhkbGJvcHctaXJwTUQtczF2dzZiVml4Yi0xcG41N3U2NVRFWUh4Y1I2ak0zc1ZBUzl6OGdsRlB0Q0gzYTJ5cmlmdm84dXBVTHRlUDZTSE9adVNsOGRPY3hQUjJHSE0xcDBld0JUbTRZYVJ0cnlJT3lzUDFEQ1d2d3lPeXBWdjJOdGpQVXhTYUhVMEVWRG9qZ1VEWGF1UkVidXdKVnlFOEs?oc=5",
+      "published": "2026-10-30T06:00:40+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Résultats EuroDreams: le tirage du jeudi 29 octobre 2026",
-      "summary_original": "Découvrez les numéros qui ont été tirés au sort lors du tirage de l'EuroDreams de ce jeudi 29 octobre 2026.",
-      "url": "https://www.bfmtv.com/loto/resultats-euro-dreams-le-tirage-du-jeudi-29-octobre-2026_AN-202610290948.html",
-      "published": "2026-10-30T06:15:03+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BFMTV",
-      "title_original": "Un couvre-feu entre 22h et 6h pour les mineurs dans certains quartiers de Nice rétabli pour la nuit d'Halloween",
-      "summary_original": "Un couvre-feu est réinstauré à Nice (Alpes-Maritimes) pour la nuit du samedi 31 au dimanche 1er novembre. Il ne concerne que les mineurs et certains quartiers.",
-      "url": "https://www.bfmtv.com/cote-d-azur/un-couvre-feu-entre-22h-et-6h-pour-les-mineurs-dans-certains-quartiers-de-nice-retabli-pour-la-nuit-d-halloween_AN-202610290939.html",
-      "published": "2026-10-30T06:10:13+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BFMTV",
-      "title_original": "Crise sociale: \"On est au bord de la faillite\", estime Mickael, commerçant et entrepreneur immobilier",
+      "title_original": "FORUM BFMTV - Mobilisations du 31 octobre: \"Les lycéens et lycéennes ont peur d'aller manifester\", témoigne Anaïs, élève au lycée Kléber de Strasbourg et membre du syndicat Les Lycéens",
       "summary_original": "BFMTV propose un nouveau numéro exceptionnel du FORUM BFMTV: “Blocages, vie chère : la poudrière française” présenté par Maxime Switek. La chaîne consacre une soirée spéciale pour permettre à des citoyens, des personnalités politiques et des spécialistes d'échanger sur le mouvement sociale.",
-      "url": "https://www.bfmtv.com/societe/video-crise-sociale-on-est-au-bord-de-la-faillite-estime-mickael-commercant-et-entrepreneur-immobilier_VN-202610290932.html",
-      "published": "2026-10-30T06:05:12+09:00",
+      "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-mobilisations-du-31-octobre-les-lyceens-et-lyceennes-ont-peur-d-aller-manifester-temoigne-anais-eleve-au-lycee-kleber-de-strasbourg-et-membre-du-syndicat-les-lyceens_VN-202610290995.html",
+      "published": "2026-10-30T07:56:35+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "FORUM BFMTV – Manifestations: \"J’irai manifester\", annonce Sylvie, femme de chambre, convaincue que \"c’est en manifestant qu’on obtient des choses\"",
+      "title_original": "FORUM BFMTV - \"Le gouvernement actuel ne va rien faire de plus que ce qu'il a donné ces dix dernières années\", Raphaël à Paris dénonce l'impasse de la situation",
       "summary_original": "BFMTV propose un nouveau numéro exceptionnel du FORUM BFMTV: “Blocages, vie chère : la poudrière française” présenté par Maxime Switek. La chaîne consacre une soirée spéciale pour permettre à des citoyens, des personnalités politiques et des spécialistes d'échanger sur le mouvement sociale.",
-      "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-manifestations-j-irai-manifester-annonce-sylvie-femme-de-chambre-convaincue-que-c-est-en-manifestant-qu-on-obtient-des-choses_VN-202610290929.html",
-      "published": "2026-10-30T06:03:20+09:00",
+      "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-le-gouvernement-actuel-ne-va-rien-faire-de-plus-que-ce-qu-il-a-donne-ces-dix-dernieres-annees-raphael-a-paris-denonce-l-impasse-de-la-situation_VN-202610290994.html",
+      "published": "2026-10-30T07:55:30+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "FORUM BFMTV - Crise sociale: \"Il faut que nos commerçants puissent continuer à vivre et travailler\", explique Mathéo Moreau, avocat pénaliste à Paris",
+      "title_original": "Jean-Luc Picard dans \"Star Trek\", Charles Xavier dans les \"X-Men\"... Ces rôles qui ont forgé la carrière à l'écran de Patrick Stewart",
+      "summary_original": "Un communiqué publié ce jeudi 29 octobre a annoncé la mort de l'acteur Patrick Stewart, à l'âge de 86 ans. Reconnaissable à son crâne rasé, il s'est fait connaître au cinéma grâce à plusieurs rôles, notamment dans \"Star Trek\" et \"X-Men\".",
+      "url": "https://www.bfmtv.com/culture/cinema-series/jean-luc-picard-dans-star-trek-charles-xavier-dans-les-x-men-ces-roles-qui-ont-forge-la-carriere-a-l-ecran-de-patrick-stewart_AN-202610290992.html",
+      "published": "2026-10-30T07:48:17+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Colère sociale: échange tendu entre Coppélia, étudiante et militante et Kamal, poissonnier",
       "summary_original": "BFMTV propose un nouveau numéro exceptionnel du FORUM BFMTV: “Blocages, vie chère : la poudrière française” présenté par Maxime Switek. La chaîne consacre une soirée spéciale pour permettre à des citoyens, des personnalités politiques et des spécialistes d'échanger sur le mouvement sociale.",
-      "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-crise-sociale-il-faut-que-nos-commercants-puissent-continuer-a-vivre-et-travailler-explique-matheo-moreau-avocat-penaliste-a-paris_VN-202610290928.html",
-      "published": "2026-10-30T05:56:17+09:00",
+      "url": "https://www.bfmtv.com/societe/video-colere-sociale-echange-tendu-entre-coppelia-etudiante-et-militante-et-kamal-poissonnier_VN-202610290993.html",
+      "published": "2026-10-30T07:47:51+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Le Débrief de la tech - Jeudi 29 octobre",
-      "summary_original": "Ce jeudi 29 octobre, François Sorel a reçu Jean-Baptiste Kempf, fondateur de Kyber, Didier Sanz, journaliste Tech, et Stan Larroque, directeur des opérations chez Parrot, dans l'émission Tech & Co, la quotidienne. Retrouvez l'émission du lundi au jeudi et réécoutez la en podcast.",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-le-debrief-de-la-tech-jeudi-29-octobre_VN-202610290951.html",
-      "published": "2026-10-30T05:55:32+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BFMTV",
-      "title_original": "FORUM BFMTV – \"On aimerait mieux payer nos salariés, mais le coût du travail est aujourd’hui asphyxiant\", souligne Stéphane Manigold, restaurateur et président du groupe Éclore",
+      "title_original": "FORUM BFMTV – Manifestations: \"Pourquoi mobiliser systématiquement l’ensemble des forces de l’ordre ?\", interroge Axel Ronde, président et porte-parole du syndicat de police CFTC",
       "summary_original": "BFMTV propose un nouveau numéro exceptionnel du FORUM BFMTV: “Blocages, vie chère : la poudrière française” présenté par Maxime Switek. La chaîne consacre une soirée spéciale pour permettre à des citoyens, des personnalités politiques et des spécialistes d'échanger sur le mouvement sociale.",
-      "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-on-aimerait-mieux-payer-nos-salaries-mais-le-cout-du-travail-est-aujourd-hui-asphyxiant-souligne-stephane-manigold-restaurateur-et-president-du-groupe-eclore_VN-202610290927.html",
-      "published": "2026-10-30T05:53:50+09:00",
+      "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-manifestations-pourquoi-mobiliser-systematiquement-l-ensemble-des-forces-de-l-ordre-interroge-axel-ronde-president-et-porte-parole-du-syndicat-de-police-cftc_VN-202610290989.html",
+      "published": "2026-10-30T07:39:37+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "FORUM BFMTV - Mobilisations sociales: \"Il faut que ça redescende d'un ton\", estime Isabelle, bénévole",
+      "title_original": "FORUM BFMTV - Colère sociale : \"J’irai manifester\", annonce Sylvie, femme de chambre\"",
       "summary_original": "BFMTV propose un nouveau numéro exceptionnel du FORUM BFMTV: “Blocages, vie chère : la poudrière française” présenté par Maxime Switek. La chaîne consacre une soirée spéciale pour permettre à des citoyens, des personnalités politiques et des spécialistes d'échanger sur le mouvement sociale.",
-      "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-mobilisations-sociales-il-faut-que-ca-redescende-d-un-ton-estime-isabelle-benevole_VN-202610290922.html",
-      "published": "2026-10-30T05:45:37+09:00",
+      "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-colere-sociale-j-irai-manifester-annonce-sylvie-femme-de-chambre_VN-202610290988.html",
+      "published": "2026-10-30T07:39:20+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Attentat raciste dans les Yvelines: comment les détenus suivant un traitement antipsychotique sont pris en charge en détention",
+      "summary_original": "Kevin Tesson, 39 ans, est soupçonné d'avoir tué un homme de 26 ans et d'en avoir blessé plusieurs autres par arme à feu vendredi à Trappes et à La Verrière, dans les Yvelines. Il a été mis en examen et placé en détention provisoire.",
+      "url": "https://www.bfmtv.com/police-justice/attentat-raciste-dans-les-yvelines-comment-les-detenus-suivant-un-traitement-antipsychotique-sont-pris-en-charge-en-detention_AN-202610290986.html",
+      "published": "2026-10-30T07:29:25+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Mayulu, Ndjantou : des Titis parisiens moins utilisés par Luis Enrique… aucun souci pour Diaz",
+      "summary_original": "Souvent en dehors du groupe parisien depuis le début de saison, Senny Mayulu a disputé son premier match ce lundi face à l'OL. Un événement qu'il a fêté en inscrivant le premier but du PSG. Entré en jeu et très peu utilisé aussi, Quentin Ndjantou. Est-ce une tendance inquiétante ou normale ? Pas vraiment pour Kevin Diaz.",
+      "url": "https://rmcsport.bfmtv.com/football/video-mayulu-ndjantou-des-titis-parisiens-moins-utilises-par-luis-enrique-aucun-souci-pour-diaz_VN-202610290985.html",
+      "published": "2026-10-30T07:24:08+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Face à l’effondrement du BHV, l’impuissance de la Mairie de Paris",
+      "summary_original": "L’enseigne historique du centre de la capitale va probablement être placée en redressement judiciaire et la Ville n’a que peu de moyens pour limiter la casse.",
+      "url": "https://www.lemonde.fr/politique/article/2026/10/29/face-a-l-effondrement-du-bhv-l-impuissance-de-la-mairie-de-paris_6802394_823448.html",
+      "published": "2026-10-30T06:44:55+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -305,7 +314,7 @@
       "title_original": "Présidentielle 2027 : après sa proposition d’une primaire aux contours flous, Gabriel Attal cible le « centre et la droite »",
       "summary_original": "Le candidat Renaissance, qui a peu convaincu par son appel à une primaire incluant la gauche sociale-démocrate, a recentré sa proposition. Il aimerait voir d’autres personnalités mettre la pression sur Edouard Philippe qui refuse de se plier à cette idée.",
       "url": "https://www.lemonde.fr/politique/article/2026/10/29/presidentielle-2027-apres-sa-proposition-d-une-primaire-aux-contours-flous-gabriel-attal-cible-le-centre-et-la-droite_6802391_823448.html",
-      "published": "2026-10-30T05:49:58+09:00",
+      "published": "2026-10-30T05:49:56+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -338,10 +347,10 @@
     },
     {
       "source": "Le Monde",
-      "title_original": "Une conférence du député LFI Raphaël Arnault prévue à Lyon le 5 novembre annulée pour raisons de « sécurité »",
-      "summary_original": "Le député du Vaucluse a publié en début de semaine sur son compte Instagram une affiche annonçant des « débats et échanges » en sa présence autour de son livre « Antifasciste » le 5 novembre, dans une salle municipale de la mairie du 8ᵉ arrondissement de Lyon.",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/29/lyon-annulation-d-une-conference-du-depute-lfi-raphael-arnault-pour-raisons-de-securite-decidee-par-une-mairie-d-arrondissement_6802385_823448.html",
-      "published": "2026-10-30T04:49:31+09:00",
+      "title_original": "En Ukraine, derrière la mission humanitaire à Olechky, la crainte d’une opération militaire et de propagande russe",
+      "summary_original": "Quelque 2 000 habitants de cette ville ukrainienne occupée doivent recevoir de l’aide et être évacués d’ici à dimanche 1ᵉʳ novembre. Beaucoup redoutent une instrumentalisation par le Kremlin.",
+      "url": "https://www.lemonde.fr/international/article/2026/10/29/en-ukraine-derriere-la-mission-humanitaire-a-olechky-la-crainte-d-une-operation-militaire-et-de-propagande-russe_6802386_3210.html",
+      "published": "2026-10-30T04:54:31+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -355,84 +364,120 @@
       "state_media": false
     },
     {
-      "source": "Le Monde",
-      "title_original": "Le cas Ali O., réfugié palestinien déchu de son statut, mis en examen pour terrorisme en France pour des actes commis en Cisjordanie, mobilise des rapporteurs spéciaux de l’ONU",
-      "summary_original": "Cet homme de 36 ans, en détention provisoire depuis deux ans et demi, s’est vu retirer le statut de réfugié sur la base d’informations provenant d’Israël. Quatre rapporteurs des Nations unies se disent « alarmés » par son cas.",
-      "url": "https://www.lemonde.fr/societe/article/2026/10/29/le-cas-ali-o-refugie-palestinien-dechu-de-son-statut-mis-en-examen-pour-terrorisme-en-france-pour-des-actes-commis-en-cisjordanie-mobilise-des-rapporteurs-speciaux-de-l-onu_6802380_3224.html",
-      "published": "2026-10-30T04:00:05+09:00",
+      "source": "Les Echos",
+      "title_original": "Rectificatif ou Additif - Paris - ALP01571616 - Les Echos",
+      "summary_original": "Rectificatif ou Additif - Paris - ALP01571616 Les Echos - Annonces légales",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU3JtMW90VTBqZzRHdC05dkhCZlRLUGpwVXNsZDR1dy1LT0dmVXItOF9EamdBN3hHbjh2ck01WmZHWVk3RDdjbklnUFZTc1V4UWdnTDF1VkFDZ1RURE5UdXdfdEJWVXNxSDBoMWlXRDc5SnlmeU5ZeDFUUDVRTm9mdFJ0RzNPYTFfR0ZUY1kzNnFNSzNmZEJMVzl5MlRfUQ?oc=5",
+      "published": "2026-10-30T06:38:18+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "Changement de dirigeant - Hauts-de-Seine - ALP01571673 - Les Echos",
+      "summary_original": "Changement de dirigeant - Hauts-de-Seine - ALP01571673 Les Echos - Annonces légales",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWDJzY3JJUFcyTENDTHg0QURFY0hjQXlEZVRaLW9mOGh4UmJic0xUeTVaRUQtbl9kRm1tQ092ZFJlWVdRTWd5YWZWZ2VIWjl5V3BCV0JLZ09fMXNRb3haNE83d3czSmhqazFNUl9mQ09yckNPaGtIbHpMNFFjT3pXb0dBVGt2Z2xrdC0yd2JEbzlBTG1SYW5wTm5kSG9Kdw?oc=5",
+      "published": "2026-10-30T06:38:16+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "Clôture de liquidation - Saône-et-Loire - ALP01571700 - Les Echos",
+      "summary_original": "Clôture de liquidation - Saône-et-Loire - ALP01571700 Les Echos - Annonces légales",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSFRxTzdxelIxbUd2d040R0VnU0ROdWpHYW55ZUdEUUt2bnpHbmRVWTlSUWxkbkdFUHlvNFpTT25vOEZ4LV9WV1A3bEFKUGhkZExsMDdMMmhueFYyd3FVYl9nQktkcDBFTG92OXRUczVnR2NRRXhRSDhwNU53SjNhd3BweHVieFVyckZiT0I0NE9mb2lKYTNiMkZQRUlzQQ?oc=5",
+      "published": "2026-10-30T06:38:16+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "Continuation de l'activité malgré les pertes - Hauts-de-Seine - ALP01571873 - Les Echos",
+      "summary_original": "Continuation de l'activité malgré les pertes - Hauts-de-Seine - ALP01571873 Les Echos - Annonces légales",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWUljNGVjR2tlU2dIRzh1YmxvT2JDUWlrcDJLeTBiU3ZpYzRSUWROLWNzbVY5S2ttUGc3ZjBYVHNpem1zZVdkYjgyU2RHMkFfOEFKd2xIUkhHd1Q1VGgza3VLMlUzSWhzT2RwLXZIRUxyN01uZDI0RF90TFJpa09IV3J2TlRrS3hxN2lYMVh1bGV4NXJQZll0STJPQjhoZw?oc=5",
+      "published": "2026-10-30T06:38:15+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "Mise en location gérance - Côte-d'Or - ALP01571660 - Les Echos",
+      "summary_original": "Mise en location gérance - Côte-d'Or - ALP01571660 Les Echos - Annonces légales",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZVlRXzBqS0RNcTBYa0d6ZDcxZ01pZlJTNTl1YUxrS1ZJYUpDVzczMDh5dWVveE51bDFPZlFGcEFkN09xdzdCdHgxZmV2T09tN19TQjItcmloQ09XNG1BQ25FNzRxdXZtcEpmYXIyMXduaUxoM0h5c1NHMmx4elBkQ1hwZDFZT2xid3FoRHU0SWtRMHZfUVFiRmh0N1lCUQ?oc=5",
+      "published": "2026-10-30T06:38:14+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "Cession de fonds de commerce - Yvelines - ALP01568689 - Les Echos",
+      "summary_original": "Cession de fonds de commerce - Yvelines - ALP01568689 Les Echos - Annonces légales",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLTlhLW9aUXZ1UDN2TEpZVml0WGxkVFhZRlg5dXZRNjRoQk9JQTc0ajB3SWxUMWYxTUtrRmEwd1gwSmpSU3BvdkFSeVFjeUJESGJOQ1lKM2ZlYy1WMzRvQ18tVjhXdmNmN1otQnNnRWh0OWdGaEVhMFpEejJWaEdGRjZZN3BfYVlFdnczQm05LXJoTlN0REZ6SmV1MEpsdw?oc=5",
+      "published": "2026-10-30T06:38:13+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "Constitution EURL - Paris - ALP01571732 - Les Echos",
+      "summary_original": "Constitution EURL - Paris - ALP01571732 Les Echos - Annonces légales",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWkUwVjdpVUprRXR5a1VNdGxIcGpGQ2tuRGprWXRTVlJvb25PYnVfU09qX0pUekQ0OU84aGhhVEdJYzE2a1ZlSUFpN2l6M2U5RGdKVWxJXzdmUmUyVS1acGhhOXl4S01nd1pIUURxbi13OS1aZGlnQ2pzUVlESXA2RGdwbDMxWXpvcEp6c0tfTEdOWV9RTUd0TUw0MmNuZw?oc=5",
+      "published": "2026-10-30T06:38:09+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "Changement de dirigeant - Paris - ALP01571679 - Les Echos",
+      "summary_original": "Changement de dirigeant - Paris - ALP01571679 Les Echos - Annonces légales",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRE03LUF1RWt3UV9QeEVvemIzbFRYeWVYNks2cjl6czRKRGUwbXpMcktYSGRlOGdFMXdJSlh3NmZna2Y0LVJPUUp3bmdCcTRVMDlkY01Vc1VxUHpuTU10cUVOcVQ5ZXZjOWlQcGVvTTBhd3NFcDZYUS1tdTVZVEhnSjNxVHFvUlNXVDVpa1c1Z2xPRTVSUE9XY25vQVFkdw?oc=5",
+      "published": "2026-10-30T06:38:08+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "La plateforme de cryptomonnaies Binance enquête sur un éventuel «problème de sécurité» après des signalements de mouvements suspects",
+      "summary_original": "«Les fonds des utilisateurs sont entièrement en sécurité», affirme l’entreprise, qui compte plus de 300 millions d’utilisateurs à travers le monde, dans un communiqué partagé sur X ce jeudi soir.",
+      "url": "https://www.lefigaro.fr/secteur/high-tech/la-plateforme-de-cryptomonnaies-binance-enquete-sur-un-eventuel-probleme-de-securite-apres-des-signalements-de-mouvements-suspects-20261029",
+      "published": "2026-10-30T07:56:40+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "Les Echos",
-      "title_original": "Mort de l'acteur Patrick Stewart, connu pour ses rôles dans \"Star Trek\" et \"X-Men\"",
-      "summary_original": "Mort de l'acteur Patrick Stewart, connu pour ses rôles dans \"Star Trek\" et \"X-Men\" Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUExrbm5YUWVaWVF3UGlxbFQ3MnptVi1sbWNGQk95dndYM0tfN0syTGNUSzBHTS1oaHBaUFRvbjVRNzBJejl0SGIyalBzYVFwblVQOUl3WmFOSzl0UndSTFZLUlZYMVRXbFI3LWp5Y0ZTaEZkc2RRSnkzUFVEMUFYRFNrZ2ZWYlZwNHl6U3J6Wno2Y0FDN0ppb25WdDJzZjQtczY1UDl0YmFiWHdpRW9XblJWeHhNUko1WTFqWUczWGx2SnhMRWhMTUZiRm9qSVBERUNBMWR2Zmpiam8zTXZuNFB3?oc=5",
-      "published": "2026-10-30T05:53:19+09:00",
-      "via": "google_news",
+      "source": "Le Figaro",
+      "title_original": "Le bitcoin dévisse après des rumeurs de cyberattaque massive sur la plateforme de cryptomonnaies Binance",
+      "summary_original": "Alors que plusieurs spécialistes ont fait état de détournements colossaux, Binance a assuré que les fonds déposés par les clients sur son site étaient «totalement à l’abri».",
+      "url": "https://www.lefigaro.fr/secteur/high-tech/le-bitcoin-devisse-apres-des-rumeurs-de-cyberattaque-massive-sur-la-plateforme-de-cryptomonnaies-binance-20261029",
+      "published": "2026-10-30T07:49:00+09:00",
+      "via": "rss",
       "state_media": false
     },
     {
-      "source": "Les Echos",
-      "title_original": "Wall Street termine en baisse, échaudée par Alphabet et l'IA",
-      "summary_original": "Wall Street termine en baisse, échaudée par Alphabet et l'IA Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdzAzbXlrZmtEMF9HcGJJRGZvN1RFbUlsbHdrc3drRmRsVklDblpRMzlFTGdoYUpScEppbGtFMzdtR3VqUklzWVlibGVzcTRvU3FVLUZ0SGxwTHJRVW5RV3k2aGVjYUp5eWhMTDYwaEZRLTJwWi1DMW0zcmtXcFZkTC1pVWt3TXFhblRLb3hxeGZiSm1YXzFfbHFuUGZlREh5T0EtWmJCTGd2RFVTY21oeUpvbnVBSDN3ek1jYUVNWFB5QjUwUWlCNmFnWQ?oc=5",
-      "published": "2026-10-30T05:22:04+09:00",
-      "via": "google_news",
+      "source": "Le Figaro",
+      "title_original": "Mort du cycliste Paul Varry à Paris : l'automobiliste remis en liberté sous bracelet électronique avant son procès",
+      "summary_original": "Le conducteur de SUV, qui a écrasé un cycliste de 27 ans à Paris en octobre 2024, est dans l’attente de son procès aux assises pour meurtre.",
+      "url": "https://www.lefigaro.fr/actualite-france/mort-du-cycliste-paul-varry-a-paris-l-automobiliste-remis-en-liberte-sous-bracelet-electronique-avant-son-proces-20261029",
+      "published": "2026-10-30T07:24:49+09:00",
+      "via": "rss",
       "state_media": false
     },
     {
-      "source": "Les Echos",
-      "title_original": "Actualités & conseils Actions Masonglory - FFTT KYG6007A1186",
-      "summary_original": "Actualités & conseils Actions Masonglory - FFTT KYG6007A1186 Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZi1rQ0p3SUlnRjNxbU9LN1l3NGxiRUlBYm9rcTZzRW44a29RdzBBTGN6eGNwTkZ0XzlTZS1OMVdCVzAwNTBlUUdEQ1lRN05vaDdXbmZmNzRUVWdVRzFXVjA1a20tOXJPWVd4RFNYaEpuOWdKWWlOcTZWMlNCM0lZUF9LcTI3WHFZWHBzRThDTFFUQ3ptZjY1X1BDajU?oc=5",
-      "published": "2026-10-30T05:00:00+09:00",
-      "via": "google_news",
+      "source": "Le Figaro",
+      "title_original": "Accusations de détournement de fonds publics : Édouard Philippe placé sous le statut de témoin assisté",
+      "summary_original": "L’ancien premier ministre a été entendu toute la journée de jeudi par deux juges d’instruction financiers, qui l’avaient convoqué pour l’entendre comme témoin assisté.",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/accusations-de-detournement-de-fonds-publics-edouard-philippe-place-sous-le-statut-de-temoin-assiste-20261029",
+      "published": "2026-10-30T07:23:31+09:00",
+      "via": "rss",
       "state_media": false
     },
     {
-      "source": "Les Echos",
-      "title_original": "Société Actions Azora Therap - AZR US0548001074",
-      "summary_original": "Société Actions Azora Therap - AZR US0548001074 Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbVV0TGF0SDgtZ3M2anZ0d1hQME51REktN2xGUkstT24xMDlBVUNXUFRsOTRqTXlWSDFGVU5tVk91Sk9KUV9GX29SVGRPa2RJdWFxaEQ0VEZZU29acVlHTmRMOFdNd01lM0ZqVkRkSk1wbVVmZllUNENFa3NFbnVCbDNXZlpVMXVNeVkwV1ZB?oc=5",
-      "published": "2026-10-30T05:00:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Les Echos",
-      "title_original": "Mobilisation du 31 octobre : Nuñez annonce un dispositif sécuritaire massif face à des risques élevés de violences",
-      "summary_original": "Mobilisation du 31 octobre : Nuñez annonce un dispositif sécuritaire massif face à des risques élevés de violences Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSG1GcUFVZVFKdms0NmZEUFFuZnVNdXMxVkVySVQ0WEtfN18zYnY3c00wQTFZbXdLNE5lMDRGU1V1cHVXMzdjM3F6WS1IVkYwU0VVZFBNTDlpaXdOMm41VFJDQ1VYTzFWemV1WEV5cVdhOVF4Sk9aMlBRWVZzRldLdm50YmpYUm04cnN1UFZOcXlZXzBCYlV5ZlhjdDJhOFBKeDFPQjVxRldTWF9nRkh0RVVFMHBzQXdBdnEtbEVnaTQyS19rOUxDb2dYZ1VWTnJoZmZJa0h4ejRfankzVHEyZl94REpzdmZDRWVyNWM2ZV9QS2dTWTlpRklJRllvc0U?oc=5",
-      "published": "2026-10-30T03:56:06+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Les Echos",
-      "title_original": "Caterpillar, en plein dans le double chantier de l'IA",
-      "summary_original": "Caterpillar, en plein dans le double chantier de l'IA Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSTNuRjRweUVyUzIwVmR5N0RHSng5LUxaeEUyLVhJV2lSZVZuNlZmaXlKMGFNWnZhQXZQUjkzdm56MndGQWpjTEhxeV9veDFsclR0c3hieWExa3pSenlpSGY1OUpPVWhzbTMwTDVaa0FNVTRoUndTWC11QVhlR0RiNlR6bGdSSDhuY1J1MHJfaDFxR1RZNmtuMjd4OFlpN1pwTWhzc2NyeTFNNmJzWF8zUWRhVXJrdnpfWmJDdA?oc=5",
-      "published": "2026-10-30T03:50:25+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Les Echos",
-      "title_original": "Cours Obligations Pernod -S FTFN - GBC05GG70 FR001401BRR3",
-      "summary_original": "Cours Obligations Pernod -S FTFN - GBC05GG70 FR001401BRR3 Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS0JuaEhkYm83Q3UyMmNPdDhBU0Q2c3hMZUpDRzVTd1FlMkJzbW9KbEdrUy1TOFF4Z1RveFM3MW9nZ01MZWF4ZVBBclZqS192OHYteDVqRkNQdW90RFZpTEFXWklGVVRrd1ZoYlZPZGxtQUFLc0luVjZ4dEpLLWdPY2dxSW8?oc=5",
-      "published": "2026-10-30T03:48:52+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Les Echos",
-      "title_original": "Les années Lagarde : un bilan globalement positif, entaché d'un échec cuisant",
-      "summary_original": "Les années Lagarde : un bilan globalement positif, entaché d'un échec cuisant Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeW5yQ2hTdGNKZmVwTnh6U2JvdGFjVjhQYTZsOXNDdzNsRk5VMzdyNmlXS0ZDSjFjRlNnQTc1aFlJb0tWeGxFZGhjcXBGT3huY2FKYXRnUm1hT3FZMFRCTV9lTVd1RFNUWE8tQmdyS3VBSnpPa0FSTVZIYjA3clBpbDdJZnlFb1hjQWtZVl9qeHh6MzdiZUQ4Zll2QkJSMG5HSWc1RHlrb24yR3hjUFp4UjlTeU9DWm5wbjFXa3JqdWl6enktWGdjVVBoUGhwbGFxVTZxWDZKWQ?oc=5",
-      "published": "2026-10-30T03:30:09+09:00",
-      "via": "google_news",
+      "source": "Le Figaro",
+      "title_original": "Manifestation du 31 octobre : syndicats de salariés et d'étudiants attaquent en justice sur le parcours à Paris",
+      "summary_original": "Le 24 octobre, les syndicats s’étaient déjà vus imposer un parcours en lisière de Paris, entre les portes d’Italie et de Vincennes. Pour le 31 octobre, le tracé retenu va de la porte de Charenton à la porte de Bagnolet.",
+      "url": "https://www.lefigaro.fr/actualite-france/manifestation-du-31-octobre-syndicats-de-salaries-et-d-etudiants-attaquent-en-justice-sur-le-parcours-a-paris-20261029",
+      "published": "2026-10-30T06:43:17+09:00",
+      "via": "rss",
       "state_media": false
     },
     {
@@ -441,15 +486,6 @@
       "summary_original": "Distancé dans les sondages, Gabriel Attal a prôné mercredi l’organisation d’une «primaire des démocrates» avant l’élection présidentielle, pour «empêcher» un deuxième tour entre LFI et le RN.",
       "url": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-attal-primaire-democrates-retailleau-philippe-lisnard-les-republicains-20261029",
       "published": "2026-10-30T06:15:16+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "Serie A : San Siro, la fin d’une des cathédrales du football, l’Inter et l’AC Milan dévoilent leur futur stade",
-      "summary_original": "Les deux géants milanais ont présenté jeudi leur futur « Generali Stadium », attendu en 2031. Un projet pharaonique qui annonce la disparition presque totale du mythique San Siro.",
-      "url": "https://www.lefigaro.fr/sports/football/serie-a-san-siro-la-fin-d-une-des-cathedrales-du-football-l-inter-et-l-ac-milan-devoilent-leur-futur-stade-20261029",
-      "published": "2026-10-30T05:56:28+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -464,46 +500,10 @@
     },
     {
       "source": "Le Figaro",
-      "title_original": "Accusations de détournement de fonds publics : Édouard Philippe placé sous le statut de témoin assisté",
-      "summary_original": "L’ancien premier ministre a été entendu toute la journée de jeudi par deux juges d’instruction financiers, qui l’avaient convoqué pour l’entendre comme témoin assisté.",
-      "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/accusations-de-detournement-de-fonds-publics-edouard-philippe-place-sous-le-statut-de-temoin-assiste-20261029",
-      "published": "2026-10-30T05:49:53+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "Amazon : l’action du titre chute malgré les bons résultats de son activité informatique",
-      "summary_original": "Si Amazon a réalisé entre juillet et septembre un chiffre d’affaires de 201,9 milliards de dollars, en hausse de 12% sur un an, son action dévissait de 6% à la clôture de Wall Street.",
-      "url": "https://www.lefigaro.fr/secteur/high-tech/amazon-l-action-du-titre-chute-malgre-les-bons-resultats-de-son-activite-informatique-20261029",
-      "published": "2026-10-30T05:44:28+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "Les renseignements américains diffusent une photo d’un avion spatial chinois aux allures de navette américaine",
-      "summary_original": "DÉCRYPTAGE - Une photographie déclassifiée par la DIA montre l’engin, probablement baptisé Shenlong, en orbite. L’appareil possède des similitudes visuelles avec le X-37B américain.",
-      "url": "https://www.lefigaro.fr/international/les-renseignements-americains-diffusent-une-photo-d-un-avion-spatial-chinois-aux-allures-de-navette-americaine-20261029",
-      "published": "2026-10-30T05:42:50+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "L’acteur Patrick Stewart, célèbre pour ses rôles dans Star Trek et X-Men, est mort à 86 ans",
-      "summary_original": "Anoblis en 2013 par la reine Élisabeth II, l’acteur britannique est décédé mercredi des suites de la maladie d’Alzheimer et d’une démence à corps de Lewy, a annoncé un porte-parole.",
-      "url": "https://www.lefigaro.fr/cinema/l-acteur-patrick-stewart-celebre-pour-ses-roles-dans-star-trek-et-x-men-est-mort-a-86-ans-20261029",
-      "published": "2026-10-30T05:41:29+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "«Il paraissait comme nous tous»: avant l’attentat de Trappes, la dérive meurtrière de Kevin T., entre isolement et obsession raciste",
-      "summary_original": "ENQUÊTE - De son enfance à Guyancourt à la préparation minutieuse de son périple meurtrier, Le Figaro dresse le parcours d’un homme, relativement inséré, dont la radicalisation raciste semblait avoir pris toute la place dans sa vie. Jusqu’à s’armer et semer la mort.",
-      "url": "https://www.lefigaro.fr/faits-divers/il-paraissait-comme-nous-tous-avant-l-attentat-de-trappes-la-derive-meurtriere-de-kevin-t-entre-isolement-et-obsession-raciste-20261029",
-      "published": "2026-10-30T05:28:24+09:00",
+      "title_original": "« Y’aura des clowns tueurs contre des CRS ! » : face à l’Halloween de tous les dangers, le ministère de l’Intérieur mobilise ses forces",
+      "summary_original": "DÉCRYPTAGE - Le nez rivé sur les réseaux sociaux, Beauvau se prépare à endiguer une vague houleuse qui pourrait voir converger différentes menaces.",
+      "url": "https://www.lefigaro.fr/actualite-france/y-aura-des-clowns-tueurs-contre-des-crs-face-a-l-halloween-de-tous-les-dangers-le-ministere-de-l-interieur-mobilise-ses-forces-20261029",
+      "published": "2026-10-30T04:54:04+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -536,7 +536,7 @@
     },
     {
       "source": "Libération",
-      "title_original": "Célèbre pour Star Trek et les X-Men, l’acteur Patrick Stewart meurt à 86 ans",
+      "title_original": "Célèbre pour «Star Trek» et les «X-Men», l’acteur Patrick Stewart meurt à 86 ans",
       "summary_original": "Atteint de la maladie d’Alzheimer, le Britannique est mort mercredi à Los Angeles, selon un communiqué diffusé sur ses réseaux sociaux.",
       "url": "https://www.liberation.fr/culture/cinema/celebre-pour-star-trek-et-les-x-men-lacteur-patrick-stewart-meurt-a-86-ans-20261029_OOKRYOVS6JH5JM6CWEDYEWJFUI/",
       "published": "2026-10-30T05:39:22+09:00",

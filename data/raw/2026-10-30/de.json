@@ -1,8 +1,44 @@
 {
   "team": "de",
   "team_name_ko": "독일팀",
-  "collected_at": "2026-10-30T06:15:25.361184+09:00",
+  "collected_at": "2026-10-30T08:38:20.809080+09:00",
   "headlines": [
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Bosnien-Herzegowina: Militär-Hubschrauber abgestürzt - vier Tote",
+      "summary_original": "In dem einstigen Bürgerkriegsland Bosnien-Herzegowina verunglückt ein Militärhelikopter der EU-Friedensmission. Die Insassen kamen alle aus Italien. Der genaue Hergang ist noch unklar.",
+      "url": "https://www.tagesschau.de/ausland/europa/hubschrauber-bosnien-absturz-100.html",
+      "published": "2026-10-30T08:05:38+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Nach dem Zugunglück: Wie Spanien mit der Tragödie umgeht",
+      "summary_original": "Nach dem Zugunglück: Wie Spanien mit der Tragödie umgeht",
+      "url": "https://www.tagesschau.de/tagesthemen/video-1674870.html",
+      "published": "2026-10-30T06:36:17+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Martin Hikel, SPD/Bezirksbürgermeister Berlin-Neukölln, über die Sicherheits-Debatte",
+      "summary_original": "Martin Hikel, SPD/Bezirksbürgermeister Berlin-Neukölln, über die Sicherheits-Debatte",
+      "url": "https://www.tagesschau.de/tagesthemen/video-1674868.html",
+      "published": "2026-10-30T06:31:37+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Angst vor Hamas-Sympathisanten: Debatte um Sicherheit in Berlin",
+      "summary_original": "Angst vor Hamas-Sympathisanten: Debatte um Sicherheit in Berlin",
+      "url": "https://www.tagesschau.de/tagesthemen/video-1674866.html",
+      "published": "2026-10-30T06:24:23+09:00",
+      "via": "rss",
+      "state_media": false
+    },
     {
       "source": "ARD Tagesschau",
       "title_original": "Trauer um britischen Schauspieler: Patrick Stewart gestorben",
@@ -40,38 +76,56 @@
       "state_media": false
     },
     {
-      "source": "ARD Tagesschau",
-      "title_original": "tagesschau mit Gebärdensprache",
-      "summary_original": "tagesschau mit Gebärdensprache",
-      "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12340.html",
-      "published": "2026-10-30T04:36:23+09:00",
+      "source": "ZDF heute",
+      "title_original": "Wahl in Israel: Aufregung über angebliche Wahlbeeinflussung",
+      "summary_original": "Israel erwartet heute das vorläufige Endergebnis der Wahl. Die Regierungsbildung dürfte schwierig werden - für Netanjahu, aber auch für Herausforderer Eisenkot. Alles im Liveblog.",
+      "url": "https://www.zdfheute.de/politik/ausland/israel-wahl-ergebnis-netanjahu-eisenkot-liveblog-100.html",
+      "published": "2026-10-30T07:54:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "ARD Tagesschau",
-      "title_original": "Alexander Zverev krönt sich in Wien zur Nummer eins der Tennis-Welt",
-      "summary_original": "Alexander Zverev hat den Tennisthron erklommen und wird ab Montag erstmals die Weltrangliste anführen. Durch seinen Viertelfinaleinzug in Wien erreichte der Hamburger das nächste große Karriereziel.",
-      "url": "https://www.sportschau.de/tennis/zverev-ab-montag-die-nummer-eins-der-tennis-welt,atp-wien-zverev-griekspoor-100.html",
-      "published": "2026-10-30T04:35:30+09:00",
+      "source": "ZDF heute",
+      "title_original": "Aktuelles zum Krieg in der Ukraine",
+      "summary_original": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
+      "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
+      "published": "2026-10-30T07:54:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "ARD Tagesschau",
-      "title_original": "Rede von Bundespräsident Steinmeier bei Besuch in China",
-      "summary_original": "Rede von Bundespräsident Steinmeier bei Besuch in China",
-      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1674802.html",
-      "published": "2026-10-30T04:10:57+09:00",
+      "source": "ZDF heute",
+      "title_original": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
+      "summary_original": "Die Lage in Nahost ist weiter angespannt - es kommt immer wieder zu Angriffen. Im Westjordanland spitzt sich die Situation zu. Alle Entwicklungen im Liveblog.",
+      "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+      "published": "2026-10-30T07:54:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "ARD Tagesschau",
-      "title_original": "Bilanz der Asienreise von Kanzler Merz",
-      "summary_original": "Bilanz der Asienreise von Kanzler Merz",
-      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1674800.html",
-      "published": "2026-10-30T04:08:47+09:00",
+      "source": "ZDF heute",
+      "title_original": "Wahlleiter fürchten Trumps Griff nach Stimmen",
+      "summary_original": "Eine Frage treibt viele Menschen um in den USA: Wird US-Präsident Donald Trump missliebige Ergebnisse bei den Wahlen am kommenden Dienstag für ungültig erklären?",
+      "url": "https://www.zdfheute.de/politik/ausland/midterms-2026-trump-usa-wahlmanipulation-wahlleiter-bedrohung-100.html",
+      "published": "2026-10-30T07:31:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Jetzt doch mehr Elterngeld?",
+      "summary_original": "Zum ersten Mal seit der Einführung im Jahr 2007 soll das Elterngeld erhöht werden. Der Mindestsatz soll von 300 auf 330 Euro und der Höchstsatz von 1.800 auf 1.900 Euro steigen.",
+      "url": "https://www.zdfheute.de/video/bundesfamilienministerium-elterngeld-soll-erhoeht-werden-video-100.html",
+      "published": "2026-10-30T07:27:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Gen-Z-Proteste: Luisa Neubauer warnt vor \"Hyperventilierung\"",
+      "summary_original": "Für Samstag ruft die Initiative \"Gen Z regelt\" zu bundesweitem Protest auf. Viele fürchten eine Eskalation. Luisa Neubauer fordert mehr Verständnis - und ruft zu Gelassenheit auf.",
+      "url": "https://www.zdfheute.de/politik/deutschland/gen-z-jugend-protest-luisa-neubauer-debatte-100.html",
+      "published": "2026-10-30T06:19:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -90,60 +144,6 @@
       "summary_original": "Nach einer Alzheimer-Erkrankung ist der britische Schauspieler Patrick Stewart im Alter von 86 Jahren gestorben. Weltweit bekannt war er durch seine Rollen in \"X-Men\" und \"Star Trek\".",
       "url": "https://www.zdfheute.de/panorama/prominente/patrick-stewart-tot-captain-picard-professor-x-100.html",
       "published": "2026-10-30T05:00:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "Elmo ist 19 - und pflegt als \"Young Carer\" seinen Vater",
-      "summary_original": "Ein Schlaganfall verändert alles: Seit vier Jahren unterstützt der heute 19-jährige Elmo seine Mutter bei der Pflege des Vaters. Ein Treffpunkt in Bremen gibt ihm neue Kraft.",
-      "url": "https://www.zdfheute.de/video/panorama-schlaganfall-young-carer-100.html",
-      "published": "2026-10-30T04:36:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "Zverev erstmals Weltranglistenerster",
-      "summary_original": "Alexander Zverev wird die neue Nummer eins der Tennis-Weltrangliste. Durch den Viertelfinaleinzug in Wien löst er am Montag den Italiener Jannik Sinner ab.",
-      "url": "https://www.zdfheute.de/sport/tennis-atp-wien-zverev-alexander-weltrangliste-nummer-eins-100.html",
-      "published": "2026-10-30T04:30:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "Wahl in Israel: Aufregung über angebliche Wahlbeeinflussung",
-      "summary_original": "Israel erwartet heute das vorläufige Endergebnis der Wahl. Die Regierungsbildung dürfte schwierig werden - für Netanjahu, aber auch für Herausforderer Eisenkot. Alles im Liveblog.",
-      "url": "https://www.zdfheute.de/politik/ausland/israel-wahl-ergebnis-netanjahu-eisenkot-liveblog-100.html",
-      "published": "2026-10-30T04:29:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "Wahl in Israel: Alle Stimmen ausgezählt - Patt bleibt",
-      "summary_original": "Die erwartete Patt-Situation nach der Wahl in Israel hat sich bestätigt. Nach Auszählung aller Stimmen haben beide großen politischen Lager die absolute Mehrheit verfehlt.",
-      "url": "https://www.zdfheute.de/politik/ausland/israel-wahl-auszaehlung-ergebnis-gewinner-netanjahu-eisenkot-100.html",
-      "published": "2026-10-30T04:23:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "AfD-Leaks: Sammelte Abgeordneter Infos für das Assad-Regime?",
-      "summary_original": "Hat der AfD-Abgeordnete Markus Frohnmaier Informationen an Syriens damalige Regierung gegeben? Das und laxen Umgang mit sensiblen Regierungsdokumenten deuten geleakte AfD-Mails an.",
-      "url": "https://www.zdfheute.de/politik/deutschland/afd-leak-mails-frohnmaier-syrien-russland-100.html",
-      "published": "2026-10-30T04:06:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "Von Berlin bis New York: Sind Linke auf dem Vormarsch?",
-      "summary_original": "",
-      "url": "https://www.zdfheute.de/video/drotschmann-linke-vormarsch-erfolge-explained-100.html",
-      "published": "2026-10-30T03:35:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -221,6 +221,33 @@
     },
     {
       "source": "n-tv",
+      "title_original": "Sorge ums Weihnachtsgeschäft: KI-Kosten reißen Milliardenloch in Amazons Bilanz",
+      "summary_original": "Der Bau neuer Rechenzentren verschlingt auch bei Amazon Unsummen. Der Cashflow bricht ein, Anleger machen sich Sorgen. Konzernchef Jassy will trotzdem nachlegen.",
+      "url": "https://www.n-tv.de/wirtschaft/KI-Kosten-reissen-Milliardenloch-in-Amazons-Bilanz-id31474608.html",
+      "published": "2026-10-30T07:56:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Schwarzer Tag für Alphabet : US-Anleger verlieren den KI-Optimismus",
+      "summary_original": "Nach unbefriedigenden Zahlen der Google-Mutter Alphabet stürzt die Aktie um 13 Prozent ab und zieht die wichtigsten US-Indizes mit. An der Wall Street wachsen die Zweifel, ob sich die Kosten für den weltweiten KI-Ausbau rentieren werden.",
+      "url": "https://www.n-tv.de/wirtschaft/US-Anleger-verlieren-den-KI-Optimismus-id31474586.html",
+      "published": "2026-10-30T07:01:02+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Hochklassiger Krimi in Basel: Nächster Tennis-Coup: Struff bezwingt erstmals Djokovic",
+      "summary_original": "Im deutschen Tennis läuft's am Donnerstagabend rund: In Wien erklimmt Alexander Zverev die Spitze der Weltrangliste und in Basel schlägt Jan-Lennard Struff Grand-Slam-Rekordsieger Novak Djokovic in einem echten Krimi.",
+      "url": "https://www.n-tv.de/sport/tennis/Naechster-Tennis-Coup-Struff-bezwingt-erstmals-Djokovic-id31474556.html",
+      "published": "2026-10-30T06:32:27+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
       "title_original": "Euro-Krise immer schlimmer: FC Bayern kassiert in Belgrad böse Tracht Prügel",
       "summary_original": "Der FC Bayern braucht in der EuroLeague eigentlich dringend ein Erfolgserlebnis - und kassiert stattdessen die nächste Abreibung. Im Hexenkessel von Belgrad gehen ganz schwache Münchner völlig unter.",
       "url": "https://www.n-tv.de/sport/basketball/FC-Bayern-kassiert-in-Belgrad-boese-Tracht-Pruegel-id31474536.html",
@@ -265,29 +292,47 @@
       "state_media": false
     },
     {
-      "source": "n-tv",
-      "title_original": "Regierungsbildung in Israel: Will Netanjahu jegliche arabisch-jüdische Kooperation delegitimieren?",
-      "summary_original": "Nach der Wahl in Israel gibt es einen Patt zwischen dem Regierungslager von Ministerpräsident Netanjahu und der jüdisch-zionistischen Opposition. Die arabischen Parteien könnten nach starkem Abschneiden einen Machtwechsel herbeiführen. Das will Netanjahu mit allen Mitteln verhindern.",
-      "url": "https://www.n-tv.de/politik/Will-Netanjahu-jegliche-arabisch-juedische-Kooperation-delegitimieren-id31473951.html",
-      "published": "2026-10-30T04:34:47+09:00",
+      "source": "WELT",
+      "title_original": "Oppositionsführerin Machado bedankt sich bei Trump für dessen „Weitsicht, Mut und Handeln“",
+      "summary_original": "Nach ihrer Rückkehr nach Venezuela dankt die Friedensnobelpreisträgerin María Corina Machado dem US-Präsidenten Donald Trump – und kündigt den nächsten Schritt im Machtkampf um die Zukunft des Landes an.",
+      "url": "https://www.welt.de/politik/ausland/article6ae3d00f981b80c0b798646f/venezuela-oppositionsfuehrerin-machado-bedankt-sich-bei-trump-fuer-dessen-weitsicht-mut-und-handeln.html",
+      "published": "2026-10-30T08:27:39+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "n-tv",
-      "title_original": "Mehrere Menschen an Bord: Helikopter von EU-Friedenstruppe stürzt in Bosnien ab",
-      "summary_original": "Bei einem Routineeinsatz nordöstlich von Sarajevo stürzt ein italienischer Militärhubschrauber der EU-Friedensmission ab. Es gibt Tote und Verletzte. Der Grund für den Absturz ist bislang unklar.",
-      "url": "https://www.n-tv.de/politik/Helikopter-von-EU-Friedenstruppe-stuerzt-in-Bosnien-ab-id31474061.html",
-      "published": "2026-10-30T04:25:05+09:00",
+      "source": "WELT",
+      "title_original": "Selenskyj vermeldet Zerstörung russischer Kampfjets am Boden – Moskau reagiert mit Raketen",
+      "summary_original": "Nach Angaben der ukrainischen Marine gab es einen Angriff mit Neptun-Raketen auf den Militärflugplatz Marinowka im südrussischen Gebiet Wolgograd. Bei einem Drohnenangriff auf das ukrainische Atomkraftwerk Saporischschja wurde ein Schweißer getötet.",
+      "url": "https://www.welt.de/politik/ausland/article6ae3c1cfaacefa08f5b98b49/ukraine-krieg-selenskyj-vermeldet-zerstoerung-russischer-kampfjets-am-boden-moskau-reagiert-mit-raketen.html",
+      "published": "2026-10-30T07:26:05+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "n-tv",
-      "title_original": "Kerzen-Werbung im Korsett: Madonna lässt nichts anbrennen",
-      "summary_original": "Lust, dass Ihre Bude demnächst nach \"Like a Prayer\" riecht? Oder nach \"Confessions\"? Dann ab in den Online-Shop von Madonna. Dort gibt es nun Duftkerzen, die die Queen of Pop auch gleich mal ganz sinnlich präsentiert.",
-      "url": "https://www.n-tv.de/leute/Madonna-laesst-nichts-anbrennen-id31472984.html",
-      "published": "2026-10-30T04:24:18+09:00",
+      "source": "WELT",
+      "title_original": "Ein Captain für die Welt, die wir uns wünschten",
+      "summary_original": "Als Captain Picard machte Patrick Stewart Anstand charismatisch und das Weltall ein wenig menschlicher. Ein Nachruf auf einen Schauspieler, dem wir vertrauten.",
+      "url": "https://www.welt.de/kultur/article6ae3b5bd5955c00547f807a0/patrick-stewart-ist-tot-captain-picard-war-ein-captain-fuer-die-welt-die-wir-uns-wuenschten.html",
+      "published": "2026-10-30T07:11:24+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Morgen werde ich abgeschoben“ – Frankreich verweigert Martin Sellner die Einreise",
+      "summary_original": "Eigentlich wollte der Österreicher sein Buch „Remigration“ in einer Pariser Buchhandlung vorstellen. Doch Sellners Aufenthalt in Frankreich endet offenbar bereits am Flughafen.",
+      "url": "https://www.welt.de/politik/ausland/article6ae3b9be981b80c0b79863b3/oesterreichischer-aktivist-morgen-werde-ich-abgeschoben-frankreich-verweigert-martin-sellner-die-einreise.html",
+      "published": "2026-10-30T06:55:51+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Liebe Linke, salam aleikum, ich küss‘ dein Herz, Bruder!“",
+      "summary_original": "Er wollte Linke und Grüne grillen – doch dann kam Ricarda Lang. Wie Florian Schroeders große Satire-Offensive im ZDF zum politischen Schonwaschgang wurde.",
+      "url": "https://www.welt.de/politik/deutschland/plus6adf0595ba080c37bf6d19ba/journal-deluxe-premiere-liebe-linke-salam-aleikum-ich-kuess-dein-herz-bruder.html",
+      "published": "2026-10-30T06:30:52+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -319,53 +364,17 @@
       "state_media": false
     },
     {
-      "source": "WELT",
-      "title_original": "EU-Hubschrauber stürzt in Bosnien-Herzegowina ab – mehrere Tote",
-      "summary_original": "Der Hubschrauber der EU-Mission stürzte bei einem „Routineeinsatz“ in der Region rund 180 Kilometer nordöstlich von Sarajevo ab. Bosnische Medien meldeten vier getötete und elf verletzte Besatzungsmitglieder.",
-      "url": "https://www.welt.de/politik/ausland/article6ae39233981b80c0b7986195/hubschrauberabsturz-routineeinsatz-endet-tragisch-mehrere-soldaten-sterben.html",
-      "published": "2026-10-30T05:00:23+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "WELT",
-      "title_original": "„Mit dieser Linken ist kein Staat zu machen – der Staat wird ruiniert“, sagt Wolfgang Kubicki",
-      "summary_original": "Für FDP-Chef Wolfgang Kubicki ist eine Koalition mit der Berliner Linken nicht mehr vertretbar. An SPD und Grüne richtet er einen klaren Appell: „Das Thema mit den Linken in Berlin ist durch.“",
-      "url": "https://www.welt.de/politik/deutschland/video6ae39460981b80c0b79861e3/berliner-linke-mit-dieser-linken-ist-kein-staat-zu-machen-der-staat-wird-ruiniert-sagt-wolfgang-kubicki.html",
-      "published": "2026-10-30T04:59:45+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "WELT",
-      "title_original": "Star-Trek-Captain für die Ewigkeit – Schauspieler Patrick Stewart ist tot",
-      "summary_original": "Als Captain Picard und Professor Charles Xavier wurde er weltberühmt. Nun ist der britische Schauspieler Patrick Stewart mit 86 Jahren im Kreis seiner Familie gestorben.",
-      "url": "https://www.welt.de/kultur/article6ae3a31faacefa08f5b989da/bekannt-als-captain-picard-star-trek-captain-fuer-die-ewigkeit-schauspieler-patrick-stewart-ist-tot.html",
-      "published": "2026-10-30T04:54:33+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "WELT",
-      "title_original": "„Das, was ich dieser Tage erleben muss, ist schon weit über die Grenzen des Erträglichen hinaus“",
-      "summary_original": "Über die sozialen Medien wird seit Tagen massiv gegen den Chef der Nobilis Group, Udo Heuser, gehetzt. „Die Angriffe sind so massiv, dass die Polizei von sich aus die Ermittlungen aufgenommen hat“, berichtet Heuser.",
-      "url": "https://www.welt.de/vermischtes/video6ae388e1981b80c0b798612d/morddrohungen-und-hetze-das-was-ich-dieser-tage-erleben-muss-ist-schon-weit-ueber-die-grenzen-des-ertraeglichen-hinaus.html",
-      "published": "2026-10-30T04:44:50+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "WELT",
-      "title_original": "AfD legt im Nordosten weiter zu, Mehrheit will Schwesig nicht in der Bundespolitik",
-      "summary_original": "Die Zustimmung für die AfD steigt kurz nach der Landtagswahl in Mecklenburg-Vorpommern weiter. Ministerpräsidentin Schwesig hingegen stößt mit möglichen Bundesambitionen in der Insa-Umfrage bei einer Mehrheit auf Ablehnung.",
-      "url": "https://www.welt.de/politik/deutschland/article6ae38cc8981b80c0b798616a/afd-39-prozent-umfrage-laesst-koalitionsplaene-ploetzlich-wackeln.html",
-      "published": "2026-10-30T04:35:26+09:00",
+      "source": "Handelsblatt",
+      "title_original": "KI-Boom: Amazon enttäuscht trotz Cloud-Boom – Aktie sackt ab",
+      "summary_original": "Die Cloudsparte wächst so schnell wie seit Jahren nicht. Doch der Onlinehandel lahmt, die Weihnachtsprognose enttäuscht und 220 Milliarden Dollar Jahresinvestitionen schrecken die Anleger.",
+      "url": "https://www.handelsblatt.com/technik/ki/ki-boom-amazon-enttaeuscht-trotz-cloud-boom-aktie-sackt-ab/100265410.html",
+      "published": "2026-10-30T06:23:45+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Handelsblatt",
-      "title_original": "US-Börsen: Massiver Kursrutsch von Alphabet: Google-Mutter verliert 500 Milliarden Dollar Börsenwert",
+      "title_original": "US-Börsen: Massiver Kursrutsch von Alphabet: Google-Konzern verliert 500 Milliarden Dollar Börsenwert",
       "summary_original": "Für den Tech-Konzern war es der schlechteste Tag jemals an der Börse. Das hat auch den Nasdaq belastet, der deutlich im Minus schließt. Auch der Dow verliert.",
       "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-alphabet-kursrutsch-vernichtet-500-milliarden-dollar-boersenwert/100265906.html",
       "published": "2026-10-30T05:58:20+09:00",
@@ -427,11 +436,56 @@
       "state_media": false
     },
     {
-      "source": "Handelsblatt",
-      "title_original": "Gastkommentar: Russlands Geld für die Ukraine: Die EU muss jetzt handeln",
-      "summary_original": "Die EU sollte Russlands eingefrorenes Vermögen jetzt verwalten, fordern die G7‑Politikerinnen Nathalie Loiseau, Rachel Reeves, Chrystia Freeland und Annegret Kramp-Karrenbauer.",
-      "url": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-russlands-geld-fuer-die-ukraine-die-eu-muss-jetzt-handeln/100264547.html",
-      "published": "2026-10-30T03:00:00+09:00",
+      "source": "Der Spiegel",
+      "title_original": "Konflikt zwischen USA und Iran: Wieder Tanker in Straße von Hormus getroffen",
+      "summary_original": "Ein unbekanntes Geschoss trifft ein Schiff bei der Ausfahrt aus der wichtigen Meerenge. Die Lage bleibt dort weiter angespannt.",
+      "url": "https://www.spiegel.de/ausland/konflikt-zwischen-usa-und-iran-wieder-tanker-in-strasse-von-hormus-getroffen-a-e1823145-4913-4e50-b2be-b6e938f00e5a#ref=rss",
+      "published": "2026-10-30T07:36:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Bremerhaven: Kreuzfahrtschiff »Mein Schiff 3« geht nach Kollision in die Werft",
+      "summary_original": "Die Kollision des Kreuzfahrtschiffes mit Containerschiffen hatte Reisepläne vieler Urlauber zerstört. Jetzt ist klar, wie es mit dem beschädigten Schiff weitergehen soll.",
+      "url": "https://www.spiegel.de/panorama/bremerhaven-kreuzfahrtschiff-mein-schiff-3-geht-nach-kollision-in-die-werft-a-bf352276-25b2-4507-a17f-a94d35069fba#ref=rss",
+      "published": "2026-10-30T07:34:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "»Journal Deluxe«: Neue ZDF-Show mit Florian Schroeder",
+      "summary_original": "Er versprach die »Tempo-250-Zone des politisch inkorrekten Witzes« – und trudelte dann doch nur narzisstisch um sich selbst: Florian Schroeders »Journal Deluxe« ist nicht der Aufreger, den das ZDF und viele andere Medien erhofft haben.",
+      "url": "https://www.spiegel.de/kultur/tv/journal-deluxe-neue-zdf-show-mit-florian-schroeder-a-749654f0-2adb-45db-b2cf-9a22f0baffa6#ref=rss",
+      "published": "2026-10-30T07:20:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Russland-Ukraine-Krieg: Russland greift Kyjiw mit Raketen an",
+      "summary_original": "Wieder greift das russische Militär die ukrainische Hauptstadt Kyjiw mit ballistischen Raketen an. Explosionen sind zu hören. Zuvor hatte der ukrainische Präsident seine Verbündeten um mehr Waffen zur Luftverteidigung gebeten.",
+      "url": "https://www.spiegel.de/ausland/russland-ukraine-krieg-russland-greift-kyjiw-mit-raketen-an-a-5d4a9900-1637-49ec-a20e-b4072fa229a9#ref=rss",
+      "published": "2026-10-30T07:04:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Patrick Stewart: Fans und Wegbegleiter trauern um Captain Jean-Luc Picard",
+      "summary_original": "Patrick Stewart hat als Schauspieler Millionen fasziniert und berührt: Jetzt trauern Kollegen und Politiker um den britischen Schauspieler. Der schönste Satz über ihn stammt von Hikaru Sulu, einem Steuermann der »Enterprise«.",
+      "url": "https://www.spiegel.de/kultur/patrick-stewart-fans-und-wegbegleiter-trauern-um-captain-jean-luc-picard-a-25743358-65a6-45e7-b64d-6e1f861f98dd#ref=rss",
+      "published": "2026-10-30T07:01:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Eralp führt Angst-Eingeständnis auf Rat von Sicherheitsbehörden zurück",
+      "summary_original": "Elif Eralp nimmt Stellung zu ihrer vom SPIEGEL enthüllten Furcht vor Terrorsympathisanten aus dem Umfeld ihrer Partei. Auf Instagram berichtet die Berliner Linkenpolitikerin davon, dass sie seit der Wahl vermehrt Bedrohungen erhalte.",
+      "url": "https://www.spiegel.de/politik/deutschland/eralp-fuehrt-angst-eingestaendnis-auf-rat-von-sicherheitsbehoerden-zurueck-a-7cbbfa44-320f-4c43-ac7e-7c2f91c788a0#ref=rss",
+      "published": "2026-10-30T06:24:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -454,56 +508,38 @@
       "state_media": false
     },
     {
-      "source": "Der Spiegel",
-      "title_original": "»Lake Ontario« vs. »Lake America« – Bryan Adams singt gegen Trump",
-      "summary_original": "Der kanadische Musiker Bryan Adams äußert sich häufig zu politischen Themen. Jetzt hat er einen Protestsong gegen Trump veröffentlicht – auch die Epstein-Dokumente kommen vor.",
-      "url": "https://www.spiegel.de/panorama/leute/saenger-bryan-adams-protestiert-mit-neuem-song-gegen-trump-a-228f98c0-e1ab-466e-8dc6-3429ed335e80#ref=rss",
-      "published": "2026-10-30T05:30:00+09:00",
+      "source": "FAZ",
+      "title_original": "Schwache Prognose: Intel-Aktie bricht um fast 20 Prozent ein",
+      "summary_original": "Der von Trump teilverstaatlichte Chipkonzern leidet unter einer Abschwächung des PC-Marktes. Auch Amazon kann nicht überzeugen. Aber der Onlinehändler gibt eine kühne Prognose für sein Cloud-Geschäft.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/intel-aktie-bricht-um-fast-20-prozent-ein-pc-markt-belastet-201634722.html",
+      "published": "2026-10-30T07:37:39+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "Der Spiegel",
-      "title_original": "Jeffrey Epstein: Wie Assistentinnen neue Opfer suchten - Podcast Firewall",
-      "summary_original": "Das Versprechen auf ein Model-Casting führt sie zu Jeffrey Epstein. Erst missbraucht er die junge Russin, dann soll sie neue Frauen anwerben. Der Podcast »Firewall« rekonstruiert, wie ein Opfer zur Komplizin wurde.",
-      "url": "https://www.spiegel.de/ausland/jeffrey-epstein-wie-assistentinnen-neue-opfer-suchten-podcast-firewall-a-3fdf8d04-36ba-40dd-ba25-573a4547ee72#ref=rss",
-      "published": "2026-10-30T05:28:00+09:00",
+      "source": "FAZ",
+      "title_original": "Liveblog Ukrainekrieg: Russland greift Kiew abermals mit ballistischen Raketen an",
+      "summary_original": "In Kiew waren mehr als sechs Explosionen zu hören +++ Anschlag auf Starlink-Antennen: Zwei Deutsche in Auslieferungshaft +++ Ukraine: 13 Tote bei russischem Drohnenangriff auf Bahnhof in Dnipro +++ alle Neuigkeiten im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-russland-greift-kiew-abermals-mit-ballistischen-raketen-an-faz-110683325.html",
+      "published": "2026-10-30T07:37:35+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "Der Spiegel",
-      "title_original": "Kai Maaz über Proteste der Gen Z: »Bildungspolitik gehört jetzt symbolisch ins Kanzleramt«",
-      "summary_original": "Am Samstag wollen deutschlandweit junge Menschen unter dem Motto »Gen Z regelt« auf die Straße gehen. Der Bildungsforscher Kai Maaz sagt, warum die Proteste berechtigt sind und wo es an Schulen am meisten hakt.",
-      "url": "https://www.spiegel.de/panorama/bildung/kai-maaz-ueber-proteste-der-gen-z-bildungspolitik-gehoert-jetzt-symbolisch-ins-kanzleramt-a-9908236c-9107-4fbf-99c2-2923224c0957#ref=rss",
-      "published": "2026-10-30T05:27:00+09:00",
+      "source": "FAZ",
+      "title_original": "Tod von Patrick Stewart: „Ich war erfüllt von Zuneigung und Bewunderung für ihn und seine Arbeit“",
+      "summary_original": "Als Captain Jean-Luc Picard begeisterte er über Jahrzehnte Millionen Menschen. Nach dem Tod von Patrick Stewart reagieren Schauspielkollegen und Fans.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/patrick-stewart-ist-tot-so-trauern-kollegen-und-fans-201634797.html",
+      "published": "2026-10-30T07:08:32+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "Der Spiegel",
-      "title_original": "Patrick Stewart ist tot",
-      "summary_original": "Er war Captain Jean-Luc Picard in »Star Trek« und Professor Charles Francis Xavier in »X-Men«. Jetzt ist der britische Schauspieler und Filmproduzent Sir Patrick Stewart nach kurzer schwerer Krankheit im Alter von 86 Jahren gestorben.",
-      "url": "https://www.spiegel.de/kultur/tv/patrick-stewart-ist-tot-a-40ffba85-794a-45f4-b2a3-7948168155d4#ref=rss",
-      "published": "2026-10-30T05:03:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Der Spiegel",
-      "title_original": "EU und Kanada: Friedrich Merz durchkreuzt Kanada-Plan von Ursula von der Leyen",
-      "summary_original": "Kommissionschefin von der Leyen hätte Kanada gern als »assoziiertes Mitglied« der EU gesehen. Doch ihr Vorstoß kam in der Bundesregierung nicht gut an, Kanzler Merz ging dazwischen.",
-      "url": "https://www.spiegel.de/politik/deutschland/eu-und-kanada-friedrich-merz-durchkreuzt-kanada-plan-von-ursula-von-der-leyen-a-d972d632-6667-485a-888f-968c823de942#ref=rss",
-      "published": "2026-10-30T04:55:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Der Spiegel",
-      "title_original": "USA: Demokraten wollen Regierungsfragen an KI-Chatbots aufbewahren",
-      "summary_original": "Abgeordnete der Demokraten fordern, dass Fragen der US-Regierung an KI-Chatbots und deren Antworten aufbewahrt werden. Sie werfen die Frage auf, ob KI politische Entscheidungen der US-Regierung beeinflusst hat.",
-      "url": "https://www.spiegel.de/ausland/usa-demokraten-wollen-regierungsfragen-an-ki-chatbots-aufbewahren-a-0daf81b8-4a1c-4c35-b843-b7cbd46fd1c3#ref=rss",
-      "published": "2026-10-30T04:48:00+09:00",
+      "source": "FAZ",
+      "title_original": "EU-Friedenstruppe: Vier Tote bei Absturz eines EU-Militärhubschrauber in Bosnien",
+      "summary_original": "Ein Transporthubschrauber der EU-Friedenstruppe ist kurz nach dem Start abgestürzt. Vier der Insassen kamen ums Leben.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/eufor-hubschrauber-in-bosnien-herzegowina-abgestuerzt-vier-tote-201634724.html",
+      "published": "2026-10-30T06:12:25+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -544,47 +580,20 @@
       "state_media": false
     },
     {
-      "source": "FAZ",
-      "title_original": "Weltranglistenerster: Alexander Zverev und der Mythos Nummer eins",
-      "summary_original": "Das ATP-Ranking ist die Mutter aller modernen Weltranglisten. Wer es anführt, hat eine Verantwortung, die übers Sportliche hinausgeht. Als vierter Deutscher erreicht Alexander Zverev den Gipfel der Tennis-Welt.",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/alexander-zverev-erreicht-die-spitze-der-weltrangliste-mythos-nummer-eins-201634159.html",
-      "published": "2026-10-30T04:27:58+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "FAZ",
-      "title_original": "Reform: Deutlich mehr Elterngeld für Väter",
-      "summary_original": "Von den geplanten Kürzungen des Elterngelds ist im Entwurf nun kaum etwas zu finden. Im Gegenteil, an den meisten Stellen gibt es ein Mehr. Es gibt aber auch Verlierer.",
-      "url": "https://www.faz.net/aktuell/finanzen/elterngeldreform-vaeter-koennten-mehr-als-doppelt-so-viel-bekommen-201632456.html",
-      "published": "2026-10-30T04:04:59+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "FAZ",
-      "title_original": "Nach Bagger-Attacke: Schock, aber auch viel Dankbarkeit",
-      "summary_original": "Ein Nachbar rammt mit einem Bagger die Fassade ihres Hauses in Mörlenbach – Nicole G. und ihre drei Kinder müssen barfuß und im Schlafanzug fliehen. Was der Familie jetzt Halt gibt.",
-      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/bagger-attacke-in-moerlenbach-nicole-g-spricht-ueber-schock-und-dankbarkeit-201633949.html",
-      "published": "2026-10-30T04:03:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "FAZ",
-      "title_original": "Zugunglück in Spanien: Wie die Deutsche Bahn für Sicherheit sorgen will",
-      "summary_original": "Das Zugunglück in Spanien wirft auch in Deutschland Fragen auf. Bei technischen Problemen habe die Sicherheit höchste Priorität, versichert die Bahn – auch wenn die Pünktlichkeit darunter leide.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/nach-zugunglueck-in-spanien-wie-sicher-ist-die-deutsche-bahn-201632662.html",
-      "published": "2026-10-30T03:54:53+09:00",
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Nachruf: Oh Captain, mein Captain",
+      "summary_original": "Als Jean-Luc Picard, Kapitän der neuen Enterprise, wurde Patrick Stewart zum Inbegriff intellektueller Führungsstärke. Dabei hatte ihn ein guter Freund noch von der „Star Trek“-Rolle abhalten wollen.",
+      "url": "https://www.sueddeutsche.de/kultur/patrick-stewart-star-trek-tot-alter-nachruf-li.3571363",
+      "published": "2026-10-30T07:33:24+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Süddeutsche Zeitung",
-      "title_original": "Film: Patrick Stewart ist tot",
-      "summary_original": "Als Jean-Luc Picard in Star Trek wurde er weltberühmt. Nun ist der britische Schauspieler im Alter von 86 Jahren gestorben.",
-      "url": "https://www.sueddeutsche.de/kultur/patrick-stewart-star-trek-tot-alter-li.3571363",
-      "published": "2026-10-30T05:35:33+09:00",
+      "title_original": "Zum Tod von Patrick Stewart: „Picard ist immer noch derselbe“",
+      "summary_original": "Patrick Stewart kehrte 2020 nach langem Zögern in seine Rolle als Captain Picard zurück. Zum Tod des Schauspielers: ein Gespräch von damals über „Star Trek“, Französisch als Weltraumsprache und den Versuch, ein Haarteil zu tragen.",
+      "url": "https://www.sueddeutsche.de/medien/patrick-stewart-star-trek-picard-interview-2020-1.4770056",
+      "published": "2026-10-30T05:39:06+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -643,83 +652,74 @@
       "state_media": false
     },
     {
-      "source": "Süddeutsche Zeitung",
-      "title_original": "Elif Eralp: Wer so viel Angst zeigt, kann nicht Regierende Bürgermeisterin sein",
-      "summary_original": "Aus Versehen hat die Linken-Politikerin offenbart, wie sehr sie sich vor Terrorsympathisanten fürchtet. Vielleicht fragt sie sich, ob sie sich dem Amt an der Spitze der Hauptstadt wirklich gewachsen fühlt.",
-      "url": "https://www.sueddeutsche.de/meinung/elif-eralp-die-linke-berlin-buergermeister-wahl-kommentar-li.3570937",
-      "published": "2026-10-29T23:44:02+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
       "source": "Die Zeit",
-      "title_original": "»Star Trek«: Schauspieler Patrick Stewart ist tot",
-      "summary_original": "Er war vor allem als Captain Picard in der Serie »Star Trek« und als Professor in den »X-Men«-Filmen bekannt. Patrick Stewart ist im Alter von 86 Jahren gestorben.",
-      "url": "https://www.zeit.de/gesellschaft/2026-10/schauspieler-patrick-stewart-tot",
-      "published": "2026-10-30T05:57:39+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "Zeugen gesucht: Zwei Radfahrerinnen bei Unfall an Ampel verletzt",
+      "title_original": "Filmstart im Dezember: Abschied von Sir Patrick Stewart in «Avengers: Doomsday»",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-10/29/zwei-radfahrerinnen-bei-unfall-an-ampel-verletzt",
-      "published": "2026-10-30T05:45:58+09:00",
+      "url": "https://www.zeit.de/news/2026-10/30/abschied-von-sir-patrick-stewart-in-avengers-doomsday",
+      "published": "2026-10-30T08:01:06+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Todesfall: Captain Picard und Theaterveteran: Patrick Stewart ist tot",
+      "title_original": "Regierungsbildung in Berlin: Krach über Eralps Bedenken: «Das Signal ist verheerend»",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-10/29/hollywood-star-patrick-stewart-ist-tot",
-      "published": "2026-10-30T05:42:55+09:00",
+      "url": "https://www.zeit.de/news/2026-10/30/krach-ueber-eralps-bedenken-das-signal-ist-verheerend",
+      "published": "2026-10-30T08:01:05+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Chipkonzern: Intel-Prognose enttäuscht Börse - Aktie bricht ein",
+      "title_original": "TV-Mediziner: Rat vom «Bergdoktor»: «Der nächste Sommer wird ein Knaller»",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-10/29/intel-prognose-enttaeuscht-boerse-aktie-bricht-ein",
-      "published": "2026-10-30T05:34:49+09:00",
+      "url": "https://www.zeit.de/news/2026-10/30/rat-vom-bergdoktor-der-naechste-sommer-wird-ein-knaller",
+      "published": "2026-10-30T08:01:04+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Auszeichnung: Friedman warnt: Jüdisches Leben so gefährdet wie nie",
+      "title_original": "Kalenderblatt: Was geschah am 30. Oktober?",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-10/29/friedman-warnt-juedisches-leben-so-gefaehrdet-wie-nie",
-      "published": "2026-10-30T05:32:41+09:00",
+      "url": "https://www.zeit.de/news/2026-10/29/was-geschah-am-30-oktober",
+      "published": "2026-10-30T07:55:04+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Hochschulen: Blume will gegen verfassungsfeindliche Uni-Dozenten vorgehen",
+      "title_original": "Abstimmung in Israel: Alle Stimmen ausgezählt: Patt nach Wahl in Israel",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-10/29/blume-will-gegen-verfassungsfeindliche-uni-dozenten-vorgehen",
-      "published": "2026-10-30T05:30:04+09:00",
+      "url": "https://www.zeit.de/news/2026-10/29/wahl-patt-in-israel-netanjahu-und-eisenkot-suchen-partner",
+      "published": "2026-10-30T07:52:13+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Notfälle: Weltkriegsbombe in Regensburg entschärft",
+      "title_original": "Musikpreis: «New Faces Award» für Tiffany Aris - auch Catterfeld geehrt",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-10/29/weltkriegsbombe-in-regensburg-entschaerfung-am-abend",
-      "published": "2026-10-30T05:11:48+09:00",
+      "url": "https://www.zeit.de/news/2026-10/29/new-faces-award-fuer-tiffany-aris-auch-catterfeld-geehrt",
+      "published": "2026-10-30T07:38:36+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Alexander Zverev: Alexander Zverev übernimmt Platz eins der Tennisweltrangliste",
-      "summary_original": "Beim ATP-Turnier in Wien besiegt Alexander Zverev den Niederländer Tallon Griekspoor. Ab Montag ist der 29-Jährige damit die Nummer eins der Tennisweltrangliste.",
-      "url": "https://www.zeit.de/sport/2026-10/alexander-zverev-tennis-weltrangliste-jannik-sinner",
-      "published": "2026-10-30T04:54:09+09:00",
+      "title_original": "Bosnien und Herzegowina: Vier Tote bei Absturz von Helikopter der EU-Friedenstruppe in Bosnien",
+      "summary_original": "In Bosnien und Herzegowina ist ein italienischer Armeehubschrauber abgestürzt. Vier Mitglieder der EU-Friedensmission Eufor Althea starben, elf weitere wurden verletzt.",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/eufor-helikopterabsturz-bosnien-herzegowina-brcko",
+      "published": "2026-10-30T07:24:34+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Verkehr: GDL setzt Streik bei der Saarbahn fort",
+      "summary_original": "",
+      "url": "https://www.zeit.de/news/2026-10/29/gdl-setzt-streik-bei-der-saarbahn-fort",
+      "published": "2026-10-30T07:15:25+09:00",
       "via": "rss",
       "state_media": false
     }

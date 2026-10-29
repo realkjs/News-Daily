@@ -1,8 +1,35 @@
 {
   "team": "uk",
   "team_name_ko": "영국팀",
-  "collected_at": "2026-10-30T06:15:25.361184+09:00",
+  "collected_at": "2026-10-30T08:38:20.809080+09:00",
   "headlines": [
+    {
+      "source": "BBC",
+      "title_original": "PSG score late to hold struggling Man City",
+      "summary_original": "Manchester City concede late to a draw 1-1 with Paris St-Germain, as their wait for a win in the Women's Champions League this season continues.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckeq3v1wgxy4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T07:40:17+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Watch: Life and career of iconic actor Sir Patrick Stewart",
+      "summary_original": "In a career that spanned seven decades, Sir Patrick won multiple Emmys and Golden Globes, a star on the Hollywood Walk of Fame and a knighthood from Queen Elizabeth II.",
+      "url": "https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T06:57:04+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Young athlete and former minister among victims of Spain train crash",
+      "summary_original": "As some of the victims' names are released publicly, an outpouring of grief and anger is sweeping across Spain.",
+      "url": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T06:33:35+09:00",
+      "via": "rss",
+      "state_media": false
+    },
     {
       "source": "BBC",
       "title_original": "'Continue your journey': Key moments of leaked Spain train crash audio",
@@ -49,38 +76,20 @@
       "state_media": false
     },
     {
-      "source": "BBC",
-      "title_original": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
-      "summary_original": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T05:05:57+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BBC",
-      "title_original": "Jury shown CCTV of Huntingdon train staff using frying pan in defence",
-      "summary_original": "A train crew member shows \"sheer courage and bravery in seeking to save lives\", a court hears.",
-      "url": "https://www.bbc.co.uk/news/articles/ckdd8qpdeym4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T05:02:27+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BBC",
-      "title_original": "More than 43 million ballots cast so far in midterms early voting surge",
-      "summary_original": "Hispanic voters have helped drive the early voting numbers, which appear to outpace overall turnout for previous elections in some battleground counties.",
-      "url": "https://www.bbc.co.uk/news/articles/c30rlxkjv2yko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T04:50:07+09:00",
+      "source": "Sky News",
+      "title_original": "'One of the greats' - Star Trek and X-Men star Sir Patrick Stewart dies",
+      "summary_original": "Star Trek and X-Men actor Sir Patrick Stewart has died after a \"brief and poignant journey\" with Alzheimer's and dementia.",
+      "url": "https://news.sky.com/story/star-trek-and-x-men-actor-sir-patrick-stewart-dies-13605543",
+      "published": "2026-10-30T04:44:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Sky News",
-      "title_original": "Star Trek and X-Men actor Sir Patrick Stewart dies",
-      "summary_original": "Star Trek and X-Men actor Sir Patrick Stewart has died after a \"brief and poignant journey with Alzheimer's\".",
-      "url": "https://news.sky.com/story/star-trek-and-x-men-actor-sir-patrick-stewart-dies-13605543",
-      "published": "2026-10-30T04:44:00+09:00",
+      "title_original": "Australian mother refused appeal against conviction for poisonous mushroom murders",
+      "summary_original": "An Australian woman who murdered three people by serving them beef wellington laced with poisonous mushrooms has been refused a bid to appeal against her convictions.",
+      "url": "https://news.sky.com/story/australian-mother-refused-appeal-against-conviction-for-poisonous-mushroom-murders-13605537",
+      "published": "2026-10-30T04:36:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -121,20 +130,47 @@
       "state_media": false
     },
     {
-      "source": "Sky News",
-      "title_original": "Why defeated Flavio Bolsonaro fled Brazil for Miami - and what comes next",
-      "summary_original": "On Wednesday, Flavio Bolsonaro, who last week lost Brazil's presidential election, was seen arriving in the US on a private jet after having fled in the dead of night.",
-      "url": "https://news.sky.com/story/why-defeated-flavio-bolsonaro-fled-brazil-for-miami-and-what-comes-next-13605308",
-      "published": "2026-10-29T21:28:00+09:00",
-      "via": "rss",
+      "source": "ITV News",
+      "title_original": "Catch up on Representing Border Thursday 29th October 2026",
+      "summary_original": "Catch up on Representing Border Thursday 29th October 2026 ITVX",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOODlfVFJTWExqamNiaUR5dURKQ2Jkb1dXcHlNY2NrYlQ3M1FkaTBjNHVlcjdyQW1seUFBd1haVWI2NjNDNVk2SUI0M05JU3ZMamgxaW02T3dtRlpQb1ZtUmVFUFVISGxQVU43UzVzb2NBdVN6M0hjOFMyLWxUWDd1YmxEYWxjalYxYVpfbnhQYXJVNnFDSVhQak0ydHJWVkhGN3FN?oc=5",
+      "published": "2026-10-30T08:30:00+09:00",
+      "via": "google_news",
       "state_media": false
     },
     {
       "source": "ITV News",
-      "title_original": "Thomas Markle investigation is all-too familiar for police in the Philippines",
-      "summary_original": "Thomas Markle investigation is all-too familiar for police in the Philippines ITVX",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSmF4c2ZYcUxiNjBVZGZ3N0ttRXFUNGUtWHh3OTJ2cmZ6MFFHNTRmaUdsWE5zMFlrRXBCb1Mwc1Z5bXBTb1MySjhvc2lQb2ZEcW9QVHROZE1uMEt4WGltUk9RQ0VCbEc4Z0RRYmNFVUt0SjcyWXhIdmdmWGFLeUIzQlVUQUEzVjVxTkRRV1hmSGJ3WDB1amNJQXg0MGU0ekJDTDJtQkVMeHNzUQ?oc=5",
-      "published": "2026-10-30T06:00:11+09:00",
+      "title_original": "Star Trek and X-Men actor Sir Patrick Stewart dies aged 86",
+      "summary_original": "Star Trek and X-Men actor Sir Patrick Stewart dies aged 86 ITVX",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcDZ5ZENRUzBwVGJDdnNaSGFhZHFTcnFVQlpRYnItU1JGQUNtdG5vRWN0SHR2Mm94YVVXMUhHX1loT05TVUY4Q3VvdjlpVU5XYVp5czZFUWlNaUNJQVlRM2tQMGVXdFFKU1M1dXpfZ2ZSMm9sVXB0WjlNOGt1R2drcUVfbU9XLWluUzhVZG1HTXBSd1QwaUpJU1NoY1hyQQ?oc=5",
+      "published": "2026-10-30T08:15:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "ITV News at Ten - Series 11 - Episode 216",
+      "summary_original": "ITV News at Ten - Series 11 - Episode 216 ITVX",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JTWduQzd3Q3hGaXU3M2hLRmc4SUkwbGZ5eEFDOFVFWkYwSEZuODFEaDk5cGZFMU52RldBSEpSNS15TS1BVnIyYXc2Mnc3V3BWM3dyZmdoR056OU9Ma3NpMHVHSDY3dGc5RlQ0Tg?oc=5",
+      "published": "2026-10-30T08:04:25+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "The Martin Lewis Money Show Live - Series 15 - Episode 17",
+      "summary_original": "The Martin Lewis Money Show Live - Series 15 - Episode 17 ITVX",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN2wtQmkxNEVqS05qTUV3eE5xbzN1RTVhdURDX3JaQWZ5YlBpRERjVk5jbWNTSml2RzcxdnY2SzVEZlNjUE9tRWYtSmpJU0pMMDVKTGxVQUdXUWV4MXBSQnlHU01ZSjVKb1RsTm9GdXRuQklpaldzZ2tVR01tQlJpOUhHWQ?oc=5",
+      "published": "2026-10-30T06:02:30+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "Sir Patrick Stewart, Star Trek and X-Men actor, dies aged 86 | ITV News",
+      "summary_original": "Sir Patrick Stewart, Star Trek and X-Men actor, dies aged 86 | ITV News ITVX",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT3F5a0RSeDFtMWhlUWlSdF9xakw1bFNqN05vd1FCUFp3LVp2VkxyTHNZclA1Y1laTk9RWm9jd1FUUUJFRGE3N3B6bk84MnhRWnJoZ0hpeWJYZE5sczV6bHR6NmFrVlZvZHVCRU5wWXBBOE93ZTRHNXh1V1QxZ2NlYXZrMU9GLU9GcmlSVjVpWW1Zdw?oc=5",
+      "published": "2026-10-30T05:53:12+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -158,46 +194,10 @@
     },
     {
       "source": "ITV News",
-      "title_original": "Met Police refers itself to watchdog over handling of letter about Meghan Markle's dad",
-      "summary_original": "Met Police refers itself to watchdog over handling of letter about Meghan Markle's dad ITVX",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMzUtdUY2VE1XZWJGdV9XcXF0Ymo4Wi1pVms3ZzRieUpTTUNMbW5pYUx2M21xc1hPX3N5TGEwMENjT24tTHc2aDN2T2dGNUtTRm1NeUo0SlE5dU5mUExJdjVpbkluR2J0RVNGQjNiUVYwZkxOdExqV0NmRlNXeVlkLUlpNmcxb3pIeFBqYjJ3R0pMU2tINTdhUjBEdTRhTU0zZmRXOS1kSTRITTNBMTZ2UjczT3dEVmVGWmNZSHpCNjJtZw?oc=5",
-      "published": "2026-10-30T04:44:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "ITV News",
-      "title_original": "Catch up on ITV News Central (East Midlands) - Thursday 29th October",
-      "summary_original": "Catch up on ITV News Central (East Midlands) - Thursday 29th October ITVX",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRnNJZmNXT1RoSWV1Um90Uk5YaGlpVjl5SlI0YkdQcTEwbFBFTHN1WW1MU0M3TnZ2djl1UjRnbjNaUTlqc01ha1lMdlZtNmN3dEN6M0JYTlFrYkQyZEc3T0pROTR6WW5kdElyX0JlWDE0Um8wb3I2T0lDLWFJNlcxdnU5Sl8xV190ZUtCR0l5NkdTXzFtLVlfRGl1Sy14enZueGZ4QllB?oc=5",
-      "published": "2026-10-30T04:43:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "ITV News",
-      "title_original": "Catch up on ITV News Central (West Midlands) - Thursday 29th October",
-      "summary_original": "Catch up on ITV News Central (West Midlands) - Thursday 29th October ITVX",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRXo5V2FkampJWG00MU5FYVlIVFhEQmR1XzB1TUl4OWpwTl9rZGNZdlZkMk0wZGtRbXU3TXhsWHFqQzA2U2xVWExKMV9vR3Z0aU5YdnFxOEthbkdXYUxpTnoxQ3BCQ2JYTk93WWNsZy1ZZV9zVHF2TDhIb0xDWF94SkZIb0pja18xbFN4cnBGRHBGZXBMNlU4aHN0OGlQeFoxNmM1N3dR?oc=5",
-      "published": "2026-10-30T04:43:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "ITV News",
-      "title_original": "The ticking time bomb of SS Richard Montgomery",
-      "summary_original": "The ticking time bomb of SS Richard Montgomery ITVX",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQkhROFZTZ18zU2QxNnJnOHhJdFJjUDB3QmZuaFdHNnExN2NKdlVmdm1JUEswc0w0UjZ3cEpST2xTN3paaE1rR0k3akczTGVqSk1tU3E3SlplZE9OMFZlYlVtMUtxekV3ZnhvaDNFSkpPUkkyb08zcG45YjZ6NE1OV0E5VEtzLS1ZcWZITzRn?oc=5",
-      "published": "2026-10-30T04:35:48+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "ITV News",
-      "title_original": "Brighter skies return: Watch the latest ITV weather forecast",
-      "summary_original": "Brighter skies return: Watch the latest ITV weather forecast ITVX",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWGRPT1djQUNTQVAyT1I1dmRibE9DWFhQRGhlSmNOQVBaODFObXpwOFY2cnpQLWFoTkpzZExqXzFjQXhFajdETmRrX01vYnBldkZxNzE4RDBPZW1kVzhJejBQZVE0WTVRcXdsQWpvUE5kUkZSNHRHMmRpcGdhMVJPb1ptQ29lMG1SSWUwbVpkYzMwMFEwVnA1MzNVOWRpV1U?oc=5",
-      "published": "2026-10-30T04:30:00+09:00",
+      "title_original": "Catch up on ITV News Tyne Tees from Thursday 29th October",
+      "summary_original": "Catch up on ITV News Tyne Tees from Thursday 29th October ITVX",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZmg5UlVhX3ViUlp2T1VaNEFTdHM2YmdaS3pwblNTc2RiYkdTWjMyNXhDMjJNTnZGT2NwRUhqMGN6ejhRNE9seTFNcUFhN1dKWGJmQVNQS05GdWJ5MHhxZGtGQnRDWmJMYW5BLTNaRkQwOWdMelBqZWxpTUlLVEhqdXpwRFN3NU5zeTJNUTEzQmwxQUZCRWVrcEpud3c?oc=5",
+      "published": "2026-10-30T04:45:00+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -233,7 +233,7 @@
       "title_original": "Meet the Christians turning away from Trump in Kansas",
       "summary_original": "Meet the Christians turning away from Trump in Kansas Channel 4",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOamFiN2ZXYjV2VHA3SmQ1bnE2bFh5OUxGTy1JTU1ST0dHNlNJS2JKQ1l2Tkt0T2Z4cm44RE9EQjF3bVp4OEZfTUV0bjNRdV9oQ2ZBQVB3T1J0Q0lpS21Ecm0xbUFmWTFYMExKQWxpRjRzWWttbnBOYlRQZ3FOTTM3MUlzZjR5ZXU5U3d3?oc=5",
-      "published": "2026-10-30T05:00:33+09:00",
+      "published": "2026-10-30T05:02:19+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -248,18 +248,18 @@
     },
     {
       "source": "Channel 4 News",
-      "title_original": "Russell Brand’s wife tells court he is a ‘wonderful father’",
-      "summary_original": "Russell Brand’s wife tells court he is a ‘wonderful father’ Channel 4",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS25LY0Fpay03REFTbUd4SnYtY0MtRFRtYjhVUDJyZ0VvRDF0TVpNRlI3TWpBZzdBcWVpUjJwRWFYUUk3a2VnYnphS2xSMTFqZzZwOWJ3blZUcklwNXFrNldMekNaY2wzOHBHUm1VT204dzFpMnZBRzAzV2Y2R0VEWG5FLVdjRmdpNk1WYVlmbw?oc=5",
+      "title_original": "Russian train strike kills 14 despite Melania Trump’s negotiated ceasefire in Ukraine",
+      "summary_original": "Russian train strike kills 14 despite Melania Trump’s negotiated ceasefire in Ukraine Channel 4",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUlQya2tjM0VLdjl2eTUxYWNuX2Rqd3l0b2xtd2lNbmtHQ1gzalB1eEFscHN0cV91R29PWmN5Unotb0UyZ2VBbXVER0VhMUpOQjVqUXMtdzh0a3F1TmdwOWdBem1reGJMcEhkNEJRTkt6SHBLVU5Kd0NrWFhKLTY2bmJ2WEhZTENYV2c3cGlJMnM5OGdHT1ZYVzNja0FNT3BIVWJqbGtlaDBPYXBiQW41RjJSR2w?oc=5",
       "published": "2026-10-30T04:51:15+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Channel 4 News",
-      "title_original": "Russian train strike kills 14 despite Melania Trump’s negotiated ceasefire in Ukraine",
-      "summary_original": "Russian train strike kills 14 despite Melania Trump’s negotiated ceasefire in Ukraine Channel 4",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUlQya2tjM0VLdjl2eTUxYWNuX2Rqd3l0b2xtd2lNbmtHQ1gzalB1eEFscHN0cV91R29PWmN5Unotb0UyZ2VBbXVER0VhMUpOQjVqUXMtdzh0a3F1TmdwOWdBem1reGJMcEhkNEJRTkt6SHBLVU5Kd0NrWFhKLTY2bmJ2WEhZTENYV2c3cGlJMnM5OGdHT1ZYVzNja0FNT3BIVWJqbGtlaDBPYXBiQW41RjJSR2w?oc=5",
+      "title_original": "Russell Brand’s wife tells court he is a ‘wonderful father’",
+      "summary_original": "Russell Brand’s wife tells court he is a ‘wonderful father’ Channel 4",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS25LY0Fpay03REFTbUd4SnYtY0MtRFRtYjhVUDJyZ0VvRDF0TVpNRlI3TWpBZzdBcWVpUjJwRWFYUUk3a2VnYnphS2xSMTFqZzZwOWJ3blZUcklwNXFrNldMekNaY2wzOHBHUm1VT204dzFpMnZBRzAzV2Y2R0VEWG5FLVdjRmdpNk1WYVlmbw?oc=5",
       "published": "2026-10-30T04:51:15+09:00",
       "via": "google_news",
       "state_media": false
@@ -275,73 +275,73 @@
     },
     {
       "source": "Reuters",
-      "title_original": "US First Lady praised for Oleshky relief truce as Moscow strikes Ukrainian commuters",
-      "summary_original": "US First Lady praised for Oleshky relief truce as Moscow strikes Ukrainian commuters Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb181OURQbFRFR1NyNmlZamlYdUppa18yeko2a0YycFZ1MEFzR1FRX1VYV1dqZGxlQ1EzTm5OS3lsNDNaSnhuOTNpT0NPRUhJa3FYdzg4R25fTzF5azY4VDJvb0VaNjZodWZtaGNKWEloMVpaM2VIMHFoMXQyQXYySUxBQmpJUTZCbFdOczhvYlFmeEU4UTJpbFdVTFU0QzR6MnhIS1VLckEwSU5HZ29PNjlzOGJIZ2RYSWlGVmVzNnRsQkk?oc=5",
-      "published": "2026-10-30T05:58:11+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Reuters",
-      "title_original": "Taliban’s poppy ban falters as Afghan farmers say they can't feed their children",
-      "summary_original": "Taliban’s poppy ban falters as Afghan farmers say they can't feed their children Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVmVMOEtmempEZzNDUWFSelpadU16THlEMmdVZGdlNl9ZS1VHQl8tV2F6LWxVNE51anVZSEFRVHpsYzVqeDNTOWtfanExbk5xRTVXVGFPQmhJUlZhaEluNVJHRFZRbXBEaTZ6TTl3eXc2T3VweTNqLVlLTzF1QkVnRkt6dTlYUGZjbHhQY1RXTVFGWXI3ZXJ3ZDRwMjZ0ZWV3S1hHcTM5OWV3TXRHeXVNS1hkdWtWYVV0Z050NUlsT3V5RWdSSjE4OEtR?oc=5",
-      "published": "2026-10-30T05:49:56+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Reuters",
-      "title_original": "Amazon projects fourth quarter sales below estimates",
-      "summary_original": "Amazon projects fourth quarter sales below estimates Reuters",
+      "title_original": "Amazon sinks as AI spending eclipses fastest cloud growth in five years",
+      "summary_original": "Amazon sinks as AI spending eclipses fastest cloud growth in five years Reuters",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXhDSjU4RmlrZmUyT0E5dzJNbmJNaXBBdGhndktXeGUtZVItTWlpNDBZcXR5LTZDMjFOdzdXenRpTnhNd01pZXBXX0V0OTVlYkMtVlJnN2l4YS1QeENxeWlzUUN6bDZkeThpc1VBMUZDQjFYcGxrQWFrVzBVOXdueV9Tb0drZjZ4T3JYWmRXS2MwWnMwMGpoT05FU1lUVWhRbXlPZEpYUjZQbnlrQWh3SGdsTQ?oc=5",
-      "published": "2026-10-30T05:33:44+09:00",
+      "published": "2026-10-30T08:13:03+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Reuters",
-      "title_original": "Wall Street ends lower as Alphabet revenue miss revives AI capex jitters",
-      "summary_original": "Wall Street ends lower as Alphabet revenue miss revives AI capex jitters Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tUjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA?oc=5",
-      "published": "2026-10-30T05:30:27+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Reuters",
-      "title_original": "Robust consumer spending, AI-related investment power US economy in third quarter",
-      "summary_original": "Robust consumer spending, AI-related investment power US economy in third quarter Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0JuSzdaWWtxaGJGdW5CV0pONGc2dlpzMVJnaGl2UUIwQmtkc1FNSUVNQzhxTFRycVZ4dGpRaVlvbGdraXBWenkzY1otSno3TC1zWTlQUmFRandmM0hlSm14a1pfWTJMNjdNclo5bFlFQWt3UlpIcFlPY3RtZzBQVXhKUzVPSWMxUXZFckNVM3ZXZEU?oc=5",
-      "published": "2026-10-30T05:29:42+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Reuters",
-      "title_original": "Alaska dispute threatening to complicate fight for US Senate control",
-      "summary_original": "Alaska dispute threatening to complicate fight for US Senate control Reuters",
+      "title_original": "Trump administration bolsters bid to block Alaska Senate certification",
+      "summary_original": "Trump administration bolsters bid to block Alaska Senate certification Reuters",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSHY5R0oyOUtJUmI4bnZKNWFvX2NBNmw2VS0yQ3FnNmNWclVzVkNZYmU1U2diTXU4UE91Rm9wckZYS1ZoYXljM0Ffd01haWlsOVRkNy1WZU1CdnJKVV9EcC1SWExzcDJRTERYd0ZwdDlJeDRXdlQ2ZTdzaTlTQkpDUXZhZnFsTXNXM1NScmZxTi0zbnRfU002VWpsMTFiS1Q2Ymc?oc=5",
-      "published": "2026-10-30T05:29:29+09:00",
+      "published": "2026-10-30T07:39:52+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Reuters",
-      "title_original": "Patrick Stewart, Shakespearean actor turned 'Star Trek' and 'X-Men' star, dies at 86",
-      "summary_original": "Patrick Stewart, Shakespearean actor turned 'Star Trek' and 'X-Men' star, dies at 86 Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWhaZUxRSlZQeF9wYnU2b0k0U2FuYUUyY0RWX3hpZmJTdFVHdk5SeUk4MlpnTXozUjVGdHllRnNXOTdDMUppd2hnbmdOMUVwWThMUGRUaGRuZjVLUTR2eld0aGQwOUt3aXVlYmtLM0xNbHFWUVdRWXVDbFdVekM1T3Q3MURNX2M0cWl0Vi1QNTVUU3o0N1BfZnVnQ2RwRDA1?oc=5",
-      "published": "2026-10-30T05:25:43+09:00",
+      "title_original": "EXCLUSIVE: Pentagon treating military base freezer malfunctions as suspected cyberattack, officials say",
+      "summary_original": "EXCLUSIVE: Pentagon treating military base freezer malfunctions as suspected cyberattack, officials say Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZWtDa2JmUnFRRENlQ0RoX2hseFpyajltZE5vbjUwdnlDeTQ5M01zanFrNTBJcE1NV0RwZGFCd29LQXZQN2RYd3pBZnhNbU91eEdZalRSbVpXbTdnS2VXMXNaWE9ZdV9tSHVub29PUy1kX3BFYTNZUWM2NFpTLTZTWGdLX2hTXzYxR2JPanVaeVowcVZmMTZubVZxZE9QSjFPYmVuQjJFVVZqTUJKRUlMclM0NGM4YTNzMmR0ZUdR?oc=5",
+      "published": "2026-10-30T07:39:05+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Reuters",
-      "title_original": "Yemen's hospitals buckle as fighting escalates",
-      "summary_original": "Yemen's hospitals buckle as fighting escalates Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2FrR3hGTjlic3RtRHdHQWtvbjJ5cXNPNFExeWlSMGRpOFpIOFk1WFBUX3VoUEs5MWhkMXVIcFlmc3BaMkE0NnlWbXdacUNZRXg0emVrUjhJTENacVRqY2M5aGpvY08wQmhVYWJxbkdOZlB6dzUwZGNLY3ZkUGFQOVJZekxCM19qdVAtajNOdmdrU2JIc0M5QXZuN1M?oc=5",
-      "published": "2026-10-30T05:16:56+09:00",
+      "title_original": "Tether, Circle freeze $2.38 billion after Binance reports security incident",
+      "summary_original": "Tether, Circle freeze $2.38 billion after Binance reports security incident Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT3g4aktSMUNOUXJpZ0NMa2hicVFaR28zZjd6NWF5Qkp5U1RfbURlMWRoc2oxa2wzb24yNUowQWNSSmhsanVLWUFfdUJYalF6b2l5eHFTSzctV0VPQlE0UEpBZm9BdkpJSFo5OTdXWDJINE1JWXVILUhvYk1JVlpKVzFvTGJTYzJGSlQ4VXB2ZnRnNHFORmRDTmdtOG1kam9wNTh3TWYyX1VFVmp4bzMxQ096eUdCTzNIRkVHNDZZelNjWkhpVWlV?oc=5",
+      "published": "2026-10-30T07:27:43+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Polymarket resumes trading after third-party security breach, to reimburse users",
+      "summary_original": "Polymarket resumes trading after third-party security breach, to reimburse users Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdGFDU255RTFLTGhHMmlndVlJb1gyUVdsYmJxcUpaalJoRVp0OEpROVcyQ0xQRlRiN1haY0UyTUlLb1JlUF92NF8tWVlfVmxmVWJmN2p4Q2ZfNHhCSy1ta2EwMi1KZUJ0eE1zVExPck44OVFJRnFuSmV2VjUtdGUzQVVGR1VPVDFTbUF4UzlwTHFIN0xYbXh5dUpqcjZuNlNMdGNV?oc=5",
+      "published": "2026-10-30T07:26:32+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Intel shares drop 21% on Israel factory blast, PC weakness",
+      "summary_original": "Intel shares drop 21% on Israel factory blast, PC weakness Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbEgxampOc0U5RENJWVd0a09uQjlFSkxueGxGVzVPX2NwdElzNDN3WXdjVFpvelNULXVObnMzTTJzb0ZfeFBtN1ZOQ0FVNXRuN0ZINkF0dWZkZlR6ZlkzUE5wQWpPTWg3dGtDLURwRl9OU0ZEb1UtejNBbC1KMnVWbmJ5OHQxWTBoU1I3cFduaXAyOHFBVkFIYjhCNXR1c0EyM2xlZFZNWFM?oc=5",
+      "published": "2026-10-30T07:24:05+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Meta loses appeals against interim measures imposed by French regulators",
+      "summary_original": "Meta loses appeals against interim measures imposed by French regulators Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONnJENHVhbWVmOEVkWndYd3l2Y2haUjlPZllvWU5UOWUyd0ljZTZjTzVXN056MG9idWNxZU5sMUZfSF9qZTNXdGM1aHJGQTU0cVpPQmY2c0lYU3YxR0hWR3AxYXltWXdXUWE4d3RVWVRNVEFLZ0xFbDB2ZlZFSzN3Wm5hZlhnZ19WUkxvdEF3UU5IME55dS1tcnBPOVRJOUtJbGlYeG1qODFoTnhLOG53eXR6ZTk?oc=5",
+      "published": "2026-10-30T07:15:05+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Animal welfare-focused farm group targets Republicans in rural races",
+      "summary_original": "Animal welfare-focused farm group targets Republicans in rural races Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeFh1UFhvY1FYOW5PdDFOT0V3MERDRm9EUWNmb2ZrYlN6Rk5XbE1mOHN4UW5QUURWQ1JFY0doSG5icl9La1Bwc3NXMVFnZjFZTlpGdkp6M1BhcVBZVDk4eC10YlBYbFE4V3I1UnZYbHpMTVNONjJYY0FKWmZvSlhBZWRESGlpR2pmMFh3cHk5M1NwakZNTDVLQUxSY1ZKamtkOTBncEcxYWZmSlFneEJOSHB1ZzFIWHFqSFVjcTV2VzUyQQ?oc=5",
+      "published": "2026-10-30T06:43:50+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -350,7 +350,43 @@
       "title_original": "Amazon shares slide on lower Christmas sales forecast",
       "summary_original": "Ecommerce giant posts disappointing sales and guidance despite booming cloud unit",
       "url": "https://www.ft.com/content/8affd8dd-b783-48c8-86e2-ac4a647fa0f3?syn-25a6b1a6=1",
-      "published": "2026-10-30T05:55:16+09:00",
+      "published": "2026-10-30T07:44:22+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "Uproar in Alaska sparks Democratic fears for Senate majority",
+      "summary_original": "Campaign mishaps and infighting could undermine party’s push to take Republican strongholds",
+      "url": "https://www.ft.com/content/4894285b-40dc-4a8d-a685-2696f3292bc9?syn-25a6b1a6=1",
+      "published": "2026-10-30T07:06:19+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "Starbucks to resume share buybacks but China shift clouds growth outlook",
+      "summary_original": "US same-store sales rise 7.7% as CEO touts progress in coffee chain turnaround",
+      "url": "https://www.ft.com/content/1f5eec1a-569a-493f-a0ce-bde2ca12a3cc?syn-25a6b1a6=1",
+      "published": "2026-10-30T06:54:08+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "Intel stock falls 20% as weak sales outlook dents turnaround",
+      "summary_original": "Chipmaker forecasts lower than expected PC chip sales and falling margins",
+      "url": "https://www.ft.com/content/d7540e89-08db-43d3-92e0-3c15dd3a60cb?syn-25a6b1a6=1",
+      "published": "2026-10-30T06:42:21+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "What killed Weil Gotshal?",
+      "summary_original": "Partners were stunned by the realisation that a profitable 95-year-old firm with 1,200 lawyers could be felled by a string of departures",
+      "url": "https://www.ft.com/content/98dfc71b-19eb-4194-8c6a-bb6d9b463074?syn-25a6b1a6=1",
+      "published": "2026-10-30T06:17:34+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -382,74 +418,29 @@
       "state_media": false
     },
     {
-      "source": "Financial Times",
-      "title_original": "Intel stock falls 17% as it forecasts weaker chip sales",
-      "summary_original": "Lower-than-expected sales forecasts dent chipmakers’ turnaround prospects",
-      "url": "https://www.ft.com/content/d7540e89-08db-43d3-92e0-3c15dd3a60cb?syn-25a6b1a6=1",
-      "published": "2026-10-30T05:02:33+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Financial Times",
-      "title_original": "ExxonMobil boss pulls out of Gulf energy conference over security concerns",
-      "summary_original": "Darren Woods was scheduled to speak at the Adipec conference in Abu Dhabi on Monday",
-      "url": "https://www.ft.com/content/288ccf9d-6456-4bed-85c0-e7216bb31c66?syn-25a6b1a6=1",
-      "published": "2026-10-30T03:55:08+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Financial Times",
-      "title_original": "Google is eating itself — but it could still eat everyone else too",
-      "summary_original": "Leadership in the AI race can be won, lost and won again at speed",
-      "url": "https://www.ft.com/content/245107d8-ef54-4b30-a75a-538d055bc6d7?syn-25a6b1a6=1",
-      "published": "2026-10-30T03:00:36+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Financial Times",
-      "title_original": "Netanyahu’s party claims election ‘stolen’ by ‘foreign entities’",
-      "summary_original": "Security service probes allegations of interference after high turnout by Palestinian citizens of Israel prevented outright victory for premier",
-      "url": "https://www.ft.com/content/f66a684c-4073-4cf8-b5b8-8851c72e8bc0?syn-25a6b1a6=1",
-      "published": "2026-10-30T02:36:37+09:00",
+      "source": "The Guardian",
+      "title_original": "Polymarket temporarily suspends trading on international platform due to security incident",
+      "summary_original": "Security incident linked to performance-monitoring tool spurred platform to halt trading for about an hour Polymarket temporarily halted trading on its international platform on Thursday because of a security incident that compromised a third-party provider, the company said. Trading was paused for about an hour and resumed on Thursday afternoon. The company has promised to fully reimburse any aff",
+      "url": "https://www.theguardian.com/world/2026/oct/29/polymarket-temporarily-suspends-trading-security-incident",
+      "published": "2026-10-30T08:20:16+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "The Guardian",
-      "title_original": "Everton v Newcastle: Carabao Cup fourth round – live",
-      "summary_original": "⚽ Grealish misses last-16 tie over ‘breach of discipline’ ⚽ Scores | Football Daily | Mail Scott with your thoughts 2 min: Dewsbury-Hall shoots. Deflected. Nothing comes of the corner. Everton are playing in blue, Newcastle a pinky purple. The match begins. Sky’s red-button treatment of this game, squirrelled away deep in its planner, is little short of a disgrace. Continue reading...",
-      "url": "https://www.theguardian.com/football/live/2026/oct/29/everton-v-newcastle-carabao-cup-fourth-round-live",
-      "published": "2026-10-30T06:08:41+09:00",
+      "title_original": "Erin Patterson appeal live updates: Victorian woman loses bid to overturn triple-murder convictions over deadly mushroom-laced meal",
+      "summary_original": "Court of appeal ruling on the two appeals from 10am in the high profile Australian mushroom triple-murder case Erin Patterson to learn if she could face retrial or longer jail term Patterson’s actions mean it is ‘inappropriate’ to fix non-parole period, justice says McLeish said the court had found Patterson’s actions “carefully planned and deliberate”, saying she had engaged in an “elaborate seri",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/30/erin-patterson-appeal-live-updates-australia-mushroom-murders-case-retrial-bid-latest-news-ntwnfb",
+      "published": "2026-10-30T08:18:32+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "The Guardian",
-      "title_original": "Manchester City v Paris Saint-Germain: Women’s Champions League – live",
-      "summary_original": "⚽ Women’s Champions League updates; kick-off 8pm GMT ⚽ Live scores | Read Moving the Goalposts | Mail Sarah 4 min : City have the first real chance as they try and find Shaw in the box but Karchaoui marshals the threat well. The hosts come again with Fujino finding the Jamaica international but she can’t connect with the cross. 2 min : Can you believe this is the first time these two clubs have me",
-      "url": "https://www.theguardian.com/football/live/2026/oct/29/manchester-city-v-paris-saint-germain-womens-champions-league-live",
-      "published": "2026-10-30T06:07:30+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "The Guardian",
-      "title_original": "The Celebrity Traitors: episode nine – LIVE",
-      "summary_original": "Will Sharon or Joanne be banished? Are the three traitors still the most trusted people in the castle? Who will make it to the final? It’s time to find out in the penultimate episode Sheen is gobsmacked, convinced as he is that Sharon Rooney is queen of the traitors. And his way to prove this – which might be consequential – he is going to fully excavate the murder in plain sight. If he does it co",
-      "url": "https://www.theguardian.com/tv-and-radio/live/2026/oct/29/the-celebrity-traitors-episode-nine-live",
-      "published": "2026-10-30T06:06:55+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "The Guardian",
-      "title_original": "Patrick Stewart, Star Trek actor and acclaimed thespian, dies aged 86",
-      "summary_original": "Star Trek: the Next Generation and X-Men actor died at his home after ‘a brief and poignant journey with Alzheimer’s disease and Lewy body dementia’ Patrick Stewart dies aged 86 – latest updates Patrick Stewart, the acclaimed British stage and screen actor renowned for both Shakespeare and sci-fi, has died. He was 86. The Star Trek: the Next Generation and X-Men star died on Wednesday at his home ",
-      "url": "https://www.theguardian.com/culture/2026/oct/29/patrick-stewart-dead",
-      "published": "2026-10-30T06:02:36+09:00",
+      "title_original": "Netanyahu accused of smearing Arab voters to hold on to power",
+      "summary_original": "Prime minister claims Arab Israeli parties used foreign backing to steal elections, in which his coalition lost its majority Benjamin Netanyahu has been accused of using smear tactics to cling to power, after he claimed that Arab Israeli parties had used foreign backing to “steal” Tuesday’s election, in which the prime minister’s coalition lost its parliamentary majority. Netanyahu and his allies ",
+      "url": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
+      "published": "2026-10-30T08:14:53+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -458,34 +449,52 @@
       "title_original": "Trump again calls for prosecution of Mary Peltola as turmoil grows over Alaska campaign investigation – live",
       "summary_original": "‘This is voter fraud at the highest level,’ president tells rally crowd in South Carolina; Alaska governor orders inquiry into Peltola campaign amid Republican outcry Alaska governor orders investigation into Peltola’s Senate campaign Sign up for the Breaking News US email With days until the midterm elections, a new poll from CNN places Democrats well in the lead in key Senate races in Texas and ",
       "url": "https://www.theguardian.com/us-news/live/2026/oct/29/midterm-elections-politics-trump-obama-california-alaska-latest-news-updates",
-      "published": "2026-10-30T05:54:07+09:00",
+      "published": "2026-10-30T08:00:22+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "The Guardian",
-      "title_original": "Healey backs away from cutting welfare cost despite warnings of public finance shortfall",
-      "summary_original": "Experts round on chancellor over ‘scattergun’ budget, saying he ducked big tax and spending decisions John Healey has backed away from cutting the cost of welfare this parliament, amid dire warnings his first budget could lead to brutal spending cuts because of a £28bn shortfall in public finances. Experts rounded on Healey’s steady-as-she-goes budget on Thursday, with the Institute for Fiscal Stu",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/29/john-healey-budget-backs-away-from-cutting-welfare-public-finance-shortfall",
-      "published": "2026-10-30T05:02:16+09:00",
+      "title_original": "George Russell determined not to let disappointing F1 season define career",
+      "summary_original": "28-year-old still believes he will win world title one day Kimi Antonelli misses media duties with ‘viral illness’ George Russell has insisted he will not let his difficult Formula One season define his career and believes he still has plenty of years left to come back and win the world championship. Russell has been out-driven by his 20-year-old Mercedes teammate Kimi Antonelli in what has been a",
+      "url": "https://www.theguardian.com/sport/2026/oct/29/george-russell-f1-formula-one-mexico-grand-prix",
+      "published": "2026-10-30T07:53:06+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "The Guardian",
-      "title_original": "Met refers itself to police watchdog over Meghan warning letter",
-      "summary_original": "Move comes as Philippines police investigate alleged child sexual abuse images reportedly found at Thomas Markle Sr’s former home The Metropolitan police has referred itself to the police watchdog over potential errors in its handling of a 2019 letter warning of dangers to the security of the Duchess of Sussex posed by her father. The letter made allegations about Thomas Markle, the father of Megh",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/29/metropolitan-police-refers-itself-to-watchdog-over-meghan-warning-letter",
-      "published": "2026-10-30T04:55:58+09:00",
+      "title_original": "Everton ease past Newcastle to set up Fleetwood trip after Grealish is dropped",
+      "summary_original": "A big night for Everton featured a big call from David Moyes and demanded a big performance from his players. With the exception of Jack Grealish, they did not let him down. Fleetwood Town await in the Carabao Cup quarter-final after Everton shattered Newcastle’s hopes of a fifth consecutive place in the last eight with a clinical and committed display in front of the prime minister Andy Burnham. ",
+      "url": "https://www.theguardian.com/football/2026/oct/29/everton-newcastle-carabao-cup-fourth-round-match-report",
+      "published": "2026-10-30T07:15:19+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "The Guardian",
-      "title_original": "Metro-themed shirts, ‘We love public transport’ signs and a kiss at Bankstown: Sydney’s newest train line opens",
-      "summary_original": "The crowd was a sea of Sydney metro-themed T-shirts, badges, caps, earrings and sequinned jackets. Enthusiasts held signs declaring ‘We love public transport’ Get our breaking news email , free app or daily news podcast Hundreds of rail enthusiasts and a handful of bewildered commuters have ridden the first service on a long-awaited extension to Sydney’s metro line, bringing an end to more than tw",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/30/sydney-metro-extension-opening-date-first-trip-on-new-train-line",
-      "published": "2026-10-30T04:25:02+09:00",
+      "title_original": "PSG claim late point after Shaw penalty to hit Manchester City’s WCL top-four hopes",
+      "summary_original": "Manchester City’s hopes of securing a top-four spot in the Women’s Champions League are looking increasingly slim after a third successive draw dragged out their wait for a first European victory of the season, by virtue of Paris Saint-Germain’s late leveller at a disappointed Joie Stadium. City thought they had won the game through Khadija ‘Bunny’ Shaw’s 85th-minute penalty, as their heavy pressu",
+      "url": "https://www.theguardian.com/football/2026/oct/29/manchester-city-paris-saint-germain-womens-champions-league-match-report",
+      "published": "2026-10-30T07:14:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Hegseth reportedly fires high-ranking army strategist over alleged leaks",
+      "summary_original": "Pentagon says it has referred leak case to justice department for criminal investigation The US defense secretary, Pete Hegseth, has reportedly dismissed Lt Gen Brett Sylvia, a high-ranking army strategist serving on the Pentagon’s joint staff, following allegations that he disclosed classified information to the public. The Pentagon announced on Thursday that it had referred an alleged informatio",
+      "url": "https://www.theguardian.com/us-news/2026/oct/29/hegseth-fires-general-leak-inquiry-pentagon",
+      "published": "2026-10-30T07:01:56+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Telegraph",
+      "title_original": "Everton give Burnham something to shout about by booking quarter-final spot",
+      "summary_original": "Everton give Burnham something to shout about by booking quarter-final spot",
+      "url": "https://www.telegraph.co.uk/football/2026/10/29/everton-vs-newcastle-carabao-cup-live-score-latest-updates/",
+      "published": "2026-10-30T07:04:49+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -554,37 +563,28 @@
     },
     {
       "source": "The Times",
-      "title_original": "Recipes: meal ideas and inspiration",
-      "summary_original": "Recipes: meal ideas and inspiration The Times",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1WdFFXUVI4VldTOGVRSmVvWDFUVHEzUXFTMTdkcDFoLUppazltVXZSZFFrQkdjRTBUenBCeVkwcThhT255WFMw?oc=5",
-      "published": "2026-10-30T05:48:06+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "The Times",
-      "title_original": "Ireland",
-      "summary_original": "Ireland The Times",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1VWnlueDlEYVdDRGl0a1MyRU1Gd2FDZWtpazRWNkk0cEtQNnZmM0ljWkpSOTlqUkk3NmpURG5DTHBqQzY4VGJj?oc=5",
-      "published": "2026-10-30T05:36:05+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "The Times",
-      "title_original": "Scotland",
-      "summary_original": "Scotland The Times",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GeWRvRlNZVDZneGJwWjdScHM5RXU3c1lTcUNycEtoek9mRDhIRkV4R0tZX1RaTm9pNHJ1NXRWRXVabzVEdDNlaQ?oc=5",
-      "published": "2026-10-30T05:32:18+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "The Times",
       "title_original": "Who will win the 2026 midterm elections? Polls and predictions",
       "summary_original": "Who will win the 2026 midterm elections? Polls and predictions The Times",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnpCV1NDNnk4SXdjQkEzNjhGZUIwTWJhVDlQZS1NZGRnNzdDamRHR0Q3M0w4djlsT1BvZWIxaWpVakVYbk5rUHJfZkJlQ18wNlBjZmM3cEp2ekhPNG1jd09CWFJUQWVORVhxRjh2UjBuQVkydGxLd05UR3JCVEYzVXltcEpSRWVXQlVoZEdsNmJaVFM1ZTZFcERta19lVWtZZGs0dlhEMlUybGItRGwtN0xXVQ?oc=5",
-      "published": "2026-10-30T05:20:45+09:00",
+      "published": "2026-10-30T08:23:34+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Subscription & Billing - Newsletters - The Times",
+      "summary_original": "Subscription & Billing - Newsletters - The Times The Times",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zR0hoaGt6SlVQdi1WZXU1TEZiTVg2U21XYjkzcmkyU3REblRRQlBpdDdQVllnQ3RiRmZveXg3ODNaUU5vbDBPMXlWZFJWS21sNThhSDNOSVUwUkw3aTRB?oc=5",
+      "published": "2026-10-30T07:17:57+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "US News, sport and opinion",
+      "summary_original": "US News, sport and opinion The Times",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE93TXVjVWhYazhWb1FHQ3EyR0hqRTJxQ1RMYlFoWGdYVXd1M25QeUNIeEZnSVJxNC1xcEU2QXRfeGM?oc=5",
+      "published": "2026-10-30T07:17:26+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -593,34 +593,52 @@
       "title_original": "Sir Patrick Stewart, renowned stage and screen actor, dies aged 86",
       "summary_original": "Sir Patrick Stewart, renowned stage and screen actor, dies aged 86 The Times",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb3NTZm9GNzNsbWYzMzZJdWl4REtZYVVkaUdvUmlLZ19iMTBNMmh4Ykc1djNUSlc0QmdDalBfeDlackFnWTJxNVVBcXpTLTNVTnEyYmY3aFplWC12T3pVRVN2ellNM2kya2ZtYWFWM0xfQ2FYMzc4STRKMDc2WFk5MmZBQnRtRmdTQ0VwR0t6VEtDTlJiQlhLVExqc01uRHdmVUp2UzlmUVU0RTZ1ZEdB?oc=5",
-      "published": "2026-10-30T04:55:00+09:00",
+      "published": "2026-10-30T07:15:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "The Times",
-      "title_original": "Forget John Healey, this was the Martin Lewis budget",
-      "summary_original": "Forget John Healey, this was the Martin Lewis budget The Times",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT2ZVMG9kSDh1bzJCZVdORzNMbjA0cEZJS3ltcF80WTVxYlVibVcxMEsyeTg3aWVXRGRGdVR6T1ZsS2pHNFVfLXdacGFyazlZSVljYzdiQW5kRE9URWJFanVwei1nXzkwY1c2czNpbkI4WjRVQ3p5UU54VTRoMUVvVjVzS0hkNVRkQzc4azFhay1vRlo1Wnp0VkYxZw?oc=5",
-      "published": "2026-10-30T04:53:20+09:00",
+      "title_original": "Animol review — Ashley Walters turns director with an electric prison tale",
+      "summary_original": "Animol review — Ashley Walters turns director with an electric prison tale The Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd0tDQU1lQ1hIcHBQT2xfaHBtSmlkaXRsZ0dtaDM5UWhfUVVFbjViSXFxSlVuMF8xNk5yS1NiaDZwQ0Q0TTBGUjFMWmhuNTBWQXFOTEI5andERG45Nk1FSmNrMUVlTE9WMHlLY1BBN1hzVlBMcFJrbVo2RHJSTDZJTWxQby1yNTZRV1pxUmd1LVFOanhCdnJrcw?oc=5",
+      "published": "2026-10-30T07:00:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "The Times",
-      "title_original": "Latest news & breaking headlines | The Times and The Sunday Times",
-      "summary_original": "Latest news & breaking headlines | The Times and The Sunday Times The Times",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE1rUkwwNVRWQUpTalMyTmJSWVRxR2VTTHQ2RmV1amVFSzlPXzY3SUdfTzVzM0dNNXVzUzZscWV3?oc=5",
-      "published": "2026-10-30T04:53:07+09:00",
+      "title_original": "Everest: The Other Side review — when film-making is no longer worth the risk",
+      "summary_original": "Everest: The Other Side review — when film-making is no longer worth the risk The Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX2wtWENrTkVzUHdXSmNSblhiRTUzOHZRNVNHZVo5dERyY2NydGFxazdqSEU1WkJBY0dJMFA0Nmp1MG1CdmdBa3dHZzUxWHVhck14eGZrYWhoOG9UZU9RRkxJWUdxc2ptNU5OZmZlYklibVZpR1hjVGx6N0c0STRfdTBMRmRHQ3UxYnFTemhmTHR1NXE0?oc=5",
+      "published": "2026-10-30T07:00:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "The Times",
-      "title_original": "Login",
-      "summary_original": "Login The Times",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9RZkhSTWx6cXlUN09xWU83NWdKZzhGR0xYSHBjakhaeTFFS29uQzRXMEFWTlAxaEIzV0xlY1dnNmU?oc=5",
-      "published": "2026-10-30T04:26:38+09:00",
+      "title_original": "Shell splashes out on shareholders",
+      "summary_original": "Shell splashes out on shareholders The Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS0R6c2ZBZWgwYWZKbWh1S0hQTnVELUtIQ1NSbVJQZzRoX0dIUXpuNmJtN3ZFNzdIaDZjRi01Vm16YnZRVUNicXBycVc2NGN5NWFBNTAzLVJhQm9jOXpBOHpTZzJaY2lJbjF6UVNfUUVScXpWYUk1eVhnYXVVMzJzU0FORmljeGtHTlJlTWg2ZkYzM0lBTWFlYjdjMDVvUQ?oc=5",
+      "published": "2026-10-30T06:45:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Inside the Sinaloa Cartel’s war on influencers",
+      "summary_original": "Inside the Sinaloa Cartel’s war on influencers The Times",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNanRjVXlzQ1hDajRLOXgwcnF4allHbmlnbjUzVENncGJnb0ZqaFF0bzdFcTh4VER4d1c2ZzdDeFV5T05RU0ZXN3NFZVQzOFpMc1hITzJBTDRvYXN0LUMzcGU0VkJmN1RzdFJnQVdFS3h3VWphT1pJMy1IMmJZbk9lVF9yQVdXZjN6X2FrUy1VaTNmUG9VTjZmWENMc1Y?oc=5",
+      "published": "2026-10-30T06:30:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Trump cancels final Kansas and Iowa rallies before Election Day — and unloads on reporters asking about it",
+      "summary_original": "Trump cancels final Kansas and Iowa rallies before Election Day — and unloads on reporters asking about it The Independent",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb01XRFcxWkhDM3VaWE1WV3Zad3lyMHZvNUZqZGZLbVNjLWd0dGpUcGpQWG1VYzBIajdxNGMtS1RYV016WVJtV2djbll3UzB2bkhNdTJheDNGNXptTkRwVHE5TnRaZkZKWFprLUxZQ1pfYVZBaUpTbjhDdmtIZUlhTUZ5dVhsd2FzdkJXNUsxaVhKRUwzcjJoa0xOSUszVUFyX3FlcFNoUlFSYnBYSmlV?oc=5",
+      "published": "2026-10-30T08:17:00+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -629,7 +647,43 @@
       "title_original": "Putin says Russia is ‘ready for war’ with Europe in chilling threat",
       "summary_original": "Putin says Russia is ‘ready for war’ with Europe in chilling threat The Independent",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM0NmLVQ0S2xTd1AwdlphZ2pZLVV2UkpyRFpFNWd2ZE5RT0NFd2k2R3lVT0oxLWVjOG1NMmhQNGlybkY1a2o4b1JXUC12WHZzUkpXRVVFMkEyNURzN2NMX1VDcXhUd3M0bHF6WFB0QWFWWlR2T0ctMlUyWGJNXzN2NUU1dTd3c21KaTRzaDl0WnpSNnowRzFUaG1wdm81bkRfNGc?oc=5",
-      "published": "2026-10-30T05:08:00+09:00",
+      "published": "2026-10-30T07:41:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Top admiral briefs Trump on Iran amid reports of post-election attacks",
+      "summary_original": "Top admiral briefs Trump on Iran amid reports of post-election attacks The Independent",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUzY2dklFQmJka3A5TGJMczFTRUM3djNFZEpxUWFUZHRWcklDM2R3ZVFueDJVWWpjVFNzMDZtV2xIU2NwY2JzSU1LTmJPY2xFN0FSR1B2M3Rqb1U0ZF9OeEpCYUNIWl9ORnhmV3NHQzNVN0Q4UUgxNnlBajdZenZIbkgzMHFVcUxLeWJkN1lfczJseE5FYXBDOGNsZHBJUlZoZ1ZXWUhPN0lUMGZTZVVKNkRmTUFtY3Bqcnc?oc=5",
+      "published": "2026-10-30T05:49:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Sir Patrick Stewart discusses his love of Shakespeare in final appearance before his death",
+      "summary_original": "Sir Patrick Stewart discusses his love of Shakespeare in final appearance before his death The Independent",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT0t0TmJpTk9vb3UzUlZWeDFnMTAzSE5WQWNJZGMwSTAwVmctY2RKSUtLaFg1WklmOEZGWGpJQ1JKTGk2VHFFREhPUVN3aGhLeEoyYWNTZTV4SUNNUFE3MWJXODZCa1c2dHBteTRWSWhvc2lJbkRIak1OTGVLdmtvQVVxbEEzSzRaRDhqLW94aVQtU2FsaXl6QThn?oc=5",
+      "published": "2026-10-30T05:32:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Anti-Trumper trolls Fox News and says he wanted to see ‘cult’ in person at South Carolina rally",
+      "summary_original": "Anti-Trumper trolls Fox News and says he wanted to see ‘cult’ in person at South Carolina rally The Independent",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZjk5ZnBVWU1xdkE1TzRpWC12VTNDcEhPSWR4Z2FFUkw4VDNId1pGZWJ3alAxRElIanB6M0Z5TFlLSzZoR1VJUkxsZ0x5NHJ6c0ZYRk1qbVdSdXFrTXRUMEJDS2paSHRXLVQ5VUJ5SHRfQ1JRODUtQ0pwSk1hdDRFQXZybkRIdUhaVktFNzN0M3RObDA?oc=5",
+      "published": "2026-10-30T05:32:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Man in ‘Dumb and Dumber’ Halloween costume shot after trying to get into wrong apartment",
+      "summary_original": "Man in ‘Dumb and Dumber’ Halloween costume shot after trying to get into wrong apartment The Independent",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ3AtZVk1T3hhdHJJZE1BVG1WU3dmeG51QnltMGIwTVV6RzAtblJaTGZqVW03M2ZFUTg2XzJhUl9HTEk4YzhrbktxN3VnRS1UMExvUGthdk5nY2JXWGdwVkRDVkpXSDJjMGZlUDlKQjRkcWpHdXE3a3VxaEo5aWtudWVlbnd2TFdITUt5NGZsdmJmTTZNOGd3Wk1Tdy1mdUhZc2F3TkVKSXVVaWFHZm9QQkVHa1E?oc=5",
+      "published": "2026-10-30T04:54:00+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -652,47 +706,47 @@
       "state_media": false
     },
     {
-      "source": "The Independent",
-      "title_original": "ITV reality show champion says winning contest was ‘a waste of time’",
-      "summary_original": "ITV reality show champion says winning contest was ‘a waste of time’ The Independent",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTWhhNDY2dlVJcHZUb3RDZE04ZEN1dy0zVnc0QlhxaVlGZ2ZIeVh6XzlhT2xwMmVQc2J3N3FhSm03YU5WU1BxNm9EaXIteHQyX1RVUTZMcXJ5cnZobjVXdTFQWDBBN3cyR01Kc2tsbFRRcFk3ZmRHVzNWc3dxYVhwTmRzMmhLZExHOHpvTW1FcVV2WE95aFg5ZmV3b2tuSjRsMjhmN0owLWo?oc=5",
-      "published": "2026-10-30T03:47:00+09:00",
+      "source": "The Economist",
+      "title_original": "Leaders",
+      "summary_original": "Leaders The Economist",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSEI3VHRDMnB3emhIaUFpeUE4cFVDZGV3dnFkSEt4MWdVeXJuemNyWmlxNGIxa3gtbjE0YTk5Q05HRmg1V3ZSY2dENFl2bW5BSXdDSXREeFVVZGRxZXlWdjk1MHhvVm95c0FoX1lGZjBZM0N3ZmJpNUhnRnVMazFTYUZ4eTQ1di04WDY0?oc=5",
+      "published": "2026-10-30T08:18:08+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
-      "source": "The Independent",
-      "title_original": "Turmoil as No 10 forced to admit welfare won’t be cut by next election",
-      "summary_original": "Turmoil as No 10 forced to admit welfare won’t be cut by next election The Independent",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVFIzY21nNW5uRW9jcTJxbjFsMjJZaW9aWVBTTlBpUWp4QlpBLThlQldYNnpFdGY2am5TbzhOWWo1bmpfQ1FPazBYeExfTlFnSFhkLURSc1NpWVBpSGNveFAzdHFTSDJyMWNKaF9xMC16WWFnY3BTbmNlOUszd00yeVdkTjEtRXZnU2dnVUVUZkEtU0hHSmJCdzNva2RPZw?oc=5",
-      "published": "2026-10-30T03:22:00+09:00",
+      "source": "The Economist",
+      "title_original": "The Americans changing politics for the better",
+      "summary_original": "The Americans changing politics for the better The Economist",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZNlJYa0tTaVdMTzhadWJRWmJpTXZPbUZjNGdTaVdveDM0WU4tTjhSUkxuYk1ZdmFUN3gxVVRPN3RaWU8wa3Y0SVBlTy1zaWtYOVVmS1dscDZ1NE9LdUVr?oc=5",
+      "published": "2026-10-30T08:02:53+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
-      "source": "The Independent",
-      "title_original": "Britain needs a bolder approach to growth, not a Budget of short-term fixes",
-      "summary_original": "Britain needs a bolder approach to growth, not a Budget of short-term fixes The Independent",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHhiVXY2TTBJQW1KblVoMDVrT01QLUtHaHhOZjE0ZzhXcVNhMk02MFpwWkJ4YTdMOEJOZ3dHZ19SSFJIY3dJUjQ4eTNOQnhJQ05tRktyejBJRVVJa0FzX1pGVnAyZkJGNkNGVFZDcDkxNVdxdVdrYWpxazZfS01FZTVCQWRCeFNEb09zRHhjNk0xSnB4al9sQVZjaGhRWXVYcVE?oc=5",
-      "published": "2026-10-30T03:21:00+09:00",
+      "source": "The Economist",
+      "title_original": "Leaders",
+      "summary_original": "Leaders The Economist",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOVpnX2xSMFdnNzNZLUNRUm5vVlk2UG9jWjJGZkNrUHBvN3M4OXpWWjdVMmJBRks3aVhfN293WTh0U0pBVXBhd00xblRYTEJMdktlWkxSeE5RWkdvNjVabm5ORzAxZ3JZT2ptMUlfS01iQ3JNTWZDVEI5alYyX0w5dWlnR2tENjRCYXpr?oc=5",
+      "published": "2026-10-30T07:49:35+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
-      "source": "The Independent",
-      "title_original": "Putin dwarfed by world’s tallest political leader as he meets 6ft 8in president",
-      "summary_original": "Putin dwarfed by world’s tallest political leader as he meets 6ft 8in president The Independent",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaE9FZS1DXzJJdXp3S0Y5MjVMYXhKMDgyYmFEWnVoblJjWUJOQzUzOXR4TzJ2RW93di04NXhnN044bW5YSnhQR1d1dzNkaVk0U3FKUzZ5b1N2bGxLa3ROR3lQNlFaTEJxSmRZbVdRc1FOdnJsbDFWcWg5UVNGM2xUZG5nTDF0cnUzOHdBNy10SjVFUms5aWJSeE9ERVViN3hiTzQ4?oc=5",
-      "published": "2026-10-30T03:11:00+09:00",
+      "source": "The Economist",
+      "title_original": "Leaders",
+      "summary_original": "Leaders The Economist",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSHdWTEVUY3JjOXRwb0h6YUM0Uk9KbDU0R0IwU2wtM0lKUlc2ZFFaamc0UmRJUDlmOVZBcEt1N3FxeV9lZ2RHczRCd2hxdDdDVTdLY0JMUW1pUzNFVmZXZEl4UHpMOFlURDNoUm52enNSYWxpUTgyNGFIb2FwNUc5SE8wVUlubjJILXNR?oc=5",
+      "published": "2026-10-30T06:37:53+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
-      "source": "The Independent",
-      "title_original": "Man pleads guilty to 'heinous' murder of woman in Henley-on-Thames drowning case",
-      "summary_original": "Man pleads guilty to 'heinous' murder of woman in Henley-on-Thames drowning case The Independent",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOVFIQ3pvVl9rTDZhMGxKZ0ZYdXVXQnZYakcxZkM0Wk1ialR4T0tyOGtqSjJ5ZGIzWEhRYk5kZ1dHMWpHbVJJS0hQZ28zY3NhVjhGWlhxa3piLW44OTZud25ZZW41SS1udEp3NlI5QlpMU1gycFllTHVndjBvVnNfMjczVkdoTXFnUTNzajhzSndfdlN4VFZhRkNpN3paNEpPQ1k5RjBjaVFaajZKamJZcnFYWXI2Vmc?oc=5",
-      "published": "2026-10-30T02:43:00+09:00",
+      "source": "The Economist",
+      "title_original": "World",
+      "summary_original": "World The Economist",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdEIwSngxd3UzRWtWWFM1WW9uMTR5MC1ldEp2czFlblJpRWRoQnh4T1ctZU9jYzFDTkFYMVRHbjJGZjZiM1BrOHNJTmZMeWJKa0RuUFFhSjRoRk1fSFEyWDBTdmhweGhrV0VsQTRCTTJkNnFyeGJOaExEWWZNLUpSNHJiZ1Y0NnlO?oc=5",
+      "published": "2026-10-30T05:56:56+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -707,28 +761,10 @@
     },
     {
       "source": "The Economist",
-      "title_original": "Leaders",
-      "summary_original": "Leaders The Economist",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSEI3VHRDMnB3emhIaUFpeUE4cFVDZGV3dnFkSEt4MWdVeXJuemNyWmlxNGIxa3gtbjE0YTk5Q05HRmg1V3ZSY2dENFl2bW5BSXdDSXREeFVVZGRxZXlWdjk1MHhvVm95c0FoX1lGZjBZM0N3ZmJpNUhnRnVMazFTYUZ4eTQ1di04WDY0?oc=5",
-      "published": "2026-10-30T05:18:08+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "The Economist",
-      "title_original": "Leaders",
-      "summary_original": "Leaders The Economist",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSHdWTEVUY3JjOXRwb0h6YUM0Uk9KbDU0R0IwU2wtM0lKUlc2ZFFaamc0UmRJUDlmOVZBcEt1N3FxeV9lZ2RHczRCd2hxdDdDVTdLY0JMUW1pUzNFVmZXZEl4UHpMOFlURDNoUm52enNSYWxpUTgyNGFIb2FwNUc5SE8wVUlubjJILXNR?oc=5",
-      "published": "2026-10-30T05:07:53+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "The Economist",
-      "title_original": "The Americans changing politics for the better",
-      "summary_original": "The Americans changing politics for the better The Economist",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZNlJYa0tTaVdMTzhadWJRWmJpTXZPbUZjNGdTaVdveDM0WU4tTjhSUkxuYk1ZdmFUN3gxVVRPN3RaWU8wa3Y0SVBlTy1zaWtYOVVmS1dscDZ1NE9LdUVr?oc=5",
-      "published": "2026-10-30T05:01:27+09:00",
+      "title_original": "Technology",
+      "summary_original": "Technology The Economist",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQnVJdTZDbHdRMlQ1eDlLRWNMV2c0NENXZkE5RFp2YnZHVEhnVUlqZ3NpZENLa0ZOVUdOWnRuR09haEtzc0lpVW95S3pRMkJyWnJGamFhc2hld3Z5OWZILWtlQk5ZdUt4RDE2WXE0ZTMxWFVZTVdheGR6blRNQnMwQ3ZzU3hBZGg4TThicnVxSQ?oc=5",
+      "published": "2026-10-30T05:22:02+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -738,33 +774,6 @@
       "summary_original": "Books The Economist",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOenBYOWJyUWlKNE5fY0ViXzFob283WnRLeFB5SUxFamlKMzhmR0dwSENpdTJIV2dVdEFRX3lOMDVWMmZZaE85bTJxYUFRd3oyTnVKMlYtWkxXQktGQy1USnpUZk12OUQzWHY1VlZQZXFYZl92b0dhdUd1amJkcnU3LUtfS0lUcFBR?oc=5",
       "published": "2026-10-30T05:00:21+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "The Economist",
-      "title_original": "History",
-      "summary_original": "History The Economist",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUl2MDhibFA2UWVlVVJhM1ZjOGc2TlBsVHg0TnZ3cTFFaW1vNGhodmJaZU5uUnFuenllZ19uYV92Qk9QMDhnQWZIY1NPV0xmMmxCSEFOT3RCQzhGeF9ZQnczaFYyZHRsbjNnZDJ2R2ozRUIyMmRvUDAzcXcwUlNEUFQwOThfcmhrN1lN?oc=5",
-      "published": "2026-10-30T04:57:45+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "The Economist",
-      "title_original": "War in the Middle East",
-      "summary_original": "War in the Middle East The Economist",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVFM5TGdHZnpYUXJmZnNRMG9zbTE4T2o5bXNkc1hxOEFZY1RndHFETFE3MHE1aTYwZ1REVjlxbEpFOThhQUNLcEZ0ZUZETVJmdENfb2JsTWxETUh4UGVRa1NLZ3hJRW5BTXJON3gxMWRXZ1h4eFNSZ2R3NWdjSHJlUEN4NWs5S3FBWjFlRlE1MU9OdnVlYTh6aGMwRjlHQWs?oc=5",
-      "published": "2026-10-30T04:49:48+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "The Economist",
-      "title_original": "Management",
-      "summary_original": "Management The Economist",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUHpSV2NnV1RlM0Vta0N1bnI1Yy10WV9HNV84YTRFaHFSeTFYdkRNWEV6ZmtaVFhwa2RUTzRqUlBBcE8waGR5Y0ZKVWcwQ0UwUi1rcW90VGNWR1R5ZDVkS3ZVOTJ2SUtGbDR1YWVSZWdkeHNVWWFQNXlXNXQyUGVOS1pvT3pFakl3LWhKV2RTbw?oc=5",
-      "published": "2026-10-30T04:49:47+09:00",
       "via": "google_news",
       "state_media": false
     }
