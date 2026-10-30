@@ -1,0 +1,1459 @@
+{
+  "team": "de",
+  "headlines": [
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "tagesschau in 100 Sekunden",
+      "title_ko": "tagesschau 100초 뉴스",
+      "summary_ko": "ARD 단신 영상 뉴스 '100초 tagesschau'.",
+      "url": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1675514.html",
+      "published": "2026-10-31T05:42:59+09:00",
+      "tags": [],
+      "event": "tagesschau-100s",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Binance will alle Verluste nach Hackerangriff ersetzen",
+      "title_ko": "바이낸스, 해킹 피해 전액 보상 방침",
+      "summary_ko": "63억 달러 규모 해킹 피해를 입은 바이낸스가 모든 손실을 보상하겠다고 밝혔다. 이 사건은 암호자산의 취약성과 디지털 자산 보안 문제를 드러냈다.",
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/usa-binance-hackerangriff-verluste-100.html",
+      "published": "2026-10-31T05:21:33+09:00",
+      "tags": [
+        "crypto",
+        "business"
+      ],
+      "event": "binance-hack",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Audi meldet drastischen Gewinneinbruch",
+      "title_ko": "아우디, 이익 급감 발표",
+      "summary_ko": "아우디가 큰 폭의 이익 감소를 발표했다.",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1675454.html",
+      "published": "2026-10-31T04:57:51+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "audi-profit-slump",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Angst vor Ibrahim Ibrahim: Wie eine umstrittene Figur Berlins rot-rot-grüne Koalitionspläne belastet",
+      "title_ko": "이브라힘 이브라힘에 대한 우려: 논란의 인물이 베를린 적-적-녹 연정 구상에 부담",
+      "summary_ko": "논란이 되는 인물 이브라힘 이브라힘이 베를린의 사민당·좌파당·녹색당 연정 계획에 부담이 되고 있다.",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1675450.html",
+      "published": "2026-10-31T04:55:13+09:00",
+      "tags": [],
+      "event": "berlin-coalition-ibrahim",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Russland macht unabhängigen Journalismus unmöglich - die Nowaja Gaseta muss gehen",
+      "title_ko": "러시아, 독립 언론 불가능하게 만들어…노바야 가제타 폐간",
+      "summary_ko": "러시아에서 독립 언론지 노바야 가제타가 발행을 중단하게 됐다.",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1675446.html",
+      "published": "2026-10-31T04:53:28+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "novaya-gazeta-closure",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Gen Z macht Druck mit Protesten in mehr als 30 Städten",
+      "title_ko": "Z세대, 30여 개 도시에서 시위로 압박",
+      "summary_ko": "Z세대가 30개 이상 도시에서 시위를 벌이고 있다.",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1675464.html",
+      "published": "2026-10-31T04:49:25+09:00",
+      "tags": [],
+      "event": "gen-z-protests",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Ukraine organisiert Evakuierung aus umkämpftem Oleschky - Sorge vor neuen Angriffen bleibt",
+      "title_ko": "우크라이나, 교전지 올레시키에서 주민 대피 진행…추가 공격 우려 여전",
+      "summary_ko": "우크라이나가 교전 중인 올레시키에서 대피를 조직했으며 새로운 공격에 대한 우려가 남아 있다.",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1675440.html",
+      "published": "2026-10-31T04:40:23+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "oleshky-evacuation",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "In Italien protestieren Hunderttausende gegen hohe Preise und für mehr Investitionen in Bildung und Gesundheit",
+      "title_ko": "이탈리아서 수십만 명, 고물가 항의·교육·보건 투자 확대 요구 시위",
+      "summary_ko": "이탈리아에서 수십만 명이 높은 물가에 항의하고 교육·보건 분야 투자 확대를 요구하며 시위했다.",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1675438.html",
+      "published": "2026-10-31T04:37:33+09:00",
+      "tags": [],
+      "event": "italy-protests",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Aktuelles zum Krieg in der Ukraine",
+      "title_ko": "우크라이나 전쟁 최신 소식(라이브 티커)",
+      "summary_ko": "러시아가 2022년 2월부터 우크라이나에 대한 침략 전쟁을 벌이고 있으며 전투가 계속되고 있다. 관련 전개를 라이브 티커로 전한다.",
+      "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
+      "published": "2026-10-31T06:10:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-war-liveblog-zdf",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "\"Wir müssen auch mit Russland sprechen\"",
+      "title_ko": "\"러시아와도 대화해야 한다\"",
+      "summary_ko": "요한 바데풀 독일 외무장관(CDU)은 애틀랜타 G20 외무장관회의 계기에 \"매우 논쟁적이더라도 러시아와도 대화해야 한다\"고 말했다.",
+      "url": "https://www.zdfheute.de/video/heute-journal/sgs-wadephul-sievers-104.html",
+      "published": "2026-10-31T05:45:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "g20-fm-atlanta",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Proteste junger Menschen: Ein Generationenkonflikt?",
+      "title_ko": "청년 시위: 세대 갈등인가?",
+      "summary_ko": "전 세계에서 젊은이들이 거리로 나서고 있다. 정신분석가 세실 뢰츠와 야코프 뮐러는 여기서 세대 갈등의 측면도 보며, 많은 이에게 미래가 막혀 있는 것처럼 느껴진다고 말한다.",
+      "url": "https://www.zdfheute.de/politik/protest-jugend-generationenkonflikt-psychoanalytiker-100.html",
+      "published": "2026-10-31T05:35:00+09:00",
+      "tags": [],
+      "event": "gen-z-protests",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Wie Superreiche die US-Zwischenwahlen beeinflussen wollen",
+      "title_ko": "초부유층은 어떻게 미국 중간선거에 영향을 미치려 하나",
+      "summary_ko": "일론 머스크가 미국 선거운동에 수억 달러를 투입하고 있으며, 특히 경합주 텍사스에 많은 돈이 흘러들고 있다. 이른바 슈퍼팩이 중간선거를 어떻게 좌우하는지 다룬다.",
+      "url": "https://www.zdfheute.de/politik/ausland/midterms-geld-musk-trump-republikaner-demokraten-100.html",
+      "published": "2026-10-31T05:09:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-midterms",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Frankfurt: Polizei und Handel setzen auf friedliche Proteste",
+      "title_ko": "프랑크푸르트: 경찰·상인들, 평화 시위 기대",
+      "summary_ko": "'Gen Z regelt'가 프랑크푸르트에서도 청년 시위를 촉구했다. 수천 명이 예상되며 경찰·정치권·상인들은 평화로운 진행을 예상한다.",
+      "url": "https://www.zdfheute.de/politik/deutschland/gen-z-demo-vorbereitung-proteste-friedlich-frankfurt-main-100.html",
+      "published": "2026-10-31T05:05:00+09:00",
+      "tags": [],
+      "event": "gen-z-protests",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Landesweite Proteste in Italien",
+      "title_ko": "이탈리아 전국 시위",
+      "summary_ko": "조르자 멜로니 우파 정부에 항의해 이탈리아에서 20만 명 이상이 거리로 나섰다. 주제는 생활비와 교육이다.",
+      "url": "https://www.zdfheute.de/video/politik-italien-proteste-meloni-100.html",
+      "published": "2026-10-31T05:02:00+09:00",
+      "tags": [],
+      "event": "italy-protests",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
+      "title_ko": "이란 전쟁·중동 분쟁: 라이브 블로그 전체 소식",
+      "summary_ko": "중동 정세가 계속 긴장 상태이며 공격이 반복되고 있다. 요르단강 서안에서 상황이 악화되고 있다.",
+      "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+      "published": "2026-10-31T05:01:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "middle-east-liveblog-zdf",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "\"Politiker hochinteressantes Opfer\"",
+      "title_ko": "\"정치인은 매우 흥미로운 표적\"",
+      "summary_ko": "전 주(州)경찰청(LKA) 수사관 클라우스 나흐티갈은 씨족 범죄 조직의 위협이 매일 일어나지는 않지만 막대한 영향을 미쳐 법치국가를 지속적으로 훼손할 수 있다고 말했다.",
+      "url": "https://www.zdfheute.de/video/zdfheute-live/clan-kriminalitaet-deutschland-video-100.html",
+      "published": "2026-10-31T04:24:00+09:00",
+      "tags": [],
+      "event": "clan-crime-threat",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Oleschky-Evakuierung: Wer verhandelt für Russland und die Ukraine?",
+      "title_ko": "올레시키 대피: 러시아와 우크라이나는 누가 협상하나?",
+      "summary_ko": "모스크바와 키이우가 러시아 점령지 올레시키 주민을 위한 인도적 임무를 시작했다. 양국 옴부즈퍼슨이 이를 조율한다.",
+      "url": "https://www.dw.com/de/oleschky-evakuierung-wer-verhandelt-für-russland-und-die-ukraine/a-79808325?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-10-31T00:48:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "oleshky-evacuation",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Steigende Zinsen sprengen Frankreichs Haushalt, während die politischen Extreme den Menschen unerfüllbare Versprechungen machen",
+      "title_ko": "금리 상승이 프랑스 재정을 압박하는 가운데 정치 극단 세력은 지킬 수 없는 약속",
+      "summary_ko": "전국적 시위로 프랑스는 교육 부문에 40억 유로를 추가 투입하려 한다. 그러나 부채가 많은 프랑스는 재정 여력이 거의 없고 이자 비용은 계속 오르고 있다.",
+      "url": "https://www.dw.com/de/steigende-zinsen-sprengen-frankreichs-haushalt-während-die-politischen-extreme-den-menschen-unerfüllbare-versprechungen-machen/a-79805455?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-10-31T00:33:00+09:00",
+      "tags": [
+        "monetary",
+        "forecast"
+      ],
+      "event": "france-budget-rates",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Behörden in Israel weisen Wahlbetrugsvorwürfe zurück",
+      "title_ko": "이스라엘 당국, 선거 부정 의혹 일축",
+      "summary_ko": "베냐민 네타냐후 총리의 정당은 이스라엘 선거에 대규모 외국 개입이 있었다고 주장하며, 의혹의 중심에는 아랍계 정당들이 있다. 당국은 이를 부인했다.",
+      "url": "https://www.dw.com/de/behörden-in-israel-weisen-wahlbetrugsvorwürfe-zurück/a-79808773?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-10-30T23:57:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "israel-election-fraud-claims",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Día de Muertos und andere Totenrituale rund um den Globus",
+      "title_ko": "멕시코 '죽은 자의 날'과 세계의 장례 의식",
+      "summary_ko": "멕시코의 죽은 자의 날부터 마다가스카르의 유해 발굴 의식까지 세계 각지의 독특한 추모 의식을 소개한다.",
+      "url": "https://www.dw.com/de/día-de-muertos-und-andere-totenrituale-rund-um-den-globus/a-67517129?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-10-30T23:34:00+09:00",
+      "tags": [],
+      "event": "dia-de-muertos-rituals",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "US-Präsident Trump verliert einen wichtigen Verbündeten nach der Serbien-Wahl und gewinnt in Brasilien keinen neuen hinzu",
+      "title_ko": "트럼프, 세르비아 선거 후 주요 우군 잃고 브라질에서도 새 우군 못 얻어",
+      "summary_ko": "보우소나루는 집권하지 못했고 부치치는 낙선했으며 네타냐후도 약화됐다. 트럼프 대통령은 최근 세계 선거 결과에 불만을 표하며 다시 부정선거를 언급하고 있다.",
+      "url": "https://www.dw.com/de/us-präsident-trump-verliert-einen-wichtigen-verbündeten-nach-der-serbien-wahl-und-gewinnt-in-brasilien-keinen-neuen-hinzu/a-79800362?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-10-30T23:33:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "trump-global-elections",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "China: Kommunistische Partei Chinas fordert mehr Disziplin",
+      "title_ko": "중국 공산당, 당원 기강 강화 요구",
+      "summary_ko": "중국 공산당이 당원들에게 더 많은 충성을 요구하고 있다. 2027년 지도부가 새로 선출되며, 누가 언제 시진핑을 승계할지는 불분명하다.",
+      "url": "https://www.dw.com/de/china-kommunistische-partei-chinas-fordert-mehr-disziplin/a-79801448?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-10-30T22:49:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "china-cpc-discipline",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Vulkan Mayon auf den Philippinen ausgebrochen",
+      "title_ko": "필리핀 마욘 화산 분화",
+      "summary_ko": "필리핀 마욘 화산 분화로 당국이 경보 단계를 높였다. 더 큰 분화가 임박했을 수 있다.",
+      "url": "https://www.dw.com/de/vulkan-mayon-auf-den-philippinen-ausgebrochen/a-79808103?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-10-30T22:37:00+09:00",
+      "tags": [],
+      "event": "mayon-eruption",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Serbien nach Aleksandar Vucics Wahlniederlage: Die siegereichen Anhänger der Studierenden-Liste werden ungeduldig",
+      "title_ko": "부치치 선거 패배 후 세르비아: 승리한 학생 명단 지지자들 조바심",
+      "summary_ko": "학생 명단의 선거 승리 이후 부치치의 권력 기구가 무너지고 있다. 많은 시민이 신속한 정의를 요구하지만 패배한 측은 여전히 행정·사법·관료 조직의 주요 권력 수단을 쥐고 있다.",
+      "url": "https://www.dw.com/de/serbien-nach-aleksandar-vucics-wahlniederlage-die-siegereichen-anhänger-der-studierenden-liste-werden-ungeduldig/a-79805086?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-10-30T21:42:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "serbia-post-election",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Schneller Erfolg der Polizei: 13 Affen in Frankreich gestohlen - Verdächtige festgenommen",
+      "title_ko": "프랑스 동물원서 원숭이 13마리 도난…용의자 체포",
+      "summary_ko": "남프랑스 동물원에서 원숭이 13마리가 도난당했고 경찰이 용의자 여러 명을 체포했다. 대부분은 되찾았으나 두 마리는 행방이 묘연하다.",
+      "url": "https://www.n-tv.de/panorama/13-Affen-in-Frankreich-gestohlen-Verdaechtige-festgenommen-id31478577.html",
+      "published": "2026-10-31T06:10:51+09:00",
+      "tags": [],
+      "event": "france-zoo-monkeys",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "\"Allianz für die Zukunft\": EU und Kanada machen sich freier von China und den USA",
+      "title_ko": "'미래를 위한 동맹': EU·캐나다, 중국·미국 의존 줄인다",
+      "summary_ko": "캐나다와 EU가 미국·중국으로부터 독립성을 높이기 위한 동맹을 맺는다. 협력 분야는 AI, 안보, LNG, 희토류 등이며 한 가지 사안에서는 이견이 있다.",
+      "url": "https://www.n-tv.de/politik/EU-und-Kanada-machen-sich-freier-von-China-und-den-USA-id31478475.html",
+      "published": "2026-10-31T06:08:41+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "eu-canada-alliance",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Schwierige Verhandlungen: Weltnaturkonferenz: Staaten einigen sich auf zentrale Themen",
+      "title_ko": "유엔 생물다양성회의: 각국, 핵심 쟁점 합의",
+      "summary_ko": "약 200개국이 참가한 유엔 생물다양성회의에서 2주 가까운 협상 끝에 합의가 이뤄졌다. 화석연료 보조금 등 쟁점이 막판 협상을 좌우했다.",
+      "url": "https://www.n-tv.de/panorama/Weltnaturkonferenz-Staaten-einigen-sich-auf-zentrale-Themen-id31478604.html",
+      "published": "2026-10-31T06:07:09+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation"
+      ],
+      "event": "un-biodiversity-cop",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Nasdaq mit Rekordtagesverlust : Wall Street geht gefleddert ins Wochenende",
+      "title_ko": "나스닥 사상 최대 일일 하락: 월가, 상처 입은 채 주말로",
+      "summary_ko": "아마존과 인텔의 최신 분기 실적이 월가의 경계감을 키웠다. 특히 인텔 주가가 30% 급락하며 기술주 전반을 끌어내렸고, 미국 중간선거도 투자자 불안을 키우고 있다.",
+      "url": "https://www.n-tv.de/wirtschaft/Wall-Street-geht-gefleddert-ins-Wochenende-id31478576.html",
+      "published": "2026-10-31T06:04:53+09:00",
+      "tags": [
+        "stocks",
+        "business"
+      ],
+      "event": "us-tech-selloff",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Nächstes Match, nächster Sieg: Tennis-Ass Struff legt nach Djokovic-Coup nach",
+      "title_ko": "테니스 슈트루프, 조코비치 격파 이어 또 승리",
+      "summary_ko": "얀레나르트 슈트루프가 바젤 ATP 대회 준결승에 올랐다. 포르투갈의 누누 보르즈스를 완파했다.",
+      "url": "https://www.n-tv.de/sport/Tennis-Ass-Struff-legt-nach-Djokovic-Coup-nach-id31478559.html",
+      "published": "2026-10-31T06:03:33+09:00",
+      "tags": [],
+      "event": "struff-basel",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Vor allem Texaner sind früh dran: Rekord: Knapp 48 Millionen US-Amerikaner haben vorzeitig gewählt",
+      "title_ko": "미국인 약 4800만 명 사전투표 기록…특히 텍사스 주민 서둘러",
+      "summary_ko": "미국은 11월 3일 중간선거를 앞두고 있으며 하원과 상원 3분의 1을 선출한다. 많은 미국인이 사전투표를 하고 있으며 특히 한 정당 지지자들이 이를 활용한다.",
+      "url": "https://www.n-tv.de/politik/Rekord-Knapp-48-Millionen-US-Amerikaner-haben-vorzeitig-gewaehlt-id31478507.html",
+      "published": "2026-10-31T05:55:04+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-midterms",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Polizisten sichern Gebäude: Streit um Verfassungsgericht eskaliert in Warschau",
+      "title_ko": "경찰 건물 경계: 바르샤바서 헌법재판소 분쟁 격화",
+      "summary_ko": "법원 웹사이트의 의문의 공지가 바르샤바에 혼란을 일으켰다. 헌법재판소는 해킹 공격이라고 밝혔고 대통령은 예정된 국빈 방문을 중단했다. 경찰이 재판소에 배치됐다.",
+      "url": "https://www.n-tv.de/politik/Streit-um-Verfassungsgericht-eskaliert-in-Warschau-id31478571.html",
+      "published": "2026-10-31T05:54:50+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "poland-constitutional-court",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "'\"Mein Vater ist ein Arschloch\": \"Traumatisiertes\" Formel-1-Kind Antonelli riecht WM-Champagner schon",
+      "title_ko": "\"아버지는 개자식\": 포뮬러1 안토넬리, 챔피언 눈앞",
+      "summary_ko": "안토넬리는 일요일 멕시코 그랑프리에서 9위만 해도 역대 최연소 F1 월드 챔피언이 된다.",
+      "url": "https://www.n-tv.de/sport/formel1/Traumatisiertes-Formel-1-Kind-Antonelli-riecht-WM-Champagner-schon-id31476020.html",
+      "published": "2026-10-31T05:26:42+09:00",
+      "tags": [],
+      "event": "antonelli-f1",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Kaum geschlafen, aber 6:0, 6:2 gewonnen—Zverev weiter in Bestform",
+      "title_ko": "잠 못 잤지만 6:0, 6:2 승리…즈베레프 최고 컨디션 지속",
+      "summary_ko": "알렉산더 즈베레프가 월요일 보리스 베커에 이어 독일 남자 선수로는 두 번째로 테니스 세계랭킹 1위에 오른다.",
+      "url": "https://www.welt.de/sport/tennis/article6ae4fb202222e5e68793e344/tennis-ich-habe-letzte-nacht-nicht-so-viel-geschlafen-sagt-zverev-und-brilliert.html",
+      "published": "2026-10-31T05:43:08+09:00",
+      "tags": [],
+      "event": "zverev-number-one",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Eskalation in Polen – Polizei rückt gegen Verfassungsgericht vor, Opposition spricht von Putsch",
+      "title_ko": "폴란드 사태 격화: 경찰, 헌법재판소로 진입…야당 '쿠데타' 주장",
+      "summary_ko": "폴란드에서 헌법재판소를 둘러싼 갈등이 격화됐다. 야당은 쿠데타라고 주장하며, 재판소에서 3명이 체포됐고 카롤 나브로츠키 대통령은 아프리카 순방에서 조기 귀국한다.",
+      "url": "https://www.welt.de/politik/deutschland/article6ae4f1f92222e5e68793e1f3/machtkampf-eskalation-in-polen-polizei-rueckt-gegen-verfassungsgericht-vor-opposition-spricht-von-putsch.html",
+      "published": "2026-10-31T05:32:10+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "poland-constitutional-court",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Von Deutschland, Kanada und Norwegen finanziert – USA verkaufen Ukraine 500 Patriot-Raketen",
+      "title_ko": "독일·캐나다·노르웨이 재원으로…미국, 우크라이나에 패트리엇 미사일 500기 판매",
+      "summary_ko": "재원은 캐나다·독일·노르웨이의 분담금과 EU 대출로 조달한 우크라이나 자체 자금으로 마련됐다. 주계약자는 미국 방산업체 록히드 마틴이다.",
+      "url": "https://www.welt.de/politik/ausland/article6ae4f24b05d4b831ea388f35/wert-von-2-1-milliarden-dollar-von-deutschland-kanada-und-norwegen-finanziert-usa-verkaufen-ukraine-500-patriot-raketen.html",
+      "published": "2026-10-31T05:11:22+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "patriot-sale-ukraine",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Arminias emotionaler Sieg für den verstorbenen Jugendtrainer",
+      "title_ko": "아르미니아, 별세한 유소년 코치 위한 감동의 승리",
+      "summary_ko": "아르미니아 빌레펠트가 홈 10경기 연속 무패를 이어갔다. 브라운슈바이크전 승리는 별세한 유소년 코치 니코 보이머를 기리는 경기였다. 보훔은 코트부스전에서 역전했다.",
+      "url": "https://www.welt.de/sport/fussball/2-bundesliga/article6ae4ef2a2222e5e68793e177/2-liga-arminias-emotionaler-sieg-fuer-den-verstorbenen-jugendtrainer.html",
+      "published": "2026-10-31T05:02:36+09:00",
+      "tags": [],
+      "event": "bundesliga2-bielefeld-bochum",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Dass das nie aufgefallen ist, das ist schon besonders besorgniserregend“",
+      "title_ko": "\"그것이 한 번도 발견되지 않았다는 점이 특히 우려스럽다\"",
+      "summary_ko": "북한 해커들이 단 20분 만에 60억 달러를 탈취한 것으로 알려졌다. IT 보안 전문가 데니스켄지 키프커가 취약점을 설명하고 AI로 인한 위협 증가를 경고했다.",
+      "url": "https://www.welt.de/vermischtes/video6ae4e047e467df843590031e/milliarden-coup-mit-krypto-dass-das-nie-aufgefallen-ist-das-ist-schon-besonders-besorgniserregend.html",
+      "published": "2026-10-31T04:40:25+09:00",
+      "tags": [
+        "crypto",
+        "geopolitics"
+      ],
+      "event": "binance-hack",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Land bekommt Hochtechnologie“ – Vishay kündigt Großinvestition in Schleswig-Holstein an",
+      "title_ko": "\"첨단기술이 들어온다\"…비셰이, 슐레스비히홀슈타인에 대규모 투자 발표",
+      "summary_ko": "비셰이는 정확한 금액을 밝히지 않았다. CDU 주의회 교섭단체에 따르면 약 10억 유로 규모다. 마센 주 경제장관이 이체호 공장에 약 2억1500만 유로의 보조금 결정서를 전달했다.",
+      "url": "https://www.welt.de/wirtschaft/article6ae4ead8620ae24e998578f8/halbleiterproduzent-land-bekommt-hochtechnologie-vishay-kuendigt-grossinvestition-in-schleswig-holstein-an.html",
+      "published": "2026-10-31T04:29:46+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "vishay-itzehoe",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Die Erwartungen an Tech-Werte sind enorm hoch – wer nicht liefert, wird abgestraft“",
+      "title_ko": "\"기술주 기대치가 매우 높다…성과 못 내면 응징받는다\"",
+      "summary_ko": "증시 기술주 충격에 대해 디트마어 데프너는 기술주에 대한 기대가 매우 높다고 말했다. 홀거 츄페피츠는 높은 AI 투자를 비판적으로 보며 \"현금이 있어야 한다. 현금이 없는 기업은 지금 응징받고 있다\"고 했다.",
+      "url": "https://www.welt.de/wirtschaft/video6ae4cd2abbc8f19bc019f29f/deffner-zschaepitz-die-erwartungen-an-tech-werte-sind-enorm-hoch-wer-nicht-liefert-wird-abgestraft.html",
+      "published": "2026-10-31T03:27:59+09:00",
+      "tags": [
+        "stocks",
+        "forecast"
+      ],
+      "event": "us-tech-selloff",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Völlig neues Kapitel unserer Geschichte“ – EU und Kanada gründen „Allianz für die Zukunft“",
+      "title_ko": "\"우리 역사의 완전히 새로운 장\"…EU·캐나다 '미래를 위한 동맹' 출범",
+      "summary_ko": "EU와 캐나다는 '미래를 위한 동맹'으로 번영과 경제 안보를 강화하고 공급망 회복력을 높이려 한다. 이를 위해 캐나다는 우크라이나 지원용 900억 유로 대출 비용 분담에 참여할 의향이 있다.",
+      "url": "https://www.welt.de/politik/article6ae4d5da2222e5e68793df95/gipfeltreffen-in-montreal-voellig-neues-kapitel-unserer-geschichte-eu-und-kanada-gruenden-allianz-fuer-die-zukunft.html",
+      "published": "2026-10-31T03:20:16+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "eu-canada-alliance",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "US-Börsen: „Absolut brutale Woche“ für Tech-Investoren – Nasdaq rutscht ab, Intel verliert über 30 Prozent",
+      "title_ko": "미국 증시: 기술주 투자자에 '극도로 잔혹한 한 주'…나스닥 하락, 인텔 30% 넘게 급락",
+      "summary_ko": "AI 부문에 대한 우려로 미국 증시에서 다수 기술기업 주가가 급락했다. 금·은 가격은 1년 만에 최저 수준이다.",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nasdaq-100-auf-talfahrt-intel-aktie-verliert-30-prozent/100266181.html",
+      "published": "2026-10-31T04:57:39+09:00",
+      "tags": [
+        "stocks"
+      ],
+      "event": "us-tech-selloff",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Deep Read: „Trumps Ziel macht ihn bedrohlicher als Marine Le Pen in Frankreich oder die AfD in Deutschland“",
+      "title_ko": "딥리드: \"트럼프의 목표는 프랑스 르펜이나 독일 AfD보다 그를 더 위협적으로 만든다\"",
+      "summary_ko": "노벨상 수상자 대런 애쓰모글루는 미국 대통령이 '파괴 노선'을 끝내지 않으면 깊은 경제 위기가 올 것이라고 예견했다. 그는 \"오늘날 젊고 싶지 않다\"고 말했다.",
+      "url": "https://www.handelsblatt.com/politik/international/usa-wenn-trump-diesen-kurs-nicht-beendet-droht-eine-tiefe-wirtschaftskrise/100263638.html",
+      "published": "2026-10-31T03:17:22+09:00",
+      "tags": [
+        "forecast",
+        "geopolitics"
+      ],
+      "event": "acemoglu-interview",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Dax aktuell: Dax schließt im Minus – und reißt die 26.000-Punkte-Marke",
+      "title_ko": "닥스 하락 마감…26,000선 붕괴",
+      "summary_ko": "10월 마지막 거래일 독일 DAX 지수가 하락했다. 다만 주간·월간 기준으로는 상승했다. 바이엘 주가는 금요일 크게 올랐다.",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-im-minus-und-reisst-die-26.000-punkte-marke/100266086.html",
+      "published": "2026-10-31T02:39:48+09:00",
+      "tags": [
+        "stocks"
+      ],
+      "event": "dax-below-26000",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "+++ Ukraine-Krieg +++: Evakuierung aus russisch besetztem Oleschky abgeschlossen",
+      "title_ko": "우크라이나 전쟁 뉴스블로그: 러시아 점령지 올레시키 대피 완료",
+      "summary_ko": "러시아·우크라이나 인권 담당관이 공동으로 나섰다. 미국은 우크라이나에 패트리엇 미사일 500기 판매를 승인했다.",
+      "url": "https://www.handelsblatt.com/politik/international/ukraine-evakuierung-aus-russisch-besetztem-oleschky-abgeschlossen/27982126.html",
+      "published": "2026-10-31T02:29:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "oleshky-evacuation",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Handelskonflikt: Steinmeier in Peking: „Nicht zulassen, dass die industrielle Basis verloren geht“",
+      "title_ko": "무역 갈등: 슈타인마이어 베이징서 \"산업 기반 상실 용납 못해\"",
+      "summary_ko": "독일 연방대통령의 중국 방문에서 중국 측은 처음엔 '강경'했다가 이후 유화적 태도를 보였다. 높은 무역적자에 대한 유럽의 우려를 베이징이 얼마나 진지하게 받아들이는지 다룬다.",
+      "url": "https://www.handelsblatt.com/politik/international/handelskonflikt-nicht-zulassen-dass-die-industrielle-basis-verloren-geht/100265455.html",
+      "published": "2026-10-31T01:13:00+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "steinmeier-beijing",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Tech-Aktien: „Die Ära der ‚Magnificent Seven‘ scheint vorbei“ – 700 Milliarden Dollar an Börsenwert vernichtet",
+      "title_ko": "기술주: \"'매그니피센트 7' 시대 끝난 듯\"…시가총액 7000억 달러 증발",
+      "summary_ko": "알파벳·아마존·애플·메타·마이크로소프트·엔비디아·테슬라가 오랫동안 증시를 홀로 이끌었으나 이제 승자와 패자가 뚜렷해지고 있다.",
+      "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/tech-aktien-die-aera-der-magnificent-seven-scheint-vorbei/100266107.html",
+      "published": "2026-10-31T01:09:34+09:00",
+      "tags": [
+        "stocks"
+      ],
+      "event": "us-tech-selloff",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Chips: Halbleiterproduzent Vishay kündigt Großinvestition in Itzehoe an",
+      "title_ko": "반도체: 비셰이, 이체호에 대규모 투자 발표",
+      "summary_ko": "미국 기업 비셰이가 슐레스비히홀슈타인 공장에 약 10억 유로를 투자한다. 연방·주 정부가 2억 유로 이상을 지원한다.",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/chips-halbleiterproduzent-vishay-kuendigt-grossinvestition-in-itzehoe-an/100266241.html",
+      "published": "2026-10-31T00:51:35+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "vishay-itzehoe",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Kylian Mbappé: Sponsoren weg, Konten eingefroren: Wie ein Satz das ganze China-Geschäft gefährden kann",
+      "title_ko": "킬리안 음바페: 스폰서 이탈·계좌 동결…한마디가 중국 사업 전체를 위협",
+      "summary_ko": "마오에 관한 발언 이후 음바페가 광고 계약을 잃었고 스페인 리그 전체가 영향을 받았다.",
+      "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/kylian-mbappe-wie-ein-satz-das-ganze-china-geschaeft-gefaehrden-kann/100265522.html",
+      "published": "2026-10-31T00:43:49+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "mbappe-china",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Polen: Polizeieinsatz bei eskalierendem Streit über das Verfassungsgericht",
+      "title_ko": "폴란드: 헌법재판소 분쟁 격화 속 경찰 투입",
+      "summary_ko": "건물 앞 경찰, 중단된 국빈 방문, 재판소의 상반된 발표 속에 바르샤바에서 헌법재판소를 둘러싼 권력 투쟁이 격화되고 있다.",
+      "url": "https://www.spiegel.de/ausland/polen-polizeieinsatz-bei-eskalierendem-streit-ueber-das-verfassungsgericht-a-47bdca85-d4e4-48da-8688-d3c40f2065ad#ref=rss",
+      "published": "2026-10-31T05:51:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "poland-constitutional-court",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Ukraine-Krieg: USA genehmigen Verkauf von 500 Patriot-Abwehrraketen",
+      "title_ko": "우크라이나 전쟁: 미국, 패트리엇 미사일 500기 판매 승인",
+      "summary_ko": "미 국무부가 우크라이나에 대한 패트리엇 미사일 500기 판매를 승인했다. 앞서 트럼프 대통령과 젤렌스키 대통령 사이에 인도 지연을 둘러싼 갈등이 있었다.",
+      "url": "https://www.spiegel.de/ausland/ukraine-krieg-usa-genehmigen-verkauf-von-500-patriot-abwehrraketen-a-2a082d3f-12c3-4c6d-8ef0-a9be89feb674#ref=rss",
+      "published": "2026-10-31T05:40:00+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "patriot-sale-ukraine",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Mexiko: Rekord-Skelettfrau »Catrina« wacht über Mexiko-Stadt",
+      "title_ko": "멕시코: 기록적 해골 여인 '카트리나', 멕시코시티를 지켜본다",
+      "summary_ko": "독일에서는 주말에 만성절을 지내고 멕시코에서는 '죽은 자의 날'을 기념한다. 수도에는 또 다른 축하 이유가 있다.",
+      "url": "https://www.spiegel.de/netzwelt/web/mexiko-rekord-skelettfrau-catrina-wacht-ueber-mexiko-stadt-a-d65fd94d-3d9f-412e-a09c-33a85bc90b2b#ref=rss",
+      "published": "2026-10-31T05:03:00+09:00",
+      "tags": [],
+      "event": "mexico-catrina",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Demokratie in der Krise: Wie Bürger zum politischen Desaster beitragen - Kolumne",
+      "title_ko": "위기의 민주주의: 시민은 정치적 참사에 어떻게 기여하나 - 칼럼",
+      "summary_ko": "정치인의 책임을 지적하기 쉽지만 일반 시민의 몫은 무엇인지 묻는 칼럼.",
+      "url": "https://www.spiegel.de/politik/deutschland/demokratie-in-der-krise-wie-buerger-zum-politischen-desaster-beitragen-kolumne-a-42dda1ea-5b6b-491d-9797-57f247ed6806#ref=rss",
+      "published": "2026-10-31T04:34:00+09:00",
+      "tags": [],
+      "event": "democracy-column",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Abdul El-Sayed: Kann er für die Demokraten die Mehrheit im Senat erobern?",
+      "title_ko": "압둘 엘사예드: 민주당에 상원 과반을 안길 수 있을까?",
+      "summary_ko": "트럼프는 그를 '무함마드'라 부르며 '지하디스트'로 비방하지만 엘사예드는 미시간에서 앞서고 있다. 중간선거에서 민주당의 상원 과반을 확보할 수 있다.",
+      "url": "https://www.spiegel.de/ausland/abdul-el-sayed-kann-er-fuer-die-demokraten-die-mehrheit-im-senat-erobern-a-5cc3eb74-450a-4e06-8649-07cbcac04e24#ref=rss",
+      "published": "2026-10-31T04:20:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-midterms",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "EU-Kanada-Gipfel: Streit um einen Namen – »Mitgliedschaft« wird zum Störfaktor",
+      "title_ko": "EU-캐나다 정상회의: 명칭 갈등…'회원 자격'이 걸림돌",
+      "summary_ko": "EU와 캐나다가 파트너십을 심화하려 하지만 새 관계의 명칭을 두고 이견이 있다. 내용 면에서는 합의가 있다.",
+      "url": "https://www.spiegel.de/ausland/eu-kanada-gipfel-streit-um-einen-namen-mitgliedschaft-wird-zum-stoerfaktor-a-c285fb01-d854-4e3c-bbbd-561905b261bc#ref=rss",
+      "published": "2026-10-31T04:03:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "eu-canada-alliance",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Eingewandert, um zu bleiben: Insekten auf dem Vormarsch - SPIEGEL TV",
+      "title_ko": "눌러앉은 이주자: 확산하는 곤충들 - SPIEGEL TV",
+      "summary_ko": "등검은말벌, 대형 선개미 등 침입종이 확산해 인프라를 위협하고 빈대도 다시 골칫거리가 되고 있다.",
+      "url": "https://www.spiegel.de/panorama/eingewandert-um-zu-bleiben-insekten-auf-dem-vormarsch-spiegel-tv-a-f3a1d9a8-fc85-40fa-b04a-f75096a7daed#ref=rss",
+      "published": "2026-10-31T03:55:00+09:00",
+      "tags": [],
+      "event": "invasive-insects",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Fall Fabian: Am Ende des Prozesses holt Gina H. zum Rundumschlag aus",
+      "title_ko": "파비안 사건: 재판 막바지 지나 H., 전방위 공세",
+      "summary_ko": "30세 지나 H.는 동거인의 아들을 흉기로 살해한 혐의를 받는다. 검찰은 증거가 압도적이라 보지만 변호인은 무죄를 주장하고 피고인은 공격적 발언을 했다.",
+      "url": "https://www.spiegel.de/panorama/justiz/fall-fabian-am-ende-des-prozesses-holt-gina-h-zum-rundumschlag-aus-a-40bf8de7-b24a-4a5f-b700-2c80872ebc38#ref=rss",
+      "published": "2026-10-31T03:41:00+09:00",
+      "tags": [],
+      "event": "fabian-trial",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "G-20-Außenminister: Kein Foto und andere optische Signale",
+      "title_ko": "G20 외무장관회의: 사진 없음, 그리고 다른 시각적 신호",
+      "summary_ko": "애틀랜타 G20 외무장관회의에서 유럽은 러시아와 정상적 관계가 없음을 분명히 하려 한다. 미국과도 정상적 관계가 아니라는 점은 감추려 한다.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/g-20-aussenminister-kein-foto-mit-lawrow-und-andere-optische-signale-201638352.html",
+      "published": "2026-10-31T06:01:56+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "g20-fm-atlanta",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Liveblog Ukrainekrieg: US-Außenministerium genehmigt Patriot-Lieferung an Ukraine",
+      "title_ko": "우크라이나 전쟁 라이브블로그: 미 국무부, 우크라이나 패트리엇 인도 승인",
+      "summary_ko": "독일·캐나다·노르웨이가 비용 분담에 참여한다. 올레시키 대피는 사실상 종료됐고, 러시아는 다시 탄도미사일로 키이우를 공격했다.",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-us-aussenministerium-genehmigt-patriot-lieferung-an-ukraine-faz-110683325.html",
+      "published": "2026-10-31T05:30:31+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "patriot-sale-ukraine",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "ATP-Turnier in Basel: Struff schlägt nach Djokovic-Coup auch Borges",
+      "title_ko": "바젤 ATP: 슈트루프, 조코비치 이어 보르즈스도 격파",
+      "summary_ko": "얀레나르트 슈트루프가 바젤 준결승에 올랐다. 조코비치전 승리 다음 날 59분 만에 승리했다.",
+      "url": "https://www.faz.net/aktuell/sport/mehr-sport/atp-turnier-in-basel-jan-lennard-struff-erreicht-gegen-borges-das-halbfinale-201638301.html",
+      "published": "2026-10-31T05:08:44+09:00",
+      "tags": [],
+      "event": "struff-basel",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Abhängig von Amerika: Im Weltraum ist Europa nur zweite Liga",
+      "title_ko": "미국 의존: 우주에서 유럽은 2부 리그",
+      "summary_ko": "미국이 우주 역량을 제공하지 않으면 유럽은 대체로 무력하다. 유럽은 야심 찬 계획이 있지만 미국의 양적 우위가 곧 질적 우위다.",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/europas-weltraumfaehigkeiten-warum-die-usa-kaum-zu-ersetzen-sind-201631963.html",
+      "published": "2026-10-31T04:47:53+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "europe-space-dependence",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Zweite Bundesliga: Bielefeld baut starke Heimbilanz aus – Bochum gewinnt spät",
+      "title_ko": "2. 분데스리가: 빌레펠트 홈 강세 이어가…보훔 막판 승리",
+      "summary_ko": "아르미니아 빌레펠트가 브라운슈바이크전 홈 승리로 강등권과 격차를 벌렸다. VfL 보훔은 코트부스 원정에서 막판 승리를 거뒀다.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/zweite-fussball-bundesliga-arminia-bielefeld-und-vfl-bochum-gewinnen-am-freitagabend-201304544.html",
+      "published": "2026-10-31T04:35:37+09:00",
+      "tags": [],
+      "event": "bundesliga2-bielefeld-bochum",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Kunsthändlerin Katrin Stoll: „Ein neues Auktionshaus würde ich im Gewerbegebiet eröffnen“",
+      "title_ko": "미술상 카트린 슈톨: \"새 경매장을 연다면 산업단지에 열겠다\"",
+      "summary_ko": "뮌헨의 전통 경매회사 노이마이스터가 문을 닫는다. 소유주 카트린 슈톨과의 인터뷰.",
+      "url": "https://www.faz.net/aktuell/feuilleton/kunstmarkt/auktionshaus-neumeister-schliesst-interview-mit-inhaberin-katrin-stoll-accg-201225962.html",
+      "published": "2026-10-31T04:16:39+09:00",
+      "tags": [],
+      "event": "neumeister-auction-closure",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Angst vor Kreditengpässen: Unicredit beruhigt deutsche Firmenkunden",
+      "title_ko": "신용 경색 우려: 우니크레디트, 독일 기업 고객 안심시켜",
+      "summary_ko": "우니크레디트와 코메르츠방크는 이미 신디케이트론 파트너인 경우가 많아 특히 기계 산업에서 집중 위험이 우려된다. 오르셀 우니크레디트 CEO는 합병 후 대출을 줄이지 않겠다고 약속했다.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/unicredit-und-commerzbank-orcel-verspricht-deutschen-firmenkunden-mehr-leistung-201636581.html",
+      "published": "2026-10-31T03:49:12+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "unicredit-commerzbank",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Wein aus Südkalifornien: Willkommen im Giardino del Cielo",
+      "title_ko": "남캘리포니아 와인: 지아르디노 델 치엘로에 오신 것을 환영합니다",
+      "summary_ko": "로스앤젤레스 남쪽 테메큘라는 미국에서 가장 신생이자 최고 수준의 와인 산지 중 하나다.",
+      "url": "https://www.faz.net/aktuell/reise/weinbaugebiet-temecula-in-kalifornien-200919337.html",
+      "published": "2026-10-31T03:43:54+09:00",
+      "tags": [],
+      "event": "temecula-wine",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "USA: Tiefflug der „Air Force One“ für Halloweenparty erschreckt Bürger",
+      "title_ko": "미국: 핼러윈 파티용 '에어포스원' 저공비행에 시민 놀라",
+      "summary_ko": "핼러윈 파티를 계기로 한 대통령 전용기 에어포스원의 백악관 상공 비행이 워싱턴에서 우려를 낳았고 다른 항공편이 다수 지연됐다.",
+      "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-halloween-air-force-one-praesidentenflugzeug-li.3568285",
+      "published": "2026-10-31T04:25:00+09:00",
+      "tags": [],
+      "event": "air-force-one-flyover",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Nachruf: Ein freier Geist",
+      "title_ko": "부고: 자유로운 정신",
+      "summary_ko": "작가 요제프 폰 베스트팔렌이 별세했다.",
+      "url": "https://www.sueddeutsche.de/medien/schriftsteller-joseph-von-westphalen-gestorben-nachruf-li.3571659",
+      "published": "2026-10-31T02:33:05+09:00",
+      "tags": [],
+      "event": "westphalen-obituary",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Gefährliche „Ewigkeitschemikalie“ auf riesiger Fläche: PFAS-Bodenwerte für den Kreis Altötting bleiben unter Verschluss",
+      "title_ko": "'영원한 화학물질' 광범위 오염: 알트외팅군 PFAS 토양 수치 비공개 유지",
+      "summary_ko": "해당 물질 제조사가 군청의 결정에 소송을 제기해, 주민들은 오염의 심각성과 정확한 범위를 알지 못하고 있다.",
+      "url": "https://www.sueddeutsche.de/bayern/pfas-altoetting-dyneon-pfoa-bodenbelastung-3m-li.3571671",
+      "published": "2026-10-31T01:59:13+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "pfas-altoetting",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Fußball: Regionalligareform: Rückschlag für DFB-Präsident Neuendorf",
+      "title_ko": "축구: 지역리그 개편, 노이엔도르프 DFB 회장에 타격",
+      "summary_ko": "'나침반 모델'을 둘러싼 싸움이 결정적 국면에 들어섰다. DFB 이사회의 상당수가 회장 안에 동참하지 않았고 법적 분쟁 조짐도 있다.",
+      "url": "https://www.sueddeutsche.de/sport/dfb-neuendorf-praesident-regionalliga-reform-li.3571909",
+      "published": "2026-10-31T01:23:06+09:00",
+      "tags": [],
+      "event": "dfb-regionalliga-reform",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Notizen aus meinem Leben: Wenn scheitern, dann bitte groß",
+      "title_ko": "내 삶의 메모: 실패한다면 크게",
+      "summary_ko": "베케트, 헤게만, 카뮈 등 실패의 가치를 보여주는 작가들에 관한 에세이.",
+      "url": "https://www.sueddeutsche.de/kultur/elke-heidenreich-notizen-aus-meinem-leben-scheitern-becket-camus-hegemann-li.3558603",
+      "published": "2026-10-31T00:29:37+09:00",
+      "tags": [],
+      "event": "essay-failure",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Theater: Aller guten Dinge",
+      "title_ko": "연극: 삼세번",
+      "summary_ko": "뮌헨 카머슈필레가 3인 공동 지도부 체제를 맞는다.",
+      "url": "https://www.sueddeutsche.de/kultur/muenchner-kammerspiele-neue-intendanz-leitungsteam-basel-nunes-dirks-joerg-pohl-nachfolge-mundel-li.3571249",
+      "published": "2026-10-31T00:26:50+09:00",
+      "tags": [],
+      "event": "kammerspiele-leadership",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Russland: Zuletzt war der Chefredakteur verhaftet worden",
+      "title_ko": "러시아: 최근 편집장 체포돼…노바야 가제타 발행 중단",
+      "summary_ko": "러시아에서 가장 대담한 신문으로 유명했던 노바야 가제타가 국가 탄압과 검열의 압력을 견디지 못하고 발행을 중단했다.",
+      "url": "https://www.sueddeutsche.de/medien/nowaja-gaseta-putin-anna-politkowskaja-sergej-sokolow-dmitrij-muratow-li.3571591",
+      "published": "2026-10-30T23:58:21+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "novaya-gazeta-closure",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Aktienmärkte: Tech-Bilanzen verpassen Europas Börsen einen Dämpfer",
+      "title_ko": "주식시장: 기술기업 실적에 유럽 증시 제동",
+      "summary_ko": "독일 증시가 전날 9월 초 이후 최고치를 기록한 뒤 금요일 오전 26,000선 아래로 떨어졌다. 투자자들은 AI 붐에 의문을 제기하고 있다.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/dax-amazon-intel-kuenstliche-intelligenz-aktienmaerkte-li.3571813",
+      "published": "2026-10-30T23:29:21+09:00",
+      "tags": [
+        "stocks"
+      ],
+      "event": "dax-below-26000",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Polen: Streit um Verfassungsgericht in Polen spitzt sich zu",
+      "title_ko": "폴란드: 헌법재판소 둘러싼 갈등 격화",
+      "summary_ko": "폴란드 경찰이 헌법재판소를 경비해야 하는 상황이다. 격화된 분쟁으로 대통령이 해외 순방을 취소했다.",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/polen-verfassungsgericht-karol-nawrocki-donald-tusk-pis",
+      "published": "2026-10-31T06:12:58+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "poland-constitutional-court",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Kriminalität: Uni Leipzig bleibt nach Hackerangriff offline",
+      "title_ko": "범죄: 라이프치히대, 해킹 공격 후 오프라인 상태 지속",
+      "summary_ko": "라이프치히 대학이 해킹 공격 이후 여전히 오프라인 상태다.",
+      "url": "https://www.zeit.de/news/2026-10/30/uni-leipzig-bleibt-nach-hackerangriff-offline",
+      "published": "2026-10-31T06:04:49+09:00",
+      "tags": [],
+      "event": "leipzig-uni-hack",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Handball-Bundesliga: HC Hamburg dreht Spiel gegen Rhein-Neckar Löwen",
+      "title_ko": "핸드볼 분데스리가: HC 함부르크, 라인-네카어 뢰벤전 역전승",
+      "summary_ko": "HC 함부르크가 라인-네카어 뢰벤과의 경기를 뒤집었다.",
+      "url": "https://www.zeit.de/news/2026-10/30/hc-hamburg-dreht-spiel-gegen-rhein-neckar-loewen",
+      "published": "2026-10-31T05:47:57+09:00",
+      "tags": [],
+      "event": "handball-hamburg",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Bahnverkehr: Zugausfälle und Verspätungen zwischen Köln und Frankfurt",
+      "title_ko": "철도: 쾰른-프랑크푸르트 구간 열차 운행 취소·지연",
+      "summary_ko": "쾰른과 프랑크푸르트 사이 구간에서 열차 운행 취소와 지연이 발생했다.",
+      "url": "https://www.zeit.de/news/2026-10/30/zugausfaelle-und-verspaetungen-zwischen-koeln-und-frankfurt",
+      "published": "2026-10-31T05:45:38+09:00",
+      "tags": [],
+      "event": "rail-cologne-frankfurt",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Theodor-Heuss-Brücke: Ausweichmanöver auf Brücke löst Unfall mit vier Autos aus",
+      "title_ko": "테오도어 호이스 다리: 회피 기동으로 차량 4대 사고",
+      "summary_ko": "테오도어 호이스 다리에서 회피 기동으로 차량 4대가 연루된 사고가 났다.",
+      "url": "https://www.zeit.de/news/2026-10/30/ausweichmanoever-auf-bruecke-loest-unfall-mit-vier-autos-aus",
+      "published": "2026-10-31T05:22:33+09:00",
+      "tags": [],
+      "event": "heuss-bridge-accident",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Fußball-Regionalliga: Sieben-Tore-Spektakel: «Löwen» gewinnen gegen Buchbach",
+      "title_ko": "축구 지역리그: 7골 난타전…'뢰벤', 부흐바흐에 승리",
+      "summary_ko": "'뢰벤'이 7골이 터진 경기에서 부흐바흐를 이겼다.",
+      "url": "https://www.zeit.de/news/2026-10/30/sieben-tore-spektakel-loewen-gewinnen-gegen-buchbach",
+      "published": "2026-10-31T05:21:55+09:00",
+      "tags": [],
+      "event": "regionalliga-loewen",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Krieg gegen die Ukraine: USA billigen Verkauf von 500 Patriot-Raketen an die Ukraine",
+      "title_ko": "우크라이나 침공 전쟁: 미국, 우크라이나에 패트리엇 미사일 500기 판매 승인",
+      "summary_ko": "러시아 측에 따르면 우크라이나는 정유시설 공격을 계속해 정유소 3곳과 가스화학 단지 1곳이 피격됐다.",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "2026-10-31T05:04:03+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "patriot-sale-ukraine",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Basketball-Bundesliga: Jena kassiert erste Heimniederlage",
+      "title_ko": "농구 분데스리가: 예나, 첫 홈 패배",
+      "summary_ko": "예나가 시즌 첫 홈 경기 패배를 당했다.",
+      "url": "https://www.zeit.de/news/2026-10/30/jena-kassiert-erste-heimniederlage",
+      "published": "2026-10-31T05:02:59+09:00",
+      "tags": [],
+      "event": "basketball-jena",
+      "state_media": false
+    }
+  ],
+  "events": [
+    {
+      "event": "poland-constitutional-court",
+      "title_ko": "폴란드 헌법재판소 분쟁 격화·경찰 투입",
+      "sources": [
+        "n-tv",
+        "WELT",
+        "Der Spiegel",
+        "Die Zeit"
+      ],
+      "count": 4
+    },
+    {
+      "event": "patriot-sale-ukraine",
+      "title_ko": "미국, 우크라이나에 패트리엇 미사일 500기 판매 승인",
+      "sources": [
+        "WELT",
+        "Der Spiegel",
+        "FAZ",
+        "Die Zeit"
+      ],
+      "count": 4
+    },
+    {
+      "event": "oleshky-evacuation",
+      "title_ko": "러시아 점령지 올레시키 주민 대피(러·우 옴부즈퍼슨 조율)",
+      "sources": [
+        "ARD Tagesschau",
+        "Deutsche Welle",
+        "Handelsblatt"
+      ],
+      "count": 3
+    },
+    {
+      "event": "us-midterms",
+      "title_ko": "미국 중간선거(11월 3일)",
+      "sources": [
+        "ZDF heute",
+        "n-tv",
+        "Der Spiegel"
+      ],
+      "count": 3
+    },
+    {
+      "event": "eu-canada-alliance",
+      "title_ko": "EU·캐나다 '미래를 위한 동맹'",
+      "sources": [
+        "n-tv",
+        "WELT",
+        "Der Spiegel"
+      ],
+      "count": 3
+    },
+    {
+      "event": "us-tech-selloff",
+      "title_ko": "미국 기술주 급락(나스닥·인텔·M7)",
+      "sources": [
+        "n-tv",
+        "WELT",
+        "Handelsblatt"
+      ],
+      "count": 3
+    },
+    {
+      "event": "binance-hack",
+      "title_ko": "바이낸스 해킹 피해(약 60억 달러대)·보상",
+      "sources": [
+        "ARD Tagesschau",
+        "WELT"
+      ],
+      "count": 2
+    },
+    {
+      "event": "novaya-gazeta-closure",
+      "title_ko": "러시아 노바야 가제타 발행 중단",
+      "sources": [
+        "ARD Tagesschau",
+        "Süddeutsche Zeitung"
+      ],
+      "count": 2
+    },
+    {
+      "event": "gen-z-protests",
+      "title_ko": "Z세대 청년 시위(독일 내 여러 도시)",
+      "sources": [
+        "ARD Tagesschau",
+        "ZDF heute"
+      ],
+      "count": 2
+    },
+    {
+      "event": "italy-protests",
+      "title_ko": "이탈리아 전국 시위(고물가·교육·보건)",
+      "sources": [
+        "ARD Tagesschau",
+        "ZDF heute"
+      ],
+      "count": 2
+    },
+    {
+      "event": "g20-fm-atlanta",
+      "title_ko": "애틀랜타 G20 외무장관회의",
+      "sources": [
+        "ZDF heute",
+        "FAZ"
+      ],
+      "count": 2
+    },
+    {
+      "event": "struff-basel",
+      "title_ko": "슈트루프 바젤 ATP 준결승",
+      "sources": [
+        "n-tv",
+        "FAZ"
+      ],
+      "count": 2
+    },
+    {
+      "event": "bundesliga2-bielefeld-bochum",
+      "title_ko": "2. 분데스리가 빌레펠트·보훔 승리",
+      "sources": [
+        "WELT",
+        "FAZ"
+      ],
+      "count": 2
+    },
+    {
+      "event": "vishay-itzehoe",
+      "title_ko": "비셰이 이체호 반도체 투자(약 10억 유로)",
+      "sources": [
+        "WELT",
+        "Handelsblatt"
+      ],
+      "count": 2
+    },
+    {
+      "event": "dax-below-26000",
+      "title_ko": "DAX 26,000선 하회",
+      "sources": [
+        "Handelsblatt",
+        "Süddeutsche Zeitung"
+      ],
+      "count": 2
+    },
+    {
+      "event": "tagesschau-100s",
+      "title_ko": "tagesschau 100초 뉴스",
+      "sources": [
+        "ARD Tagesschau"
+      ],
+      "count": 1
+    },
+    {
+      "event": "audi-profit-slump",
+      "title_ko": "아우디, 이익 급감 발표",
+      "sources": [
+        "ARD Tagesschau"
+      ],
+      "count": 1
+    },
+    {
+      "event": "berlin-coalition-ibrahim",
+      "title_ko": "이브라힘 이브라힘에 대한 우려: 논란의 인물이 베를린 적-적-녹 연정 구상에 부담",
+      "sources": [
+        "ARD Tagesschau"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ukraine-war-liveblog-zdf",
+      "title_ko": "우크라이나 전쟁 최신 소식(라이브 티커)",
+      "sources": [
+        "ZDF heute"
+      ],
+      "count": 1
+    },
+    {
+      "event": "middle-east-liveblog-zdf",
+      "title_ko": "이란 전쟁·중동 분쟁: 라이브 블로그 전체 소식",
+      "sources": [
+        "ZDF heute"
+      ],
+      "count": 1
+    },
+    {
+      "event": "clan-crime-threat",
+      "title_ko": "\"정치인은 매우 흥미로운 표적\"",
+      "sources": [
+        "ZDF heute"
+      ],
+      "count": 1
+    },
+    {
+      "event": "france-budget-rates",
+      "title_ko": "금리 상승이 프랑스 재정을 압박하는 가운데 정치 극단 세력은 지킬 수 없는 약속",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "israel-election-fraud-claims",
+      "title_ko": "이스라엘 당국, 선거 부정 의혹 일축",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "dia-de-muertos-rituals",
+      "title_ko": "멕시코 '죽은 자의 날'과 세계의 장례 의식",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "trump-global-elections",
+      "title_ko": "트럼프, 세르비아 선거 후 주요 우군 잃고 브라질에서도 새 우군 못 얻어",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "china-cpc-discipline",
+      "title_ko": "중국 공산당, 당원 기강 강화 요구",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "mayon-eruption",
+      "title_ko": "필리핀 마욘 화산 분화",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "serbia-post-election",
+      "title_ko": "부치치 선거 패배 후 세르비아: 승리한 학생 명단 지지자들 조바심",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "france-zoo-monkeys",
+      "title_ko": "프랑스 동물원서 원숭이 13마리 도난…용의자 체포",
+      "sources": [
+        "n-tv"
+      ],
+      "count": 1
+    },
+    {
+      "event": "un-biodiversity-cop",
+      "title_ko": "유엔 생물다양성회의: 각국, 핵심 쟁점 합의",
+      "sources": [
+        "n-tv"
+      ],
+      "count": 1
+    },
+    {
+      "event": "antonelli-f1",
+      "title_ko": "\"아버지는 개자식\": 포뮬러1 안토넬리, 챔피언 눈앞",
+      "sources": [
+        "n-tv"
+      ],
+      "count": 1
+    },
+    {
+      "event": "zverev-number-one",
+      "title_ko": "잠 못 잤지만 6:0, 6:2 승리…즈베레프 최고 컨디션 지속",
+      "sources": [
+        "WELT"
+      ],
+      "count": 1
+    },
+    {
+      "event": "acemoglu-interview",
+      "title_ko": "딥리드: \"트럼프의 목표는 프랑스 르펜이나 독일 AfD보다 그를 더 위협적으로 만든다\"",
+      "sources": [
+        "Handelsblatt"
+      ],
+      "count": 1
+    },
+    {
+      "event": "steinmeier-beijing",
+      "title_ko": "무역 갈등: 슈타인마이어 베이징서 \"산업 기반 상실 용납 못해\"",
+      "sources": [
+        "Handelsblatt"
+      ],
+      "count": 1
+    },
+    {
+      "event": "mbappe-china",
+      "title_ko": "킬리안 음바페: 스폰서 이탈·계좌 동결…한마디가 중국 사업 전체를 위협",
+      "sources": [
+        "Handelsblatt"
+      ],
+      "count": 1
+    },
+    {
+      "event": "mexico-catrina",
+      "title_ko": "멕시코: 기록적 해골 여인 '카트리나', 멕시코시티를 지켜본다",
+      "sources": [
+        "Der Spiegel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "democracy-column",
+      "title_ko": "위기의 민주주의: 시민은 정치적 참사에 어떻게 기여하나 - 칼럼",
+      "sources": [
+        "Der Spiegel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "invasive-insects",
+      "title_ko": "눌러앉은 이주자: 확산하는 곤충들 - SPIEGEL TV",
+      "sources": [
+        "Der Spiegel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "fabian-trial",
+      "title_ko": "파비안 사건: 재판 막바지 지나 H., 전방위 공세",
+      "sources": [
+        "Der Spiegel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "europe-space-dependence",
+      "title_ko": "미국 의존: 우주에서 유럽은 2부 리그",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "neumeister-auction-closure",
+      "title_ko": "미술상 카트린 슈톨: \"새 경매장을 연다면 산업단지에 열겠다\"",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "unicredit-commerzbank",
+      "title_ko": "신용 경색 우려: 우니크레디트, 독일 기업 고객 안심시켜",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "temecula-wine",
+      "title_ko": "남캘리포니아 와인: 지아르디노 델 치엘로에 오신 것을 환영합니다",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "air-force-one-flyover",
+      "title_ko": "미국: 핼러윈 파티용 '에어포스원' 저공비행에 시민 놀라",
+      "sources": [
+        "Süddeutsche Zeitung"
+      ],
+      "count": 1
+    },
+    {
+      "event": "westphalen-obituary",
+      "title_ko": "부고: 자유로운 정신",
+      "sources": [
+        "Süddeutsche Zeitung"
+      ],
+      "count": 1
+    },
+    {
+      "event": "pfas-altoetting",
+      "title_ko": "'영원한 화학물질' 광범위 오염: 알트외팅군 PFAS 토양 수치 비공개 유지",
+      "sources": [
+        "Süddeutsche Zeitung"
+      ],
+      "count": 1
+    },
+    {
+      "event": "dfb-regionalliga-reform",
+      "title_ko": "축구: 지역리그 개편, 노이엔도르프 DFB 회장에 타격",
+      "sources": [
+        "Süddeutsche Zeitung"
+      ],
+      "count": 1
+    },
+    {
+      "event": "essay-failure",
+      "title_ko": "내 삶의 메모: 실패한다면 크게",
+      "sources": [
+        "Süddeutsche Zeitung"
+      ],
+      "count": 1
+    },
+    {
+      "event": "kammerspiele-leadership",
+      "title_ko": "연극: 삼세번",
+      "sources": [
+        "Süddeutsche Zeitung"
+      ],
+      "count": 1
+    },
+    {
+      "event": "leipzig-uni-hack",
+      "title_ko": "범죄: 라이프치히대, 해킹 공격 후 오프라인 상태 지속",
+      "sources": [
+        "Die Zeit"
+      ],
+      "count": 1
+    },
+    {
+      "event": "handball-hamburg",
+      "title_ko": "핸드볼 분데스리가: HC 함부르크, 라인-네카어 뢰벤전 역전승",
+      "sources": [
+        "Die Zeit"
+      ],
+      "count": 1
+    },
+    {
+      "event": "rail-cologne-frankfurt",
+      "title_ko": "철도: 쾰른-프랑크푸르트 구간 열차 운행 취소·지연",
+      "sources": [
+        "Die Zeit"
+      ],
+      "count": 1
+    },
+    {
+      "event": "heuss-bridge-accident",
+      "title_ko": "테오도어 호이스 다리: 회피 기동으로 차량 4대 사고",
+      "sources": [
+        "Die Zeit"
+      ],
+      "count": 1
+    },
+    {
+      "event": "regionalliga-loewen",
+      "title_ko": "축구 지역리그: 7골 난타전…'뢰벤', 부흐바흐에 승리",
+      "sources": [
+        "Die Zeit"
+      ],
+      "count": 1
+    },
+    {
+      "event": "basketball-jena",
+      "title_ko": "농구 분데스리가: 예나, 첫 홈 패배",
+      "sources": [
+        "Die Zeit"
+      ],
+      "count": 1
+    }
+  ],
+  "unavailable_sources": []
+}

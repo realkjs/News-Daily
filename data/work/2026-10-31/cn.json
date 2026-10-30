@@ -1,0 +1,889 @@
+{
+  "team": "cn",
+  "headlines": [
+    {
+      "source": "CCTV",
+      "title_original": "串起城乡 连通世界 我国全域物流网如何织就？",
+      "title_ko": "도시와 농촌을 잇고 세계와 연결하다: 중국 전역 물류망은 어떻게 짜였나",
+      "summary_ko": "중국 전역 물류망 구축을 다룬 CCTV(央视网) 기사. 제목 외 세부 내용은 원자료에 없음.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwX3ZDMXBvZnFyYXNhOGVXN3FvUzJPRDQxdk5GSm9XNW82RlRDN3VoWEZxdmQwTDlrdTRVeGlGa09WRDBjY19rR3RZS2J4ZnVoRVNtSDF4VXdMdk9SNHBteW5VaTZpalJLbmdhNmFIR2tXMlhyLTN0aQ?oc=5",
+      "published": "2026-10-31T05:08:18+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "cn-logistics-network",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "50处点位串联11个区 北京发布“跟着古树游京郊”游线",
+      "title_ko": "50곳 지점으로 11개 구 연결, 베이징 '고목 따라 교외 여행' 코스 발표",
+      "summary_ko": "베이징이 50곳 지점으로 11개 구를 잇는 '고목 따라 교외 여행' 관광 코스를 발표했다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKOHIydllSbUg4Qy1waVUtVDJBLWhUc3ZCcGNUX1ZGZmJSdGdGbmUzQ09EczE3TnVQZzVqb3hleG45THNUNmJGQ2ZnaWl0VC16VmNDbEtyUDNsUFNXTExrNFluSHUzTWVuakVJQkIxa1Q0eXd6MXdQUA?oc=5",
+      "published": "2026-10-31T04:48:44+09:00",
+      "tags": [],
+      "event": "beijing-ancient-tree-tour",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "西班牙列车事故中有70起失踪报案 西交通大臣称不会辞职",
+      "title_ko": "스페인 열차 사고 관련 실종 신고 70건…스페인 교통장관 '사퇴 안 해'",
+      "summary_ko": "스페인 열차 사고와 관련해 실종 신고가 70건 접수됐으며, 스페인 교통장관은 사퇴하지 않겠다고 밝혔다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5Rl9nNW1wUVhJS29qYXhhZmtaVFRJQXVHeGVVbGJTNG51NnNCYlpGd3ptelFtYWE2ckxuQWF5dVhWVHVISWVSNi1TWnBzVm8ybWRCN05feWdZN2VjWXIxVzJNbHlBZmtKS0hOV3lIQldjZjB3ZHhrYw?oc=5",
+      "published": "2026-10-31T04:05:17+09:00",
+      "tags": [],
+      "event": "spain-train-accident",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "星空有约丨年度最亮启明星等天象将现身11月天宇",
+      "title_ko": "별하늘 약속: 올해 가장 밝은 금성 등 천문현상 11월 하늘에 등장",
+      "summary_ko": "올해 가장 밝은 금성(샛별) 등 천문현상이 11월에 나타난다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzZi1FN0pzd05oaWNGSlZtSjR5anhSTk9oQVlib0pDczZNSUVBVm5RV0hUUVVVa3MwWXhVWkRaNkxBQ2ZpTl9fdDlUcGpkUGVKSzBRZGF4TUtWNXJWLWp0QWQwdHJwY2JSVWtCaTFnYkVwTmRZbVZWSw?oc=5",
+      "published": "2026-10-31T02:53:32+09:00",
+      "tags": [],
+      "event": "nov-sky-events",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "温馨提示！11月这些考试别错过",
+      "title_ko": "안내: 11월 놓치지 말아야 할 시험들",
+      "summary_ko": "11월에 치러지는 각종 시험 일정 안내.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92RmF6YnN4X242MFVhNHdZTzU2cDVSdEc2cU83WGZXd05OaHdjaGV0Z2N5WWFFODZZczhwTVUwT3QwM3QtNTdCQXJnZFRTR3MtRTM4NEZvWUhkc1ZGdS1Na1d6WHAya0h6S3hIOTk0Xzg5d0RlQXpZVw?oc=5",
+      "published": "2026-10-31T02:36:25+09:00",
+      "tags": [],
+      "event": "nov-exams",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "从革命老区到物流之都 看鲁Q司机何以“行天下”",
+      "title_ko": "혁명 근거지에서 물류 도시로: '루Q' 번호판 기사들은 어떻게 '천하를 누비나'",
+      "summary_ko": "혁명 근거지에서 물류 도시로 바뀐 지역(산둥 '루Q' 번호판 지역)의 화물차 기사들을 다룬 기사. 세부 내용은 원자료에 없음.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04MmlKNDF6VjFvTWZ1ZTJORmJpU3lQSDFkTWFGUGNvd3VGZElSOVhTdUhiT2NtZGhpMDI2cVZmMi1GQmoxY0MzUFBOMFZLLWItTGx6THNuZVdxcXhqdF9XWjhSQndWTjdBLUc4NmNqS0R6N0hLdTlZXw?oc=5",
+      "published": "2026-10-31T02:00:25+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "linyi-logistics-drivers",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "我国持续推进普惠性、基础性、兜底性民生建设 各类困难群众基本生活得到有效保障",
+      "title_ko": "중국, 보편적·기초적·최저보장 민생 건설 지속 추진…각종 취약계층 기본생활 효과적 보장",
+      "summary_ko": "중국이 보편적·기초적·최저보장 성격의 민생 건설을 계속 추진하고 있으며 각종 취약계층의 기본생활이 효과적으로 보장되고 있다고 보도했다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GS0RkeWN1RTlVc184VGRYZTR0Y0V4dGdXaWV2RzVEU0pGVjhSZFB5T0s1dDlFSmd2Z0FlNFpRVW9JSkFJeUxkR2wxUFg1bVh1dDhqNzRfcTdFR2xjaVJVbkE3ZXRNT2I2ZFdodGN5VzJiYmJsMS0xSw?oc=5",
+      "published": "2026-10-31T01:58:58+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "cn-social-welfare",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "中国与瑞士签署自贸协定升级议定书",
+      "title_ko": "중국-스위스, 자유무역협정 업그레이드 의정서 서명",
+      "summary_ko": "중국과 스위스가 자유무역협정(FTA) 업그레이드 의정서에 서명했다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tTHJTRWxDdWMzSnR3eVhtQnBxWVZuU3BOdmoycEVZamR6MEdXbVRaRVhYTktkLUhWU1RSUURmQWdFWUVnVXFSbG5ZcDN2R1VrR09PNGd5NHplSHZLTTBFd0xrOFktMUxFN19CbnhKSWlzb2d3djBleg?oc=5",
+      "published": "2026-10-31T01:19:59+09:00",
+      "tags": [
+        "business",
+        "legislation",
+        "geopolitics"
+      ],
+      "event": "china-swiss-fta-upgrade",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "Euro area GDP up by 0.4% in Q3 2026, +1.3% compared with Q3 2025: preliminary flash estimate from Eurostat",
+      "title_ko": "유로존 3분기 GDP 전기 대비 0.4%, 전년 동기 대비 1.3% 성장: 유로스타트 예비 속보치",
+      "summary_ko": "유로스타트 예비 속보치에 따르면 유로존 GDP는 2026년 3분기 전기 대비 0.4%, 2025년 3분기 대비 1.3% 증가했다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HZ2JUdlNzOXoxNnNOb1NvcFdlcnJJZDlfcXJLOFB6VENzeE1BbnF2ajZCNVFWR1BmRGlBanJuLVA4aHUyclY5ZFlpWmttTTlKbjFLQkxUcHJaLWlrVUdoLWFJcFdxSWpPUXlZNmlBUFFidjRxdU1sdQ?oc=5",
+      "published": "2026-10-30T19:00:36+09:00",
+      "tags": [
+        "forecast"
+      ],
+      "event": "eurozone-q3-gdp",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "Spain: The Adif worker who ordered the AVE train to resume operations refuses to testify before the Civil Guard.",
+      "title_ko": "스페인: AVE 열차 운행 재개를 지시한 Adif 직원, 치안경비대 앞 진술 거부",
+      "summary_ko": "스페인 철도시설관리공사(Adif) 직원으로 AVE 열차 운행 재개를 지시한 인물이 치안경비대(Guardia Civil) 앞에서 진술을 거부했다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85cEZ1VE1tR3JpOFRJQmRfMlZrTHEwaDctVndnYzFPaTBnNUJhNEF5bmpwN1lPQkJ0S2d0OENyV2JLdHcyRzRfeVByendvOVBZdmZpMExDRmlsNVpxOFhpaTR2RkNDQmtRc3Uzbkc5RGVBdEN4Tm0wZQ?oc=5",
+      "published": "2026-10-30T18:57:16+09:00",
+      "tags": [],
+      "event": "spain-train-accident",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "German economy grew 0.2% in third quarter: official data",
+      "title_ko": "독일 경제 3분기 0.2% 성장: 공식 통계",
+      "summary_ko": "공식 통계에 따르면 독일 경제는 3분기에 0.2% 성장했다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wdzVNeWVrRFBRd25MUEFVeC02OFFBX3JHNHlJUDA2RThoNFZMSHpwVWxxUENxb3FaaS1KNTgyRkFYdnB3TXY0MUw0WUcwbnpscnQwdU45elg1YlZLR3hUXzRjRXhWMW1uZGFDbkxtbXZXNnVTVE9xVQ?oc=5",
+      "published": "2026-10-30T18:04:57+09:00",
+      "tags": [
+        "forecast"
+      ],
+      "event": "germany-q3-gdp",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "The Houthis announce the execution of 6 missile and drone attacks on Saudi Arabia targeting oil refineries, airports, and Aramco facilities",
+      "title_ko": "후티, 사우디 정유시설·공항·아람코 시설 겨냥 미사일·드론 공격 6차례 감행 발표",
+      "summary_ko": "후티 반군이 사우디아라비아의 정유시설, 공항, 아람코 시설을 겨냥해 미사일·드론 공격 6차례를 실행했다고 발표했다(후티 측 발표).",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDVFdCUVItVVFZdWtQazI0ZG5FWXhVN3kydUtiZ1JkdncyNlpVZ2ZGMk04UEJRbjRNeDBRY2VoQ19qZkNCRGd2WENTUDVmelBfNmlEYXFXVXFlSDVKYk9yVVZrYVBOcnFDMlpVUWtCVGFfSjJnc2ZBWA?oc=5",
+      "published": "2026-10-30T14:45:21+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "houthi-attacks-saudi",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "PENTAGON OFFICIALS HAVE TOLD SOME NATO ALLIES TO CONTROL THEIR RHETORIC REGARDING RUSSIAN THREAT",
+      "title_ko": "미 국방부 관리들, 일부 나토 동맹국에 '러시아 위협' 관련 발언 자제 요구",
+      "summary_ko": "미 국방부 관리들이 일부 나토 동맹국에 러시아 위협에 관한 발언 수위를 조절하라고 말했다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MM3hhRGdERHdzdWxuYXZXRzloeXNnMjYxV0hsNm1XM3BXRV9jR1BETXpFRGtzUEJjdGQ5cmN1Wkc5YzVTLUhtQU1yRGMtNFQtMzJUc2pvMzIwMVJKOXpFVnFmY1R5a09aZnZUWkJERnlrbWpKWnhQbQ?oc=5",
+      "published": "2026-10-30T14:00:24+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "pentagon-nato-russia-rhetoric",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "Lavrov arrived in the United States to participate in the G20 ministerial meeting in Atlanta",
+      "title_ko": "라브로프, 애틀랜타 G20 장관회의 참석 위해 미국 도착",
+      "summary_ko": "러시아 라브로프 외무장관이 애틀랜타에서 열리는 G20 장관회의에 참석하기 위해 미국에 도착했다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2bUNMUi15UUJOUVlXeFdUOXJReDZVbEVuMURiVkk0dWx3STdzLUR2SjZPQmpYVWdaTEF6NFdfQlExWDNDdGRFcjI2RmJsT0FqRlZzb2VMUTNOa1d4VzBlRzA2UFRGQkFvcS1hYS1HYll1ZHZKWFZBRw?oc=5",
+      "published": "2026-10-30T12:35:07+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "g20-atlanta-lavrov",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "DPRK'S DEFENCE MINISTRY: TO MAINTAIN A STRONG DETERRENT POSTURE AGAINST THREATS FROM US AND ITS FOLLOWERS",
+      "title_ko": "북한 국방성: 미국과 추종세력의 위협에 맞서 강력한 억제 태세 유지",
+      "summary_ko": "북한 국방성이 미국과 그 추종세력의 위협에 맞서 강력한 억제 태세를 유지하겠다고 밝혔다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rclAyYU96VUg3czRHZEtXRUFmbkpubVM0RE1NaEpFR1E5bzloVFJwWS1CczE0WEpYU180LXN6RUtSOXlZREg1UUF1ZGlObHZaaWlRZEJMcURkWU43YjNsZ2txU1lXOG9iazRkeXpRb3FIbklxbGhBTA?oc=5",
+      "published": "2026-10-30T12:11:03+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "dprk-deterrence-statement",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "叙利亚接连发生战争遗留物爆炸事件致三名儿童死亡",
+      "title_ko": "시리아서 전쟁 잔류 폭발물 폭발 잇따라 어린이 3명 사망",
+      "summary_ko": "시리아에서 전쟁 잔류 폭발물 폭발 사고가 잇따라 어린이 3명이 숨졌다.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wT1VVdHVjX1JDZUMxMjUzY085cnhESmtoU0UxQ25MWWxxRkVsQVd6VW1odF9lU2lHd2Y3dWhaUEZFTmhwQTMyUFVxaFRCcDMxQlMyaGpTa2M5Q0xwT3dudzBlNTlORk5fM1FsejFwV0JqZGVqcjUw?oc=5",
+      "published": "2026-10-31T05:05:14+09:00",
+      "tags": [],
+      "event": "syria-unexploded-ordnance",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "第32届明斯克国际电影节开幕",
+      "title_ko": "제32회 민스크 국제영화제 개막",
+      "summary_ko": "제32회 민스크 국제영화제가 개막했다.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TVVpXaHlaUWRFM256QTdjNEZ2TEp5emowNl84aUVpMFdQM0NSMHVtdnkzZUZnQ2RlRTA1ZmFjcmZHYlJHMkp6UWxYMTVWMWtBWDdoZmpNWF81ekIyZHQzdkZuRTd6V09ZZjUwMVZjN1gzN1VCai1v?oc=5",
+      "published": "2026-10-31T04:42:03+09:00",
+      "tags": [],
+      "event": "minsk-film-festival",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "国际油价30日上涨",
+      "title_ko": "국제유가 30일 상승",
+      "summary_ko": "30일 국제유가가 상승했다.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50N0Nudk1vRXhGQW1XeEE4MkpwVHZJYnhNREx3dmpvck5RaUtVWlBfdTdkVkg2c3BiTlhMUllHZG9fRVBvNUhyZkhYdG9fazJldzRHY1U3YzhfMkRMc3VHMWhpeXp3MjVJOWFTM3o4dWVOaFp1Z2tj?oc=5",
+      "published": "2026-10-31T04:39:17+09:00",
+      "tags": [
+        "industry",
+        "forecast"
+      ],
+      "event": "oil-price-oct30",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "国际金价跌破每盎司3900美元",
+      "title_ko": "국제 금값 온스당 3,900달러 아래로 하락",
+      "summary_ko": "국제 금값이 온스당 3,900달러 아래로 떨어졌다.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92SjlNX3Vydm91Xy1ONjFHdTJyQTdENUlxdnNibTVqTXFsUUhBejJZald6S2NYRjdfSXNSOU96X0ZSc1dtV00wc1o1SVNJajdISkpzOTUyakliR01VU2cxbTlfQkFUUHFPRUJlbHlBVDlGenpMMm1v?oc=5",
+      "published": "2026-10-31T03:17:25+09:00",
+      "tags": [
+        "monetary"
+      ],
+      "event": "gold-below-3900",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "俄方称奥列什基人道主义任务顺利完成",
+      "title_ko": "러시아 측 '올레시키 인도주의 임무 순조롭게 완료'",
+      "summary_ko": "러시아 측은 올레시키 인도주의 임무가 순조롭게 완료됐다고 밝혔다.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3cXJzY0lsanR5MjF3VE5tUTBJMnhNMEQ5TXo1dG1RM2FCVlQyWGExcm9LM1hUWm9mc1g5bDRHblFZRjl2NkZlWHpBQ1JRUEVFZmxUckJGc1N6dWNmMDNvVHM1UjBpeXI3TGMxTlg5S1E2azU4c1ZZ?oc=5",
+      "published": "2026-10-31T03:17:07+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "oleshky-humanitarian-truce",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "俄方：筹备三方会谈不代表俄“承诺限制军事行动”",
+      "title_ko": "러시아 측: 3자 회담 준비가 러시아의 '군사행동 제한 약속'을 의미하지 않아",
+      "summary_ko": "러시아 측은 3자 회담 준비가 러시아가 '군사행동 제한을 약속'한다는 뜻은 아니라고 밝혔다.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPd3B1a2N2SnRrWWVCaFBoOG81NWFNeE1HX0ZIVXF3RWY2ME1lNEljTE05R05fbWtydXZmRVFfT1RnY29lYzhTZWVQdnJGbXQySWJ1YlFTSTN2ZXFNTVRxSXQzS0tzM0g1QzdQM3ZaX1BULUpvQTloakFPdU9Ybjg?oc=5",
+      "published": "2026-10-31T03:17:04+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "russia-us-ukraine-trilateral",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "俄方：俄美乌三方会谈有“决定性意义”",
+      "title_ko": "러시아 측: 러·미·우크라이나 3자 회담은 '결정적 의미'",
+      "summary_ko": "러시아 측은 러시아·미국·우크라이나 3자 회담이 '결정적 의미'를 갖는다고 밝혔다.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hLUl5WWdBcld0S2w2Qkc5Ynp1andPcDVMWFFaUi1aMF9sWjFQNWY5SmNLQ3JwU2F5V3RldkR2V0lfc0xiOGNhRUFXVHJSWlQxdGx0bV9jdGNpTUVHMk1OMk1aR3p0ZTBjQm9WR1FqdnhyZlRSRThQSWUzYlRVcUE?oc=5",
+      "published": "2026-10-31T00:41:07+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "russia-us-ukraine-trilateral",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "中国与瑞士签署自贸协定升级议定书",
+      "title_ko": "중국-스위스, 자유무역협정 업그레이드 의정서 서명",
+      "summary_ko": "중국과 스위스가 자유무역협정(FTA) 업그레이드 의정서에 서명했다.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvVkdyN2NCY0VDMXU4VENiN2dsZFBwbzd0Yng3UWRoN3lIcFkyTi11c0tYcTBIMGRSVzZabnMyTjU1SzV0ZmVZMmNtMTVONHpJa2xXUlRseGhyNGtxS0xESkZKN3VZU2xyek0yMFVlMDlheXd4bEtYTzVGLWNGLWs?oc=5",
+      "published": "2026-10-31T00:41:03+09:00",
+      "tags": [
+        "business",
+        "legislation",
+        "geopolitics"
+      ],
+      "event": "china-swiss-fta-upgrade",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "人民日报图文数据库（1946-2026）",
+      "title_ko": "인민일보 그림·텍스트 데이터베이스(1946-2026)",
+      "summary_ko": "인민일보 데이터베이스 안내 페이지로 보이며 뉴스 내용은 원자료에 없음.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fZkY3WWxjV3o0b2RoVnhXZHBnVXVSNFJhNy1NRHNNTENFOUJoS2ZsRmtmOFlST1FURUFiTzdnT2JlRkZOUWZiTWMzbW5aR1ZnRklwdVhoZE0xeEN3YVNPYzhZTE9FRmRha3VxanhMVk9mY0NhRkE?oc=5",
+      "published": "2026-10-31T05:33:50+09:00",
+      "tags": [],
+      "event": "peoples-daily-database",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "人民日报图文数据库（1946-2026）",
+      "title_ko": "인민일보 그림·텍스트 데이터베이스(1946-2026)",
+      "summary_ko": "인민일보 데이터베이스 안내 페이지로 보이며 뉴스 내용은 원자료에 없음.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HY21GdFF3VjdWZkZmY3djQ2U2MnBOVDBoTmFJNk1YTmw5ZUlqdV9uWHMxZnBrcWYzdWJ6YmRMUzRybC1kZ3FlazBpdnVBYzdpX3pVd2FwOEtuQjVfUElpZ2FfcHBWc1VzRVB1dThCTW9YNEpINXc?oc=5",
+      "published": "2026-10-31T05:33:49+09:00",
+      "tags": [],
+      "event": "peoples-daily-database",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "人民日报图文数据库（1946-2026）",
+      "title_ko": "인민일보 그림·텍스트 데이터베이스(1946-2026)",
+      "summary_ko": "인민일보 데이터베이스 안내 페이지로 보이며 뉴스 내용은 원자료에 없음.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6aVFmTjBSVkoyNHBXbG04Z3NKZDRJSnpYUVFYeFhZUlIyd0lYemQ3R3VCTGFWNnVWNXBYTlhOZkhhZGctUm1nX3Y0NmVkVjZDUG8tTWx6enl2Z0UweDZiWjdMYmZrYkpqSnZSTFUzYUtGWjF3cmc?oc=5",
+      "published": "2026-10-31T05:33:49+09:00",
+      "tags": [],
+      "event": "peoples-daily-database",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "人民日报图文数据库（1946-2026）",
+      "title_ko": "인민일보 그림·텍스트 데이터베이스(1946-2026)",
+      "summary_ko": "인민일보 데이터베이스 안내 페이지로 보이며 뉴스 내용은 원자료에 없음.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CNnBONW13VzZTbUc2YWR4OE1hMkVwWGdtVFAySnBGanVHNlFHci1tejdVSkJiMWR5TkoyZEoxeTJrWFZjWWRPMVktS3hnUVlBSFVqdWlWT3AyaDZDSHJGYjNmdTlUcU9CNUpZb1had1Vpcm5jY0E?oc=5",
+      "published": "2026-10-31T05:33:49+09:00",
+      "tags": [],
+      "event": "peoples-daily-database",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "张庆伟会见德国联邦议院副议长诺睿博",
+      "title_ko": "장칭웨이, 독일 연방하원 부의장(诺睿博) 접견",
+      "summary_ko": "장칭웨이(张庆伟)가 독일 연방하원 부의장 诺睿博를 만났다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53SDY5eEp1bE80alpoXzdwRGNUWk1UaDNPZmg4Ni15U2RpU2c4S2dEUWh1RkFUcllYcXhqbTVlLWg0YUlkYnNyWXdfN3BXQXJDYW5sR2ZCYjZoRXFXMFFoelZZLXBUYUNLZ2pYTW55Yw?oc=5",
+      "published": "2026-10-30T23:16:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "zhang-qingwei-bundestag-vp",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "华电山西能源有限公司原党组书记焦荣幸接受审查调查",
+      "title_ko": "화뎬 산시에너지 전 당조 서기 자오룽싱, 심사·조사 받아",
+      "summary_ko": "화뎬(华电) 산시에너지유한공사의 전 당조 서기 자오룽싱(焦荣幸)이 심사·조사를 받고 있다.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5waFJieUw0UDFNOVhqQ1VXQTB6QUFqNDdJT2t5ZHRoUm9RZzVPdi1aRjhRMFltdnVGcnFEanZ4OGVVQkpBUHloLXBGUVQxeENLdVE1Z0hvcWpneFp4NER6Zk1HeXd4d2g0akxtTmUtN2N6UQ?oc=5",
+      "published": "2026-10-30T22:00:00+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "huadian-shanxi-probe",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "习近平同德国总统施泰因迈尔会谈【3】 - 人民网-图片频道",
+      "title_ko": "시진핑, 슈타인마이어 독일 대통령과 회담 [3] (사진)",
+      "summary_ko": "시진핑 주석이 프랑크-발터 슈타인마이어 독일 대통령과 회담했다(인민망 사진 채널).",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtdzUwTXhCZUZfN0RLX3ZDSnRBZVFETTJTQUlPMS1xYUc1UlFZUE1YQmlqT2F3ZGNwRGR5ZjMtWWlrX0dpdUNDRWw2Z3FWUjJ6ak5FaDlYSTRaMjR5S2VYNzJZZFZpUzNuVUVYLTdB?oc=5",
+      "published": "2026-10-30T21:58:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "xi-steinmeier-talks",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "习近平同德国总统施泰因迈尔会谈",
+      "title_ko": "시진핑, 슈타인마이어 독일 대통령과 회담",
+      "summary_ko": "시진핑 주석이 슈타인마이어 독일 대통령과 회담했다.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oWkNfWm15UnI1S2JxckotcFdQLUpOTXQzVXdrbXZVdm82MVJsU2Fudl9ERHpaeUJpWWlmbVh6dWJOY1BfTDZlT1d0U2ZIcWN2VXliejBWNlhUWFYwbF9UUDZiV1k3WmozT29FTg?oc=5",
+      "published": "2026-10-30T21:37:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "xi-steinmeier-talks",
+      "state_media": true
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Russia’s top independent newspaper Novaya Gazeta shuts under Kremlin pressure",
+      "title_ko": "러시아 대표 독립언론 노바야 가제타, 크렘린 압박 속 폐간",
+      "summary_ko": "러시아 대표 독립신문 노바야 가제타가 금요일 폐간을 발표하며, 크렘린과 우크라이나 전쟁을 비판해 온 기자들에 대한 수년간의 탄압 끝에 국가 압박에 '살해당했다'고 밝혔다. 러시아의 공세를 공개 비판해 온 마지막 매체 중 하나다.",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3372798/russias-top-independent-newspaper-novaya-gazeta-shuts-under-kremlin-pressure",
+      "published": "2026-10-31T06:03:58+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "novaya-gazeta-closure",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Can Connie Chan become San Francisco’s first Asian-American in Congress?",
+      "title_ko": "코니 챈, 샌프란시스코 첫 아시아계 연방하원의원 될 수 있을까",
+      "summary_ko": "홍콩 출생으로 대만에서 초등학교를 다니고 13세에 미국으로 이주한 샌프란시스코 시의원 코니 챈이 캘리포니아 11선거구에 출마해 낸시 펠로시의 뒤를 잇고자 한다.",
+      "url": "https://www.scmp.com/news/us/us-elections/article/3372796/can-connie-chan-become-san-franciscos-first-asian-american-congress",
+      "published": "2026-10-31T04:57:48+09:00",
+      "tags": [],
+      "event": "connie-chan-congress",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Carney eyes June deal on making Canada the EU’s first associate member",
+      "title_ko": "카니 '6월 캐나다의 EU 첫 준회원국 협상 타결 기대'",
+      "summary_ko": "마크 카니 캐나다 총리는 캐나다를 EU의 첫 '준회원국'으로 만드는 파트너십 협상을 6월에 마무리할 것으로 기대한다고 금요일 밝혔다. 다만 이 명칭은 새 경제·안보 동맹을 출범시키는 공동선언에서는 빠졌다.",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3372794/carney-expects-conclude-talks-making-canada-eus-first-associate-member-june",
+      "published": "2026-10-31T03:32:16+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation"
+      ],
+      "event": "canada-eu-associate-member",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "How a Democratic-controlled Congress could reshape US policy on China",
+      "title_ko": "민주당 의회 장악 시 미국의 대중 정책은 어떻게 바뀌나",
+      "summary_ko": "분석가들은 민주당이 미 의회 어느 한 원이라도 장악하면 트럼프 대통령의 대중국 거래에 대한 감독이 강화될 수 있지만, 의원들은 대체로 대중 강경 기조를 유지할 것으로 내다봤다.",
+      "url": "https://www.scmp.com/news/us/politics/article/3372791/how-democratic-controlled-congress-could-reshape-us-policy-china",
+      "published": "2026-10-31T01:33:35+09:00",
+      "tags": [
+        "geopolitics",
+        "forecast"
+      ],
+      "event": "us-midterms-china-policy",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Hong Kong primary pupils to study AI under new technology subject",
+      "title_ko": "홍콩 초등학생, 새 기술 과목에서 AI 배운다",
+      "summary_ko": "홍콩 초등학교에 2028년 9월부터 정보·혁신기술(IIT) 과목이 단계적으로 도입되며, 인공지능(AI)이 주요 내용 중 하나다. 7세 학생도 간단한 프롬프트로 AI 시스템과 '대화'할 수 있게 된다.",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3372790/hong-kong-primary-pupils-study-ai-under-new-technology-subject",
+      "published": "2026-10-31T00:37:07+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "hk-primary-ai-subject",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Christa Pike says she’s in constant pain after failed US execution, slams ‘incompetence’",
+      "title_ko": "크리스타 파이크 '미국 사형집행 실패 후 계속 고통'…'무능' 비판",
+      "summary_ko": "테네시주에서 독극물 주사 사형집행에서 살아남은 크리스타 파이크가 한 달이 지난 지금도 계속 통증을 겪고 말하기 어렵다며 이를 '무능' 탓으로 돌렸다.",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3372789/christa-pike-says-shes-constant-pain-after-failed-us-execution-slams-incompetence",
+      "published": "2026-10-31T00:13:30+09:00",
+      "tags": [],
+      "event": "christa-pike-failed-execution",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Russia-Ukraine truce for Oleshky allows aid mission to help starving residents",
+      "title_ko": "러-우크라이나, 올레시키 휴전으로 굶주린 주민 돕는 구호 임무 허용",
+      "summary_ko": "러시아가 점령한 우크라이나 남부 올레시키에서 금요일 굶주린 주민들의 대피가 시작됐다. 멜라니아 트럼프 미국 영부인이 중재한 국지 휴전에 따라 구호 차량이 도착했으며, 4년 8개월 전쟁 중 양측 첫 공동 구호 작전이다.",
+      "url": "https://www.scmp.com/news/world/europe/article/3372778/russia-ukraine-truce-oleshky-allows-aid-mission-help-starving-residents",
+      "published": "2026-10-30T23:30:07+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "oleshky-humanitarian-truce",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Hong Kong development chief denies U-turn over agency to support homeowners",
+      "title_ko": "홍콩 개발국장, 주택소유자 지원 기구 관련 '정책 번복' 부인",
+      "summary_ko": "버나데트 린 홍콩 개발국장은 주택 소유자의 건물 보수 입찰을 돕는 전담 기구 설립이 정책 번복이라는 비판을 부인하며, 10년 전 거부된 기구와 업무 범위가 근본적으로 다르다고 밝혔다.",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3372786/hong-kong-development-chief-denies-u-turn-over-agency-support-homeowners",
+      "published": "2026-10-30T23:24:13+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "hk-building-maintenance-agency",
+      "state_media": false
+    },
+    {
+      "source": "China Daily",
+      "title_original": "习近平同德国总统施泰因迈尔会谈",
+      "title_ko": "시진핑, 슈타인마이어 독일 대통령과 회담",
+      "summary_ko": "시진핑 주석이 슈타인마이어 독일 대통령과 회담했다.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iclZUdHJuMEdUcGVBeF9GME1jVWFrZ0JPakk5QVlDWkViR0tqN054ZW8zazl2RmxkNk1wQl9VdS15M1pTZ3ZlaUFiVUY0WEVRdmthcEtfaEtaUTFoYm5RbnNTOFVzaUY2YmxmQVRKUXBOVVhRYzBkcUN2UnM?oc=5",
+      "published": "2026-10-30T23:11:52+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "xi-steinmeier-talks",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "习近平会见瑞士联邦主席帕姆兰",
+      "title_ko": "시진핑, 스위스 연방대통령 파믈랭 접견",
+      "summary_ko": "시진핑 주석이 기 파믈랭(帕姆兰) 스위스 연방대통령을 만났다.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNZkRFQjZFU0lMLVBHQjl2dTU3NWI0RjhJbXBQQ3BpaGZLVFUwYmppVURLODVpSEVZVzczNU1adkRkaW1kSzNQTmdNa3Y2bHVqX2dubjBoWXFqUUxnZVRscmpYbXM4NnYyS0RzYU5kS1k3emdab3dvbGNCTXo?oc=5",
+      "published": "2026-10-30T23:11:42+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "xi-parmelin-meeting",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "彭丽媛同德国总统夫人比登本德茶叙",
+      "title_ko": "펑리위안, 독일 대통령 부인 뷔덴벤더와 차담",
+      "summary_ko": "펑리위안 여사가 독일 대통령 부인 엘케 뷔덴벤더와 차담을 가졌다.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEUU1QOTFubTMteTNlU3hUV1JyQWZvWlRIM3N4YXp0UUZmNnNqb0ZyZ1hlSGd5UzF1ZEcwOGNpYjVWVFVsV0xlRThzNnExcXZqZ0JTUnZVS2pYU09DWldYSk1nN2dCeUlYdVRpOXhMWko1cEliWUtfY0Ntcmc?oc=5",
+      "published": "2026-10-30T23:11:34+09:00",
+      "tags": [],
+      "event": "xi-steinmeier-talks",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "“中国蓝色海湾整治行动”获评2026年联合国“世界生态恢复旗舰项目”",
+      "title_ko": "'중국 블루베이 정비 행동', 2026년 유엔 '세계 생태복원 대표 프로젝트' 선정",
+      "summary_ko": "'중국 블루베이(蓝色海湾) 정비 행동'이 2026년 유엔 '세계 생태복원 대표 프로젝트'로 선정됐다.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5US1dhbGE0TXVBamxFNG1FNjZORzF0WWJUMTJ5Tk1sdWtxY19ka1IzUVJzY3BkYXFYZ08xRWpfcndoMGdteU5IQ0JGRTVSSEVaTENDSlIwclVQQlhkNTVGR2d5LTZSa2VpMlIwd3cyZTdlT3Nzb296VzFINjI?oc=5",
+      "published": "2026-10-30T23:06:43+09:00",
+      "tags": [],
+      "event": "cn-blue-bay-un-flagship",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "阿根廷商界人士：进博会是重要的贸易平台",
+      "title_ko": "아르헨티나 재계 인사: 수입박람회는 중요한 무역 플랫폼",
+      "summary_ko": "아르헨티나 재계 인사가 중국국제수입박람회(진보회)를 중요한 무역 플랫폼이라고 평가했다.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PY0pWeERnbWsybkJzME1hM0c3SzZCY3NRdGFBMkpOVWJKQ3o5RWkyZEwtRnJndUctRzdhaU9SQWZlTzFYMXF4TFNfVGoweklqcFFtQUR0UGgwSk51WHJvVTNfMEtEMDRrQmxpblVucVR5VW83ZVVDVUNFT08?oc=5",
+      "published": "2026-10-30T21:58:01+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "ciie-2026",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "视频丨进博会布展冲刺 全球好物与客商加速抵沪",
+      "title_ko": "영상: 수입박람회 전시 준비 막바지, 세계 상품·바이어 상하이 속속 도착",
+      "summary_ko": "중국국제수입박람회 전시 준비가 막바지에 이르렀으며 세계 각국 상품과 바이어가 상하이에 속속 도착하고 있다.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfejhFTWtwQjJjTkN1MW40d01obEpvbEJRS3JOdGJzZG9xNHhXMFUxRWxialFtSEJ3c1N3cDRWbnBlU2hWU1hzTmhld0ZNaWRPbDNmQUlJWWFvOXZnbEd3NlZEV2R6Ry1qREtEaTBBSnBPQ0NRd28tSUZWMA?oc=5",
+      "published": "2026-10-30T21:56:26+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "ciie-2026",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "在西双版纳这场文化艺术节上，柬埔寨官员看到了合作机遇",
+      "title_ko": "시솽반나 문화예술제에서 캄보디아 관리들 협력 기회 발견",
+      "summary_ko": "시솽반나에서 열린 문화예술제에서 캄보디아 관리들이 협력 기회를 봤다고 보도했다.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Za21LUWMteXNhNmNOazNBZ2dPVW5GbHNxeEhPLXdZUzBKMjRvd2hvTmt4Wms0SHgyOXpGdmo4S0c0NFZCR0QwSGZtc3g0cnlCZ0w5R2xxemJGUF9UV1l1UGdRVjRydy0yN3hBN3pELVRWOFM2QTd5Q056NlI?oc=5",
+      "published": "2026-10-30T21:37:56+09:00",
+      "tags": [],
+      "event": "xishuangbanna-cambodia-festival",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "中国联合印度尼西亚、马来西亚破获一起特大跨国制贩毒案缴获毒品约1.2吨",
+      "title_ko": "중국, 인도네시아·말레이시아와 공조해 초대형 다국적 마약 제조·밀매 사건 적발…마약 약 1.2톤 압수",
+      "summary_ko": "중국이 인도네시아·말레이시아와 공조해 초대형 다국적 마약 제조·밀매 사건을 적발하고 마약 약 1.2톤을 압수했다.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QUndCaDEzS2VVOXlVZGN5bXVXa1BlbXA2VDJIcTZyekJGenI4bFZhMm1raGU1TkN3Nmd4bmswT25SOXFDQ0VEUlJxbGRZTEp6RE9GZXR4M0lnRy02aDZmR01rdmdGM3RuMUVqOEhkZTNxdnhxODY5UGFpdkk?oc=5",
+      "published": "2026-10-30T21:31:32+09:00",
+      "tags": [],
+      "event": "cn-id-my-drug-bust",
+      "state_media": true
+    }
+  ],
+  "events": [
+    {
+      "event": "xi-steinmeier-talks",
+      "title_ko": "시진핑-슈타인마이어 독일 대통령 회담(독일 방중 관련 일정 포함)",
+      "sources": [
+        "People's Daily",
+        "China Daily"
+      ],
+      "count": 4
+    },
+    {
+      "event": "spain-train-accident",
+      "title_ko": "스페인 AVE 열차 사고 후속",
+      "sources": [
+        "CCTV",
+        "CGTN"
+      ],
+      "count": 2
+    },
+    {
+      "event": "china-swiss-fta-upgrade",
+      "title_ko": "중국-스위스 FTA 업그레이드 의정서 서명",
+      "sources": [
+        "CCTV",
+        "Xinhua"
+      ],
+      "count": 2
+    },
+    {
+      "event": "oleshky-humanitarian-truce",
+      "title_ko": "올레시키 국지 휴전·인도주의 구호 임무",
+      "sources": [
+        "Xinhua",
+        "SCMP (홍콩)"
+      ],
+      "count": 2
+    },
+    {
+      "event": "peoples-daily-database",
+      "title_ko": "인민일보 데이터베이스 페이지(비뉴스)",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 4
+    },
+    {
+      "event": "russia-us-ukraine-trilateral",
+      "title_ko": "러·미·우크라이나 3자 회담에 대한 러시아 측 입장",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 2
+    },
+    {
+      "event": "ciie-2026",
+      "title_ko": "중국국제수입박람회(진보회) 개막 준비",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 2
+    },
+    {
+      "event": "cn-logistics-network",
+      "title_ko": "도시와 농촌을 잇고 세계와 연결하다: 중국 전역 물류망은 어떻게 짜였나",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "beijing-ancient-tree-tour",
+      "title_ko": "50곳 지점으로 11개 구 연결, 베이징 '고목 따라 교외 여행' 코스 발표",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "nov-sky-events",
+      "title_ko": "별하늘 약속: 올해 가장 밝은 금성 등 천문현상 11월 하늘에 등장",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "nov-exams",
+      "title_ko": "안내: 11월 놓치지 말아야 할 시험들",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "linyi-logistics-drivers",
+      "title_ko": "혁명 근거지에서 물류 도시로: '루Q' 번호판 기사들은 어떻게 '천하를 누비나'",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "cn-social-welfare",
+      "title_ko": "중국, 보편적·기초적·최저보장 민생 건설 지속 추진…각종 취약계층 기본생활 효과적 보장",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "eurozone-q3-gdp",
+      "title_ko": "유로존 3분기 GDP 전기 대비 0.4%, 전년 동기 대비 1.3% 성장: 유로스타트 예비 속보치",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 1
+    },
+    {
+      "event": "germany-q3-gdp",
+      "title_ko": "독일 경제 3분기 0.2% 성장: 공식 통계",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 1
+    },
+    {
+      "event": "houthi-attacks-saudi",
+      "title_ko": "후티, 사우디 정유시설·공항·아람코 시설 겨냥 미사일·드론 공격 6차례 감행 발표",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 1
+    },
+    {
+      "event": "pentagon-nato-russia-rhetoric",
+      "title_ko": "미 국방부 관리들, 일부 나토 동맹국에 '러시아 위협' 관련 발언 자제 요구",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 1
+    },
+    {
+      "event": "g20-atlanta-lavrov",
+      "title_ko": "라브로프, 애틀랜타 G20 장관회의 참석 위해 미국 도착",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 1
+    },
+    {
+      "event": "dprk-deterrence-statement",
+      "title_ko": "북한 국방성: 미국과 추종세력의 위협에 맞서 강력한 억제 태세 유지",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 1
+    },
+    {
+      "event": "syria-unexploded-ordnance",
+      "title_ko": "시리아서 전쟁 잔류 폭발물 폭발 잇따라 어린이 3명 사망",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "minsk-film-festival",
+      "title_ko": "제32회 민스크 국제영화제 개막",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "oil-price-oct30",
+      "title_ko": "국제유가 30일 상승",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "gold-below-3900",
+      "title_ko": "국제 금값 온스당 3,900달러 아래로 하락",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "zhang-qingwei-bundestag-vp",
+      "title_ko": "장칭웨이, 독일 연방하원 부의장(诺睿博) 접견",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "huadian-shanxi-probe",
+      "title_ko": "화뎬 산시에너지 전 당조 서기 자오룽싱, 심사·조사 받아",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "novaya-gazeta-closure",
+      "title_ko": "러시아 대표 독립언론 노바야 가제타, 크렘린 압박 속 폐간",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "connie-chan-congress",
+      "title_ko": "코니 챈, 샌프란시스코 첫 아시아계 연방하원의원 될 수 있을까",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "canada-eu-associate-member",
+      "title_ko": "카니 '6월 캐나다의 EU 첫 준회원국 협상 타결 기대'",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "us-midterms-china-policy",
+      "title_ko": "민주당 의회 장악 시 미국의 대중 정책은 어떻게 바뀌나",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "hk-primary-ai-subject",
+      "title_ko": "홍콩 초등학생, 새 기술 과목에서 AI 배운다",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "christa-pike-failed-execution",
+      "title_ko": "크리스타 파이크 '미국 사형집행 실패 후 계속 고통'…'무능' 비판",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "hk-building-maintenance-agency",
+      "title_ko": "홍콩 개발국장, 주택소유자 지원 기구 관련 '정책 번복' 부인",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "xi-parmelin-meeting",
+      "title_ko": "시진핑, 스위스 연방대통령 파믈랭 접견",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "cn-blue-bay-un-flagship",
+      "title_ko": "'중국 블루베이 정비 행동', 2026년 유엔 '세계 생태복원 대표 프로젝트' 선정",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "xishuangbanna-cambodia-festival",
+      "title_ko": "시솽반나 문화예술제에서 캄보디아 관리들 협력 기회 발견",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "cn-id-my-drug-bust",
+      "title_ko": "중국, 인도네시아·말레이시아와 공조해 초대형 다국적 마약 제조·밀매 사건 적발…마약 약 1.2톤 압수",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    }
+  ],
+  "unavailable_sources": [
+    "Global Times",
+    "Caixin"
+  ],
+  "notes": "China Daily RSS 404(원자료 errors) — Google News 경유분 8건만 수록. People's Daily '图文数据库' 4건은 비뉴스 페이지로 보여 같은 event로 묶음. events.count=헤드라인 수, sources=보도 매체."
+}
