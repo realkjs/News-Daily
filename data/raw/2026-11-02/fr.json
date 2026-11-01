@@ -1,8 +1,17 @@
 {
   "team": "fr",
   "team_name_ko": "프랑스팀",
-  "collected_at": "2026-11-02T06:14:12.495366+09:00",
+  "collected_at": "2026-11-02T08:08:10.240290+09:00",
   "headlines": [
+    {
+      "source": "France 24",
+      "title_original": "Jean-Pierre Filiu : \"Gaza est un laboratoire pour l'ensemble du système international\"",
+      "summary_original": "Un an après la proclamation d'un cessez-le-feu dans la bande de Gaza, l'enclave est toujours largement occupée par l'armée israélienne, les bombardements quotidiens et meurtriers, et les conditions de vie extrêmes. C'est dans ce contexte de tragédie continue au Proche-Orient que se sont tenues les premières élections législatives en Israël depuis le 7 octobre 2023. L'historien Jean Pierre Filiu, a",
+      "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261101-jean-pierre-filiu-gaza-est-un-laboratoire-pour-l-ensemble-du-syst%C3%A8me-international",
+      "published": "2026-11-02T06:04:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
     {
       "source": "France 24",
       "title_original": "Présidentielle 2027 : Édouard Philippe refuse de participer à une primaire, source de \"division\"",
@@ -14,8 +23,8 @@
     },
     {
       "source": "France 24",
-      "title_original": "Ukraine : au dernier jour de trêve à Olechky, la population se prépare à une reprise de la guerre",
-      "summary_original": "Les habitants d'Olechky et de ses environs se préparent dimanche soir à la fin de la trêve exceptionnelle débutée mardi, Moscou ayant refusé une proposition de l'Ukraine de prolonger ce cessez-le-feu. Sur place, les autorités s'attendent à une reprise immédiate et violente de la guerre.",
+      "title_original": "Ukraine : à la fin de la trêve à Olechky, la population se prépare à une reprise de la guerre",
+      "summary_original": "La trêve exceptionnelle débutée mardi à Olechky a pris fin dimanche soir, Moscou ayant refusé une proposition de l'Ukraine de prolonger ce cessez-le-feu. Sur place, les autorités saluent le respect de l'accord mais s'attendent à une reprise immédiate et violente de la guerre.",
       "url": "https://www.france24.com/fr/europe/20261101-ukraine-au-dernier-jour-de-tr%C3%AAve-%C3%A0-olechky-la-population-se-pr%C3%A9pare-%C3%A0-une-reprise-de-la-guerre",
       "published": "2026-11-02T04:27:20+09:00",
       "via": "rss",
@@ -67,11 +76,20 @@
       "state_media": false
     },
     {
-      "source": "France 24",
-      "title_original": "Ukraine : dernier jour d'une trêve exceptionnelle à Olechky",
-      "summary_original": "La trêve qui a permis l'évacuation d'habitants d'Olechky, ville occupée par la Russie dans le sud de l'Ukraine, doit prendre fin dimanche soir, un répit exceptionnel mais circonscrit alors que Kiev et Moscou poursuivent par ailleurs leurs frappes. Nous en parlons avec la journaliste Tetyana Ogarkova, responsable du département international de l'Ukraine Crisis Media Center.",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261101-ukraine-dernier-jour-d-une-tr%C3%AAve-exceptionnelle-%C3%A0-olechky",
-      "published": "2026-11-02T01:41:18+09:00",
+      "source": "franceinfo (France 2)",
+      "title_original": "Neuf morts dans le crash d'un petit avion en Floride",
+      "summary_original": "Cet avion, parti d'Austin au Texas, se dirigeait vers les Bahamas quand il s'est écrasé dans un quartier résidentiel du comté de Palm Beach.",
+      "url": "https://www.franceinfo.fr/monde/usa/neuf-morts-dans-le-crash-d-un-petit-avion-en-floride_8263259.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-02T06:49:04+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "Inspiré puis malmené, l'OM signe une quatrième victoire de rang en Ligue 1 face à Toulouse",
+      "summary_original": "Les Toulousains se sont vus refuser deux buts sur hors jeu, dimanche, au Vélodrome.",
+      "url": "https://www.franceinfo.fr/sports/foot/om/inspire-puis-malmene-l-om-signe-une-quatrieme-victoire-de-rang-en-ligue-1-face-a-toulouse_8263235.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-02T06:41:26+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -130,29 +148,47 @@
       "state_media": false
     },
     {
-      "source": "franceinfo (France 2)",
-      "title_original": "Vainqueur du choc face à Liverpool, Arsenal prend seul les commandes de la Premier League",
-      "summary_original": "Les Gunners n'avaient plus gagné à Anfield depuis 14 ans, et sont désormais seuls leaders du championnat, après la défaite de Manchester City, samedi.",
-      "url": "https://www.franceinfo.fr/sports/foot/arsenal/vainqueur-du-choc-face-a-liverpool-arsenal-prend-seul-les-commandes-de-la-premier-league_8263145.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-02T03:46:34+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "franceinfo (France 2)",
-      "title_original": "Ligue 1 : irrésistible, le Paris FC fait sa loi face à l'AS Monaco, Lyon garde le rythme face à Angers",
-      "summary_original": "Avec deux buts et une passe décisive, l'attaquant du club francilien a régné sur la rencontre, dimanche, au stade Jean-Bouin. Les Parisiens sont quatrièmes de Ligue 1, juste derrière les Lyonnais.",
-      "url": "https://www.franceinfo.fr/sports/foot/ligue-1/ligue-1-irresistible-le-paris-fc-fait-sa-loi-face-a-l-as-monaco-lyon-garde-le-rythme-face-a-angers_8262965.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-02T03:35:59+09:00",
-      "via": "rss",
+      "source": "TF1 Info",
+      "title_original": "Violences, fatigue : les forces de l'ordre témoignent",
+      "summary_original": "Violences, fatigue : les forces de l'ordre témoignent TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRXQzck40U3N5aWNRb0lvcEVnbWVYakZ6bmpjZGRrc2F3ZnhfTWhUZXY0ZjF1U3FzRkUwX2dqTFFHUG5JTm85bUFEVVRxNmJxdU42SHFnQUt6MjYxQW5VUEJiYlZHcFVHX2Y5b2o1cTNQS05yaGktNEtZTllKcVJ2VjJldnBDci02eFM2VTdPa1IxNk1NLW84UXItS1hucWJ0YUd4U254V1pqbGpUeEdmQU92TDhxb09PS01vem5CSG9sejZq?oc=5",
+      "published": "2026-11-02T08:00:13+09:00",
+      "via": "google_news",
       "state_media": false
     },
     {
       "source": "TF1 Info",
-      "title_original": "Pompier blessé par balle : ce que l'on sait",
-      "summary_original": "Pompier blessé par balle : ce que l'on sait TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ0FLZUVsdGdIN3RzakFsZjdSME13NEM1LTJEVE5FYkR4TldIUUxmN3dpSktLajhqRGJ5Y1NoMDBuVk4yOHUyRkhlSWd1WDJQMkU0VDRPTWVEdnhqdFJnbnVxTlFMZXhJcXJpdDBfdXJpSWFnSk5wWEI4aTlhQ2trTWdqVkVUMG9hSXRWbFFHZlk5SGZUNktNUEpIRGU0MkRZdTkzZjVLVGlGazVXMUh5aTlsbDFja1J0?oc=5",
-      "published": "2026-11-02T05:55:07+09:00",
+      "title_original": "Martyre de l'A10 : un procès 40 ans après",
+      "summary_original": "Martyre de l'A10 : un procès 40 ans après TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORGhVb2t1eWFlYmNlcWsxSlk3ZFBmcGpOQXFWUmVQRjBjREY0RXVxZldQNEhQS3ByOXc5Z205c0xpTXdlQ3lnNnhIWHZUaGFacXpTN1F6V2hFTllDcTNwYzI5WWp5VHBoNmlpWjQ3Ymd0WUdjY3Nmb0FNMnVIU0E1YlA5cFJlb0pBYVR0R3ZXSVo2RHFLeXJlWmtVTkxXaHhwVGwzQUxNeEVIWGl2cm9uQjlBdm1qdw?oc=5",
+      "published": "2026-11-02T07:50:07+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "\"Une terrible tragédie\" : au moins 9 morts après le crash d'un avion de tourisme dans une zone résidentielle en Floride",
+      "summary_original": "\"Une terrible tragédie\" : au moins 9 morts après le crash d'un avion de tourisme dans une zone résidentielle en Floride TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQLXBnT25DMGhrR3FiMHFWYk00djhmcThYRDJsVDl6TG1nY2RlVFE3REZDZjJ4WGV0NTNRUGVhSjVwS0tuLTdRX2ZmVkU2VEVxUHRVQkt5em04cGhnV2Y1dFlRTU40aUtVVXZVdnN1NDZya09VdmdmZEZ1VnBibm9tTFZRTm1laXM5MHJmR1NpanpMQmFFWm1ZZ0NuVTFNZXRoNEM0N0R4cXNYa3hldnpEUWt4NXFWN0RuSER2SnZtN013MzlZM2dDS2prUl9TNng1aGM0bTRNWUw1U3JWLUNCNk1CcllaZXdnN0JzbXlpa3VUM0xINUpyS3NxZ2ZZNUxsQWc?oc=5",
+      "published": "2026-11-02T07:09:41+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Guerre en Ukraine : l'application ukrainienne d'alerte aux attaques aériennes a été piratée, selon l'armée de l'air",
+      "summary_original": "Guerre en Ukraine : l'application ukrainienne d'alerte aux attaques aériennes a été piratée, selon l'armée de l'air TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaWxjVEdFd29fN0VldnR3Wk9BWmo2aHpRVVdsdnpBMFJtQVNhVmlDeDlVSS1fZWYtWlBpYzZUbklmX1prc0otb3hhODd5NkFjT0ZpdGhQbkxxc2docmpEbkg5bHNQamEzaER5UXdhVTFUQVFfcE10bGxZNUZfMjRZa2Q2MTRHWTNmeXVqSF9yMW0xdFNxMHRFWjZaMkhJTHEtUzAtM1BtUGhlWERUbllMQng2dmdseWZTSEsyU1l2MTlHdDNWY0R6RUx0a2s2dE8xMnBHX3QwWUkxWVpBc3E4SlNhLUpIN1VpOTZDaHAxWnJteWhqcldFVnZLTjRvZw?oc=5",
+      "published": "2026-11-02T06:57:32+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Formule 1 : violente sortie de piste du Finlandais Valterri Bottas, le Grand Prix du Mexique interrompu",
+      "summary_original": "Formule 1 : violente sortie de piste du Finlandais Valterri Bottas, le Grand Prix du Mexique interrompu TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV3d2Ym5kSl9sMEZQUGZkMVlONk9uMlluZWVuOU1WNDB3ZWlPTXlJdWM1UW1YMzBHQkVta0FyTk1KR1VOSXktaGt5T1ZJcHRUMzJIQ19VRno4djJJMlBtS1RSVzNDVzRMM2ZLSEw4T2ZPWjNhRlgyaG9ORWdyRzVBY2FsR0JHVmE2VGxOeU9tXzU2MkZIV2dLcUdlSHUxMVBsaExHSFVMQzVsTHpROFgtR1ZqYVFtRW9mWk1ldlgyTnJ3VmlMb1l5RXNkRkhnaldRcWN1WTBlZW1wZw?oc=5",
+      "published": "2026-11-02T06:50:23+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -176,15 +212,6 @@
     },
     {
       "source": "TF1 Info",
-      "title_original": "Sécheresse en novembre : les habitants se mobilisent",
-      "summary_original": "Sécheresse en novembre : les habitants se mobilisent TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTzZpNEM4NEJkdW1hY3FXcWJSNTVuVWFPZzYwSTVaQ3F2bGJNdFhQa1VkUU5jaFppSExZdzZDd3pnbFhQYlJzOGcxMWxrYi1vVHZNZzB1Y3hnQ0hKTTNSa3FRVktzXzZ5Qi1nV0ZsR3lPeW56ajJVTjJwMld0NThLOWhmbHVGS1I4OE11Z3lENEFmRVptXzl1bW5idVdkV2d3TWtIOGdSS1dqcmVTcTBxSw?oc=5",
-      "published": "2026-11-02T05:10:17+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
       "title_original": "Comment certaines tradwives se repentent du mouvement aux États-Unis ?",
       "summary_original": "Comment certaines tradwives se repentent du mouvement aux États-Unis ? TF1 Info",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONktCR2hiREV5V1AyOXZDR1FNVzRnNTlKZEZOYm1UVDZzUEh4dDFTNnlJQ295X2Jad0dNeThpWG5PcUVmWnVEY3lCcUx2Sm9qcjN5ZXB0RGtrVlMweU1fMmdlaTdfUUNyd3BTVjIyenBkRWtjTDlVZUU5Z09NZTktN2hQY0JJZ1BfbGdfV2lxR1RCMG1JWDRTamJxVC1VNTQ0WXF3MG1CeUI0TzViVTVtMGln?oc=5",
@@ -193,101 +220,101 @@
       "state_media": false
     },
     {
-      "source": "TF1 Info",
-      "title_original": "Violences, fatigue : les forces de l'ordre témoignent",
-      "summary_original": "Violences, fatigue : les forces de l'ordre témoignent TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRXQzck40U3N5aWNRb0lvcEVnbWVYakZ6bmpjZGRrc2F3ZnhfTWhUZXY0ZjF1U3FzRkUwX2dqTFFHUG5JTm85bUFEVVRxNmJxdU42SHFnQUt6MjYxQW5VUEJiYlZHcFVHX2Y5b2o1cTNQS05yaGktNEtZTllKcVJ2VjJldnBDci02eFM2VTdPa1IxNk1NLW84UXItS1hucWJ0YUd4U254V1pqbGpUeEdmQU92TDhxb09PS01vem5CSG9sejZq?oc=5",
-      "published": "2026-11-02T04:55:15+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "Martyre de l'A10 : un procès 40 ans après",
-      "summary_original": "Martyre de l'A10 : un procès 40 ans après TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORGhVb2t1eWFlYmNlcWsxSlk3ZFBmcGpOQXFWUmVQRjBjREY0RXVxZldQNEhQS3ByOXc5Z205c0xpTXdlQ3lnNnhIWHZUaGFacXpTN1F6V2hFTllDcTNwYzI5WWp5VHBoNmlpWjQ3Ymd0WUdjY3Nmb0FNMnVIU0E1YlA5cFJlb0pBYVR0R3ZXSVo2RHFLeXJlWmtVTkxXaHhwVGwzQUxNeEVIWGl2cm9uQjlBdm1qdw?oc=5",
-      "published": "2026-11-02T04:50:17+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "Un pompier blessé par balle lors d'un incendie dans les Bouches-du-Rhône : ce que l'on sait",
-      "summary_original": "Un pompier blessé par balle lors d'un incendie dans les Bouches-du-Rhône : ce que l'on sait TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV1RVTnJKQWp5MTNEekxIYUpNR1NRa0ltc3pxMUxkdEw4U0lzX3lyS1JJaHNscXp3blc5a3dwdFVlbWpYYVdXRGNTRXl4cXo1MWZrdFZYUWV4WlFiUTRmazFWbFQxLUo3MmkyeGIxeDFqMTZSWW5QNGFqVnA1YTZtYm81WFZrQkI5SEM3QWw2VjNpTjQ5RnJSWF9HVzBLSUo2eUt4MENUMFNkOExYTXAwWVg5am5oT0VBN2RlX2RiRERHVjRPVnp1WXpEMThJc2NuT1g2R0Y1Ni05UjJhOGpV?oc=5",
-      "published": "2026-11-02T04:47:26+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
       "source": "BFMTV",
-      "title_original": "Présidentielle 2027: Édouard Philippe refuse de participer à une primaire de la droite et du centre",
-      "summary_original": "Le candidat Horizons à la présidentielle a réaffirmé dimanche son opposition à l'idée d'une primaire de la droite et du centre à la présidentielle, proposée mercredi par son concurrent Gabriel Attal. Il appelle les prétendants à \"prendre leurs responsabilités\" en février.",
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-2027-edouard-philippe-refuse-de-participer-a-une-primaire-de-la-droite-et-du-centre_AD-202611010415.html",
-      "published": "2026-11-02T05:58:53+09:00",
+      "title_original": "États-Unis: neuf morts dans le crash d'un petit avion en Floride, une enquête ouverte",
+      "summary_original": "Un petit avion d'affaires s'est écrasé dans le comté de Palm Beach en Floride, ce dimanche, causant la mort de neuf personnes. L'accident s'est produit à seulement 10 km à vol d'oiseau de la résidence Mar-a-Lago de Donald Trump.",
+      "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/etats-unis-neuf-morts-dans-le-crash-d-un-petit-avion-en-floride-une-enquete-ouverte_AD-202611010449.html",
+      "published": "2026-11-02T07:55:51+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Mobilisations sociales: \"Les doctrines, théories et tactiques du maintien de l'ordre ont évolué à chaque échec\", explique Alain Bauer, professeur émérite de criminologie, auteur de \"Il faut sauver nos enfants\"",
+      "title_original": "OM-Toulouse: \"Paixao fait des lives Tik Tok\", Gouiri explique la célébration originale des Marseillais",
+      "summary_original": "Après la victoire de l’OM contre Toulouse, ce dimanche en clôture de la 9e journée de Ligue 1 (2-0), Amine Gouiri a expliqué la célébration des Marseillais sur son but, en référence aux activités de streamer d’Igor Paixao.",
+      "url": "https://rmcsport.bfmtv.com/football/ligue-1/om-toulouse-paixao-fait-des-lives-tik-tok-gouiri-explique-la-celebration-originale-des-marseillais_AV-202611010448.html",
+      "published": "2026-11-02T07:52:39+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Manifestations : les Français commencent à saturer - 01/11",
+      "summary_original": "Chaque week-end, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.",
+      "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-manifestations-les-francais-commencent-a-saturer-01-11_VN-202611010451.html",
+      "published": "2026-11-02T07:46:12+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Israël: le président de la commission électorale assure que les soupçons d'irrégularités ne remettront pas en cause les résultats",
+      "summary_original": "Les résultats des législatives en Israël, qui ont notamment vu la percée de deux partis arabes, ne seront pas remis en cause par les soupçons d'irrégularités, a affirmé dimanche le président de la commission électorale, tout en confirmant l'existence d'une enquête.",
+      "url": "https://www.bfmtv.com/international/moyen-orient/israel/israel-le-president-de-la-commission-electorale-assure-que-les-soupcons-d-irregularites-ne-remettront-pas-en-cause-les-resultats_AD-202611010447.html",
+      "published": "2026-11-02T07:46:09+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "2027 : Philippe refuse de participer à une primaire - 01/11",
+      "summary_original": "Chaque week-end, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.",
+      "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-2027-philippe-refuse-de-participer-a-une-primaire-01-11_VN-202611010446.html",
+      "published": "2026-11-02T07:40:54+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Mobilisations: Igor Sahiri, grand reporter BFMTV, raconte le travail des journalistes sur le terrain",
+      "summary_original": "L'extrait a beaucoup circulé sur les réseaux sociaux ces derniers jours. Lors de la couverture d'une journée de mobilisation sociale, Igor Sahiri, grand reporter BFMTV, a échangé avec une manifestante qui tentait de perturber un duplex. Il explique sa démarche et lui propose une interview pour exprimer ses revendications. Plus largement, Igor Sahiri, revient sur les conditions de travail des journ",
+      "url": "https://www.bfmtv.com/societe/manifestations/video-mobilisations-igor-sahiri-grand-reporter-bfmtv-raconte-le-travail-des-journalistes-sur-le-terrain_VN-202611010444.html",
+      "published": "2026-11-02T07:35:38+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Mobilisations sociales: \"La liberté de manifester est un droit fondamental dans notre pays\", rappelle Marine Tondelier, candidate \"EELV\" à l'élection présidentielle",
       "summary_original": "Grève, blocage des établissements... Plusieurs grands rendez-vous sont annoncés par les organisations syndicales cette semaine, notamment mardi pour les lycéens et étudiants et jeudi pour une grève générale.",
-      "url": "https://www.bfmtv.com/societe/manifestations/video-mobilisations-sociales-les-doctrines-theories-et-tactiques-du-maintien-de-l-ordre-ont-evolue-a-chaque-echec-explique-alain-bauer-professeur-emerite-de-criminologie-auteur-de-il-faut-sauver-nos-enfants_VN-202611010410.html",
-      "published": "2026-11-02T05:36:29+09:00",
+      "url": "https://www.bfmtv.com/politique/europe-ecologie-les-verts/video-mobilisations-sociales-la-liberte-de-manifester-est-un-droit-fondamental-dans-notre-pays-rappelle-marine-tondelier-candidate-eelv-a-l-election-presidentielle_VN-202611010439.html",
+      "published": "2026-11-02T07:22:05+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Mobilisations sociales: \"On ne peut plus supporter que de samedi en samedi, les choses finissent mal\", lance Benoît Payan, maire DVG de Marseille",
-      "summary_original": "Grève, blocage des établissements... Plusieurs grands rendez-vous sont annoncés par les organisations syndicales cette semaine, notamment mardi pour les lycéens et étudiants et jeudi pour une grève générale.",
-      "url": "https://www.bfmtv.com/politique/video-mobilisations-sociales-on-ne-peut-plus-supporter-que-de-samedi-en-samedi-les-choses-finissent-mal-lance-benoit-payan-maire-dvg-de-marseille_VN-202611010408.html",
-      "published": "2026-11-02T05:24:41+09:00",
+      "title_original": "Midterms: aux États-Unis, des électeurs affichent leur couleur politique dans leur jardin",
+      "summary_original": "Lors des élections de mi-mandat aux États-Unis du 3 novembre, l'ensemble des sièges de la Chambre des représentants et une partie des postes de sénateurs seront renouvelés. Une échéance aux enjeux importants pour Donald Trump et son parti qui risquent de perdre leur majorité.",
+      "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-midterms-aux-etats-unis-des-electeurs-affichent-leur-couleur-politique-dans-leur-jardin_VN-202611010437.html",
+      "published": "2026-11-02T07:17:16+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "BFMTV",
-      "title_original": "Pompier blessé par balle près de Marseille: \"La blessure est d'une gravité extrêmement importante\", explique Benoît Payan, maire DVG de Marseille",
-      "summary_original": "Un pompier a été blessé, ce dimanche, par un tir d'arme à feu lors d'une intervention aux Pennes-Mirabeau, près de Marseille, a appris BFMTV. Lui et ses collègues intervenaient pour un feu de poids lourd et de véhicules légers.",
-      "url": "https://www.bfmtv.com/politique/video-pompier-blesse-par-balle-pres-de-marseille-la-blessure-est-d-une-gravite-extremement-importante-explique-benoit-payan-maire-dvg-de-marseille_VN-202611010406.html",
-      "published": "2026-11-02T05:17:20+09:00",
+      "source": "Le Monde",
+      "title_original": "Kimi Antonelli, sacré champion du monde de F1 à 20 ans, le pari gagnant de Mercedes",
+      "summary_original": "Le pilote italien, issu de la filière de formation des « Flèches d’argent », devient le plus jeune champion du monde de l’histoire de la catégorie reine de la vitesse.",
+      "url": "https://www.lemonde.fr/sport/article/2026/11/01/kimi-antonelli-sacre-champion-du-monde-de-f1-a-20-ans-le-pari-gagnant-de-mercedes_6804705_3242.html",
+      "published": "2026-11-02T07:25:01+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "BFMTV",
-      "title_original": "Karim Bouamrane, maire PS de Saint-Ouen, face à Robert Ménard, maire DVD de Béziers",
-      "summary_original": "Karim Bouamrane, maire PS de Saint-Ouen, candidat à l'élection présidentielle et Robert Ménard, maire DVD de Béziers, étaient les invités de Sonia Mabrouk ce 1er novembre sur BFMTV.",
-      "url": "https://www.bfmtv.com/politique/parti-socialiste/video-karim-bouamrane-maire-ps-de-saint-ouen-face-a-robert-menard-maire-dvd-de-beziers_VN-202611010407.html",
-      "published": "2026-11-02T05:13:35+09:00",
+      "source": "Le Monde",
+      "title_original": "Le crash d’un petit avion privé en Floride fait neuf morts, selon le ministre des transports américain",
+      "summary_original": "Le régulateur aérien américain a annoncé qu’il mènerait une enquête avec l’agence fédérale américaine de sécurité des transports pour faire la lumière sur cet accident mortel.",
+      "url": "https://www.lemonde.fr/international/article/2026/11/01/le-crash-d-un-petit-avion-prive-en-floride-fait-neuf-morts-selon-le-ministre-des-transports_6804672_3210.html",
+      "published": "2026-11-02T06:41:20+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "BFMTV",
-      "title_original": "Aujourd'hui, '\"la priorité absolue, c'est l'école\", juge Robert Ménard, maire DVD de Béziers",
-      "summary_original": "Robert Ménard, maire DVD de Béziers, était face à Karim Bouamrane, maire PS de Saint-Ouen, ce 1er novembre sur BFMTV.",
-      "url": "https://www.bfmtv.com/politique/parti-socialiste/video-aujourd-hui-la-priorite-absolue-c-est-l-ecole-juge-robert-menard-maire-dvd-de-beziers_VN-202611010405.html",
-      "published": "2026-11-02T05:08:30+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BFMTV",
-      "title_original": "Près de Marseille, un sapeur-pompier blessé par balle lors d'une intervention, le suspect interpellé",
-      "summary_original": "Un pompier a été blessé, ce dimanche, par un tir d'arme à feu lors d'une intervention aux Pennes-Mirabeau, près de Marseille, a appris BFMTV. Lui et ses collègues intervenaient pour un feu de poids lourd et de véhicules légers.",
-      "url": "https://www.bfmtv.com/police-justice/video-pres-de-marseille-un-sapeur-pompier-blesse-par-balle-lors-d-une-intervention-le-suspect-interpelle_VN-202611010399.html",
-      "published": "2026-11-02T04:54:35+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BFMTV",
-      "title_original": "La France \"est devenue un pays méprisant\", estime Karim Bouamrane, maire PS de Saint-Ouen, candidat à l'élection présidentielle",
-      "summary_original": "La journée de mobilisation du samedi 31 octobre s'est déroulée globalement dans le calme partout en France, malgré quelques heurts entre forces de l'ordre et éléments perturbateurs. Près d'un demi-million de personnes étaient mobilisées selon l'intersyndicale de la jeunesse, contre 320.000 d'après le ministère de l'Intérieur. 779 interpellations ont eu lieu en France, selon le ministère de l'Intér",
-      "url": "https://www.bfmtv.com/politique/parti-socialiste/video-la-france-est-devenue-un-pays-meprisant-estime-karim-bouamrane-maire-ps-de-saint-ouen-candidat-a-l-election-presidentielle_VN-202611010394.html",
-      "published": "2026-11-02T04:34:14+09:00",
+      "source": "Le Monde",
+      "title_original": "Pierre-Olivier Costa retrouve la présidence du Mucem après sa suspension",
+      "summary_original": "Pierre-Olivier Costa, suspendu depuis fin juin dans un contexte de tensions sociales et d’enquêtes sur des faits de « mal-être au sein du musée marseillais », a retrouvé ses fonctions et entend se rendre à son bureau dès lundi, a-t-il annoncé à l’AFP.",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/01/pierre-olivier-costa-retrouve-la-presidence-du-mucem-apres-sa-suspension_6804671_3224.html",
+      "published": "2026-11-02T06:06:15+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -320,6 +347,15 @@
     },
     {
       "source": "Le Monde",
+      "title_original": "Réédition de « De la démocratie en Amérique » de Tocqueville : « Devrions-nous nous pencher sur l’évolution récente de la société états-unienne pour analyser comment meurent les démocraties ? »",
+      "summary_original": "A quelques jours des élections cruciales de mi-mandat qui se tiendront aux Etats-Unis le 3 novembre, les éditions Calmann-Lévy rééditent l’essai majeur d’Alexis de Tocqueville, « De la démocratie en Amérique » (1835). L’universitaire Dominique Schnapper, directrice d’études à l’Ecole des hautes études en sciences sociales, donne, dans une préface inédite à l’ouvrage, son analyse de la vie politiqu",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/01/reedition-de-de-la-democratie-en-amerique-de-tocqueville-devrions-nous-nous-pencher-sur-l-evolution-recente-de-la-societe-etats-unienne-pour-analyser-comment-meurent-les-democraties_6804534_3232.html",
+      "published": "2026-11-02T03:00:10+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
       "title_original": "Mouvement lycéen : les incertitudes de la rentrée scolaire alors que la jeunesse mobilisée veut « maintenir la pression »",
       "summary_original": "Malgré les engagements pris par le gouvernement, les organisations lycéennes et étudiantes ont appelé à bloquer les établissements à partir de lundi, ou de mardi. Mais, alors que la pression du baccalauréat et de Parcoursup grandit, une partie des élèves s’interroge.",
       "url": "https://www.lemonde.fr/societe/article/2026/11/01/mouvement-lyceen-les-incertitudes-de-la-rentree-scolaire-alors-que-la-jeunesse-mobilisee-veut-maintenir-la-pression_6804533_3224.html",
@@ -328,39 +364,21 @@
       "state_media": false
     },
     {
-      "source": "Le Monde",
-      "title_original": "Pompier blessé par balle près de Marseille : un homme interpellé, annonce le préfet",
-      "summary_original": "L’homme, d’abord « retranché » sur place « est actuellement remis aux autorités de la police judiciaire », a déclaré dimanche le préfet des Bouches-du-Rhône.",
-      "url": "https://www.lemonde.fr/societe/article/2026/11/01/pompier-blesse-par-balle-pres-de-marseille-un-homme-interpelle-annonce-le-prefet_6804532_3224.html",
-      "published": "2026-11-02T02:37:46+09:00",
-      "via": "rss",
+      "source": "Les Echos",
+      "title_original": "Bulgarie : la prorusse Iliana Iotova élue présidente malgré une faible participation",
+      "summary_original": "Bulgarie : la prorusse Iliana Iotova élue présidente malgré une faible participation Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWkU5dFRNeUxBVTVFMlotOFpXOXNja1RLaEhuY3J4c19rTUxmbUcxWEJhTjlyYnd0RDd1c2RSTlNwRVlWMG1OWlUwS0t2S0xMWmNNTUZ4MmJpR2xfVmEzeTdRc0V3bm1fZkdZSmZqWThyT0Q5WVFPYl9WdE1iTHZIYXFVUi1xSEluWFc1ZEp3LXcwX2c4TXI0cFBNQ3NJU0IxMW55NzF5RHdKX3Y1OUtISUFmaENHZHk4VGlPZWdvRlhEeWlqWGc?oc=5",
+      "published": "2026-11-02T07:14:57+09:00",
+      "via": "google_news",
       "state_media": false
     },
     {
-      "source": "Le Monde",
-      "title_original": "Ce qu’il faut retenir de l’actualité du week-end des 31 octobre et 1er novembre",
-      "summary_original": "Vous n’avez pas suivi l’actualité ces derniers jours ? Voici ce qu’il s’est passé pendant ces dernières quarante-huit heures.",
-      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/01/ce-qu-il-faut-retenir-de-l-actualite-du-week-end-des-31-octobre-et-1er-novembre_6804531_4355770.html",
-      "published": "2026-11-02T02:30:06+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "Halloween : les images impressionnantes des cortèges des quatre coins du monde",
-      "summary_original": "De New York à Hongkong, les traditionnels cortèges d’Halloween ont défilé dans les villes du monde entier pour la terrifiante soirée du 31 octobre.",
-      "url": "https://www.lemonde.fr/flux-video-immersif/video/2026/11/01/halloween-les-images-impressionnantes-des-corteges-des-quatre-coins-du-monde_6804530_6717263.html",
-      "published": "2026-11-02T02:10:19+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "En Ukraine, les habitants d’Olechky évacués : « Nous ne savons pas où aller, mais une chose est sûre : nous survivrons »",
-      "summary_original": "A la faveur d’un cessez-le-feu de six jours entre Moscou et Kiev, environ 700 personnes ont pu sortir d’Olechky, un « no man’s land » situé en pleine ligne de front où la population, abandonnée, souffrait de très graves pénuries de nourriture et de médicaments.",
-      "url": "https://www.lemonde.fr/international/article/2026/11/01/en-ukraine-les-habitants-d-olechky-evacues-nous-ne-savons-pas-ou-aller-mais-une-chose-est-sure-nous-survivrons_6804529_3210.html",
-      "published": "2026-11-02T01:56:32+09:00",
-      "via": "rss",
+      "source": "Les Echos",
+      "title_original": "Dissolution par Transmission Universelle du Patrimoine (TUP) - Yvelines - ALP01572842 - Les Echos",
+      "summary_original": "Dissolution par Transmission Universelle du Patrimoine (TUP) - Yvelines - ALP01572842 Les Echos - Annonces légales",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVnhULV9TcUdadDVrZzcxSXp6dzhyc0pWX3Y3eTIwbi11MkRkU1BQRXFkN3lMZ2lKbHltcUsxODBkQ0JERUROR1ZtQkU4VkpJanZYSDBpRkVUckg1ejlRZXFmSDRKLWZ1MVRhMDlYWUVnMlROV1I0UmkxbWgyVDZZb0I4alpZeEhoTWVtMnNvbE9CVlI1TWUxSFdSWmlqdw?oc=5",
+      "published": "2026-11-02T06:36:04+09:00",
+      "via": "google_news",
       "state_media": false
     },
     {
@@ -369,6 +387,24 @@
       "summary_original": "Quand le maire socialiste de Paris appelle le gouvernement à adopter le budget 2027 par ordonnances Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQWVDUEZrbzdFS1Z5Ml91aDFtSWpQU0ZMMnV3MmhibFBBSGFEMUFDUGV0Z1d1YWRVdjg5QnNLOGNnQUlhUDdUNXY3Y0p1by05MGdiUjR3TVRyQ09ySHBvdkNuNW9RT3FHSWF4Y2FFRWNacXVTaVhIWC1lQUZuN0RQY1NWa19QMGMtX3otY19DZmpqYXNwS1h6TmhueVp6Y3BxVzlzNVhKY3d1UDFRUlZXakdVQmY3NnZTdzJjZGJ6TWY2YU5OcHdCeVhkMVZmcmN6TnJJTzNOdlg2cHZIZHMxR1VBQnFsWHVhcVJ1VXdxQ3cxb2RXX3Rn?oc=5",
       "published": "2026-11-02T03:41:07+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "Constitution EURL - Essonne - ALP01572852 - Les Echos",
+      "summary_original": "Constitution EURL - Essonne - ALP01572852 Les Echos - Annonces légales",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa0w3S1dsV2pmV2dQS3ZBWVdkaFhTd1dYUjJVaDF3TFBneU1qbnptWTY5Y0lzeEZrNkJ1RUt1NENDUHpXRVNCRW5RRENxZVduSGpsV3ljZWwxVlR1dE52Sk5MQWNKVTVKTmsyVXdHVTF6SXlsWFpUY0VGMmVLUmJ0Y2Zzb1hVMHV5amgzZlAtRmU0cVpFT3AzR1gzLUdmQQ?oc=5",
+      "published": "2026-11-02T03:38:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "USA/Midterms : Trump en meeting dans l'Iowa et le Kansas avant le scrutin",
+      "summary_original": "USA/Midterms : Trump en meeting dans l'Iowa et le Kansas avant le scrutin Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQ0tCUW5HZFdrRmJvUEIzQzF2bnFGT2NrSVVVeHl6QVZzUmYxZEJaZ2FFWmxVSFZORWhTa2ljaFYzMlRJeXBBcUVUSERyekJRSF9FdkZLamxsR3c4SG5IYmc2UkV2cDhJamtLSUlCVjFPOExVN3B5R3hNVlNDbmI0SUNmamV2VnYwSjliUzA3ZmZveHRfWjlSTWlnXy1mMlNxZkdjWHBjRV92VVRWZ2ZxM3ZkSU1RWlctVVRla25US0tJNUZoSDM3enhJWFh0OU1lSFkwWlpWczk?oc=5",
+      "published": "2026-11-02T02:54:04+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -400,56 +436,65 @@
       "state_media": false
     },
     {
-      "source": "Les Echos",
-      "title_original": "Semaine sociale à haut risque pour le gouvernement, coup de pouce significatif en vue sur le SMIC",
-      "summary_original": "Semaine sociale à haut risque pour le gouvernement, coup de pouce significatif en vue sur le SMIC Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcFl2NDlPU25zc0VUOTZyUHdhUjFNRXBaU0lVSnllT2d3aXg5MkdBTWRwYlVuNW5tQzR3RHZZZ283a3BIZTFlQV90TXNaemRPQTFVb1FOSjMxay1XVHBvbTgwTEpRUldsNkd2MU9WUWlhaThSSU92ZEptR25Ua1dFejAxM2dQYW5Xd1lfYXQ0dlJreUcyS1M2Vm9LQlc3MnZhLS12dkt5bEZfQWlrVnBuX3RrODFheVF6MTdkR05kMWtxYURWUTdPN2FCTExBWE9qMFFhbFVVa1B2ZDFpNEE?oc=5",
-      "published": "2026-11-02T01:37:51+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Les Echos",
-      "title_original": "Intel, roi déchu des puces et roi déçu du cash",
-      "summary_original": "Intel, roi déchu des puces et roi déçu du cash Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdW5qXzEtV2pteU02aGZOMG9CVk9za3luX196VDBUQjdQOHgwWmJnZHM5WUlzWWswY0xEX2tNSTZ3WEhyRDVLSGpKMmlIT0VxTlR0UHQ2eklCZEhDNzZNalR4WHVhVWYzR2JYbTBoOFFhdTBoUmlYa0hKbHZndktPU0VzNmFvdkQ1OEJ0TTlmbTd3cTNJNG15Z1E5N3RjVGNjbEhiTXloSVJsSU55RjJsN0RoUGk?oc=5",
-      "published": "2026-11-02T01:12:44+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Les Echos",
-      "title_original": "Coupe-faim : le Wegovy oral arrive lundi dans les pharmacies françaises et sera non remboursable",
-      "summary_original": "Coupe-faim : le Wegovy oral arrive lundi dans les pharmacies françaises et sera non remboursable Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMHVuOHhHa0xjT0pFczU0X2hPRVZKLTRqOUQ3NEItNEpJak84b3BVSnhuYTJNbnNmN19qckRxR096ZzZSRFphellBV1NpejA5bmNJVUhwMVhVZ01wOWJ4dlFEYXBCdDJCbWpwYndwTi1jNzNvMmRudE53VEhqbW85TVRjSjladEN3bTlIbEttMHozRldJZEpwNzA0UGFiYndRcUthb2V0dTZnamFDWGpiM2FNTU1WR2FUdFBMM2RCbmFqdGFJWm02enlKZ1NfM280VjJYRGZONWJCeWt3Ry0zdVJsQUV1OVFGbnAwc1BCVWZaeWs?oc=5",
-      "published": "2026-11-02T01:00:09+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Les Echos",
-      "title_original": "Croissance, déficit : arrêter la casse",
-      "summary_original": "Croissance, déficit : arrêter la casse Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVnF1RnMzeDJtejJwQW5HaWxJQk03ZEl5ZlZ4REx3ZFdJSlhTcFFRMzFJdnVJdlM4VS1mOTV1cnNsS1VxcjdSOTFMUzY4Y1RCVzdJMzNTQ0xERXdROUNJTXd5SUl2MGp1RjNGaUpIQ1RFamU3a0gtQWZTeXhyd1YzRFdzLU1pRURlTk9wdWpEY0tqNHZRVGxPQzB3d0k?oc=5",
-      "published": "2026-11-02T00:50:08+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
       "source": "Le Figaro",
-      "title_original": "EN DIRECT - Formule 1 : drapeau rouge à Mexico, grande bataille finale à venir",
-      "summary_original": "Le GP du Mexique, ce dimanche, pourrait bien voir l’Italien Kimi Antonelli devenir champion du monde pour la première fois. Il partira en troisième position sur la grille de départ.",
-      "url": "https://www.lefigaro.fr/sports/formule-1/en-direct-formule-1-jour-de-gloire-pour-kimi-antonelli-au-mexique-20261101",
-      "published": "2026-11-02T06:10:19+09:00",
+      "title_original": "Route du Rhum : Laperche en tête, Le Cleac’h dauphin, Caudrelier au pied du podium… Un point sur le classement de la catégorie Ultim",
+      "summary_original": "Le coup d’envoi de la 13e édition de la Route du Rhum a été donné ce dimanche à 13h02 précises. Voici un point sur le classement de l’Ultim, catégorie reine de cette course.",
+      "url": "https://www.lefigaro.fr/sports/voile/route-du-rhum-laperche-en-tete-le-cleac-h-dauphin-caudrelier-au-pied-du-podium-un-point-sur-le-classement-de-la-categorie-ultim-20261101",
+      "published": "2026-11-02T08:07:01+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Le Figaro",
-      "title_original": "Guerre en Iran : Trump aurait échangé avec Netanyahou sur les suites à donner au conflit",
-      "summary_original": "Selon Axios, le président américain a dit vouloir privilégier la voie diplomatique pour résoudre le conflit,",
-      "url": "https://www.lefigaro.fr/international/guerre-en-iran-trump-aurait-echange-avec-netanyahou-sur-les-suites-a-donner-au-conflit-20261101",
-      "published": "2026-11-02T06:07:18+09:00",
+      "title_original": "Guerre en Ukraine : Zelensky conditionne l'arrêt des frappes sur les raffineries russes à la fourniture de missiles américains",
+      "summary_original": "Confronté à une inflation alimentée en grande partie par la flambée des prix de l’énergie provoquée par les conflits en Iran et entre la Russie et l’Ukraine, Donald Trump a exigé que ces deux pays cessent d’attaquer mutuellement leurs sites énergétiques.",
+      "url": "https://www.lefigaro.fr/flash-actu/guerre-en-ukraine-zelensky-conditionne-l-arret-des-frappes-sur-les-raffineries-russes-a-la-fourniture-de-missiles-americains-20261101",
+      "published": "2026-11-02T07:57:50+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Formule 1 : Verstappen s’offre la victoire au Mexique, Antonelli assure son titre de champion du monde avec un podium",
+      "summary_original": "Max Verstappen a remporté une troisième course cette saison au Grand Prix du Mexique, où Kimi Antonelli a validé son sacre en signant un joli podium derrière Lewis Hamilton.",
+      "url": "https://www.lefigaro.fr/sports/formule-1/formule-1-verstappen-s-offre-une-nouvelle-victoire-au-mexique-antonelli-assure-son-titre-avec-de-champion-du-monde-avec-un-podium-20261101",
+      "published": "2026-11-02T07:53:47+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "«Calomnies racistes» : fâché contre TF1 et l'interview d’Édouard Philippe, Jean-Luc Mélenchon annule un passage au «20 heures»",
+      "summary_original": "«Anne-Claire Coudray reprend à son compte les calomnies racistes d’Édouard Philippe», a notamment fustigé le tribun insoumis.",
+      "url": "https://tvmag.lefigaro.fr/programme-tv/actu-tele/calomnies-racistes-fache-contre-tf1-et-l-interview-d-edouard-philippe-jean-luc-melenchon-annule-un-passage-au-20-heures-20261101",
+      "published": "2026-11-02T07:53:36+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Pau-Toulouse : Manu et la troisième-ligne en forme, les cadres toulousains dans le dur… Les tops et les flops",
+      "summary_original": "DÉCRYPTAGE - Découvrez ce qui a retenu l’attention du Figaro après la large victoire de Pau face à Toulouse (34-14) en Top 14.",
+      "url": "https://www.lefigaro.fr/sports/rugby/top-14/pau-toulouse-manu-et-la-troisieme-ligne-en-forme-les-cadres-toulousains-dans-le-dur-les-tops-et-les-flops-20261101",
+      "published": "2026-11-02T07:43:55+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Formule 1 : Kimi Antonelli, le sacre d’un monstre de précocité",
+      "summary_original": "PORTRAIT - À 20 ans, l’Italien est devenu le plus jeune champion du monde de l’histoire ce dimanche lors du Grand Prix du Mexique.",
+      "url": "https://www.lefigaro.fr/sports/formule-1/formule-1-kimi-antonelli-le-sacre-d-un-monstre-de-precocite-20261101",
+      "published": "2026-11-02T07:30:35+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "EN DIRECT - Colère sociale : Édouard Philippe invite les lycéens à «saisir la main tendue par le gouvernement» et à «reprendre leur année scolaire»",
+      "summary_original": "Invité du 20 Heures de TF1, le candidat Horizons à la présidentielle a déclaré qu’il est désormais «important que les lycéens puissent reprendre leur année scolaire», alors que de nouveaux blocages sont prévus lundi.",
+      "url": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-plusieurs-centaines-de-milliers-de-manifestants-samedi-dans-l-hexagone-avant-la-journee-de-greve-du-5-novembre-20261101",
+      "published": "2026-11-02T06:58:02+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -459,51 +504,6 @@
       "summary_original": "Le tireur s’était retranché dans une zone commerciale aux Pennes-Mirabeau, dans les Bouches-du-Rhône. La victime, un père de famille âgé de 51 ans, est «très grièvement blessée», selon le préfet.",
       "url": "https://www.lefigaro.fr/marseille/un-sapeur-pompier-blesse-par-balle-dans-les-bouches-du-rhone-alors-qu-il-intervenait-sur-un-feu-20261101",
       "published": "2026-11-02T05:55:19+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "Présidentielle 2027 : Édouard Philippe rejette la «primaire des démocrates» proposée par Gabriel Attal",
-      "summary_original": "Invité dimanche soir du «20 heures» de TF1, le candidat Horizons à la présidentielle a fustigé une idée qui «se propose de rassembler des gens qui ne sont pas d’accord».",
-      "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-edouard-philippe-rejette-la-primaire-des-democrates-proposee-par-gabriel-attal-20261101",
-      "published": "2026-11-02T05:43:54+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "EN DIRECT - Colère sociale : Édouard Philippe invite les lycéens à «saisir la main tendue par le gouvernement» et à «reprendre leur année scolaire»",
-      "summary_original": "Invité du 20 Heures de TF1, le candidat Horizons à la présidentielle a déclaré qu’il est désormais «important que les lycéens puissent reprendre leur année scolaire», alors que de nouveaux blocages sont prévus lundi.",
-      "url": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-plusieurs-centaines-de-milliers-de-manifestants-samedi-dans-l-hexagone-avant-la-journee-de-greve-du-5-novembre-20261101",
-      "published": "2026-11-02T05:42:02+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "iPhone Duo contre Galaxy Z Fold8 : format, durabilité, prix… Nous avons testé et comparé les deux smartphones pliables",
-      "summary_original": "Sept ans après Samsung, Apple vient bousculer son rival avec un écran magistral… et un tarif prohibitif. Notre comparatif.",
-      "url": "https://www.lefigaro.fr/secteur/high-tech/iphone-duo-contre-galaxy-z-fold8-format-durabilite-prix-nous-avons-teste-et-compare-les-deux-smartphones-pliables-20261101",
-      "published": "2026-11-02T05:00:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "Alaska : la justice rejette une tentative du gouvernement Trump de bloquer la certification d'une élection",
-      "summary_original": "Le ministère de la Justice de Donald Trump avait demandé au tribunal fédéral d’Alaska d’interdire aux autorités de l’État de «certifier» les résultats en cas de victoire de la candidate démocrate Mary Peltola.",
-      "url": "https://www.lefigaro.fr/international/alaska-la-justice-rejette-une-tentative-du-gouvernement-trump-de-bloquer-la-certification-d-une-election-20261101",
-      "published": "2026-11-02T04:50:29+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "« Ces individus hostiles utilisent des artifices de plus en plus violents » : le gendarme brûlé par un engin incendiaire raconte l’attaque qu’il a subie à Paris",
-      "summary_original": "ENTRETIEN - Le capitaine Alexandre a été blessé à la cheville samedi, après avoir été la cible d’un engin incendiaire particulièrement sophistiqué, lors de la manifestation porte de Charenton, à Paris.",
-      "url": "https://www.lefigaro.fr/actualite-france/ces-individus-utilisent-des-artifices-de-plus-en-plus-violents-et-elabores-le-gendarme-brule-par-un-engin-incendiaire-raconte-l-attaque-qu-il-a-subie-20261101",
-      "published": "2026-11-02T04:06:58+09:00",
       "via": "rss",
       "state_media": false
     },
