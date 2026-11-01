@@ -1,7 +1,7 @@
 {
   "team": "ru",
   "team_name_ko": "러시아팀",
-  "collected_at": "2026-11-01T06:13:02.827601+09:00",
+  "collected_at": "2026-11-01T07:51:46.352371+09:00",
   "headlines": [
     {
       "source": "Channel One (1tv)",
@@ -18,6 +18,15 @@
       "summary_original": "Команды. Выпуск от 31.10.2026 Первый канал",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nMWJWbHpKeTRaNmhieDFFdGJWQ1JpRm9ZaUNwNFc4djE5SU9YX0RTb200anYxQ2VNMmxHa1Z1X2ZlTHYtZkJQcjF3aUZaNzFmN0ktclJtcTlWMWp0dEFfbXlOdjNjZ0lSLXRyeUdfQ25DNW5HaEN3Yg?oc=5",
       "published": "2026-11-01T04:48:10+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Channel One (1tv)",
+      "title_original": "Выпуск программы «Время» от 31.10.2026",
+      "summary_original": "Выпуск программы «Время» от 31.10.2026 Первый канал",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NWlJ3STV1U1diVHZ3cjFYMkFlM1FFVTVDM1Zya29hVXp5Vmtwck10dnczOUJrMEJCYmhjZ09fUmthRDRGdEY2N1hBbEtTcnlwSk9F?oc=5",
+      "published": "2026-11-01T03:40:00+09:00",
       "via": "google_news",
       "state_media": true
     },
@@ -59,15 +68,6 @@
     },
     {
       "source": "Channel One (1tv)",
-      "title_original": "Выпуск программы «Время» в 21:00 от 31.10.2026",
-      "summary_original": "Выпуск программы «Время» в 21:00 от 31.10.2026 Первый канал",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YOTBKWDhpSlFHd0ZHZjNtdHZrZHF2WTJSTTlpTV9wMHNQVTV1a1B1ME12VzZBWWwyUFlzSVNrQ2syVS1fVjZKZEViUmg4UHJWb1JZdDFYVXFfZw?oc=5",
-      "published": "2026-11-01T03:24:06+09:00",
-      "via": "google_news",
-      "state_media": true
-    },
-    {
-      "source": "Channel One (1tv)",
       "title_original": "Медики фиксируют вспышку кори в российских регионах",
       "summary_original": "Медики фиксируют вспышку кори в российских регионах Первый канал",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RTWtiM0dvOXJtU05DMm55WFNhbmhwY1VLd0s2eTg5TlcxcmkzRzdIZW93UWwwcl84cllUeVd0VldsVkwzVm52QjVjclJpMzFwM0xB?oc=5",
@@ -81,6 +81,15 @@
       "summary_original": "США не считают, что конфликт на Украине находится на пороге урегулирования vesti.ru",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSTZ0TmtGdGVfWTZsVGozNzhHaDVCMTVVMWMyYnFST24tZnp1Y2NkT0Z2WGpRa1lsWUVPWE9NbktaWlN2aXJLOWpPNXlCZUhkOFc5REFGdnU0R01UR21Mei15Rkh2akVUOEZ5Y19qUE5pMmhmemczVHZKYW9PWEctSUpUTU94SGl3STJSQjRDb2g1SHFlT09oNkdUQTR3MUVTVGJQMU5mSQ?oc=5",
       "published": "2026-11-01T04:10:46+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Rossiya 24 (Vesti)",
+      "title_original": "Трамп признался, что Мелания против его танцев на публике",
+      "summary_original": "Трамп признался, что Мелания против его танцев на публике vesti.ru",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY0VyWm9iUHNGVFNlaFIxOWJURE91eWloTnZMQ0lIM01ici1BQWNWY1NkRnBjNlFCZ01JX1FETHEtSzlZNWI2UFdfc3RTZERHUHFhNVBUR3NoZlNGd3Y1cmpkUU42ZWZBWjIxWC1uRm43LUl0WUFlc3hFRmxYMk5nMklOSmhMSTFzSjA4?oc=5",
+      "published": "2026-11-01T03:23:46+09:00",
       "via": "google_news",
       "state_media": true
     },
@@ -139,157 +148,157 @@
       "state_media": true
     },
     {
-      "source": "Rossiya 24 (Vesti)",
-      "title_original": "В Ростовской области машина влетела в дерево, два человека погибли",
-      "summary_original": "В Ростовской области машина влетела в дерево, два человека погибли vesti.ru",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbmlKTlpNRE5YTGl0WjhfVDRqT1ZVbEp4Ujk4VEZmNkNXeDFHUHZrekNCUXBjbzdFUFJQd3kyaTZaQzNZM3JvZ2RiNnZ1WXNQRXFPbTUtTmQ2REd6NnR4ZzFmMENROHNWazd5WUlJZl9DM01qQnJUTVZ4c3Nhc0M1eVZzNnZucExDVzZJYmh4bXVObmVZOEE?oc=5",
-      "published": "2026-11-01T02:24:13+09:00",
-      "via": "google_news",
-      "state_media": true
-    },
-    {
       "source": "TASS",
-      "title_original": "Наследники Попова. Россия приняла участие в открытии юношеской Олимпиады",
-      "summary_original": "Соревнования будут проходить в Дакаре и завершатся 13 ноября",
-      "url": "https://tass.ru/sport/28275349",
-      "published": "2026-11-01T06:09:32+09:00",
+      "title_original": "Боксер Сауль Альварес вернул титул чемпиона мира WBC",
+      "summary_original": "Мексиканец единогласным решением судей победил француза Кристиана Мбилли",
+      "url": "https://tass.ru/sport/28275447",
+      "published": "2026-11-01T07:50:11+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "TASS",
-      "title_original": "Россиянам необходимо уплатить налоги за 2025 год до конца ноября",
-      "summary_original": "",
-      "url": "https://tass.ru/ekonomika/28275337",
-      "published": "2026-11-01T06:07:29+09:00",
+      "title_original": "Der Standard: в Вене на акции протеста пришли около 100 тыс. человек",
+      "summary_original": "По данным газеты, митингующие собрались у здания парламента республики",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28275441",
+      "published": "2026-11-01T07:50:04+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "TASS",
-      "title_original": "В Киеве произошли взрывы",
+      "title_original": "В аэропортах Самары, Саранска, Ульяновска и Чебоксар сняли ограничения",
       "summary_original": "",
-      "url": "https://tass.ru/proisshestviya/28275317",
-      "published": "2026-11-01T06:05:40+09:00",
+      "url": "https://tass.ru/ekonomika/28275445",
+      "published": "2026-11-01T07:46:34+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "TASS",
-      "title_original": "В РФ вступил в силу ГОСТ на слитки палладия",
+      "title_original": "В ГД рассказали, сколько рабочих суббот ждет россиян в 2027 году",
       "summary_original": "",
-      "url": "https://tass.ru/ekonomika/28275347",
-      "published": "2026-11-01T06:05:39+09:00",
+      "url": "https://tass.ru/obschestvo/28275443",
+      "published": "2026-11-01T07:46:19+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "TASS",
-      "title_original": "Визовой режим для россиян для въезда в Черногорию вступил в силу",
-      "summary_original": "",
-      "url": "https://tass.ru/obschestvo/28275335",
-      "published": "2026-11-01T06:05:29+09:00",
+      "title_original": "Врач Шахмарданов сообщил, какие осложнения у беременных вызывает лихорадка Зика",
+      "summary_original": "В частности, речь идет о синдроме Гийена-Барре у новорожденного, добавил доктор медицинских наук",
+      "url": "https://tass.ru/obschestvo/28275437",
+      "published": "2026-11-01T07:37:19+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "TASS",
-      "title_original": "Страны ОПЕК+ обсудят планы по добыче нефти на декабрь",
-      "summary_original": "",
-      "url": "https://tass.ru/ekonomika/28275321",
-      "published": "2026-11-01T06:04:27+09:00",
+      "title_original": "В Берлине задержали более 60 участников акций протеста",
+      "summary_original": "Пострадали 27 полицейских",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28275433",
+      "published": "2026-11-01T07:26:31+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "TASS",
-      "title_original": "Фицо поблагодарил МИД за проведение словацко-российской межправкомиссии",
-      "summary_original": "",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28275345",
-      "published": "2026-11-01T06:04:26+09:00",
+      "title_original": "В ОП предупредили о мошенничестве с призами ко Дню народного единства",
+      "summary_original": "Жертвы ради получения \"денежного приза\" переходят по ссылке из СМС, что позволяет аферистам завладеть их персональными и банковскими данными, рассказал зампред комиссии Общественной палаты по общественному контролю и работе с обращениями граждан Евгений Машаров",
+      "url": "https://tass.ru/obschestvo/28275435",
+      "published": "2026-11-01T07:26:01+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "TASS",
-      "title_original": "В Болгарии пройдет второй тур выборов президента",
-      "summary_original": "",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28275323",
-      "published": "2026-11-01T06:04:13+09:00",
+      "title_original": "Домодедово обслуживает рейсы по согласованию",
+      "summary_original": "Это связано с введением временных ограничений на использование воздушного пространства",
+      "url": "https://tass.ru/ekonomika/28275427",
+      "published": "2026-11-01T07:15:10+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "RIA Novosti",
-      "title_original": "Казахстанская фигуристка Самоделкина идет пятой на Skate Canada",
+      "title_original": "В России начал действовать стандарт по подарочным наборам новорожденным",
       "summary_original": "",
-      "url": "https://ria.ru/20261101/figuristy-2128385202.html",
-      "published": "2026-11-01T06:10:33+09:00",
+      "url": "https://ria.ru/20261101/rossija-2128391187.html",
+      "published": "2026-11-01T07:49:14+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "RIA Novosti",
-      "title_original": "Черногория вводит визы для россиян",
+      "title_original": "Аэропорт Хургады установил рекорд по числу пассажиров за сутки",
       "summary_original": "",
-      "url": "https://ria.ru/20261101/chernogorija-2128384909.html",
-      "published": "2026-11-01T06:07:41+09:00",
+      "url": "https://ria.ru/20261101/khurgada-2128391006.html",
+      "published": "2026-11-01T07:47:56+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "RIA Novosti",
-      "title_original": "Соцфонд пересчитает надбавку к пенсии некоторым категориям пенсионеров",
+      "title_original": "Новый ГОСТ на растворимые кофейные напитки вступил в силу в России",
       "summary_original": "",
-      "url": "https://ria.ru/20261101/pensiya-2128384740.html",
-      "published": "2026-11-01T06:05:52+09:00",
+      "url": "https://ria.ru/20261101/gost-2128390825.html",
+      "published": "2026-11-01T07:43:26+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "RIA Novosti",
-      "title_original": "В аэропорту Калуги ввели временные ограничения",
+      "title_original": "Профессор объяснил, почему языки экс-метрополий сохраняют статус в Африке",
       "summary_original": "",
-      "url": "https://ria.ru/20261101/aeroporty-2128384602.html",
-      "published": "2026-11-01T06:05:44+09:00",
+      "url": "https://ria.ru/20261101/afrika-2128390608.html",
+      "published": "2026-11-01T07:37:08+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "RIA Novosti",
-      "title_original": "Кучеров сделал три ассиста в первом матче после запроса на обмен",
+      "title_original": "Отстраненному главе КС Польши запретили доступ в здание",
       "summary_original": "",
-      "url": "https://ria.ru/20261031/kucherov-2128384427.html",
-      "published": "2026-11-01T05:55:53+09:00",
+      "url": "https://ria.ru/20261101/polsha-2128390401.html",
+      "published": "2026-11-01T07:32:58+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "RIA Novosti",
-      "title_original": "В Киеве вновь прогремели взрывы",
+      "title_original": "Аэропорт Домодедово принимает и отправляет рейсы по согласованию",
       "summary_original": "",
-      "url": "https://ria.ru/20261031/kiev-2128384263.html",
-      "published": "2026-11-01T05:53:50+09:00",
+      "url": "https://ria.ru/20261101/aeroporty-2128390081.html",
+      "published": "2026-11-01T07:24:45+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "RIA Novosti",
-      "title_original": "Во Франции более 510 человек задержали на протестах против роста цен",
+      "title_original": "Хэмилтон впервые с 2023 года выиграл квалификацию Гран-при \"Формулы-1\"",
       "summary_original": "",
-      "url": "https://ria.ru/20261031/frantsija-2128384069.html",
-      "published": "2026-11-01T05:51:56+09:00",
+      "url": "https://ria.ru/20261101/formula-2128390245.html",
+      "published": "2026-11-01T07:24:45+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "RIA Novosti",
-      "title_original": "В Белгородской области мирный житель пострадал от детонации БПЛА ВСУ",
+      "title_original": "Врач рассказала, кому нельзя есть красную икру",
       "summary_original": "",
-      "url": "https://ria.ru/20261031/belgorod-2128383764.html",
-      "published": "2026-11-01T05:39:06+09:00",
+      "url": "https://ria.ru/20261101/ikra-2128389908.html",
+      "published": "2026-11-01T07:22:49+09:00",
       "via": "rss",
       "state_media": true
+    },
+    {
+      "source": "Interfax",
+      "title_original": "Аэропорт Домодедово работает по согласованию",
+      "summary_original": "Московский аэропорт Домодедово обслуживает рейсы по согласованию с соответствующими органами, сообщили в воскресенье в Росавиации.\"Аэропорт Домодедово принимает и отправляет рейсы по согласованию с соответствующими органами в связи с введением временных ограничений на использование воздушного пространства в районе авиагавани\", - говорится в сообщении агентства в мессенджере Max.",
+      "url": "https://www.interfax.ru/russia/1126346",
+      "published": "2026-11-01T07:45:00+09:00",
+      "via": "rss",
+      "state_media": false
     },
     {
       "source": "Interfax",
@@ -351,15 +360,6 @@
       "summary_original": "Договоренность о регулярных миссиях в Алешках, предупреждение Штатов о подготовке теракта в Москве, \"Динамо\" - лидер РПЛ",
       "url": "https://www.interfax.ru/russia/1126322",
       "published": "2026-11-01T02:30:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Interfax",
-      "title_original": "Рубио считает, что промежуточные выборы в США мало повлияют на внешнюю политику",
-      "summary_original": "Промежуточные выборы, которые пройдут на следующей неделе в США, не окажут существенного влияния на внешнеполитический курс страны, заявил в субботу госсекретарь Марко Рубио.",
-      "url": "https://www.interfax.ru/world/1126337",
-      "published": "2026-11-01T02:23:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -581,6 +581,42 @@
     },
     {
       "source": "RBC",
+      "title_original": "Швеция провела рейд на судне из-за подозрений в связях с Россией",
+      "summary_original": "Швеция провела рейд на судне в Балтийском море у берегов острова Готланд, где, предположительно, могли находиться моряки с российского судна, сообщает TV4.",
+      "url": "https://www.rbc.ru/rbcfreenews/6ae66541b0df3e58a459383d",
+      "published": "2026-11-01T07:47:14+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "Домодедово ввел ограничения на полеты",
+      "summary_original": "В аэропорту Домодедово ввели ограничения на прием и отправку рейсов, сообщает Росавиация.",
+      "url": "https://www.rbc.ru/rbcfreenews/6ae6698005248f5986c38e78",
+      "published": "2026-11-01T07:30:54+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "ФБР обвинило Северную Корею в хищении более $6 млрд с криптобиржи Binance",
+      "summary_original": "Криптобиржу взломали в ночь на 30 октября, с нее вывели свыше $6 млрд. Хищение совершила группировка TraderTraitor, считают в ФБР. Это элитное хакерское подразделение КНДР",
+      "url": "https://www.rbc.ru/technology_and_media/01/11/2026/6ae660ea05248f5986c38e73",
+      "published": "2026-11-01T06:43:23+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "Суд снова отклонил иск Трампа к WSJ и Мердоку по делу о клевете",
+      "summary_original": "Президент США подал иск против издания и медиамагната из-за статьи, в которой ему приписывали отправку Эпштейну «непристойной» открытки. Как постановил суд, Трамп не смог доказать, что ответчики намеревались его оклеветать",
+      "url": "https://www.rbc.ru/politics/01/11/2026/6ae656704402c3b449e2781a",
+      "published": "2026-11-01T06:16:37+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
       "title_original": "Рубио заявил, что США не ждут скорого переговорного решения по Украине",
       "summary_original": "В США не утверждают, что конфликт на Украине на пороге урегулирования, заявил госсекретарь США Марко Рубио по итогам встречи глав МИД G20 в Атланте.",
       "url": "https://www.rbc.ru/rbcfreenews/6ae653ba4402c3b449e2780c",
@@ -612,42 +648,6 @@
       "summary_original": "Как День народного единства повлияет на график выплаты детских пособий и пенсий, а также какие налоги нужно заплатить до декабря — в обзоре «РБК Инвестиций»",
       "url": "https://www.rbc.ru/quote/20/09/2026/6ad70f219a79479ab7b80bf4",
       "published": "2026-11-01T06:01:59+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "RBC",
-      "title_original": "В Болгарии пройдет второй тур выборов президента",
-      "summary_original": "Действующий президент Болгарии Илиана Йотова и бывший премьер-министр Андрей Гюров 1 ноября поборются за пост главы государства во втором туре выборов. Йотова призывала ЕС «позвонить Путину»",
-      "url": "https://www.rbc.ru/politics/01/11/2026/6ae5edef200c69d0bbbeab77",
-      "published": "2026-11-01T06:01:53+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "RBC",
-      "title_original": "В России начал действовать новый ГОСТ на хурму",
-      "summary_original": "В России с 1 ноября начал действовать новый ГОСТ на свежую хурму, следует из документа Росстандарта.",
-      "url": "https://www.rbc.ru/rbcfreenews/6ae61f8792b809aef4d94d3d",
-      "published": "2026-11-01T06:01:27+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "RBC",
-      "title_original": "В Иране допустили пересмотр ядерной доктрины в случае новых ударов США",
-      "summary_original": "Иран остается участником ДНЯО, однако в иранском парламенте заявляли, что рассмотрят предложение о выходе страны из этого Договора, если война возобновится. При этом Тегеран подтвердил попытку властей США наладить переговоры",
-      "url": "https://www.rbc.ru/politics/31/10/2026/6ae64bb81dfdf0fb94e2bcec",
-      "published": "2026-11-01T05:53:12+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "RBC",
-      "title_original": "Над Россией зафиксировали полярные сияния высшего уровня",
-      "summary_original": "Над Россией наблюдаются полярные сияния высшего уровня, сообщили в Лаборатории солнечной астрономии ИКИ РАН.",
-      "url": "https://www.rbc.ru/rbcfreenews/6ae65370cfd3e788bf861448",
-      "published": "2026-11-01T05:49:52+09:00",
       "via": "rss",
       "state_media": false
     }

@@ -1,14 +1,50 @@
 {
   "team": "uk",
   "team_name_ko": "영국팀",
-  "collected_at": "2026-11-01T06:13:02.827601+09:00",
+  "collected_at": "2026-11-01T07:51:46.352371+09:00",
   "headlines": [
     {
       "source": "BBC",
-      "title_original": "Clashes erupt between police and protesters in Paris",
-      "summary_original": "Over 320,000 people protested around France in a third weekend of demonstrations against the rising cost of living and poor public services.",
+      "title_original": "Hamilton takes first pole for Ferrari at Mexico City Grand Prix",
+      "summary_original": "Lewis Hamilton takes his first pole position for Ferrari and his first for more than three years at the Mexico City Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6reyl8zp3jwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T07:33:25+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "summary_original": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T07:11:45+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Why did this Korean content creator throw a divorce ceremony?",
+      "summary_original": "Cho Seung-yeon marked the end of her marriage by having a divorce ceremony - however not everyone online was happy about it.",
+      "url": "https://www.bbc.co.uk/news/videos/c51kd2jyjr1eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T07:01:39+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Thousands demonstrate in Paris as protests spread across Europe",
+      "summary_original": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
       "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T04:37:43+09:00",
+      "published": "2026-11-01T06:29:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Are De Zerbi's Spurs finding elusive consistency?",
+      "summary_original": "Are Spurs finally finding elusive consistency under Roberto de Zerbi after a third successive Premier League win, asks chief football writer Phil McNulty?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T06:16:11+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -36,42 +72,6 @@
       "summary_original": "Manchester United defender Lisandro Martinez condemned for costly red card in 2-0 defeat to Chelsea at Stamford Bridge.",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckvg64xp1e1eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-01T02:27:06+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BBC",
-      "title_original": "Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers",
-      "summary_original": "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.",
-      "url": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T02:26:29+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BBC",
-      "title_original": "'It's been killing me!' Celebrity Traitors winners relieved the secret is out",
-      "summary_original": "The second series of the hit show reached its finale on Friday, attracting a whopping 11.2 million live viewers.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g18l8l4wgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T01:49:18+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BBC",
-      "title_original": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "summary_original": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
-      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T01:32:08+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BBC",
-      "title_original": "Everton striker's relief family not home during burglary",
-      "summary_original": "The French striker says he is relieved his family were not at home as he played against Newcastle United.",
-      "url": "https://www.bbc.co.uk/news/articles/cwm26rnyrk23o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T00:27:55+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -113,15 +113,6 @@
     },
     {
       "source": "Sky News",
-      "title_original": "'Significant development' in Leeds murder investigation as man arrested in London",
-      "summary_original": "Police investigating the killing of a 38-year-old man in an apparent group attack have made an arrest in what is being called a \"significant development\".",
-      "url": "https://news.sky.com/story/significant-development-in-leeds-murder-investigation-as-man-arrested-in-london-13606065",
-      "published": "2026-10-31T19:10:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Sky News",
       "title_original": "Virgin Media O2 to axe thousands of jobs in sweeping shake-up",
       "summary_original": "The telecoms giant Virgin Media O2 (VMO2) is to axe thousands of jobs as it slashes its cost base amid investor concerns about its ability to service its £22bn debt mountain.",
       "url": "https://news.sky.com/story/virgin-media-o2-to-axe-thousands-of-jobs-in-sweeping-shake-up-13606062",
@@ -145,6 +136,42 @@
       "url": "https://news.sky.com/story/king-arrives-in-antigua-and-barbuda-as-burnham-open-to-slavery-apology-13606019",
       "published": "2026-10-31T12:11:00+09:00",
       "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "King to address slavery with 'unflinching honesty' after new Burnham stance | ITV News",
+      "summary_original": "King to address slavery with 'unflinching honesty' after new Burnham stance | ITV News ITVX",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTklrYUdCMV8tbndlVzNLOHk4OFdxWkU0aHhxZVlvdUNjdjg1S3JDbktrb1YzZWdJTnR6cEh6UVBXM2lxWnZjRDUxSmpaNXdlLTNkUXktRUY5SlE0dFdzR0xXNmQ4TDFhMTVvRFloRzNnMFVEdXdkQmF5Z0ZDYUNOZGVaelhPVkx5ZjE2bFIzZnFLR3duVFhTenlyZ3E5bzJEUEVPcXRxd2pQeFBDdEE?oc=5",
+      "published": "2026-11-01T06:57:22+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "NYC mayors says Trump agrees to visa for mother of slain Ghanian teen | ITV News",
+      "summary_original": "NYC mayors says Trump agrees to visa for mother of slain Ghanian teen | ITV News ITVX",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNUpCMlo0WEV6bzFWRTdUQ040MGVQbWRzR00wdzJhSnNXdjZzeVlRSWFpV19Yem93OWRfcTdYaVJvMEZfNFp5ME9mcm5xalpyOWl4XzNsWmstYlpPdkg1anRvSzhOcFQ0UTFGUHV0Ti15RXlvOFJ1aEFGNDZWLXpYTDB3Y0VMVTVfUHN3czZrMFVHS2FMemVnWmdGX3JYTTJWdGdIVWNqTl8?oc=5",
+      "published": "2026-11-01T06:48:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "More than 100 arrested outside US embassy after supporting Palestine Action",
+      "summary_original": "More than 100 arrested outside US embassy after supporting Palestine Action ITVX",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcEJ4UlQza0EyaTA5aVpDZkZBZkNWdGRud1dseER6Z1B4MHBwYy1Zb3NKVnhqdFdzd1FmNjVVSHdvNnpkcTAyWXFRaFYtN3MwZ1FFMlR1a0h1NjdvZTZsSXNGSUE2UGduRlNINjBBSl93OVBxMDQyOTNyUHNyOUk2LTZRSk1ZcS0tOUVYZ1pNYjVpQ2FQMVdkZzY0S19raUZ6aW5oNlF4UmstVE1iWmg1Qw?oc=5",
+      "published": "2026-11-01T06:39:40+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "Rubio says the US government did not facilitate Bolsonaro’s flight to US | ITV News",
+      "summary_original": "Rubio says the US government did not facilitate Bolsonaro’s flight to US | ITV News ITVX",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUGx3SjZMbG85N2x5S1dRQmpCaFJ3MjJZYnVQVlFXYksxeG9YNnU3YjBzQ0NNMUpZRUFSZGxHRHNrajNSOGxVbjd2bmQ1Wlhtek9VaTJPRWJnTmctQ0NZT1F2akN0MFZCZ0tNMXVuXzNROTlIS1F5TC04MWdIRmx4dk9ZQ3E5NkRYbktLSDlfaUhPRGNZMHI1T2FiRXMyNlMzVDFzZ2JqWFlvXzg?oc=5",
+      "published": "2026-11-01T06:34:00+09:00",
+      "via": "google_news",
       "state_media": false
     },
     {
@@ -176,46 +203,19 @@
     },
     {
       "source": "ITV News",
-      "title_original": "Healey hints manifesto pledge on young worker pay not certain before election",
-      "summary_original": "Healey hints manifesto pledge on young worker pay not certain before election ITVX",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEVlQ1B2VlczeXhhWUE0SGdYVktUMDRwSmxyem5PUDRCYld6OGFXVXpmcThwTHhsU1lvTEE4T2xFZXJOeGx1MmI4VnRPczkwRFdnR1I5YmU5VzBwWm5YWk02MG5WdWZjdGlST1N4YW9MVDB3YmxNckJobVFWU0Jtcnk2OGZYR3dlRkNiYk9VZk01ZHY5VkNmQ1pOUnY5dmlXRUc2Q3k1WVJiUFhrb3NwNURNNA?oc=5",
-      "published": "2026-11-01T04:13:26+09:00",
+      "title_original": "ICE agent charged with assault for hitting a fleeing man with his car will turn… | ITV News",
+      "summary_original": "ICE agent charged with assault for hitting a fleeing man with his car will turn… | ITV News ITVX",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbW9QbE1iNnBGdEUzMWtKdmd1NGZVMHdYSGFrTjloY3dLMVcxcEhtTHFhZWVfYlNLbmNNSmkyajFUSlVWUWJoR0J3U3dSMDJPZnQtNmxzeF8xT0tmT0JGU1dTRWxYT0dLTVdjTENMTVFVMkRLZGF0aUttQnZILThFY2pMXzF5eWZiUV9oaUxXZjI3UVJVRlNnRHpFZklWTEo2Skl0SWF0OFdvazBwRE5oaVF1VV85bFdrb3dRSmRBNUluV01JZURpY3JNM2hBeldh?oc=5",
+      "published": "2026-11-01T04:31:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
-      "source": "ITV News",
-      "title_original": "Trump takes a day off from in-person rallies as candidates chase votes | ITV News",
-      "summary_original": "Trump takes a day off from in-person rallies as candidates chase votes | ITV News ITVX",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUUE1cDE3M05IcU5Ca0dJMlF0dHpUdUZqbEUtOU9mUHl0NXpzX2lGbzN6b2pOT29iQ01yVjNxWlhLRm1PeWFtY3B3eS1MZk1xQkt6dldWSGdyZ3Q1WC13MktPdHltcEtZWkNSMWZ1cDcweVlyNlFHaTdiME1LNVR4bVlQTVF1al9NanRGZ2laY2FPeVQ4aXVVMHVxX1loYVctd1A1NU9aWEhIdw?oc=5",
-      "published": "2026-11-01T04:03:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "ITV News",
-      "title_original": "Catch up on ITV News London from Saturday 31 October",
-      "summary_original": "Catch up on ITV News London from Saturday 31 October ITVX",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTU93clZuSU15czRPYzZaNHhmbG9QN2xoVzJsYk5SNnpTZFZ4UlV4em5aaVlUMFVZSFFySlNkUDVkWDdMd2FXTzJGYW0ybDhFS3RISEJQbkJmZjJDeHFqbVU5aXZNQnZ5UGNKaGFKU2dIYUMwX3FMYWp0SUN2bzlLSEwwZDMwQVNDY0VpZVpqTjdCVVZRUXc?oc=5",
-      "published": "2026-11-01T04:00:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "ITV News",
-      "title_original": "Man charged with possessing explosives in north Belfast | ITV News",
-      "summary_original": "Man charged with possessing explosives in north Belfast | ITV News ITVX",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbk82TFRMQWI5cnExV3FjQlhrMkVlYl9kWUl1WE5UM0cxOVBzanlJSG93d2ZfLUpEZDdVWnFlTV9qOWhYeDFfc21UWmljWUlXaVlZVHNCYlNOX2lZMzRQN0NWMzBSdkhHeDNoYlRKdk5UMnFSdjVXd0ZxRExtZVZfdlBDaTVKdXVoMGdoWHJkM3NiVWNLTkdNSlpxQQ?oc=5",
-      "published": "2026-11-01T03:52:22+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "ITV News",
-      "title_original": "Catch up on ITV News Central (West Midlands) - Saturday 31st October",
-      "summary_original": "Catch up on ITV News Central (West Midlands) - Saturday 31st October ITVX",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVjR6bk9pOFl6NTlzZzZkMTBoU05zcW90OTlVWno4N0c4ZzFhWHEtNmNBRTVlcV9HdzNaMWxHVkw5di1zUmlUUUdCYWIxTWs1a1hXdlNwVzFIdGZ3XzRxVWp4MmdhbjlkMmZYRWF6ZzNIYVRwek9XVWlYM2xOSlY1cDN2c01GNE5MMU9yRlA0SmpMb21uUFQwOS0wZUw0RVd0R1BOSUFn?oc=5",
-      "published": "2026-11-01T03:47:00+09:00",
+      "source": "Channel 4 News",
+      "title_original": "Watch Bradley Walsh's Million Pound Shot",
+      "summary_original": "Watch Bradley Walsh's Million Pound Shot Channel 4",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0dUxDaDdfZmNORGtBaGZ2WWZyNHlKQXFZcGVaZFZWTHJuMUNwZGpvMm1ieVVlVi1ma1h3UzMzd05xNjBnSkctbUpnYXBYYzdqOHo3Y2RhaXRjNHlBQW56S0RBOXdteGJYNUt3aWtfU05TbzZ2YWExSw?oc=5",
+      "published": "2026-11-01T06:36:46+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -265,92 +265,74 @@
       "state_media": false
     },
     {
-      "source": "Channel 4 News",
-      "title_original": "Watch Bradley Walsh's Million Pound Shot",
-      "summary_original": "Watch Bradley Walsh's Million Pound Shot Channel 4",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0dUxDaDdfZmNORGtBaGZ2WWZyNHlKQXFZcGVaZFZWTHJuMUNwZGpvMm1ieVVlVi1ma1h3UzMzd05xNjBnSkctbUpnYXBYYzdqOHo3Y2RhaXRjNHlBQW56S0RBOXdteGJYNUt3aWtfU05TbzZ2YWExSw?oc=5",
-      "published": "2026-11-01T00:27:22+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Channel 4 News",
-      "title_original": "Dating Naked USA",
-      "summary_original": "Dating Naked USA Channel 4",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjMjZBQlBEZ0NMRzNqTkZ2SmludkZwVThTcG1RaS1kcU5kblo2RVdCdWVUeFVKNl83VVI3dFJNVDNSVmE1YlJ3M0V1dUs2MS1BMFZWUlJ3bERFQzN1ejR3YS12Vjd5RHdrUU5KeEVITFpnRTRUZ2NwMmtKSEQ?oc=5",
-      "published": "2026-10-31T09:01:13+09:00",
+      "source": "Reuters",
+      "title_original": "Binance says it has covered 90% of losses from $6.3 billion hack",
+      "summary_original": "Binance says it has covered 90% of losses from $6.3 billion hack Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV05QRmVQbjJDUTZkNzRFaTA5VVp5RE9Bd2ctMkxITEVaZnNLZVVzdkx5aHBUUFZYOTJCb19YRFJRM2I1RW5QS0JJUmowaUtsVjlnaTExaWJDM2NsLVJINlJQZ0JHdlUyb05LS0kyRGdRMHlyVWdYRHFJOTNlbFRZc0plbkc2SE1nOHB1SklPVVNUVnhFY3lYdWtR?oc=5",
+      "published": "2026-11-01T07:13:26+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Reuters",
-      "title_original": "Webb telescope captures images of 19 spiral galaxies",
-      "summary_original": "Webb telescope captures images of 19 spiral galaxies Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jdmk5M1RITEhveVlSU3NsdmFzeUp5dTYxZV9pbzhObDVTSTBMZVlLV0MyYUtyaUhYa1l6cWtUc180a1BfdUZIYm1nSDRjZThvSmFwT2RlZ0Z1clZUUXBXWjhxSXBCRDA?oc=5",
-      "published": "2026-11-01T05:51:08+09:00",
+      "title_original": "Blazers blow out Jazz with Ja Morant sidelined",
+      "summary_original": "Blazers blow out Jazz with Ja Morant sidelined Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPblo3ZTR4cE5aZ1hUTWgzeHFDSnRyd3g1dXBpdkVPdDhzcXhEalF2eU80U0IwdnI5NnNReEJZUnpyamdkM2Z3SHp4UEVLZ09vZDNxeU1XUVFaSGpZTmZOZVZxeTZoY3pLXzhUUElWeW5JdVlTQm1zeno1bjZWLTJlcTVzS1JzbWlZbmRXSDRGNmdxdEhaTTF5WjNDU1oxNTd2Vm1EZ0ZwRkg?oc=5",
+      "published": "2026-11-01T07:11:40+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Reuters",
-      "title_original": "Real, Mbappe have moved on from China controversy, says Mourinho",
-      "summary_original": "Real, Mbappe have moved on from China controversy, says Mourinho Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYkdaRjdrN052cWJ6QXRmSWJheXBJS3A3dFVTNFZyREY1NE52QlpEWDNoLUNzTWF2d0RpOENKRS1rUXh0a19saUpSMExybzVYdmJFRU9TZmZncTMxTDAzVlVGRmdrZ2dVNU9RcVZ4UFhPYkwtbjhFYXhDUXdmNXN0NmZSWEJndzdkRFBpb056d3NjRlVvYmxjdDBZT2tEZ1E0b0tmcFZIVQ?oc=5",
-      "published": "2026-11-01T05:16:59+09:00",
+      "title_original": "Milan earn 3-1 derby win over Inter, Roma thump Udinese 5-2",
+      "summary_original": "Milan earn 3-1 derby win over Inter, Roma thump Udinese 5-2 Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMjltOUhFSVlzREgwOXJta0Z2a1JwbW9DV2E2TkEyekJNREoxS0lqMHh1MHlGclJRcWg4RG1xN25FaVljVEpPMFRzOURSb3JGdXRHWldnQ1g0V21VYXFubFNFZTJnMm9BRDAtTFhMX2NoZ3pWX2FHeWZMbmp2RzlIVUd3N3UzWXAtTTNtOGg0V1Z3ZDFHSk1lMzFkZVl3a1B6Q0FxamtHQno3RjU5?oc=5",
+      "published": "2026-11-01T07:08:12+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Reuters",
-      "title_original": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
-      "summary_original": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOODBHZGo0TEhURWc2Rm9nLUJjaF9Hb09YLUpnU3JlTWJ0OHJKd3p0dFZEYWdpYUNPVlNJdFJoYXhGOVdOX29rdHhjQ2F0c2E2VjJRQndHcEtSY1JIdEFzTkJJd3RKX2lKYWxRMnRQYjZvVnpxNnJQTlBmUFY5TWMzZTJ4akRuS1pKNExQY2lCQTAzRVlWOG4wYnZRVV9tRWJQdDJKQ0owZVdZUS1ZQmZYbTlMR0xxbF9uZ3ZvWkRNNDJtX0JNclZhLQ?oc=5",
-      "published": "2026-11-01T05:00:36+09:00",
+      "title_original": "UK PM Burnham says he is 'open' to formal apology for slavery, but rules out reparations",
+      "summary_original": "UK PM Burnham says he is 'open' to formal apology for slavery, but rules out reparations Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSVA3cGlMTWRrZGNBV3NsQkdPb1ZJQnBfbG5EMjZrcUFWMmVldTlySld2cWtOcEhxS1hhZ1VnSTluNDk5dHZxdEs0TFpZbXhfRk92a3BTV0hxUXg5VTNVRnFMN2dBRmZ5R3R6T3BBdVA5WFdqS2dSTWRFSmVaZ3lkU01xRENrOGU3LWxkYVFVVlVoRzhKMUhCV2Ffc0duOFhsXzh4eXd4UHhEZTYtUF9oalhwc1lQYzdaalhN?oc=5",
+      "published": "2026-11-01T07:01:28+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Reuters",
-      "title_original": "Dark day for Manchester United and City after Halloween defeats",
-      "summary_original": "Dark day for Manchester United and City after Halloween defeats Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZXlwOE02NmwtaFl0UUsxQ0RKOG9MTG1YaWJUbzdpcWN3WGUxRlFPaVRLd1M3Nk5wWEJvX2t1dWI5U0FUdnFtMWJNWDhrano3VWV6bDJubDVuSzcteUoxZFJPcFlHTjVvaDNjbHNOVHJaVlFrQkk1OXh5ZllUSktZZVJ4TWlmc2ZhelR1N1JXVllaVzE5V1V5YVNseE1CS0k?oc=5",
-      "published": "2026-11-01T04:48:24+09:00",
+      "title_original": "North Korea says defence research institutes tested major weapon system",
+      "summary_original": "North Korea says defence research institutes tested major weapon system Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa2szXzlwbFhuTl8xcVFPLU9JTTFnUTYtT1pYWGxTbEFhUmxWV1E5NkxvbTZvOEtETEp4YjdMaEhDbG1MSzIweE5kYXpSM3FWVEpUWEFFNUZTUFdaNzN2UldqMHlVdDZsT3NaNm9PQl9xSFpfMm1FR3JCUTA0Z2hiQ0EtUXpKZ3MwLThwQmZ3R0JxZ2lRZ2hjcEpkWjI0R2FyUGdIQ3VZZUVwRl96UVByZklTSm1KY1RVRExaSlptRUtLbHRld0FVN2lEYUcwbUU?oc=5",
+      "published": "2026-11-01T06:48:05+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Reuters",
-      "title_original": "Thousands return to Lisbon square, press government to scrap rental bill",
-      "summary_original": "Thousands return to Lisbon square, press government to scrap rental bill Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWVvNnVKTGlkcFRNcmpqWmZlaUNuVXJZU1p3bi1QRDdSbWtHQ082NmdqV3RwZlVobm50NE1JRVljYjc0WXlYdG44V2p1bFJVTTZPUUhxcXM4emlfV3pQdmFIeG9hVGZGZ09mOW05c05hTTFHYzgyWmhiUlhfc3FVNzFhWDFKXzJiRFlJZUdxQmV6SFZIb0RkSERTRklwamlkekYxZjZ5RDZMYWtyR2lRQ0J3eHQ?oc=5",
-      "published": "2026-11-01T04:47:00+09:00",
+      "title_original": "FBI links North Korea to theft of $6 billion from Binance",
+      "summary_original": "FBI links North Korea to theft of $6 billion from Binance Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0F3bEEtREZiMG5WVnJMQlVHUDdaaHJQTno1VUJJRENOT2MySEZDcmpCYm41YnpkMS1Ub1l1ZThqSUJSa214ay1Gb3E3NFFNNWRZZDJtVjZSWU91M1NFVkRWZjJPdG9nN2ZCTm12RnhFVWFTTkhpMnBnRU5XZDhmRTRYNFZ0V1lKSkc3N1htMnRLbHhFWlo0?oc=5",
+      "published": "2026-11-01T06:44:23+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Reuters",
-      "title_original": "Ghana says Russia to back 2,000 MW nuclear plant, deepen ties",
-      "summary_original": "Ghana says Russia to back 2,000 MW nuclear plant, deepen ties Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVEU1TzJ6c1lISFlURGdCYlJscFltNmo3ay1SblgxNEtKU1lwcEhEcHZpMjg3TWE0VkVrdEtwSFF0dzhxRExVdUQtZTlkU2pENWpTRkdER3FHWEk1RzNRdFA2QlFVcmdzWWNSZ044MjNBejRPeFFNX3dwRUItTXRndW1UaXJxdHJkcThxUUtsVFo2d19MdFZVbVJFM245bW9iSEZwZENCQWk?oc=5",
-      "published": "2026-11-01T04:45:43+09:00",
+      "title_original": "ICE raids in a California toss-up district spark accusations of voter intimidation",
+      "summary_original": "ICE raids in a California toss-up district spark accusations of voter intimidation Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMkk2Tk5vZ2RHMENmbGFkZjJrWjJIS2xkbDZrQW5hUS1abHlzOVNWendQdHNfZTdZcHFnWkFKUURwMDVmYnhlN3ZPeEctbHBmeE9KcVp0T1JCVGVNN3NrbXZMd1ZmcVZOcHQ5X3JIWHJuOHpJcThkbTdmQTItSlE1MXJ4ektHQ3Ytd3I1dGVhSTFSVHlQQ05iaHdzd2drWXhoTEphUVRTUUh3cWU3cDJ2ak1GQkNMb0NTV3VZeG5GdEFZNThORFE?oc=5",
+      "published": "2026-11-01T06:38:51+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Reuters",
-      "title_original": "US judge dismisses Trump's lawsuit against Wall Street Journal with prejudice",
-      "summary_original": "US judge dismisses Trump's lawsuit against Wall Street Journal with prejudice Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDh2Tk1SWVpMWE1Mc1NmZ2JHUlFDOEFqVjg4T29yc1BLNXBibGFRSWNDUEhadDZiaEhiZXg4UFlfNV8tRVM3UVdfTkdzRzZVR2dmN2JwWjlIc3BHeVU0eVlJR0h1UThmaXhVWS1GcHZqb0c1NGR0VWoxU3k0Q3dLYU1hQVExZVJJd2FxZHpWOXc0NDRJWlZvUDk2Rm5GRUh1bXFITDBUZGFVWjY4T3VTWGh2NlFKaVBKLWc?oc=5",
-      "published": "2026-11-01T04:35:19+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Reuters",
-      "title_original": "US campaign enters final weekend as Alaska, California ballot fights heat up",
-      "summary_original": "US campaign enters final weekend as Alaska, California ballot fights heat up Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWDRaNDJmRmxia1RPY2l4Z1ZIRTFHVU1pNHUydFRRUUhZVlZpUGVnZUVqUm82NFVfZXpsNVdWam5UNTVMc1RNWXZPbjJsTzlucDNWcmJxbjJLSWNwclRrWmFuVVBzb2lYcUFkbDRRc1JjbV94SFh3aG5majlaODVxTFNTUXhNUWZQWmR6bU4wS3hNQjNSUk9mN2hFQURQR1hMUmU5Rw?oc=5",
-      "published": "2026-11-01T03:52:09+09:00",
+      "title_original": "After Louvre heist and string of thefts, Europe's smaller museums are on guard",
+      "summary_original": "After Louvre heist and string of thefts, Europe's smaller museums are on guard Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV2hEQ0g1Rk9ZSjJMakpuX2lCY3hFc1I4VjhMbnE3aGFMWXh3TU9NSE1sWEFCM2dRUVBTRXE5cWxUMXdwdXZwZ29vNFdBbjVKYW1yTDN1b2tlZ1RjQW13NkdqVEI5RV9ybFRad3kyY0VTOTZaUEhFaDYyUmdTYnlMenBDNGM0VVEyanFtRFJUTjFnc0MyemdmRVlLNlBGbGdxMjFmZXRUem43WTRz?oc=5",
+      "published": "2026-11-01T06:24:25+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -401,15 +383,6 @@
     },
     {
       "source": "Financial Times",
-      "title_original": "US approves $2.1bn sale of Patriot interceptors to Ukraine",
-      "summary_original": "Volodymyr Zelenskyy welcomes ‘strong decision’ but calls for the missiles to be provided immediately",
-      "url": "https://www.ft.com/content/321cf4f9-d236-4b50-a52c-c2a21f7c447b?syn-25a6b1a6=1",
-      "published": "2026-10-31T16:04:09+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Financial Times",
       "title_original": "The right to be apolitical",
       "summary_original": "The film ‘Fatherland’ is too harsh on the uncommitted",
       "url": "https://www.ft.com/content/74c46706-a4d9-4c8b-a2e7-7ff6ad811ec0?syn-25a6b1a6=1",
@@ -427,11 +400,47 @@
       "state_media": false
     },
     {
+      "source": "Financial Times",
+      "title_original": "US midterms loom over jittery investors",
+      "summary_original": "Caution certainly seems warranted for the coming weeks",
+      "url": "https://www.ft.com/content/6c099dc6-1fb3-44fc-b011-70229e3755cb?syn-25a6b1a6=1",
+      "published": "2026-10-31T14:00:39+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
       "source": "The Guardian",
-      "title_original": "Mexican Grand Prix qualifying: Formula One 2026 – live",
+      "title_original": "Tusk defends overhaul of Poland’s constitutional court despite protests",
+      "summary_original": "Prime minister says shake-up is vital to restore tribunal crippled by years of political disputes with the EU Poland’s prime minister, Donald Tusk, has vowed to see through a contested overhaul of the country’s constitutional court, declaring that “in certain matters, there can be no compromise”. In a prime-time television address on Saturday night , Tusk was defiant, despite overnight protests th",
+      "url": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests",
+      "published": "2026-11-01T07:43:09+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "European football: Kane misses penalty as Dortmund share spoils in Der Klassiker",
+      "summary_original": "Bayern Munich held to 2-2 draw after Silva equaliser Barcelona on top of La Liga after thrashng Alaves The Ballon d’Or winner Harry Kane missed a penalty and hit the post for ⁠ Bayern Munich as Borussia Dortmund snatched a last-gasp equaliser through Fabio Silva for a 2-2 draw ⁠in Der Klassiker on ⁠Saturday ​that kept the teams level on points at the top. Kane, who collected his prize in a ceremon",
+      "url": "https://www.theguardian.com/football/2026/oct/31/european-football-harry-kane-bayern-munich-borussia-dortmund-milan-inter-barcelona",
+      "published": "2026-11-01T07:41:08+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Canelo Álvarez v Christian Mbilli: WBC super-middleweight championship – live",
+      "summary_original": "Álvarez challenges for Mbilli’s 168lb title in Riyadh Mexican star fights for first time since Crawford loss Reach out to Bryan on Bluesky or by email Here come the fighters. First it’s Mbilli, entering first despite his status as the champion, wearing a black tee and red trunks. And now after an extended video introduction it’s time for Canelo. It’s a muted, pyrotechnic-free ringwalk by his theat",
+      "url": "https://www.theguardian.com/sport/live/2026/oct/31/canelo-alvarez-v-christian-mbilli-wbc-super-middleweight-championship-live-buildup",
+      "published": "2026-11-01T07:40:55+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Mexican Grand Prix qualifying: Lewis Hamilton takes pole – live",
       "summary_original": "️ F1 updates from 9pm GMT in Mexico City ️ Giles Richards’ race scene-setter | And mail Philip Portentous driver countdown time , with Hirakawa in there. And here are the constructors’ standings: Continue reading...",
       "url": "https://www.theguardian.com/sport/live/2026/oct/31/mexican-grand-prix-qualifying-formula-one-2026-live",
-      "published": "2026-11-01T06:08:33+09:00",
+      "published": "2026-11-01T07:39:18+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -440,79 +449,61 @@
       "title_original": "Breeders’ Cup 2026, day two: horse racing – live",
       "summary_original": "Updates from Keeneland, first race 5.10pm GMT/1.10pm ET Full race card | Thoughts? Get in touch with Greg via email 17.48 Breeders’ Cup Turf Sprint, Grade One, 5½f We’re on to the turf next, and the most obvious barrier to a European clean sweep on the grass in the form of Wesley Ward’s Bacio. He is already familiar to European racing fans as the winner of both the Palace of Holyroodhouse Handicap",
       "url": "https://www.theguardian.com/sport/live/2026/oct/31/breeders-cup-2026-day-two-live",
-      "published": "2026-11-01T06:06:43+09:00",
+      "published": "2026-11-01T07:36:06+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "The Guardian",
-      "title_original": "Canelo Álvarez v Christian Mbilli: WBC super-middleweight championship – live buildup",
-      "summary_original": "Álvarez challenges for Mbilli’s 168lb title in Riyadh Mexican star fights for first time since Crawford loss Reach out to Bryan on Bluesky or by email We may have just witnessed the round of the year in Riyadh. Nikita Zon had Jaime Munguía on the brink of defeat in a white-knuckle sixth, rocking the Mexican champion with a barrage of punches that left him barely able to stay upright. But Munguía s",
-      "url": "https://www.theguardian.com/sport/live/2026/oct/31/canelo-alvarez-v-christian-mbilli-wbc-super-middleweight-championship-live-buildup",
-      "published": "2026-11-01T06:04:44+09:00",
+      "title_original": "Zion Suzuki horror own goal haunts Aston Villa to hand Fulham a point",
+      "summary_original": "Fulham helped cement Jamie Carragher’s argument that Aston Villa will never be Manchester United. No, they know how to grind out a point on a bad day and can go to Barcelona on Tuesday with some confidence. Zion Suzuki’s own goal denied Unai Emery’s team a fifth win in six games after Nicolas Jackson’s eighth goal of the season had promised to lift a resurgent Villa back into the top third of the ",
+      "url": "https://www.theguardian.com/football/2026/oct/31/aston-villa-fulham-premier-league-match-report",
+      "published": "2026-11-01T07:15:33+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "The Guardian",
-      "title_original": "Abdul El-Sayed disinvites former Democratic rival Haley Stevens from Michigan Senate rally, reports say – live",
-      "summary_original": "Tensions had flared after Stevens gave a precondition for her appearance: El-Sayed must denounce an ad attributing rising costs to US support of Israel Sign up for the Breaking News US email Located further west than the Hawaiian islands, Unalaska is closer to Beijing, Tokyo and Seoul than Washington DC. Most visitors arrive on flights from Anchorage, which cost at least $1,600 round trip and are ",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/31/doj-threats-election-workers-trump-tele-rallies",
-      "published": "2026-11-01T05:59:18+09:00",
+      "title_original": "Yaga review – this erotic witchy thriller starring Hudson Williams is a total head-messer",
+      "summary_original": "The Heated Rivalry actor plays two people in this genre-bending mystery. And Carrie-Anne Moss is fantastic as a horny author – who might have supernatural powers Well, here’s an unexpected answer to the question of what Hudson Williams did next: the overnight megastar created by the smash-hit success of Heated Rivalry (hot young men bang each other for seven episodes, emotional connection also glo",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/31/yaga-review-sky-atlantic-erotic-thriller-hudson-williams",
+      "published": "2026-11-01T06:40:02+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "The Guardian",
       "title_original": "Naderi breaks Aberdeen’s resistance as Rangers reach Premier Sports Cup final",
-      "summary_original": "Ryan Naderi’s dramatic late strike broke down Aberdeen’s stubborn resistance to earn Rangers a place in the Premier Sports Cup final. Aberdeen restricted Rangers to one shot on target in a low quality first half, but Derek McInnes’s side picked up the pace after the break. Continue reading...",
+      "summary_original": "Ryan Naderi’s dramatic late strike broke down Aberdeen’s stubborn resistance to earn Rangers a place in the Premier Sports Cup final. Aberdeen restricted Rangers to one shot on target in a low quality first half, but Derek McInnes’s side picked up the pace after the break. Aberdeen survived relentless pressure at times but in the 83rd minute Naderi redirected a strike from James Penrice into the n",
       "url": "https://www.theguardian.com/football/2026/oct/31/rangers-aberdeen-scottish-league-cup-semi-final-match-report",
       "published": "2026-11-01T05:36:08+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "The Guardian",
-      "title_original": "Judge dismisses Trump lawsuit against Wall Street Journal over Epstein birthday letter",
-      "summary_original": "Ruling ‘with prejudice’ means US president may not amend or refile his lawsuit over his alleged birthday letter to Jeffrey Epstein A US judge dismissed Donald Trump’s lawsuit against the Wall Street Journal with prejudice on Saturday, according to a court filing, bringing an end to his legal challenge over the newspaper’s reporting on his alleged birthday letter to Jeffrey Epstein. The decision fo",
-      "url": "https://www.theguardian.com/us-news/2026/oct/31/judge-dismisses-trump-lawsuit-wall-street-journal-epstein",
-      "published": "2026-11-01T05:31:39+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "The Guardian",
-      "title_original": "Man in Belfast charged with possessing explosives and firearms",
-      "summary_original": "The 35-year-old was charged after police searched properties in Shankill Road and Edwina Street areas A man has been charged under the Explosives Act and Firearms Order after police searched properties in Belfast. The 35-year-old was charged with offences including two counts of possessing explosives under suspicious circumstances, and possession of a prohibited weapon (discharge of electricity or",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/31/man-belfast-charged-possessing-explosives-firearms",
-      "published": "2026-11-01T05:21:08+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "The Guardian",
-      "title_original": "European football: Kane misses penalty as Dortmund share spoils in Der Klassiker",
-      "summary_original": "Bayern Munich held to 2-2 draw after Silva equaliser Atlético Madrid go top of La Liga after win over Levante The Ballon d’Or winner Harry Kane missed a penalty and hit the post for ⁠ Bayern Munich as Borussia Dortmund snatched a last-gasp equaliser through Fabio Silva for a 2-2 draw ⁠in Der Klassiker on ⁠Saturday ​that kept the teams level on points at the top. Kane, who collected his prize in a ",
-      "url": "https://www.theguardian.com/football/2026/oct/31/european-football-harry-kane-bayern-munich-borussia-dortmund-milan-inter-barcelona",
-      "published": "2026-11-01T05:06:46+09:00",
+      "source": "The Telegraph",
+      "title_original": "Suzuki howler gives Fulham share of the spoils at Aston Villa",
+      "summary_original": "Suzuki howler gives Fulham share of the spoils at Aston Villa",
+      "url": "https://www.telegraph.co.uk/football/2026/10/31/aston-villa-vs-fulham-live-score-updates-premier-league/",
+      "published": "2026-11-01T07:37:29+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "The Telegraph",
-      "title_original": "Tottenham ease to win over Crystal Palace and pile more pressure on Pierre Sage",
-      "summary_original": "Tottenham ease to win over Crystal Palace and pile more pressure on Pierre Sage",
+      "title_original": "Northampton dig deep after Alex Mitchell injury blow",
+      "summary_original": "Northampton dig deep after Alex Mitchell injury blow",
+      "url": "https://www.telegraph.co.uk/rugby-union/2026/10/31/northampton-saints-v-gloucester-live-score-updates-prem-rug/",
+      "published": "2026-11-01T06:24:53+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Telegraph",
+      "title_original": "Spurs win three in row for first time in 616 days to pile pressure on Sage",
+      "summary_original": "Spurs win three in row for first time in 616 days to pile pressure on Sage",
       "url": "https://www.telegraph.co.uk/football/2026/10/31/tottenham-vs-crystal-palace-live-score-updates-premier/",
       "published": "2026-11-01T05:07:48+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "The Telegraph",
-      "title_original": "Northampton’s brilliant comeback win over Gloucester marred by Mitchell injury",
-      "summary_original": "Northampton’s brilliant comeback win over Gloucester marred by Mitchell injury",
-      "url": "https://www.telegraph.co.uk/rugby-union/2026/10/31/northampton-saints-v-gloucester-live-score-updates-prem-rug/",
-      "published": "2026-11-01T04:49:35+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -557,70 +548,124 @@
       "title_original": "Who will win the 2026 midterm elections? Polls and predictions",
       "summary_original": "Who will win the 2026 midterm elections? Polls and predictions The Times",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVTQ3c210WFhibU1kMk1ZS0ZCMGwyenJEampyWkhCdUlwV3AzTjVSb0JkQ196QTlYU1RORU1WSmQtalo0NzZ2cVZtajFTSWg1Q3BLRVpFQm5qeWl5NzRVM2JockdHazktMERtbW5HSEtYc2pDUmRhNDdDVm55RlRpUC1iZDBXelU2RUdWYXZ2MHViUDJfalRNM0M1aUJYeUxNWVlWd00xNEs?oc=5",
-      "published": "2026-11-01T05:56:28+09:00",
+      "published": "2026-11-01T07:45:59+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "The Times",
-      "title_original": "How Alexander Isak is becoming more like Erling Haaland",
-      "summary_original": "How Alexander Isak is becoming more like Erling Haaland The Times",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU2JiaW1SN3NBR3NMLXlFcEVCOV9GbTNkT3JDMmJDcHE3MVd1cUVCZVJTNWswUnNsbzZnNkEtcnZNeDgwRVl2bURIWUJyWWcyVVozdzdHUEkxd1dheVBlcHpHU0o0YVl5SGhtN0NPbmhNdHlDRExqV2FsS2o4Z191Yy1LM3M1d0tvTmRUQ2otVF9qV1o5S21wSHlBMUZfUEVjWnRhRFVxNDc3ZUhZVkdLVk9acldwTlZfYVhSMQ?oc=5",
-      "published": "2026-11-01T05:30:00+09:00",
+      "title_original": "Latest news & breaking headlines | The Times and The Sunday Times",
+      "summary_original": "Latest news & breaking headlines | The Times and The Sunday Times The Times",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE1rUkwwNVRWQUpTalMyTmJSWVRxR2VTTHQ2RmV1amVFSzlPXzY3SUdfTzVzM0dNNXVzUzZscWV3?oc=5",
+      "published": "2026-11-01T07:03:21+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "The Times",
-      "title_original": "‘Shetland needs Cold War military protection against Russian threat’",
-      "summary_original": "‘Shetland needs Cold War military protection against Russian threat’ The Times",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbktvWUtmRFpySV8xU0JLMnNMVXJEeXBOdjZkb1RUUzBLZDY1TUlGRDZQVEpuSEI3d0UyRDhxeEx2MVZ0VkNoYWNOTzZHakVVcGJVQkVNOGYtYUFTRFlkbWNJRGFYUTRxaHNhVmN3UGlRc3BVYWpiUDJWS0pjbk45Mk9uQlEwWW1XcURlRjZRcS1LOUpQS1ZR?oc=5",
-      "published": "2026-11-01T05:10:35+09:00",
+      "title_original": "Aqua Shard owner mulls £250m sale of global restaurant empire",
+      "summary_original": "Aqua Shard owner mulls £250m sale of global restaurant empire The Times",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ25MRmxBYmprRU43Z1NWdDJ3a0FmaTJfUE5sN0MwVERNRFhBLUE5QjRBdkdUWjhoeG1fc2dFeVZLZ3JvWTFmR0djUGRDVFU5amN1c2VWbE5heGNNaHVYUjI5dE0tOURGamdCbFdHZzB3NEg1QUVBckpZODRXWHE1TlVUcVpYZWFyZllBVXFkRUJHU3FYeGdWa2FuNERoS3pWT3NLVm9IM2Q5M3ozYllDUHd2LW1ULVJYUTR2aU9IWlJFdjR4dnNjMGlR?oc=5",
+      "published": "2026-11-01T07:00:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "The Times",
-      "title_original": "Liz Truss: ‘I could have a cushy City job but I want to tell the truth’",
-      "summary_original": "Liz Truss: ‘I could have a cushy City job but I want to tell the truth’ The Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY3NZaE1zWnFHbG04emNpZmkzMG9zQVpxRDlET1JYQjBEaEJEdFVwNmFiTENDbTEyUzh5bmpCNnNEeFUyLXFBbnlWNGozb1k0d19KSnY0SENLbWlJWW5WbWFiNk9PVmdidFFtVVM4alZVVmV6cG9Yd2R2M0hDQVB6Z0lXbw?oc=5",
-      "published": "2026-11-01T05:00:00+09:00",
+      "title_original": "How Labour’s big dream of building 1.5 million new homes crumbled",
+      "summary_original": "How Labour’s big dream of building 1.5 million new homes crumbled The Times",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNN212RDFLYU9iSk03OERhUEJUQnFMUElxaWdmTjFLcDVEbjUyRXhvZnNqb1VSSTVHMUVsVzczS2RVdGRjck9QUm5IZktSalkwdWRienJTZ2l5YTBDSWQxZTdod2lha2gxblVyeUhPS2VRQnB4NXU2VHNLSmlucWVRbjZvNlRUWEFEaGFyZm1yS2gzYm1vNndObmNRWTdVQnF2dkhHYXBGVmhINVFqQ0FZUGp1bkVLclExN2hzT0VqWEVuRXV6WEpSN3p5M29pUQ?oc=5",
+      "published": "2026-11-01T07:00:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "The Times",
-      "title_original": "We blame politicians for stagnation, but voters are the real problem",
-      "summary_original": "We blame politicians for stagnation, but voters are the real problem The Times",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa01BTFpxSFdRMHppNmNxYUtINjVwVWRYNFZieFI5NGFTd1psNVh2WVcySDlVMG1mNlpGYUNrX0JHTVl2Wk1tUVd0Z3V4NVd4M3dMNW5XMmNXVmJlRmRCRU4yZkdMckRBWHJVSGNKc2FoWGZoOGdjb2gtUVl0NHhHT0d2bUJFQ3VKanFtUFRpQ1F5TU0zenhjbFdDRzVxYklp?oc=5",
-      "published": "2026-11-01T05:00:00+09:00",
+      "title_original": "Big idea or ‘accounting wheeze’? PuFins take flight with taxpayer cash",
+      "summary_original": "Big idea or ‘accounting wheeze’? PuFins take flight with taxpayer cash The Times",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcFpzVzV5c0xudXcyLVlhS09RUHk0QUhqOGJhcERPU0FobGRqNkFhUUEtMEF4dUE1WUVCM1dGRnRHY0VhVGM5NGJPUUFQc3BLTXdrWWZMTnpkekhacENibDJwRUxjWUdTbkJqaThmSWFDNm5qRWhfcEZOM2wyT2dLRXg3bjZ3bjZwRTZkWllUakl4Y25CSE55Q3pMUE5Hc2U1WUpiUQ?oc=5",
+      "published": "2026-11-01T07:00:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "The Times",
-      "title_original": "‘Do not kill us’: RTE captures dramatic cocaine ship raid",
-      "summary_original": "‘Do not kill us’: RTE captures dramatic cocaine ship raid The Times",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaS1wai1nWTctNEl3X1BsUUpmbVA2R3NHenZJb3JEckRUM1FJd3EwcHdVZEJHd0NDVmtybm9yUTFwblRDZVRRRTRtSEhPZzMwMVNBM3VNdkIxQXM1VUUtaW94RWFzdFdIVlUtcmZlWGxha01tNFNVUURRNk5jdHNLVWQzYjB5RWREcXBvVVBrQmZwUWNrTUlsNXJsWlBmTVdGWGJQc1ZsdWNnYlpkTkJlMjRB?oc=5",
-      "published": "2026-11-01T05:00:00+09:00",
+      "title_original": "Those of us who want to rejoin the EU must now make the argument",
+      "summary_original": "Those of us who want to rejoin the EU must now make the argument The Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMlY2NWp5ZG1SSk1BV0ZpNzU1WVhhdmNEVDVJZ1JuMW1Jb0xJZFZldlB0N3JHRXlEcTRwWHRYXzZobkZqdXFMcDc0V2I0SFVQRW9zc1g0cUt5QkZMV2lUR012aGZCV3hhcEFRRll3dTZzUFp2Z185R1RlMDZrTGVzdDRKbHhqQ1p5VGpXYWZ1aUVhc3BDSGRpS3g1UlMxTnM?oc=5",
+      "published": "2026-11-01T06:30:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "The Times",
-      "title_original": "How Ghosts tourism revived Bamber Gascoigne’s family pile",
-      "summary_original": "How Ghosts tourism revived Bamber Gascoigne’s family pile The Times",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcmt4aFVIMWZGOEJLRmJlVVdFa0dlOFhEd3Qtd1NCaVo2V25XSHpWRTlDcUZycUZBZXlUWkRneWxDQ1FRLWIxZ0dFQVhlaktYdzI1eTBsRWpCbU5YaVh2NkRsN2ZxUlQyeDJ5aS1YaXBhU292N0pxLTUtSUZxaXJpblNOTmtxekFPMGc4Mk5TbmhZeU9YajNoVUVkc2x4U0E?oc=5",
-      "published": "2026-11-01T04:58:44+09:00",
+      "title_original": "Britain’s future is in the EU, says Rachel Reeves",
+      "summary_original": "Britain’s future is in the EU, says Rachel Reeves The Times",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUF92bVd3bW92bWxhTXIwcnZ6OURnWkFSTTVudng1YXB2SUhKdHdDdEhva2ZSOTBkS3k4c2lGVHEzMF9zOGE3VGZOeVEzeDZuRV9QMmlscXA0bFRVMEdfMHhqQ0hibW91Yjc4cEhwSUNURDlyMkptUE9mbmFqbDNxQ3NPZUxoclpDQk94R2U1S05NbEZOaURqNUVwc3dRSVVSUEdfdQ?oc=5",
+      "published": "2026-11-01T06:30:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "The Times",
-      "title_original": "Andy Burnham has betrayed us, say parents of valproate children",
-      "summary_original": "Andy Burnham has betrayed us, say parents of valproate children The Times",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRkdaTklSWG9sNFFLOGNVdEl3RGF5VWV3U181NWdSVzBEUnJfLWppX2I0WmtKbzVWWWxkYktTZzBmRHI4Ny1LRzhhX1M3TkcyZ1dfRWZPMnhkdlp0U2s4MXZzNGQ2Ukh2WjAzaHRYcUdMR1R6OHZ1eXQxWDQ4YjdETG84dmhyQlFrQzZWa01oMmRQLXVuVk9SS2FkTQ?oc=5",
-      "published": "2026-11-01T04:45:00+09:00",
+      "title_original": "Carla Lockhart’s exit looks ‘inevitable’ as Dumcree row divides DUP",
+      "summary_original": "Carla Lockhart’s exit looks ‘inevitable’ as Dumcree row divides DUP The Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc1V1RGMxbFJzZHpQeXREXzR4Yy01aTlKQ01FZHJOQ2kzNHdKdjZFN0E5LVVwTlFZbThMOTA0Y08yaWVWRTF1NlR1VzZ0b2UwQ3ZHM3NQUjlZLTE4Yl9wYmhKRjh1elFaY2FDeXNTS1l1eFhzREdHMFFJbnpnZnhZcEZYSFpUTUdicEUwakhfWnc0VGM?oc=5",
+      "published": "2026-11-01T06:10:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "F1 grid: Starting positions for Mexican Grand Prix",
+      "summary_original": "F1 grid: Starting positions for Mexican Grand Prix The Independent",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTGtBUXNnUmFyc0x6RGprM3c2Zm94bXBIaVU3VFpNdEQxS0lDN2JkaTUwbDNaX2dZMURRemhVUHQ0Tm16dVN3eDc3WS05NTgybldSSE9WZVFnaDlKT29vWWEwRzkwVmFuMDdGSGZkS0FEcWNselpZeGRVRURVd1FxWlBSMk1aLU5ULWZTRUZqTHU1dWRuZFRKX25UbllvQ2pjYzdqeF9ZUFBCRnNxek9BQ1pLTm1ucFMtSnA1aEV3?oc=5",
+      "published": "2026-11-01T06:55:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Trump taunts Greenland with AI photo after country's historic achievement",
+      "summary_original": "Trump taunts Greenland with AI photo after country's historic achievement The Independent",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNWRGMGpCMTFMNjBqQ0dzY1FrTk9nelhhTzRocE1hSkF5OW5vbmpUUGYydUJEOUVoN1V5eXZVUlpIZTFjdW4wTUhxMHZ5UXJ6bDZKYUI0eTZQOHM3OERWSWJIb3BMVXVLQ3BJblVvSkRVZVBvcHRsUC1sTnpOamRCRkdTNW9IS3FEeElGOE5laGtremlY?oc=5",
+      "published": "2026-11-01T06:28:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Harry Potter star Paapa Essiedu ‘blown away’ by support after Snape casting backlash",
+      "summary_original": "Harry Potter star Paapa Essiedu ‘blown away’ by support after Snape casting backlash The Independent",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQXM2V0Q0bHBJb0luNEk4YUI0cFo0TGtNTFVRYkNwUXd2djVqZmU0YnZZbjd0ZVRVcHRvYmU5X3R1b0JGeXBWVzM2RjVodks5RllkMTZwQ2VXb2R5cFp4UzB0elpBN3F6cUJnZEFFSURTLXAwTXVOQU13WUhZR0JOcnIwTVRsVl9oMjZnbGNPaW9nTTd5NXVEUm5nT1dtTW1nT192NXRjd2UwYXh2ZTFoczJ2WlFHTkszdk5yXw?oc=5",
+      "published": "2026-11-01T06:10:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Federal officials investigate fire at beleaguered police department in Mississippi",
+      "summary_original": "Federal officials investigate fire at beleaguered police department in Mississippi The Independent",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcXZXSTA3bHpVdW1uMGVLWFMwWTRiMHJlb1lVNWIxd1ROWnlBaW5weThweFAzRVNwOXFURm5FaHdhc3JtcnY3RHdYa25GNmhnaS1IR21yWExpOXNxeE5zb1Q0TGJDeURTN2ZXYndzV2cwYWxCRG9wNFNYT1pRMWxSNzFaY2kxdHg0R1BzYUxGNGdBZzBkMjExZmJodmt5RnVzTTJudXh6SWtrUmZ3?oc=5",
+      "published": "2026-11-01T06:02:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Manhunt begins after pregnant woman shot dead and others injured at Spirit Halloween",
+      "summary_original": "Manhunt begins after pregnant woman shot dead and others injured at Spirit Halloween The Independent",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSmxma0pod2dOX2NVU21UQUx1bUlXZ1BIU0JYUHlMRUpwTE5hSmZXa1ZLRm1pQnVIZjFfZG5BMjNtaVhtMkV1aUJDdmNxaWZsZlJWYW0tdkctYjF0NHdZMERjeHl3MXZDUkI3dUN3dkpvVGFjNWpnNzM4eVBIRDVDV3J1NkljWXhuOVh5T1BRMHpQMlloTWJiLXBPNzFZcTY5c1dDRC1mTzVzQ1RQTEd1S3hnTF9QUQ?oc=5",
+      "published": "2026-11-01T05:56:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Over 40% of DOJ's 'noncitizen' list aren't on CA voter rolls, analysis finds",
+      "summary_original": "Over 40% of DOJ's 'noncitizen' list aren't on CA voter rolls, analysis finds The Independent",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOHBUaGRGUER3Wm1RZS1IOTEtRDNIQjIzbmktSC1KQ0NHYlhjLUlwaHJ0VlNmUDhxUExVNVh5ak5VOEhsbXlyN180R0lwc21iMlhtdkNudkhrRmJUdHVuRWNxSXI0UWxVZGZiRXRONWI4bm5vaTV2QzR0NExrNEFPNzFEMFNhSjFRX0dzZ29zRnBncGdDQ0VVdGZPYko2a1RwODRSYlIzS0FWME1ubXVPQjJzRWstYTE5Yk53SFpR?oc=5",
+      "published": "2026-11-01T05:50:00+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -635,64 +680,10 @@
     },
     {
       "source": "The Independent",
-      "title_original": "Judge permanently throws out Trump’s Wall Street Journal defamation lawsuit over Epstein letter story",
-      "summary_original": "Judge permanently throws out Trump’s Wall Street Journal defamation lawsuit over Epstein letter story The Independent",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdjBFNTFrUWd0M0ZwWnA4di1TdWRucENiRzAyNV9CbGtXQnNFSGtxQ2dDay1UTTJ5cFdJUGMzeVRYMEtOVDZPQzRKQ0FfSUZYRWFCU3BuRlBLakpuZ1I3a1U3dGZJNzdEVzBQX2dPelExc3pTSUx1VnVMVUpaVFV0c1NlMm5sbDNaU3lQaEFxN0k2RW5YVEpvOHhqN09pTFUxR0o2alV1dGdOTGNic0RuWHkxVEczWGtfbEhrcmhFSktzVWJmdGtn?oc=5",
-      "published": "2026-11-01T04:59:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "The Independent",
-      "title_original": "Harry Kane parades Ballon d’Or – before missing penalty in Bayern Munich draw",
-      "summary_original": "Harry Kane parades Ballon d’Or – before missing penalty in Bayern Munich draw The Independent",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcWVrUEo4XzN5eHBKdC1aWkw1UTA1Qmd2TERpTk5YRFFkQXNfdE16a19iTDhaN29MdHZOaTVnZHhTcHRNR1dWUmF5VmNidlZMUWZnajdYUmFLN3U0dDlvVUhLcVZ2UlFxSVRkenBFT1dHX1F2VDJwS3pubW9rSkx2UDNJSU9PYUhYVTZTVnRHdUtTZTlSZkh5Y1h1NHM3MjQ0Wi1ndVZEbEdPOFY4cTIxR05n?oc=5",
-      "published": "2026-11-01T04:50:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "The Independent",
-      "title_original": "Canelo vs Mbilli: Start time, undercard and how to watch fight tonight",
-      "summary_original": "Canelo vs Mbilli: Start time, undercard and how to watch fight tonight The Independent",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0VOVWZOR3k2RkdtSF9MREhxQ1o4S2loZHNOY3ZuTTFfUzkyS3pCNERfeC1YcnpqU01WT2lHR29DVkZ1d2lKc2tOSW1IbkRkQU9fWGFsNEhmMTBRODFlY0g2MUJwYndHcGVtdkdqOVNmNG5VdXdrTjMta3V2Rjd0Mm96cUJwTHVnZ0VnUk9JSEUwRGs?oc=5",
-      "published": "2026-11-01T04:46:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "The Independent",
-      "title_original": "Princess Kate shares Halloween picture of Prince Louis for first time",
-      "summary_original": "Princess Kate shares Halloween picture of Prince Louis for first time The Independent",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWXRFV0NMc1BhS0NkWVBvZl91RGU0N2ZNbGZkVGN6VTlENVVMZmR4U202WklmRzVXVkIweTlOdXpJQ2xhLTFEQUxRQ2hlRi1HSGNwUDd4cHVHeWIxYXJzTFBTZnRBem5HOE4zd1ZwdkQ1MTRrN01JLVEyRkdCWEEzRGZ2ZTFEYm5kS3RLQThJTWdIMDhqQ2V2ZU1DZmhUNV9kaVMzS09NWQ?oc=5",
-      "published": "2026-11-01T04:36:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "The Independent",
-      "title_original": "Dozens of arrests made as hundreds attend pro-Palestine Action protest outside US embassy",
-      "summary_original": "Dozens of arrests made as hundreds attend pro-Palestine Action protest outside US embassy The Independent",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZnN0MnJFb2IwWUJqZ3k3UF9GZ1pqdE9FWlRmVXNuTXpkd0dXa0xuc0p3X21DU3VPMWJ3Vk5NcFM5VGRxZ1FETFdhb0xiRDdfN29mY205NFVZbkVFQTA3R0JuTk5uUUp5Q1l2b1k1RG9mUy1IREJBNjJENkI0MFlRb0RDYnZjbU1XYWE5RU41QXNJOXl2ckNwQ0U3YURWZTFQNUhDenlCWHlHd1NP?oc=5",
-      "published": "2026-11-01T04:29:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "The Independent",
-      "title_original": "Brian May recalls Neil Armstrong remark that ‘petrified’ him",
-      "summary_original": "Brian May recalls Neil Armstrong remark that ‘petrified’ him The Independent",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbzdhUGdIUW5RbUotUlByd3Rkb1MxWWVlMGRUbC15RTZGNG8wa1FUVWdUcWdjWTJtc1h3dzdYXzRGNUJJejlkZzQzZGZlaHM5LW1QQWVKV0xraWhlTHk0c1RZZE9fWjNFdzdsOG5TaVhTcUNoRGU0YlJBMldzR1FPS2RkWU9ZQXlabmxuYklVczcxdV9GX3h4YmVkTWZnaWhNS1RVZDM4QjVXenRtcE0yRXppcDc0ZnRYejBZaUNxLWw5bEE?oc=5",
-      "published": "2026-11-01T04:15:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "The Independent",
-      "title_original": "King arrives in Antigua and Barbuda as slavery debate persists",
-      "summary_original": "King arrives in Antigua and Barbuda as slavery debate persists The Independent",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbkRvZ0hLX2g0eklXWVlETlR5NUEwRTB2NWJ2cWh4Zm13dXE3T3lDZjdtSHh4aDJlc1JmUExXZi03enEtbE5Sb29sekY0bk9JMkVpbG1IM0FLTFlOZklVNW96aENRVUNaVmYyZ3NySi1COElsS1BOcWQ0S1lFVnJqUTItQ2RRTnBHTThmdVAtcHMxTDBOVzFnSE1zb21jWXc3V05rQ3hSd1RUQTB2eml3?oc=5",
-      "published": "2026-11-01T03:55:00+09:00",
+      "title_original": "Maya Jama praised as ‘true winner’ after matching Celebrity Traitors donation for chosen charity",
+      "summary_original": "Maya Jama praised as ‘true winner’ after matching Celebrity Traitors donation for chosen charity The Independent",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY2pTcjZ2aE93UlRrWHhDMkV4WnBUWlpjNURBaFZwZTNTRjcwVkNObzdENHpGM2JLQ3hZZlBoUnZ1bDBfanNPYkNJcGw3MkF6bGVPR1ROc0hxTTk3LUZZTS1Hb3lULXNxdXlBMzIxalpYak9GaVdOSEpCaWtPeFp3aUt1TEY1d19PSGg1UTVFb1Z0MVVzN2VzTldGMHVqOEgtSFV6MFRIMm9PaFJXMHk0MWRvbkNNNU11WUQwaG1MMHJ4M1QydEZReUZzQ2F0YThFNXc?oc=5",
+      "published": "2026-11-01T05:28:00+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -701,7 +692,16 @@
       "title_original": "The Americans changing politics for the better",
       "summary_original": "The Americans changing politics for the better The Economist",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZNlJYa0tTaVdMTzhadWJRWmJpTXZPbUZjNGdTaVdveDM0WU4tTjhSUkxuYk1ZdmFUN3gxVVRPN3RaWU8wa3Y0SVBlTy1zaWtYOVVmS1dscDZ1NE9LdUVr?oc=5",
-      "published": "2026-11-01T05:14:45+09:00",
+      "published": "2026-11-01T06:19:02+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "World",
+      "summary_original": "World The Economist",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUkZxcmJyR3RkUVhnSEQwY1k3Y3QzdER6ZWxOS2Q2RVpwZjlhUkZaSlN5XzBBREhKOGNqLUVQa3AxYmNVME51ZEpZOTZ5UVZTdWFPNmJobHlTNnRHMFZ2Z0hxc2p2eXJuTTBvLUY5Vy1TWHZDeVFoSkdLVzFjcmg1dlhhMVZ1ZUhp?oc=5",
+      "published": "2026-11-01T05:53:02+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -756,15 +756,6 @@
       "summary_original": "The world this week The Economist",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSVZRbmNNR1FVZUFDOHhXQjBxY1IxV0ZiNTFxQkdDbmpIOUhXc19Senl5WGl5M2JkTjVKVVJkandRVDZ1TGx4MmNZc280OXU4ZWVUOU9MUnIzRS1yNGhsRURaZ0VKM3ppb2t3cGRBSUo2eTFtSV91a1VMeGtkcG52Nkt4cDJQQ2lkMk16cUUtRHQ3WGprZ2RvQ0h5QQ?oc=5",
       "published": "2026-11-01T00:53:42+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "The Economist",
-      "title_original": "Cover Story: The Americans changing politics for the better",
-      "summary_original": "Cover Story: The Americans changing politics for the better The Economist",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTk5DdmlJS3NZN3k5UW9tMFVpejRRLUpqdWx3d2UzX3Z1UnpnNG1peWJUM0RxOEFxaXBobDd4MlRwd0F2YmhJRmdJcEJHci01TGdZbmM3UU1TUzlQYmpjSW5IR2hRNDV1UU5fMVZ6bzRKRVBKdUpEdzZETGZuZmNfVURFOFBGY1ZEOGp5SjJSdkpYOUlRck9uM25YQThVSVlWTnBmUHIwdU1sQnl5SjNJQ2RlNEpvQQ?oc=5",
-      "published": "2026-11-01T00:51:02+09:00",
       "via": "google_news",
       "state_media": false
     }

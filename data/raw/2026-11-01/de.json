@@ -1,8 +1,17 @@
 {
   "team": "de",
   "team_name_ko": "독일팀",
-  "collected_at": "2026-11-01T06:13:02.827601+09:00",
+  "collected_at": "2026-11-01T07:51:46.352371+09:00",
   "headlines": [
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Erneut Proteste und Zusammenstöße in Frankreich",
+      "summary_original": "Am dritten Samstag in Folge haben in Frankreich Hunderttausende Menschen protestiert - erst friedlich, doch am Ende kam es wieder zu Zusammenstößen mit der Polizei. Die bleibt auch nach Ende der Protestzüge in Alarmbereitschaft. Von J. Borutta.",
+      "url": "https://www.tagesschau.de/ausland/frankreich-proteste-242.html",
+      "published": "2026-11-01T07:32:55+09:00",
+      "via": "rss",
+      "state_media": false
+    },
     {
       "source": "ARD Tagesschau",
       "title_original": "FC Bayern und Harry Kane feiern sich gegen den BVB zu früh",
@@ -67,11 +76,47 @@
       "state_media": false
     },
     {
-      "source": "ARD Tagesschau",
-      "title_original": "Linke in Berlin macht Weg frei für Koalitionsverhandlungen",
-      "summary_original": "Linke in Berlin macht Weg frei für Koalitionsverhandlungen",
-      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1675892.html",
-      "published": "2026-11-01T04:27:09+09:00",
+      "source": "ZDF heute",
+      "title_original": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
+      "summary_original": "Die Lage in Nahost ist weiter angespannt - es kommt immer wieder zu Angriffen. Im Westjordanland spitzt sich die Situation zu. Alle Entwicklungen im Liveblog.",
+      "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+      "published": "2026-11-01T07:28:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Aktuelles zum Krieg in der Ukraine",
+      "summary_original": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
+      "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
+      "published": "2026-11-01T07:27:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Frankreich: 320.000 Menschen bei Protesten auf der Straße",
+      "summary_original": "Sie protestieren gegen gegen hohe Lebenshaltungskosten und Missstände im Bildungssystem: An den landesweiten Demonstrationen in Frankreich haben 320.000 Menschen teilgenommen.",
+      "url": "https://www.zdfheute.de/politik/ausland/frankreich-proteste-gegen-hohe-kosten-grossstaedte-100.html",
+      "published": "2026-11-01T06:37:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Jetzt: das aktuelle sportstudio mit Bayern-BVB und Laura Siegemund",
+      "summary_original": "\"das aktuelle sportstudio\" berichtet von den Spielen der Bundesliga, zeigt Ausschnitte des Abendspiels als Free-TV-Premiere und den Sport des Tages. Studiogast: Tennisspielerin Laura Siegemund.",
+      "url": "https://www.zdf.de/video/shows/das-aktuelle-sportstudio-220/das-aktuelle-sportstudio-vom-31-oktober-2026-100",
+      "published": "2026-11-01T06:30:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Frankfurt: Polizei sperrt nach Tumulten Bereiche der Innenstadt",
+      "summary_original": "In mehr als 30 Städten haben junge Menschen ihren Frust auf die Straße getragen. Am Rande der meist friedlichen Proteste kam es in manchen Städten zu Krawallen. Der Tag im Blog.",
+      "url": "https://www.zdfheute.de/politik/deutschland/gen-z-proteste-deutschland-liveblog-100.html",
+      "published": "2026-11-01T06:29:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -81,15 +126,6 @@
       "summary_original": "Protestforscher Florian Staudt schließt nicht aus, dass kleine Gruppen gezielt Ausschreitungen suchen. Alle Demonstrierenden unter Generalverdacht zu stellen, sei aber ein \"falsches Signal\".",
       "url": "https://www.zdfheute.de/video/zdfspezial/gen-z-protest-spezial-florian-staudt-video-100.html",
       "published": "2026-11-01T05:30:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "\"Gen Z regelt\": Protesttag meist friedlich, vereinzelt Krawalle",
-      "summary_original": "In mehr als 30 Städten haben junge Menschen ihren Frust auf die Straße getragen. Am Rande der meist friedlichen Proteste kam es in manchen Städten zu Krawalle. Der Tag im Blog.",
-      "url": "https://www.zdfheute.de/politik/deutschland/gen-z-proteste-deutschland-liveblog-100.html",
-      "published": "2026-11-01T05:20:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -108,42 +144,6 @@
       "summary_original": "Borussia Dortmund hat im Spitzenspiel dem FC Bayern getrotzt. Mit etwas Glück holte der BVB in München ein Remis und bleibt am Meister dran. Fabio Silva ließ den BVB spät jubeln, während die Münchner gleich drei Verletzte beklagen.",
       "url": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-2026-2027-fc-bayern-muenchen-borussia-dortmund-spielbericht-100.html",
       "published": "2026-11-01T04:33:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "Energieschub dank Nasenbluten beim Beachvollyball",
-      "summary_original": "Bei den Youth Olympic Games kämpft Beachvolleyballer Lasse Hüper mit seiner blutenden Nase. Der Ärger verleiht ihm aber neuen Schwung.",
-      "url": "https://www.zdfheute.de/sport/video/nasenbluten-beachvolleyball-youth-olympic-games-100.html",
-      "published": "2026-11-01T04:20:25+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "Berlin: Linken-Parteitag stimmt für Koalitionsverhandlungen",
-      "summary_original": "Die Berliner Linke hat bei ihrem Parteitag für Koalitionsverhandlungen mit SPD und Grünen gestimmt. Schon am Montag könnten Gespräche starten. In der Partei gab es auch Kritk.",
-      "url": "https://www.zdfheute.de/politik/deutschland/berlin-linke-gruene-spd-koalitionsverhandlungen-wahl-100.html",
-      "published": "2026-11-01T04:12:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "Die Eröffnungsfeier in voller Länge",
-      "summary_original": "19:25 - 21 Uhr: Eröffnungsfeier Youth Olympic Games in Dakar, Kommentatoren: Meili Scheidemann und Sebastian Ungermanns.",
-      "url": "https://www.zdf.de/video/livestreams/dokus-hintergruende-videos-100/youth-olympic-games-2026-eroeffnung-31-oktober-livestream-100",
-      "published": "2026-11-01T03:25:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "Aktuelles zum Krieg in der Ukraine",
-      "summary_original": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
-      "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
-      "published": "2026-11-01T03:05:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -221,6 +221,33 @@
     },
     {
       "source": "n-tv",
+      "title_original": "Antonelli vor Triumph: Hamilton beschert Ferrari die erste Pole-Position des Jahres",
+      "summary_original": "Kimi Antonelli kann sich beim Grand Prix in Mexiko zum jüngsten Formel-1-Weltmeister aller Zeiten krönen. Von ganz vorn startet aber ein anderer ins Rennen: Lewis Hamilton. Für Ferrari ist es eine Premiere in dieser Saison.",
+      "url": "https://www.n-tv.de/sport/formel1/Hamilton-beschert-Ferrari-die-erste-Pole-Position-des-Jahres-id31480823.html",
+      "published": "2026-11-01T07:28:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Zeitung sollte Milliarden zahlen: Epstein-Klage von Trump endgültig abgewiesen",
+      "summary_original": "Eine schlüpfrige Gratulation zum Geburtstag soll Trump an den Sexualstraftäter Epstein geschickt haben. Über den Brief berichtete das \"Wall Street Journal\" und der US-Präsident verlangte dafür zehn Milliarden Dollar Schadensersatz. Vergeblich, wie das Gericht nun urteilt.",
+      "url": "https://www.n-tv.de/politik/Epstein-Klage-von-Trump-endgueltig-abgewiesen-id31480817.html",
+      "published": "2026-11-01T07:20:08+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Traumfreistoß inklusive: KSC verdient sich Sieg - und schickt Sandro Wagner ganz runter",
+      "summary_original": "Als Tabellenletzter muss der Karlsruher SC gegen den 1. FC Heidenheim ran. Dort steht das Team nach Sieg gegen den Absteiger nicht mehr. Auch wenn der KSC in der Nachspielzeit nochmal richtig zittern muss.",
+      "url": "https://www.n-tv.de/sport/fussball/KSC-verdient-sich-Sieg-und-schickt-Sandro-Wagner-ganz-runter-id31480798.html",
+      "published": "2026-11-01T06:29:56+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
       "title_original": "Waffen- und Schuhladen betroffen: Randalierer plündern Geschäfte in Frankfurt am Main",
       "summary_original": "Böller fliegen, Schaufensterscheiben gehen zu Bruch: Die Lage in Frankfurt am Main eskaliert. Offenbar entwenden die Randalierer auch eine Waffe aus einem Geschäft. Die Polizei meldet zudem mehrere verletzte Beamte.",
       "url": "https://www.n-tv.de/panorama/Randalierer-pluendern-Geschaefte-in-Frankfurt-am-Main-id31480757.html",
@@ -265,38 +292,47 @@
       "state_media": false
     },
     {
-      "source": "n-tv",
-      "title_original": "Saibari auf Krücken: FC Bayern leidet bitter mit drei neuen Verletzten",
-      "summary_original": "Das Lazarett füllt sich beim FC Bayern. Nach dem Topspiel gegen Borussia Dortmund kommen drei weitere Verletzte hinzu. Vor dem Champions-League-Spiel gegen Atlético Madrid sind das schlechte Nachrichten.",
-      "url": "https://www.n-tv.de/sport/fussball/FC-Bayern-leidet-bitter-mit-drei-neuen-Verletzten-id31480716.html",
-      "published": "2026-11-01T05:28:30+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "n-tv",
-      "title_original": "Vor Nummer-1-Krönung: Schimpfender Zverev verpasst das Gigantenfinale",
-      "summary_original": "Die Nummer eins hat er sicher, doch die Krönung kann Alexander Zverev nicht ganz befreit feiern. Das Halbfinale des ATP-Turniers in Wien verliert er - und hat dabei kräftig was zu meckern. Damit verpasst er auch das Traumfinale gegen Carlos Alcaraz.",
-      "url": "https://www.n-tv.de/sport/Schimpfender-Zverev-verpasst-das-Gigantenfinale-id31480614.html",
-      "published": "2026-11-01T05:14:56+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "n-tv",
-      "title_original": "Bundesweite Demonstrationen: \"Gen Z regelt\"-Proteste beginnen friedlich - dann kippt die Stimmung",
-      "summary_original": "Mehrere Zehntausend Menschen gehen bei bundesweiten Jugendprotesten auf die Straße. Anfangs ist die Lage ruhig - doch am Abend kommt es in mehreren Städten zu Ausschreitungen.",
-      "url": "https://www.n-tv.de/panorama/Gen-Z-regelt-Proteste-beginnen-friedlich-dann-kippt-die-Stimmung-id31480546.html",
-      "published": "2026-11-01T05:05:40+09:00",
+      "source": "WELT",
+      "title_original": "Zerschlagene Scheiben und Plünderszenen in Frankfurt – Polizei riegelt Teile der Innenstadt ab",
+      "summary_original": "Nach dem offiziellen Ende der „Gen Z regelt“-Proteste beginnen die Ausschreitungen. Gewalttäter zerschlagen in Frankfurt Schaufensterscheiben und versuchen, Waren zu stehlen. Die Polizei nimmt Plünderer fest und sperrt Teile der Innenstadt. Mehr im Liveticker.",
+      "url": "https://www.welt.de/vermischtes/article6ae4b4253620137294c24bb2/gen-z-proteste-zerschlagene-scheiben-und-pluenderszenen-in-frankfurt-polizei-riegelt-innenstadt-ab.html",
+      "published": "2026-11-01T07:36:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "WELT",
-      "title_original": "Stein- und Böllerwürfe auf Polizisten – Zerschlagene Scheiben und Plünderszenen in Frankfurt",
-      "summary_original": "Nach dem offiziellen Ende der „Gen Z regelt“-Proteste beginnen die Ausschreitungen. Gewalttäter zerschlagen in Frankfurt Schaufensterscheiben und versuchen, Waren zu stehlen. Auch in Köln ziehen vermummte Randalierer durch die Straßen. Mehr im Liveticker.",
-      "url": "https://www.welt.de/vermischtes/article6ae4b4253620137294c24bb2/gen-z-proteste-stein-und-boellerwuerfe-auf-polizisten-zerschlagene-scheiben-und-pluenderszenen-in-frankfurt.html",
-      "published": "2026-11-01T05:37:00+09:00",
+      "title_original": "Nach dem Spitzenspiel äußert sich Kimmich zur Anteilnahme am Tod seines Vaters",
+      "summary_original": "Nach dem unerwarteten Tod seines Vaters hatte Joshua Kimmich dem FC Bayern gefehlt. Im Topspiel gegen Dortmund kehrte er direkt in die Startelf zurück. Anschließend bedankte er sich für die Anteilnahme, die sich auch auf dem Spielfeld noch fortsetzte.",
+      "url": "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6ae65bbf4db6c62483ec3d6e/trauer-auf-dem-platz-nach-dem-spiel-aeussert-sich-joshua-kimmich-zum-ploetzlichen-tod-seines-vaters.html",
+      "published": "2026-11-01T06:57:16+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Linken-Politiker lernt von Schülerprotesten in Paris – „Gen Z regelt“ plant weitere Demos",
+      "summary_original": "Der Linken-Bundestagsabgeordnete Luke Hoß reist nach Frankreich, um von der Protestbewegung zu lernen. In Deutschland zieht die Initiative „Gen Z regelt“ ein positives Fazit der Demonstrationen – und plant schon die nächste bundesweite Aktion.",
+      "url": "https://www.welt.de/politik/deutschland/article6ae65072aedea8cd9ffbfe87/nur-der-erste-schritt-linken-politiker-lernt-von-schuelerprotesten-in-paris-gen-z-regelt-plant-weitere-demos.html",
+      "published": "2026-11-01T06:55:58+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Max Eberls süffisante Spitze gegen Michael Ballack",
+      "summary_original": "Max Eberl hat in der Debatte um Lennart Karl auf Michael Ballacks Kritik reagiert. Der Bayern-Sportvorstand thematisierte die Doppelfunktion Ballacks. Lothar Matthäus erkennt Parallelen zu Schweinsteiger, der von Uli Hoeneß zum Friseur geschickt wurde.",
+      "url": "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6ae64d04a392b848ea8fa98c/debatte-um-lennart-karl-max-eberls-sueffisante-spitze-gegen-michael-ballack.html",
+      "published": "2026-11-01T06:40:53+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Bayern von Verletzungen geschockt – „Fühlt sich heftig an, was um uns herum passiert“",
+      "summary_original": "Der FC Bayern verspielt im Topspiel der Bundesliga gegen Borussia Dortmund den Sieg. Gleich drei wichtige Spieler müssen verletzt vom Rasen. Sportvorstand Max Eberl gibt ein Update. Und zeigt sich besorgt.",
+      "url": "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6ae6482d4db6c62483ec3c37/fussball-fc-bayern-von-verletzungen-geschockt-fuehlt-sich-heftig-an.html",
+      "published": "2026-11-01T06:39:51+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -328,42 +364,6 @@
       "state_media": false
     },
     {
-      "source": "WELT",
-      "title_original": "Kessel in Köln ‒ Nach Ausschreitungen verlagern sich Proteste in Seitenstraßen",
-      "summary_original": "In Köln löste die Polizei eine Kundgebung auf und setzte Wasserwerfer ein. Reporter Christian Schmidt berichtet von eingekesselten Demonstranten und einem Angriff auf das WELT-Team.",
-      "url": "https://www.welt.de/videos/video6ae6437aaedea8cd9ffbfd80/gen-z-proteste-kessel-in-koeln-nach-ausschreitungen-verlagern-sich-proteste-in-seitenstrassen.html",
-      "published": "2026-11-01T04:52:52+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "WELT",
-      "title_original": "Zverev schimpft über Bälle und verliert in Wien",
-      "summary_original": "Das Traumfinale zwischen Alexander Zverev und Carlos Alcaraz in Wien ist geplatzt. Der deutsche Weltranglistenerste verlor sein Halbfinale. Der Deutsche beschwerte sich immer wieder über die Bälle. Jan-Lennard Struff verpasste das Endspiel in Basel.",
-      "url": "https://www.welt.de/sport/tennis/article6ae639654db6c62483ec3b3f/tennis-alexander-zverev-schimpft-ueber-baelle-und-verliert-in-wien.html",
-      "published": "2026-11-01T04:21:42+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "WELT",
-      "title_original": "Anerkennung, aber auch Pfiffe – Kanes besondere Ehrung vor dem Anpfiff",
-      "summary_original": "Nach seiner Auszeichnung als Weltfußballer wurde Münchens Harry Kane vor dem Topspiel gegen Dortmund gewürdigt. Auch auf der Tribüne und dem Olympiaturm. Der Stürmer spielte anschließend in speziellen Schuhen mit goldener Sohle.",
-      "url": "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6ae6307f2ad15c2e8ecf323e/ballon-dor-anerkennung-aber-auch-pfiffe-harry-kanes-besondere-ehrung-vor-dem-anpfiff.html",
-      "published": "2026-11-01T04:01:05+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "WELT",
-      "title_original": "Fans versuchen Gästeblock zu stürmen – Polizist bei Randale verletzt",
-      "summary_original": "Nach der Niederlage von Hessen Kassel versuchen Fans, in den Gästeblock einzudringen. Die Polizei muss eingreifen. Ein Beamter wird verletzt, zehn Personen werden vorläufig festgenommen.",
-      "url": "https://www.welt.de/sport/fussball/article6ae629d1aedea8cd9ffbfbc3/hessen-kassel-fans-versuchen-gaesteblock-zu-stuermen-polizist-bei-randale-verletzt.html",
-      "published": "2026-11-01T03:58:28+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
       "source": "Handelsblatt",
       "title_original": "+++ Ukraine-Krieg +++: Oleschky-Flüchtlinge in der Ukraine angekommen – Evakuierung von ukrainischer Frontstadt beendet",
       "summary_original": "Erdogan nennt Angriffe auf Handelsschiffe im Schwarzen Meer inakzeptabel +++ Selenskyj: Habe mit Erdogan über bevorstehende Verhandlungen beraten +++ Der Newsblog.",
@@ -384,7 +384,7 @@
     {
       "source": "Handelsblatt",
       "title_original": "Deep Read: „Eine besondere Form des Staatskapitalismus“ – Wie der Trumpismus wankt",
-      "summary_original": "Interventionismus, Protektionismus, Überschuldung – der staatskapitalistische Ansatz des US-Präsidenten stößt an seine Grenzen. Donald Trumps Partei droht eine Niederlage bei den Zwischenwahlen.",
+      "summary_original": "Interventionismus, Protektionismus, Überschuldung – der wirtschaftspolitische Ansatz des US-Präsidenten stößt an seine Grenzen. Donald Trumps Partei droht eine Niederlage bei den Zwischenwahlen.",
       "url": "https://www.handelsblatt.com/politik/international/midterms-der-trumpismus-wankt-wirtschaftlich-und-politisch/100262692.html",
       "published": "2026-11-01T01:53:47+09:00",
       "via": "rss",
@@ -428,10 +428,37 @@
     },
     {
       "source": "Handelsblatt",
-      "title_original": "„Gen Z regelt“: Verletzte Polizisten bei Jugendprotesten in Frankfurt",
-      "summary_original": "Bei den bundesweiten Jugendprotesten kommt es in mehreren Städten zu Ausschreitungen. In Frankfurt löst die Polizei die Demonstration nach Böller- und Steinwürfen auf.",
-      "url": "https://www.handelsblatt.com/politik/deutschland/gen-z-regelt-verletzte-polizisten-bei-jugendprotesten-in-frankfurt/100266344.html",
+      "title_original": "„Gen Z regelt“: Plünderungen und Angriffe auf Polizisten in Frankfurt",
+      "summary_original": "Nach der Auflösung einer Jugenddemo plündern Randalierer Geschäfte und greifen Polizisten an. Die Polizei sperrt die Einkaufsstraße Zeil ab.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/gen-z-regelt-pluenderungen-und-angriffe-auf-polizisten-in-frankfurt/100266344.html",
       "published": "2026-11-01T00:01:42+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Donald Trump und die Jeffrey-Epstein-Files: Gericht stoppt Klage gegen Zeitung",
+      "summary_original": "Donald Trump ist mit seiner Verleumdungsklage gegen das »Wall Street Journal« gescheitert. Die Zeitung hatte über einen angeblich anzüglichen Geburtstagsbrief Trumps an den Sexualstraftäter Jeffrey Epstein berichtet.",
+      "url": "https://www.spiegel.de/ausland/donald-trump-und-die-jeffrey-epstein-files-gericht-stoppt-klage-gegen-zeitung-a-e1ce2fc6-447c-4034-ae98-d34fcc6eec5b#ref=rss",
+      "published": "2026-11-01T06:36:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "»Gen Z regelt« Proteste - Frankfurt: Randalierer schlagen Scheiben ein und plündern Läden",
+      "summary_original": "Die einen warfen Molotowcocktails, andere stahlen Turnschuhe – oder attackierten ein Waffenfachgeschäft: In Frankfurt am Main haben sich am Rand der Schülerproteste Szenen wie in Frankreich abgespielt. Nun ist die Einkaufsstraße Zeil gesperrt.",
+      "url": "https://www.spiegel.de/panorama/gen-z-regelt-proteste-frankfurt-randalierer-schlagen-scheiben-ein-und-pluendern-laeden-a-fe7e2673-21cc-48d2-b782-17bf33df9075#ref=rss",
+      "published": "2026-11-01T06:25:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Polen: Donald Tusk attackiert Karol Nawrocki nach rüder Visite im Verfassungsgericht",
+      "summary_original": "Polens Präsident Karol Nawrocki ist am Freitagabend in das Verfassungsgericht eingedrungen – und drückte offenbar eine Richterin nach unten. Nun hat sich der liberale Premier Donald Tusk den ehemaligen Amateurboxer vorgenommen.",
+      "url": "https://www.spiegel.de/ausland/polen-donald-tusk-attackiert-karol-nawrocki-nach-rueder-visite-im-verfassungsgericht-a-9fabfec6-cb4a-4a33-802a-77a3d1812167#ref=rss",
+      "published": "2026-11-01T06:16:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -481,38 +508,56 @@
       "state_media": false
     },
     {
-      "source": "Der Spiegel",
-      "title_original": "Bildungsökonom Ludger Wößmann: »Bessere Schulbildung könnte Deutschland 20 Billionen Euro einbringen«",
-      "summary_original": "Wie kann Deutschland seinen Wohlstand halten? Nur durch bessere Schulbildung, sagt der Ökonom Ludger Wößmann. Doch Politik und Bildungssystem setzten falsche Prioritäten.",
-      "url": "https://www.spiegel.de/wirtschaft/soziales/bildungsoekonom-ludger-woessmann-bessere-schulbildung-koennte-deutschland-20-billionen-euro-einbringen-a-ee40144a-48f4-4a35-a0a2-5b6b5edb8fd9#ref=rss",
-      "published": "2026-11-01T04:31:00+09:00",
+      "source": "FAZ",
+      "title_original": "Formel 1 in Mexiko: Hamilton sichert Pole-Position – Antonelli klar geschlagen",
+      "summary_original": "Mit Platz neun im Rennen wäre Kimi Antonelli vorzeitig Weltmeister in der Formel 1. Im Qualifying aber landen die beiden letzten „Konkurrenten“ vor ihm. Lewis Hamilton im Ferrari überrascht.",
+      "url": "https://www.faz.net/aktuell/sport/formel-1/lewis-hamilton-auf-pole-position-bei-formel-1-rennen-in-mexiko-201640027.html",
+      "published": "2026-11-01T07:33:29+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "Der Spiegel",
-      "title_original": "Hito Steyerl in den Deichtorhallen Hamburg: Es wird ein wenig heller",
-      "summary_original": "Was hat die Kunst einer Wirklichkeit entgegenzusetzen, in der nichts mehr wirklich scheint? Hito Steyerls Werkschau »Deine Mudda macht Show« in den Hamburger Deichtorhallen zeigt: So einiges.",
-      "url": "https://www.spiegel.de/kultur/hito-steyerl-in-den-deichtorhallen-hamburg-es-wird-ein-wenig-heller-a-b1f44c24-8e44-4716-a5ac-6238cc1a9d4e#ref=rss",
-      "published": "2026-11-01T04:28:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Der Spiegel",
-      "title_original": "Deutschland: Studie erwartet anhaltend niedrige Geburtenzahlen",
-      "summary_original": "Nur noch 654.000 Kinder kamen 2025 in Deutschland zur Welt, so wenige wie nie in der Nachkriegszeit. Dem Institut der Deutschen Wirtschaft zufolge bleiben die Zahlen absehbar niedrig. Dafür gibt es zwei Gründe.",
-      "url": "https://www.spiegel.de/panorama/gesellschaft/demografie-in-deutschland-studie-erwartet-anhaltend-niedrige-geburtenzahlen-a-21731f1d-a98a-4444-9495-c2b14d2eeafc#ref=rss",
-      "published": "2026-11-01T04:26:00+09:00",
+      "source": "FAZ",
+      "title_original": "Demo in Berlin: „Irgendwo muss die Wut ja hin“",
+      "summary_original": "In Berlin werfen Demonstranten Eier auf Geschäfte, immer wieder knallt es. Wessen Frust entlädt sich da?",
+      "url": "https://www.faz.net/aktuell/politik/inland/gen-z-demo-in-berlin-3500-demonstranten-pyrotechnik-und-festnahmen-201639894.html",
+      "published": "2026-11-01T07:33:27+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "FAZ",
       "title_original": "Gen-Z-Demos: Ausschreitungen in Frankfurt: Jugendliche werfen Scheiben ein",
-      "summary_original": "Waffengeschäft wird Ziel von Plünderung +++ Demos in Berlin und Frankfurt beendet +++ Veranstalter sprechen von mehr als 100.000 Teilnehmern +++ alle Entwicklungen im Liveblog",
+      "summary_original": "Frankfurter Zeil gesperrt – Geschehen verlagert sich +++ 56 Festnahmen in Berlin +++ Ausschreitungen auf Kölner Domplatte +++ Waffengeschäft wird Ziel von Plünderung +++ alle Entwicklungen im Liveblog",
       "url": "https://www.faz.net/aktuell/politik/inland/liveticker-gen-z-proteste-ausschreitungen-in-frankfurt-jugendliche-werfen-scheiben-ein-faz-201635936.html",
-      "published": "2026-11-01T06:07:12+09:00",
+      "published": "2026-11-01T07:26:11+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "O'Reilly's: Die irische Botschaft im Frankfurter Bahnhofsviertel",
+      "summary_original": "Das O’Reilly’s ist seit einem Vierteljahrhundert Treffpunkt im Bahnhofsviertel. Inhaber Dave Doyle erzählt von dem Geschäft mit Guinness, Sport und irischer Gastfreundschaft.",
+      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/o-reillys-25-jahre-irish-pub-in-frankfurt-201275568.html",
+      "published": "2026-11-01T06:46:54+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Joshua Kimmich: „Ich bin froh, dass ich wieder da bin“",
+      "summary_original": "Drei Spiele fehlt Joshua Kimmich nach dem Tod seines Vaters. Im Spitzenduell mit Borussia Dortmund kehrt er auf den Rasen zurück. Danach spricht er mit bewegenden Worten über die schwere Zeit.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/joshua-kimmich-spricht-nach-bundesliga-topspiel-ueber-tod-von-vater-201639937.html",
+      "published": "2026-11-01T06:41:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Zweite Bundesliga: Karlsruhe schickt Hannover auf den letzten Platz",
+      "summary_original": "Im engen Tabellenkeller der zweiten Fußball-Bundesliga verschafft sich der KSC Luft. Nach dem Heimsieg im Abendspiel gegen den 1. FC Heidenheim ist nun vorerst Hannover 96 das Schlusslicht.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/karlsruher-sc-besiegt-1-fc-heidenheim-in-2-fussball-bundesliga-2-1-201304570.html",
+      "published": "2026-11-01T06:34:13+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -535,47 +580,20 @@
       "state_media": false
     },
     {
-      "source": "FAZ",
-      "title_original": "Krisentreffen: Machtkampf um Polens Verfassungsgericht spitzt sich zu",
-      "summary_original": "Präsident Karol Nawrocki, der der PiS nahe steht, lädt alle Parteien zur Krisensitzung zur Lage um das Verfassungsgericht. Doch Donald Tusks Partei lässt sich darauf nicht ein.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/polens-verfassungsgericht-nawrocki-laedt-zur-krisensitzung-201639845.html",
-      "published": "2026-11-01T05:45:52+09:00",
+      "source": "Süddeutsche Zeitung",
+      "title_original": "USA: Republikanische Regierung Alaskas will Trump-Klage zu Senatswahl abweisen lassen",
+      "summary_original": "Kurz vor den US-Kongresswahlen ist ein Rechtsstreit um das wichtige Senatsrennen in Alaska noch ungeklärt. Die Regierung des Staates kritisiert die Trump-Regierung nun scharf.",
+      "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-alaska-kongresswahlen-sullivan-trump-li.3568285",
+      "published": "2026-11-01T06:42:09+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "FAZ",
-      "title_original": "Gen-Z-Demos: Gewalt überschattet Jugendprotest in Frankfurt",
-      "summary_original": "Böller und Flaschen gegen Polizisten lassen die Jugenddemo in Frankfurt entgleiten. Auch Scheiben gehen zu Bruch. Dabei wollten Tausende über Wohnungen und Generationengerechtigkeit reden.",
-      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/gen-z-regelt-proteste-in-frankfurt-gewalt-ueberschattet-berechtigte-anliegen-201639854.html",
-      "published": "2026-11-01T05:18:37+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "FAZ",
-      "title_original": "Westsahara: Russland war der US-Entwurf zu promarokkanisch",
-      "summary_original": "Im UN-Sicherheitsrat scheitert die Verlängerung einer der ältesten UN-Missionen. Flammt der Konflikt um die Westsahara wieder auf?",
-      "url": "https://www.faz.net/aktuell/politik/ausland/un-mission-vor-dem-ende-marokko-fordert-abzug-aus-westsahara-201639458.html",
-      "published": "2026-11-01T04:37:52+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "FAZ",
-      "title_original": "2:2 beim FC Bayern: Die Dortmunder dürfen sich im Topspiel wie Sieger fühlen",
-      "summary_original": "Bekommt die Fußball-Bundesliga ein spannendes Titelrennen? Nach dem 2:2 im Topspiel zwischen dem FC Bayern und Borussia Dortmund ist die Antwort: womöglich ja. Denn die Münchner plagen einige Sorgen.",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-gegen-borussia-dortmund-2-2-im-bundesliga-topspiel-201304266.html",
-      "published": "2026-11-01T04:30:46+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "FAZ",
-      "title_original": "Tennis: Zverev schimpft über Bälle und verpasst Traumfinale in Wien",
-      "summary_original": "Alexander Zverev verpasst beim Tennisturnier in Wien das Endspiel gegen Carlos Alcaraz. Auch Jan-Lennard Struff scheitert im Halbfinale von Basel – nach einem vergebenen Matchball.",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/alexander-zverev-verliert-tennis-halbfinale-in-wien-gegen-alex-de-minaur-201639820.html",
-      "published": "2026-11-01T04:03:19+09:00",
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Deutschland: Jugendproteste nicht überall friedlich: viel Pyrotechnik, Wasserwerfer im Einsatz",
+      "summary_original": "Zehntausende junge Menschen gehen auf die Straße. Die befürchteten großen Ausschreitungen bleiben bislang aus, aber in mehreren Städten zündeln Demonstranten mit Pyrotechnik. Manche attackieren auch Einsatzkräfte.",
+      "url": "https://www.sueddeutsche.de/politik/gen-z-regelt-demo-proteste-gewalt-polizei-li.3572191",
+      "published": "2026-11-01T06:20:29+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -634,92 +652,74 @@
       "state_media": false
     },
     {
-      "source": "Süddeutsche Zeitung",
-      "title_original": "Newsblog zu den Landtagswahlen: Berliner Linke stimmt für Koalitionsverhandlungen mit Grünen und SPD",
-      "summary_original": "Der Weg für konkrete Gespräche ist frei, doch die dürfen es in sich haben. Bei SPD und Grünen sind nicht alle von einem Bündnis mit der Linken überzeugt. Deren Fraktionschefin Eralp spricht von einer „Angriffswelle“ gegen ihre Partei.",
-      "url": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-eralp-koalition-li.3540501",
-      "published": "2026-11-01T00:54:22+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Süddeutsche Zeitung",
-      "title_original": "Vietnam: Tiger oder Papiertiger – das ist hier die Frage",
-      "summary_original": "Ho-Chi-Minh-Stadt steht für Vietnams rasantes Wirtschaftswachstum. Die Reformfreude ist groß. Ausländische Unternehmer sind begeistert. Aber bedenkt die Parteidiktatur die Tücken ihres Ehrgeizes? Ein Besuch.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/vietnam-ho-chi-minh-stadt-wirtschaftswachstum-suedostasien-li.3559032",
-      "published": "2026-10-31T22:06:57+09:00",
+      "source": "Die Zeit",
+      "title_original": "Formel 1: Hamiltons Pole-Rückkehr vor der möglichen Antonelli-Krönung",
+      "summary_original": "",
+      "url": "https://www.zeit.de/news/2026-10/31/eine-winzigkeit-antonelli-zweiter-um-eine-tausendstel",
+      "published": "2026-11-01T07:38:28+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Fußball-Bundesliga: Trauernder Kimmich: «Mein Vater hat mich immer begleitet»",
+      "title_original": "Proteste eskalieren: SEK in Frankfurter Innenstadt im Einsatz",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-10/31/trauernder-kimmich-mein-vater-hat-mich-immer-begleitet",
-      "published": "2026-11-01T06:01:28+09:00",
+      "url": "https://www.zeit.de/news/2026-10/31/sek-in-frankfurter-innenstadt-im-einsatz",
+      "published": "2026-11-01T07:35:09+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Basketball-Bundesliga: Niners Chemnitz brillieren nach der Pause",
+      "title_original": "Demonstrationen: Tausende bei Gen-Z-Demos in NRW - Zusammenstöße in Köln",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-10/31/niners-chemnitz-brillieren-nach-der-pause",
-      "published": "2026-11-01T06:01:17+09:00",
+      "url": "https://www.zeit.de/news/2026-10/31/tausende-beteiligen-sich-an-gen-z-demos-in-nrw",
+      "published": "2026-11-01T07:30:12+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Handball: Magdeburg erkämpft zwei Punkte in Lemgo",
+      "title_original": "Proteste in der Hauptstadt: Steinwürfe und Pyrotechnik - Polizei stoppt Demo in Berlin",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-10/31/magdeburg-erkaempft-zwei-punkte-in-lemgo",
-      "published": "2026-11-01T05:58:27+09:00",
+      "url": "https://www.zeit.de/news/2026-10/31/steinwuerfe-und-pyrotechnik-polizei-stoppt-demo-in-berlin",
+      "published": "2026-11-01T07:25:20+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Fußball-Bundesliga: «Mister Ballon d'Or» Kane spielt mit besonderem Schuh",
+      "title_original": "Gewalt eskaliert: Krawalle und Plünderungen in Frankfurt",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-10/31/mister-ballon-d-or-kane-spielt-mit-besonderem-schuh",
-      "published": "2026-11-01T05:51:29+09:00",
+      "url": "https://www.zeit.de/news/2026-10/31/krawalle-und-pluenderungen-in-frankfurt",
+      "published": "2026-11-01T07:08:17+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Demonstrationen: Gen-Z-Demos: Erst friedlicher Protest, dann Zwischenfälle",
-      "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-10/31/gen-z-regelt-hofft-auf-mehr-als-160-000-demonstranten",
-      "published": "2026-11-01T05:35:04+09:00",
+      "title_original": "Proteste junger Menschen: Gegen 15 Uhr wurden erste Pyros gezündet",
+      "summary_original": "Zehntausende sind für die Gen Z Proteste auf die Straße gegangen. Mit Halloween-Kostüm, DDR-Flagge und Pyrotechnik. In manchen Städten kippte abends die Stimmung.",
+      "url": "https://www.zeit.de/zeit-magazin/2026-10/proteste-junge-menschen-gen-z-berlin-hamburg",
+      "published": "2026-11-01T07:08:15+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Tumulte und Verletzte: Erst friedlich, dann Gewalt - Frankfurter Demo aufgelöst",
+      "title_original": "Köln: Randale auf Kölner Domplatte - Flaschenwürfe gegen Beamte",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-10/31/mehrere-tausend-bei-demo-in-frankfurt",
-      "published": "2026-11-01T05:34:58+09:00",
+      "url": "https://www.zeit.de/news/2026-10/31/randale-auf-koelner-domplatte-flaschenwuerfe-gegen-beamte",
+      "published": "2026-11-01T07:03:20+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Gesellschaft: Jugendproteste in Bayern - Pyrotechnik und ein Verletzter",
+      "title_original": "Demonstrationen: Straftaten in Stuttgart bei Jugendprotesten im Südwesten",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-10/31/gen-z-protestiert-junge-freie-waehler-warnen-vor-vorurteilen",
-      "published": "2026-11-01T05:31:22+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "Proteste eskalieren: Randalierer schlagen Schaufenster in Frankfurt ein",
-      "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-10/31/randalierer-schlagen-schaufenster-in-frankfurt-ein",
-      "published": "2026-11-01T05:31:05+09:00",
+      "url": "https://www.zeit.de/news/2026-10/31/wo-die-jugend-heute-in-baden-wuerttemberg-auf-die-strasse-geht",
+      "published": "2026-11-01T06:58:41+09:00",
       "via": "rss",
       "state_media": false
     }
