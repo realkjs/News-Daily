@@ -1,0 +1,2217 @@
+{
+ "date": "2026-11-02",
+ "generated_at": "2026-11-02 06:35 KST",
+ "essence": {
+  "headline": "미국 중간선거 전날, 이란 재공격 결정이 선거 뒤로 미뤄져 있다는 보도가 이어졌다(11-01부터) — 트럼프는 '이란 협상 진전'을 말하면서 추가 표적('곡괭이 산')을 거론했고, 네타냐후가 선거 직후 타격을 압박했다는 보도가 나왔다(Vedomosti의 Axios 인용 등). 미국 안에선 법원이 알래스카 인증 연기 소송을 기각했다. 유럽에선 청년 시위의 폭력 책임 공방, 우크라이나 국지 휴전 종료, 불가리아 친러 대통령의 승리(출구조사)가 겹쳤다.",
+  "derivation": {
+   "assumptions": "통념 1: 중간선거는 미국 국내 일정이다. 통념 2: 트럼프의 '협상 진전'은 전쟁이 멀어졌다는 뜻이다. 통념 3: 유럽은 대러 전선에서 하나로 묶여 있다. 🔎 왜 다들 이렇게 보도하는가 — 선거·외교·유럽 정치를 각각 다른 면에 싣기 때문이다. 오늘 원자료는 선거 일정이 이란 결정 시점과 겹치고, 협상과 표적 언급이 한 발언에 같이 들어 있으며, 유럽 안에서 친러 대통령이 승리하는 장면을 함께 적고 있다.",
+   "decomposition": "정치(미국): 알래스카 상원 선거 인증 연기 소송 기각(CNN·NBC·CBS·NYT·Reuters·Guardian·Independent; CNBC '법무부 항소 방침'), 동명 '댄 설리번' 후보 2명(CNBC; n-tv·Spiegel), 미시간 민주당 스티븐스의 공화당 로저스 지지(CNN·NBC·CBS·CNBC·AP·FT·Guardian; WaPo '더 이상 당원 아냐'), 트럼프 '미스터 거부권'(Vedomosti·한국경제TV)·의회 우회 국정 준비(Vedomosti의 로이터 인용), 요미우리 '여론조사 민주당 우세', Bloomberg '트럼프, 높은 연료비·생활비에 경제 설득 고전'. 군사력·에너지: 트럼프 '이란 협상 진전'·'곡괭이 산' 표적(i24 제목), '한두 곳 더… 10분이면 끝낼 수 있다'(Spiegel), 추가 목표 공격 거론(FAZ 제목), 네타냐후와 '좋은' 통화(Ynet; 테레비아사히), 네타냐후의 '선거 후 전쟁 재개' 촉구(Vedomosti의 Axios 인용; 연합뉴스·한국경제TV '선거 직후 타격 압박·트럼프 유보적' — 원 출처 미기재), Le Figaro(Axios 인용) '트럼프는 외교 경로 우선', 이스라엘 '공동 타격 준비·목표 불분명'(JPost 소식통, 단일), 이란 외무 '카타르 중재 진전·최종 타결은 미국 답변에'(MBC 제목) vs '미국과 회담 계획 없음'(FAZ 라이브블로그), 이란군 '새 충돌은 더 길어질 수도'(Interfax), 걸프국 '재개 시 피해 더 커'(FT; Vedomosti의 Bloomberg 인용; ARD), IRGC '비인가 항로 유조선 2척 기뢰 폭발' 주장(Reuters 제목·RBC — IRGC 단일 출처), 후티 '사우디 영공 민항기 공격' 경고(MBC·YTN 제목). 유럽 사회: 독일 시위 폭력 — 경찰 '외부 세력 침투' 판단(ARD), 도브린트 '좌파 그룹·이주민 난동꾼'(WELT·The Times·MBC) vs 피스토리우스 '잘못된 방향'(ZDF·n-tv·WELT·Zeit), 프랑스 10월 31일 최종 체포 779명·11월 5일 총파업 정점 전망(franceinfo), SMIC 인상 전망(Les Echos 제목), Channel 4 '독일·포르투갈·스위스로 확산'(제목). 독일 정부·의원 아이폰 스파이웨어 경고(ARD '사용 확인'; Spiegel·FAZ·WELT '애플 경고 확인'). 유럽 정치·전쟁: 불가리아 요토바(권한대행) 결선 승리(출구조사 WELT 51%·Vedomosti 52.5%·Libération 52.5~59%·[관영] RIA 58.2%; 투표율 29% — WELT; ARD·Libération '친러·모스크바와 대화'; SCMP '주로 의례적 직위'), 미국(멜라니아 트럼프) 중재 올레시키 휴전 종료(RBC; Kommersant '가장 성공적인 휴전'; SCMP; France 24 '러시아, 연장 제안 거부' 단일), 러 공습에 우크라이나 정전(BBC·Reuters), 러 점령 도네츠크 약 28만 가구 정전(Interfax — 원인 미기재; [관영] Vesti), FSB의 미국 제보 테러 용의자 구금(CNN 제목; 산케이; Handelsblatt 'FSB, 미국에 감사'). 돈: CNBC '국채 금리 하락은 AI 붕괴 우려', FT '정크본드 폭락'(단일), Bloomberg '최대 국채 발행 개편 대비'. 디지털 자산: FBI의 바이낸스 해킹 북한 지목(동아 '공식 지목'·SCMP 'FBI가 북한과 연계'), 트럼프 '확인되면 대화'(동아 단일), 재개 뒤 36.4억 달러(자산 2.1%) 인출(SCMP), 비트코인 7만6천 달러까지 하락(Kommersant 단일).",
+   "rebuild": "🔎 재조립: 복수 출처로 단단한 사실은 ① 알래스카 소송 기각과 미시간 민주당의 공개 분열, ② 트럼프의 '협상 진전'과 추가 표적 언급의 병존(i24·Spiegel·FAZ), ③ 네타냐후의 선거 후 타격 압박 보도(Vedomosti의 Axios 인용; 연합뉴스·한국경제TV — 원 출처는 사실상 Axios 1건일 수 있음)와 걸프국의 확전 대비(FT·Vedomosti·ARD), ④ 독일 시위 폭력의 책임 공방과 프랑스 총파업 예고, ⑤ 불가리아 친러 대통령의 연임(출구조사, 투표율 29%), ⑥ 미국 중재 올레시키 휴전의 종료(Kommersant '가장 성공적')와 우크라이나 정전(러 공습 — BBC·Reuters), ⑦ FBI의 바이낸스 북한 지목(동아·SCMP)과 재개 뒤 대규모 인출(SCMP)이다. 근본 요소로 다시 쌓으면, 미국의 군사 결정은 '선거 뒤'라는 시점에 걸려 있고(여러 매체 보도 — 확정 아님), 트럼프는 협상과 위협을 한 문장에 담아 상대에게 가격을 매기고 있으며, 유럽은 내부 분열(시위 폭력 책임 공방)과 친러 대통령 연임으로 단일 전선이 느슨해지는 신호가 있다(해석 — 불가리아 대통령직은 주로 의례적). 즉 오늘의 실체는 '미국의 선택지가 선거 다음 날로 몰려 있고, 그 사이 동맹(이스라엘)은 재개를, 이웃(걸프)은 억제를, 유럽은 자기 문제를 바라보는 장면'이다. 트럼프의 '북한과 대화'(동아 단일)·IRGC 유조선 주장(IRGC 단일 출처)·정크본드 폭락(FT 단일)·이스라엘 공동 타격 준비(JPost 소식통)는 단일 출처라 핵심 근거로 쓰지 않는다."
+  }
+ },
+ "fishbone": {
+  "head": "선거 다음 날로 몰린 미국의 선택 — 협상과 표적을 한 문장에, 유럽은 자기 분열에",
+  "bones": [
+   {
+    "field": "industry",
+    "items": [
+     {
+      "id": "n1",
+      "label": "연말 항공료 10년 만에 최고(항공유)",
+      "country": "us"
+     },
+     {
+      "id": "n2",
+      "label": "독일 가스 저장고 목표 70% 미달",
+      "country": "de"
+     },
+     {
+      "id": "n3",
+      "label": "에르도안 '한국은 제2원전 유력 파트너'",
+      "country": "kr"
+     },
+     {
+      "id": "n4",
+      "label": "[단독] 일본 방위비 5년 80조 엔 추산",
+      "country": "jp"
+     }
+    ]
+   },
+   {
+    "field": "business",
+    "items": [
+     {
+      "id": "n5",
+      "label": "동아 '삼성·SK 최대 실적, 인텔 위축'(기보도 정리)",
+      "country": "kr"
+     },
+     {
+      "id": "n6",
+      "label": "독일 정부·의원 아이폰 스파이웨어 경고",
+      "country": "de"
+     },
+     {
+      "id": "n7",
+      "label": "공군 충돌 은폐·장성 술판(SBS 단독)",
+      "country": "kr"
+     }
+    ]
+   },
+   {
+    "field": "stocks",
+    "items": [
+     {
+      "id": "n8",
+      "label": "CNBC '국채 금리 하락=AI 붕괴 우려'",
+      "country": "us"
+     },
+     {
+      "id": "n9",
+      "label": "FT '정크본드 폭락'",
+      "country": "uk"
+     },
+     {
+      "id": "n10",
+      "label": "TV도쿄 '코어위브 쇼크'",
+      "country": "jp"
+     }
+    ]
+   },
+   {
+    "field": "crypto",
+    "items": [
+     {
+      "id": "n11",
+      "label": "FBI, 바이낸스 배후 북한 지목(동아·SCMP)",
+      "country": "kr"
+     },
+     {
+      "id": "n12",
+      "label": "재개 뒤 36.4억$ 인출·비트코인 하락",
+      "country": "cn"
+     },
+     {
+      "id": "n13",
+      "label": "[관영 문건] 중국, 가상화폐 부패 단속 명시",
+      "country": "cn"
+     }
+    ]
+   },
+   {
+    "field": "monetary",
+    "items": [
+     {
+      "id": "n14",
+      "label": "월가, 최대 국채 발행 개편 대비",
+      "country": "us"
+     },
+     {
+      "id": "n15",
+      "label": "일본은행 12월 인상 중간 점검",
+      "country": "jp"
+     },
+     {
+      "id": "n16",
+      "label": "프랑스 SMIC 인상 전망",
+      "country": "fr"
+     }
+    ]
+   },
+   {
+    "field": "legislation",
+    "items": [
+     {
+      "id": "n17",
+      "label": "알래스카 인증 연기 소송 기각",
+      "country": "us"
+     },
+     {
+      "id": "n18",
+      "label": "트럼프 '미스터 거부권'",
+      "country": "ru"
+     },
+     {
+      "id": "n19",
+      "label": "독일 시위 폭력 책임 공방(좌파·이주민 발언)",
+      "country": "de"
+     },
+     {
+      "id": "n20",
+      "label": "프랑스 최종 체포 779명",
+      "country": "fr"
+     },
+     {
+      "id": "n21",
+      "label": "중국 5중전회, 기술 부문 '당 건설'",
+      "country": "cn"
+     }
+    ]
+   },
+   {
+    "field": "forecast",
+    "items": [
+     {
+      "id": "n22",
+      "label": "미시간 스티븐스, 공화당 후보 지지",
+      "country": "us"
+     },
+     {
+      "id": "n23",
+      "label": "요미우리 '여론조사 민주당 우세'",
+      "country": "jp"
+     },
+     {
+      "id": "n24",
+      "label": "프랑스 11월 5일 총파업 정점 전망",
+      "country": "fr"
+     },
+     {
+      "id": "n25",
+      "label": "네타냐후 '선거 직후 타격' 압박(Axios)",
+      "country": "kr"
+     }
+    ]
+   },
+   {
+    "field": "geopolitics",
+    "items": [
+     {
+      "id": "n26",
+      "label": "트럼프 '협상 진전'·'곡괭이 산' 표적",
+      "country": "il"
+     },
+     {
+      "id": "n27",
+      "label": "트럼프-네타냐후 '좋은' 통화",
+      "country": "il"
+     },
+     {
+      "id": "n28",
+      "label": "걸프국, 확전 대비",
+      "country": "uk"
+     },
+     {
+      "id": "n29",
+      "label": "이란 외무 '카타르 중재 진전'",
+      "country": "kr"
+     },
+     {
+      "id": "n30",
+      "label": "이란군 '새 충돌은 더 길어질 수도'",
+      "country": "ru"
+     },
+     {
+      "id": "n31",
+      "label": "후티 '사우디 영공 민항기 공격' 경고",
+      "country": "kr"
+     },
+     {
+      "id": "n32",
+      "label": "불가리아 친러 요토바 연임(출구조사·투표율 29%)",
+      "country": "de"
+     },
+     {
+      "id": "n33",
+      "label": "미국 중재 올레시키 휴전 종료",
+      "country": "ru"
+     },
+     {
+      "id": "n34",
+      "label": "러 공습에 우크라이나 정전·도네츠크도 정전",
+      "country": "uk"
+     },
+     {
+      "id": "n35",
+      "label": "FSB, 미국 제보로 테러 용의자 구금",
+      "country": "us"
+     },
+     {
+      "id": "n36",
+      "label": "이스라엘 아이젠코트 소수 정부 검토",
+      "country": "il"
+     }
+    ]
+   }
+  ],
+  "links": [
+   {
+    "from": "n25",
+    "to": "n26",
+    "from_label": "네타냐후 '선거 직후 타격' 압박(Axios)",
+    "to_label": "트럼프 '협상 진전'·'곡괭이 산' 표적",
+    "logic": "🔎 병치: 네타냐후가 선거 직후 타격을 압박한다는 보도(Vedomosti의 Axios 인용; 연합뉴스·한국경제TV)가 나온 같은 날, 트럼프는 '협상 진전'을 말하면서 '곡괭이 산'을 표적으로 언급했다(i24 제목; Spiegel '10분이면 끝낼 수 있다'). Le Figaro(Axios 인용)는 트럼프가 외교 경로를 우선하고 싶다고 했다고 썼다 — 압박과 협상이 한 날에 겹친다."
+   },
+   {
+    "from": "n26",
+    "to": "n28",
+    "from_label": "트럼프 '협상 진전'·'곡괭이 산' 표적",
+    "to_label": "걸프국, 확전 대비",
+    "logic": "FT는 외교관들이 분쟁 재개 시 피해가 이전보다 클 것이라 경고하며 걸프국들이 대비한다고 썼고, Vedomosti(Bloomberg 인용)도 아랍국의 '파괴적 전쟁' 우려를 전했다. 트럼프의 표적 언급과 걸프의 대비는 같은 위험을 다른 쪽에서 본 보도다(직접 인과를 잇는 원문은 없음)."
+   },
+   {
+    "from": "n29",
+    "to": "n26",
+    "from_label": "이란 외무 '카타르 중재 진전'",
+    "to_label": "트럼프 '협상 진전'·'곡괭이 산' 표적",
+    "logic": "🔎 대비: 이란 외무장관은 카타르 중재가 진전됐고 최종 타결은 미국 답변에 달렸다고 했고(MBC 제목), 트럼프도 '협상 진전'을 말했다(i24 제목). 양측 모두 공을 상대에게 넘기는 발언 — 같은 날 FAZ 라이브블로그는 이란 외무장관이 '미국과 회담 계획 없다'고 했다고 전해 MBC 제목과 엇갈리고(둘 다 제목·요약 수준), 이란군은 '새 충돌은 더 길어질 수도'라고 경고했다(Interfax)."
+   },
+   {
+    "from": "n17",
+    "to": "n18",
+    "from_label": "알래스카 인증 연기 소송 기각",
+    "to_label": "트럼프 '미스터 거부권'",
+    "logic": "🔎 병치: 법원이 알래스카 인증 연기 소송을 기각한 날(CNN·NBC·CBS 등), 트럼프는 민주당이 의회를 이기면 '미스터 거부권'이 되겠다고 했고(Vedomosti·한국경제TV), Vedomosti는 로이터를 인용해 의회 우회 국정 준비를 전했다. 사법·입법 견제에 행정권으로 맞서겠다는 신호(해석)."
+   },
+   {
+    "from": "n22",
+    "to": "n23",
+    "from_label": "미시간 스티븐스, 공화당 후보 지지",
+    "to_label": "요미우리 '여론조사 민주당 우세'",
+    "logic": "🔎 대비: 미시간 민주당의 공개 분열(스티븐스의 공화당 후보 지지)이 나온 날 요미우리는 여론조사가 민주당 우세라고 썼다. Reuters는 '공화당은 알래스카서 법적 패배, 민주당원의 지지 선언은 힘을 보탰다'고 제목을 달았다."
+   },
+   {
+    "from": "n19",
+    "to": "n20",
+    "from_label": "독일 시위 폭력 책임 공방(좌파·이주민 발언)",
+    "to_label": "프랑스 최종 체포 779명",
+    "logic": "🔎 병치: 독일은 시위 폭력의 책임을 두고 장관끼리 공방(도브린트 '이주민 난동꾼' vs 피스토리우스 — ZDF·n-tv·WELT·Zeit)을 벌였고, 프랑스는 10월 31일 체포 779명을 최종 집계했다(franceinfo). Channel 4는 소요가 포르투갈·스위스로도 번졌다고 썼다(제목)."
+   },
+   {
+    "from": "n33",
+    "to": "n34",
+    "from_label": "미국 중재 올레시키 휴전 종료",
+    "to_label": "러 공습에 우크라이나 정전·도네츠크도 정전",
+    "logic": "BBC는 러 공습으로 우크라이나 수천 가구가 정전되며 헤르손 휴전이 끝났다고 한 기사에 묶었다(France 24는 러시아가 연장 제안을 거부했다고 씀, 단일). Interfax는 러 점령 도네츠크의 약 28만 가구 정전을 전했지만 원인은 쓰지 않았다 — '양측 공방'으로 읽는 것은 🔎 해석."
+   },
+   {
+    "from": "n33",
+    "to": "n35",
+    "from_label": "미국 중재 올레시키 휴전 종료",
+    "to_label": "FSB, 미국 제보로 테러 용의자 구금",
+    "logic": "🔎 병치: 같은 주에 미국은 올레시키 국지 휴전을 중재했고(Kommersant·SCMP '멜라니아 트럼프 중재'; FAZ '우크라이나 대통령, 미국에 감사'), 러시아에 테러 정보를 건네 FSB의 감사를 받았다(CNN 제목·산케이·Handelsblatt). 미·러 사이 실무 채널이 작동한 장면(해석) — 다만 2024년 크로커스 때처럼 테러 경고 공유는 적대 관계에서도 이뤄지는 관행이다."
+   },
+   {
+    "from": "n11",
+    "to": "n12",
+    "from_label": "FBI, 바이낸스 배후 북한 지목(동아·SCMP)",
+    "to_label": "재개 뒤 36.4억$ 인출·비트코인 하락",
+    "logic": "SCMP는 FBI가 북한과 연계한 해커들이 탈취한 뒤 바이낸스가 일요일 서비스를 재개하자 36억 4천만 달러(자산 2.1%)가 인출됐다고 한 기사에 묶었다. Kommersant는 해킹과 인출로 비트코인이 7만6천 달러까지 떨어졌다고 썼다(단일). 원자료가 직접 잇는 연결."
+   },
+   {
+    "from": "n8",
+    "to": "n14",
+    "from_label": "CNBC '국채 금리 하락=AI 붕괴 우려'",
+    "to_label": "월가, 최대 국채 발행 개편 대비",
+    "logic": "CNBC는 유가 상승 전망 속 국채 금리 하락을 'AI 붕괴 우려' 신호로 읽었고, Bloomberg는 베선트 재무장관이 금리를 끌어내리려 채권시장에 개입할 의지를 보인 뒤 월가가 최대 국채 발행 개편에 대비한다고 썼다. 금리 하락의 원인을 두 매체가 다르게 본다(🔎)."
+   }
+  ]
+ },
+ "fields": [
+  {
+   "id": "industry",
+   "phenomenon": "Fox(호퍼 인용): 높은 항공유 가격 탓에 연말 항공권 평균 가격이 추수감사절 402달러·크리스마스 452달러로 10년 만의 최고(단일). DW: 독일 가스 저장고가 11월 1일까지 70% 충전 목표에 못 미쳤지만 경제부는 겨울 공급이 확보돼 있다고 강조(단일). 연합뉴스: 국빈 방한하는 에르도안은 한국을 제2원전 유력 파트너로 꼽고 방산·AI 협력 기회를 언급. 산케이 단독: 일본 방위성이 향후 5년 방위비를 80조 엔(현행 계획의 1.8배)으로 추산(단일).",
+   "precedent": "🔎 2022년 러시아 가스 감축 뒤 EU의 저장고 의무 충전 규정(11월 1일 목표), 2008년 유가 급등기 항공 유류할증료 최고치.",
+   "cause": "원자료가 적은 원인: 항공료는 '높은 항공유 가격'(Fox의 호퍼 인용). 가스 저장고 미달의 원인은 원자료에 없다. 🔎 해석: 중동 위험이 연료 가격을 통해 소비자 비용으로 번지고, 동맹국들은 방위비·원전 같은 장기 투자를 늘린다.",
+   "essence": "🔎 전쟁 위험은 연료비로, 안보 불안은 방위비·원전 투자로 — 비용이 생활과 예산 양쪽에서 쌓인다.",
+   "counter": "이 해석이 틀렸다면: 항공료·가스 저장고·방위비는 모두 단일 출처이고, 독일 경제부는 공급이 확보됐다고 했다. 방위비 추산은 감액 가능성도 함께 보도됐다(산케이).",
+   "scenarios": [
+    {
+     "name": "기본",
+     "desc": "연료비 고공 유지, 연말 소비 부담 증가.",
+     "signal": "항공유·경유 가격, 연말 여행 수요 지표"
+    },
+    {
+     "name": "상방",
+     "desc": "이란 협상 타결로 연료비 하락.",
+     "signal": "유가 급락, 항공료 인하 보도"
+    },
+    {
+     "name": "하방",
+     "desc": "이란 재공격으로 연료·가스 가격 급등, 유럽 겨울 공급 불안.",
+     "signal": "브렌트 급등, 유럽 가스 가격 급등"
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "phenomenon": "ARD: 연방하원 의원·연방정부 구성원 대상 해킹 공격 가능성 보도, 빌트베르거 디지털장관이 스파이웨어 사용을 확인했으나 세부 미공개(ARD 표현). Spiegel: BSI가 정치인들에게 아이폰 스파이웨어 가능성을 경고, 장관은 경고를 확인했으나 배후 미공개(FAZ '감염 가능성 확인'; WELT '애플 위협 알림'). SBS 단독: 공군 훈련기 공중 충돌 은폐, 장성들이 군악대를 불러 술판·비행 취소(단일 매체 4건). 동아일보: 인텔 급락 뒤 삼성전자·SK하이닉스는 최대 실적, 인텔은 PC 위축·설비투자 부담(10-30 거래 정리 — 10-31 브리핑 기보도).",
+   "precedent": "🔎 2021년 페가수스 스파이웨어 폭로(각국 정치인 휴대전화 감염), 2021년 도입된 애플의 국가 배후 공격 경고(2023년 인도 야당 정치인 대량 수신).",
+   "cause": "배후는 원자료에 없다(ARD·Spiegel 모두 '미공개'). 🔎 해석: 정부·의회의 단말이 국가급 공격 표적이 되고 있다 — 같은 날 FBI의 바이낸스 북한 지목(동아·SCMP)과 함께 '사이버가 안보 전선'이라는 흐름.",
+   "essence": "🔎 개인 단말이 국가 안보의 가장 약한 고리 — 독일 정치권의 아이폰이 그 사례다.",
+   "counter": "이 해석이 틀렸다면: 스파이웨어의 실제 감염 규모·배후는 확인되지 않았고, 경고 단계일 수 있다. 공군 사건은 SBS 단독 보도다.",
+   "scenarios": [
+    {
+     "name": "기본",
+     "desc": "BSI 조사 진행, 감염 규모 일부 공개.",
+     "signal": "BSI·정부의 피해 규모 발표"
+    },
+    {
+     "name": "상방",
+     "desc": "감염 미미로 판명.",
+     "signal": "BSI '피해 없음' 발표"
+    },
+    {
+     "name": "하방",
+     "desc": "국가 배후 확인, 외교 마찰.",
+     "signal": "독일 정부의 특정 국가 지목"
+    }
+   ]
+  },
+  {
+   "id": "stocks",
+   "phenomenon": "CNBC: 지난 한 달 새 시장은 유가가 더 오를 것으로 보지만 국채 금리는 내렸다 — 투자자들이 인플레이션보다 AI 붕괴를 더 걱정할 수 있다는 경고. FT: 자산을 채권자 손이 닿지 않는 곳으로 옮기는 공격적 전략이 정크본드 매도세를 부추겨 신용 투자자 '피바다'(단일). TV도쿄: 'AI 장세 붕괴의 서막? 코어위브 쇼크'(제목 — 평일 프로그램의 일요일 업로드, 방송 시점 미확인). WSJ: 중동 확전 우려에 유가 선물 상승(제목만 — 발행 시각이 일요일 선물 개장 전이라 거래 시점 미확인). 원자료 구간(현지 11월 1일 일요일)은 주식·채권 거래가 없고, FT 정크본드 기사는 직전 거래일까지 누적된 매도세다. 코인은 주말에도 거래돼 비트코인 하락(Kommersant)은 시점 문제가 없다.",
+   "precedent": "🔎 2000~02년 닷컴 붕괴기 하이일드 디폴트 급증, 2015~16년 에너지 업종 정크본드 폭락.",
+   "cause": "원자료가 적은 원인: 정크본드는 '채권자 회피형 자산 이전 전략'(FT), 국채 금리 하락은 'AI 붕괴 우려'(CNBC)로 해석. Bloomberg는 재무장관의 금리 인하 개입 의지를 같은 시기 배경으로 썼다. 🔎 해석: 위험자산 안에서 가장 약한 고리(정크본드·AI 인프라 기업)부터 흔들린다.",
+   "essence": "🔎 AI 우려가 주식에서 신용(정크본드)으로 번지는지가 다음 관문이다.",
+   "counter": "이 해석이 틀렸다면: 정크본드 폭락은 특정 기업의 '자산 이전' 문제(FT 단일)일 수 있고, 국채 금리 하락은 재무부 개입 기대(Bloomberg) 때문일 수 있다.",
+   "scenarios": [
+    {
+     "name": "기본",
+     "desc": "선거·국채 발행 개편까지 관망, 신용 스프레드 점진 확대.",
+     "signal": "하이일드 스프레드, 재무부 분기 발행 계획"
+    },
+    {
+     "name": "상방",
+     "desc": "선거 불확실성 해소와 금리 하락으로 위험자산 반등.",
+     "signal": "나스닥·하이일드 동반 반등"
+    },
+    {
+     "name": "하방",
+     "desc": "AI 기업 신용 경색이 확산.",
+     "signal": "AI 인프라 기업 채권 급락, 코어위브 등 주가 급락"
+    }
+   ]
+  },
+  {
+   "id": "crypto",
+   "phenomenon": "FBI가 약 63억 달러(SCMP; 동아 '8조 원대') 바이낸스 해킹의 배후로 북한을 지목했다(동아 '공식 지목'; SCMP 'FBI가 북한과 연계한 해커들'). 트럼프는 북한 소행으로 확인되면 북한과 이야기하겠다고 말했다(동아 단일). SCMP: 일요일 서비스 재개 뒤 고객들이 자산의 2.1%인 36억 4천만 달러를 인출, 바이낸스는 초기 급증 후 안정되고 있다고 주장. Kommersant: 해킹 여파로 비트코인 7만6천 달러까지 하락(단일). CNN: 바이낸스 출금 재개(제목). 한겨레 '북한, 코인 17조 원 훔쳤다'(제목). 한국경제 'IT 대기업도 배후 북한 지목·현상금'(제목). SCMP: 중국 공산당 5중전회 문건이 인터넷·가상화폐·국경 간 관련 부패 단속을 명시.",
+   "precedent": "🔎 2022년 로닌 브리지 해킹 뒤 FBI의 라자루스 지목, 2025년 바이비트 해킹 뒤 FBI의 북한 지목(2월).",
+   "cause": "FBI 지목은 동아·SCMP 두 매체가 보도했지만 FBI 발표 원문은 원자료에 없다. 인출 급증은 서비스 재개 직후 나타났다(SCMP). 🔎 해석: 귀속이 공식화되면 해킹이 '범죄'에서 '외교 의제'로 바뀐다 — 트럼프는 대화 재료로 언급했다(동아 단일).",
+   "essence": "🔎 해킹 귀속은 외교 의제로, 시장 충격은 인출·가격으로 — 바이낸스 사태가 보안 문제에서 신뢰·외교 문제로 넓어진다.",
+   "counter": "이 해석이 틀렸다면: 바이낸스는 인출이 안정되고 있다고 주장하며(SCMP) 인출 규모는 자산의 2.1%다. 트럼프 발언(동아 단일)의 맥락은 원문으로 확인되지 않는다. 반대로 인출 급증(SCMP)과 비트코인 하락(Kommersant)은 시장 충격이 진행 중임을 보여 준다.",
+   "scenarios": [
+    {
+     "name": "기본",
+     "desc": "FBI 귀속 공식화, 제재 지정 검토.",
+     "signal": "FBI·재무부 공식 발표 원문, OFAC 지정"
+    },
+    {
+     "name": "상방",
+     "desc": "북미 대화에서 해킹 의제화.",
+     "signal": "북미 접촉 보도"
+    },
+    {
+     "name": "하방",
+     "desc": "추가 거래소 공격.",
+     "signal": "다른 대형 거래소 해킹 보도"
+    }
+   ]
+  },
+  {
+   "id": "monetary",
+   "phenomenon": "Bloomberg: 베선트 재무장관이 금리를 끌어내리려 채권시장에 개입할 의지를 보인 뒤 월가는 2024년 초 이후 최대 국채 발행 가이던스 개편에 대비. CNBC: 국채 금리 하락. TV도쿄: 12월 금리 인상 중간 점검(제목 — 10-30 정책 결정은 10-31 브리핑 기보도; '동결 전망' 기사는 회의 전 예측의 늦은 업로드로 보여 제외). Les Echos: 정부에 고위험 사회 주간, SMIC 상당 인상 전망(제목).",
+   "precedent": "🔎 2023년 8월 미 재무부의 국채 발행 확대 발표 뒤 장기금리 급등, 2006~07년 일본은행의 금리 정상화.",
+   "cause": "원자료가 적은 원인: 국채 발행 개편 대비는 재무장관의 개입 의지(Bloomberg). Les Echos 제목은 '고위험 사회 주간'과 SMIC 인상 전망을 나란히 적었다(🔎 시위 대응용 인상으로 보는 것은 해석). 🔎 해석: 미국은 재정 당국이 금리를 낮추려 하고, 일본은 12월 인상을 저울질하며, 프랑스는 임금(SMIC) 카드가 거론된다.",
+   "essence": "🔎 금리를 누가 정하나 — 미국은 재무부가, 일본은 중앙은행이, 프랑스는 거리가 압박한다.",
+   "counter": "이 해석이 틀렸다면: 재무장관의 '개입 의지'는 Bloomberg 서술이고 구체 조치는 원자료에 없다. 일본은행 12월 인상은 점검 방송일 뿐이다.",
+   "scenarios": [
+    {
+     "name": "기본",
+     "desc": "미 재무부 발행 축소·장기 비중 축소, 일본은행 12월 인상 저울질.",
+     "signal": "재무부 분기 리펀딩 발표, 12월 회의 전 일본은행 인상 시사 발언"
+    },
+    {
+     "name": "상방",
+     "desc": "금리 하락 지속으로 위험자산 지지.",
+     "signal": "미 10년물 하락"
+    },
+    {
+     "name": "하방",
+     "desc": "발행 확대로 장기금리 급등.",
+     "signal": "리펀딩 규모 증가 발표"
+    }
+   ]
+  },
+  {
+   "id": "legislation",
+   "phenomenon": "미국: 연방 판사가 알래스카 상원 선거 인증 연기 소송을 기각(CNN·NBC·CBS·NYT·Reuters 등), 법무부 항소 방침(CNBC). Sky: 동명 후보에 대한 연방 형사 수사(10-31 브리핑 기보도 — 오늘 Handelsblatt '수사 확인')와 트럼프의 '부정선거' 주장. 트럼프 '미스터 거부권'(Vedomosti·한국경제TV), 의회 우회 국정 준비(Vedomosti의 로이터 인용). ZDF: 선거 관리자들이 트럼프의 개입을 우려. 독일: 경찰 '외부 세력 침투' 판단, 도브린트 강경 대응·'좌파 그룹과 이주민 난동꾼'(WELT·The Times·MBC) vs 피스토리우스 반박. 프랑스: 10월 31일 최종 체포 779명(franceinfo), 화염병 '살인미수' 수사(MBC 제목). 중국: 5중전회 결정 전문 — 기술 부문 '당 건설', 디지털 기율검사(SCMP; 요미우리; 인민일보·China Daily 관영).",
+   "precedent": "🔎 2020년 미 대선 후 인증 지연 소송들의 연쇄 기각, 2018~19년 프랑스 노란조끼 시위 뒤 '반폭도법', 2021년 중국의 빅테크 단속.",
+   "cause": "알래스카 소송 쟁점은 동명 후보 2명(CNBC·n-tv·Spiegel). 독일 공방은 폭력 사태의 책임 소재(ARD·ZDF). 🔎 해석: 미국은 법원이 행정부의 선거 개입에 제동을 걸고, 독일은 시위의 성격 규정(청년 vs 폭도·이주민) 자체가 정치 쟁점이 됐다.",
+   "essence": "🔎 같은 날 세 체제가 '질서'를 다르게 정의한다 — 미국은 법원, 유럽은 경찰·장관 발언, 중국은 당 기율로.",
+   "counter": "이 해석이 틀렸다면: 법무부가 항소하면 결론이 바뀔 수 있고, 독일 '외부 세력' 판단은 경찰 초기 평가다(ARD). 중국 문건은 관영 해설과 SCMP 해석에 기댄다.",
+   "scenarios": [
+    {
+     "name": "기본",
+     "desc": "알래스카 항소심 지속, 독일 폭력 수사·처벌 강화 논의.",
+     "signal": "항소 법원 일정, 독일 수사 결과"
+    },
+    {
+     "name": "상방",
+     "desc": "선거 무탈·결과 승복, 독일 청년 요구 일부 수용.",
+     "signal": "개표 후 소송 없음, 교육·주거 예산 발표"
+    },
+    {
+     "name": "하방",
+     "desc": "개표 분쟁 확산, 유럽 시위 폭력 재발.",
+     "signal": "주별 인증 지연, 다음 주말 시위 폭력"
+    }
+   ]
+  },
+  {
+   "id": "forecast",
+   "phenomenon": "미 중간선거(11월 3일): 사전투표 5천만 명 이상(테레비아사히 — 11-01 브리핑 기보도), 요미우리 '여론조사 민주당 우세'(제목), Les Echos '경제 가속에도 민주당 격차 확대'(제목), 미시간 민주당 분열(CNN·AP 등), Bloomberg '트럼프, 연료비·생활비에 경제 설득 고전', Handelsblatt '라틴계·아시아계·여성·젊은 남성에서 지지 감소', 아사히 '히스패닉의 트럼프 이탈'. 이란: 네타냐후의 '선거 직후 타격' 압박(Axios 인용 보도), Reuters·Ynet 등은 지난 브리핑에서 '중간선거 후 공습 위협'을 보도. 프랑스: 11월 5일 총파업 정점 전망(franceinfo).",
+   "precedent": "🔎 2018년 중간선거 민주당 하원 탈환 뒤 대통령 거부권·행정명령 증가, 1998년 중간선거 약 6주 뒤 '사막의 여우' 공습.",
+   "cause": "원자료가 적은 원인: 생활비·연료비(Bloomberg), 핵심 유권자층 이탈(Handelsblatt·아사히). 🔎 해석: 선거 결과가 이란 결정과 행정권 사용(거부권)의 범위를 함께 정할 수 있다.",
+   "essence": "🔎 11월 3일은 의회 다수당과 함께 '거부권 정치'와 이란 결정의 출발선이 될 수 있다(보도 기준 — 확정 아님).",
+   "counter": "이 해석이 틀렸다면: 여론조사 오차는 크고(요미우리가 정확도 자체를 문제 삼음), 미시간 분열처럼 막판 변수가 있다. 이란 결정은 선거와 무관하게 협상 진전으로 미뤄질 수 있다(트럼프 '협상 진전').",
+   "scenarios": [
+    {
+     "name": "기본",
+     "desc": "민주당 하원 우세·상원 접전, 트럼프 거부권 예고 현실화.",
+     "signal": "11월 3일 개표, 알래스카·미시간·텍사스 상원"
+    },
+    {
+     "name": "상방",
+     "desc": "공화당 양원 유지.",
+     "signal": "주요 경합지 공화당 승리"
+    },
+    {
+     "name": "하방",
+     "desc": "개표 지연·불복과 선거 직후 대이란 공습이 겹침.",
+     "signal": "인증 지연, 공습 보도"
+    }
+   ]
+  },
+  {
+   "id": "geopolitics",
+   "phenomenon": "이란: 트럼프 '협상 진전'·'곡괭이 산' 표적(i24 제목), '한두 곳 더… 10분이면'(Spiegel), 추가 목표 공격 거론(FAZ 제목), 네타냐후와 '좋은' 통화(Ynet; 테레비아사히), 네타냐후의 선거 후 재개 촉구(Vedomosti의 Axios 인용; 연합뉴스·한국경제TV '선거 직후 타격 압박·트럼프 유보적'), Le Figaro(Axios 인용) '트럼프는 외교 우선', 이스라엘 공동 타격 준비(JPost 소식통, 단일), 이란 외무 '카타르 중재 진전·최종 타결은 미국 답변에'(MBC 제목) vs '미국과 회담 계획 없음'(FAZ 라이브블로그), 이란군 '새 충돌은 더 길어질 수도'(Interfax), 걸프국 확전 대비(FT; Vedomosti의 Bloomberg 인용; ARD), 후티 '사우디 영공 민항기 공격' 경고(MBC·YTN 제목), IRGC '비인가 항로 유조선 2척 기뢰 폭발'(Reuters 제목·RBC — IRGC 단일 출처, 10-31·11-01에도 유사 주장). 우크라이나: 멜라니아 트럼프가 중재한 올레시키 휴전 종료 — Kommersant '가장 길고 성공적인 휴전', FAZ '우크라이나 대통령, 미국에 감사'(RBC·SCMP·BBC; France 24 '러시아, 연장 제안 거부' 단일), 러 공습에 우크라이나 정전(BBC·Reuters), 러 점령 도네츠크 약 28만 가구 정전(Interfax — 원인 미기재; [관영] Vesti). 러·미: FSB의 미국 제보 테러 용의자 구금(CNN 제목·산케이; Handelsblatt 'FSB, 미국에 감사'). 불가리아: 친러 요토바(권한대행) 결선 승리(출구조사 — ARD·ZDF·n-tv·WELT·Libération·Le Monde 등; RIA·Xinhua 관영), 투표율 29%(WELT). 이스라엘: 아이젠코트 소수 정부 검토(i24 보도 인용), 베네트 지지·리베르만 질타(JPost·Ynet).",
+   "precedent": "🔎 1987~88년 탱커 전쟁, 2019년 아브카이크 공격 뒤 걸프국의 확전 우려, 2016년 불가리아 친러 성향 라데프 대통령 당선.",
+   "cause": "원자료가 적은 원인: 걸프국 우려는 '재개 시 피해가 이전보다 클 것'(FT 외교관). France 24는 휴전 종료가 러시아의 연장 거부 때문이라고 썼다. 🔎 해석: 트럼프는 협상과 위협을 한 메시지에 담아 이란에 가격을 매기고, 이스라엘은 선거 뒤를 재개 시점으로 밀며, 걸프는 억제를 요구한다.",
+   "essence": "🔎 '협상 진전'과 '추가 표적'이 한 문장에 — 미국은 선거 뒤까지 결정을 열어 두고 압박 수위를 유지한다. 유럽에서는 친러 대통령 승리와 휴전 종료로 대러 전선이 느슨해지는 신호.",
+   "counter": "이 해석이 틀렸다면: 트럼프 '협상 진전'과 Le Figaro(Axios 인용)의 '외교 경로 우선', 연합뉴스의 '유보적'은 재개보다 협상 쪽을 가리킨다. 불가리아는 현직(권한대행) 유지라 새 균열이라기보다 연속이고, 투표율 29%(WELT)에 대통령직은 주로 의례적이다(SCMP). 올레시키 휴전은 미국 중재 성공 사례(Kommersant·FAZ)이고, '연장 거부'는 France 24 단일이다.",
+   "scenarios": [
+    {
+     "name": "기본",
+     "desc": "선거 뒤까지 협상·압박 병행, 우크라이나 전력망 공방 지속.",
+     "signal": "이란의 미국 답변 요구에 대한 미국 반응, 우크라이나 정전 규모"
+    },
+    {
+     "name": "상방",
+     "desc": "카타르 중재로 미·이란 합의 틀 발표, 국지 휴전 재개.",
+     "signal": "합의 발표, 새 인도주의 미션(란트라토바 '정기 미션 합의')"
+    },
+    {
+     "name": "하방",
+     "desc": "선거 직후 미·이스라엘 공동 타격과 이란의 장기전 대응, 후티의 민항기 공격.",
+     "signal": "공습 보도, 걸프 영공 폐쇄, 유가 급등"
+    }
+   ]
+  }
+ ],
+ "hypothesis_check": {
+  "support": [
+   "분쟁 재개 신호(복수): 네타냐후의 선거 후 대이란 재개 압박 보도(Vedomosti의 Axios 인용; 연합뉴스·한국경제TV — 원 출처는 사실상 Axios 1건일 수 있고, 11-01 '중간선거 후 공습 위협' 보도의 연장), 트럼프의 추가 표적 언급(i24·Spiegel·FAZ), 걸프국 확전 대비(FT·Vedomosti의 Bloomberg 인용·ARD), 러 공습에 따른 우크라이나 정전(BBC·Reuters)",
+   "단일·관영: 이스라엘 공동 타격 준비(JPost 소식통), 이란군 '새 충돌은 더 길어질 수도'(Interfax), IRGC '유조선 2척 기뢰 폭발'(Reuters·RBC 전달 — IRGC 단일 출처), 이란 외무 '미국과 회담 계획 없음'(FAZ 라이브블로그), 후티 '사우디 영공 민항기 공격' 경고(MBC·YTN 제목), 러시아의 휴전 연장 거부(France 24) — 판정 근거는 복수 출처 항목만",
+   "에너지·안보 비용: 연말 항공료 10년 만에 최고(Fox 단일), 독일 가스 저장고 목표 미달(DW 단일), 일본 방위비 5년 80조 엔 추산(산케이 단독) — 단일"
+  ],
+  "against": [
+   "가설 균열 — 분쟁 장기화: 트럼프 '이란 협상 진전'(i24)·'협상 향방 지켜보고 싶다'(테레비아사히)·'외교 경로 우선'(Le Figaro의 Axios 인용)·'유보적'(연합뉴스·한국경제TV), 미국 중재 올레시키 휴전이 '가장 길고 성공적'(Kommersant; SCMP·FAZ도 미국 중재 보도). 단일: 이란 외무 '카타르 중재 진전'(MBC 제목), 란트라토바 '키이우와 정기 인도주의 미션 합의'(RBC — 러 당국자 주장)",
+   "가설 균열 — AI(연산력) 달러화 축: CNBC '국채 금리 하락은 AI 붕괴 우려', TV도쿄 '코어위브 쇼크', FT 정크본드 폭락(단일). 🔎 간접 증거 — 반대 해석: 국채 금리 하락은 달러 자산 수요의 강세이기도 하다",
+   "약한 균열 — 유럽의 대러 결속: 불가리아 친러 요토바 결선 승리(출구조사 — 복수 매체), n-tv 'EU에도 영향'. 🔎 다만 현직(권한대행) 유지라 새 균열보다 연속이고, 투표율 29%(WELT), 대통령직은 주로 의례적(SCMP)",
+   "대안 가설('미국은 적과의 거래로 이익') 시험: 미국의 대러 테러 정보 제공과 FSB의 감사(CNN 제목·산케이·Handelsblatt) — 🔎 2024년 크로커스처럼 적대 관계에서도 하는 관행이라 접근 신호로는 약함",
+   "가설 균열 — 코인 경로 신뢰: 오늘도 스테이블코인 헤드라인 없음. 바이낸스 재개 뒤 36.4억 달러 인출(SCMP)·비트코인 7만6천 달러까지 하락(Kommersant 단일), FBI의 북한 지목(동아·SCMP). 중국은 가상화폐 관련 부패 단속을 당 문건에 명시(SCMP)"
+  ],
+  "verdict": "약화",
+  "note": "🔎 판정 '약화'(10-26 이후 7회 연속). 초안은 '유지'로 올렸으나 팀장 검토를 받아 되돌렸다. ① 이란 축: 선거 후 재개 압박 보도(사실상 Axios 1건과 그 인용, 11-01 '중간선거 후 공습 위협' 보도의 연장)와 트럼프의 '협상 진전'·'외교 우선'·'유보적'이 맞서 판단을 보류한다 — 재개 여부는 선거 뒤에 판가름 난다. ② 우크라이나: 올레시키 휴전 종료는 계획된 종료이고, 이 휴전은 미국 중재 성공 사례(Kommersant·SCMP·FAZ)라 반박 쪽이다. 11-01에 반박으로 센 사건을 오늘 지지로 다시 세지 않는다. ③ AI·코인 축: CNBC 'AI 붕괴 우려'·TV도쿄 '코어위브 쇼크' 등 반박이 이어지고, 바이낸스 재개 뒤 대규모 인출(SCMP)이 더해졌다. 스테이블코인 근거는 오늘도 없다. JPost 소식통·이란군 발언·IRGC 유조선 주장·러시아 연장 거부·FT 정크본드·항공료·가스·방위비는 단일 출처라 판정 근거에서 뺀다."
+ },
+ "top10": [
+  {
+   "headline_ko": "미 중간선거 D-1: 알래스카 '인증 연기' 소송 기각·미시간 민주당 스티븐스의 공화당 후보 지지 — 트럼프 '민주당 이기면 미스터 거부권'",
+   "importance": 5,
+   "why": "알래스카: 연방 판사가 상원 선거 인증을 늦추려던 법무부 소송을 기각했다(CNN·NBC·CBS·NYT·Reuters·Guardian·Independent; CNBC는 법무부 항소 방침). 민주당 펠톨라 후보가 '댄 설리번'이라는 이름의 후보 2명과 맞붙는다(CNBC; n-tv·Spiegel). Sky는 동명 후보에 대한 연방 형사 수사와 트럼프의 '부정선거' 주장을 전했다(수사는 10-31 브리핑 기보도 — 오늘 Handelsblatt 뉴스블로그는 '알래스카 상원 선거 수사 확인'). Economist는 알래스카에서 벌어지는 사태가 민주당의 상원 다수당 확보를 좌절시킬 수 있다고 썼다(제목). 미시간: 경선에서 진 민주당 헤일리 스티븐스 하원의원이 엘사예드 대신 공화당 로저스를 지지했고(CNN·NBC·CBS·CNBC·AP·FT·Guardian), 미시간 민주당 의장은 그가 더 이상 당원이 아니라고 했다(WaPo). Reuters: 공화당은 알래스카에서 법적 패배, 민주당원의 지지 선언은 힘을 보탰다(제목). 트럼프: 민주당이 의회를 이기면 '미스터 거부권'이 되겠다고 했고(Vedomosti·한국경제TV), Vedomosti는 로이터를 인용해 의회를 우회한 국정 운영 준비를 전했다. 판세: 요미우리 '여론조사는 민주당 우세', Les Echos '경제 가속에도 민주당 격차 확대'(제목), Bloomberg는 트럼프가 높은 연료비·생활비 탓에 경제 설득에 고전한다고 썼다. 크리스 머피 상원의원이 뇌졸중으로 입원했다(CNN·AP·NYT·WaPo·ABC) — 측근은 완전 회복을 예상(CNN), '의식 있고 또렷'(NYT). 사전투표 5천만 명 이상(테레비아사히 — 11-01 브리핑 기보도).",
+   "sources": [
+    {
+     "name": "CNN",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wdnZMeEk0UXFXcGlHN0I4S2c5SklfeFEyTzRhcU5VRW5WZ3ZfVFNnNEFvZ2JyUjBZMXdmbXpSV1FKcmh6Z3FyR0RQUmVOTjNLQVluX2VJWHdoNFhYTXFLU2tUNjJXUmk5b00tclZkWnFKOV9yY21GRUdB?oc=5"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/politics/2026-election/federal-judge-dismisses-trump-attempt-ballots-alaska-senate-race-rcna606838"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/judge-doj-lawsuit-alaska-senate-race-dan-sullivan/"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2026/11/01/us/alaska-senate-election-lawsuit.html"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPck1iY1RiSVI0MWpxbGhyZzlYWm9PeGh6WXJnYTVIX0VqTS1UbGpTQUh0WkFxbUpFdlNsbmJCUzg0bENnWmtEUjcxUWxTbmIzMzlKUGdXNGFidFl0Nk10a29rYVlVUkdLRVM2TUtBU0NRcTlXUS0xSjhmOTRZNWVjUW1yMVVIOHh4QnFLTEFiQWZyRWNsSVE?oc=5"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan"
+    },
+    {
+     "name": "The Independent",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcE03WHAwQ25mck95Q3ZoRWdBalREMEJVajF4cnAtalBVcmJTU0lHRUpOLW85elkwS2lYRE4xeXJzRFoyRGtwLWk1NnJfY3pSTHZlT2RoOTZnSzY0eS1tWnZtdEJQYkVnbkM5RlU0N19XeTN5U1RMTWxwWmFIR0FXQ2dSd2U3UTZqNkFPaWtuWXNNcklEV2ZObUc0S1RvTlJZYmNPOUp1cXYzWENXeGVaQnpqM0lmMzVpcEdVRFBmT0xFdmxYcGc?oc=5"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html"
+    },
+    {
+     "name": "n-tv",
+     "url": "https://www.n-tv.de/politik/Trump-scheitert-mit-Klage-zu-Zwischenwahl-in-Alaska-id31482885.html"
+    },
+    {
+     "name": "Der Spiegel",
+     "url": "https://www.spiegel.de/ausland/alaska-donald-trump-scheitert-mit-praeventiv-klage-zu-namensvettern-sullivan-a-fbd2c16e-53d3-4d53-857d-8585e7589622#ref=rss"
+    },
+    {
+     "name": "Sky News",
+     "url": "https://news.sky.com/story/trump-claims-voter-fraud-in-election-race-where-two-candidates-share-same-name-13606581"
+    },
+    {
+     "name": "The Economist",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU3JpaUtEUUUwWGs5bW1OTmJfV3Joa25ob2FpbkRrZk9wN3F6WUVCWFQtSE0zSlc4Q2x6S1MySWV0RDB1R1lYZHFQdjNnNlBfTWRGQUlIWDVhVDRYM3RhLVBYaFBJRnJsZHdlbWRUSDBnVzJvSXB4N1dqdjU5d0xnYWhJaFZIUVlRSzBPbXFlckxxMHEzUTJNUGQ0bVlxRlN0UlVTZkVyNWl5UzVtNlhTU01mSTg?oc=5"
+    },
+    {
+     "name": "CNN",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNDREcGltNzNIQkpyTVg1YXpEelJfNU5jOUg0bmU2QzdWUU85S25pbGdXTkdnU2J1QzZXLUJqNjlwRHQ1S0ZaX3U5RksxMDFYMjd2VHVCMVJ0QVp5SkFmdmdKQm1laGxJc3dLelRHLS1zTGJoSUVmd1NVY3V5NmpBdlU3U1pWTHFXRXg2OEhIMnl2dGI2NWNrdUw2b1g?oc=5"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/video/rep-haley-stevens-discusses-switching-her-endorsement-to-republican-mike-rogers-272662085891"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/haley-stevens-mike-rogers-together-church-abdul-el-sayed-michigan-senate/"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html"
+    },
+    {
+     "name": "AP",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTZaeEZ3WHhrS2s0VVVXSWpRLVVLb185QTR6djh1R3UtZ1F0SFJCS1BWbDBaUmZxeEI4ekkyMVBObTV3R1RyZktuX0dISE9rTmFVd2tVY3NnMm8xTUQ5SGo1VFc1bWoySVdkNHp2c2JmR0g4a2hQOEJfdFVVaFZTQ2hSZWwwMHc1Sm81clYxelpTN1JGbFJZOEpEMlRVWkRBSTdCU0RzX1VWdDRrQXc?oc=5"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://www.ft.com/content/d77e4c6f-0ac7-49ce-bca8-b30080bf9797?syn-25a6b1a6=1"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate"
+    },
+    {
+     "name": "Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb2NsN2lQNjY4dVI0R0tBNjVscS02RGhSamVkRWxzY1UwaEZZeTZhaUdfeWIySUNvVTdoejRhTEpQRTZKVEhJaUl3Yk5RV3BOYVNIQ1d5OGRoekd2aHBrOFlSNmhCOGJaZXJkbjUzbHJhUWRhU1d4bTI3TkVWUTBpdllTV1d3VGhDR3NuOFp1emhxY2g3M3R1M0RiRWdNRHd1ZWtRN2JBVWxfdkhIR3d6UWhXSDd1cGdBRk5RU0hxUUpaZENk?oc=5"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX2FHcHFUc2FHcFNFdlgyU2xwdjFlUDZ4ZG1aQjk1aDdCYnNFaE5WSXM5Q0E5cHB5Z0tKaWp0QXZ2dThVYjU2ZW1VemZmYmswcm1lUHA3TXhNVVBmUWdSQnRBTVJBdFlHQmlvempGUkFnTFo1aHBTZTZGeU53T3pIYUxXUTFaVGtaLXFldGwyUGRFNTNlWWtn?oc=5"
+    },
+    {
+     "name": "Vedomosti",
+     "url": "https://www.vedomosti.ru/politics/news/2026/11/01/1241862-tramp-poobeschal"
+    },
+    {
+     "name": "한국경제TV",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNEg0a2E5ZHJ4eHBEaWI1TGhYNmVNRlNvWjdva2V3dHJMTHJwemk4cmRORmY5VS1YclRneXR6WHM4b3NRM3d5TEtiZE54bEthNURwTEo2WjRHTXVIc2ZZS0dsNTlacVFRakR2Y0xIV2ZVQkhTeG0yWXpwS3kxVVVkVw?oc=5"
+    },
+    {
+     "name": "Vedomosti",
+     "url": "https://www.vedomosti.ru/politics/news/2026/11/01/1241852-tramp-gotovitsya-upravlyat"
+    },
+    {
+     "name": "読売新聞",
+     "url": "https://www.yomiuri.co.jp/world/20261102-GYT1T00049/"
+    },
+    {
+     "name": "Les Echos",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNelRTX1gtbEdZWWpRNFBTX1FxWGZVR2RtOU8tN1B6LVNfQmpaOG1TbXAzUmg5WEhENEpFcWp6bWpsQUViRTdwMjNrM0xnZHh1V0RJVC1yTElmTlRXaDU2NG9qQjBlbFlJTjhBRmlVbUZ3bjVJd0hSNk1peXB2R3FWSDJuUlJKeU5JYmFlTlFvbkJocU1xQkhUbFZ6WHB4N2J0d2thYkh3alp6T2JqYkpnWnBxcmpUSHJJbHhWQUNXMFFCdUxkT0Rjd0tqMDMxdWI4NWZlQnNJX3pibDBadlpfSTl6YktEQW1WVlZ4VFZkMA?oc=5"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-01/trump-struggles-to-sell-voters-on-the-economy-video"
+    },
+    {
+     "name": "CNN",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnVHhSazBsOGlDN2ladDZlMmE3ZlppQTktLUR1Z3htbEk0YWNDOE80LTFGOEFsbUttVkJFdDYtbHRTMDNna015RVFuTWM2QUNYOGZ6dzBPbXNGRnNvYmNkc2JyVGhLc2VIVHViSTRlWHI?oc=5"
+    },
+    {
+     "name": "AP",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX1NiRk5MRXE1STVPM1NFMEx5bWRKR3Z3VFpCenRzSm5BaHoxRFB3REF0Z05UMi1adU9mTGVGVTVLUlk5cDdLRlJaRGR1TGJ3cWR6WmZVRnpCMGhCdUFIMzBwTXFsSzhQczdDYnJvRVRHWjFmblZtWXYwTWd4cWJlaTVZbjEwU1VCMG5uRElwNGhRZ0wzb1NDazBVdzFCX1E?oc=5"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2026/11/01/us/politics/chris-murphy-stroke.html"
+    },
+    {
+     "name": "Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZC1FLW8wYndWZjJyYl9IbTZLY3IxdzZEU1dodVA5eWR2WndWQUg1dnU0WnFlWjdsRUVOR08wNmtCbjhnb0s3Q0VxZFRTTm1jNk4yYjF5X1h6T2g1NzgzaEZwbzk1NUlzd3MyekdiQ2s1ZmlQTDE5VlNtM0N0NXk3X1NBdkdDU1FfbWkyM3ROLWdTUQ?oc=5"
+    },
+    {
+     "name": "テレビ朝日",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0ySjRxdzYzTDRNSXJQak1iWmlRUjZOZlhiNG1HX0RWaFlfTDlVWWYtcXZSVlQxUlhfR3lYbUJSR1czSHk1d0tJbXM3bzdTZzNNeFpXZ29DdnQ0cVBOcm9zYm5MeEhwenNLMklkV09ieFd4ZDNWMEt5OTlR?oc=5"
+    },
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/politik/international/usa-streit-zwischen-demokraten-in-michigan-droht-zu-eskalieren/29669594.html"
+    }
+   ],
+   "fields": [
+    "legislation",
+    "forecast"
+   ],
+   "hypothesis": "무관"
+  },
+  {
+   "headline_ko": "이란: 트럼프 '협상 진전'과 '곡괭이 산' 추가 표적 언급 — 네타냐후는 '선거 직후 타격' 압박, 걸프국은 더 큰 전쟁 대비",
+   "importance": 5,
+   "why": "트럼프는 이란 협상이 진전되고 있다며 '곡괭이 산'을 잠재적 표적으로 지목했고(i24 제목), Spiegel은 그가 '한두 곳 시설을 더 처리해야 하지만 10분이면 끝낼 수 있다'며 테헤란 남쪽 200km 지점 목표를 언급했다고 썼다(FAZ도 '추가 목표 공격 거론'). 트럼프는 네타냐후와 '좋은' 통화를 했다고 했다(Ynet; 테레비아사히 '협상 향방을 지켜보고 싶다'). Vedomosti는 Axios를 인용해 네타냐후가 선거 후 전쟁 재개를 촉구했다고 전했고, 연합뉴스·한국경제TV도 네타냐후의 '선거 직후 타격' 압박과 트럼프의 '유보적' 태도를 보도했다(두 매체 모두 원 출처 미기재 — 원 출처는 사실상 Axios 1건일 수 있음). Le Figaro는 Axios를 인용해 트럼프가 외교 경로를 우선하고 싶다고 말했다고 썼다. JPost(소식통): 이스라엘은 미국과 함께 타격할 준비가 됐지만 공동 목표는 불분명. 이란: 외무장관은 카타르 중재 협의가 진전됐고 최종 타결은 미국 답변에 달렸다고 했다(MBC 제목) — 같은 날 FAZ 라이브블로그는 그가 '미국과 회담 계획 없다'고 했다고 전해 엇갈린다(둘 다 제목·요약 수준). 이란군 대변인은 새 충돌이 이전보다 길어질 수 있다고 했다(Interfax). IRGC 해군은 '비인가 항로'를 운항하던 유조선 2척이 기뢰에 닿아 폭발했다고 주장했다(Reuters 제목·RBC 전달 — IRGC 단일 출처, 독립 확인 없음; 10-31·11-01에도 유사 주장). 걸프: FT는 외교관들이 재개되면 피해가 이전보다 클 것이라 경고한다고 썼고, Vedomosti(Bloomberg 인용)·ARD도 아랍국의 우려를 전했다. 후티는 사우디 영공 민항기 공격을 경고했다(MBC·YTN 제목). WSJ '중동 확전 우려에 유가 선물 상승'(제목만 — 발행 시각이 일요일 선물 개장 전이라 거래 시점 미확인).",
+   "sources": [
+    {
+     "name": "i24NEWS",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZmdaUHZYYjhvV1FybUhjTEs4aHBPNUcxMjZCWEFGcng2VDJmVEhRZlpiaVBTR21IVnJSMndWU1JZNDdjUVhVLWxJcnZsdlpRUW1oVy1PMndYMi11MmZRNjBKak5OY3ZvZ1ZnbmYtS2ZsMlpBQkNUR1c0NkZ2ckdPRVVqNUxNSjdSOTVMVHU4b0lDV0oyMzdock1HcVBmUHB6a0xybEp5TUJ1NjZvb0l1dUctb1VLbE1PMGV5N2hOSGtXOXhNSWlFZEpabVJuXy1NN2RBN0FqelM?oc=5"
+    },
+    {
+     "name": "Der Spiegel",
+     "url": "https://www.spiegel.de/ausland/donald-trump-prahlt-neue-angriffsziele-in-iran-ins-spiel-pickaxe-mountain-a-41a5db5e-7ad1-49b1-8038-e773378f49a1#ref=rss"
+    },
+    {
+     "name": "FAZ",
+     "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-trump-bringt-angriffe-auf-weitere-ziele-in-iran-ins-spiel-faz-200583539.html"
+    },
+    {
+     "name": "Ynet News",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UN0o5cDAxXy1QMFhQVEtlTHY4Wk15cDlvbWoxN2pwNFpWQ1pOTFhsb1hpY1RlcklWckpoMi1hbGpnVDBRTFN5ZS1oRVdrNGVPUjlwNw?oc=5"
+    },
+    {
+     "name": "テレビ朝日",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkS21PT1pPRVprdGwzT2NXMll4T0podVVwaDk0TmRKVmZoSG8tWU41X1VHTlpoelEza2dNdUJqQVpINHRscEhHSllkdXBaSHdSRlFDYldmSm53WHROb1ZTdDZCQ3VzVmxrQmlMOXowMjBJSEVIRHYxS2h3?oc=5"
+    },
+    {
+     "name": "Vedomosti",
+     "url": "https://www.vedomosti.ru/politics/news/2026/11/01/1241863-netanyahu-prizval-trampa"
+    },
+    {
+     "name": "Le Figaro",
+     "url": "https://www.lefigaro.fr/international/guerre-en-iran-trump-aurait-echange-avec-netanyahou-sur-les-suites-a-donner-au-conflit-20261101"
+    },
+    {
+     "name": "연합뉴스",
+     "url": "https://www.yna.co.kr/view/AKR20261102002951079"
+    },
+    {
+     "name": "한국경제TV",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05bnJxN1pHMFJmRzU0ODd5WUtub29oSFMwVnF3RF9OSmg3Z1Z4NUhoOG5iZEVRd2NQYWdLdFJGcDFobERDZG9vUFBpa3J6dDhjYW1wWVQ0cmdiaTY5LWRBQzdGQS0zQTBueXZmSkoxc00tYTFNMGlESEhqZWw?oc=5"
+    },
+    {
+     "name": "Jerusalem Post",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGX2VYMjFxQXZSTmE4UWlLZFBSSHJ4M01CUzdOOGlQdjZJeDJKQlFpWWNaMC1PbmVXVUFRSmR2d2hsOWtfcU9Zc0oxc0YyVU9HWTVia0EycTlRNldRWGpPUkh1LU4xV1k4NXc?oc=5"
+    },
+    {
+     "name": "MBC",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44Qm1zNmZXNnRFVVdUWHp0aXhzdFNzd1pfbnhwNEhTRk4ySDI2UkRncjFpTWo0WDhkakljM1R0NUhXNnd5UjM1NFlnMlVCWFFjODNNMW1EOU8yeEhXMDdubG14dzNaNmlVeHoyRDUwVTZGUmJj0gF0QVVfeXFMTnU5TDREeC16UU16SXNTVC1hbEQ0Rk96LVUtQ1FER3lmTkNVLXJDZU4yYnRvTDhKVS0wcnpaWWtkQXl0N1pndkd3VXBBZjRJbXZpSk52enNydG5EZmtwUUFlenpPSEpxT3V1TllXR3JsV3VqMzk?oc=5"
+    },
+    {
+     "name": "Interfax",
+     "url": "https://www.interfax.ru/world/1126422"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZmk2dmxjdk1sOW96UkZiaUlJVXhzc1pJMjZJUnY2WGtvaXd4aXRJY3d4UTNoUmFJdUVQQjlkb0JPSmxEc2YzS1JOZ2NSWmpTUnhzYzBiU1hfeXBvb2F2WEp2NHc5YkFfUUNKSHc2NW1PMUVKT0xqUTdOa0tfUmZpQWE2SDFtdzJ5TmZleWpLd0Zid1JWR2Z0d0dOeVMwekFzNTNTYndHMmMyV0poZ2h0UmFOVWc2M3o3Z2h6TUR2SQ?oc=5"
+    },
+    {
+     "name": "RBC",
+     "url": "https://www.rbc.ru/rbcfreenews/6ae7a056458ce32e70db76ff"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://www.ft.com/content/efaa2962-1acb-45cf-afb4-d0088f0a1046?syn-25a6b1a6=1"
+    },
+    {
+     "name": "Vedomosti",
+     "url": "https://www.vedomosti.ru/politics/news/2026/11/01/1241859-arabskie-strani-boyatsya"
+    },
+    {
+     "name": "ARD Tagesschau",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1676342.html"
+    },
+    {
+     "name": "MBC",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45endxaEU0Mk5FcFBsMGw4MTd5TVR1WFd0Z29qYkIyY25UdnZiNDlFUFdCNjlkREpUNE5zRHduSWZFVVFDSG1UNVdxN0V1ZVhHUDNIOFNPVU56U0Y1eWlkX1h0VlladTB5bUhaZU1abGVOZmw20gF0QVVfeXFMTVo5Sm02aHY3TmItaUJ4MWZiT0hEaU5NZGxBclpNOXBRejdCaWFsUFY1QlFrcXpXNFU5cGhhTkt2dUhCNXdDNmNEY3RMLW5MRDJUTDEyVVVaN085MUxubG1kVEJiemhWQkdONDVseDd5OGpkQWg?oc=5"
+    },
+    {
+     "name": "YTN",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BMHJ6RVBNMVdJT2pBelQxVVl3MTgxZUVuMVh1MXNIRHFZa0cwVW5DbERscWszMS01SXhSWWZ5MEMzX25sUTF5Zko3Zmlab242clRQT3BhQVVudTRhRUpjcmZRMnBnVW93WlJEckRLN1hZVmFFdEE?oc=5"
+    },
+    {
+     "name": "Wall Street Journal",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZTlwRWZOenQ5QjVqLWVYZ2tHZ2VPR0luYXlGOTN0LXNubVlLYXdvdkoybDRZSU9GSDMwWWctY3Y4NGdESm9UdkI3amFmQlZUaFREQjl6bzdZTXZmb1N6V2hjcWxhV1Nxa3dkSkZwNHFWOWZYYXNYTUdwODNVRDZmUjdrQ291b0U4cG1oR3c5bXU0TzA3NWJBQlpvYkl4ZUdxZlhmLTU2bEo3LTQ4cGc?oc=5"
+    }
+   ],
+   "fields": [
+    "geopolitics",
+    "industry"
+   ],
+   "hypothesis": "지지"
+  },
+  {
+   "headline_ko": "유럽 청년 시위 후폭풍: 독일 폭력 사태 책임 공방(도브린트 '이주민 난동꾼' vs 피스토리우스), 프랑스 최종 체포 779명·11월 5일 총파업 앞둬",
+   "importance": 4,
+   "why": "독일: 경찰은 쾰른·프랑크푸르트 시위에 외부 세력이 침투했다고 판단했고 도브린트 내무장관은 강경 대응을 예고했다(ARD; DW '폭도 엄벌 요구'). 도브린트가 소요를 좌파 그룹과 '이주민 난동꾼' 탓으로 돌리자(WELT·The Times·MBC; ZDF·n-tv는 이주민 부분) 피스토리우스 국방장관은 '잘못된 방향'이라며 반박했다(ZDF·n-tv·WELT·Zeit). BBC: 낮엔 대체로 질서 있던 시위가 프랑크푸르트·베를린·쾰른·함부르크에서 폭력으로 번졌다. SZ는 운동 측의 '폭력은 결코 우리 운동의 일부가 아니었다'는 입장을 전했다. 프랑스: 내무부 최종 집계로 10월 31일 전국 779명 체포, 11월 5일 전국 총파업이 정점이 될 전망(franceinfo). 고교·대학생 단체는 월·화요일부터 학교 봉쇄를 촉구했고(Le Monde), Les Echos는 정부에 '고위험 사회 주간'이며 최저임금(SMIC) 상당 인상이 예상된다고 썼다(제목). 필리프는 고교생들에게 '정부가 내민 손을 잡으라'고 했다(Le Figaro). 화염병 투척은 '살인미수'로 수사(MBC 제목). 확산: Channel 4는 소요가 독일·포르투갈·스위스로 번졌다고 썼다(제목). 동아일보는 독일 34개 도시 시위가 생활비 부담 완화·교육 재정 확대를 요구했다고 정리했다(10-31 시위 — 11-01 브리핑 기보도).",
+   "sources": [
+    {
+     "name": "ARD Tagesschau",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html"
+    },
+    {
+     "name": "Deutsche Welle",
+     "url": "https://www.dw.com/de/dobrindt-verurteilt-gewalt-nach-gen-z-protesten-in-deutschland/a-79820787?maca=de-rss-de-all-1119-rdf"
+    },
+    {
+     "name": "ZDF heute",
+     "url": "https://www.zdfheute.de/politik/boris-pistorius-interview-wehrpflicht-gen-z-krawalle-100.html"
+    },
+    {
+     "name": "n-tv",
+     "url": "https://www.n-tv.de/politik/Migrantische-Chaoten-Pistorius-widerspricht-Dobrindt-id31482920.html"
+    },
+    {
+     "name": "WELT",
+     "url": "https://www.welt.de/politik/deutschland/article6ae799c55e7018b4bea951d8/randale-und-pluenderungen-fuehrt-in-die-falsche-richtung-sagt-pistorius-ueber-dobrindts-aussage-zu-migrantischen-chaoten.html"
+    },
+    {
+     "name": "Die Zeit",
+     "url": "https://www.zeit.de/news/2026-11/01/migrantische-chaoten-pistorius-hinterfragt-dobrindt-aussage"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "Süddeutsche Zeitung",
+     "url": "https://www.sueddeutsche.de/politik/gen-z-regelt-proteste-frankfurt-koeln-gewalt-gen-z-li.3572382"
+    },
+    {
+     "name": "franceinfo (France 2)",
+     "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-sociale-la-jeunesse-ne-lache-pas-declare-la-porte-parole-de-l-union-etudiante-au-lendemain-des-manifestations-du-31-octobre_8262449.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+     "name": "Le Monde",
+     "url": "https://www.lemonde.fr/societe/article/2026/11/01/mouvement-lyceen-les-incertitudes-de-la-rentree-scolaire-alors-que-la-jeunesse-mobilisee-veut-maintenir-la-pression_6804533_3224.html"
+    },
+    {
+     "name": "Les Echos",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcFl2NDlPU25zc0VUOTZyUHdhUjFNRXBaU0lVSnllT2d3aXg5MkdBTWRwYlVuNW5tQzR3RHZZZ283a3BIZTFlQV90TXNaemRPQTFVb1FOSjMxay1XVHBvbTgwTEpRUldsNkd2MU9WUWlhaThSSU92ZEptR25Ua1dFejAxM2dQYW5Xd1lfYXQ0dlJreUcyS1M2Vm9LQlc3MnZhLS12dkt5bEZfQWlrVnBuX3RrODFheVF6MTdkR05kMWtxYURWUTdPN2FCTExBWE9qMFFhbFVVa1B2ZDFpNEE?oc=5"
+    },
+    {
+     "name": "Le Figaro",
+     "url": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-plusieurs-centaines-de-milliers-de-manifestants-samedi-dans-l-hexagone-avant-la-journee-de-greve-du-5-novembre-20261101"
+    },
+    {
+     "name": "MBC",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuNHZPTXBZaGV2cEpLWVVnZEdNQW9PS1BPVlRaWVc1Mm5kaXMyU0hOUVNIRjdpQ2hVSWhBdGdiUTNNTGg2S1hwQWZKSWJET2UyNUpsckhubkszVTg2QUtIRjM0U05HZFhpbElsQ2k2SUw1Q0lT0gF0QVVfeXFMTWtQbEJGWTdpMnE0ejkwMFprYWdCbnJjY09PalVRcFpFdE5ONndUTm5weWEyOTU4dlplRWhxbmk3SzVyWnF0VHZ4LUl2TUlVbmR6TGlVcUNoRXZfNy1XV2VDa1ZMVl9Wenk4QVUzWXdMczdHTmE?oc=5"
+    },
+    {
+     "name": "Channel 4 News",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdkd6bmFxZHd2T2VNU0sycW15QjNMSXo3d2ZTTEk2S0ZUQ3VZWEh2UDVwMGpNRFlmUjZkMkVWTGtEQ0d2cER0WFZKMDl3MkNhVXlOVm9iNVFGUDB3LTF2elJrUHB4YTY0MDNRZWt5bFpCVmNZbUFjaWdMcThPN2ZxOFd1REExRmJWS1pSVFBmODI1QXBMQWZiWUxIcDI?oc=5"
+    },
+    {
+     "name": "동아일보",
+     "url": "https://www.donga.com/news/Inter/article/all/20261102/134947248/2"
+    },
+    {
+     "name": "The Times",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMnpONEp5Q2VoaGlTblRPczNiWlZwVDNERWFCT1pfRTgxbmpOQUhBV0RHMUNLVkFheGJFaUlxVS0xNHlJdWRKRVZsenFVWmd1NHQtaldmaG5mdzNKeVlyQ29EU0VfSXRBV1ZwblZ1Rzl6VENkcnBsSFFFZGJPVGRoOVFiQ3JZa2J0bGwzVG0yYXVmTVg1dVNNdUJvZ1RiM1ZxRVNxZWNxclBVZmxaQTFtS1QwQmw4bm5N?oc=5"
+    },
+    {
+     "name": "MBC",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DZlN6VkgyU0JOc09iWUVMbkkwS25UYktqSFZxVE1XS0JFakUwcU4tZWlFOXVLeS1SblhQXy01MEZCYXZHaGJfRXIzLWk4V00yUEFLZ2JOYnlyaUlfTWxja1ZUY0NIVlhWanhYZ2dkckhvSjVJ0gF0QVVfeXFMTUNmU3pWSDJTQk5zT2JZRUxuSTBLblRiS2pIVnFUTVdLQkVqRTBxTi1laUU5dUt5LVJuWFBfLTUwRkJhdkdoYl9FcjMtaThXTTJQQUtnYk5ieXJpSV9NbGNrVlRjQ0hWWFZqeFhnZ2RySG9KNUk?oc=5"
+    }
+   ],
+   "fields": [
+    "legislation",
+    "forecast"
+   ],
+   "hypothesis": "반박"
+  },
+  {
+   "headline_ko": "불가리아 결선: 친러 성향 요토바 대통령(권한대행) 승리(출구조사) — 친유럽 규로프 크게 앞서, 투표율 29%",
+   "importance": 4,
+   "why": "출구조사 득표율은 매체마다 다르다 — WELT 51%, Vedomosti 52.5%, Libération '52.5~59%', [관영] RIA 58.2%. 투표율은 29%에 그쳤다(WELT; Spiegel '낮았다'). SCMP는 대통령직이 주로 의례적이라고 썼고, n-tv는 '대통령 연임 확정'으로 제목을 달았다(현직 유지). ARD는 요토바가 '평화의 대통령'을 자처한 친러 성향이라고, Libération은 '모스크바와의 대화 지지자'이며 친유럽 성향 규로프 전 임시총리를 크게 앞섰다고 썼다. n-tv는 EU에도 영향을 줄 수 있다고 했다. ZDF·Spiegel·WELT·Le Monde·SCMP·한국경제TV·Interfax·Xinhua(관영)도 보도. 공식 개표 결과는 원자료에 없다.",
+   "sources": [
+    {
+     "name": "ARD Tagesschau",
+     "url": "https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html"
+    },
+    {
+     "name": "n-tv",
+     "url": "https://www.n-tv.de/politik/Bulgaren-bestaetigen-Praesidentin-im-Amt-id31482824.html"
+    },
+    {
+     "name": "Libération",
+     "url": "https://www.liberation.fr/international/europe/presidentielle-en-bulgarie-un-duel-serre-sur-fond-de-tensions-avec-la-russie-en-mer-noire-20261101_PWOECFDJYVEDXCP7XGL4URBHZM/"
+    },
+    {
+     "name": "RIA Novosti [관영]",
+     "url": "https://ria.ru/20261101/yotova-2128507379.html"
+    },
+    {
+     "name": "Vedomosti",
+     "url": "https://www.vedomosti.ru/politics/news/2026/11/01/1241860-iotova-pobezhdaet"
+    },
+    {
+     "name": "ZDF heute",
+     "url": "https://www.zdfheute.de/politik/ausland/bulgarien-wahl-jotowa-100.html"
+    },
+    {
+     "name": "Der Spiegel",
+     "url": "https://www.spiegel.de/ausland/bulgarien-iliana-jotowa-nach-prognosen-vorn-a-e70269f7-9feb-4274-8d45-7436ee034b30#ref=rss"
+    },
+    {
+     "name": "WELT",
+     "url": "https://www.welt.de/politik/ausland/article6ae782745e7018b4bea95076/stichwahl-russlandfreundliche-praesidentin-jotowa-liegt-nach-prognosen-in-bulgarien-vorn.html"
+    },
+    {
+     "name": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/11/01/presidentielle-en-bulgarie-iliana-iotova-remporte-l-election-selon-plusieurs-sondages-a-la-sortie-des-urnes_6804603_3210.html"
+    },
+    {
+     "name": "SCMP (홍콩)",
+     "url": "https://www.scmp.com/news/world/europe/article/3372909/bulgarian-acting-president-iliana-iotova-wins-run-election-exit-polls-show"
+    },
+    {
+     "name": "한국경제TV",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX2VhSGFWcnp0ODVqa1dYb1BCS3UxcVBTUlAzUXNkNHVZNkFIdG13aHJYR2VtNU9Pb0VtZ0pIbGF4aWxRZU1ubEtrSmk4VENSRzY0clFHMTFXVXYtWllkVktCZVdIWTFqcUZfc3BLN256a3JhWkFVbGsxNzBGcnJQcw?oc=5"
+    },
+    {
+     "name": "Interfax",
+     "url": "https://www.interfax.ru/world/1126423"
+    },
+    {
+     "name": "Xinhua [관영]",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CZXhKM2stNUEtamQ3X0MtamF6RjJSNjFlRy1va1ZiVzVoTHlLX0hSYXg3cmVxbU1LaEZQQlRKbGNqSXhQZlp2cUhYNUk4d0Q3SmhndndBblBldUV5bE5UX0ZYYkFBM0ltQjBYOGhEbXVSOFZPeFN4UnFOemF6SEU?oc=5"
+    }
+   ],
+   "fields": [
+    "geopolitics"
+   ],
+   "hypothesis": "반박"
+  },
+  {
+   "headline_ko": "미국 중재 올레시키 휴전 종료 — Kommersant '가장 성공적인 휴전'… 러 공습에 우크라이나 정전, 도네츠크도 약 28만 가구 정전",
+   "importance": 4,
+   "why": "France 24: 모스크바가 우크라이나의 휴전 연장 제안을 거부했고 현지 당국은 즉각적·격렬한 전쟁 재개를 예상한다(단일). RBC: 휴전은 약 6일간 이어졌고, 란트라토바(러 인권위원)는 키이우와 정기 인도주의 미션에 합의했다고 밝혔다(러 당국자 주장). Kommersant: 멜라니아 트럼프의 중재로 성사된 이 국지 휴전은 '특별군사작전' 이후 가장 길고 성공적인 휴전 시도였다(SCMP도 '멜라니아 트럼프 중재'). FAZ: 우크라이나 대통령이 휴전 중재에 대해 미국에 감사했다. Spiegel: 휴전 종료 직전 헤르손 민간인 약 200명 대피(FAZ '167명'). 정전: BBC·Reuters — 러시아 공습으로 우크라이나 수천 가구 정전, Reuters는 드론이 러시아 시설을 타격했다고도 썼다. 러 점령 도네츠크에서도 약 28만 가구가 정전됐다(Interfax, 시장 발표 인용 — 원인 미기재; [관영] Vesti '27만6천'). 모스크바 도모데도보·주콥스키 공항 운항 제한(TASS 관영). 러·미: FSB가 미국의 제보로 '테러'를 계획한 10대를 구금했고(CNN 제목; 산케이), Handelsblatt는 FSB가 미국에 감사했다고 전했다. 🔎 휴전 중재 성공(반박)과 휴전 종료·전력망 피해(지지)가 섞인 항목 — 미국 중재 성공 사례를 기준으로 '반박'으로 태그.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/fr/europe/20261101-ukraine-au-dernier-jour-de-tr%C3%AAve-%C3%A0-olechky-la-population-se-pr%C3%A9pare-%C3%A0-une-reprise-de-la-guerre"
+    },
+    {
+     "name": "RBC",
+     "url": "https://www.rbc.ru/politics/02/11/2026/6ae4d1e32455cc4b83c18b92"
+    },
+    {
+     "name": "Der Spiegel",
+     "url": "https://www.spiegel.de/ausland/ukraine-bringt-kurz-vor-ende-der-lokalen-waffenruhe-fast-200-zivilisten-aus-cherson-in-sicherheit-a-324fe676-4168-4ff1-a2f5-7234d6544bd6#ref=rss"
+    },
+    {
+     "name": "FAZ",
+     "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-167-menschen-aus-region-cherson-evakuiert-faz-110683325.html"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeXRrWGZCWmZwTWdSSnFYMmVQTDc1eVhwLVdCaHREN0xiRmdyUk91bldUN2NzVnRDZlJLUTFCdEZ4bWRQOFBQWFlFTnNyVVQ2ci12eVEtUnNLREFqSE84OEFTeVJhNzlLUGZuRGhnMGZ5Y1k0X3dNYU5fWmR2ajM1REw3dVF3eGx6WXg4ZHBjdERtX3R1MllSVjFncjZtLXg5dHNMbmNFdTRpTHBra0NuRHVmdUpfaTdWYTVZQ0FZYW4?oc=5"
+    },
+    {
+     "name": "Interfax",
+     "url": "https://www.interfax.ru/russia/1126425"
+    },
+    {
+     "name": "Rossiya 24 (Vesti) [관영]",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSlRUWnk0Sm02OVdOUlE3OTExT1ZNWUNnU2Q3Um1xUTlXdWt5a0xVYlRvN213U1VtSkpVWjdCLU44WjJjaFZjLU5WQlR4dEhpMHUxb3dWQzVzMzh2T1dyZ0gxbWRnV1d1WG5EaVVwUmFPdjdTamV1Q2N1X2NCbW5zblNxYTFEaDU1bEMtUk5tM2lyRDlERkZmSHZORW5HQnhWY3J2eDM3dw?oc=5"
+    },
+    {
+     "name": "TASS [관영]",
+     "url": "https://tass.ru/ekonomika/28276711"
+    },
+    {
+     "name": "CNN",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYTBCX1dHOU9BNXNHTkN4UmlSTlhWRXkwazdrMDhxYUpnVEpDX211dzc5QXdBelJlS1ZrMm85bFgtc2FMTW9PemFHVnkxT3JlT3RaYlVET0ZiLUVUY2xVMUFxdFlIVjYtb19ZN3NWLWtTME1NTk84ZXlQSGNlWGduRHVwUmg?oc=5"
+    },
+    {
+     "name": "産経新聞",
+     "url": "https://www.sankei.com/article/20261102-YXMEBXBG5NN7HOEWC23GEJGUIA/"
+    },
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/politik/international/ukraine-festnahme-nach-terrorhinweis-russischer-fsb-dankt-usa/27982126.html"
+    },
+    {
+     "name": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/11/01/en-ukraine-les-habitants-d-olechky-evacues-nous-ne-savons-pas-ou-aller-mais-une-chose-est-sure-nous-survivrons_6804529_3210.html"
+    },
+    {
+     "name": "Kommersant",
+     "url": "https://www.kommersant.ru/doc/9078565"
+    },
+    {
+     "name": "SCMP (홍콩)",
+     "url": "https://www.scmp.com/news/world/russia-central-asia/article/3372908/longest-truce-ukraine-war-kherson-region-set-end"
+    }
+   ],
+   "fields": [
+    "geopolitics"
+   ],
+   "hypothesis": "반박"
+  },
+  {
+   "headline_ko": "독일 정부·의원 아이폰 스파이웨어 경고 — BSI 경고, 디지털장관 애플 경고 확인(ARD는 '스파이웨어 사용 확인'으로 보도), 배후 미공개",
+   "importance": 4,
+   "why": "ARD는 연방하원 의원·연방정부 구성원 대상 해킹 공격 가능성을 보도했고, 빌트베르거 디지털장관이 스파이웨어 사용을 확인했으나 세부를 밝히지 않았다(ARD). Spiegel: 연방정보보안청(BSI)이 정치인들에게 경고했고 장관은 경고를 확인했으나 배후는 밝히지 않았다. WELT '매우 우려된다', FAZ '애플 경고 후 — 감염 가능성 확인'. 배후는 원자료에 없다.",
+   "sources": [
+    {
+     "name": "ARD Tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/wildberger-hackerangriff-bundestagsabgeordnete-100.html"
+    },
+    {
+     "name": "Der Spiegel",
+     "url": "https://www.spiegel.de/politik/deutschland/bsi-warnt-moegliche-spaehsoftware-auf-iphones-von-politikern-a-8b9e2ad3-485c-489a-b94c-1131753b777b#ref=rss"
+    },
+    {
+     "name": "WELT",
+     "url": "https://www.welt.de/politik/deutschland/article6ae79588aedea8cd9ffc0feb/warnung-von-apple-beunruhigt-uns-sehr-hacker-nehmen-iphones-von-regierung-und-bundestagsabgeordneten-ins-visier.html"
+    },
+    {
+     "name": "FAZ",
+     "url": "https://www.faz.net/aktuell/politik/inland/bsi-warnt-abgeordnete-vor-moeglicher-spyware-attacke-auf-iphones-201642072.html"
+    }
+   ],
+   "fields": [
+    "legislation",
+    "geopolitics"
+   ],
+   "hypothesis": "무관"
+  },
+  {
+   "headline_ko": "AI·신용 경고 이어져: CNBC '국채 금리 하락은 인플레보다 AI 붕괴 우려', FT '정크본드 폭락에 신용 투자자 피바다'",
+   "importance": 4,
+   "why": "CNBC: 시장은 유가가 더 오를 것으로 보지만 국채 금리는 내려, 투자자들이 인플레이션보다 AI 붕괴를 더 걱정할 수 있다는 경고. FT: 자산을 채권자 손이 닿지 않는 곳으로 옮기는 공격적 전략이 정크본드 매도세를 부추겼다(단일 — 일요일 발행, 직전 거래일까지 누적된 매도세). Bloomberg: 베선트 재무장관이 금리를 끌어내리려 채권시장에 개입할 의지를 보인 뒤 월가는 2024년 초 이후 최대 국채 발행 개편에 대비. TV도쿄 'AI 장세 붕괴의 서막? 코어위브 쇼크'(제목 — 평일 프로그램의 일요일 업로드, 방송 시점 미확인). 동아일보는 인텔 급락 뒤 '삼성전자·SK하이닉스는 최대 실적, 인텔은 PC 위축·설비투자 부담'이라고 정리했다(10-30 거래 — 10-31 브리핑 기보도).",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://www.ft.com/content/fdc9a85d-d2c4-465f-99ca-609d68b6d443?syn-25a6b1a6=1"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-01/wall-street-braces-for-biggest-treasury-sales-overhaul-in-years"
+    },
+    {
+     "name": "テレビ東京(日経)",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3WlMxOENha0xqdjVFaDVBc2RkOWRpMDE3cnhPM2tGS3ZMMExJVkVxZjgzeTZKcjFyYlNxeUVUc0RCcVM1eWI0QUgyblU5YXA5ZnN0eGtoa3FhaS1rRFJ3cXhwM3NjRlVWV0Z6bw?oc=5"
+    },
+    {
+     "name": "동아일보",
+     "url": "https://www.donga.com/news/Economy/article/all/20261102/134947230/2"
+    }
+   ],
+   "fields": [
+    "stocks",
+    "monetary",
+    "industry"
+   ],
+   "hypothesis": "반박"
+  },
+  {
+   "headline_ko": "바이낸스 해킹 배후로 FBI가 북한 지목(동아·SCMP) — 재개 뒤 36.4억$ 인출, 트럼프 '확인되면 북한과 대화'(동아)",
+   "importance": 4,
+   "why": "FBI의 북한 지목: 동아일보('공식 지목')·SCMP('FBI가 북한과 연계한 해커들'). 트럼프의 '북한 소행으로 확인되면 이야기하겠다'는 동아일보 단일. 시장: SCMP — 일요일 서비스 재개 뒤 고객들이 자산의 2.1%인 36억 4천만 달러를 인출, 바이낸스는 인출이 초기 급증 후 안정 중이라고 주장. Kommersant — 해킹 여파로 비트코인 7만6천 달러까지 하락(단일). CNN: 바이낸스 출금 재개(제목). 한겨레 '북한, 코인 17조 원 훔쳤다'(제목), 한국경제 'IT 대기업도 배후 북한 지목·현상금'(제목). 중앙일보: 미국은 '중국 서해 강압'을 밝혔지만 한국 발표에는 없었다(제목 — 11-01 SBS 단일 → 오늘 중앙일보로 2개 매체). FAZ(라이브티커)는 트럼프가 한국과의 군사훈련을 축소했다는 소식을 실었다(단일·미확인).",
+   "sources": [
+    {
+     "name": "동아일보",
+     "url": "https://www.donga.com/news/Inter/article/all/20261102/134947245/2"
+    },
+    {
+     "name": "SCMP (홍콩)",
+     "url": "https://www.scmp.com/business/cryptocurrency/article/3372910/binance-sees-spike-withdrawals-exchange-returns-online-after-us63-billion-hack"
+    },
+    {
+     "name": "Kommersant",
+     "url": "https://www.kommersant.ru/doc/9078580"
+    },
+    {
+     "name": "CNN",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdXdMdkt4bWw0MnFCNkdNUW1VUHFoMlFZWHZxOHZDcmo5NXM1aHlkVERrR0pHTGIyZ0pXOW9HUk15Z1ZEZG5CdlNzM3FySmZsUktIWGxHYmFKclQ5TG1ONTlxZWFXd1c2bF9jUDR3NnVaRHhHTDFjczNfWndQWjdUdGRB?oc=5"
+    },
+    {
+     "name": "한겨레",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fN29ab0xIblEzbHVzaEFXM2FzRGF2ZFhpdG5EbklRR2tsdHNKSE1qZ01mR1BaSHg3YVpSWDFKbGFoWFg3bGFibkl4R242WldtNzAwRnE4Ums3ZzlzcVN1M3o0QWxnUm8?oc=5"
+    },
+    {
+     "name": "한국경제",
+     "url": "https://www.hankyung.com/article/2026110187267"
+    },
+    {
+     "name": "중앙일보",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVbVY3RVpTMWRrNTFFTGFtd2xjLTFWMVFlLWhvOFpjV1prSFRVTFJwX0lzbWhYN0ozcXhVMkFJOUFlclJUb1VxaGxQRmtxU3B3R2hteWx3?oc=5"
+    },
+    {
+     "name": "FAZ",
+     "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-demokratin-stevens-stellt-sich-hinter-republikaner-im-senatsrennen-faz-19444916.html"
+    }
+   ],
+   "fields": [
+    "crypto",
+    "geopolitics"
+   ],
+   "hypothesis": "반박"
+  },
+  {
+   "headline_ko": "이스라엘 연정: 아이젠코트, 라암 지지·UTJ 기권 기댄 소수 정부 검토(보도) — 베네트는 지지, 리베르만은 질타",
+   "importance": 3,
+   "why": "i24(보도 인용): 소수 정부 검토, 샤스·UTJ는 선택지 저울질. Haaretz: 초정통파 정당이 어떤 총리 후보도 추천하지 않는 방안 검토. JPost: 베네트가 아이젠코트의 총리직·대통령 위임을 지지. Ynet: 리베르만이 긴장된 회동에서 아이젠코트가 반네타냐후 진영에 해를 끼쳤다고 질타. 선관위원장은 부정 의혹이 결과를 뒤집지 않는다고 했다(franceinfo·Libération '심각한 의혹 확인했으나'; 한국경제TV '총선 적법'). Spiegel: 야이르 골란이 네타냐후 체제의 대이란 새 전쟁을 경고.",
+   "sources": [
+    {
+     "name": "i24NEWS",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUjRXMWQzbkFIY1dFWkU3Wmo2SHZQRy0yZjdmVzRfM1V1ei01bmFMV0d5NUdfVmE0RE9KbFNiVnZPUU9POF9WM3hETXJwWDc1R1RLbFFSSktvcnpzUWpFYURGbmEyT3cySlZ2a3lsbkNoSDFuYlJmdVdXR3hQV3U4ZUFEcVY0eFU4VmFjSC1ZRFRtYlBDdC1Wengwd0hjbGVxemgxQWxoT1d5UXRUa29leEUtTy1zYzg5VmlaYzNOWjQyUnBWWHVVU0d3?oc=5"
+    },
+    {
+     "name": "i24NEWS",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQmdEYnQ1SFh2LUozelFsWHBxMEJ1dnA1eklSOVMxakRlMkp0RW9sa2ZSOXphRlpzNDl2bmlJd2RQRnZLcldYVEc3TWczSlpsZnB1NzdNT0RtWWZkRUlUMXdFUE1ySHBDU1FUMzFWR3NFeW5aYU5UNWxpbUJ1a1pJd0pvVUJRMlRYOF9nX2lGZm82bjlWTjNkSjl1LVh6U0pRczNNbDlWYnFVYzE1NlV5VWdpdDI0T2otZDhheWQ0WkMyWm1hVTlyeTRB?oc=5"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-11-01/ty-article/.premium/haredi-party-may-not-name-netanyahu-as-pm-choice-for-first-time-since-2009/000001a1-97f1-d216-a5af-f7f394c60000"
+    },
+    {
+     "name": "Jerusalem Post",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83WkUtREdKSkJycnhUOFBZbDhFYjVZdEs5dnJLZHNtcmQtQUF4Y3hTNFRHYlVjclAwZFlWWXVEeTlDRDBkZU1XS0hxWEFOTFlXN3BUaHNsZDRxb0tRTjZ5TjNCa3VvUlBL?oc=5"
+    },
+    {
+     "name": "Ynet News",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HRURnTmFYaHppUlFuUnJYUGt5cWw4TmNhU3VSaU9FNU9weWdvTHJSU0V6ekpJVTk3MUd6eFBUUEhuZ3d3bjY3Z3ZyWGQ0Tkl4b3hQc2hB?oc=5"
+    },
+    {
+     "name": "franceinfo (France 2)",
+     "url": "https://www.franceinfo.fr/monde/israel/en-israel-les-soupcons-d-irregularites-lors-des-legislatives-ne-remettront-pas-en-cause-les-resultats-assure-le-president-de-la-commission-electorale_8263154.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+     "name": "Libération",
+     "url": "https://www.liberation.fr/international/moyen-orient/legislatives-en-israel-la-commission-electorale-confirme-des-soupcons-graves-dirregularites-mais-ils-ne-remettront-pas-en-cause-les-resultats-20261101_52W3NBDLWFDDRGVTHCXX4EUCGI/"
+    },
+    {
+     "name": "한국경제TV",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSkt5dy1DV3ZpUmYwcV9IQnF2eG1DX1REUGZUQXhrNkoxdF9wVmJyaWZVajhhak9POTJNb05iejluMURlN2NVU1FCdGtMM05CWjFpeUpHd3lLYVhfbmZrRjhCUDlUcnlqaWMzRFdZVVdPLVVzU2NiNGJWNndlM2hkMg?oc=5"
+    },
+    {
+     "name": "Der Spiegel",
+     "url": "https://www.spiegel.de/ausland/israel-yair-golan-warnt-vor-neuem-krieg-mit-iran-unter-netanyahu-a-4c97e183-0c44-4e8b-88b6-1475f157593b#ref=rss"
+    }
+   ],
+   "fields": [
+    "geopolitics"
+   ],
+   "hypothesis": "무관"
+  },
+  {
+   "headline_ko": "[메시지] 중국 5중전회 결정 전문: 당 간부 감독 강화·기술·디지털 플랫폼에 '당 건설' 확대 — 가상화폐·국경 간 부패 단속",
+   "importance": 3,
+   "why": "SCMP: 전체회의 문건은 기술 부문 전반의 '당 건설' 강화와 디지털 기율검사·빅데이터 감독 플랫폼을 통한 부패 척결, 인터넷·가상화폐·국경 간 관련 부패 단속을 담았다. 요미우리: 당 간부 감독 강화, 결정 전문 공개(제목). 인민일보·China Daily(관영)는 단행본 출판과 전문가 해설을 전했다.",
+   "sources": [
+    {
+     "name": "SCMP (홍콩)",
+     "url": "https://www.scmp.com/news/china/politics/article/3372899/communist-party-pledges-reach-deeper-chinas-tech-digital-platform-sectors"
+    },
+    {
+     "name": "読売新聞",
+     "url": "https://www.yomiuri.co.jp/world/20261102-GYT1T00066/"
+    },
+    {
+     "name": "People's Daily [관영]",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kWDNBWWJlbnVOeHhMSExUdzNTNUh2QldDN01hUGVEYXN2RjVaVU9tdENscnJBZEs5eVFXX0x0UDMwZEdhZVJ2VjV4cjJRLWpIeFBVdzRZcmpmVVhGSk04WWl5VzlSR0I4MDF2LTJuX0s5dw?oc=5"
+    },
+    {
+     "name": "China Daily [관영]",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbXRuUk4tV21EQ01zM0lJYkdvYTFUZ0dJTGZuRC1Bb29DS0V3eFI5U1FGcGFaTXYxRGFIZWVycnFUOUFWNl81dHhsNUhOOEtDLTEwUGwybEhvTnpEWTBmdWwyNXNlcl9ZR014Zk0tclZtTmJZcUZQdU54Rm1TdzVxYw?oc=5"
+    }
+   ],
+   "fields": [
+    "legislation",
+    "crypto"
+   ],
+   "hypothesis": "무관"
+  }
+ ],
+ "by_country": {
+  "us": [
+   {
+    "headline_ko": "판사, 알래스카 상원 선거 인증 연기 소송 기각 — 법무부 항소 방침",
+    "importance": 5,
+    "why": "CNN, NBC, CBS, NYT, CNBC(항소 방침; 동명 '댄 설리번' 2명).",
+    "sources": [
+     {
+      "name": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wdnZMeEk0UXFXcGlHN0I4S2c5SklfeFEyTzRhcU5VRW5WZ3ZfVFNnNEFvZ2JyUjBZMXdmbXpSV1FKcmh6Z3FyR0RQUmVOTjNLQVluX2VJWHdoNFhYTXFLU2tUNjJXUmk5b00tclZkWnFKOV9yY21GRUdB?oc=5"
+     },
+     {
+      "name": "NBC News",
+      "url": "https://www.nbcnews.com/politics/2026-election/federal-judge-dismisses-trump-attempt-ballots-alaska-senate-race-rcna606838"
+     },
+     {
+      "name": "CBS News",
+      "url": "https://www.cbsnews.com/news/judge-doj-lawsuit-alaska-senate-race-dan-sullivan/"
+     },
+     {
+      "name": "New York Times",
+      "url": "https://www.nytimes.com/2026/11/01/us/alaska-senate-election-lawsuit.html"
+     },
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html"
+     }
+    ],
+    "fields": [
+     "legislation"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "민주당 스티븐스, 미시간 상원 선거서 공화당 로저스 지지 — 당 의장 '더 이상 당원 아냐'",
+    "importance": 4,
+    "why": "CNN, NBC, CBS, CNBC, AP, WaPo(당 의장).",
+    "sources": [
+     {
+      "name": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNDREcGltNzNIQkpyTVg1YXpEelJfNU5jOUg0bmU2QzdWUU85S25pbGdXTkdnU2J1QzZXLUJqNjlwRHQ1S0ZaX3U5RksxMDFYMjd2VHVCMVJ0QVp5SkFmdmdKQm1laGxJc3dLelRHLS1zTGJoSUVmd1NVY3V5NmpBdlU3U1pWTHFXRXg2OEhIMnl2dGI2NWNrdUw2b1g?oc=5"
+     },
+     {
+      "name": "NBC News",
+      "url": "https://www.nbcnews.com/video/rep-haley-stevens-discusses-switching-her-endorsement-to-republican-mike-rogers-272662085891"
+     },
+     {
+      "name": "CBS News",
+      "url": "https://www.cbsnews.com/news/haley-stevens-mike-rogers-together-church-abdul-el-sayed-michigan-senate/"
+     },
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html"
+     },
+     {
+      "name": "AP",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTZaeEZ3WHhrS2s0VVVXSWpRLVVLb185QTR6djh1R3UtZ1F0SFJCS1BWbDBaUmZxeEI4ekkyMVBObTV3R1RyZktuX0dISE9rTmFVd2tVY3NnMm8xTUQ5SGo1VFc1bWoySVdkNHp2c2JmR0g4a2hQOEJfdFVVaFZTQ2hSZWwwMHc1Sm81clYxelpTN1JGbFJZOEpEMlRVWkRBSTdCU0RzX1VWdDRrQXc?oc=5"
+     },
+     {
+      "name": "Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb2NsN2lQNjY4dVI0R0tBNjVscS02RGhSamVkRWxzY1UwaEZZeTZhaUdfeWIySUNvVTdoejRhTEpQRTZKVEhJaUl3Yk5RV3BOYVNIQ1d5OGRoekd2aHBrOFlSNmhCOGJaZXJkbjUzbHJhUWRhU1d4bTI3TkVWUTBpdllTV1d3VGhDR3NuOFp1emhxY2g3M3R1M0RiRWdNRHd1ZWtRN2JBVWxfdkhIR3d6UWhXSDd1cGdBRk5RU0hxUUpaZENk?oc=5"
+     }
+    ],
+    "fields": [
+     "legislation",
+     "forecast"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "크리스 머피 상원의원 뇌졸중 입원",
+    "importance": 3,
+    "why": "CNN(측근 '완전 회복 예상'), AP, NYT('의식 있고 또렷'), WaPo, ABC.",
+    "sources": [
+     {
+      "name": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnVHhSazBsOGlDN2ladDZlMmE3ZlppQTktLUR1Z3htbEk0YWNDOE80LTFGOEFsbUttVkJFdDYtbHRTMDNna015RVFuTWM2QUNYOGZ6dzBPbXNGRnNvYmNkc2JyVGhLc2VIVHViSTRlWHI?oc=5"
+     },
+     {
+      "name": "AP",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX1NiRk5MRXE1STVPM1NFMEx5bWRKR3Z3VFpCenRzSm5BaHoxRFB3REF0Z05UMi1adU9mTGVGVTVLUlk5cDdLRlJaRGR1TGJ3cWR6WmZVRnpCMGhCdUFIMzBwTXFsSzhQczdDYnJvRVRHWjFmblZtWXYwTWd4cWJlaTVZbjEwU1VCMG5uRElwNGhRZ0wzb1NDazBVdzFCX1E?oc=5"
+     },
+     {
+      "name": "New York Times",
+      "url": "https://www.nytimes.com/2026/11/01/us/politics/chris-murphy-stroke.html"
+     },
+     {
+      "name": "Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZC1FLW8wYndWZjJyYl9IbTZLY3IxdzZEU1dodVA5eWR2WndWQUg1dnU0WnFlWjdsRUVOR08wNmtCbjhnb0s3Q0VxZFRTTm1jNk4yYjF5X1h6T2g1NzgzaEZwbzk1NUlzd3MyekdiQ2s1ZmlQTDE5VlNtM0N0NXk3X1NBdkdDU1FfbWkyM3ROLWdTUQ?oc=5"
+     },
+     {
+      "name": "ABC News",
+      "url": "https://abcnews.com/Politics/sen-chris-murphy-hospitalized-after-suffering-stroke-chief/story?id=137751743"
+     }
+    ],
+    "fields": [
+     "legislation"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "CNBC '유가·AI·채권 트레이드 모두 바뀌어' — 국채 금리 하락은 AI 붕괴 우려 신호",
+    "importance": 4,
+    "why": "CNBC, Bloomberg(최대 국채 발행 개편 대비).",
+    "sources": [
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html"
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-01/wall-street-braces-for-biggest-treasury-sales-overhaul-in-years"
+     }
+    ],
+    "fields": [
+     "stocks",
+     "monetary"
+    ],
+    "hypothesis": "반박"
+   },
+   {
+    "headline_ko": "FSB, 미국 제보로 '테러' 계획 10대 구금",
+    "importance": 3,
+    "why": "CNN(제목만).",
+    "sources": [
+     {
+      "name": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYTBCX1dHOU9BNXNHTkN4UmlSTlhWRXkwazdrMDhxYUpnVEpDX211dzc5QXdBelJlS1ZrMm85bFgtc2FMTW9PemFHVnkxT3JlT3RaYlVET0ZiLUVUY2xVMUFxdFlIVjYtb19ZN3NWLWtTME1NTk84ZXlQSGNlWGduRHVwUmg?oc=5"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "반박"
+   }
+  ],
+  "kr": [
+   {
+    "headline_ko": "미 FBI '바이낸스 해킹 배후 북한' 공식 지목… 트럼프 '확인되면 북한과 대화'",
+    "importance": 4,
+    "why": "동아일보(FBI 지목은 SCMP도 보도; 트럼프 발언은 동아 단일).",
+    "sources": [
+     {
+      "name": "동아일보",
+      "url": "https://www.donga.com/news/Inter/article/all/20261102/134947245/2"
+     }
+    ],
+    "fields": [
+     "crypto",
+     "geopolitics"
+    ],
+    "hypothesis": "반박"
+   },
+   {
+    "headline_ko": "네타냐후 '미 중간선거 직후 이란 타격' 압박… 트럼프 '유보적'",
+    "importance": 5,
+    "why": "연합뉴스, 한국경제TV(제목).",
+    "sources": [
+     {
+      "name": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261102002951079"
+     },
+     {
+      "name": "한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05bnJxN1pHMFJmRzU0ODd5WUtub29oSFMwVnF3RF9OSmg3Z1Z4NUhoOG5iZEVRd2NQYWdLdFJGcDFobERDZG9vUFBpa3J6dDhjYW1wWVQ0cmdiaTY5LWRBQzdGQS0zQTBueXZmSkoxc00tYTFNMGlESEhqZWw?oc=5"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "지지"
+   },
+   {
+    "headline_ko": "이란 외무 '카타르 중재 진전, 최종 타결은 미국 답변에'… 후티 '사우디 영공 민항기 공격' 경고",
+    "importance": 4,
+    "why": "MBC 2건, YTN, 한국경제TV(후티 '사우디가 호데이다 공습' 주장).",
+    "sources": [
+     {
+      "name": "MBC",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44Qm1zNmZXNnRFVVdUWHp0aXhzdFNzd1pfbnhwNEhTRk4ySDI2UkRncjFpTWo0WDhkakljM1R0NUhXNnd5UjM1NFlnMlVCWFFjODNNMW1EOU8yeEhXMDdubG14dzNaNmlVeHoyRDUwVTZGUmJj0gF0QVVfeXFMTnU5TDREeC16UU16SXNTVC1hbEQ0Rk96LVUtQ1FER3lmTkNVLXJDZU4yYnRvTDhKVS0wcnpaWWtkQXl0N1pndkd3VXBBZjRJbXZpSk52enNydG5EZmtwUUFlenpPSEpxT3V1TllXR3JsV3VqMzk?oc=5"
+     },
+     {
+      "name": "MBC",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45endxaEU0Mk5FcFBsMGw4MTd5TVR1WFd0Z29qYkIyY25UdnZiNDlFUFdCNjlkREpUNE5zRHduSWZFVVFDSG1UNVdxN0V1ZVhHUDNIOFNPVU56U0Y1eWlkX1h0VlladTB5bUhaZU1abGVOZmw20gF0QVVfeXFMTVo5Sm02aHY3TmItaUJ4MWZiT0hEaU5NZGxBclpNOXBRejdCaWFsUFY1QlFrcXpXNFU5cGhhTkt2dUhCNXdDNmNEY3RMLW5MRDJUTDEyVVVaN085MUxubG1kVEJiemhWQkdONDVseDd5OGpkQWg?oc=5"
+     },
+     {
+      "name": "YTN",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BMHJ6RVBNMVdJT2pBelQxVVl3MTgxZUVuMVh1MXNIRHFZa0cwVW5DbERscWszMS01SXhSWWZ5MEMzX25sUTF5Zko3Zmlab242clRQT3BhQVVudTRhRUpjcmZRMnBnVW93WlJEckRLN1hZVmFFdEE?oc=5"
+     },
+     {
+      "name": "한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSTY5dGNBUmJuMzNOUENETUpCTDExMmRzVVlQMUNzcVlpX09zWk5wYXlFbnA0bnVvTVlKRW8taldOanVOek12dE9aZHFrN01ndTQxbGFuck81TnFJZndNV21PSEpmSGpSTkgxY2NfbmJTRjdld29yTXNpU3poRjlMeg?oc=5"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "지지"
+   },
+   {
+    "headline_ko": "[단독] 공군 훈련기 공중 충돌 은폐·장성들 군악대 불러 술판",
+    "importance": 3,
+    "why": "SBS 단독 4건(단일 매체).",
+    "sources": [
+     {
+      "name": "SBS",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825244"
+     },
+     {
+      "name": "SBS",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825243"
+     },
+     {
+      "name": "SBS",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825420"
+     },
+     {
+      "name": "SBS",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825288"
+     }
+    ],
+    "fields": [
+     "legislation"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "에르도안 국빈 방한 '한국은 제2원전 유력 파트너'·루비오 '북미회담 일정 없지만 대화 준비'",
+    "importance": 3,
+    "why": "연합뉴스 2건(인터뷰), 동아일보(루비오 — 11-01 브리핑 기보도의 후속, 18일 선전 APEC).",
+    "sources": [
+     {
+      "name": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261030024600108"
+     },
+     {
+      "name": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261030058800108"
+     },
+     {
+      "name": "동아일보",
+      "url": "https://www.donga.com/news/Politics/article/all/20261102/134947240/2"
+     }
+    ],
+    "fields": [
+     "industry",
+     "geopolitics"
+    ],
+    "hypothesis": "무관"
+   }
+  ],
+  "jp": [
+   {
+    "headline_ko": "트럼프 '협상 향방 지켜보고 싶다'… 네타냐후와 이란 재공격 전화회담",
+    "importance": 5,
+    "why": "테레비아사히(제목).",
+    "sources": [
+     {
+      "name": "テレビ朝日",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkS21PT1pPRVprdGwzT2NXMll4T0podVVwaDk0TmRKVmZoSG8tWU41X1VHTlpoelEza2dNdUJqQVpINHRscEhHSllkdXBaSHdSRlFDYldmSm53WHROb1ZTdDZCQ3VzVmxrQmlMOXowMjBJSEVIRHYxS2h3?oc=5"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "반박"
+   },
+   {
+    "headline_ko": "일본은행 12월 금리 인상 중간 점검",
+    "importance": 3,
+    "why": "TV도쿄(제목 — 10-30 정책 결정은 10-31 브리핑 기보도; '동결 전망' 기사는 회의 전 예측 기사의 늦은 업로드로 보여 제외).",
+    "sources": [
+     {
+      "name": "テレビ東京(日経)",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqb3NEb0RlYXNTVlY2Yk5xcjlrMngzNkZQM0g4NUtDbU1mU2FCbl9NeDdtcHNFX0REOGozb0NNemlXWG5nNHgyeS1LSVhWNVlBaVN6WGRnWXhYOW04?oc=5"
+     }
+    ],
+    "fields": [
+     "monetary"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "미 중간선거 막판: 여론조사 '민주당 우세', 히스패닉의 트럼프 이탈",
+    "importance": 4,
+    "why": "요미우리, 아사히, 니혼게이자이(미시간 민주당 분열), 테레비아사히(사전투표 5천만 명 넘어 — 11-01 브리핑 기보도).",
+    "sources": [
+     {
+      "name": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20261102-GYT1T00049/"
+     },
+     {
+      "name": "朝日新聞",
+      "url": "http://www.asahi.com/articles/ASVBZ7V2YVBZUHBI006M.html?ref=rss"
+     },
+     {
+      "name": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN310050R31C26A0000000/"
+     },
+     {
+      "name": "テレビ朝日",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0ySjRxdzYzTDRNSXJQak1iWmlRUjZOZlhiNG1HX0RWaFlfTDlVWWYtcXZSVlQxUlhfR3lYbUJSR1czSHk1d0tJbXM3bzdTZzNNeFpXZ29DdnQ0cVBOcm9zYm5MeEhwenNLMklkV09ieFd4ZDNWMEt5OTlR?oc=5"
+     }
+    ],
+    "fields": [
+     "forecast"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "[단독] 방위비 5년간 80조 엔 추산 — 현행 계획의 1.8배",
+    "importance": 4,
+    "why": "산케이 단독(단일·미확인).",
+    "sources": [
+     {
+      "name": "産経新聞",
+      "url": "https://www.sankei.com/article/20261102-DNU6W2WZ4VLJNMV5GN2JS4M7II/"
+     }
+    ],
+    "fields": [
+     "geopolitics",
+     "industry"
+    ],
+    "hypothesis": "지지"
+   },
+   {
+    "headline_ko": "다카이치 내각 지지율 64.9% — 사이버 공격 대응 '평가 안 해' 58%",
+    "importance": 3,
+    "why": "TBS(JNN 여론조사).",
+    "sources": [
+     {
+      "name": "TBS",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ESEdCUzRxdDh0TnQzOF95Y1BSRWxUbFlFUmxDcTdDenR6Ty16WTBXa3JHZG5QempHZl9HY1hmWE84UzNZYkNfZVhjVWY4SU56WEZPSlctWQ?oc=5"
+     },
+     {
+      "name": "TBS",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fUFB0OFZFVVQydVdoUnpzX1hhOFF6Vng3WUhtSHJWb08tZHVsTDVJbURiV0RxV3hBZ1RkVkFKYXAxcXhkaTFYX2p4YkdyZUFPUS1QTXlQYw?oc=5"
+     }
+    ],
+    "fields": [
+     "forecast"
+    ],
+    "hypothesis": "무관"
+   }
+  ],
+  "de": [
+   {
+    "headline_ko": "Gen Z 시위 폭력 책임 공방: 도브린트 '좌파 그룹·이주민 난동꾼' vs 피스토리우스 '잘못된 방향'",
+    "importance": 4,
+    "why": "ARD(외부 세력 침투 판단), DW, ZDF, n-tv, WELT, Zeit.",
+    "sources": [
+     {
+      "name": "ARD Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html"
+     },
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/de/dobrindt-verurteilt-gewalt-nach-gen-z-protesten-in-deutschland/a-79820787?maca=de-rss-de-all-1119-rdf"
+     },
+     {
+      "name": "ZDF heute",
+      "url": "https://www.zdfheute.de/politik/boris-pistorius-interview-wehrpflicht-gen-z-krawalle-100.html"
+     },
+     {
+      "name": "n-tv",
+      "url": "https://www.n-tv.de/politik/Migrantische-Chaoten-Pistorius-widerspricht-Dobrindt-id31482920.html"
+     },
+     {
+      "name": "WELT",
+      "url": "https://www.welt.de/politik/deutschland/article6ae799c55e7018b4bea951d8/randale-und-pluenderungen-fuehrt-in-die-falsche-richtung-sagt-pistorius-ueber-dobrindts-aussage-zu-migrantischen-chaoten.html"
+     }
+    ],
+    "fields": [
+     "legislation"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "정부·의원 아이폰 스파이웨어 — BSI 경고, 디지털장관 확인",
+    "importance": 4,
+    "why": "ARD, Spiegel, WELT, FAZ.",
+    "sources": [
+     {
+      "name": "ARD Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/wildberger-hackerangriff-bundestagsabgeordnete-100.html"
+     },
+     {
+      "name": "Der Spiegel",
+      "url": "https://www.spiegel.de/politik/deutschland/bsi-warnt-moegliche-spaehsoftware-auf-iphones-von-politikern-a-8b9e2ad3-485c-489a-b94c-1131753b777b#ref=rss"
+     },
+     {
+      "name": "WELT",
+      "url": "https://www.welt.de/politik/deutschland/article6ae79588aedea8cd9ffc0feb/warnung-von-apple-beunruhigt-uns-sehr-hacker-nehmen-iphones-von-regierung-und-bundestagsabgeordneten-ins-visier.html"
+     },
+     {
+      "name": "FAZ",
+      "url": "https://www.faz.net/aktuell/politik/inland/bsi-warnt-abgeordnete-vor-moeglicher-spyware-attacke-auf-iphones-201642072.html"
+     }
+    ],
+    "fields": [
+     "legislation"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "불가리아 친러 요토바 대통령 결선 승리(예측)",
+    "importance": 4,
+    "why": "ARD, ZDF, n-tv(EU 영향), WELT, Spiegel.",
+    "sources": [
+     {
+      "name": "ARD Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html"
+     },
+     {
+      "name": "ZDF heute",
+      "url": "https://www.zdfheute.de/politik/ausland/bulgarien-wahl-jotowa-100.html"
+     },
+     {
+      "name": "n-tv",
+      "url": "https://www.n-tv.de/politik/Bulgaren-bestaetigen-Praesidentin-im-Amt-id31482824.html"
+     },
+     {
+      "name": "WELT",
+      "url": "https://www.welt.de/politik/ausland/article6ae782745e7018b4bea95076/stichwahl-russlandfreundliche-praesidentin-jotowa-liegt-nach-prognosen-in-bulgarien-vorn.html"
+     },
+     {
+      "name": "Der Spiegel",
+      "url": "https://www.spiegel.de/ausland/bulgarien-iliana-jotowa-nach-prognosen-vorn-a-e70269f7-9feb-4274-8d45-7436ee034b30#ref=rss"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "반박"
+   },
+   {
+    "headline_ko": "트럼프, 이란 추가 표적 거론 '10분이면 끝낼 수 있다'",
+    "importance": 5,
+    "why": "Spiegel, FAZ(라이브블로그 — 이란 '미국의 어선 공격' 주장), ARD(걸프국 우려).",
+    "sources": [
+     {
+      "name": "Der Spiegel",
+      "url": "https://www.spiegel.de/ausland/donald-trump-prahlt-neue-angriffsziele-in-iran-ins-spiel-pickaxe-mountain-a-41a5db5e-7ad1-49b1-8038-e773378f49a1#ref=rss"
+     },
+     {
+      "name": "FAZ",
+      "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-trump-bringt-angriffe-auf-weitere-ziele-in-iran-ins-spiel-faz-200583539.html"
+     },
+     {
+      "name": "ARD Tagesschau",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1676342.html"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "지지"
+   },
+   {
+    "headline_ko": "독일 가스 저장고 11월 1일 목표 70% 미달 — 정부 '겨울 공급은 확보'",
+    "importance": 3,
+    "why": "DW 단일.",
+    "sources": [
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/de/vorgaben-für-gasspeicher-füllstand-in-deutschland-verfehlt/a-79822308?maca=de-rss-de-all-1119-rdf"
+     }
+    ],
+    "fields": [
+     "industry"
+    ],
+    "hypothesis": "지지"
+   }
+  ],
+  "uk": [
+   {
+    "headline_ko": "러 공습에 우크라이나 수천 가구 정전, 헤르손 휴전 종료",
+    "importance": 4,
+    "why": "BBC, Reuters(드론의 러시아 시설 타격 포함).",
+    "sources": [
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
+     },
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeXRrWGZCWmZwTWdSSnFYMmVQTDc1eVhwLVdCaHREN0xiRmdyUk91bldUN2NzVnRDZlJLUTFCdEZ4bWRQOFBQWFlFTnNyVVQ2ci12eVEtUnNLREFqSE84OEFTeVJhNzlLUGZuRGhnMGZ5Y1k0X3dNYU5fWmR2ajM1REw3dVF3eGx6WXg4ZHBjdERtX3R1MllSVjFncjZtLXg5dHNMbmNFdTRpTHBra0NuRHVmdUpfaTdWYTVZQ0FZYW4?oc=5"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "지지"
+   },
+   {
+    "headline_ko": "걸프국들, 미·이스라엘과 이란 전쟁 격화 대비",
+    "importance": 5,
+    "why": "FT(외교관 '재개 시 피해 더 커'), Reuters(IRGC '유조선 2척 기뢰 폭발' 주장, 제목만 — IRGC 단일 출처).",
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://www.ft.com/content/efaa2962-1acb-45cf-afb4-d0088f0a1046?syn-25a6b1a6=1"
+     },
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZmk2dmxjdk1sOW96UkZiaUlJVXhzc1pJMjZJUnY2WGtvaXd4aXRJY3d4UTNoUmFJdUVQQjlkb0JPSmxEc2YzS1JOZ2NSWmpTUnhzYzBiU1hfeXBvb2F2WEp2NHc5YkFfUUNKSHc2NW1PMUVKT0xqUTdOa0tfUmZpQWE2SDFtdzJ5TmZleWpLd0Zid1JWR2Z0d0dOeVMwekFzNTNTYndHMmMyV0poZ2h0UmFOVWc2M3o3Z2h6TUR2SQ?oc=5"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "지지"
+   },
+   {
+    "headline_ko": "정크본드 폭락에 신용 투자자 '피바다'",
+    "importance": 4,
+    "why": "FT 단일.",
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://www.ft.com/content/fdc9a85d-d2c4-465f-99ca-609d68b6d443?syn-25a6b1a6=1"
+     }
+    ],
+    "fields": [
+     "stocks",
+     "monetary"
+    ],
+    "hypothesis": "반박"
+   },
+   {
+    "headline_ko": "알래스카 소송 기각·미시간 스티븐스 공화당 지지 — Economist '알래스카 사태가 민주당 상원 다수당 확보 좌절시킬 수도'",
+    "importance": 4,
+    "why": "Reuters, Guardian, FT, Sky(동명 후보 형사 수사 — 10-31 브리핑 기보도; 트럼프 '부정선거'), Economist(제목).",
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPck1iY1RiSVI0MWpxbGhyZzlYWm9PeGh6WXJnYTVIX0VqTS1UbGpTQUh0WkFxbUpFdlNsbmJCUzg0bENnWmtEUjcxUWxTbmIzMzlKUGdXNGFidFl0Nk10a29rYVlVUkdLRVM2TUtBU0NRcTlXUS0xSjhmOTRZNWVjUW1yMVVIOHh4QnFLTEFiQWZyRWNsSVE?oc=5"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan"
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://www.ft.com/content/d77e4c6f-0ac7-49ce-bca8-b30080bf9797?syn-25a6b1a6=1"
+     },
+     {
+      "name": "Sky News",
+      "url": "https://news.sky.com/story/trump-claims-voter-fraud-in-election-race-where-two-candidates-share-same-name-13606581"
+     },
+     {
+      "name": "The Economist",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU3JpaUtEUUUwWGs5bW1OTmJfV3Joa25ob2FpbkRrZk9wN3F6WUVCWFQtSE0zSlc4Q2x6S1MySWV0RDB1R1lYZHFQdjNnNlBfTWRGQUlIWDVhVDRYM3RhLVBYaFBJRnJsZHdlbWRUSDBnVzJvSXB4N1dqdjU5d0xnYWhJaFZIUVlRSzBPbXFlckxxMHEzUTJNUGQ0bVlxRlN0UlVTZkVyNWl5UzVtNlhTU01mSTg?oc=5"
+     }
+    ],
+    "fields": [
+     "legislation",
+     "forecast"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "국왕 앤티가서 노예제 언급 예정 — 정부 '금전 배상은 검토 대상 아냐'",
+    "importance": 3,
+    "why": "BBC, Channel 4.",
+    "sources": [
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss"
+     },
+     {
+      "name": "Channel 4 News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeGZFM21sY3d5TVgxYzNWOGtXU3JVREh6TjU5S1JPVy11QlpDcnZNSkVDazJzczQ0TFhGSmFRRTNBU2tYTWtZMEhYVUd4QldZSmstd1hrUmRtT1E2QjcxOXVCdHpWWUNaZk1YNEUzVGtxZWlCbzItR1pnbHYzZjdrQUF2UDgxUDN2S1BNQWlmUld5aldyd2RlMi1RTFg?oc=5"
+     }
+    ],
+    "fields": [
+     "legislation"
+    ],
+    "hypothesis": "무관"
+   }
+  ],
+  "fr": [
+   {
+    "headline_ko": "10월 31일 시위 최종 779명 체포 — 11월 5일 총파업 정점 전망, 정부 SMIC 인상 검토",
+    "importance": 4,
+    "why": "franceinfo, Les Echos(제목), Le Monde(학교 봉쇄 촉구), Le Figaro(필리프 '내민 손 잡아라').",
+    "sources": [
+     {
+      "name": "franceinfo (France 2)",
+      "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-sociale-la-jeunesse-ne-lache-pas-declare-la-porte-parole-de-l-union-etudiante-au-lendemain-des-manifestations-du-31-octobre_8262449.html#xtor=RSS-3-[lestitres]"
+     },
+     {
+      "name": "Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcFl2NDlPU25zc0VUOTZyUHdhUjFNRXBaU0lVSnllT2d3aXg5MkdBTWRwYlVuNW5tQzR3RHZZZ283a3BIZTFlQV90TXNaemRPQTFVb1FOSjMxay1XVHBvbTgwTEpRUldsNkd2MU9WUWlhaThSSU92ZEptR25Ua1dFejAxM2dQYW5Xd1lfYXQ0dlJreUcyS1M2Vm9LQlc3MnZhLS12dkt5bEZfQWlrVnBuX3RrODFheVF6MTdkR05kMWtxYURWUTdPN2FCTExBWE9qMFFhbFVVa1B2ZDFpNEE?oc=5"
+     },
+     {
+      "name": "Le Monde",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/01/mouvement-lyceen-les-incertitudes-de-la-rentree-scolaire-alors-que-la-jeunesse-mobilisee-veut-maintenir-la-pression_6804533_3224.html"
+     },
+     {
+      "name": "Le Figaro",
+      "url": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-plusieurs-centaines-de-milliers-de-manifestants-samedi-dans-l-hexagone-avant-la-journee-de-greve-du-5-novembre-20261101"
+     }
+    ],
+    "fields": [
+     "legislation",
+     "forecast"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "필리프, 우파·중도 경선 참여 재차 거부 '분열·혼란'",
+    "importance": 3,
+    "why": "France 24, franceinfo, BFMTV, Le Monde, Le Figaro(아탈 제안 거부), Libération.",
+    "sources": [
+     {
+      "name": "France 24",
+      "url": "https://www.france24.com/fr/france/20261101-pr%C3%A9sidentielle-2027-%C3%A9douard-philippe-refuse-de-participer-%C3%A0-une-primaire-source-de-division"
+     },
+     {
+      "name": "franceinfo (France 2)",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/edouard-philippe-refuse-une-nouvelle-fois-de-participer-a-une-primaire-de-la-droite-et-du-centre-source-de-division-et-de-confusion_8263160.html#xtor=RSS-3-[lestitres]"
+     },
+     {
+      "name": "BFMTV",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-2027-edouard-philippe-refuse-de-participer-a-une-primaire-de-la-droite-et-du-centre_AD-202611010415.html"
+     },
+     {
+      "name": "Le Monde",
+      "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/01/edouard-philippe-juge-la-primaire-a-droite-et-au-centre-synonyme-de-division-et-de-confusion_6804637_6205049.html"
+     },
+     {
+      "name": "Le Figaro",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-edouard-philippe-rejette-la-primaire-des-democrates-proposee-par-gabriel-attal-20261101"
+     }
+    ],
+    "fields": [
+     "legislation"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "마르세유 인근 화재 출동 소방관 총상 중상, 용의자 체포",
+    "importance": 3,
+    "why": "franceinfo, BFMTV, Le Monde, Le Figaro, Libération.",
+    "sources": [
+     {
+      "name": "franceinfo (France 2)",
+      "url": "https://www.franceinfo.fr/faits-divers/un-sapeur-pompier-blesse-par-balle-lors-d-une-intervention-pres-de-marseille-l-assaillant-retranche_8262992.html#xtor=RSS-3-[lestitres]"
+     },
+     {
+      "name": "BFMTV",
+      "url": "https://www.bfmtv.com/police-justice/video-pres-de-marseille-un-sapeur-pompier-blesse-par-balle-lors-d-une-intervention-le-suspect-interpelle_VN-202611010399.html"
+     },
+     {
+      "name": "Le Monde",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/01/pompier-blesse-par-balle-pres-de-marseille-un-homme-interpelle-annonce-le-prefet_6804532_3224.html"
+     },
+     {
+      "name": "Le Figaro",
+      "url": "https://www.lefigaro.fr/marseille/un-sapeur-pompier-blesse-par-balle-dans-les-bouches-du-rhone-alors-qu-il-intervenait-sur-un-feu-20261101"
+     },
+     {
+      "name": "Libération",
+      "url": "https://www.liberation.fr/societe/police-justice/un-pompier-blesse-par-balle-lors-dune-intervention-pres-de-marseille-20261101_EMZOSQO5TJBJNO47KZODFM5BK4/"
+     }
+    ],
+    "fields": [
+     "legislation"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "올레시키 휴전 마지막 날 — 러시아, 연장 제안 거부",
+    "importance": 4,
+    "why": "France 24 2건, TF1(현장), Le Monde.",
+    "sources": [
+     {
+      "name": "France 24",
+      "url": "https://www.france24.com/fr/europe/20261101-ukraine-au-dernier-jour-de-tr%C3%AAve-%C3%A0-olechky-la-population-se-pr%C3%A9pare-%C3%A0-une-reprise-de-la-guerre"
+     },
+     {
+      "name": "France 24",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261101-ukraine-dernier-jour-d-une-tr%C3%AAve-exceptionnelle-%C3%A0-olechky"
+     },
+     {
+      "name": "TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSVptYndtdVh5aEhJaTlFWmdET05JTFNRdVBtbWpjMUFFeUMyRDJySzFiNHo1Q3VuUXFDVDdZVjlZanRGeVBEekxzNnUzZ0UtSnpFeEpENV9aRkFHMTVXLWZjWFFaUUhwc0puS01xSWNKTHBnemNvUjhVdGVjbUJyUTZxTnFlSWtETVpRWk00dnRENzZ5b0I1cTFrazZ5N3ZCQnBDUjhod3ZoU1ktZ3dxb3RIb1REbjFYOTdKNFJHTVpuaG9LSm5FSjJoSEw2bjRPVThBbmFBNUYzeWVZOHZuVU55dTRFT2hjcTZtc3hCVlQyZDd3Rlc3RkFiUQ?oc=5"
+     },
+     {
+      "name": "Le Monde",
+      "url": "https://www.lemonde.fr/international/article/2026/11/01/en-ukraine-les-habitants-d-olechky-evacues-nous-ne-savons-pas-ou-aller-mais-une-chose-est-sure-nous-survivrons_6804529_3210.html"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "지지"
+   },
+   {
+    "headline_ko": "불가리아: '모스크바와 대화' 지지자 요토바 당선",
+    "importance": 4,
+    "why": "Libération(52.5~59%), Le Monde.",
+    "sources": [
+     {
+      "name": "Libération",
+      "url": "https://www.liberation.fr/international/europe/presidentielle-en-bulgarie-un-duel-serre-sur-fond-de-tensions-avec-la-russie-en-mer-noire-20261101_PWOECFDJYVEDXCP7XGL4URBHZM/"
+     },
+     {
+      "name": "Le Monde",
+      "url": "https://www.lemonde.fr/international/article/2026/11/01/presidentielle-en-bulgarie-iliana-iotova-remporte-l-election-selon-plusieurs-sondages-a-la-sortie-des-urnes_6804603_3210.html"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "반박"
+   }
+  ],
+  "il": [
+   {
+    "headline_ko": "트럼프 '이란 협상 진전'·'곡괭이 산' 표적 지목 / 네타냐후와 '좋은' 통화",
+    "importance": 5,
+    "why": "i24(제목), Ynet(제목), JPost(소식통 — 이스라엘 공동 타격 준비).",
+    "sources": [
+     {
+      "name": "i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZmdaUHZYYjhvV1FybUhjTEs4aHBPNUcxMjZCWEFGcng2VDJmVEhRZlpiaVBTR21IVnJSMndWU1JZNDdjUVhVLWxJcnZsdlpRUW1oVy1PMndYMi11MmZRNjBKak5OY3ZvZ1ZnbmYtS2ZsMlpBQkNUR1c0NkZ2ckdPRVVqNUxNSjdSOTVMVHU4b0lDV0oyMzdock1HcVBmUHB6a0xybEp5TUJ1NjZvb0l1dUctb1VLbE1PMGV5N2hOSGtXOXhNSWlFZEpabVJuXy1NN2RBN0FqelM?oc=5"
+     },
+     {
+      "name": "Ynet News",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UN0o5cDAxXy1QMFhQVEtlTHY4Wk15cDlvbWoxN2pwNFpWQ1pOTFhsb1hpY1RlcklWckpoMi1hbGpnVDBRTFN5ZS1oRVdrNGVPUjlwNw?oc=5"
+     },
+     {
+      "name": "Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGX2VYMjFxQXZSTmE4UWlLZFBSSHJ4M01CUzdOOGlQdjZJeDJKQlFpWWNaMC1PbmVXVUFRSmR2d2hsOWtfcU9Zc0oxc0YyVU9HWTVia0EycTlRNldRWGpPUkh1LU4xV1k4NXc?oc=5"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "지지"
+   },
+   {
+    "headline_ko": "아이젠코트, 라암 지지·UTJ 기권 기댄 소수 정부 검토(보도)",
+    "importance": 4,
+    "why": "i24 2건, Haaretz(초정통파 '추천 보류' 검토).",
+    "sources": [
+     {
+      "name": "i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUjRXMWQzbkFIY1dFWkU3Wmo2SHZQRy0yZjdmVzRfM1V1ei01bmFMV0d5NUdfVmE0RE9KbFNiVnZPUU9POF9WM3hETXJwWDc1R1RLbFFSSktvcnpzUWpFYURGbmEyT3cySlZ2a3lsbkNoSDFuYlJmdVdXR3hQV3U4ZUFEcVY0eFU4VmFjSC1ZRFRtYlBDdC1Wengwd0hjbGVxemgxQWxoT1d5UXRUa29leEUtTy1zYzg5VmlaYzNOWjQyUnBWWHVVU0d3?oc=5"
+     },
+     {
+      "name": "i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQmdEYnQ1SFh2LUozelFsWHBxMEJ1dnA1eklSOVMxakRlMkp0RW9sa2ZSOXphRlpzNDl2bmlJd2RQRnZLcldYVEc3TWczSlpsZnB1NzdNT0RtWWZkRUlUMXdFUE1ySHBDU1FUMzFWR3NFeW5aYU5UNWxpbUJ1a1pJd0pvVUJRMlRYOF9nX2lGZm82bjlWTjNkSjl1LVh6U0pRczNNbDlWYnFVYzE1NlV5VWdpdDI0T2otZDhheWQ0WkMyWm1hVTlyeTRB?oc=5"
+     },
+     {
+      "name": "Haaretz",
+      "url": "https://www.haaretz.com/israel-news/elections/2026-11-01/ty-article/.premium/haredi-party-may-not-name-netanyahu-as-pm-choice-for-first-time-since-2009/000001a1-97f1-d216-a5af-f7f394c60000"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "베네트, 아이젠코트 총리직 지지 — 리베르만은 질타",
+    "importance": 3,
+    "why": "JPost, Ynet.",
+    "sources": [
+     {
+      "name": "Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83WkUtREdKSkJycnhUOFBZbDhFYjVZdEs5dnJLZHNtcmQtQUF4Y3hTNFRHYlVjclAwZFlWWXVEeTlDRDBkZU1XS0hxWEFOTFlXN3BUaHNsZDRxb0tRTjZ5TjNCa3VvUlBL?oc=5"
+     },
+     {
+      "name": "Ynet News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HRURnTmFYaHppUlFuUnJYUGt5cWw4TmNhU3VSaU9FNU9weWdvTHJSU0V6ekpJVTk3MUd6eFBUUEhuZ3d3bjY3Z3ZyWGQ0Tkl4b3hQc2hB?oc=5"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "할레비 전 참모총장 '배신은 없었다' — 10월 7일 음모론 일축",
+    "importance": 3,
+    "why": "i24(제목).",
+    "sources": [
+     {
+      "name": "i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObWw2RE42VDR2V3FWQjFmdVRjNGQtdnB5Y1RvbHVteWlzUHB2REhUajZnS3Q4Z2FyeEc0ZklHTjN5a0NBQXNzSlkzdjE5SXhtWE13MWotVS1zMHZlekxkUnhkU2RzQXVGTjBheVJuUVFKVHR4Q3pZV2tjdXNHcFJudHZuNE9pTTF4SThuWW0wSDk3V0RYMzgyaWpUcWtjZUVob29tUkRib2ZSMS1CQVo5TGttMmg4T1BoWVAxYlB2RFI1UFFTUGg3VGJrcHp0U1NTeXc?oc=5"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "화요일 미 선거 앞둔 유대계 표심",
+    "importance": 3,
+    "why": "Times of Israel, Haaretz(메인주 유대계 민주당원 불안).",
+    "sources": [
+     {
+      "name": "Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZW52bVN4U29JM2N5eTFURnlldEt5Tzk4dFZBaHR4RGZCZWJ0Sm9lckVQeXZ3OWNyNXF6ZGlpZU9TRzR6T2NQZzNIYS1qX1ZTMXRPaUZhRlJBa1JFRGl2Y1dHOGJTLXB1YzFuZTh6b3BkQVdEYTNsQW8ybjhWU1lVQl9R?oc=5"
+     },
+     {
+      "name": "Haaretz",
+      "url": "https://www.haaretz.com/us-news/2026-11-01/ty-article-magazine/.premium/platner-is-out-but-troy-jackson-leaves-some-of-maines-jewish-democrats-uneasy/000001a1-9891-d4fe-ade7-9cfddd2f0000"
+     }
+    ],
+    "fields": [
+     "forecast"
+    ],
+    "hypothesis": "무관"
+   }
+  ],
+  "ru": [
+   {
+    "headline_ko": "알료시키 '침묵 체제' 종료 — 약 6일 휴전, 키이우와 정기 인도주의 미션 합의(란트라토바 주장)",
+    "importance": 4,
+    "why": "RBC, TASS(관영), Kommersant 2건('멜라니아 트럼프 중재, 가장 성공적인 휴전').",
+    "sources": [
+     {
+      "name": "RBC",
+      "url": "https://www.rbc.ru/politics/02/11/2026/6ae4d1e32455cc4b83c18b92"
+     },
+     {
+      "name": "TASS [관영]",
+      "url": "https://tass.ru/politika/28276705"
+     },
+     {
+      "name": "Kommersant",
+      "url": "https://www.kommersant.ru/doc/9078565"
+     },
+     {
+      "name": "Kommersant",
+      "url": "https://www.kommersant.ru/doc/9078544"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "반박"
+   },
+   {
+    "headline_ko": "도네츠크 약 28만 가구 정전",
+    "importance": 3,
+    "why": "Interfax(시장 발표 — 원인 미기재), Vesti(관영).",
+    "sources": [
+     {
+      "name": "Interfax",
+      "url": "https://www.interfax.ru/russia/1126425"
+     },
+     {
+      "name": "Rossiya 24 (Vesti) [관영]",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSlRUWnk0Sm02OVdOUlE3OTExT1ZNWUNnU2Q3Um1xUTlXdWt5a0xVYlRvN213U1VtSkpVWjdCLU44WjJjaFZjLU5WQlR4dEhpMHUxb3dWQzVzMzh2T1dyZ0gxbWRnV1d1WG5EaVVwUmFPdjdTamV1Q2N1X2NCbW5zblNxYTFEaDU1bEMtUk5tM2lyRDlERkZmSHZORW5HQnhWY3J2eDM3dw?oc=5"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "지지"
+   },
+   {
+    "headline_ko": "이란군 '미국과 새 충돌은 이전보다 길어질 수도' / 아랍국 '파괴적 전쟁' 우려",
+    "importance": 5,
+    "why": "Interfax, Vedomosti(Bloomberg 인용), Vedomosti(Axios 인용 — 네타냐후 '선거 후 재개' 촉구).",
+    "sources": [
+     {
+      "name": "Interfax",
+      "url": "https://www.interfax.ru/world/1126422"
+     },
+     {
+      "name": "Vedomosti",
+      "url": "https://www.vedomosti.ru/politics/news/2026/11/01/1241859-arabskie-strani-boyatsya"
+     },
+     {
+      "name": "Vedomosti",
+      "url": "https://www.vedomosti.ru/politics/news/2026/11/01/1241863-netanyahu-prizval-trampa"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "지지"
+   },
+   {
+    "headline_ko": "트럼프 '민주당 이기면 미스터 거부권'·의회 우회 국정 준비(로이터 인용)",
+    "importance": 4,
+    "why": "Vedomosti 2건.",
+    "sources": [
+     {
+      "name": "Vedomosti",
+      "url": "https://www.vedomosti.ru/politics/news/2026/11/01/1241862-tramp-poobeschal"
+     },
+     {
+      "name": "Vedomosti",
+      "url": "https://www.vedomosti.ru/politics/news/2026/11/01/1241852-tramp-gotovitsya-upravlyat"
+     }
+    ],
+    "fields": [
+     "legislation",
+     "forecast"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "불가리아 대선 요토바 선두 — 출구조사 52.5%(Vedomosti)·[관영] RIA 58.2%",
+    "importance": 4,
+    "why": "RIA(관영), Vedomosti, Interfax.",
+    "sources": [
+     {
+      "name": "RIA Novosti [관영]",
+      "url": "https://ria.ru/20261101/yotova-2128507379.html"
+     },
+     {
+      "name": "Vedomosti",
+      "url": "https://www.vedomosti.ru/politics/news/2026/11/01/1241860-iotova-pobezhdaet"
+     },
+     {
+      "name": "Interfax",
+      "url": "https://www.interfax.ru/world/1126423"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "반박"
+   }
+  ],
+  "cn": [
+   {
+    "headline_ko": "공산당, 기술·디지털 플랫폼에 '당 건설' 확대 — 가상화폐·국경 간 부패 단속",
+    "importance": 4,
+    "why": "SCMP.",
+    "sources": [
+     {
+      "name": "SCMP (홍콩)",
+      "url": "https://www.scmp.com/news/china/politics/article/3372899/communist-party-pledges-reach-deeper-chinas-tech-digital-platform-sectors"
+     }
+    ],
+    "fields": [
+     "legislation",
+     "crypto"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "[메시지] 5중전회 '전면적 종엄치당' 결정 단행본 출판·전문가 해설",
+    "importance": 3,
+    "why": "인민일보·China Daily(관영).",
+    "sources": [
+     {
+      "name": "People's Daily [관영]",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kWDNBWWJlbnVOeHhMSExUdzNTNUh2QldDN01hUGVEYXN2RjVaVU9tdENscnJBZEs5eVFXX0x0UDMwZEdhZVJ2VjV4cjJRLWpIeFBVdzRZcmpmVVhGSk04WWl5VzlSR0I4MDF2LTJuX0s5dw?oc=5"
+     },
+     {
+      "name": "China Daily [관영]",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbXRuUk4tV21EQ01zM0lJYkdvYTFUZ0dJTGZuRC1Bb29DS0V3eFI5U1FGcGFaTXYxRGFIZWVycnFUOUFWNl81dHhsNUhOOEtDLTEwUGwybEhvTnpEWTBmdWwyNXNlcl9ZR014Zk0tclZtTmJZcUZQdU54Rm1TdzVxYw?oc=5"
+     }
+    ],
+    "fields": [
+     "legislation"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "불가리아 대통령 권한대행 요토바, 결선 승리(출구조사)",
+    "importance": 4,
+    "why": "SCMP('주로 의례적 직위'), Xinhua(관영).",
+    "sources": [
+     {
+      "name": "SCMP (홍콩)",
+      "url": "https://www.scmp.com/news/world/europe/article/3372909/bulgarian-acting-president-iliana-iotova-wins-run-election-exit-polls-show"
+     },
+     {
+      "name": "Xinhua [관영]",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CZXhKM2stNUEtamQ3X0MtamF6RjJSNjFlRy1va1ZiVzVoTHlLX0hSYXg3cmVxbU1LaEZQQlRKbGNqSXhQZlp2cUhYNUk4d0Q3SmhndndBblBldUV5bE5UX0ZYYkFBM0ltQjBYOGhEbXVSOFZPeFN4UnFOemF6SEU?oc=5"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "반박"
+   },
+   {
+    "headline_ko": "바이낸스 재개 뒤 36.4억$(자산 2.1%) 인출 — 'FBI가 북한과 연계한 해커'",
+    "importance": 4,
+    "why": "SCMP.",
+    "sources": [
+     {
+      "name": "SCMP (홍콩)",
+      "url": "https://www.scmp.com/business/cryptocurrency/article/3372910/binance-sees-spike-withdrawals-exchange-returns-online-after-us63-billion-hack"
+     }
+    ],
+    "fields": [
+     "crypto"
+    ],
+    "hypothesis": "반박"
+   }
+  ]
+ },
+ "watch": [
+  "11월 3일 미 중간선거 결과(알래스카·미시간·텍사스 상원)와 법무부의 알래스카 항소, 트럼프의 '거부권' 예고 이행 여부",
+  "선거 직후 미국의 대이란 결정 — 이란 외무가 말한 '미국 답변', 네타냐후의 재개 압박에 대한 트럼프 공식 입장, '곡괭이 산' 언급의 후속",
+  "프랑스 11월 5일 총파업·학교 봉쇄 규모, SMIC 인상 발표, 독일 시위 폭력 수사 결과",
+  "불가리아 공식 개표 결과와 EU 정책 영향, 올레시키 휴전 종료 뒤 헤르손 전선 교전 재개 여부",
+  "FBI의 바이낸스 해킹 북한 귀속 공식 발표 원문, 독일 BSI의 스파이웨어 피해 규모 발표"
+ ],
+ "coverage": {
+  "us": {
+   "headlines": 87,
+   "unavailable": []
+  },
+  "kr": {
+   "headlines": 112,
+   "unavailable": []
+  },
+  "jp": {
+   "headlines": 96,
+   "unavailable": [
+    "Nikkei Asia"
+   ]
+  },
+  "de": {
+   "headlines": 80,
+   "unavailable": []
+  },
+  "uk": {
+   "headlines": 87,
+   "unavailable": []
+  },
+  "fr": {
+   "headlines": 64,
+   "unavailable": []
+  },
+  "il": {
+   "headlines": 49,
+   "unavailable": [
+    "Kan (KAN News)"
+   ]
+  },
+  "ru": {
+   "headlines": 72,
+   "unavailable": []
+  },
+  "cn": {
+   "headlines": 45,
+   "unavailable": [
+    "Global Times",
+    "Caixin"
+   ]
+  }
+ }
+}
