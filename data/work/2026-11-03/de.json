@@ -1,0 +1,1101 @@
+{
+  "team": "de",
+  "headlines": [
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "tagesschau in 100 Sekunden",
+      "title_ko": "ARD 투데이 100초 뉴스",
+      "summary_ko": "영상 뉴스 요약(제목 기준, 별도 요약 없음).",
+      "url": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1676950.html",
+      "published": "2026-11-03T05:51:18+09:00",
+      "tags": [],
+      "event": "tagesschau-100s",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Jüdische Akademie in Frankfurt eröffnet",
+      "title_ko": "프랑크푸르트에 유대 아카데미 개관",
+      "summary_ko": "유대인중앙협의회가 프랑크푸르트에 쇼아(홀로코스트) 이후 처음으로 전국 단위 교육기관인 유대 아카데미를 열었다. 슈타인마이어 대통령은 연설에서 반유대주의와의 싸움 강화를 호소했다.",
+      "url": "https://www.tagesschau.de/inland/regional/hessen/juedische-akademie-frankfurt-100.html",
+      "published": "2026-11-03T05:37:43+09:00",
+      "tags": [],
+      "event": "jewish-academy-frankfurt",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Warum es bei diesen Midterms auch auf Alaska ankommen könnte",
+      "title_ko": "이번 미국 중간선거에서 알래스카가 중요할 수 있는 이유",
+      "summary_ko": "전통적으로 공화당 지지 지역인 알래스카에서 민주당 펠톨라가 여론조사상 앞서고 있으며, 그 결과가 중간선거에 결정적 영향을 줄 수 있다. 이곳 선거전도 높은 물가가 좌우하고 있다.",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-alaska-100.html",
+      "published": "2026-11-03T05:15:15+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-midterms-alaska",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Abenteurer Bushby kehrt nach 28 Jahren von Weltreise zurück",
+      "title_ko": "모험가 부시비, 28년 세계 도보여행 마치고 귀환",
+      "summary_ko": "영국 모험가 칼 부시비가 28년간 5만 km를 걸은 뒤 고향 헐로 돌아와 어머니의 환영을 받았다.",
+      "url": "https://www.tagesschau.de/ausland/bushby-lauf-100.html",
+      "published": "2026-11-03T05:00:49+09:00",
+      "tags": [],
+      "event": "bushby-return",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "tagesschau 20:00 Uhr",
+      "title_ko": "ARD 20시 뉴스",
+      "summary_ko": "라이헤 경제장관의 연료가격 상한 초안 제출, 메르츠 총리의 여성 연방대통령 지지, 정부의 'AI 선도국' 목표, 네테탈의 디지털 독립, 라이프치히 차량 돌진 사건 재판 개시, 프랑크푸르트 유대 아카데미 개관 등을 다룬 뉴스 프로그램.",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1676914.html",
+      "published": "2026-11-03T04:38:05+09:00",
+      "tags": [
+        "legislation",
+        "industry"
+      ],
+      "event": "tagesschau-20h",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Nettetal und die digitale Unabhängigkeit",
+      "title_ko": "네테탈과 디지털 독립",
+      "summary_ko": "영상 보도(제목 기준, 별도 요약 없음).",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1676906.html",
+      "published": "2026-11-03T04:32:54+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "nettetal-digital-sovereignty",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Digitalgipfel in Berlin: Deutschland will bis 2030 eine führende \"KI-Nation\" werden",
+      "title_ko": "베를린 디지털 정상회의: 독일, 2030년까지 선도적 'AI 국가' 목표",
+      "summary_ko": "영상 보도(제목 기준): 독일이 2030년까지 선도적 'AI 국가'가 되겠다는 목표를 밝혔다.",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1676902.html",
+      "published": "2026-11-03T04:31:48+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "germany-ai-summit",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Bundeskanzler Merz möchte Bundespräsidentenamt mit einer Frau besetzen",
+      "title_ko": "메르츠 총리, 연방대통령직에 여성 기용 희망",
+      "summary_ko": "영상 보도(제목 기준): 메르츠 총리가 연방대통령직을 여성으로 채우길 원한다.",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1676900.html",
+      "published": "2026-11-03T04:30:47+09:00",
+      "tags": [],
+      "event": "merz-female-president",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
+      "title_ko": "이란 전쟁·중동 분쟁: 라이브 블로그",
+      "summary_ko": "중동 정세는 여전히 긴장 상태로 공격이 반복되고 있으며, 요르단강 서안 상황이 악화되고 있다.",
+      "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+      "published": "2026-11-03T06:03:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "iran-middle-east-liveblog",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Wölfinnen mit Kantersieg ins Pokal-Viertelfinale",
+      "title_ko": "볼프스부르크 여자팀, 대승으로 DFB 포칼 8강 진출",
+      "summary_ko": "볼프스부르크 여자축구팀이 호펜하임을 상대로 8골을 넣으며 승리해 DFB 포칼 8강에 올랐다. 전반에만 5골이 나왔다.",
+      "url": "https://www.zdfheute.de/sport/fussball-dfb-pokal-frauen-vfl-wolfsburg-tsg-hoffenheim-100.html",
+      "published": "2026-11-03T05:31:00+09:00",
+      "tags": [],
+      "event": "wolfsburg-women-cup",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "50 Grad im Kühlschrank? Erneut Cyberangriffe auf Supermärkte",
+      "title_ko": "냉장고 50도? 슈퍼마켓 겨냥 사이버 공격 재발",
+      "summary_ko": "지난 공격 3주 만에 해커들이 최소 5개 유럽 국가에서 다시 슈퍼마켓에 사이버 공격을 가했다. EU 집행위원회는 우려를 표명했다.",
+      "url": "https://www.zdfheute.de/panorama/cyberangriffe-supermaerkte-belgien-schweden-irland-luxemburg-estland-finnland-niederlande-100.html",
+      "published": "2026-11-03T05:05:00+09:00",
+      "tags": [
+        "business",
+        "geopolitics"
+      ],
+      "event": "eu-supermarket-cyberattacks",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Ukraine: Dutzende Tote bei russischem Luftangriff",
+      "title_ko": "우크라이나: 러시아 공습으로 수십 명 사망",
+      "summary_ko": "자포리자 지역 공격으로 최소 26명이 숨졌다. 젤렌스키 대통령은 러시아가 인도적 지원 배급소를 의도적으로 폭격했다고 비난했다.",
+      "url": "https://www.zdfheute.de/politik/ausland/saporischschja-angriff-ukraine-krieg-russland-100.html",
+      "published": "2026-11-03T04:16:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "zaporizhzhia-aid-strike",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Hohe Hürden beim Spritpreisdeckel geplant",
+      "title_ko": "연료가격 상한제, 높은 요건 붙여 추진",
+      "summary_ko": "라이헤 경제장관이 연료가격 상한제 법안을 내각 동료들에게 제시했다. 요건(허들)이 높게 설정됐다. 1월부터 연료가격이 내려갈지가 관심이다.",
+      "url": "https://www.zdfheute.de/politik/deutschland/reiche-planung-spritpreisdeckel-huerde-100.html",
+      "published": "2026-11-03T04:00:00+09:00",
+      "tags": [
+        "legislation",
+        "industry"
+      ],
+      "event": "fuel-price-cap",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Steinmeier-Nachfolge: Merz spricht sich für Frau aus",
+      "title_ko": "슈타인마이어 후임: 메르츠, 여성 후보 지지",
+      "summary_ko": "메르츠 총리가 처음으로 분명하게 여성을 연방대통령 후보로 제안하겠다고 밝혔다. 앞서 이 구상에 호감을 표한 바 있다.",
+      "url": "https://www.zdfheute.de/politik/deutschland/merz-bundespraesidentin-frau-100.html",
+      "published": "2026-11-03T03:07:00+09:00",
+      "tags": [],
+      "event": "merz-female-president",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Merz will mehr Tempo im KI-Wettbewerb",
+      "title_ko": "메르츠, AI 경쟁에서 속도전 촉구",
+      "summary_ko": "연방정부 태스크포스가 AI 경쟁에서 뒤처질 위험을 경고했고, 메르츠 총리는 더 빠른 추진을 요구했다.",
+      "url": "https://www.zdfheute.de/politik/deutschland/ki-kuenstliche-intelligenz-bundesregierung-gipfel-100.html",
+      "published": "2026-11-03T02:50:00+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "germany-ai-summit",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Reinhold holt erstes Gold für Deutschland",
+      "title_ko": "라인홀트, 독일에 첫 금메달",
+      "summary_ko": "욜리나 라인홀트(17)가 유스올림픽에서 인도의 쿠시부 라자크바이 다르자다를 꺾고 독일의 첫 금메달을 땄다.",
+      "url": "https://www.zdfheute.de/sport/youth-olympic-games-jolina-reinhold-100.html",
+      "published": "2026-11-03T02:18:11+09:00",
+      "tags": [],
+      "event": "yog-reinhold-gold",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Wie die Menschen in Cherson die Oleschky-Waffenruhe erlebten",
+      "title_ko": "헤르손 주민들이 겪은 올레슈키 휴전",
+      "summary_ko": "러시아 점령지 올레슈키 민간인 대피를 위한 휴전이 드니프로강 맞은편 헤르손에서 기쁨과 함께 불안도 불러일으켰다. 헤르손 출신 DW 기자가 현장을 취재했다.",
+      "url": "https://www.dw.com/de/wie-die-menschen-in-cherson-die-oleschky-waffenruhe-erlebten/a-79831796?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-03T05:08:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "kherson-oleshky-ceasefire",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Die Sorge vor wachsendem Judenhass überschattet die Eröffnung der Jüdischen Akademie",
+      "title_ko": "반유대주의 확산 우려 속 유대 아카데미 개관",
+      "summary_ko": "프랑크푸르트에서 유대 아카데미가 문을 열었다. 유럽 최초의 이런 종류의 교육기관이며, 개관식은 우려 속에 진행됐다.",
+      "url": "https://www.dw.com/de/die-sorge-vor-wachsendem-judenhass-überschattet-die-eröffnung-der-jüdischen-akademie/a-79830708?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-03T01:03:00+09:00",
+      "tags": [],
+      "event": "jewish-academy-frankfurt",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Polens Verfassungsgericht im Machtkampf: Tusk-Lager übernimmt Tribunal, PiS und Präsident Nawrocki sprechen von Staatsstreich",
+      "title_ko": "폴란드 헌법재판소 권력 다툼: 투스크 진영이 재판소 장악, 법과정의당·나브로츠키 대통령은 '쿠데타' 주장",
+      "summary_ko": "정부와 야당 간 권력 다툼으로 헌법재판소가 마비됐다. 투스크 연정이 선출한 재판관들이 재판소 장악을 시도하고 있으며, 폴란드 우파는 '쿠데타'라고 주장한다.",
+      "url": "https://www.dw.com/de/polens-verfassungsgericht-im-machtkampf-tusk-lager-übernimmt-tribunal-pis-und-präsident-nawrocki-sprechen-von-staatsstreich/a-79830839?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-03T00:08:00+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation"
+      ],
+      "event": "poland-constitutional-court",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Belgiens Premier De Wever bietet Rücktritt an",
+      "title_ko": "벨기에 데 베버 총리, 사의 표명",
+      "summary_ko": "벨기에 예산 협상이 완전히 교착됐고 국민은 긴축안에 반대하고 있다. 총리가 이에 따른 책임을 지고 사의를 밝혔다.",
+      "url": "https://www.dw.com/de/belgiens-premier-de-wever-bietet-rücktritt-an/a-79830776?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-02T23:04:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "belgium-de-wever-resignation",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Russlands Rückkehr spaltet den Eishockeysport: DEB prüft Rückgabe der Heim-WM 2027",
+      "title_ko": "러시아 복귀로 분열된 아이스하키: 독일연맹, 2027 자국 세계선수권 반납 검토",
+      "summary_ko": "CAS의 러시아 출전 허용 결정 이후 독일아이스하키연맹(DEB)이 2027 세계선수권 개최권 반납을 검토하고 있다. 연맹은 보안 비용, 비자 갈등, 보이콧 가능성을 경고했다.",
+      "url": "https://www.dw.com/de/russlands-rückkehr-spaltet-den-eishockeysport-deb-prüft-rückgabe-der-heim-wm-2027/a-79828606?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-02T21:36:00+09:00",
+      "tags": [],
+      "event": "ice-hockey-wc-russia",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Trump neu auf Liste der \"Feinde der Pressefreiheit\"",
+      "title_ko": "트럼프, '언론자유의 적' 명단에 신규 포함",
+      "summary_ko": "국경없는기자회가 언론자유 후퇴를 비판하며 이에 큰 책임이 있는 인물들을 지목했다(트럼프 신규 포함, 제목 기준).",
+      "url": "https://www.dw.com/de/trump-neu-auf-liste-der-feinde-der-pressefreiheit/a-79829112?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-02T21:09:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "rsf-press-freedom-enemies",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Prien fordert nach Jugendprotesten Debatte über Integration in Deutschland",
+      "title_ko": "프린 장관, 청년 시위 이후 독일 내 통합 논의 촉구",
+      "summary_ko": "Z세대 시위 후 여러 도시에서 폭력 사태가 발생했다. 카린 프린 교육장관은 통합 문제 가능성도 조사하겠다며, 동시에 젊은이들의 목소리에 더 귀 기울일 것을 요구했다.",
+      "url": "https://www.dw.com/de/prien-fordert-nach-jugendprotesten-debatte-über-integration-in-deutschland/a-79827961?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-02T19:46:00+09:00",
+      "tags": [],
+      "event": "gen-z-protests",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "US-Zwischenwahlen: Kandidatinnen können Geschichte schreiben",
+      "title_ko": "미국 중간선거: 여성 후보들, 역사 쓸 수도",
+      "summary_ko": "여성은 미국 정치 전반에서 과소대표돼 있지만 11월 3일 중간선거에서 몇몇 역사적 승리를 거둘 가능성이 있다.",
+      "url": "https://www.dw.com/de/us-zwischenwahlen-kandidatinnen-können-geschichte-schreiben/a-79605862?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-02T19:43:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-midterms-women",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "\"Terrorismus in Reinform\": Baby stirbt bei Bombenanschlag in Kolumbien",
+      "title_ko": "'순수한 테러': 콜롬비아 폭탄 테러로 아기 사망",
+      "summary_ko": "콜롬비아에서 차량 폭탄이 터져 4명이 숨졌다. 톨리마주 정부는 옛 게릴라 조직의 반체제 분파에 책임이 있다고 보지만, 아직 배후를 자처한 단체는 없다.",
+      "url": "https://www.n-tv.de/panorama/Baby-stirbt-bei-Bombenanschlag-in-Kolumbien-id31487140.html",
+      "published": "2026-11-03T05:58:05+09:00",
+      "tags": [],
+      "event": "colombia-bombing",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Überraschend detailliert: Kurz vor der Wahl schwärmt Trump vom \"Reflecting Pool\"",
+      "title_ko": "선거 직전 트럼프, '리플렉팅 풀' 예찬",
+      "summary_ko": "중간선거 몇 시간 전 트럼프 대통령은 선거운동보다 자신이 추진한 리플렉팅 풀 보수 공사를 칭찬하며 명칭 변경 가능성을 언급했다.",
+      "url": "https://www.n-tv.de/politik/Kurz-vor-der-Wahl-schwaermt-Trump-vom-Reflecting-Pool-id31487120.html",
+      "published": "2026-11-03T05:51:44+09:00",
+      "tags": [],
+      "event": "trump-reflecting-pool",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Dem Rendite-Rückgang angepasst?: Bericht: VW senkt Schwelle für Manager-Boni deutlich",
+      "title_ko": "보도: 폭스바겐, 경영진 보너스 기준 대폭 낮춰",
+      "summary_ko": "한 보도에 따르면 VW 이사회는 여름에 수익률에 실망했지만 3.8%의 수익률로도 경영진 보너스 전액을 받을 수 있게 됐다. 회사가 대규모 비용 절감을 해야 하는 시기다.",
+      "url": "https://www.n-tv.de/wirtschaft/Bericht-VW-senkt-Schwelle-fuer-Manager-Boni-deutlich-id31487144.html",
+      "published": "2026-11-03T05:34:20+09:00",
+      "tags": [
+        "business",
+        "industry"
+      ],
+      "event": "vw-manager-bonus",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Röttgen über Trumps Zukunft: \"Wenn Demokraten eine Mehrheit bekommen, werden sie ihn jagen\"",
+      "title_ko": "뢰트겐 \"민주당이 다수당 되면 트럼프를 추적할 것\"",
+      "summary_ko": "트럼프가 중간선거에서 의회 다수를 잃으면 곤란해질 것이라며, 기민당 노르베르트 뢰트겐은 격렬한 권력 다툼과 탄핵 절차 가능성을 예상했다.",
+      "url": "https://www.n-tv.de/politik/Roettgen-Verliert-Trump-die-Midterms-werden-sie-ihn-jagen-id31487092.html",
+      "published": "2026-11-03T05:17:47+09:00",
+      "tags": [
+        "geopolitics",
+        "forecast"
+      ],
+      "event": "us-midterms-outlook",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Eberl-Vertrauter muss gehen: FC Bayern trennt sich von seinem Scouting-Chef",
+      "title_ko": "FC 바이에른, 스카우트 총괄과 결별",
+      "summary_ko": "바이에른 뮌헨이 스카우트 총괄을 해임해 에베를 단장이 또 한 명의 측근을 잃었다. 후임은 미정이며 레드불 경력자가 될 수 있다.",
+      "url": "https://www.n-tv.de/sport/fussball/FC-Bayern-trennt-sich-von-seinem-Scouting-Chef-id31487132.html",
+      "published": "2026-11-03T05:13:21+09:00",
+      "tags": [],
+      "event": "bayern-scout-chief",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Mehr als 25 Tote: Kiew: Moskau bombardiert Verteilpunkt für humanitäre Hilfe",
+      "title_ko": "25명 넘게 사망: 키이우 \"모스크바가 인도적 지원 배급소 폭격\"",
+      "summary_ko": "우크라이나 남부 코미슈바하 마을 학교에서 민간인에게 구호품을 나누던 중 러시아 폭탄이 떨어졌다. 당국은 사망자가 25명을 넘는다고 밝혔고, 젤렌스키는 국제사회에 '강력하고 단호한' 대응을 촉구했다.",
+      "url": "https://www.n-tv.de/politik/Kiew-Moskau-bombardiert-Verteilpunkt-fuer-humanitaere-Hilfe-id31487102.html",
+      "published": "2026-11-03T04:52:15+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "zaporizhzhia-aid-strike",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Carragher kriecht zu Kreuze : Premier-League-Klub droht TV-Experten mit rechtlichen Schritten",
+      "title_ko": "캐러거 사과: 프리미어리그 구단, TV 해설가에 법적 조치 경고",
+      "summary_ko": "TV 해설가 제이미 캐러거가 아스톤 빌라의 우나이 에메리 감독이 맨유 사령탑을 맡는 것을 반길 것이라고 발언해 소송에 휘말릴 수 있게 됐다.",
+      "url": "https://www.n-tv.de/sport/fussball/Premier-League-Klub-droht-TV-Experten-mit-rechtlichen-Schritten-id31484883.html",
+      "published": "2026-11-03T04:26:00+09:00",
+      "tags": [],
+      "event": "carragher-villa",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "\"Verpiss dich mit der Kamera\": Bei Leroy Sané liegen die Nerven blank",
+      "title_ko": "'카메라 치워': 르로이 자네, 신경 곤두서",
+      "summary_ko": "갈라타사라이에서 기대 이하의 시간을 보내는 자네가 무득점이 이어지며 분위기가 악화되고 예민해지고 있다.",
+      "url": "https://www.n-tv.de/sport/fussball/Bei-Leroy-Sane-liegen-die-Nerven-blank-id31484958.html",
+      "published": "2026-11-03T04:15:39+09:00",
+      "tags": [],
+      "event": "sane-galatasaray",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Aussage über Elif Eralp – Waldemar Hartmann äußert sich nach Rassismus-Vorwürfen",
+      "title_ko": "엘리프 에랄프 관련 발언: 발데마르 하르트만, 인종차별 비판에 해명",
+      "summary_ko": "전 스포츠 진행자 하르트만(78)의 좌파당 정치인 에랄프에 관한 발언에 기민당·녹색당·좌파당 정치인들이 반발했고, 그가 해명에 나섰다.",
+      "url": "https://www.welt.de/politik/deutschland/article6ae827fca609ad98395994f2/waldemar-hartmann-aussage-ueber-elif-eralp-ex-sportmoderator-aeussert-sich-nach-rassismus-vorwuerfen.html",
+      "published": "2026-11-03T05:15:00+09:00",
+      "tags": [],
+      "event": "hartmann-eralp",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Was man zum Thema Clan-Strukturen hört, finde ich besorgniserregend“",
+      "title_ko": "\"씨족 범죄 구조 관련 얘기는 우려스럽다\"",
+      "summary_ko": "BSW 대표 아미라 모하메드 알리가 베를린의 적·녹·적 연정 협상에 대해 베를린 시민에게 좋은 결과가 나올지 의문이라며 베를린의 문제가 매우 크다고 말했다.",
+      "url": "https://www.welt.de/politik/deutschland/video6ae8e00d0e29c4a23c56709e/berliner-koalitionsverhandlungen-was-man-zum-thema-clan-strukturen-hoert-finde-ich-besorgniserregend.html",
+      "published": "2026-11-03T04:22:45+09:00",
+      "tags": [],
+      "event": "berlin-left-coalition",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Tusk fordert Nawrocki zur Bestätigung von Richtern auf – Verfassungsrichter wollen tagen",
+      "title_ko": "투스크, 나브로츠키에 재판관 승인 요구 – 헌법재판관들은 회의 강행 방침",
+      "summary_ko": "폴란드 헌법재판관들이 인선 분쟁에도 회의를 열 방침이다. 투스크 총리는 나브로츠키 대통령에게 의회가 선출한 재판관을 인정하라고 요구했다.",
+      "url": "https://www.welt.de/politik/article6ae8d9fa0e29c4a23c56705a/krise-in-polen-tusk-fordert-nawrocki-zur-bestaetigung-von-richtern-auf-verfassungsrichter-wollen-tagen.html",
+      "published": "2026-11-03T04:03:04+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation"
+      ],
+      "event": "poland-constitutional-court",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Trump wird die Macht in der eigenen Partei behaupten wollen“",
+      "title_ko": "\"트럼프는 당내 권력을 지키려 할 것\"",
+      "summary_ko": "미국 중간선거 예측의 신뢰도와 민주당 세력 확대 시 트럼프 대통령직에 미칠 영향을 두고 WELT 편집국장이 미독연구소 제프 래스키 소장과 대담했다.",
+      "url": "https://www.welt.de/politik/ausland/video6ae8d8040e29c4a23c567025/midterm-wahlen-in-den-usa-trump-wird-die-macht-in-der-eigenen-partei-behaupten-wollen.html",
+      "published": "2026-11-03T03:56:24+09:00",
+      "tags": [
+        "geopolitics",
+        "forecast"
+      ],
+      "event": "us-midterms-outlook",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Merz kündigt „Kandidatin der politischen Mitte“ für Steinmeier-Nachfolge an",
+      "title_ko": "메르츠, 슈타인마이어 후임으로 '정치적 중도 여성 후보' 예고",
+      "summary_ko": "메르츠 총리가 슈타인마이어 대통령 후임 논의에서 여성을 지지했다. WELT 정치부 기자는 기사련 제안을 그대로 받기 어려워졌다고 논평했다.",
+      "url": "https://www.welt.de/politik/deutschland/video6ae8db4cd5cbac266b046820/erste-frau-im-hoechsten-amt-merz-kuendigt-kandidatin-der-politischen-mitte-fuer-steinmeier-nachfolge-an.html",
+      "published": "2026-11-03T03:54:27+09:00",
+      "tags": [],
+      "event": "merz-female-president",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Iran meldet Plan, Straße von Hormus binnen zwei Tagen zu öffnen – sofern USA Forderungen erfüllen",
+      "title_ko": "이란, 미국이 요구 수용 시 이틀 내 호르무즈 해협 개방 계획 발표",
+      "summary_ko": "이란은 호르무즈 해협 개방 후 선박이 자국 감독하에 통항하도록 할 계획이다. 테헤란은 동시에 전쟁 종식을 위해 워싱턴과 간접 대화를 진행 중이다.",
+      "url": "https://www.welt.de/politik/article6ae8d4faa8c92c85b9b4d711/krieg-in-nahost-iran-meldet-plan-strasse-von-hormus-binnen-zwei-tagen-zu-oeffnen-sofern-usa-forderungen-erfuellen.html",
+      "published": "2026-11-03T03:51:46+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "iran-hormuz-reopening",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Hacker-Angriff auf Politiker-iPhones – So schützen Sie sich vor Zero-Click-Attacken",
+      "title_ko": "정치인 아이폰 해킹 – 제로클릭 공격 방어법",
+      "summary_ko": "해커들이 연방의원과 정부 각료들의 아이폰을 노렸으며 피해자가 링크를 클릭할 필요도 없었다. 일반 사용자도 위협받을 수 있으나 간단한 방어 수단이 있다.",
+      "url": "https://www.welt.de/wirtschaft/plus6ae89ea58cf0ad2f474f60f9/soeldner-spyware-hacker-angriff-auf-politiker-iphones-so-schuetzen-sie-sich-vor-zero-click-attacken.html",
+      "published": "2026-11-03T03:49:42+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "politician-iphone-spyware",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Trump will bei Demokraten-Sieg Verbündete wie Elon Musk durch Begnadigungen „schützen“",
+      "title_ko": "트럼프, 민주당 승리 시 머스크 등 측근 사면으로 '보호' 방침",
+      "summary_ko": "트럼프 대통령은 민주당이 이기면 측근들을 사면하겠다고 했다. 여론조사는 하원 선거에서 야당인 민주당 우세를 보이고 있다.",
+      "url": "https://www.welt.de/politik/ausland/article6ae86c76b3f0fa60211d5fd2/midterms-2026-so-plant-trump-fuer-eine-wahlniederlage-letzte-prognosen.html",
+      "published": "2026-11-03T03:38:00+09:00",
+      "tags": [
+        "geopolitics",
+        "forecast"
+      ],
+      "event": "trump-pardons-midterms",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "+++ US-Midterms +++: Wenige Stunden vor den Midterms: Trump stellt renovierten „Reflecting Pool“ vor",
+      "title_ko": "미국 중간선거 뉴스블로그: 선거 몇 시간 전 트럼프, 보수한 '리플렉팅 풀' 공개",
+      "summary_ko": "트럼프가 캘리포니아 선거 분쟁으로 연방대법원에 제소했고, 미국 자동차협회는 중국산 차량의 영구 금지를 요구했다.",
+      "url": "https://www.handelsblatt.com/politik/international/us-midterms-trump-stellt-renovierten-reflecting-pool-vor/29669594.html",
+      "published": "2026-11-03T05:12:00+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "trump-reflecting-pool",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "IPO: Anthropic schreibt wieder Verluste – bei geringerer Marge",
+      "title_ko": "IPO: 앤트로픽, 마진 하락 속 다시 적자",
+      "summary_ko": "AI 기업 앤트로픽이 상장 투자설명서에 추가 수치를 보완했다. 매출은 12배로 늘었지만 지출과 순손실도 크게 증가했다.",
+      "url": "https://www.handelsblatt.com/technik/ki/ipo-anthropic-schreibt-wieder-verluste-bei-geringerer-marge/100266735.html",
+      "published": "2026-11-03T04:41:49+09:00",
+      "tags": [
+        "stocks",
+        "business",
+        "industry"
+      ],
+      "event": "anthropic-ipo-losses",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "US-Börsen: Wall Street uneinheitlich – steht der nächste Absturz bevor?",
+      "title_ko": "미국 증시: 월가 혼조 – 다음 폭락 임박?",
+      "summary_ko": "지난주 매도세 이후 투자자들이 다소 낙관적으로 돌아섰지만, 여러 사건이 증시를 다시 하락세로 끌어내리고 있다.",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-uneinheitlich-steht-der-naechste-absturz-bevor/100266673.html",
+      "published": "2026-11-03T04:10:51+09:00",
+      "tags": [
+        "stocks"
+      ],
+      "event": "wall-street-mixed",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Digitalgipfel: „Epochaler Wandel“ – Deutschland wird Teil einer internationalen KI‑Allianz",
+      "title_ko": "디지털 정상회의: '획기적 전환' – 독일, 국제 AI 동맹 참여",
+      "summary_ko": "독일 정부가 프랑스·핀란드·폴란드·캐나다와 손잡고 AI 분야에서 공동 가치를 관철하기로 했다. 메르츠 총리는 유럽을 제3자로부터 더 독립적으로 만들겠다고 했다.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/digitalgipfel-deutschland-wird-teil-einer-internationalen-kiallianz/100265528.html",
+      "published": "2026-11-03T03:15:08+09:00",
+      "tags": [
+        "industry",
+        "geopolitics"
+      ],
+      "event": "germany-ai-summit",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "USA: Fast 500 Rennen und eine deutliche Richtung: So wettet Amerika auf den Ausgang der Midterms",
+      "title_ko": "미국: 약 500개 경합과 뚜렷한 방향 – 미국은 중간선거 결과에 이렇게 베팅한다",
+      "summary_ko": "미국인들이 처음으로 의회 선거 결과에 베팅할 수 있게 됐다. 한델스블라트가 폴리마켓과 칼시의 베팅시장 1930개를 분석한 결과 뚜렷한 결과가 예상된다.",
+      "url": "https://www.handelsblatt.com/politik/international/midterms-ueber-140-millionen-dollar-gegen-trump-bei-erster-us-wettwahl/100265259.html",
+      "published": "2026-11-03T02:53:40+09:00",
+      "tags": [
+        "forecast",
+        "crypto",
+        "geopolitics"
+      ],
+      "event": "us-midterms-betting",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "+++ Ukraine-Krieg +++: 18 Tote bei Luftangriff auf Ausgabe von Hilfsgütern",
+      "title_ko": "우크라이나 전쟁 뉴스블로그: 구호품 배급소 공습으로 18명 사망",
+      "summary_ko": "러시아가 유럽 고문방지협약에서 탈퇴했고, 하르키우·오데사에 대한 러시아 공격으로 부상자가 발생했으며, 러시아의 주요 펌프장에 화재가 났다.",
+      "url": "https://www.handelsblatt.com/politik/international/ukraine-18-tote-bei-luftangriff-auf-ausgabe-von-hilfsguetern/27982126.html",
+      "published": "2026-11-03T02:50:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "zaporizhzhia-aid-strike",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "+++ Bundespolitik +++: ﻿Merz spricht sich für Frau als Bundespräsidentin aus",
+      "title_ko": "연방정치 뉴스블로그: 메르츠, 여성 연방대통령 지지",
+      "summary_ko": "메르켈 전 총리가 연방대통령 선거에 참여할 예정이고, 연방의회 좌파당 의원들의 메일함이 마비됐으며, 좌파당 에랄프가 경찰 보호를 받게 됐다.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-merz-spricht-sich-fuer-frau-als-bundespraesidentin-aus/100137034.html",
+      "published": "2026-11-03T02:28:00+09:00",
+      "tags": [],
+      "event": "merz-female-president",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Geldanlage: Ein politisches Patt in den USA wäre für Anleger eine gute Nachricht",
+      "title_ko": "재테크: 미국의 정치적 교착은 투자자에게 좋은 소식",
+      "summary_ko": "트럼프가 중간선거로 권력을 잃을 위기에 있다. 한델스블라트 기자 안드레아스 노이하우스는 투자자들이 이익을 볼 수 있다고 보며, 이는 대통령과는 무관하다고 했다(칼럼).",
+      "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-ein-politisches-patt-in-den-usa-waere-fuer-anleger-eine-gute-nachricht/100266185.html",
+      "published": "2026-11-03T02:04:57+09:00",
+      "tags": [
+        "stocks",
+        "forecast"
+      ],
+      "event": "us-gridlock-investors",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Friedrich Merz bei CDU-Kreisvorsitzenden: 120 Minuten Basis streicheln",
+      "title_ko": "메르츠, 기민당 지구당 위원장들과 120분 '달래기'",
+      "summary_ko": "메르츠 총리가 기민당 지구당 위원장들 앞에 섰다. 위원장들은 총리의 낮은 인기로 인한 이미지 타격을 호소하며 '큰 낭패'를 경고했다.",
+      "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-cdu-kreisvorsitzenden-120-minuten-basis-streicheln-a-cf2d9f37-504e-4566-91ac-6c2ade5755e6#ref=rss",
+      "published": "2026-11-03T06:02:00+09:00",
+      "tags": [],
+      "event": "merz-cdu-district-chairs",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Norbert Röttgen widerspricht Alexander Dobrindt bei »Chaoten aus migrantischem Milieu«",
+      "title_ko": "뢰트겐, '이주민 배경 난동꾼' 발언한 도브린트에 반박",
+      "summary_ko": "기민·기사 원내부대표 뢰트겐이 주말 폭력 사태 이후 용의자들에 대해 더 구분된 시각을 요구하며 기사련 소속 도브린트 내무장관과 선을 그었다.",
+      "url": "https://www.spiegel.de/politik/norbert-roettgen-widerspricht-alexander-dobrindt-bei-chaoten-aus-migrantischem-milieu-a-1db48d48-0a58-4633-b51f-98f3c3fd9aa2#ref=rss",
+      "published": "2026-11-03T05:27:00+09:00",
+      "tags": [],
+      "event": "gen-z-protests",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Ungarn: Flugzeug muss wegen Bombendrohung in Budapest notlanden",
+      "title_ko": "헝가리: 폭탄 위협으로 여객기 부다페스트 비상착륙",
+      "summary_ko": "런던발 소피아행 위즈에어 여객기가 부다페스트에 착륙해 기체와 승객이 수색을 받았다.",
+      "url": "https://www.spiegel.de/ausland/ungarn-flugzeug-muss-wegen-bombendrohung-in-budapest-notlanden-a-c17974e2-af3e-419e-a630-e8f4cde67c21#ref=rss",
+      "published": "2026-11-03T05:13:00+09:00",
+      "tags": [],
+      "event": "wizzair-bomb-threat",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "US-Midterms: Warum Donald Trump in Ohio die Gen Z verliert",
+      "title_ko": "미국 중간선거: 트럼프가 오하이오에서 Z세대를 잃는 이유",
+      "summary_ko": "공화당 강세 지역 오하이오 현장 르포. 중간선거를 앞둔 분열의 깊이와 트럼프가 Z세대 지지를 잃는 이유를 다룬다.",
+      "url": "https://www.spiegel.de/ausland/us-midterms-warum-donald-trump-in-ohio-die-gen-z-verliert-a-8ed713aa-5397-4382-88c7-60bbe0bf482c#ref=rss",
+      "published": "2026-11-03T04:57:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-midterms-ohio",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Russland und »Nowaja Gaseta«: Moskauer nehmen Abschied",
+      "title_ko": "러시아와 '노바야 가제타': 모스크바 시민들의 작별",
+      "summary_ko": "전시 러시아에서 약 5년간 활동을 이어온 마지막 대형 크렘린 비판 매체 '노바야 가제타'가 폐간하게 됐다.",
+      "url": "https://www.spiegel.de/ausland/russland-und-nowaja-gaseta-moskauer-nehmen-abschied-a-4465808c-b30c-4e8b-b66c-0153c84fef69#ref=rss",
+      "published": "2026-11-03T04:54:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "novaya-gazeta-closure",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Kolumbien: Fünf Menschen bei Sprengstoffanschlägen getötet",
+      "title_ko": "콜롬비아: 폭발물 테러로 5명 사망",
+      "summary_ko": "콜롬비아 군기지를 겨냥한 공격으로 생후 2개월 아기를 포함한 민간인 4명이 숨졌다. 대통령은 '처벌받지 않고 넘어가지 않을 것'이라고 했다.",
+      "url": "https://www.spiegel.de/ausland/kolumbien-fuenf-menschen-bei-sprengstoffanschlaegen-getoetet-a-4470854a-f848-409e-b8f0-dd788ee5f7a9#ref=rss",
+      "published": "2026-11-03T04:32:00+09:00",
+      "tags": [],
+      "event": "colombia-bombing",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Soest: Wohnungslose Frau gequält - Geständnis und neue Details im Missbrauchsfall",
+      "title_ko": "조스트: 노숙 여성 학대 사건, 자백과 새 세부 사항",
+      "summary_ko": "조스트에서 노숙 여성이 여러 남성에게 수개월간 학대당한 사건의 주범이 법정에서 자백했다.",
+      "url": "https://www.spiegel.de/panorama/justiz/soest-wohnungslose-frau-gequaelt-gestaendnis-und-neue-details-im-missbrauchsfall-a-80d8d081-d702-40ea-8fe5-e169080c1d91#ref=rss",
+      "published": "2026-11-03T04:22:00+09:00",
+      "tags": [],
+      "event": "soest-abuse-trial",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Anthropic macht vor Börsengang Milliardenverluste",
+      "title_ko": "앤트로픽, 상장 앞두고 수십억 달러 손실",
+      "summary_ko": "앤트로픽이 수 주 내 상장을 앞두고 새 실적을 공개했다. 매출은 크게 늘었으나 연초 이후 누적 손실이 1,040억 달러(104 Milliarden Dollar)에 달했다.",
+      "url": "https://www.spiegel.de/wirtschaft/anthropic-macht-vor-boersengang-milliardenverluste-a-de7f75ee-9284-4ae3-a433-8cc2d016df02#ref=rss",
+      "published": "2026-11-03T03:30:00+09:00",
+      "tags": [
+        "stocks",
+        "business",
+        "industry"
+      ],
+      "event": "anthropic-ipo-losses",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Nach dem Zugunglück: Die Spanier verlieren das Vertrauen in ihren Staat",
+      "title_ko": "열차 사고 이후: 스페인 국민, 국가에 대한 신뢰 상실",
+      "summary_ko": "스페인 열차 사고가 산체스 총리의 선거 승리를 앗아갈 수 있다. 국가와 집권층에 대한 신뢰를 잃는 스페인 국민이 늘고 있다.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/nach-unglueck-spanier-verlieren-vertrauen-in-den-staat-201644086.html",
+      "published": "2026-11-03T04:39:29+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "spain-train-accident",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Krawallnacht in Frankfurt: „Wir fürchten, das war erst der Anfang“",
+      "title_ko": "프랑크푸르트 폭동의 밤: \"이것이 시작일까 두렵다\"",
+      "summary_ko": "프랑크푸르트 폭력 사태 후 상인·요식업자들이 도시 이미지를 걱정하며 장기적 영향을 우려한다. 소매업협회는 피해자 재정 지원을 요구했다.",
+      "url": "https://www.faz.net/aktuell/rhein-main/wirtschaft/haendler-nach-der-krawallnacht-in-frankfurt-fuerchten-das-war-erst-der-anfang-201643337.html",
+      "published": "2026-11-03T04:28:29+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "gen-z-protests",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Leo gibt seine Stimme ab: Darf der Papst als Bürger wählen?",
+      "title_ko": "레오 교황 투표: 교황이 시민으로서 투표해도 되나?",
+      "summary_ko": "베네딕토 16세는 교황의 모국 투표를 부적절한 개입으로 봤다. 레오 14세는 미국 중간선거 참여로 다른 유권자를 독려하려 한다.",
+      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/papst-leo-xiv-waehlt-per-briefwahl-in-den-usa-201644105.html",
+      "published": "2026-11-03T04:25:46+09:00",
+      "tags": [],
+      "event": "pope-leo-vote",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "US-Midterms 2026: Wie Trump sich in die Kongresswahlen einmischen könnte",
+      "title_ko": "2026 미국 중간선거: 트럼프가 의회 선거에 개입할 수 있는 방식",
+      "summary_ko": "트럼프 대통령은 선거 결과가 '정직하다면' 수용하겠다고 했다. 2020년 그는 의심을 퍼뜨리는 방식을 보여줬으며 이번에는 법무부에 충성파가 포진해 있다.",
+      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/wie-donald-trump-sich-in-die-kongresswahl-einmischen-koennte-201640929.html",
+      "published": "2026-11-03T04:24:25+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-midterms-interference",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "An Halloween: Schokoriegel mit Nagel an Kind verschenkt",
+      "title_ko": "핼러윈: 못 박힌 초콜릿바를 아이에게 건네",
+      "summary_ko": "남부 헤센 경찰이 못으로 아이를 다치게 하려 한 신원미상자를 찾고 있다. 추가 사례 단서는 없으나 부모에게 사탕 점검을 권고했다.",
+      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/halloween-in-suedhessen-schokoriegel-mit-nagel-an-kind-verteilt-201644636.html",
+      "published": "2026-11-03T04:00:00+09:00",
+      "tags": [],
+      "event": "halloween-nail-bar",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "El-Mala-Brüder: Zwei Brüder und ihre symbiotische Beziehung",
+      "title_ko": "엘 말라 형제: 두 형제의 공생 관계",
+      "summary_ko": "말레크 엘 말라가 첫 분데스리가 경기에서 첫 골을 넣었다. 형 사이드는 그가 없었다면 축구를 그만뒀을 것이라는 내용.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/said-und-malek-el-mala-zwei-brueder-im-glueck-beim-1-fc-koeln-201644304.html",
+      "published": "2026-11-03T03:47:00+09:00",
+      "tags": [],
+      "event": "el-mala-brothers",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Gonçalo M. Tavares: In bester Gesellschaft",
+      "title_ko": "곤살루 M. 타바레스: 최고의 반열에",
+      "summary_ko": "2026 포르멘토르상이 포르투갈 작가 타바레스에게 돌아가 그가 노벨문학상 후보군에 올랐다.",
+      "url": "https://www.faz.net/aktuell/feuilleton/buecher/autoren/der-portugiesische-schriftsteller-goncalo-m-tavares-ein-nobelpreisanwaerter-201313522.html",
+      "published": "2026-11-03T03:46:42+09:00",
+      "tags": [],
+      "event": "tavares-formentor",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Fink im Zoom: Hypnose mit leisen Tönen",
+      "title_ko": "핑크, 줌 공연: 잔잔한 음색의 최면",
+      "summary_ko": "영국 음악가 핑크가 프랑크푸르트 줌 클럽에서 큰 무대 연출 없이 곡으로 승부한 공연.",
+      "url": "https://www.faz.net/aktuell/rhein-main/kultur/britischer-singer-songwriter-fink-begeistert-im-zoom-201641434.html",
+      "published": "2026-11-03T03:30:00+09:00",
+      "tags": [],
+      "event": "fink-concert",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Staatsoberhaupt: „Ich bin festgelegt in der Frage, dass es eine Frau werden muss“",
+      "title_ko": "국가원수: \"여성이어야 한다는 점은 확고하다\"",
+      "summary_ko": "오랜 망설임 끝에 메르츠 기민당 대표가 처음으로 여성 연방대통령이 나와야 한다는 입장을 밝혔다. 누구인지는 아직 밝히지 않았다.",
+      "url": "https://www.sueddeutsche.de/politik/bundespraesidentin-friedrich-merz-cdu-li.3573323",
+      "published": "2026-11-03T05:21:17+09:00",
+      "tags": [],
+      "event": "merz-female-president",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "FC Bayern vor Atlético Madrid: „Ich habe keine Ahnung, wer morgen spielen wird“",
+      "title_ko": "FC 바이에른, 아틀레티코 마드리드전 앞두고: \"내일 누가 뛸지 모르겠다\"",
+      "summary_ko": "마드리드 챔피언스리그 경기를 앞두고 바이에른의 부상자가 화두다. 케인은 감정의 롤러코스터라 했고, 단크스 감독은 올리세 출전 여부를 밝히지 않았다.",
+      "url": "https://www.sueddeutsche.de/sport/champions-league-fc-bayern-atletico-madrid-harry-kane-serge-gnabry-michael-olise-manuel-neuer-li.3573334",
+      "published": "2026-11-03T05:06:22+09:00",
+      "tags": [],
+      "event": "bayern-atletico",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Bundespräsidentenwahl: Vier Frauen für ein Bellevue",
+      "title_ko": "연방대통령 선거: 벨뷔궁 향한 네 여성",
+      "summary_ko": "차기 국가원수로 여성 후보 4명이 거론된다. 메르츠가 여성 지지 입장을 밝힌 가운데 이 중 그의 선호 후보가 있는지 관심이다.",
+      "url": "https://www.sueddeutsche.de/politik/bundespraesident-frau-merz-kloeckner-aigner-prien-claus-li.3570324",
+      "published": "2026-11-03T04:53:14+09:00",
+      "tags": [],
+      "event": "merz-female-president",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "USA: Wahlstreit in Kalifornien: Trump schaltet Supreme Court ein",
+      "title_ko": "미국: 캘리포니아 선거 분쟁, 트럼프 연방대법원 제소",
+      "summary_ko": "트럼프는 캘리포니아가 비미국 시민에게 고의로 투표용지를 발급했다고 주장한다. 하급심에서는 소송이 지금까지 기각됐다.",
+      "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-midterms-wahl-kalifornien-trump-klage-li.3568285",
+      "published": "2026-11-03T03:56:05+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation"
+      ],
+      "event": "california-election-lawsuit",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Newsblog zu KI: Anthropic mit Milliarden-Verlusten vor Börsengang",
+      "title_ko": "AI 뉴스블로그: 앤트로픽, 상장 앞두고 수십억 손실",
+      "summary_ko": "앤트로픽 상장 투자설명서에 따르면 AI 모델 클로드 개발사가 연초 이후 세 자릿수 십억(달러) 규모의 손실을 냈다.",
+      "url": "https://www.sueddeutsche.de/politik/ki-newsblog-usa-anthropic-boersengang-verlust-milliarden-li.3566658",
+      "published": "2026-11-03T03:12:23+09:00",
+      "tags": [
+        "stocks",
+        "business",
+        "industry"
+      ],
+      "event": "anthropic-ipo-losses",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Newsblog zur Bundespolitik: Steinmeier-Nachfolge: Merz spricht sich für Frau aus",
+      "title_ko": "연방정치 뉴스블로그: 슈타인마이어 후임, 메르츠 여성 지지",
+      "summary_ko": "오랫동안 침묵하던 총리가 연방대통령 후임 논의에서 처음으로 방향을 제시했다.",
+      "url": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-newsblog-merz-bundespraesident-steinmeier-nachfolge-li.3568524",
+      "published": "2026-11-03T02:43:26+09:00",
+      "tags": [],
+      "event": "merz-female-president",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "„Horrorhaus von Soest“: „Ich hab‘ übertrieben“",
+      "title_ko": "'조스트 공포의 집': \"내가 지나쳤다\"",
+      "summary_ko": "데니스 J.가 다른 이들과 함께 조스트의 자택에서 수개월간 한 여성을 학대한 혐의를 일부만 자백했다. 그는 스스로를 피해자처럼 말했고 공동 피고인은 다르게 진술했다.",
+      "url": "https://www.sueddeutsche.de/panorama/horrorhaus-von-soest-prozess-landgericht-arnsberg-li.3571226",
+      "published": "2026-11-03T01:54:37+09:00",
+      "tags": [],
+      "event": "soest-abuse-trial",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Podcast „Und nun zum Sport“: Der FC Bayern im Herbst – zwischen Ballon d’Or und ständigen Rückschlägen",
+      "title_ko": "팟캐스트: 가을의 FC 바이에른 – 발롱도르와 잇단 악재 사이",
+      "summary_ko": "도르트문트와의 분데스리가 빅매치 2:2 무승부 이후 바이에른은 또다시 주요 선수 공백을 메워야 한다.",
+      "url": "https://www.sueddeutsche.de/sport/fc-bayern-podcast-bvb-atletico-karl-li.3573202",
+      "published": "2026-11-03T01:09:38+09:00",
+      "tags": [],
+      "event": "bayern-podcast",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Krieg in der Ukraine: Mindestens 26 Tote bei russischen Luftangriffen in Saporischschja",
+      "title_ko": "우크라이나 전쟁: 자포리자 러시아 공습으로 최소 26명 사망",
+      "summary_ko": "구호품 배급이 이뤄지던 학교가 러시아 폭탄에 맞아 최소 26명이 숨지고 다수가 실종됐다.",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/russland-luftangriff-ukraine-komyschuwacha-saporischschja-humanitaere-hilfe",
+      "published": "2026-11-03T06:13:56+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "zaporizhzhia-aid-strike",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Notfälle: Florida: Privatflugzeug stürzt in Wohngebiet – neun Tote",
+      "title_ko": "플로리다: 개인 비행기 주택가 추락 – 9명 사망",
+      "summary_ko": "제목 기준: 플로리다에서 개인 비행기가 주택가에 추락해 9명이 숨졌다.",
+      "url": "https://www.zeit.de/news/2026-11/02/florida-privatflugzeug-stuerzt-in-wohngebiet-neun-tote",
+      "published": "2026-11-03T05:54:05+09:00",
+      "tags": [],
+      "event": "florida-plane-crash",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Israel nach der Parlamentswahl: Netanjahu will breite Koalitionsregierung unter seiner Führung bilden",
+      "title_ko": "총선 후 이스라엘: 네타냐후, 자신이 이끄는 대연정 구성 추진",
+      "summary_ko": "총선 후 네타냐후가 자신이 이끄는 광범위한 연정을 제안했으며 아랍 정당들은 배제하려 한다.",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/wahl-israel-benjamin-netanjahu-likud-arabische-parteien",
+      "published": "2026-11-03T05:46:09+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "israel-coalition",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Tausende Polizisten im Einsatz: Sicherheitskonferenz: Großeinsatz und Sperrungen in Berlin",
+      "title_ko": "경찰 수천 명 투입: 안보회의로 베를린 대규모 경비·통제",
+      "summary_ko": "제목 기준: 안보회의로 베를린에 경찰 수천 명이 투입되고 도로 통제가 이뤄진다.",
+      "url": "https://www.zeit.de/news/2026-11/02/sicherheitskonferenz-grosseinsatz-und-sperrungen-in-berlin",
+      "published": "2026-11-03T05:44:38+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "berlin-security-conference",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Bundespräsidentenwahl: Merz will eine Frau an der Staatsspitze",
+      "title_ko": "연방대통령 선거: 메르츠, 국가원수에 여성 원해",
+      "summary_ko": "제목 기준: 메르츠가 국가원수로 여성을 원한다.",
+      "url": "https://www.zeit.de/news/2026-11/02/merz-spricht-sich-bei-steinmeier-nachfolge-fuer-frau-aus",
+      "published": "2026-11-03T05:38:37+09:00",
+      "tags": [],
+      "event": "merz-female-president",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Stahlarbeiter: Gewerkschaft fordert fünf Prozent mehr Lohn in Stahlbranche",
+      "title_ko": "철강 노동자: 노조, 철강업계 임금 5% 인상 요구",
+      "summary_ko": "제목 기준: 노조가 철강업계 임금 5% 인상을 요구했다.",
+      "url": "https://www.zeit.de/news/2026-11/02/gewerkschaft-fordert-fuenf-prozent-mehr-lohn-in-stahlbranche",
+      "published": "2026-11-03T05:29:49+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "steel-wage-demand",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Theaterstück zu den Midterms: Der Clue? Clooney!",
+      "title_ko": "중간선거 소재 연극: 단서는? 클루니!",
+      "summary_ko": "조지 클루니가 중간선거 직전 뉴욕 연극에서 정치 컨설턴트를 연기하며, 한 가지 방법으로 대규모 인파를 피했다.",
+      "url": "https://www.zeit.de/feuilleton/2026-11/theaterstueck-midterms-smear-clark-gregg-seaview-george-clooney",
+      "published": "2026-11-03T05:25:54+09:00",
+      "tags": [],
+      "event": "clooney-play",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Eskalation in Frankfurt: Scherben, Solidarität und Sorgen vor der nächsten Demo",
+      "title_ko": "프랑크푸르트 격화: 깨진 유리, 연대, 다음 시위에 대한 우려",
+      "summary_ko": "제목 기준: 프랑크푸르트 사태 격화 — 깨진 유리, 연대, 다음 시위에 대한 우려.",
+      "url": "https://www.zeit.de/news/2026-11/02/scherben-solidaritaet-und-sorgen-vor-der-naechsten-demo",
+      "published": "2026-11-03T05:22:19+09:00",
+      "tags": [],
+      "event": "gen-z-protests",
+      "state_media": false
+    }
+  ],
+  "events": [
+    {
+      "event": "merz-female-president",
+      "title_ko": "메르츠, 슈타인마이어 후임으로 여성 연방대통령 지지",
+      "sources": [
+        "ARD Tagesschau",
+        "ZDF heute",
+        "WELT",
+        "Handelsblatt",
+        "Süddeutsche Zeitung",
+        "Die Zeit"
+      ],
+      "count": 6
+    },
+    {
+      "event": "zaporizhzhia-aid-strike",
+      "title_ko": "자포리자 코미슈바하 구호품 배급소 러시아 공습, 다수 사망",
+      "sources": [
+        "ZDF heute",
+        "n-tv",
+        "Handelsblatt",
+        "Die Zeit"
+      ],
+      "count": 4
+    },
+    {
+      "event": "gen-z-protests",
+      "title_ko": "Z세대 시위 후 폭력 사태와 후속 논란",
+      "sources": [
+        "Deutsche Welle",
+        "Der Spiegel",
+        "FAZ",
+        "Die Zeit"
+      ],
+      "count": 4
+    },
+    {
+      "event": "germany-ai-summit",
+      "title_ko": "베를린 디지털 정상회의: 독일 AI 국가 목표·국제 AI 동맹",
+      "sources": [
+        "ARD Tagesschau",
+        "ZDF heute",
+        "Handelsblatt"
+      ],
+      "count": 3
+    },
+    {
+      "event": "anthropic-ipo-losses",
+      "title_ko": "앤트로픽 상장 앞두고 투자설명서로 대규모 손실 공개",
+      "sources": [
+        "Handelsblatt",
+        "Der Spiegel",
+        "Süddeutsche Zeitung"
+      ],
+      "count": 3
+    },
+    {
+      "event": "jewish-academy-frankfurt",
+      "title_ko": "프랑크푸르트 유대 아카데미 개관",
+      "sources": [
+        "ARD Tagesschau",
+        "Deutsche Welle"
+      ],
+      "count": 2
+    },
+    {
+      "event": "poland-constitutional-court",
+      "title_ko": "폴란드 헌법재판소 인선 권력 다툼",
+      "sources": [
+        "Deutsche Welle",
+        "WELT"
+      ],
+      "count": 2
+    },
+    {
+      "event": "colombia-bombing",
+      "title_ko": "콜롬비아 폭탄 테러로 아기 포함 사망",
+      "sources": [
+        "n-tv",
+        "Der Spiegel"
+      ],
+      "count": 2
+    },
+    {
+      "event": "trump-reflecting-pool",
+      "title_ko": "중간선거 직전 트럼프 '리플렉팅 풀' 공개",
+      "sources": [
+        "n-tv",
+        "Handelsblatt"
+      ],
+      "count": 2
+    },
+    {
+      "event": "us-midterms-outlook",
+      "title_ko": "미국 중간선거 결과와 트럼프 향후 전망",
+      "sources": [
+        "n-tv",
+        "WELT"
+      ],
+      "count": 2
+    },
+    {
+      "event": "soest-abuse-trial",
+      "title_ko": "조스트 노숙 여성 학대 사건 재판·자백",
+      "sources": [
+        "Der Spiegel",
+        "Süddeutsche Zeitung"
+      ],
+      "count": 2
+    }
+  ],
+  "unavailable_sources": []
+}
