@@ -1,0 +1,805 @@
+{
+  "team": "us",
+  "team_name_ko": "미국팀",
+  "collected_at": "2026-11-05T06:13:32.145084+09:00",
+  "headlines": [
+    {
+      "source": "CNN",
+      "title_original": "FL Gov. DeSantis calls midterm results ‘close to an extinction level event’ for the GOP | CNN Politics",
+      "summary_original": "FL Gov. DeSantis calls midterm results ‘close to an extinction level event’ for the GOP | CNN Politics CNN",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYmpRNGFhQ2tKd2hwOVVzSnlweGlLVnU0WWw4Szh4NWRxcVo5Wk9pMkd1TzNubFlqamZ4WEVaaGpLZG1OaFljbmRqUjlmM3FTQVBHdVFEak1JZ0NYMEZVWHBqakhmNkozb1U2T1NJX0pZbFVsb3FyN0I3bTZva01RZlhRaUtNS0lpWEs2WnhXTmVObTNnZWUxejRhbHVka1JGYWNKcVcxVTlEN2ctdldDXzU2OC0yUGhQSVFKS0g1SmpSclNONno1emxGTmRMLUk?oc=5",
+      "published": "2026-11-05T06:06:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "CNN",
+      "title_original": "How Mississippi became an unlikely Senate battleground",
+      "summary_original": "How Mississippi became an unlikely Senate battleground CNN",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQak1HUWhDTkxMb3drNWZ5SFNQaFg1ek4zUXBkdWxSRTN1MkZ5RVdPQ0F3TTlDQUhLNXdDeWdJNk1tWDNQM1g5cUFhak1LeE9XUXc4cjlVdDh1RXRkU09vN2pteXBock5scjlJcG13dUZzM2dzLWZKR1FucFVQZnhqbW14elZUOHp2Z3JsRmlSdzQ3azl5TkFHNGM4SUZBem9NYl9mRnZCazc?oc=5",
+      "published": "2026-11-05T06:00:02+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "CNN",
+      "title_original": "Dems Celebrate Wave Election Wins - Inside Politics with Dana Bash and Manu Raju - Podcast on CNN Podcasts",
+      "summary_original": "Dems Celebrate Wave Election Wins - Inside Politics with Dana Bash and Manu Raju - Podcast on CNN Podcasts CNN",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWEtQMTFjT08zUkg0cnFtQ1dCVlljZmVhcHJzZURCX0tCOHNKaGlyYmtKRmdaMlEzUnU1ZFJSRmlHdGV2Tm1pZzZMcTB6NVBDSzlYdVZwOTZxVFJnS1J1NHBFRHprZDE1YUUtSHhsR1NVd2pjVnBCcG4yWUFLZjUwcXB6X1pVRDFjdHhsVVFBc2JzTVprbmtkcFRreUZXaFhKTVE?oc=5",
+      "published": "2026-11-05T05:12:56+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "CNN",
+      "title_original": "The Situation Room with Wolf Blitzer and Pamela Brown",
+      "summary_original": "The Situation Room with Wolf Blitzer and Pamela Brown CNN",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdDJad09xLTJHZGEydnZrdno3aE9HYS1PM3EyT3dYcGtBNlBlUHZEV2lXa3FIQzFxcUFib0NldFN2Zm00YVV1X3BMQzFpSmVlTXVzY3JpSkswOFR4Q1F1OHNCZVE4aWFLRTI1UTdfSFFoQllHZms2M1Y4emIwZFpYU2JJNGJJd21TNnFtWHBUQjZxZkt0N0RkWllOQ3VMVlN4WC1ZU0NoNmxTamU2NWRxTUQ0VEVpZWg4bERjRnJ3M0tjNTBUamJ0WlctOXN6NE9qeHlQUw?oc=5",
+      "published": "2026-11-05T04:30:33+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "CNN",
+      "title_original": "Small helicopter with 3 aboard crashes off Miami, officials say",
+      "summary_original": "Small helicopter with 3 aboard crashes off Miami, officials say CNN",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORmlmLTg4RHR4UEhmQzFvWkh0bFdfOTRjaVFWWDEwak9ad1c3cVdxYzNTRnVpa3JhdFo3d0VtaDNwdC01UnJzaXc0UWI5aC1RZmlhTTIzU3hTUXNLdjl3bGZTODFHamd5Nk1JZ2lvem9mUU9NUFRaTFFHQlhHbmhNdQ?oc=5",
+      "published": "2026-11-05T03:37:07+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "CNN",
+      "title_original": "What Trump’s midterms setback could mean for Iran, Israel and Ukraine",
+      "summary_original": "What Trump’s midterms setback could mean for Iran, Israel and Ukraine CNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc0VLYXh0OERhcFJYQlBuQmEycDB1UzhUSjcxcmNfblFFelhRZk9HR3JYWVZFSWlaVkI0TkZRaFFCU3V6ZDR5T0h0aUEwdEN6MlNubVc1TVl1eE5OdDZEWmJBTHROQ3FUd0lZWVhUUFpmelIwaERseUZxY18yUFkxU0luYzVjRVU?oc=5",
+      "published": "2026-11-05T01:37:19+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "CNN",
+      "title_original": "CVS to split into two companies, in major breakup of its $117 billion healthcare empire",
+      "summary_original": "CVS to split into two companies, in major breakup of its $117 billion healthcare empire CNN",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSEtma1l5d2ZaTGJ1MVZyS2JGVE9meGJrMWc1WjV2eWY5d3Zyak82VDJ0Z1pyZGNTem1yUzZWUVVRUkhvNVN2WGhYVXNUa2NIaEk4WTFjaE1xVGtodm9yLUxpMkl6UDM2Q0VnWnF6dXJCWXoxNzBzY29qSk1VMkZZX2MxN2pxS0RXVEw1LWl0Q0VwVzhi?oc=5",
+      "published": "2026-11-04T22:40:13+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "CNN",
+      "title_original": "Why Nintendo is betting on a nearly 30-year-old game reboot to win the holiday",
+      "summary_original": "Why Nintendo is betting on a nearly 30-year-old game reboot to win the holiday CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR2pObzZWZmRZWEViUlFjMHhEUXlGa0w5VEFHbXdlZlBrbUpDMTgzTy0zMFQ5ZzBoMy1MVUM0T055c09hSE13Z0c5REpBRUpRUE5KeWU4UE1EdkZFdmRtRGtqYjYtMlp2XzhuS3JOMWhKa2pvTm9qaFlpYW9ZVF9rUUk2MkdjZllH?oc=5",
+      "published": "2026-11-04T21:00:15+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Fox News",
+      "title_original": "Hegseth's future draws ominous predictions from insiders after GOP losses, but Trump isn't budging yet",
+      "summary_original": "A White House official blamed the Iran war for midterm losses and suggested Trump may hold Pete Hegseth accountable during the lame duck session.",
+      "url": "https://www.foxnews.com/politics/hegseths-future-draws-ominous-predictions-from-insiders-after-gop-losses-trump-isnt-budging-yet",
+      "published": "2026-11-05T05:04:30+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Fox News",
+      "title_original": "JUSTIN HASKINS: 3 huge reasons Republicans lost. Here’s what they need to win in 2028",
+      "summary_original": "The 2026 midterm elections exposed three critical Republican failures, from the affordability crisis to the Iran war, that could reshape the 2028 race.",
+      "url": "https://www.foxnews.com/opinion/justin-haskins-3-huge-reasons-republicans-lost-heres-what-they-need-win-2028",
+      "published": "2026-11-05T05:00:26+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Fox News",
+      "title_original": "Progressives fume at Hakeem Jeffries for saying Democrats won't 'get even' with Trump",
+      "summary_original": "House Minority Leader Hakeem Jeffries said Wednesday that Democrats should focus on lowering costs instead of getting even, but critics say accountability and delivering results go hand in hand.",
+      "url": "https://www.foxnews.com/media/progressives-fume-hakeem-jeffries-democrats-wont-get-even-trump",
+      "published": "2026-11-05T05:00:20+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Fox News",
+      "title_original": "Newsom breaks with socialists over billionaire tax, and California voters appear poised to reject it",
+      "summary_original": "California's Prop 40 billionaire tax pits the Democratic Socialists of America against Gavin Newsom, who backs a countermeasure to block it.",
+      "url": "https://www.foxnews.com/politics/newsom-breaks-socialists-over-billionaire-tax-california-voters-appear-poised-reject",
+      "published": "2026-11-05T04:51:24+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Fox News",
+      "title_original": "Hakeem Jeffries declares bid for House speaker after GOP's midterm massacre",
+      "summary_original": "House Minority Leader Hakeem Jeffries is officially running to be Speaker of the House after Republicans' midterm losses on Tuesday night.",
+      "url": "https://www.foxnews.com/politics/hakeem-jeffries-declares-bid-house-speaker-after-gops-midterm-massacre",
+      "published": "2026-11-05T04:50:02+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Fox News",
+      "title_original": "NFL WAG mocks the terrible refs with a vicious costume, college football's awful rankings & Anna Paulina Luna!",
+      "summary_original": "Jordan Love and wife Ronika mocked terrible NFL refs with their Halloween costume as officiating controversies continue to plague the league.",
+      "url": "https://www.foxnews.com/outkick-sports/nfl-wag-mocks-terrible-refs-vicious-costume-college-footballs-awful-rankings-anna-paulina-luna",
+      "published": "2026-11-05T04:35:17+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Fox News",
+      "title_original": "Appeals court hands Mamdani legal win on NYC luxury second-home tax: report",
+      "summary_original": "An appeals court handed NYC Mayor Zohran Mamdani a legal victory Wednesday, allowing his administration to move forward with a tax on high-end second homes despite ongoing legal challenges.",
+      "url": "https://www.foxnews.com/politics/appeals-court-hands-mamdani-legal-win-nyc-luxury-second-home-tax",
+      "published": "2026-11-05T04:30:57+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Fox News",
+      "title_original": "Newsom solicits cash as Biden’s former election lawyer mobilizes legal team for Mississippi Senate race",
+      "summary_original": "Gavin Newsom is soliciting emergency donations while Marc Elias' law firm prepares for a legal fight as the Mississippi Senate race remains uncalled.",
+      "url": "https://www.foxnews.com/politics/newsom-solicits-cash-bidens-former-election-lawyer-mobilizes-legal-team-mississippi-senate-race",
+      "published": "2026-11-05T04:25:37+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "NBC News",
+      "title_original": "How healthy are your muscles?",
+      "summary_original": "Body mechanics experts say muscle health is linked to our longevity and how well we fight off disease.",
+      "url": "https://www.nbcnews.com/health/health-news/muscle-health-longevity-grip-strength-research-rcna604766",
+      "published": "2026-11-05T06:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "NBC News",
+      "title_original": "How healthy are your muscles?",
+      "summary_original": "Body mechanics experts say muscle health is linked to our longevity and how well we fight off disease.",
+      "url": "https://www.nbcnews.com/health/health-news/muscle-health-longevity-grip-strength-research-rcna604766",
+      "published": "2026-11-05T06:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "NBC News",
+      "title_original": "Democrats won on affordability. Whether they can deliver it is a different story.",
+      "summary_original": "Democrats won historic electoral victories on a pledge to make life more affordable, an issue that united voters across political and demographic divides.",
+      "url": "https://www.nbcnews.com/politics/2026-election/democrats-affordability-promise-midterms-trump-rcna607409",
+      "published": "2026-11-05T05:39:30+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "NBC News",
+      "title_original": "Progressive William Lawrence defeats GOP Rep. Tom Barrett in swing Michigan district",
+      "summary_original": "NBC News projects that Lawrence has unseated Barrett, who was running for a second term, in a district Trump carried in 2024.",
+      "url": "https://www.nbcnews.com/politics/2026-election/william-lawrence-democrat-michigan-house-election-win-tom-barrett-rcna603374",
+      "published": "2026-11-05T04:08:58+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "NBC News",
+      "title_original": "Progressive William Lawrence defeats GOP Rep. Tom Barrett in swing Michigan district",
+      "summary_original": "NBC News projects that Lawrence has unseated Barrett, who was running for a second term, in a district Trump carried in 2024.",
+      "url": "https://www.nbcnews.com/politics/2026-election/william-lawrence-democrat-michigan-house-election-win-tom-barrett-rcna603374",
+      "published": "2026-11-05T04:08:58+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "NBC News",
+      "title_original": "Democrats gain full control of five state governments, further expanding the party’s power",
+      "summary_original": "Democrats gained total control of at least five state governments on Tuesday, giving the party a level of power it hasn’t held in some of those places in years.",
+      "url": "https://www.nbcnews.com/politics/2026-election/democrats-gain-full-control-five-state-governments-expand-power-rcna607433",
+      "published": "2026-11-05T04:00:12+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "NBC News",
+      "title_original": "Democrats gain full control of five state governments, further expanding the party’s power",
+      "summary_original": "Democrats gained total control of at least five state governments on Tuesday, giving the party a level of power it hasn’t held in some of those places in years.",
+      "url": "https://www.nbcnews.com/politics/2026-election/democrats-gain-full-control-five-state-governments-expand-power-rcna607433",
+      "published": "2026-11-05T04:00:12+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "NBC News",
+      "title_original": "2 children and father fall to deaths in Pennsylvania in apparent murder-suicide",
+      "summary_original": "A Pennsylvania dad and his two children fell to their deaths on Election Day near a Mt. Lebanon parking garage in what police suspect was a murder-suicide.",
+      "url": "https://www.nbcnews.com/news/us-news/2-children-father-fall-deaths-pennsylvania-apparent-murder-suicide-rcna607482",
+      "published": "2026-11-05T03:56:27+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CBS News",
+      "title_original": "Democrats win Senate control — live updates",
+      "summary_original": "Democrats were able to pick up the seats needed to gain control of the Senate, CBS News projects, and the party scored several upset victories in red states.",
+      "url": "https://www.cbsnews.com/live-updates/senate-election-results-2026/",
+      "published": "2026-11-05T05:59:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CBS News",
+      "title_original": "Midterm election results will slow data center buildout, experts predict",
+      "summary_original": "Democratic victories in several gubernatorial races are likely to restrain data center development across the U.S., according to tech analysts.",
+      "url": "https://www.cbsnews.com/news/midterm-election-results-data-center-buildout-artifical-intelligence-texas/",
+      "published": "2026-11-05T05:57:17+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CBS News",
+      "title_original": "Political strategists react to Democrats flipping House, Senate",
+      "summary_original": "Republican strategist Mark Bednar and Democratic strategist Hyma Moore weigh in on Democrats' stunning performance in the 2026 midterm elections.",
+      "url": "https://www.cbsnews.com/video/political-strategists-react-to-blue-tsunami/",
+      "published": "2026-11-05T05:28:10+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CBS News",
+      "title_original": "Trump touts White House ballroom after GOP midterm losses",
+      "summary_original": "After the GOP's losses in the midterms, President Trump hosted a celebratory event in the unfinished ballroom that stood in stark contrast with his new political reality in Washington.",
+      "url": "https://www.cbsnews.com/news/trump-2026-midterms-republicans-white-house-ballroom/",
+      "published": "2026-11-05T05:16:34+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CBS News",
+      "title_original": "Midterm fallout begins after Democrats win control of Congress",
+      "summary_original": "The impact of Democrats' sweeping victories in the 2026 midterm elections is already being felt in Washington. Follow live updates here.",
+      "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/",
+      "published": "2026-11-05T05:10:24+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CBS News",
+      "title_original": "Sen. Amy Klobuchar wins Minnesota governor's race, CBS News projects",
+      "summary_original": "Democratic U.S. Sen. Amy Klobuchar defeated Republican state House Speaker Lisa Demuth. She will succeed Gov. Tim Walz, who announced in January he would not seek a third term.",
+      "url": "https://www.cbsnews.com/news/klobuchar-wins-minnesota-governor-race-cbs-news-projects/",
+      "published": "2026-11-05T04:57:05+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CBS News",
+      "title_original": "Progressive beats GOP Rep. Tom Barrett in key Michigan district",
+      "summary_original": "The race was one of the most closely watched in the nation.",
+      "url": "https://www.cbsnews.com/news/michigan-7th-district-results-tom-barrett-william-lawrence/",
+      "published": "2026-11-05T04:47:13+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CBS News",
+      "title_original": "Best pet insurance companies of 2026",
+      "summary_original": "Pet insurance premiums jumped by double digits last year. We priced the best pet insurance to see who's worth it.",
+      "url": "https://www.cbsnews.com/moneywatch/insurance/pets/",
+      "published": "2026-11-05T04:43:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ABC News",
+      "title_original": "Election 2026 live results: Trump defends war after Vance blames it for GOP losses",
+      "summary_original": "\"The reason we lost is the war,\" Vance wrote in a social media post.",
+      "url": "https://abcnews.com/Politics/live-updates/midterm-elections-live-updates/?id=137782085",
+      "published": "2026-11-05T06:11:28+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ABC News",
+      "title_original": "What to know about recounts in Mississippi with razor-thin margin in Senate race",
+      "summary_original": "The Senate race between Cindy Hyde-Smith and Scott Colom remains uncalled. Mississippi election law does not provide for automatic or requested recounts.",
+      "url": "https://abcnews.com/Politics/recounts-mississippi-razor-thin-margin-senate-race/story?id=137844445",
+      "published": "2026-11-05T06:07:50+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ABC News",
+      "title_original": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
+      "summary_original": "Bob Dylan has come knockin’ on Pope Leo XIV’s door",
+      "url": "https://abcnews.com/International/wireStory/bob-dylan-knockin-popes-door-leo-welcomes-legend-137857488",
+      "published": "2026-11-05T05:34:30+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ABC News",
+      "title_original": "Billionaire tax: What to know about California's Prop 40",
+      "summary_original": "The measure would levy a one-time, 5% tax on the wealth of billionaires in California.",
+      "url": "https://abcnews.com/Business/billionaire-tax-californias-prop-40/story?id=137805474",
+      "published": "2026-11-05T02:56:29+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ABC News",
+      "title_original": "WATCH: Sen. Cory Booker sees 'big realignment' of US after Democrats' win",
+      "summary_original": "The New Jersey senator says Democrats now need to \"deliver on the things that all of America wants right now.\"",
+      "url": "https://abcnews.com/video/137849355/",
+      "published": "2026-11-05T02:05:15+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ABC News",
+      "title_original": "How Democrats flipped the Senate blue: The ABC News Voter Poll tells the story",
+      "summary_original": "ABC News projects that the Democratic Party has won a majority of seats in the U.S. Senate. Here’s how Democrats won some key races to get there.",
+      "url": "https://abcnews.com/Politics/democrats-flipped-senate-blue-abc-news-voter-poll/story?id=137840395",
+      "published": "2026-11-05T01:56:37+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ABC News",
+      "title_original": "WATCH: The many firsts in the midterms",
+      "summary_original": "Senior Political Correspondent Rachel Scott on a big night of firsts in the 2026 midterm elections.",
+      "url": "https://abcnews.com/video/137841144/",
+      "published": "2026-11-05T01:04:59+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ABC News",
+      "title_original": "WATCH: What Trump’s next two years with a Democratic Congress could look like",
+      "summary_original": "Chief Washington Correspondent Jon Karl and Chief Global Affairs Correspondent Martha Raddatz break down the major factors that shaped the election, including the war in Iran.",
+      "url": "https://abcnews.com/video/137841143/",
+      "published": "2026-11-05T01:03:54+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CNBC",
+      "title_original": "Dow soars 1,500 points for best day since April 2025 on clear-cut Democratic win, falling oil: Live updates",
+      "summary_original": "Stocks ripped higher on Wednesday after a decisive victory by Democrats in the U.S. midterm elections removed political risk that was hanging over Wall Street.",
+      "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
+      "published": "2026-11-05T06:10:43+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CNBC",
+      "title_original": "How much can you borrow with a personal loan?",
+      "summary_original": "Find out how much (and how little) you can get — and which lenders have loan limits that suit your needs.",
+      "url": "https://www.cnbc.com/select/personal-loan-borrowing-limits/",
+      "published": "2026-11-05T06:07:33+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CNBC",
+      "title_original": "Trump tells CNBC he can work with Dems on ‘many more things than people understand’: Live updates",
+      "summary_original": "Follow day two of 2026 midterm elections live updates as Democrats flip Congress in blue wave.",
+      "url": "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html",
+      "published": "2026-11-05T06:05:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CNBC",
+      "title_original": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
+      "summary_original": "The move would reverse the company's $78 billion acquisition of Aetna and dismantle the vertically integrated healthcare conglomerate it created in 2018.",
+      "url": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
+      "published": "2026-11-05T06:04:13+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CNBC",
+      "title_original": "McDonald's stock rises as earnings beat, U.S. restaurants show improvement",
+      "summary_original": "McDonald's has leaned into discounts to attract budget-conscious diners over the last two years.",
+      "url": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
+      "published": "2026-11-05T06:02:53+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CNBC",
+      "title_original": "Democrats map out an agenda to address affordability and corruption after midterm sweep",
+      "summary_original": "In control of Congress, Democrats are preparing to pursue legislation to address affordability, while also trying to rein-in President Donald Trump",
+      "url": "https://www.cnbc.com/2026/11/04/congressional-democrats-affordability-oversight.html",
+      "published": "2026-11-05T05:53:19+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CNBC",
+      "title_original": "Democrats may go after data centers. That's not a reason to dump all your AI stocks",
+      "summary_original": "The AI trade could be tricky in the short term, but a bubble deflating gradually is better than a pop, economists say",
+      "url": "https://www.cnbc.com/2026/11/04/democratic-data-center-pushback-could-help-ai-stocks.html",
+      "published": "2026-11-05T05:44:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CNBC",
+      "title_original": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
+      "summary_original": "The next debt-ceiling confrontation could reverse Washington's traditional political roles, raising the possibility of spending concessions, market volatility and a damaging default.",
+      "url": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+      "published": "2026-11-05T05:28:17+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Wall Street Revises Treasury Sales Forecasts on Guidance Revamp",
+      "summary_original": "Wall Street strategists are rejigging forecasts for US borrowing next year after the Treasury signaled that changes to auction sizes for notes and bonds are on the horizon.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-04/wall-street-revises-treasury-sales-forecasts-on-guidance-revamp",
+      "published": "2026-11-05T05:53:40+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Democrats Need to Focus on Corruption, Affordability Says Rep. Morelle",
+      "summary_original": "Democratic Representative Joe Morelle of New York said that Democrats need to focus on anti-corruption efforts and setting American families up for success after voters handed the party control of both chambers of Congress. Morelle also said that President Trump's continued focus on his White House ballroom today after voters repudiated his policies 'says volumes about his leadership.' (Source: Bl",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-04/dems-need-to-focus-on-corruption-says-rep-morelle-video",
+      "published": "2026-11-05T04:58:02+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Wall Street Girding for US Debt Ceiling Showdown in 2027",
+      "summary_original": "Wall Street strategists are warning that the return of divided government could disrupt the bond market next year by setting the stage for a bruising fight over the debt ceiling.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-04/wall-street-girding-for-us-debt-ceiling-showdown-in-2027",
+      "published": "2026-11-05T03:50:46+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Stocks Rise, Democrats Clinch Control of Congress in Rebuke to President Trump",
+      "summary_original": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day than \"Bloomberg Surveillance.\" (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-04/bloomberg-surveillance-11-4-2026-video",
+      "published": "2026-11-05T03:19:02+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Activist DGB Ousts Ethan Allen Chairman, Wins Board Control",
+      "summary_original": "Activist DGB Investments has won three board seats at Ethan Allen Interiors Inc., giving the fund majority control of the furniture maker and retailer.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-04/dgb-is-said-to-oust-ethan-allen-chair-win-three-board-seats",
+      "published": "2026-11-05T02:23:24+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Alcohol Stocks Jump as Blue Wave Boosts Industry Prospects",
+      "summary_original": "Investors are betting alcohol companies are among the winners of last night’s midterm election landslide on views a new Congress will push back on the Trump administration’s immigration and trade policies that dented booze businesses.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-04/alcohol-stocks-jump-as-blue-wave-lifts-tariff-immigration-hopes",
+      "published": "2026-11-05T02:19:47+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "DeSantis Calls GOP Midterm Wipeout ‘Extinction Level Event’",
+      "summary_original": "Florida Governor Ron DeSantis said the blue wave that swept over just about every corner of the US on Election Day — except his state — was akin to a “meteor strike” for the Republican Party.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-04/desantis-calls-gop-s-midterm-wipeout-extinction-level-event",
+      "published": "2026-11-05T01:02:09+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Wall Street Reckoning Looms as Democrats Take Over Congress",
+      "summary_original": "For nearly two years, Wall Street firms and startups have enjoyed a sweeping deregulatory agenda from President Donald Trump that relaxed post-financial crisis rules and boosted nascent industries.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-04/wall-street-s-reckoning-looms-as-democrats-take-over-congress",
+      "published": "2026-11-04T23:32:23+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "AP",
+      "title_original": "Kansas U.S. Senate Election Live Results 2026",
+      "summary_original": "Kansas U.S. Senate Election Live Results 2026 AP News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XVkVGNG9SU0VuMVdUcTVEbjdicUdlUWhFTGdxX0RyZFRKR3RiY1N3OGR0UDZEbHBSRWIwTWhEOE5qNXJlNVhHUmZPZ0F3eGRDZG5zclVxREpCMC1tX2hGQ2dRVHdjX0xtRGpkZmVaNTZsc2RjcjZB?oc=5",
+      "published": "2026-11-05T06:10:34+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "AP",
+      "title_original": "Democratic sweep of Congress ushers in a new era as Trump acknowledges impact of the Iran war",
+      "summary_original": "Democratic sweep of Congress ushers in a new era as Trump acknowledges impact of the Iran war AP News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQemZtNHA3MndVd0YwZEZjYVZSdXA5NVpnXzhpUnY5Mkp5U2lBTnBtNEV6dVB0LUJZVXBDV2lUNnNHbTczNWFVVEtXUVhFdlUxdm5sOWl6U0JFMjhGXzgzQ19GNXdrNUVJMlB4czlkenlNOUctMGllMmFLRTJrVXl0T1hoQ1ZUcmI4N0xxU18wTEhuQUNHYm5mNFhNc0pVRjJqY0s0clotUW42czd0TTRCNw?oc=5",
+      "published": "2026-11-05T05:49:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "AP",
+      "title_original": "Iran’s leaders say midterm results show US voters have rejected Trump’s war",
+      "summary_original": "Iran’s leaders say midterm results show US voters have rejected Trump’s war AP News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORWpUSjZoNTU2eEkzUGZJbHl4WEdBMWtFNzQ1Q3l1V1VTbVJSeUprOHhmS19STXpBSi1oV2lmanFnT09MZldRd0lyNjJ5WFAycWRWQzd6UFRLSm1YSDNQRGpXdldpRjF1QmlYM3Y3anpjWUVScndXNDQ1VHkxWk9HNDJhTGJtc2V6T3VRTw?oc=5",
+      "published": "2026-11-05T05:46:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "AP",
+      "title_original": "Trump-backed Republican redistricting sought a midterm edge. It didn’t work",
+      "summary_original": "Trump-backed Republican redistricting sought a midterm edge. It didn’t work AP News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX2JROXdkeWhPR0RzZ0JxTnRYcFNNWkc3VEtWU2NUZ1BFQXpMcURGa2ZSc0RuNnV1S3R2dnhPcDF3RzFMMTdCRDFMZ1BBVkxlVzVVZVpvbkRmazdWQmJuYXZuVncwb2FNZWkzV0xpckR5OVJtTG5ZNTJLeFFYZ0pqQTNPZklLOXhFbmpGVGdzbzNlTkZSZ3RsVzVkWm1ILXdhTnJUNQ?oc=5",
+      "published": "2026-11-05T05:09:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "AP",
+      "title_original": "Analysis: Trump has defied political consequences for years. The midterms changed that",
+      "summary_original": "Analysis: Trump has defied political consequences for years. The midterms changed that AP News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMGdQR1FWSTFPNVdyeFBOWndlR2Y0d28wV2FtQ3hCVFNiMHNnX1k3MWpiYjhQVmlKMmEtNlYtaTBqRVJkYUlCeDI3Ni1McEVwOGxXZ1RVQzJodzlRLUNkTWxoSmZSa1FXbE05SnZ3Tlg0LUtzYVUzRkxoaW1rdTN6ZC1ad056NUVwSmlJbUdMTHB6d0JyUXZEUVpIRldBSk0tSTVnOW54MDU4RkN1c0E?oc=5",
+      "published": "2026-11-05T05:03:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "AP",
+      "title_original": "2026 Elections",
+      "summary_original": "2026 Elections AP News",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9fcjZ5dzRCRGFMcXhQQ0l0LWZUSFJfM0dKcWMtMXo3TXlocGFaWjZES0xfNGpuWEFPTzlLM1hxV0VZUTFjS2dn?oc=5",
+      "published": "2026-11-05T04:51:08+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "AP",
+      "title_original": "Democrats win control of Texas state House as part of sweeping gains in state governments",
+      "summary_original": "Democrats win control of Texas state House as part of sweeping gains in state governments AP News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeHhtcHhnektKamxRU25FOW5rR3FjRTFYUklvWXQ1WXlZek1VZFphX3hKSE5iSEhGZ3l6NmdLWmZkVE5GY2FacTk4cVBCenZlRjduQWp0dlljLTQySDhreUtScm5PYXQybHp5WjgwOFp0Z3dkQUFrUGxIN3FGWUJGaEV3eURsRE16aFhwblhkaDgxZ2Y1b0JTdFJEX1NQOFFKaTRiU3pueDkwRlVZdmc4X01WOVc2UQ?oc=5",
+      "published": "2026-11-05T04:44:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "AP",
+      "title_original": "Scientist who brought frog embryos to Boston for cancer research is cleared of smuggling charges",
+      "summary_original": "Scientist who brought frog embryos to Boston for cancer research is cleared of smuggling charges AP News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeE9EOHhSRi05UE01MU9ldUtJdVdMQzQ3THhfN1FRdnp5aDluTzRZcm1yUy1WcXlGZW9oZExnRTVUTzQ2Uld3RjdkaTlMdlZnV3BqYUtGQTdjVkI1ZjJtMGtUdW05bkV3RHBQTFRIekpyN1pwNmp1SWw4WFFZUEpBeGNqcFFBZV91empCX3BUa0RUWV9hLVBETUJRUy12Y080WDc1ajBlcw?oc=5",
+      "published": "2026-11-05T04:30:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "New York Times",
+      "title_original": "SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas",
+      "summary_original": "The world’s richest person has antagonized Democrats, some of whom have signaled their intent to investigate him when they take control of Congress.",
+      "url": "https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html",
+      "published": "2026-11-05T05:52:52+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "New York Times",
+      "title_original": "Appeals Court Allows Mamdani to Move Forward with Pied-à-Terre Tax",
+      "summary_original": "The court reversed a judge’s order that had said New York erred in its rollout of the tax, granting Mayor Zohran Mamdani a victory over a key piece of his agenda.",
+      "url": "https://www.nytimes.com/2026/11/04/nyregion/pied-a-terre-mamdani-appeal-win-home-tax.html",
+      "published": "2026-11-05T05:38:40+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "New York Times",
+      "title_original": "Trump Wanted Democrats to Win",
+      "summary_original": "The president loves combat and chaos. He’s about to get more of it.",
+      "url": "https://www.nytimes.com/2026/11/04/opinion/trump-democrats-midterms.html",
+      "published": "2026-11-05T05:00:07+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "New York Times",
+      "title_original": "With Democrats’ Sweep, Congress Is Set to Reassert Power to Check Trump",
+      "summary_original": "President Trump usurped power from the legislative branch with Republican help for two years. Democrats are now positioned to try to claw back some of Congress’s prerogatives.",
+      "url": "https://www.nytimes.com/2026/11/04/us/politics/democrats-house-senate-congress-trump.html",
+      "published": "2026-11-05T04:51:04+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "New York Times",
+      "title_original": "On the Democrats’ Agenda: Investigations of Trump and His Family",
+      "summary_original": "When a new Congress is sworn in, it will have the power to hold hearings and issue subpoenas, prompting one representative to advise White House officials and others to “lawyer up.”",
+      "url": "https://www.nytimes.com/2026/11/04/us/trump-family-investigations-democrats.html",
+      "published": "2026-11-05T04:38:05+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "New York Times",
+      "title_original": "Stocks Rise as Democrats Flip Control of Congress",
+      "summary_original": "Markets traded higher as investors foresaw gridlock in Washington, typically a bullish signal.",
+      "url": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html",
+      "published": "2026-11-05T04:24:41+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "New York Times",
+      "title_original": "CVS to Split Off Drugstore Business, Ending Its Bigger-Is-Better Era",
+      "summary_original": "In a breakup planned for 2028, CVS Health intends to keep together its insurance and pharmacy benefits divisions and create a separate company for its pharmacies.",
+      "url": "https://www.nytimes.com/2026/11/04/business/cvs-health-split.html",
+      "published": "2026-11-05T02:44:43+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "New York Times",
+      "title_original": "The Southwest Is Parched. Can the Recent Floodwaters Quench It?",
+      "summary_original": "A series of storms has added to reservoirs in the Colorado River basin, but the long-term water outlook remains bleak.",
+      "url": "https://www.nytimes.com/2026/11/03/climate/floods-arizona-colorado-river-water.html",
+      "published": "2026-11-05T02:01:11+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_original": "Opinion | The Ethics Rules Behind Weil Gotshal’s ‘Partner Run’",
+      "summary_original": "Opinion | The Ethics Rules Behind Weil Gotshal’s ‘Partner Run’ WSJ",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVkxoZmkyTjFtWWVNdGlJZlNrTDR2bWZDWElBSUVIOFB0eFVFclZkdXgzT0lHQ2E3VG01dW5OQWxIVTVoSmdRSTBMLUZqZEs2MjNTdExsZXNkRnhTbnY0UW95NUUxckc5d0VmdnFJTWlLSG41V2t6bVZVTmNhSk1qckZQZTRKRkE5eU5XZkU0NA?oc=5",
+      "published": "2026-11-05T05:37:24+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_original": "Essay | I Have Autism. Why the Elizabeth Holmes Documentary Was Uncomfortable to Watch.",
+      "summary_original": "Essay | I Have Autism. Why the Elizabeth Holmes Documentary Was Uncomfortable to Watch. WSJ",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSi1QY19rR2w4ZExzZEF1QjVmaUdPajFHS1BXM1RvU2VKU2FmYno1NDVpQk55dUw4Q3hrQlRBaVpHZm9kVXI1VTNCblAyWTZJb2k2dUhLMTBkOTVuRF8wMGIwR0s5OFJGT2p0dmpOT0tyeUxEVWtoa1p0VXRUa1VxMXpRV05ZS2Q3UHZCY2RUX3F3NlRFOEE?oc=5",
+      "published": "2026-11-05T05:31:44+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_original": "Apple Is an AI Safe Haven—but Safety Isn’t Cheap",
+      "summary_original": "Apple Is an AI Safe Haven—but Safety Isn’t Cheap WSJ",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTXB2Vm1NLVhnZGpidHJQanlpdzBaZjRWSmxBc1dMOWdWdXRIWlpPOWpLeHhTdGJPU1VFQnBzV05sUU1tcmdNSTZHZ1k1RDA0OXRiR0V4VDVGTHJNY2JuRHlhZGNBa08yaE5SSkhyWXJJYVVibUlReVdZQWJaRVVoMExkblVETW81bTc2QU43ZkFZTGZl?oc=5",
+      "published": "2026-11-05T05:17:25+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_original": "Ethan Allen Shareholders Hand Board Control to Activist Investor Doug Bergeron",
+      "summary_original": "Ethan Allen Shareholders Hand Board Control to Activist Investor Doug Bergeron WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT2paaGlVa2ZsUzROdVlucHNOOS05OEFoTmNvY0lvMEY3eWpYRklCVk9pbFVxdDhxSGN2ZWIxSDFNa2I0Ykw1OXlPZ1AwcHEwY01WUFRZbm9SZDg0ZDYzQUVKNTdaQUNYT0VRMkxhSEN5NG1JVUpZN2VVU21QMmpkXzBrZnpjRzZUdWo2M0pMaWIzcGpYem9mTHU1MDNUcDJSdUdrMnFhdTQ2YWF0dHJUOEl0Ml9Lbk5POGpldFNNcVo?oc=5",
+      "published": "2026-11-05T05:08:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_original": "Opinion | The Dangers of a Democratic Wave Election",
+      "summary_original": "Opinion | The Dangers of a Democratic Wave Election WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWXh5NjJvSGRraUtOakFLTTJ4Z1p4WTFmdXh1UkN2aUxydjZqMVhrdFd6cWNHQ3JYb2I3MXI4dGFWSFlEbTB1Z2RZckRzRjNjVDRRYTJQV0cxQk82S3lvNkc2WWdvNkJqQmtQcElTT3FnMm82U1Z4NjZnZVpTLXNkSWhKV2Q?oc=5",
+      "published": "2026-11-05T04:41:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_original": "The Prediction-Market Bettors Who Turned Election Night Into a Real-Time Casino",
+      "summary_original": "The Prediction-Market Bettors Who Turned Election Night Into a Real-Time Casino WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRXA2RnAwakxjXzcxRzB2Z1NpZnp2MTkxWjRGU2lqLWVUVGpwMG9lMDVjYTFSdi1BSVdhTEtPaHRlWEM3eXFsZkkxY2ZFLTB0RDBrSy1Ya1RDUlVsT19MU2pSYXI3WWFDQnAwMHJ2cEpFSUdSeXNFOTRraTRDTEhBTUJKcm82VXM?oc=5",
+      "published": "2026-11-05T04:26:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_original": "U.S. Stocks Jump After Democrats Sweep Congress",
+      "summary_original": "U.S. Stocks Jump After Democrats Sweep Congress WSJ",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONVFJRHRnbXFVZk1nWnFDSE1ZUjhaY20wY2dVRnpnUnZZYzQ2OXM4NE5CRFJsemNDcXZ1dkhUSl9BSnRaMTdzU2xNZExWdWNjZmNFNGd6Qllpcjk1eUVwMTZrc3pSdnlCV09uSlM2XzJ5d3ZMTnA5VHB3RWRVdE1fVFRkY2lVbXJfaXpCVW10OEtNZ2N6NWFUbjdfRXpCbUlaeThkTnozWl9oVXhSVGxNZ1RodUhWUQ?oc=5",
+      "published": "2026-11-05T04:16:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_original": "Print Edition | Wall Street Journal",
+      "summary_original": "Print Edition | Wall Street Journal WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zdU5tQ0k4c0Myc3B2Y2FxZ3Y2WDZrb2FGcjNGQURWUTdTY1BBYnNfNG40WklVZmJfN09NeHRTMktJQlIzSHNxZU02RUpiRFZiWmZCMzhJZmQwdmwyVk00ZGhR?oc=5",
+      "published": "2026-11-05T03:40:49+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Washington Post",
+      "title_original": "A nationwide backlash against data centers erupts at the polls",
+      "summary_original": "A nationwide backlash against data centers erupts at the polls The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU1dtLXh4bkZMU0R3X1ZqXzVKNXBjRE1JbkNuQUg5R3o2VEE4SUVEM3lqUFZZOHlKTVkyN2tYUEZIdXJTOWZuVWRlQXY1dl9vVkdTVHZFWkpuajdIX2U5UEtjQ2wwQkx4MnM1SnhpeVZCVU96cXc3U1pBekJXWlAya05CN1Q5QTNmQ2Zyc0Y4WDFLWndvQS1tdHM2eHA5R3pUdW9RUU9UcG5mSk13dUhTQ2t2V1JMWmdLU3c?oc=5",
+      "published": "2026-11-05T06:11:16+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Washington Post",
+      "title_original": "Democratic women surge past 100 House seats as Republican women lose ground",
+      "summary_original": "Democratic women surge past 100 House seats as Republican women lose ground The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd2FyN1JWN3pzVXAtRGxVNFRoXzEwMnNoOXc0eENqMUczb3RJUWw2TUJRZjlpekNmMHNhYUxsUkhiVUhLYkhDbmR4Y3ZZbzV1dXllRFJFQ3RFcklPbjJfN1M4NG85TGwzZjIteWE3S3F1WjFlRF9HMUZTbGxjMEtTMlhrZHVySVZ6ZlpBVC1paklEeVFITWRrWWN5VE5ucFdleDkzYWZXSmlZOHROQlNzSGZvVVVRNVc0SHRIb3JaM1lfdw?oc=5",
+      "published": "2026-11-05T06:09:30+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Washington Post",
+      "title_original": "Opinion | Blue Texas, blue Carolinas and Republican wreckage across the country",
+      "summary_original": "Opinion | Blue Texas, blue Carolinas and Republican wreckage across the country The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcFhoZ0tYU2JlNExFZWJzRmJDTnNFWkxZVm1INWoyZEtUdkdsY1BnekhEQmFqbUwtTXVldHJ1RnRnbWdXOExZb1VDZDQ2NkhDaFI5Njh0NXBtLUtKUng1WnZheWk4Yzc1ajlSTXQ1Rno4ZlBkbk5Bb21Ob0JDQllxU1RZVEd6bm40Vkt2TmI4eXl4ekw3VUxodmN4Tk54eEN5RGpFZ1hSSEZGM3A2SDdCSzNVTQ?oc=5",
+      "published": "2026-11-05T06:03:08+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Washington Post",
+      "title_original": "Trump blames losses on GOP candidates, oil prices and his absence from ballot",
+      "summary_original": "Trump blames losses on GOP candidates, oil prices and his absence from ballot The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcm8yRDN0ODJJUUd4WVlJTjk0Y0Z3ZWM2SFNOZ0pfUTJaUjd1QThhTDRveDdxV0hoZW12WUZKeFp0aUVZQnpucVRHZjZzcHZRVk1NRmRibXdjdW1WSk5VTmc1dGRVOW1CeDNLMzFmVFlUcklENUhGMC00OHdEUHlhZ1dpOWs0SFQzWEx2ZmpwMlJiTGxxVWozaVJWcHBleWU5S0pyU012VzRUcnNLcWFNV19rbzdLbDBpbkdzRUNTU3JZZw?oc=5",
+      "published": "2026-11-05T06:02:39+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Washington Post",
+      "title_original": "Vance blames Republicans’ midterm losses on Iran war, cost of living",
+      "summary_original": "Vance blames Republicans’ midterm losses on Iran war, cost of living The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3E0VE1taXhqR3N5QmZyRkdnYlNJQkkwdWtvd1dkLUFyVEZtOExDOGdmZkFmaVVtSmI2SWZWMFFtSklXUDFvdXEyNnNMVUV4ZUZONGljazlTa2oxNDhxQTVpWjBfSDhBUDBfTmZpWUwzOTYwMlhDbF81cy1YdnZRNUU4SWp1eGN6bWk2WmFPcWs0Si1EcnJ5RHhxSUVKN2RtREE0dklseWVIa2FEV0M3aDd3?oc=5",
+      "published": "2026-11-05T05:58:19+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Washington Post",
+      "title_original": "Mike Johnson won’t seek House minority leader position after midterm losses",
+      "summary_original": "Mike Johnson won’t seek House minority leader position after midterm losses The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaVFrbE9wc0VMaGZWRE9LX2ZHVjM3ZmhkR0k4ejVfOENmdFZYWFAxR3ZDMEsxQ0tnU2RMbFJYRjV0THFNenRKN0tQUnV3bGpTWUtEeW1qYjVQTFlKMUV2Zk1nSVlvejBPRjdrRG11aHRCcE9vLWNfSV9ac2xCVDQ0TWJzM0hCMzQ1V3FSWDZkV2didVN1Z0sxMi1qMFRKUmNpZUdab0QtYmRPd0gtYjlzalRfR3RfSGtHV2U4YXhVS0c4Sko0?oc=5",
+      "published": "2026-11-05T05:53:47+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Washington Post",
+      "title_original": "See where voters shifted toward Democrats",
+      "summary_original": "See where voters shifted toward Democrats The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWkRsaHdWdlJzU2U3Rmpia0J1Zkc2NDRJX3NGV1lHb1FROGVRZ2xkb0JZWVJOS2QwU2hlUEoxOWZEaktUQXJFLVZZU1hzWlZHR0FGRG5sVW5BY2JEc3FDakRySkwtT3ZUQ2VUOFQ2N1lzMEQzY0tMYWwzUktVSGdyWTRqSDVoUFU4YW5RcDJTNGVIbHhIUEg5Zg?oc=5",
+      "published": "2026-11-05T05:47:25+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Washington Post",
+      "title_original": "Trump concedes Iran war angered voters, triggered Democratic landslide",
+      "summary_original": "Trump concedes Iran war angered voters, triggered Democratic landslide The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONUlGcnVxOUNGdUpRN1hoM2FIcHRHMGdqQUpGRGZJeWVqb0NBNmgtbzBXV3I2eWt4bVd1U3h6MXJQTURlRnRVc1RZMEZRNm4zSlNSQnUwNzhrMWxqNmcyVFdtdmFwN3Awd0ZSNmpEckdmbXlhUkM0NmdYSjQtQlNYZllyVXRsOW9EU1BWNU9rMTJDcTAtR2FWTjdaSE9OR2RpU2JFV3c5cw?oc=5",
+      "published": "2026-11-05T05:46:59+09:00",
+      "via": "google_news",
+      "state_media": false
+    }
+  ],
+  "unavailable_sources": [],
+  "errors": {
+    "Washington Post": [
+      "rss 실패: HTTPError: HTTP Error 502: Bad Gateway"
+    ]
+  }
+}

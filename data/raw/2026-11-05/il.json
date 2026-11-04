@@ -1,0 +1,448 @@
+{
+  "team": "il",
+  "team_name_ko": "이스라엘팀",
+  "collected_at": "2026-11-05T06:13:32.145084+09:00",
+  "headlines": [
+    {
+      "source": "i24NEWS",
+      "title_original": "'It will be harder for us': Israel's UN ambassador warns of challenges following Democratic midterm victory",
+      "summary_original": "'It will be harder for us': Israel's UN ambassador warns of challenges following Democratic midterm victory i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbU44SW5odEFDclpza0VMU29TdXVlbEs2U05hRXdPa0dGd0xHUXlOU29LLTl2Z1ExM0VRUTM5Z29xS2tXb25qdlduNmpyTlo1WFdDSHZDUC1vLXJTOHVVcTRxNEI1d0Q3X3p4TWcwMEhZSGJ5b29Md3I1ay02cHNoYnk2eWFYTDl0eVVXVFBLVTI4Ui1JaGlPRy1kNmlNeUIwdWxJX0doVGZjNXdXUnRLTGhKWDVxa1FVdlFndXRia1ItYXlWQXFDLXpFZ0pOUWx1aUJzZmYzamgzaXU0VjZmS014dHpadGVjQXlVd0Rn?oc=5",
+      "published": "2026-11-05T04:35:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Israel, identity and the Democrats: What Abdul El-Sayed's victory means for American Jews - analysis",
+      "summary_original": "Israel, identity and the Democrats: What Abdul El-Sayed's victory means for American Jews - analysis i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORDFXWncxbjZod3JJSVlvcmtuV3JkNHd4SmxkZjBwRlZGTFZib2taZjFHbGw5RXFnLVJTY0RjdmZxUmdkVWdVaDVnXzE0cUo0bHVZTUFpTFRveHhFVlE3UlhwWXF2dTY5WHJRc3pKalpaWUM3MndzYWN6RHJKZzA2d0V4RXg0UzRtOTVnTkNyNVdYYVNENzNiS0kxSjRPd2pGbDhlRW9tdmRBLXJaTE5fNW94eGVSTzZRWUZCZEVhRGlIcjNGVXdsTFROVk95ZWlET1NITjM4alR2amlxZmlSdE91aXRGX1lHVFhZ?oc=5",
+      "published": "2026-11-05T03:20:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Trump Weighs Hegseth’s Future After Republican Midterm Losses - Report",
+      "summary_original": "Trump Weighs Hegseth’s Future After Republican Midterm Losses - Report i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZU45RmxCaXFUUm1kSjlabmdyZGRzdE1jV2NLRFprYkNpODFuem04LUd2b2VKalRBcTRWcmpSWDRJWjhnNl9fc1JVMkdHT0lwd2pPZFREczlBN0FjSGl4RHN6N3B1MHJVeS13VU9tenlGeHVLYS1acXAxdXdSQThIMTAxR2MwU0RPZ0UwbTB4WmlOd29ZYzVEN0pXM2J6VlNUcDBmX3dZdzl4RnZad0xkLVJCb04tS3dTZGhpcWVvNUp4WURyWUE?oc=5",
+      "published": "2026-11-05T02:52:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "'The reason we lost is the war': JD Vance blames Iran war for Republican midterm defeats, as Trump mulls firing Hegseth",
+      "summary_original": "'The reason we lost is the war': JD Vance blames Iran war for Republican midterm defeats, as Trump mulls firing Hegseth i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQUWxyVEVwOUJsNEdzS2stOGxTa1dKcldMbVh1cUIzRzRqWkxRclJ0ZkdDWkhhTVQyeUM5V2tvQUwxS0JGV19PMTduYzJRRzNjQS1lSnI5MXRxSEstWkZjQ0FhTnM4NzFoVHFxc2xmdDJFa1R6Z3hPMmZwU3Vob3pOeE5NR3VRLW53d1dEZWxMamFTNXA4WHpLdUZxWFZvWWI2M2d1VlZJM3cySVhaU0FsRmtKSnJGZHB3dm9RZzFMdU5xR3hfbWwxd2QyQ2hUNmhGbnZvUXh0QVVDLUZqVmRmbmZmV083NnpzZ2dpUGhsc0JfMTRxYWRwSHl6REZHQWNGdWpFcg?oc=5",
+      "published": "2026-11-05T02:22:59+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Ayman Odeh Named In Inquiry Into Suspected Foreign Cash Payments",
+      "summary_original": "Ayman Odeh Named In Inquiry Into Suspected Foreign Cash Payments i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWExWNzB4WFJWQ3ZFVTJoNS1DNEVnOGU5R0ttaXBBd2FfWkp3cTFVelFLV09nUC1TQnV4WktBX3M3MF9BOHZoV1JmR19lQ3lOS3RSazkxY0Z1VUtIS2M0U0xEVEF2MkE0Z0NUTGZ2LXY2SUI0LXpTYXdpQVNSdVl5SUtRTW84RWdOenNqeEFrTmhaeGhBMmlrOGxBMF9yMU0xT3BHaEU2QVgxdW51QmpqSkhYbi1RU2M?oc=5",
+      "published": "2026-11-04T23:54:29+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Breaking news from the Middle East, Israel and around the world",
+      "summary_original": "Breaking news from the Middle East, Israel and around the world i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTDBJX3MyblhWMVJtZklLaC00VlVZWlNqak1GQzB2MHBmSnc0TGhBTWdNTENhQlBrS0RwZms0R1dWZVMxNkRjb3hwWkNrSUI5LWlocmRERUEwdEtnRERJOFVjdjhJUHh3NHF5QlFLM2E2bkxqTzZITGtSVXFkY0hYbGVPekpvcEI2WE43SURuRkJ2d1ZSUldzVmd2Wi1xVUdrV3JnTlFabTd1Vjc2bVBPNktreTI0QlE3UkNLY2puZ0lqUVU?oc=5",
+      "published": "2026-11-04T22:16:26+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Democrat's Midterm Gains Put Trump’s Iran War And US-Israel Ties Under Pressure - Analysis",
+      "summary_original": "Democrat's Midterm Gains Put Trump’s Iran War And US-Israel Ties Under Pressure - Analysis i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONURNeElxaU5EMExkMEZHN3dVcW1QQ0ZVVG5ZZ3RyaVJCeDhlZ0NiVUotX2YzYUx3ZFNYVEZoMGRxNGttQTBTTFllTUFjVWROTFBObnV6VUhZdzhLb1ltaHJGNDdxV1A4ajZGdm1waV9WUlItQWxTXzFDWm9xYUQxcFZacVBtWEhGMGl4UE8zaEU1b3pJSk44dUlqbVRYckItYXFjRGtJdGd5djFTcTRrUjRsWjJUNl9sMlhGakNhbjRzMy0yUzhTTlo2d2ViR0hybFdONTc4YkJaUGp2c19PZg?oc=5",
+      "published": "2026-11-04T22:11:41+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Herzog receives official election results; says foreign interference suspicions must be investigated",
+      "summary_original": "Herzog receives official election results; says foreign interference suspicions must be investigated i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTlQ2MFpUeHlVOHY5Q3plNU43Tm8zQXkzMGlaeUJmeGtBcTR5LUNFa2RLWXZkeHRWVG1jV0RKOGIyUmozT1o2NVU5VWJTaVhYOTJWb2dtTVU3WTZtRDdTRDhDYkJKRjhWSFdSM3FjYzdYb2pQX2Ezd1RLNTExeHEwM2F5NmdLTkVZcEo1QnRiSF94RmE0ZHY4M2loN0pTdGl1RElKQU9XZE9yWjFJbDFIaWZ6YVJhNDM3X2s3WXI3SmdVNlh6YmNHOFZ5a3RvNHFmS1RxYlhCYVVJQVZBX0JrRGFLdU1ZSWJaRkNScnpxWQ?oc=5",
+      "published": "2026-11-04T20:59:31+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Blogs: Left-Wing Repentance",
+      "summary_original": "The Blogs: Left-Wing Repentance The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54dzN1RWQtU0tvbnpBLUstUHdTN0xVNURhVDA0LWtuQjlXUFptTGJFSWZuWUQ1ejhoR2swTkUyTzRrNW80SC00SWJGRks3c1BxZkxWSG5ReklQbHc0eTJXQXBrZw?oc=5",
+      "published": "2026-11-05T05:50:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Blogs: US Midterms. From Charybdes to Scylla?",
+      "summary_original": "The Blogs: US Midterms. From Charybdes to Scylla? The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XN1VwVVAwSWFVbXNUc2lwTHhXdGRZajByeHRxNlhWc0V1Y1NNTEVpQVVvdkxzV3h5T0dGRWU5T0dfY29GSzc5S3BudWlGREZIMmhOQWxLQ3JnMFlGV0N2LXZ2bzdEeUs0VEUwQUc1TEpBTWhkQUN1Sg?oc=5",
+      "published": "2026-11-05T05:45:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Blogs: Now I Really Am Politically Homeless",
+      "summary_original": "The Blogs: Now I Really Am Politically Homeless The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LUnpvMkk3Nl9nM3RaaG1tUnlncU5xeFJQZ3E3MDJGV3dxc0tNeW5pblJtRF9ONm91TnYtLW4wMWl1cVR4ejFBNllpcHA5eExDa09OcEotSGVBRHlvT053aVFYT3hQeEp3UkUxRUJnQ3I5STFRdXdzcg?oc=5",
+      "published": "2026-11-05T05:35:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "We Must Never Compromise Our Principles for Short-Term Political Gains",
+      "summary_original": "We Must Never Compromise Our Principles for Short-Term Political Gains The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMERqWTNSWVowNDdFOXhNOTNqbEhQX2VCbEo1WTVleGwyUjlMUFlzX0l2ay1fX0NYb0lUeDVwWFFiZ3ptM09OZmhCVU9QVG1XZVdNMGJYSlY0dzd0ZlNBNUowRU5MZG00eDQtVjhzTzdhdFA2OTNsRkFjMnJ5SkZFd0JxMU5Ccng4QVVBSkJvNHFjVTVxQzZhNHozNW1sWFp1d2phaFFn?oc=5",
+      "published": "2026-11-05T05:27:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "Why people can’t see antizionism for what it is",
+      "summary_original": "Why people can’t see antizionism for what it is The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdkdsSDJUdVMwXzViQkRGNEVKZXM5QTdWSV9lWTk0RnRFYzNHUHNGb19id0tOVmVsS2NQb2lLMFFuWUR5bTR5YmdzeTJ3LTJpSUZhMElBVjllM2hkRG84T2x6c0l5bW53dEJxWUJkN21LZElpZ0ZPSkc4SHFWdUNQY2FoQjBXUQ?oc=5",
+      "published": "2026-11-05T05:14:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Republic Has Spoken: A New American Reckoning",
+      "summary_original": "The Republic Has Spoken: A New American Reckoning The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNUNYTllwS3BOVk9seEFXVWVuRllPZWdOMUNYVllfaDhYS3lONWpJWE5VSW1hdVQ5NHVURmRISzRuNEFEOEdwOEpJUEIzbC15TUcwUm5ZUEJ2X0lfaGRvMlkzS1dVeFN5eTdZeFg2U1dnSFFoUFo1RHc4bHVGN2Nhd3gyVDQ5aXRY?oc=5",
+      "published": "2026-11-05T05:11:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Digital Condition: Falling, Exposure and the Crisis of the Common World",
+      "summary_original": "The Digital Condition: Falling, Exposure and the Crisis of the Common World The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQczAyUzlzTEZ0VlRkRXlyUzhQbzQ4akRRUTRnQlljUUVrM3lqN3F6a2xlUmdsZVlMVi1fWnNTMmUtcTFQblY1aDN4RmdGbXRaLVl1MkJlcHhJRHVPYzF6ckhVVFJUQU5ZTE1ta3UxWERJb2hhell0bF85OHEzdXd2RjhPaEFFMEVqaUNzRW9pQW1RVFdoaUNSRm9lbHA0d09Ham9XV2pYZ1EyZw?oc=5",
+      "published": "2026-11-05T05:06:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Blogs: Voices Under Pressure: Free Expression in Somaliland",
+      "summary_original": "The Blogs: Voices Under Pressure: Free Expression in Somaliland The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSlhRNDNLLVpIdmJfVm5MVEtFdEllaFpDd05MYlZoVGJkaVpveUFaQVN4Z1pMMEdJcy1GT21FUHZLekdmRnBtZ3ZlZWJGYnFFdVlfRXkxczFSZ3R5b0NWTU5leDNpNlN2RE9idUtzWUhtR3ZIWTJXUVYyaXRKbnREdDM1Q3BvUXFIZEFvUg?oc=5",
+      "published": "2026-11-05T05:02:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "'A real shake-up': Top Mossad official fired over disagreements with new chief",
+      "summary_original": "The head of Caesarea, the Mossad combat unit, will be replaced by an official considered very close to Roman Gofman, who has never served in the spy agency. The new spy chief has fired around a quarter of its management",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-11-04/ty-article/.premium/a-real-shake-up-top-mossad-official-fired-over-disagreements-with-new-chief/000001a1-a7dc-d436-a5a3-ffde22840000",
+      "published": "2026-11-05T05:08:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Herzog launches coalition talks; Eisenkot leads in endorsements to form gov't",
+      "summary_original": "Election Committee Chairman Noam Sohlberg warned that attempts to cast doubt on the results posed 'a real danger.' Police and law enforcement officials said they were unaware of Shin Bet claims involving thousands of people",
+      "url": "https://www.haaretz.com/israel-news/elections/2026-11-04/ty-article/.premium/herzog-launches-coalition-talks-eisenkot-leads-in-endorsements-to-form-govt/000001a1-a702-db8d-a9f7-a7ce86290000",
+      "published": "2026-11-05T04:47:05+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "For Texas Jews, Talarico's Senate upset offers hope against Christian nationalism",
+      "summary_original": "Jewish supporters welcomed the Democrat's message of religious tolerance after his defeat of Ken Paxton, though his criticism of Israel and support for halting offensive weapons sales left some uneasy",
+      "url": "https://www.haaretz.com/us-news/2026-11-04/ty-article-magazine/.premium/for-texas-jews-talaricos-senate-win-offers-hope-against-christian-nationalism/000001a1-a802-d2e9-a5ad-badae6c60000",
+      "published": "2026-11-05T04:36:32+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Shin Bet and IDF knew Hamas' military chief Mohammed Deif went underground hours before October 7 attack",
+      "summary_original": "The investigation found failures in intelligence analysis and decision-making, but did not attribute negligence to any specific party. The military maintains that the full picture could not have been understood that night",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-11-04/ty-article/.premium/shin-bet-and-idf-knew-hamas-military-chief-went-underground-hours-before-oct-7/000001a1-a799-d33a-a1e1-efd9865a0000",
+      "published": "2026-11-05T03:58:51+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Most American Jews voted Democratic again. So why did 2026 feel different?",
+      "summary_original": "Exit polls fail to capture the significance of the turmoil that preceded Election Day, and the complicated feelings that many Jewish voters brought to the ballot box",
+      "url": "https://www.haaretz.com/israel-news/haaretz-today/2026-11-04/ty-article/.highlight/most-american-jews-voted-democratic-again-so-why-did-2026-feel-different/000001a1-a6f2-d5c5-ade1-bfff8f700000",
+      "published": "2026-11-05T03:32:11+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Five NY Jewish leaders urge 'political partnerships' after record Arab turnout in Israel",
+      "summary_original": "An open letter shared exclusively with Haaretz, signed by Congressman-elect Brad Lander and four other Jewish officials, calls for recognizing Arab citizens' 'legitimate democratic voice' as Israeli parties negotiate a new government",
+      "url": "https://www.haaretz.com/us-news/2026-11-04/ty-article/.premium/five-ny-jewish-leaders-urge-partnerships-after-record-arab-turnout-in-israel/000001a1-a78f-d5c5-ade1-bfff32010000",
+      "published": "2026-11-05T02:46:27+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Israeli TV anchor cancels broadcast after refusing to apologize for remarks against Bedouin women voting",
+      "summary_original": "Right-wing news anchor Ayala Hasson disparaged the opposition over polygamy among Bedouin voters, prompting the Kan public broadcaster to demand she apologize on air. She refused, and said she would not film Wednesday's program",
+      "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-04/ty-article/.premium/right-wing-israeli-news-anchor-pulled-from-broadcast-over-bedouin-women-comments/000001a1-a70e-d671-adf3-bf0f392e0000",
+      "published": "2026-11-05T02:40:09+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Haredi party Shas leader Arye Dery fights to retain his seat after poor election results",
+      "summary_original": "Shas' Council of Torah Sages was set to discuss Dery's future after the party lost five Knesset seats and its leader largely disappeared from public view. He is reportedly considering resigning from the Knesset while retaining control of the party",
+      "url": "https://www.haaretz.com/israel-news/elections/2026-11-04/ty-article/.premium/haredi-party-shas-leader-fights-to-retain-his-seat-after-poor-election-results/000001a1-a6fa-da47-a5ab-a6febd8f0000",
+      "published": "2026-11-05T01:41:49+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Basketball: Micic puts up 31 points in Tel Aviv derby victory",
+      "summary_original": "Basketball: Micic puts up 31 points in Tel Aviv derby victory The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvbXNCc3pPYWZnSGM0WFNnX1UwMHh0SXhHb09pNUtnOWpSdUs0S3FSY2pwdVdDZ0Z2ZWZydlAwVHFtX3lZRk1RVThmQThsRi1Yck1SX21R?oc=5",
+      "published": "2026-11-05T05:35:02+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Shas Council of Torah Sages decides Deri will continue to lead party after request to resign",
+      "summary_original": "Shas Council of Torah Sages decides Deri will continue to lead party after request to resign The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vZXRyeml2WElQNVR6VTNFbzNZWUJRQ2V1RF9UYThDemZrU2xBYklOTWRGSWpjUlkwX3VlSmdxLUJjTnZFdjRBbjU4OVVlY2Q2d0xtMnpOYzZQX0NzTk9WR0pvQk1DUXJ1ekQ1RFpWd3NxVnNCeFRhVTVkUQ?oc=5",
+      "published": "2026-11-05T05:26:20+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "JD Vance blames Iran war, Israel ties for Republican midterm losses",
+      "summary_original": "JD Vance blames Iran war, Israel ties for Republican midterm losses The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3ZE9xTmpFbTdfaEhYd0pGS09iYXQ4ZFJCRlh4Rm5yUlJGNUxxOENzcWpoWUxFMzBiV05WYkQ5Y1lYS3pEV1JhU25BVWI2OURDd18tTTJ1d2JOMUdoOXFDQUR5QnQ?oc=5",
+      "published": "2026-11-05T05:14:56+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "First global Noahide congress brings non-Jewish Torah followers to Jerusalem",
+      "summary_original": "First global Noahide congress brings non-Jewish Torah followers to Jerusalem The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MY042UjJyXzh0QnZMeDRIQnVyMVg5ZVFjajdRSDFhNVpaclZySVA2MVJZZmcyR3BzRGc0Nnp2eTdmMjBBT0lFUjFtMnZXVkYzR2ZaamxLb0l3VVE0?oc=5",
+      "published": "2026-11-05T04:59:25+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Israel lost four elections in 10 days, what does it mean for its future?",
+      "summary_original": "Israel lost four elections in 10 days, what does it mean for its future? The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtMGFkVUZSTW9Xc2NUU1JnM19ENTluQV9RZkxXcy1IRmVBMk93OXg1SlRuUUwzRGpqeXk4Yl9JTzJsZ2RaMGNLZVluMFFvUXZ1VGlQaklWcGVnb3Ri?oc=5",
+      "published": "2026-11-05T04:51:42+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Sbarro bombing terrorist Ahlam Tamimi served with US lawsuit via X",
+      "summary_original": "Sbarro bombing terrorist Ahlam Tamimi served with US lawsuit via X The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFNU9kVGVJTUtqMERLdE9Vc1h4aHVySy1YNmRieHRXMWlxYldqR1RPaGctSFMzSWMwZnVmT1JDdFZhc2hYeVNWWFBaNk5uY3JvdkZDOC1SVlN0cEJwTHg0?oc=5",
+      "published": "2026-11-05T04:32:13+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Trump weighs firing Hegseth after midterm losses, DeSantis floated as replacement - report",
+      "summary_original": "Trump weighs firing Hegseth after midterm losses, DeSantis floated as replacement - report The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLSzg2bHNldHhJUUl5UmJnRHNjdnd4bF9IdFlxS0RPdS1ob2J0aTJySFdVSjhMczNMdll4eFVZOENEaE9fUXlXNlVrVEJGSEhxSlJGajRpRDg5MVJfQUxvRkFJbkk?oc=5",
+      "published": "2026-11-05T04:25:46+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Senior Balad activist arrested in Jaffa over alleged security offenses",
+      "summary_original": "Senior Balad activist arrested in Jaffa over alleged security offenses The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Memd2Y2FIajQ5SDMtUHR2b29BN0lMQTJ5bkt4a2NiSzhTV3hhSFc4VXQwU0FaN25RTVV0Tlo3clNqODJCa09DVHBDTEhJVExsUWtyaEdrT0ZtSHZU?oc=5",
+      "published": "2026-11-05T04:11:22+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Eisenkot vows to restore bipartisan US-Israel ties as he moves to form government",
+      "summary_original": "Eisenkot vows to restore bipartisan US-Israel ties as he moves to form government Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yaXk4eDE3UVBZUmdmNjFGZnNPcEo3SHE2S1lERmMtSURrS1pQZ09kS1ZyUllPd184SXp0ZENzVzdYX0JzUXphYU5WWkd3TnRWWUxrbHpB?oc=5",
+      "published": "2026-11-05T05:07:13+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "'These businesses must disappear': Philadelphia protest targets Jewish-owned shops ah",
+      "summary_original": "'These businesses must disappear': Philadelphia protest targets Jewish-owned shops ah Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VT0E0emRqcjJremw3WXk4S3N5UlFWUVZmSW9NSmhzbXJHelVYRDZDalVSRW1EdVVOb1dMRkxHU0JFU29LTDhGN2JYZ01Zc3htNDg4MFRRazViOWFUcGpTOW9NdG5XTzQ?oc=5",
+      "published": "2026-11-05T04:51:11+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Herzog's Dramatic Warning Letter to Netanyahu, Katz and Senior Military Officials: 'W",
+      "summary_original": "Herzog's Dramatic Warning Letter to Netanyahu, Katz and Senior Military Officials: 'W Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rbWM0OVpQYmJ1UUQtZ3JCWVRySUZJMm5kTVhHdXhBN3Q1WW5RY2l3dTh6bk5ERjNNeWd0anhOT0NLYlV6amp6OXVZYmI3dm5Md2hPeA?oc=5",
+      "published": "2026-11-05T04:50:22+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "First Jewish museum in Iraq opens in move to preserve heritage",
+      "summary_original": "First Jewish museum in Iraq opens in move to preserve heritage Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41ckgwdjViWld5NkhMRERfZjhzWFBMZGJfTzl0TVhKaG8tQ2FqSXNOMjFLOExpczVXaG1FR090ck9xSEIyWDQ3dk0xcUd5ZlJwS202b3c1VFN2cVNxLTB5LWVUZkdHRzA?oc=5",
+      "published": "2026-11-05T04:32:10+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Man Shot in Kiryat Haim, in Serious Condition",
+      "summary_original": "Man Shot in Kiryat Haim, in Serious Condition Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44VFZiUE13dFlPa2ZHX3pkM3A2alVUZ0ZrNUFXVTB2RFkwQ051NlpETHI2SjZTaWVnWldUQXVJVXVaTUpiMFhWczJuZFliT29JQkNONg?oc=5",
+      "published": "2026-11-05T04:23:20+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Netanyahu: Arab parties support terror. Only under my leadership can we confront radical Islam",
+      "summary_original": "Netanyahu: Arab parties support terror. Only under my leadership can we confront radical Islam Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQXzg0QkFEZkFETm1JUlpBc2RhX1VGY1Z6UXVPaXk5MXR0SUstY0JCd2N4c2NlMEFqeXdnN2NQcHZGQ0lOdzNBeVVOWW82VXhTX1d5Uw?oc=5",
+      "published": "2026-11-05T04:17:36+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Al-Sayyed calls for halt to US arms sales to Israel: 'Used for genocide'",
+      "summary_original": "Al-Sayyed calls for halt to US arms sales to Israel: 'Used for genocide' Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wTFIxcGN1dExIQ1VUQVNOcHk0OW85UlJsUFFXdmR4cWtyVWI5elI4dTR3cXpwMmNhZE9QMUx5SUtjWms2MWJreUNNMS1OUlNfU3kycw?oc=5",
+      "published": "2026-11-05T04:02:35+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Eisenkot Addresses 'Our Partners in the US and Around the World': 'The People Chose t",
+      "summary_original": "Eisenkot Addresses 'Our Partners in the US and Around the World': 'The People Chose t Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56YWFISFRQa2JJalE0cDBKUE9nSWR0ZS00eXcxWERoRUhDYlAzM3I1OGYwUkpBZV9uY1dObTVCTWx1YklvYlJaZjZtZl9YYm5zQXFSZA?oc=5",
+      "published": "2026-11-05T04:02:33+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Czech defense minister confirms Rafael Spyder procurement",
+      "summary_original": "The Czech Republic will add four Spyder all-in-one air defense systems to the four it procured from Israel in 2021.",
+      "url": "https://en.globes.co.il/en/article-1001562070#utm_source=RSS",
+      "published": "2026-11-05T00:05:42+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Average wage in Israel up 3.8% in September",
+      "summary_original": "The average wage for Israeli workers in September 2026 was NIS 14,515, according to initial estimates by the Central Bureau of Statistics, up 3.8% from September 2025.",
+      "url": "https://en.globes.co.il/en/article-1001562051#utm_source=RSS",
+      "published": "2026-11-04T23:04:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Israeli cybersecurity co Sentra raises $150m",
+      "summary_original": "The funds have been raised following expanding use of AI agents within organizations and the growing need to protect the data to which these agents are exposed.",
+      "url": "https://en.globes.co.il/en/article-1001562026#utm_source=RSS",
+      "published": "2026-11-04T21:59:31+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Amdocs stock slumps amid T-Mobile legal dispute",
+      "summary_original": "Amdocs shares plummeted over 40% in premarket trading on Wall Street, reaching a price level not seen in over a decade.",
+      "url": "https://en.globes.co.il/en/article-1001562018#utm_source=RSS",
+      "published": "2026-11-04T21:28:24+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Developers' finance schemes find ways around BoI restrictions",
+      "summary_original": "Gindi and Aviv Melisron launched new offers this week designed to boost sales of high-end apartments.",
+      "url": "https://en.globes.co.il/en/article-1001561999#utm_source=RSS",
+      "published": "2026-11-04T19:17:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Tnuva readies flotation at over NIS 10b valuation",
+      "summary_original": "The food company, controlled by China's Bright Food, has made several previous attempts at listing on the Tel Aviv Stock Exchange.",
+      "url": "https://en.globes.co.il/en/article-1001561990#utm_source=RSS",
+      "published": "2026-11-04T18:19:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Israir seeks to take over troubled Arkia",
+      "summary_original": "Arkia is weighed down by debt and is embroiled in a dispute between the employees and the owners.",
+      "url": "https://en.globes.co.il/en/article-1001561979#utm_source=RSS",
+      "published": "2026-11-04T17:23:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Teva again raises guidance as branded drugs lift revenue",
+      "summary_original": "Revenue in the third quarter was $4.4 billion, while analysts had predicted $4.2 billion and non-GAAP earnings per share was $0.86, well above the analysts’ consensus of $0.72.",
+      "url": "https://en.globes.co.il/en/article-1001561824#utm_source=RSS",
+      "published": "2026-11-03T22:39:00+09:00",
+      "via": "rss",
+      "state_media": false
+    }
+  ],
+  "unavailable_sources": [
+    "Kan (KAN News)",
+    "N12 (Channel 12)"
+  ],
+  "errors": {
+    "Times of Israel": [
+      "rss 실패: HTTPError: HTTP Error 403: Forbidden"
+    ]
+  }
+}
