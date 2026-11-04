@@ -1,8 +1,53 @@
 {
   "team": "fr",
   "team_name_ko": "프랑스팀",
-  "collected_at": "2026-11-04T06:13:49.025745+09:00",
+  "collected_at": "2026-11-04T09:13:12.491099+09:00",
   "headlines": [
+    {
+      "source": "France 24",
+      "title_original": "🔴 Midterms en direct : fermeture des premiers bureaux de vote, le contrôle du Congrès en jeu",
+      "summary_original": "",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20261103-en-direct-etats-unis-midterms-elections-mi-mandat-congres-gouverneurs-trump-democrates-republicains",
+      "published": "2026-11-04T08:09:13+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Sénégal : le budget rectificatif rejeté par les députés",
+      "summary_original": "Dans cette édition, direction le Sénégal, où le rejet du projet de loi de finances par l’Assemblée nationale, malgré un nouveau passage en commission des finances, n’a pas convaincu les députés du Pastef. Une décision qui pourrait compromettre l’obtention d’un prêt de plus de deux milliards de dollars du FMI. En Afrique du Sud, à quelques heures de l’ouverture des bureaux de vote, les électeurs s’",
+      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261103-s%C3%A9n%C3%A9gal-le-budget-rectificatif-rejet%C3%A9-par-les-d%C3%A9put%C3%A9s",
+      "published": "2026-11-04T07:54:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "JOJ Dakar 2026 : L’or pour le Kenya, une première olympique pour l’Afrique en rugby à 7",
+      "summary_original": "🥇 🇰🇪 Les Kényanes ont remporté le tournoi féminin de rugby à 7 en s’imposant face à l’Australie (17-12). Une première pour une nation africaine dans une compétition olympique. Une victoire historique dans la première édition des JO organisée sur le sol africain.",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261103-joj-dakar-2026-l-or-pour-le-kenya-une-premi%C3%A8re-olympique-pour-l-afrique-en-rugby-%C3%A0-7",
+      "published": "2026-11-04T07:33:17+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Ligue des champions : le PSG en démonstration, Manchester United renversant",
+      "summary_original": "Les Parisiens, doubles tenants du titre, ont plié leur match de mardi en Ligue des champions face à Villareal en moins de huit minutes avec quatre buts de quatre joueurs différents, et restent seuls en tête. Manchester United s’est imposé 3-2 grâce à un doublé de Cunha, tandis que le Barça et le Bayernont gagné et que Lille a concédé un nul à Bodoe/Glimt.",
+      "url": "https://www.france24.com/fr/sports/20261103-ligue-des-champions-le-psg-en-d%C3%A9monstration-manchester-united-renversant",
+      "published": "2026-11-04T07:25:59+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Espagne : le ministre des Transports démissionne à la suite de l'accident ferroviaire",
+      "summary_original": "Le ministre espagnol des Transports, Oscar Puente, a présenté sa démission mardi, à l'issue d'une comparution devant les députés. Une décision prise à la suite de la collision ferroviaire qui a fait près de 70 morts dans la région de Tolède, le deuxième accident d'ampleur survenu depuis le début de l'année sur le rail espagnol.",
+      "url": "https://www.france24.com/fr/europe/20261103-espagne-ministre-transports-d%C3%A9missionne-accident-ferroviaire",
+      "published": "2026-11-04T06:39:50+09:00",
+      "via": "rss",
+      "state_media": false
+    },
     {
       "source": "France 24",
       "title_original": "Midterms : Vague bleue sur le Congrès ?",
@@ -15,7 +60,7 @@
     {
       "source": "France 24",
       "title_original": "Une série de fausses alertes à la bombe perturbe une dizaine de vols en Europe",
-      "summary_original": "Le ciel européen a été perturbé mardi par une série de fausses alertes à la bombe ayant entraîné l'inspection d'avions et des opérations de déminage. En Hongrie et en Italie, des vols ont été escortés par l'armée.",
+      "summary_original": "Le ciel européen a été perturbé mardi par une série de fausses alertes à la bombe ayant entraîné l'inspection d'avions et des opérations de déminage. En Hongrie et en Italie, des vols ont été escortés par l'armée. Un paquebot a lui aussi été évacué en Grèce après une fausse alerte.",
       "url": "https://www.france24.com/fr/europe/20261103-s%C3%A9rie-fausses-alertes-bombe-perturbe-dizaine-vols-europe-royaume-uni-heathrow-italie-espagne-bulgarie-hongrie",
       "published": "2026-11-04T05:00:13+09:00",
       "via": "rss",
@@ -31,92 +76,38 @@
       "state_media": false
     },
     {
-      "source": "France 24",
-      "title_original": "JOJ Dakar 2026 : Comment circuler dans la capitale sénégalaise ?",
-      "summary_original": "🚦 À Dakar, les JOJ 2026 mettent la mobilité urbaine au défi. Entre transports publics, circulation et dispositifs spéciaux, comment se déplacer dans la capitale sénégalaise pendant les Jeux ? Un reportage de Alexandrine Holognon.",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261103-joj-dakar-2026-comment-circuler-dans-la-capitale-s%C3%A9n%C3%A9galaise",
-      "published": "2026-11-04T04:25:56+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "France 24",
-      "title_original": "Midterms 2026 : la folie des auto-collants 'I voted'",
-      "summary_original": "#EtatsUnis : c'est l'accessoire tendance en ce moment dans le pays. Après avoir voté pour les #Midterms, les Américains arborent fièrement un sticker montrant leur participation à ces élections de mi-mandat. Notre journaliste Valentin Cacheux est parti à la rencontre de certains d'entre eux, à #Detroit, dans le Michigan. #Midterms2026 #IVoted",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261103-midterms-2026-la-folie-des-auto-collants-i-voted",
-      "published": "2026-11-04T04:15:31+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "France 24",
-      "title_original": "Sarah El Haïry (Modem) : \"Les extrêmes alimentent des comportements violents\"",
-      "summary_original": "La mobilisation lycéenne, tout en étant moins suivie, se poursuit. Pour Sarah El Haïry, haute-commissaire à l’Enfance, \"il faut mettre en œuvre les annonces faites aux lycéens\". La vice-présidente du Mouvement démocrate estime que \"la jeunesse exprime une angoisse\". Après l’attentat raciste de Trappes, les tensions politiques et sociales ont été ravivées. Une poussée qu'elle attribue en partie aux",
-      "url": "https://www.france24.com/fr/%C3%A9missions/mardi-politique/20261103-sarah-el-ha%C3%AFry-modem-extr%C3%AAmes-alimentent-comportements-violents-haute-commissaire-enfance",
-      "published": "2026-11-04T03:54:27+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "France 24",
-      "title_original": "🔴 Midterms en direct : les Américains aux urnes, le contrôle du Congrès en jeu",
-      "summary_original": "",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20261103-en-direct-etats-unis-midterms-elections-mi-mandat-congres-gouverneurs-trump-democrates-republicains",
-      "published": "2026-11-04T03:41:21+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "France 24",
-      "title_original": "Prix Goncourt 2026 : Philippe Jaenada récompensé pour « L'inconnue du quai de Javel »",
-      "summary_original": "Le prix Goncourt 2026 a été attribué à Philippe Jaenada pour « L'inconnue du quai de Javel » (Flammarion). Dans ce roman, l'écrivain français mène une enquête sur un meurtre non élucidé, celui de Louise Cansot, modèle des peintres de Montparnasse, retrouvée morte dans l'ouest parisien.",
-      "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261103-prix-goncourt-2026-philippe-jaenada-r%C3%A9compens%C3%A9-pour-l-inconnue-du-quai-de-javel",
-      "published": "2026-11-04T03:39:22+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
       "source": "franceinfo (France 2)",
-      "title_original": "\"Le père de Pengo Bossio Wangi n'a toujours pas reçu de condoléances du président de la République\" : Zineb Alami, avocate de Bolema Bossio Wangi",
-      "summary_original": "Zineb Alami, l'avocate de Bolema Bossio Wangi, le père de Pengo Bossio Wangi, mort à Trappes lors de l'attentat raciste du 23 octobre, est l'invitée de l'émission du 3 novembre de \"C Ce Soir\". Elle dénonce le fait que ce dernier n'a pas reçu de condoléances ni du Président, ni d'un membre du gouvernement. Selon nos informations, l’Élysée n’a pas contacté le père de Pengo Bossio Wangi et ne souhait",
-      "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/le-pere-de-pengo-bossio-wangi-n-a-toujours-pas-recu-de-condoleances-du-president-de-la-republique-zineb-alami-avocate-de-bolema-bossio-wangi_8266439.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-04T06:07:32+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "franceinfo (France 2)",
-      "title_original": "Attentat raciste dans les Yvelines : le suspect Kevin Tessier a tenté de se suicider en détention",
-      "summary_original": "L'homme de 39 ans a tenté de mettre fin à ses jours lundi après-midi, il a été hospitalisé plusieurs heures avant de réintégrer la prison, selon les informations de franceinfo.",
-      "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-dans-les-yvelines-le-suspect-kevin-tessier-a-tente-de-se-suicider-en-detention_8266586.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-04T06:07:03+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "franceinfo (France 2)",
-      "title_original": "L'émission satirique \"Groland\" prendra fin le 12 décembre après 34 ans de diffusion",
-      "summary_original": "\"Groland a marqué durablement l'histoire de Canal+ et du paysage audiovisuel français\", a salué la chaîne au sujet de l'émission, vue comme une survivance de \"l'esprit Canal\".",
-      "url": "https://www.franceinfo.fr/economie/medias/l-emission-satirique-groland-prendra-fin-le-12-decembre-apres-34-ans-de-diffusion_8266403.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-04T05:45:44+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "franceinfo (France 2)",
-      "title_original": "\"Si j'ai pu vivre ce rêve, c'est grâce à vous\"... Les adieux émouvants de Gaël Monfils au public français et au tennis en marge du Masters 1000 de Paris",
-      "summary_original": "Le néo-retraité a pris la parole, mardi soir, entre les deux matchs programmés en soirée du Masters 1000 de Paris. Il a tenu à remercier toutes les personnes croisées dans sa carrière ainsi que le public, et a dédié ce moment à sa petite fille Skaï.",
-      "url": "https://www.franceinfo.fr/sports/tennis/gael-monfils/video-si-j-ai-pu-vivre-ce-reve-c-est-grace-a-vous-les-adieux-emouvants-de-gael-monfils-au-public-francais-et-au-tennis-en-marge-du-masters-1000-de-paris_8266532.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-04T05:30:43+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "franceinfo (France 2)",
-      "title_original": "Midterms 2026 : suivez les résultats des élections de mi-mandat, cruciales pour Donald Trump, et les premières réactions",
-      "summary_original": "Près de 250 millions d'électeurs américains sont appelés aux urnes dans ce qui s'apparente à un référendum pour ou contre la poursuite de l'action du président Donald Trump.",
+      "title_original": "Les bureaux de vote commencent à fermer aux Etats-Unis, suivez les midterms 2026 avec nous",
+      "summary_original": "Près de 250 millions d'électeurs américains sont appelés aux urnes dans ces élections de mi-mandat qui s'apparentent à un référendum pour ou contre la poursuite de l'action du président Donald Trump.",
       "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-suivez-les-resultats-des-elections-de-mi-mandat-cruciales-pour-donald-trump-et-les-premieres-reactions_8265464.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-04T05:10:46+09:00",
+      "published": "2026-11-04T09:01:29+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "La Corée du Nord promet une \"riposte\" plus forte face à \"la politique hostile\" des États-Unis",
+      "summary_original": "L'influente sœur du dirigeant Kim Jong-un a laissé entendre que Pyongyang voyait peu d'intérêt à reprendre la voie diplomatique avec les Etats-Unis.",
+      "url": "https://www.franceinfo.fr/monde/coree-du-nord/la-coree-du-nord-promet-une-riposte-plus-forte-face-a-la-politique-hostile-des-etats-unis_8266652.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-04T08:16:56+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "Des associations et syndicats de sept pays européens appellent à manifester contre la vie chère les 20, 21 et 22 novembre",
+      "summary_original": "Leurs principales revendications de ces associations et syndicats concernent une \"garantie du droit au logement\" et \"le contrôle des prix du logement, de l'alimentation et de l'énergie\".",
+      "url": "https://www.franceinfo.fr/societe/manifestations/des-associations-et-syndicats-de-sept-pays-europeens-appellent-a-manifester-contre-la-vie-chere-les-20-21-et-22-novembre_8266649.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-04T07:54:33+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "Bienvenue à \"Molaire City\", la ville mexicaine qui a fait du soin dentaire à moindre coût un business pour les Américains",
+      "summary_original": "Parmi les thèmes centraux de la campagne électorale américaine figure la santé. Et quand la note du dentiste est trop salée, certains Américains traversent la frontière pour se faire soigner au Mexique, à Los Algodones, où il y a tellement de cabinets dentaires qu’on a surnommé la ville \"Molaire City\".",
+      "url": "https://www.franceinfo.fr/monde/ameriques/pour-quatre-couronnes-achetees-deux-offertes-visite-de-molaire-city-la-ville-mexicaine-qui-a-fait-du-soin-dentaire-a-moindre-cout-pour-les-americains-un-business_8266604.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-04T07:34:52+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -125,26 +116,98 @@
       "title_original": "À Marseille, un marin-pompier raconte comment son camion a été pris d'assaut",
       "summary_original": "Un mois après l'incendie d'un camion de pompiers en marge d'une manifestation lycéenne à Marseille, un marin-pompier revient sur cette scène d'une rare violence. À 29 ans, Jean témoigne des conséquences de cette agression sur son quotidien et dénonce des violences qui compliquent la mission des secours.",
       "url": "https://www.franceinfo.fr/faits-divers/a-marseille-un-marin-pompier-raconte-comment-son-camion-a-ete-pris-d-assaut_8266499.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-04T05:04:09+09:00",
+      "published": "2026-11-04T07:32:15+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "franceinfo (France 2)",
-      "title_original": "Mobilisation lycéenne : 37 agents de l'Education nationale ont été blessés depuis lundi, annonce Edouard Geffray",
-      "summary_original": "Le proviseur d'un lycée à Lormont, près de Bordeaux, a notamment déposé plainte après avoir été poussé à terre par un élève lors d'une tentative de blocage de l'établissement.",
-      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-les-organisations-de-jeunesse-appellent-a-une-nouvelle-journee-de-blocages-massifs-des-facs-et-des-lycees-avant-la-greve-de-jeudi_8265284.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-04T05:02:11+09:00",
+      "title_original": "\"Je ne peux rien dire d'autre que c'est joyeux, ça fait plaisir\", réagit Philippe Jaenada, lauréat du prix Goncourt pour \"L'Inconnue du quai de Javel\", sur France 2",
+      "summary_original": "Lauréat du prix Goncourt 2026 pour son treizième roman, Philippe Jaenada était l'invité du 20 heures de France 2. L'écrivain est revenu sur cette récompense et sur son enquête consacrée au meurtre de Louise Cansot, une jeune Bretonne assassinée à Paris en 1949.",
+      "url": "https://www.franceinfo.fr/culture/je-ne-peux-rien-dire-d-autre-que-c-est-joyeux-ca-fait-plaisir-philippe-jaenada-auteur-de-l-inconnue-du-quai-de-javel-reagit-a-son-prix-goncourt-2026_8266622.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-04T07:26:30+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "franceinfo (France 2)",
-      "title_original": "Ligue des champions : le PSG mène désormais 5-0, le score toujours vierge pour Lille à Bodo/Glimt... Suivez avec nous les matchs du soir",
-      "summary_original": "Après les succès contre le Slovan Bratislava, Manchester City et le FC Barcelone, les joueurs de Luis Enrique vont tenter de rester en tête de la phase de ligue.",
-      "url": "https://www.franceinfo.fr/sports/directs/direct-ligue-des-champions-villarreal-psg-bodo-glimt-lille-suivez-la-quatrieme-journee-de-la-phase-de-ligue-avec-nous_8264123.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-04T04:59:14+09:00",
+      "title_original": "\"Une question de dignité\" : le ministre espagnol des Transports présente sa démission après la collision meurtrière entre deux trains",
+      "summary_original": "\"Un ministre des Transports d'un pays comme l'Espagne ne peut pas rester en fonction après deux accidents d'une telle gravité en moins d'un an\", a dit Oscar Puente, en référence à l'accident au sud de Madrid, fin octobre, et à celui en Andalousie, en janvier.",
+      "url": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/une-question-de-dignite-le-ministre-espagnol-des-transports-presente-sa-demission-apres-la-collision-meurtriere-entre-deux-trains_8266619.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-04T07:18:01+09:00",
       "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "Lille ramène un triste match nul de Bodo/Glimt et inscrit son premier point en Ligue des champions",
+      "summary_original": "Après trois défaites de rang, les Dogues ont mis fin à l'hémorragie mardi en Norvège, à défaut de mieux.",
+      "url": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/lille-ramene-un-triste-match-nul-de-bodo-glimt-et-inscrit-son-premier-point-en-ligue-des-champions_8266607.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-04T07:08:38+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Narcotrafic : la corruption jusqu'en prison",
+      "summary_original": "Narcotrafic : la corruption jusqu'en prison TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQVJTSHJOVjFON29uRkRIaWZhZWJfRDVlYXhfS1FjdHl1ZDY0QlNHNGdNN0EyM1BMRnVuSVNDa1l3anNINzQ0Q1pKYzhoUUxKdjZSOWwxendIVU85YmpOQWRZSThBVkxSSldka3l6U3BKNjZJZlJxNnNOTzBIY2k2cUNhbGxxRGhYaEIwUU9PdGpVZ0dwaG4xRFNudzJvTE0wQk9ZcWJoRUJLa3QtNnZ3RDR2bnhsOGtT?oc=5",
+      "published": "2026-11-04T09:05:14+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Violent braquage : une entreprise de joaillerie vidée de son or",
+      "summary_original": "Violent braquage : une entreprise de joaillerie vidée de son or TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONmpqZFZwUGhuemZaVmJuVDR5SmpncEFiY1RRcjhUbUhJQ3hoZUJmckdpVGs3MFVwTS1BclNXOFBRZUdKbkd3d3REcmVjSkJ6M2xRUTlJTVE1VTd0UmVQWWpEZlJpaVotZUxYcjBwOTZPZFFrWG5wcXFmUnZ2ZzZ1ejRsV3BPUk56S1VwVUNMak5ScUs0Z2t5b3lxeWZPQjF6dGQ1Q2hhS2RBY19WckVrMnBSZDBPZkNaX2lzMFdleXp5NjBBd1FjdDBCTkM4a19Jc1RJ?oc=5",
+      "published": "2026-11-04T08:40:15+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Séquestration à Nice : garde à vue de la suspecte prolongée",
+      "summary_original": "Séquestration à Nice : garde à vue de la suspecte prolongée TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1V5azBWcDFwTUpxY29XUEFCVFhpOFNDamcxam5KTnNVZ2JZYzdCNFlaWHJlQ2FQaTRJeXljU3N3eWRvRUdvejJ3RFlYSzB6dU9vTDdZMEdWdUFMU2ZwTEVZandTRVU5d09Sck04UUtJTkFZTVFYeWRTSVl4cm41aEs0YnZld1NaRG4zaDY5a2RHdmxOU2ZlSzdCU2NQTDhrXzUxUVllbHZtWF9rVXAtUXRPS1J2YlVNZUpDZ01JMWs2T0dTTFJaTVdfUWxMdw?oc=5",
+      "published": "2026-11-04T08:40:14+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Espagne : le ministre des Transports démissionne après deux catastrophes ferroviaires majeures en moins d'un an",
+      "summary_original": "Espagne : le ministre des Transports démissionne après deux catastrophes ferroviaires majeures en moins d'un an TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVVp1MXRMLVo2LWs3cG94dW1YMXBsLWN1dzc2M2NNSEZqenpmSHRXUDZ0ZFpSTGFRX0x0aHpZZUxGUUFCRHllWU41WDB2V25UNXFhVUlSN25IcHAyWUFHUnF1R1hwaVpyS19Mc2pHNG4yZDd3N2t2VFFKNWJBdjFUVWRtc18xQTN2MnJGSDg4dkk3ZnZSeGJoMzdpVnJwaUxpTnlmbW5rTXVtYXlkN1ZPR2l4MTVUVzVqb21DM3lqTnNBQV9vMFdMLVVKMk9sNjFVb04waVRpVEZPSEgtejBXNmZIZ0xIWWg2ZkR3dw?oc=5",
+      "published": "2026-11-04T06:58:45+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "24h Pujadas du mardi 3 novembre 2026",
+      "summary_original": "24h Pujadas du mardi 3 novembre 2026 TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONExMa2tKdzRUR2dQSjJtd09PU2p5U0Rzclh1SzNxU0dWc05mSWJiNDBJSHl0dDZLd2t4SWN6S2lLY1FMMWtfN3daRE1walhBd3ZYZ2lTaUlrWmFERjh4VW9CMGZJRXZJRXA1aUd0WXl3cVA3WHZ0dG5WZ01hbFBfeFpzejNBdEdYUkdHemJlSTh5amgyeS1NWHJ6V0o?oc=5",
+      "published": "2026-11-04T06:25:12+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Pompier blessé par balle dans les Bouches-du-Rhône : le suspect mis en examen et écroué",
+      "summary_original": "Pompier blessé par balle dans les Bouches-du-Rhône : le suspect mis en examen et écroué TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRFpwQU4tb2NKcGFOc3puUGo5Q1A5cGt1UVI3YllCSVNiTFJKT1NpUTg5UEd0RFdWU1FMWVI2WXZKdGlHUmdmRG02Y0dhNGQ4anNrMHJkUjA1VThuMm8yTlBHQ25mdURxMmt1a0xycHJlQ3VmNkkxeEktYWZQMkVtZm9FbGJnU2UwUFpKX3VJRlNMZmMwXzdhN0xhb2xadGY3VWx0WE9TZTYwY1dfMWYwbDh6ZWlYbXpzY0dDNWhzR3plOEZhTW9CZjhjT0l6MnZoUldBcHQxRmx2dw?oc=5",
+      "published": "2026-11-04T06:18:58+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Route du Rhum 2026 : tenant du titre, Charles Caudrelier contraint à l'abandon à son tour",
+      "summary_original": "Route du Rhum 2026 : tenant du titre, Charles Caudrelier contraint à l'abandon à son tour TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUjRDdVZSLVVuQmJCOFQ0SVRzaWJHczBJaXc3eEdJamE1dG1VSXFNcmRBMkxfbEdNR3FYZVJSY19GSzZYMFBvMHVXU0NUZ0J4cVYzX0hIclllSmQ1TUxXQnJKcGpwNHh4QzlVT1VPaEV0dll2N3dZRGlPVndqOS1vRFl6ZDVINFhSYmlFc0dmaXROb19FYzhXWlJrcHg3OTVYa0dmM1A5SmVYUnZ4TGI2b3VCQVV5RzJxMjc3TTJyNHRESDJGRDZv?oc=5",
+      "published": "2026-11-04T06:15:18+09:00",
+      "via": "google_news",
       "state_media": false
     },
     {
@@ -157,144 +220,126 @@
       "state_media": false
     },
     {
-      "source": "TF1 Info",
-      "title_original": "Votre stylo 4 couleurs possède toujours une petite boule sur son extrémité... mais savez-vous quelle était sa fonction à l'origine",
-      "summary_original": "Votre stylo 4 couleurs possède toujours une petite boule sur son extrémité... mais savez-vous quelle était sa fonction à l'origine TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaEJ0TEFpT0RNbHBzNVZFbnEtd1VqdV9RZ1h1RkgtdktqeGZVQmx5RG9iSFM3SW1qeTEwYTBBZTdyNDY2MmxJU2xLSWpGTFZ4QURHZFE2TUhrdlVBTHNHSlZZTXQxaWFDSWh4S0lPNTZyZ2xuZjdGYzJKLTVDMld5RjFTaTBRcHRMaUNoNTA0eDBiOE1mMkEtR2JMZUtWRjdmZU9vb2J2OEJWaHI0RVVHb3ZmY1NSRDVFNS1jVmk5OV9ieTYzNVhBU0JXNHJxT1FfcmdNeDlYemxqSFNrbndwa3k5X01jV3pGN1E3SzFiVzl4b2RWWnhHYjJaNHVadw?oc=5",
-      "published": "2026-11-04T06:00:22+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "\"T'es vraiment passé à rien !\" : cet élève de la \"Star Academy\" a échappé \"d'un point\" aux nominations",
-      "summary_original": "\"T'es vraiment passé à rien !\" : cet élève de la \"Star Academy\" a échappé \"d'un point\" aux nominations TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRTRsU1hwT3VJSVNJY1AyUDRMOXQ5R25JUTZTRVJYc2x4anVtTTdPRDA4dDZtM3JOVl9KZGFtZkt1eEJWbkR3WE5UbVJydlc4Y08xd1pBMGRNUHhCd1FFd2VhOVlSeEhLN09VVmZaVG5CRWlHZzNfblRTRVV6ZHZFVEZpcllVeE42V3E3YjgySTEzTjFScmhSWnFzNFpFeDVZNFVsS0I5LVp0UVJLbnVEMWsydUtUSGp5SG4wV1BENDU0OHc2WHBxQllzSUl2VEFnWmpLSHQ3OGhKenRjd1NEZ1Zqcmo1dWs?oc=5",
-      "published": "2026-11-04T05:52:39+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "Séquestration à Nice : garde à vue de la suspecte prolongée",
-      "summary_original": "Séquestration à Nice : garde à vue de la suspecte prolongée TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1V5azBWcDFwTUpxY29XUEFCVFhpOFNDamcxam5KTnNVZ2JZYzdCNFlaWHJlQ2FQaTRJeXljU3N3eWRvRUdvejJ3RFlYSzB6dU9vTDdZMEdWdUFMU2ZwTEVZandTRVU5d09Sck04UUtJTkFZTVFYeWRTSVl4cm41aEs0YnZld1NaRG4zaDY5a2RHdmxOU2ZlSzdCU2NQTDhrXzUxUVllbHZtWF9rVXAtUXRPS1J2YlVNZUpDZ01JMWs2T0dTTFJaTVdfUWxMdw?oc=5",
-      "published": "2026-11-04T05:10:12+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "Violent braquage : une entreprise de joaillerie vidée de son or",
-      "summary_original": "Violent braquage : une entreprise de joaillerie vidée de son or TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONmpqZFZwUGhuemZaVmJuVDR5SmpncEFiY1RRcjhUbUhJQ3hoZUJmckdpVGs3MFVwTS1BclNXOFBRZUdKbkd3d3REcmVjSkJ6M2xRUTlJTVE1VTd0UmVQWWpEZlJpaVotZUxYcjBwOTZPZFFrWG5wcXFmUnZ2ZzZ1ejRsV3BPUk56S1VwVUNMak5ScUs0Z2t5b3lxeWZPQjF6dGQ1Q2hhS2RBY19WckVrMnBSZDBPZkNaX2lzMFdleXp5NjBBd1FjdDBCTkM4a19Jc1RJ?oc=5",
-      "published": "2026-11-04T05:05:11+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "LCI Direct du mardi 3 novembre 2026",
-      "summary_original": "LCI Direct du mardi 3 novembre 2026 TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUFpFMTZTTGRualBfaVhEdkZuUXRGNGhBRHRvdlFCdTdiM0FjblNrSjN2cU9URk16b3UzYzBFZVA1WkRlTTEwTUhFRVRaRklaVnFpR29DTG1senZYRmRRd3ZFcmVZR1F1VHdiWUhBX0xqMmlDazAzWU42QUpKM0UtN2dxa3NZUnJkY3BqeDRmOHhIeHpDcmhPaGVsbw?oc=5",
-      "published": "2026-11-04T04:48:32+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "Dans \"Les Dossiers\" de Gaspard G, Bruno Retailleau explique pourquoi il ne veut pas s'allier avec Marine Le Pen",
-      "summary_original": "Dans \"Les Dossiers\" de Gaspard G, Bruno Retailleau explique pourquoi il ne veut pas s'allier avec Marine Le Pen TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQd2xkRTlqUjRYWHNkWDQweVV2MmpNd1d5TE9FV01XMGhJSWVqQzkyb041MTYyUVdyQjdPUmVVNnM3WHRORm9QWWVhM2Zwc2ozZmFfRXV6cFRPZzdzTDU1bXpFd29pZHFfdkE1R2djMW4xaU5nWHRhS1pqcGk2cm5xQ2wzN09YREhORnBKM3NsTkVEY3RQVnJNT2ViMzNENjhmVEx5X2hIaEN6SUhEc3o2WGVLV0NoMWZRNmI4NENFckJwUXJvdUlnQW1EbWJWYzNUV29SRlA5S01QclVDb3YyNkc2X1YxOFNDeHo5TzA4SlM3OVhXUjB3eDFpRjRYOTJ3SWhhOWlXbmZQNDQ?oc=5",
-      "published": "2026-11-04T03:50:23+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "Prendre ce type de médicament n'aura aucun effet sur l'infection : pourquoi il ne faut surtout pas prendre d'antibiotiques en cas de rhume selon un médecin",
-      "summary_original": "Prendre ce type de médicament n'aura aucun effet sur l'infection : pourquoi il ne faut surtout pas prendre d'antibiotiques en cas de rhume selon un médecin TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPa2k0TVdxdVdQWFNqOHJ1MDFheHV3TGxtZVVuMzVablNubFp6dnp5SXFHVm9IZ1lENzdZTkhCV3BaTm4yaHVySmlid2paZDJPQkNZTGVqLVZMajJSaHM1WFNQOGJjSnc3eWpMNlY2YUxBdUwzNjdMT3hoRGswbVp4WlBIQmxfOG1wWTNHdXFtclZiX0RxcHY4OENjeXhyTVQyQkJIc09VOFVIME02Z3FGQ3MtUHBoU0wtNUxwQktKWHdjTGV0Y0tKY1M2YzFJUVJQWko4VERKVmFQMml3bHY2cFhEZVdNVUgyQmxveVRYcDdSYTlMMnJRZW9Tc2ctemRQN2NsTjUtbVk4VzRiMXJ2LWYwcnFEbWNRZnNOT2lMX0Y?oc=5",
-      "published": "2026-11-04T03:30:07+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
       "source": "BFMTV",
-      "title_original": "\"Je n’ai jamais été dans le bloc central\", assure Bruno Retailleau, président des Républicains et candidat à l’élection présidentielle, qui dit vouloir \"assumer une rupture\"",
-      "summary_original": "Ce mardi 3 novembre, BFMTV a organisé sa première soirée événement 2027 présentée par Apolline de Malherbe et Maxime Switek : « Vous Président ». Leur premier invité était Bruno Retailleau, président des Républicains et candidat à l’élection présidentielle. L’émission est consacrée à la personnalité du candidat, à sa vision de la fonction présidentielle et à son projet pour la France. En seconde p",
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-je-n-ai-jamais-ete-dans-le-bloc-central-assure-bruno-retailleau-president-des-republicains-et-candidat-a-l-election-presidentielle-qui-dit-vouloir-assumer-une-rupture_VN-202611030943.html",
-      "published": "2026-11-04T06:06:57+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BFMTV",
-      "title_original": "Le Syndicat de la magistrature \"outrepasse ses droits\", estime Bruno Retailleau, candidat LR à la présidentielle",
-      "summary_original": "Ce mardi 3 novembre, BFMTV a organisé sa première soirée événement 2027 présentée par Apolline de Malherbe et Maxime Switek : « Vous Président ». Leur premier invité était Bruno Retailleau, président des Républicains et candidat à l’élection présidentielle. L’émission est consacrée à la personnalité du candidat, à sa vision de la fonction présidentielle et à son projet pour la France. En seconde p",
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-le-syndicat-de-la-magistrature-outrepasse-ses-droits-estime-bruno-retailleau-candidat-lr-a-la-presidentielle_VN-202611030942.html",
-      "published": "2026-11-04T06:05:24+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BFMTV",
-      "title_original": "DIRECT. Midterms 2026: de premiers bureaux de vote vont bientôt fermer, suivez les résultats des élections américaines",
+      "title_original": "Midterms 2026: qui est James Talarico, le démocrate qui rêve de faire basculer le Texas?",
       "summary_original": "Les démocrates reprendront-ils le contrôle du Congrès aux républicains? Telle est le principal enjeu de ces élections de mi-mandat pour lesquelles près de 250 millions d'électeurs américains étaient appelés aux urnes ce mardi 3 novembre. Donald Trump a jugé lundi que les législatives aux États-Unis étaient les plus importantes \"de notre vie\", dans une ultime tentative de mobiliser ses partisans av",
-      "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/direct-midterms-2026-de-premiers-bureaux-de-vote-vont-bientot-fermer-suivez-les-resultats-des-elections-americaines_LN-202611030940.html",
-      "published": "2026-11-04T06:04:02+09:00",
+      "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-midterms-2026-qui-est-james-talarico-le-democrate-qui-reve-de-faire-basculer-le-texas_VN-202611040063.html",
+      "published": "2026-11-04T09:08:49+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "\"Nous sommes français et ça ne changera jamais\": le message fort de Thierry Henry sur l'attentat raciste de Trappes à la TV américaine",
-      "summary_original": "Consultant sur CBS, Thierry Henry a pris la parole sur l'attentat raciste de Trappes et La Verrière (Yvelines) en marge de la soirée de Ligue des champions, ce mardi. L'ancien attaquant de l'équipe de France a souhaité partager son indignation et son émotion.",
-      "url": "https://rmcsport.bfmtv.com/football/nous-sommes-francais-et-ca-ne-changera-jamais-le-message-fort-de-thierry-henry-sur-l-attentat-raciste-de-trappes-a-la-tv-americaine_AV-202611030937.html",
-      "published": "2026-11-04T06:02:18+09:00",
+      "title_original": "Midterms dans le Michigan: Abdul El-Sayed, premier sénateur américain musulman?",
+      "summary_original": "Haley Stevens a décidé d'apporter son soutien au républicain Mike Rogers dans la course au Sénat de cet état crucial des élections de mi-mandat 2026. Un pied de nez au candidat démocrate désigné qui l'avait battu en août, Abdul El-Sayed, avec qui les divergences n'ont jamais cessé de grandir.",
+      "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-midterms-dans-le-michigan-abdul-el-sayed-premier-senateur-americain-musulman_VN-202611031032.html",
+      "published": "2026-11-04T08:44:23+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Europe: \"La loi européenne ne peut être supérieure à la loi nationale\", affirme Bruno Retailleau, président des Républicains et candidat à la présidentielle",
+      "title_original": "Élections de mi-mandat aux États-Unis: le pouvoir d'achat et l'inflation au cœur des préoccupations des électeurs américains",
+      "summary_original": "Les démocrates reprendront-ils le contrôle du Congrès aux républicains? Telle est le principal enjeu de ces élections de mi-mandat pour lesquelles près de 250 millions d'électeurs américains étaient appelés aux urnes ce mardi 3 novembre. Donald Trump a jugé lundi que les législatives aux États-Unis étaient les plus importantes \"de notre vie\", dans une ultime tentative de mobiliser ses partisans av",
+      "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-elections-de-mi-mandat-aux-etats-unis-le-pouvoir-d-achat-et-l-inflation-au-c-ur-des-preoccupations-des-electeurs-americains_VN-202611031031.html",
+      "published": "2026-11-04T08:42:59+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Midterms 2026: les agriculteurs du Kansas vont-ils lâcher Donald Trump?",
+      "summary_original": "Au Kansas, les sondages laissent aux démocrates l'espoir de gagner un siège de sénateur grâce au pasteur d'une méga-église, Adam Hamilton, qui fait trembler le sortant républicain Roger Marshall.",
+      "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-midterms-2026-les-agriculteurs-du-kansas-vont-ils-lacher-donald-trump_VN-202611031024.html",
+      "published": "2026-11-04T08:31:15+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Pouvoir d'achat, écologie et État régalien: Bruno Retailleau propose trois débats à David Lisnard, Gabriel Attal et Édouard Philippe",
+      "summary_original": "Sur le plateau de BFMTV ce mardi 3 novembre, Bruno Retailleau a appelé à une primaire pour départager les candidats de la droite et du centre à la présidentielle mais, avant cela, à l'organisation de trois débats pour mettre en lumière \"leurs différences\".",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/pouvoir-d-achat-ecologie-et-etat-regalien-bruno-retailleau-propose-trois-debats-a-david-lisnard-gabriel-attal-et-edouard-philippe_AV-202611031023.html",
+      "published": "2026-11-04T08:30:50+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "\"J'ai du mal à voir comment vous allez incarner un renouveau\", explique Anthonin à Bruno Retailleau",
       "summary_original": "Ce mardi 3 novembre, BFMTV a organisé sa première soirée événement 2027 présentée par Apolline de Malherbe et Maxime Switek : « Vous Président ». Leur premier invité était Bruno Retailleau, président des Républicains et candidat à l’élection présidentielle. L’émission est consacrée à la personnalité du candidat, à sa vision de la fonction présidentielle et à son projet pour la France. En seconde p",
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-europe-la-loi-europeenne-ne-peut-etre-superieure-a-la-loi-nationale-affirme-bruno-retailleau-president-des-republicains-et-candidat-a-la-presidentielle_VN-202611030938.html",
-      "published": "2026-11-04T06:00:31+09:00",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-j-ai-du-mal-a-voir-comment-vous-allez-incarner-un-renouveau-explique-anthonin-a-bruno-retailleau_VN-202611031021.html",
+      "published": "2026-11-04T08:21:56+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "\"Je veux rétablir le régime du général de Gaulle\", assure Bruno Retailleau, candidat LR à la présidentielle",
+      "title_original": "Bruno Retailleau ne dissoudra pas le parti d'Éric Zemmour, Reconquête",
       "summary_original": "Ce mardi 3 novembre, BFMTV a organisé sa première soirée événement 2027 présentée par Apolline de Malherbe et Maxime Switek : « Vous Président ». Leur premier invité était Bruno Retailleau, président des Républicains et candidat à l’élection présidentielle. L’émission est consacrée à la personnalité du candidat, à sa vision de la fonction présidentielle et à son projet pour la France. En seconde p",
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-je-veux-retablir-le-regime-du-general-de-gaulle-assure-bruno-retailleau-candidat-lr-a-la-presidentielle_VN-202611030935.html",
-      "published": "2026-11-04T05:57:35+09:00",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-bruno-retailleau-ne-dissoudra-pas-le-parti-d-eric-zemmour-reconquete_VN-202611031019.html",
+      "published": "2026-11-04T08:15:43+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Esteban Ocon définitivement écarté par Haas, la fin de son aventure en F1 ?",
-      "summary_original": "Dans un communiqué publié ce mardi soir, Haas a confirmé qu'Esteban Ocon, écarté pour le Grand Prix du Mexique le week-end dernier, ne prendra plus le départ avec l'écurie jusqu'à la fin de la saison. Le Brésilien Rafael Câmara sera associé à Ollie Bearman dès le GP du Brésil le week-end prochain.",
-      "url": "https://rmcsport.bfmtv.com/auto-moto/f1/esteban-ocon-definitivement-ecarte-par-haas-la-fin-de-son-aventure-en-f1_AV-202611030931.html",
-      "published": "2026-11-04T05:49:28+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BFMTV",
-      "title_original": "Présidentielle 2027: \"Ce que je veux, c’est l’État de droit\", martèle Bruno Retailleau, président des Républicains et candidat à l’Élysée",
+      "title_original": "Bruno Retailleau propose trois débats à Gabriel Attal, Édouard Philippe et David Lisnard",
       "summary_original": "Ce mardi 3 novembre, BFMTV a organisé sa première soirée événement 2027 présentée par Apolline de Malherbe et Maxime Switek : « Vous Président ». Leur premier invité était Bruno Retailleau, président des Républicains et candidat à l’élection présidentielle. L’émission est consacrée à la personnalité du candidat, à sa vision de la fonction présidentielle et à son projet pour la France. En seconde p",
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-ce-que-je-veux-c-est-l-etat-de-droit-martele-bruno-retailleau-president-des-republicains-et-candidat-a-l-elysee_VN-202611030932.html",
-      "published": "2026-11-04T05:49:22+09:00",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-bruno-retailleau-propose-trois-debats-a-gabriel-attal-edouard-philippe-et-david-lisnard_VN-202611031018.html",
+      "published": "2026-11-04T08:13:09+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Le Monde",
-      "title_original": "EN DIRECT, midterms 2026 : du Texas à la Californie, suivez les élections de mi-mandat en direct",
-      "summary_original": "Les bureaux de vote sont ouverts dans tout le pays. Déjà plus de 58 millions d’Américains ont voté par anticipation ; il s’agit d’un record pour des élections de mi-mandat, qui pourraient cette fois-ci voir les démocrates prendre le contrôle de la Chambre des représentants, voire du Sénat, et compromettre la fin du mandat de Donald Trump.",
+      "title_original": "Devant la commission d’enquête sur le 17 octobre, Laurent Nuñez reconnaît « un échec »",
+      "summary_original": "Interrogé à l’Assemblée nationale, mardi 3 novembre, le ministre de l’intérieur a regretté un « défaut d’anticipation » des forces de l’ordre « lié à la simultanéité des événements » lors des violences du 17 octobre.",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/04/devant-la-commission-d-enquete-sur-le-17-octobre-laurent-nunez-reconnait-un-echec_6805735_823448.html",
+      "published": "2026-11-04T08:06:29+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Ligue des champions : le résumé du festival offensif du PSG face à Villarreal et du match nul frustrant de Lille face à Bodo Glimt",
+      "summary_original": "Les Parisiens, qui ont déroulé, mardi, face à Villarreal (6-0), poursuivent leur sans-faute en Ligue des champions. Les Lillois, eux, ont été tenus en échec (0-0) lors de leur déplacement en Norvège.",
+      "url": "https://www.lemonde.fr/sport/article/2026/11/03/ligue-des-champions-le-resume-du-festival-offensif-du-psg-face-a-villarreal-et-du-match-nul-frustrant-de-lille-face-a-bodo-glimt_6805702_3242.html",
+      "published": "2026-11-04T07:26:34+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "EN DIRECT, guerre en Ukraine : au moins 33 morts au lendemain d’une attaque russe contre un centre de distribution d’aide humanitaire dans la région de Zaporijia",
+      "summary_original": "Le président ukrainien, Volodymyr Zelensky, a estimé que plus de 50 personnes pourraient encore se trouver sous les décombres. La mission d’observation des droits humains de l’ONU en Ukraine a estimé que cette attaque « semblait avoir violé les principes les plus fondamentaux du droit international humanitaire ».",
+      "url": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-au-moins-33-morts-au-lendemain-d-une-attaque-russe-contre-un-centre-de-distribution-d-aide-humanitaire-dans-la-region-de-zaporijia_6803934_3210.html",
+      "published": "2026-11-04T06:53:32+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "La conférence du député LFI Raphaël Arnault, annulée à Lyon pour des raisons de sécurité, aura finalement lieu à Villeurbanne",
+      "summary_original": "« Nous serons bien présents ce vendredi » pour rappeler que « Lyon et ses alentours sont des terres d’antifascisme et de résistance à l’extrême droite », ont affirmé dans un communiqué le député du Vaucluse et sa collègue du Rhône, Anaïs Belouassa-Cherifi.",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/03/la-conference-du-depute-lfi-raphael-arnault-annulee-a-lyon-pour-des-raisons-de-securite-aura-finalement-lieu-a-villeurbanne_6805669_823448.html",
+      "published": "2026-11-04T06:13:15+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Espagne : le ministre des transports démissionne après la catastrophe ferroviaire meurtrière",
+      "summary_original": "« C’est une question de dignité politique, de cohérence et d’empathie envers les victimes », a déclaré Oscar Puente, une semaine après la collision à Urda qui a coûté la vie à au moins 69 personnes.",
+      "url": "https://www.lemonde.fr/international/article/2026/11/03/espagne-le-ministre-des-transports-demissionne-apres-la-catastrophe-ferroviaire-meurtriere_6805667_3210.html",
+      "published": "2026-11-04T05:53:30+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "EN DIRECT, midterms 2026 : du Texas à la Californie, suivez les résultats des élections de mi-mandat en direct",
+      "summary_original": "Les premiers bureaux de vote ont fermé aux Etats-Unis, et les premiers résultats tombent. Plus de 58 millions d’Américains ont déjà voté par anticipation – un record pour des élections de mi-mandat, qui pourraient cette fois-ci voir les démocrates prendre le contrôle de la Chambre des représentants, voire du Sénat, et compromettre la fin du mandat de Donald Trump.",
       "url": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-midterms-2026-du-texas-a-la-californie-suivez-les-elections-de-mi-mandat-en-direct_6805528_3210.html",
       "published": "2026-11-04T05:50:00+09:00",
       "via": "rss",
@@ -302,163 +347,154 @@
     },
     {
       "source": "Le Monde",
-      "title_original": "« Le bilan de la journée du 17 octobre est un échec » : Laurent Nuñez auditionné par la commission d’enquête sur les violences des manifestations",
-      "summary_original": "La commission sur les violences des 17 et 18 octobre doit se pencher, entre autres, sur « la façon dont les pouvoirs publics se préparent en amont de tels événements », mais aussi sur les « renseignements et les moyens dont ils disposent », alors que l’exécutif a reconnu des défaillances et que le ministre de l’intérieur avait remis sa démission – refusée – à Emmanuel Macron.",
-      "url": "https://www.lemonde.fr/videos/video/2026/11/03/le-bilan-de-la-journee-du-17-octobre-est-un-echec-laurent-nunez-auditionne-par-la-commission-d-enquete-sur-les-violences-des-manifestations_6805659_1669088.html",
-      "published": "2026-11-04T04:34:47+09:00",
+      "title_original": "Des syndicats et associations de sept pays européens appellent à manifester contre la vie chère fin novembre",
+      "summary_original": "Les représentants des organisations françaises, espagnoles, italiennes, britanniques, portugaises, grecques et belges espèrent rassembler « des millions » de personnes dans les rues les 20, 21 et 22 novembre.",
+      "url": "https://www.lemonde.fr/international/article/2026/11/03/des-syndicats-et-associations-de-sept-pays-europeens-appellent-a-manifester-contre-la-vie-chere-fin-novembre_6805665_3210.html",
+      "published": "2026-11-04T05:48:27+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Le Monde",
-      "title_original": "Midterms 2026 : Donald Trump révèle à Fox News que l’aide militaire à Israël sera « coupée à la fin de l’année »",
-      "summary_original": "Le jour des élections de mi-mandat, le président américain a déclaré, sans concertation apparente ni détails, vouloir en finir avec le soutien de 3,8 milliards de dollars annuels à l’Etat hébreu. Une décision qui semble influencée par le retournement de l’opinion publique américaine.",
-      "url": "https://www.lemonde.fr/international/article/2026/11/03/midterms-2026-donald-trump-revele-a-fox-news-que-l-aide-militaire-a-israel-sera-coupee-a-la-fin-de-l-annee_6805657_3210.html",
-      "published": "2026-11-04T04:30:07+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "Présidentielle 2027 : pourquoi les dates du scrutin virent au casse-tête constitutionnel",
-      "summary_original": "La controverse suscitée par le choix du 2 mai 2027 pour la tenue du second tour de l’élection présidentielle a pris une nouvelle ampleur à la suite des débordements survenus à l’occasion de la mobilisation du 17 octobre. Les marges de manœuvre constitutionnelles pour modifier le calendrier sont très étroites.",
-      "url": "https://www.lemonde.fr/politique/article/2026/11/03/presidentielle-2027-pourquoi-les-dates-du-scrutin-virent-au-casse-tete-constitutionnel_6805653_823448.html",
-      "published": "2026-11-04T04:00:12+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "Mouvement lycéen : entre reprise des cours et maintien des blocages, la mobilisation à un moment charnière après les vacances",
-      "summary_original": "La bataille des chiffres fait rage entre gouvernement et organisations syndicales sur le niveau des perturbations dans les lycées. Parmi les élèves présents au sein des blocages d’Ile-de-France, la détermination le dispute à l’inquiétude pour la suite de leur scolarité après des semaines sans cours.",
-      "url": "https://www.lemonde.fr/societe/article/2026/11/03/mouvement-lyceen-entre-reprise-des-cours-et-maintien-des-blocus-la-mobilisation-a-un-moment-charniere-apres-les-vacances_6805651_3224.html",
-      "published": "2026-11-04T03:56:22+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "Charles Caudrelier, tenant du titre de la Route du rhum, contraint à l’abandon",
-      "summary_original": "Le skippeur de 52 ans, vainqueur de la dernière édition de la course en 2022, a abandonné, mardi, deux jours après le départ de la 13ᵉ édition. Son maxi-trimaran a été victime d’une grave avarie de foil.",
-      "url": "https://www.lemonde.fr/sport/article/2026/11/03/charles-caudrelier-tenant-du-titre-de-la-route-du-rhum-contraint-a-l-abandon_6805648_3242.html",
-      "published": "2026-11-04T03:24:43+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "EN DIRECT, guerre en Ukraine : à Kiev, des coupures de courant d’urgence mises en place, le maire dénonce les attaques russes sur les infrastructures énergétiques de la ville",
-      "summary_original": "« La situation de l’approvisionnement en électricité à Kiev est extrêmement difficile », a déclaré, mardi, Vitali Klitschko, le maire de la capitale ukrainienne. « L’ennemi continue de détruire les infrastructures ukrainiennes », a poursuivi M. Klitschko. Ces frappes auraient également provoqué des perturbations dans la distribution d’eau à travers la capitale et dans la circulation des transports",
-      "url": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-a-kiev-des-coupures-de-courant-d-urgence-mises-en-place-le-maire-denonce-les-attaques-russes-sur-les-infrastructures-energetiques-de-la-ville_6803934_3210.html",
-      "published": "2026-11-04T03:01:01+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "EN DIRECT, Villarreal-PSG et Bodo Glimt-Lille : les Parisiens largement en tête à la mi-temps, les Lillois cherchent encore la faille",
-      "summary_original": "Le Paris Saint-Germain va tenter de poursuivre son sans-faute en Ligue des champions, mardi, sur la pelouse de Villarreal. De leur côté, les Lillois visent les premiers points de leur campagne européenne lors de leur déplacement en Norvège.",
-      "url": "https://www.lemonde.fr/sport/live/2026/11/03/en-direct-villarreal-psg-et-bodo-glimt-lille-suivez-les-matchs-de-ligue-des-champions_6805646_3242.html",
-      "published": "2026-11-04T03:00:12+09:00",
+      "title_original": "En Pologne, la crise autour du Tribunal constitutionnel préfigure une campagne virulente pour les prochaines élections législatives",
+      "summary_original": "Mardi, l’assemblée générale de l’institution a vu le camp de centre droit du premier ministre polonais, Donald Tusk, et l’opposition nationaliste camper sur leurs positions.",
+      "url": "https://www.lemonde.fr/international/article/2026/11/03/en-pologne-la-crise-autour-du-tribunal-constitutionnel-prefigure-une-campagne-virulente-pour-les-prochaines-elections-legislatives_6805664_3210.html",
+      "published": "2026-11-04T05:26:51+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Les Echos",
-      "title_original": "Nouvelle secousse pour BMW",
-      "summary_original": "Nouvelle secousse pour BMW Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYU1SYmNRSnRJSzBVc1lXTEZ2dVZBOTBZaEw4cmJxeVlpLW16Qy1YZmlhbUZYdEtjYjVaZldtSUFMUUJPRUsyMVZ0R1IyNU1uTkNIdzBUd2U4OWFza2tSYmZwYXk1dW1yRGQxT21jQ2g4X3dmVU5DVWJFSE91S0tyNXZyaXFiT2JYZG15LWNxeHRCQQ?oc=5",
-      "published": "2026-11-04T04:39:06+09:00",
+      "title_original": "par REALITES (EPA:ALREA)",
+      "summary_original": "par REALITES (EPA:ALREA) Les Echos Comfi",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNRDkwaWZLdW9WVW04WkJmQUoweXpXNllGaExQVC1LQUZzWEdkR2Z1SXpwT3diZWJMUnJ0SjNpZTlSTTk1RThVUGRsNlp6dDhGWnBKbWctQW9LOGY2RmREUzFtZ0ZYNHlrazk1VzktYnAtUWRMVGppYzF4ZWVEQmlwN3N1MzA5WEEzRDB4WTVFQUZfMXlBazA1Y1JIVWFPLTZKb1ctUDAyT3ZGbkc2Mzg5QUFDMWE3SXYyaFlWNGhyN0gyZXdXbnF6cXlLMHdGTDRfTlRsdWJnVjBuTDhYa0dRU182cGFQN1ZnRGROM2NEdUYyRk1FWGktMnUtLTRuNUxCYzhiWGczT0szcmhHOXJ5cndGdFRIcWR4ZVNRN1ZfdGplVHdkTTlpdURRNmc1MUZFanZpb1pTUklYc1ZYd2NXZzFpbmhFT1dM?oc=5",
+      "published": "2026-11-04T06:49:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Les Echos",
-      "title_original": "Plusieurs groupes d'éditions indépendants s'unissent pour mettre fin au pillage des IA",
-      "summary_original": "Plusieurs groupes d'éditions indépendants s'unissent pour mettre fin au pillage des IA Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONEEyc0VKdHV6Ml9NOTdvcGFoS2FOdWFZM3NWakQ0dGxsTkJOMUJuQU9hVEhfdDluVURzVTB4QzdiWWp3emhHWkNPRVdkZ2hHZkMtTDZiaEZLUW5POHF6aDNBeEZXZlY1Wmo2bEJZNkxrNi03aHlOWThhMjVRdFlIUVROb0FQM2lBb21pNVhkUkk1YlJwYXcxU0FoeG9YSGl6QkU3bFliNU9ubUZoellNcEpOamVZTjF0c0tXenJ6ZmZsVDJKRHM4bWhBVGlISloz?oc=5",
-      "published": "2026-11-04T04:15:09+09:00",
+      "title_original": "Clôture de liquidation - Hauts-de-Seine - ALP01574955 - Les Echos",
+      "summary_original": "Clôture de liquidation - Hauts-de-Seine - ALP01574955 Les Echos - Annonces légales",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ1JoNHNfWFVjaGZ3Uk01ZmVvU2hvbWp3VU43LThHMGQybG9ZaTFsTGphS3ZhdDJhZFZXZVAtRjZ1eEg4SWVkTlZoZ25VRHZkMFhPbDlRZUdjV05mZlFTc2xONnhLUVU2ei1fWkFsNEt3MDZfU1hPRTNseW43czhteXp1WkotcXFaQjRJbkhfdlV3LTJKdjRScnVjc3VyZw?oc=5",
+      "published": "2026-11-04T06:30:51+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Les Echos",
-      "title_original": "Office Français de la Biodivesité",
-      "summary_original": "Office Français de la Biodivesité Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oVGRqOGdteTlJaFExZDVlbUNKdGdmLUs5MnpZdklabU1nMGo0TEVMQm85NC16OWtrS0lDQXdrZ1k5dHdhZmFGT2cyaWpKNC1URXgwSzZ6TjFzTllPelM4TEFJeGttQVpPTmYxZlh1NVhBUW1ySnA4QQ?oc=5",
-      "published": "2026-11-04T03:52:00+09:00",
+      "title_original": "Changement de dirigeant - Paris - ALP01574941 - Les Echos",
+      "summary_original": "Changement de dirigeant - Paris - ALP01574941 Les Echos - Annonces légales",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZmgzOUd4dGpBaExkUW9mV3lEUkpOdV9QSVFoZ0hFRnVKZUlSbE9laVpMUGFXM1BCYVlUVXlnYThJbk1hX1RqaHN0dC1keUpBcnRaNmo1V3loZDNMTTM0TmlwemZsTXlXaTB0NTNzZnpzVWdiMllhdVlfc0E5RjAtNmpmRm1JZmxCcXZoTVdiM3RoSXF1bWRaNVllbG5idw?oc=5",
+      "published": "2026-11-04T06:30:50+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Les Echos",
-      "title_original": "Marquer n’est pas prouver : le droit d'auteur à l'épreuve de la transparence de l'IA",
-      "summary_original": "Marquer n’est pas prouver : le droit d'auteur à l'épreuve de la transparence de l'IA Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVW1pT2pBOWltMzJ4VGVhR0k5cnRfT2s5TVhzRFo2OXkzNk90cXlNeVYyNUxxOTI5cEJmZk9JQjB4SWlWQWw4M1BaVUlMSFJNMGFkXzhBeng5Y1NPQjJrbWNQLVNCcktOOVBmaTJ0OUEybXh2Mjc4OU1LaENTNnBkcVhGdG9MdGtxeHcxT2VQQ1NPVTN5ckpaTUZpd1E0anZMd3BjUVdjQnM5UVllNng2NXBfUURzZlo2V0NPa1FwUm1lVzZCMElhaTQ3bEI?oc=5",
-      "published": "2026-11-04T03:49:51+09:00",
+      "title_original": "Changement de dirigeant - Paris - ALP01574904 - Les Echos",
+      "summary_original": "Changement de dirigeant - Paris - ALP01574904 Les Echos - Annonces légales",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTmJodnU2RFVjMmxINndLQU9JbzZ5RV9WdHdvQzhiRVVldXlwT3B5OVhxUGJwNVN6OHBmcDVocm1pQ1dCSGZKdzdMUms1Z3Qzc2FZY29OdUNUNjZ0V19uSmZzUUhkc0VPdjBBUC1LQjlHMHh5SlVFd1E5MEE3STRPRHVXSlFEamhuQ3RBSTVrWGdGNmgtU1c4a1JYMmYwQQ?oc=5",
+      "published": "2026-11-04T06:30:48+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Les Echos",
-      "title_original": "Gazole : la baisse des prix relance la guerre commerciale entre TotalEnergies et la grande distribution",
-      "summary_original": "Gazole : la baisse des prix relance la guerre commerciale entre TotalEnergies et la grande distribution Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOOUM4WVhrVlVEQ3RLZGk1a2tObWJmanota2dMMXREeFY2SGF5YkkzSFNfUjdjYWJTY2k3b3NjemlOWmh6YVJrR1ByRDNLcy10ckpCQ2hNVEotWkZTODlySktNTEFQRWUyOHJKR2NHRGRsUDEzSWUwc3dHNkxYOEI2Mi1RbEktS1NUWkhiX1R5elJmMUsxNVpRMW9JT2RvcUpYeUp2a0JCakhTWWJLcWZ5REJaSkY3eVJOQnowc0U2QTEzcVNDd0RPY2lvVU5iU1U2NDFoOWV5S2tkWEw5RGtnWUNYTzA0amMtVm1lS2s1QjhrbG12RlJWMGlzWko2T1NoMXVHeg?oc=5",
-      "published": "2026-11-04T03:29:12+09:00",
+      "title_original": "Continuation de l'activité malgré les pertes - Maine-et-Loire - ALP01575058 - Les Echos",
+      "summary_original": "Continuation de l'activité malgré les pertes - Maine-et-Loire - ALP01575058 Les Echos - Annonces légales",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNenJZWGhpeEpfT3p1a2kwR1JWaWdyajNTUlZUajBicEpHVGFicnotZTJVcHU5bjdLUUJkeUQ5UEdnSjJTS1hWMXVSNzIwbjJIaGhxTGlYbWZUWDhub1VCaFdxRlFQUXJad25XTkhtTGNja0ZacFpQUHZhSVVfNk9IQnlsaW1fWE1tbDhWTEVHcEgwamZrZ3R4RjVXR2VVUQ?oc=5",
+      "published": "2026-11-04T06:30:47+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Les Echos",
-      "title_original": "BioMérieux, enfin un test concluant pour ses ambitions de croissance",
-      "summary_original": "BioMérieux, enfin un test concluant pour ses ambitions de croissance Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdHRQbU9XQllxb21MR3dFX0YxVXRnRkV2LWtQR1pENmVyTjVIS0hJU0hWV0gtNE1MN0VsRVpNd2o1cXBWOUdiTldIWV84Mmx0Y1ZMakQ1RUJjYWlPdmY1TGZlcEFUUWh4YWNjRk45S0h1TW9mNTh0T3FXYVRuN0hsMXo3UDNMUkRhaGRaOG00dTRzQzlFM1BiQlNvOXdtcW5CWjVfdHFrMTM0V3hpRHpSZ1p5MGhUV1NqMGw1b0dTWUdOWXhHX1Y0SVg4UHFsMXZLOUE?oc=5",
-      "published": "2026-11-04T03:28:51+09:00",
+      "title_original": "Avis d'enquete publique - Val-de-Marne - ALP01574875 - Les Echos",
+      "summary_original": "Avis d'enquete publique - Val-de-Marne - ALP01574875 Les Echos - Annonces légales",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU0twWTFxM2s0OUlWek5uYWRrX3NzZmlnaHN6TVc4QTR3cHM5WU9xX185b1dFM3FRNndyZkRDTXQtVDJmVlFMY21hSjR4bHJ1dU5aRTJSeGw2QnJJaWF6Y2ZaYUhURER0Z2VTX1pQNGlpaWRXY2JfMEFLTTdlOTE5Q0ZCbU1HeTJXZUUzZGZQQjBFTUMxVllaREEzN3l0QQ?oc=5",
+      "published": "2026-11-04T06:30:45+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Les Echos",
-      "title_original": "DIRECT - Midterms : suivez les résultats des élections américaines de ce mardi 3 novembre",
-      "summary_original": "DIRECT - Midterms : suivez les résultats des élections américaines de ce mardi 3 novembre Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYUhZeW1ReGxQRy12QU1iWHBfRjhzTWxvWFRRUHZHMDdUTDZ1MXZCeFI3VlFxRWp2TE8tZmp2NGV2RzQtZTJZM09mekZDdTZ2QVZzWkhVSkJTaktwa283czZfcmFtUllnN1d4U18weE5TWnJENzllWWt5X3loaWl0QWZVME1TS2ZSdUxnamIxS3BEdFBfU0xBVE9FYUhkSllLTHlKbFd4TVdET083OW9oVjJJMExJX0psR2xEQ3hOT1lvSldGU3NhMHUzX1RQXzg?oc=5",
-      "published": "2026-11-04T03:28:10+09:00",
+      "title_original": "Rectificatif ou Additif - Paris - ALP01573906 - Les Echos",
+      "summary_original": "Rectificatif ou Additif - Paris - ALP01573906 Les Echos - Annonces légales",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSjczZThPZkFxaFp4U0ltdDZacW9TcnlyLTROLV9XdGthNVVsRmtwZ1lmTkJENERuVjFmeXZ6T0lMWDlWdF8yN2hPVGVWa2ZlTUk2Wk5lWDdKUkw1VFJndnBmRC1sZjM0QzdPRm5IaEgtLUZ6djk3N3JkN0t6R2VjSmZucEVtMk95bTh0UDVjWjR4OURLbC1TSl84bTZSUQ?oc=5",
+      "published": "2026-11-04T06:30:43+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Les Echos",
-      "title_original": "Apple, le prix de la DRAM ou le ver dans la pomme",
-      "summary_original": "Apple, le prix de la DRAM ou le ver dans la pomme Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaWRsczJIQmFaaEFBc1NmQy1jUmw3Z0NHX2dhZXJJM0FxSWhpajRTeHhzVEJuN2pPM2pzdnp0dFo5bWxWSFZtQ0s4R1BNcVc5MGlyVE0zcGxXVTNXV0FKZURGYU5IcDBBSzAwRmwya3c0T0p0NFhwT0NHVHhXNlNnb2RLelBIdUhOdE5mUVViTGdLVUd0TDU0V243U3ZtZDFEOWVyajBLcUU5TDVxd21TOWpqTi1PN1VP?oc=5",
-      "published": "2026-11-04T03:27:36+09:00",
+      "title_original": "Mise en location gérance - Paris - ALP01574926 - Les Echos",
+      "summary_original": "Mise en location gérance - Paris - ALP01574926 Les Echos - Annonces légales",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM2dacWJOckFnOHN2dmt3aDYwZFloWGJrS3ZEOXlXNHl6a1NSSlZSSXZ0M3g1SWgxX3JmQmQ2a3NLRGk1MklLblJZcV9fOTFiOGx1OTBIaXRRUnAtdHpXdTRaSEhwc1B0M2dPV1gxa2R1aTZRSWQ2ZnpWRlFkLUVJaW8xTWw3LUpoLURZbHc3aDZMV0h1RUR1bklKMFhQUQ?oc=5",
+      "published": "2026-11-04T06:30:42+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Le Figaro",
-      "title_original": "5400 km de dérive à bord d’une embarcation de six mètres : cinq naufragés dont deux enfants secourus après trois mois dans le Pacifique",
-      "summary_original": "Les cinq individus avaient quitté l’État insulaire de Micronésie le 30 juillet pour une traversée d’une heure entre les îles coralliennes de Murilo et de Ruo en compagnie de quatre autres passagers qui sont désormais présumés morts.",
-      "url": "https://www.lefigaro.fr/international/5400-km-de-derive-a-bord-d-une-embarcation-de-six-metres-cinq-naufrages-dont-deux-enfants-secourus-apres-trois-mois-dans-le-pacifique-20261103",
-      "published": "2026-11-04T06:10:51+09:00",
+      "title_original": "EN DIRECT - Midterms 2026 : les premiers bureaux de vote ont fermé à minuit, suivez les élections de mi-mandat aux États-Unis",
+      "summary_original": "Les Américains votent ce mardi lors d’élections de mi-mandat décisives pour les deux dernières années de Trump à la Maison-Blanche, confronté à des démocrates qui espèrent reprendre les leviers du pouvoir à Washington.",
+      "url": "https://www.lefigaro.fr/international/midterms-2026-horaires-resultats-trump-sondage-predictions-carte-etats-unis-democrates-republicains-direct-20261103",
+      "published": "2026-11-04T09:07:02+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Le Figaro",
-      "title_original": "Rolex Paris Masters : « Je suis en paix avec tout ce que j’ai pu faire », souffle Monfils pour son adieu au public parisien",
-      "summary_original": "Après 22 ans d’une riche carrière, l’ancien numéro un français a sobrement fait ses adieux au public parisien, entre remerciements et tendre dédicace à sa fille Skaï.",
-      "url": "https://www.lefigaro.fr/sports/tennis/rolex-paris-masters-je-suis-en-paix-avec-tout-ce-que-j-ai-pu-faire-souffle-monfils-pour-son-adieu-au-public-parisien-20261103",
-      "published": "2026-11-04T06:06:14+09:00",
+      "title_original": "Présidentielle 2027 : Retailleau estime qu’il «faudra une primaire sans doute en début d’année»",
+      "summary_original": "Le candidat LR, en net recul dans les sondages depuis plusieurs semaines, assure qu’Édouard Philippe «sera contraint à un moment ou un autre d’accepter» la primaire.",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-retailleau-estime-qu-il-faudra-une-primaire-sans-doute-en-debut-d-annee-20261104",
+      "published": "2026-11-04T08:50:17+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Le Figaro",
-      "title_original": "Attentat de Trappes : le suspect, Kevin T., a fait une tentative de suicide en prison",
+      "title_original": "Route du Rhum : Matthieu Perraut a chaviré",
+      "summary_original": "Le skipper de l’Ocean Fifty Elvest a chaviré alors qu’il se trouvait à 400 milles au nord des Açores, mardi soir.",
+      "url": "https://www.lefigaro.fr/sports/voile/route-du-rhum/route-du-rhum-matthieu-perraut-a-chavire-20261104",
+      "published": "2026-11-04T08:31:09+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Midterms 2026 : Donald Trump va-t-il conserver sa majorité au Congrès ? Suivez les résultats et la carte en direct",
+      "summary_original": "CARTE – Les électeurs doivent renouveler l’intégralité de la Chambre des représentants, un tiers du Sénat et de nombreux postes de gouverneurs. Un scrutin décisif pour l’avenir de Donald Trump jusqu’en 2028.",
+      "url": "https://www.lefigaro.fr/international/midterms-2026-donald-trump-va-t-il-conserver-sa-majorite-au-congres-suivez-les-resultats-et-la-carte-en-direct-20261104",
+      "published": "2026-11-04T08:10:34+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Bodo/Glimt-Lille : Ozer insubmersible, des Dogues séduisants mais frileux… Les tops et les flops",
+      "summary_original": "La rencontre de la 4e journée de Ligue des champions entre Bodo/Glimt et le LOSC s’est soldée par un triste match nul (0-0). Découvrez ce qui a retenu l’attention de la rédaction.",
+      "url": "https://www.lefigaro.fr/sports/football/ligue-des-champions/bodo-glimt-lille-ozer-insubmersible-des-dogues-seduisants-mais-frileux-les-tops-et-les-flops-20261104",
+      "published": "2026-11-04T08:04:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "États-Unis : la campagne des élections de mi-mandat 2026 devrait battre des records de dépenses",
+      "summary_original": "La campagne des élections de mi-mandat de 2026 est en passe de devenir la plus coûteuse de l’histoire des États-Unis avec des dépenses totales projetées à près de 12 milliards de dollars, avec une percée majeure dans les investissements extérieurs.",
+      "url": "https://www.lefigaro.fr/flash-actu/etats-unis-la-campagne-des-elections-de-mi-mandat-2026-devrait-battre-des-records-de-depenses-20261103",
+      "published": "2026-11-04T08:01:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Attentat de Trappes : le suspect, Kévin T., a fait une tentative de suicide en prison",
       "summary_original": "«Cette tentative de suicide soulève des interrogations légitimes quant à son état psychologique, lequel devra faire l’objet d’une évaluation médicale approfondie», ont souligné ses avocats au Figaro.",
       "url": "https://www.lefigaro.fr/faits-divers/attentat-de-trappes-le-suspect-kevin-t-a-fait-une-tentative-de-suicide-en-prison-20261103",
-      "published": "2026-11-04T06:02:41+09:00",
+      "published": "2026-11-04T06:41:45+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -467,43 +503,34 @@
       "title_original": "Présidentielle 2027 : s'il est élu, David Lisnard promet un «gouvernement commando»",
       "summary_original": "«Au bout de 200 jours, si les modalités n’ont pas été engagées, on changera les ministres», a assuré mardi le candidat à la fonction suprême sur BFMTV.",
       "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-s-il-est-elu-david-lisnard-promet-un-gouvernement-commando-20261103",
-      "published": "2026-11-04T05:58:02+09:00",
+      "published": "2026-11-04T06:15:04+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "Le Figaro",
-      "title_original": "EN DIRECT - Midterms 2026 : Donald Trump appelle à «préserver la grandeur de l’Amérique»",
-      "summary_original": "Les Américains votent ce mardi lors d’élections de mi-mandat décisives pour les deux dernières années de Trump à la Maison-Blanche, confronté à des démocrates qui espèrent reprendre les leviers du pouvoir à Washington.",
-      "url": "https://www.lefigaro.fr/international/midterms-2026-horaires-resultats-trump-sondage-predictions-carte-etats-unis-democrates-republicains-direct-20261103",
-      "published": "2026-11-04T05:44:03+09:00",
+      "source": "Libération",
+      "title_original": "EN DIRECT – Midterms 2026 : les premiers bureaux de vote ferment aux Etats-Unis",
+      "summary_original": "Près de 250 millions d’Américains sont appelés aux urnes ce mardi 3 novembre, afin de renouveler l’ensemble de la Chambre des représentants et un tiers du Sénat dans des élections de mi-mandat qui pourraient tourner à la déroute pour le camp républicain.",
+      "url": "https://www.liberation.fr/international/amerique/resultats-des-midterms-2026-suivez-notre-direct-20261103_23VUN6EUORF3TBSCD6TRDVJFKA/",
+      "published": "2026-11-04T09:08:36+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "Le Figaro",
-      "title_original": "Donald Trump, un président enfermé dans son monde et déconnecté des réalités de l’Amérique",
-      "summary_original": "DÉCRYPTAGE - Tout au long de la campagne des midterms, le président américain est apparu en décalage avec les priorités des électeurs.",
-      "url": "https://www.lefigaro.fr/international/donald-trump-un-president-enferme-dans-son-monde-et-deconnecte-des-realites-de-l-amerique-20261103",
-      "published": "2026-11-04T05:43:41+09:00",
+      "source": "Libération",
+      "title_original": "Donald Trump crée la surprise en annonçant mettre fin à des milliards d’aide à Israël",
+      "summary_original": "Alors que la question du soutien à Israël agite la campagne des midterms, le président américain a annoncé ce mardi 3 novembre sur Fox News la suppression d’une aide de 3,8 milliards de dollars par an dédiés à l’achat d’armements et à la défense antimissile de l’Etat hébreu.",
+      "url": "https://www.liberation.fr/international/amerique/donald-trump-cree-la-surprise-en-annoncant-mettre-fin-a-des-milliards-daide-a-israel-20261103_CHE4J66QGJGV5DGYY2VOYXW2IY/",
+      "published": "2026-11-04T07:08:31+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "Le Figaro",
-      "title_original": "Relation étroite avec une espionne chinoise, soupçon de contrebande… La rocambolesque affaire qui embarrasse Nvidia",
-      "summary_original": "RÉCIT - Les liens entre Jensen Huang et une dirigeante soupçonnée de travailler pour le renseignement chinois inquiètent. L’affaire met à l’épreuve les contrôles de Nvidia sur l’exportation de ses puces et la stratégie américaine pour contenir les ambitions de Pékin dans l’IA.",
-      "url": "https://www.lefigaro.fr/secteur/high-tech/relation-etroite-avec-une-espionne-chinoise-soupcon-de-contrebande-la-rocambolesque-affaire-qui-embarrasse-nvidia-20261103",
-      "published": "2026-11-04T05:13:16+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "Présidentielle 2027 : plus que jamais assuré d’être au second tour, Mélenchon creuse encore l’écart avec Philippe, selon un sondage",
-      "summary_original": "SONDAGE - Testé seul ou en concurrence avec le maire du Havre, Gabriel Attal ne dépasse pas la barre symbolique des 10%, révèle une étude Ifop pour LCI publiée mardi soir.",
-      "url": "https://www.lefigaro.fr/elections/presidentielles/sondages/presidentielle-2027-plus-que-jamais-assure-d-etre-au-second-tour-jean-luc-melenchon-creuse-encore-l-ecart-avec-edouard-philippe-selon-un-sondage-20261103",
-      "published": "2026-11-04T04:32:55+09:00",
+      "source": "Libération",
+      "title_original": "Catastrophe ferroviaire en Espagne : le ministre des Transports a présenté sa démission",
+      "summary_original": "Alors que le gouvernement espagnol a annoncé ce mardi 3 novembre travailler «sans relâche» pour «regagner la confiance» de la population suite à la tragédie ferroviaire d’Urda, le ministre Óscar Puente a donné sa démission. Une grève générale est prévue le 11 novembre en Espagne.",
+      "url": "https://www.liberation.fr/international/europe/catastrophe-ferroviaire-en-espagne-le-ministre-des-transports-a-presente-sa-demission-20261103_S7MS43Y43NA45F7LKXINPZAXC4/",
+      "published": "2026-11-04T06:18:19+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -512,16 +539,7 @@
       "title_original": "Attentat des Yvelines : Kévin T., le tireur présumé, a fait une tentative de suicide en détention",
       "summary_original": "D’après les informations de plusieurs médias confirmées par «Libération», le suspect de l’attaque qui a fait un mort et cinq blessés à Trappes et La Verrière a tenté de mettre fin à ses jours. Brièvement hospitalisé, il est désormais hors de danger.",
       "url": "https://www.liberation.fr/societe/police-justice/attentat-des-yvelines-kevin-t-le-tireur-presume-a-fait-une-tentative-de-suicide-en-detention-20261103_IVWJZXNQTZC2REQS2OIDPKNJKE/",
-      "published": "2026-11-04T06:05:10+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Libération",
-      "title_original": "EN DIRECT – Midterms 2026 : au Texas, les républicains craignent un «virage à gauche»",
-      "summary_original": "Près de 250 millions d’Américains sont appelés aux urnes ce mardi 3 novembre, afin de renouveler l’ensemble de la Chambre des représentants et un tiers du Sénat dans des élections de mi-mandat qui pourraient tourner à la déroute pour le camp républicain.",
-      "url": "https://www.liberation.fr/international/amerique/resultats-des-midterms-2026-suivez-notre-direct-20261103_23VUN6EUORF3TBSCD6TRDVJFKA/",
-      "published": "2026-11-04T05:59:35+09:00",
+      "published": "2026-11-04T06:08:38+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -554,28 +572,10 @@
     },
     {
       "source": "Libération",
-      "title_original": "Au procès de «l’inconnue de l’A10», les images de l’enfant dans la couverture bleue et l’enquête impossible",
-      "summary_original": "Les images d’Inass Touloub, la fillette dont le corps a été découvert le long de l’autoroute en 1987, ont été projetées à la cour d’assises du Loir-et-Cher, ce mardi 3 novembre. Ses parents, jugés pour «torture et actes de barbarie» et «complicité», sont restés silencieux.",
+      "title_original": "Au procès de «l’inconnue de l’A10», l’enfant dans la couverture bleue et l’enquête impossible",
+      "summary_original": "En 1987, le corps mutilé d’Inass Touloub, 4 ans, est découvert le long de l’autoroute A10. Pendant des décennies, les gendarmes ont tenté en vain de trouver son identité, parvenant enfin à remonter jusqu’à ses parents en 2017 grâce à l’ADN.",
       "url": "https://www.liberation.fr/societe/police-justice/au-proces-de-linconnue-de-la10-les-images-de-lenfant-dans-la-couverture-bleue-et-lenquete-impossible-20261103_5N2T3FV6URC4NMCBI2X2EXOHRQ/",
       "published": "2026-11-04T04:47:52+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Libération",
-      "title_original": "Après 34 ans de délire, «Groland» tire sa révérence",
-      "summary_original": "L’émission satirique de Canal + qui parodie l’actualité depuis un petit pays fictif prendra fin le 12 décembre avec une soirée spéciale, a indiqué la chaîne ce mardi 3 novembre.",
-      "url": "https://www.liberation.fr/economie/medias/apres-34-ans-de-delire-groland-tire-sa-reverence-20261103_WQDNVEKPAVBQZKWDVOKLCZ5DBY/",
-      "published": "2026-11-04T04:38:07+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Libération",
-      "title_original": "Laurent Nuñez, de «good cop» à «bad cop»",
-      "summary_original": "Derrière une apparente bonhomie, le locataire de Beauvau défend une conception toujours plus répressive du maintien de l’ordre.",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/laurent-nunez-de-good-cop-a-bad-cop-20261103_KQUJVPGVOZCXTNC4EK23VDFQ7U/",
-      "published": "2026-11-04T04:33:13+09:00",
       "via": "rss",
       "state_media": false
     }
