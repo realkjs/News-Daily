@@ -1,0 +1,448 @@
+{
+  "team": "il",
+  "team_name_ko": "이스라엘팀",
+  "collected_at": "2026-11-06T06:13:14.906448+09:00",
+  "headlines": [
+    {
+      "source": "i24NEWS",
+      "title_original": "Iran Weighs Nuclear Proposals As Qatar Pushes To Avert Renewed US Strikes - Report",
+      "summary_original": "Iran Weighs Nuclear Proposals As Qatar Pushes To Avert Renewed US Strikes - Report i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPekhBd0Q5UDJnZWN1Znc1cU1EZXIyN0FDN3FwOEliUFJzNnlaeUtCQ2h4RWVNSGY1QXoxbjNwNlhiUzhLTGNJbmFpdktNc2t0Z1Z4QmM4eUlGYmNRNVdJTmFMWENWQm1VaEVkUnRKeS00ZWlCV3NaZ0JqOUhwLWU1dHVmYjBCOU53SW1tSGFjSk1obGRtSGRfZWhrSE9jeXc1OXZmTUEtWVRwVFdpRjBXMnZxWF8teUxoNkE0RkhNMmpRZUFWY01YcTBpYV9LOTIzbnlaS3QwMmFWY1oxZTYzOU53?oc=5",
+      "published": "2026-11-06T05:02:07+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Israel, Greece, Cyprus Discuss Maritime Security Amid Tensions Over Turkey-Libya Deal",
+      "summary_original": "Israel, Greece, Cyprus Discuss Maritime Security Amid Tensions Over Turkey-Libya Deal i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWnlVNkFKMHlxSVh1ZEgtQzJVR2lCcHFzOUNlVEc0MGtaeU1HLTBXZkNnVC1acmJUUnRvYjBudElCcjRpaVZqNTMxQkdaTXJsc3o0RWRGT1VWd0c2NDRzVWc1Q3htajNia1MzTy1JZDVZZTdJell3NktlcHpKSjREbS1xLXo5SjZDeG1aLW5BdkRnd3NWcF9JQjFJZDZuVnZLTi1GOGVfNlF4YnpJQTRhTmIxX2IwdkxoWjQ4ZmowcmNBQlRsX0lISHA5dVdYeFE?oc=5",
+      "published": "2026-11-06T03:29:27+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Russia Secretly Supplies Iran With 90 Advanced Missile Launchers - Report",
+      "summary_original": "Russia Secretly Supplies Iran With 90 Advanced Missile Launchers - Report i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOGVFc21rNWNlaWptdlAtV241Y1NOV1NGRTNJUE05dUkxMHh3THdUV2Y0akNQSmk5bHBSOEZfcTBwT0VocU1yWlBXaEhzcWNhalZiaDYzd1hiMWlSLUZhRl9jenNTcGNnM09CY2tzREY4QkwyOW43SVdZbkpKQ2JMNldVc3p1cFR6X0lnNWI5Y1RmQmppUjhxN2cyeGpwLWNCSXQwVjJ6RXlHWWVBbW9zWUtpWkZOM2lYNGlUYlNpTVB1VmFNbVBLYWhXd2NaaEJzQ0E4Qjhn?oc=5",
+      "published": "2026-11-06T02:05:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Democrats prepare investigations and economic showdown with Trump after midterm victory",
+      "summary_original": "Democrats prepare investigations and economic showdown with Trump after midterm victory i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPU0xWQWNJOUsybnMyYXAzVGI3WTJrZWxFa0tmQ2JmbGxIOTY3c25JYjNwMklGSFRhandFZ05xUlNMYS10aWVqXy1Vdlk0dFd6S0NPalNJekg3elViRW41QUxWcXlHbmlEZWlSWUc5ODI4cDJvNy0zVjlEOXd0bFY3bmZyaDZBSmtmT2UyUFNwNVdEcnpzSzZIa296d3ZoTU9lME5OZUhkZ3lLUjc1YWI1SFJDQ1NZeFAxand0Rk10OWhyRDZBRGZHZzRDWFQtUEROd0NZSkxlSXk5YzZJMjhF?oc=5",
+      "published": "2026-11-06T01:23:21+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Rubio Could Quit Trump Administration For 2028 Presidential Bid - Report",
+      "summary_original": "Rubio Could Quit Trump Administration For 2028 Presidential Bid - Report i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY21rSVJHN2JwWjRvRWRQdmZLc2pVUGtBVDVFYllLOGFEaDNoZkJMeDhPT1FKblZnYUQyRmJFSnlsNmtfSndhYjJHazVEamczUkhJWG16bTBya1NWV0dIR0FjM3pjQkE4TC14VXI4a1dDMVlsaWZRRzJPVTFGbmFSUENEOG1RcmxXU1RYWFE1dEJaeDl1c1JYckVpT2lfcUN2N01VQ0lzbmFQZVMwMXJVYWJRNmVhaVNOYnI2M05tbVM5cW1wVXdlTg?oc=5",
+      "published": "2026-11-06T00:36:25+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Ra’am Recommends Eisenkot As Herzog Challenges Abbas Over Hamas",
+      "summary_original": "Ra’am Recommends Eisenkot As Herzog Challenges Abbas Over Hamas i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTTRlMUlmc3g3OGY0d0xsOUlmdnFfREdfWkN4TW9wLXNYOXJ4OU9QbHQwY21PYjFmUGd0TTdESlRYMTQ2ZEN0Y1lMN283M1p3SnpGVHFvbkw2ZkVjOWl0eWlWV0Q4S3RXbHNWTkZzNnhySFV6MG9wWkJKeUd0MVFCQWtscmRVZlZBNmpKMVNxRXNSRVBySlJ3ZjJqelRqTXIzRzZ3VUt0QzlRYVdLTGNuM2VBWUZtUQ?oc=5",
+      "published": "2026-11-05T23:00:17+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "‘Maybe we could get asylum in Israel,’ Trump strategists joke about fleeing country before midterms - report",
+      "summary_original": "‘Maybe we could get asylum in Israel,’ Trump strategists joke about fleeing country before midterms - report i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNHVOUUZKN0JHV0cxcWRFSlEtMkdLdmd0TTY4NjRhckhzXzlMZjZUZmRLc3Vma1pmZ0ExMU9IMGFRS2g3d25XWWxTUXpTd2FwRGVzOUE2MC01Z2JRYzItbmdienFLNzNPWkp3U1NQTHo4VExkWjZ1Y0M4MVoxYkZmbXR4QlM4LVo1SGhINVFBUnBaeF94N1VZZVVKNWFWQ2IwTGxrZmxvZW1QYWF6bDZCZ0ZfcFFKOFFqVExaTW9CZU5fLXN6ZDEweVdjdXJDaEtra0tGUmUxT25PZk1Ka2NSUUlyalNTVXJEU3pxZjFsOGdyZ0JF?oc=5",
+      "published": "2026-11-05T19:27:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Daniel Biss, News And Latest Headlines",
+      "summary_original": "Daniel Biss, News And Latest Headlines i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10RWNiTFVNcklCeHh1WjByVVp1N0oyR3FZN09GMk00SjlFODVuOTdBem8xQ2pqRTUzM0M2aHdBdjlWUjUxbVlGbVJQd1E4NUIwR1RJTQ?oc=5",
+      "published": "2026-11-05T18:25:45+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Blogs: A Love that Outlasts",
+      "summary_original": "The Blogs: A Love that Outlasts The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sRlVubC1NX1JOc1U5dXE3UU5ZU3phalU1TS1GeXhiemE3Q3gzMThMTmRDMVRiTFdYLW9XMlZ4enpSLWpQdnVFR0xtN2ZLZi03dWRMMkszQXJsYUt1UTFPcnMyaw?oc=5",
+      "published": "2026-11-06T05:48:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Blogs: Could Likud Embrace a Post-Netanyahu Israel?",
+      "summary_original": "The Blogs: Could Likud Embrace a Post-Netanyahu Israel? The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZFlKRTZaR3JmZGJzNXExY0Rac3puRnRWOExWdkpZd0JzM1Mxa2tabVNwQW1oNURTLWRSRW1od05qTUNsWUx1ZXNac0V1aWJVbUlNOVRSLTNGUzJIMGI1VHZrcjlVRGJ0Y2x0bndEb1F0MGtQSmNGLS15WlUtWDJ3MmNn?oc=5",
+      "published": "2026-11-06T05:47:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "Between the Lines – Until the Government is Formed, and Thereafter",
+      "summary_original": "Between the Lines – Until the Government is Formed, and Thereafter The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSmRnUDNPX2VYMW5tSDFIcUp1WUhKbWZoTnNlS3FXTjBPR3Y2MDVneUpROEJxNEJDd0o1MHk4UzB5UFlwY0FKa2FYSzlTZXMyc2pTMUxSQXE2aFVhelRNNThrMTkxOWZWLVN0bnZzYkQxbklBMXRjVFVfcEw3eTd2dk9LYlRYelFZTGpZV1JmZnFGUzVYa1E2OThEUm0?oc=5",
+      "published": "2026-11-06T05:46:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "What Boy George Taught Me About Being Jewish",
+      "summary_original": "What Boy George Taught Me About Being Jewish The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSmFoNnUtdFBxTy0tQ0VuNU1yeHhvY1hNcHFOc0dFenpfSjViTW9QaWlENkMxWThGdG1JY2NVeDY3OWRwVW1hdFFpdTBrUmVUZHhFV3dwRkNjd2NIX0prYmNVMUwwSlR3Ry1CMHd0MG1LMjZXVElibDJKVXF0S2NZdmY3SQ?oc=5",
+      "published": "2026-11-06T05:46:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "What Abraham’s servant taught me about choosing for character and fit",
+      "summary_original": "What Abraham’s servant taught me about choosing for character and fit The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdmV6MVFKYm85QVIxaVp0aVE4WEIwZkNDTmlxa21iNmZ1aEcxaWdTNk9ONnpVS05aRzM4aDZFQ1p5cjhiV19rOHpCMk1VZjlVX3BRVjZCbUFGYjRpYlhvOFdQSWFfdEotMExSWmlmZks5WFNrektHMnNSeVc2ZjU3UUJhSVRqdGcwT2NRWXU4YlZ5bGROWU9ZRWpIN0xONkRQT01R?oc=5",
+      "published": "2026-11-06T05:45:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Blogs: One Woman’s Perspective",
+      "summary_original": "The Blogs: One Woman’s Perspective The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13ckRVTzR0UmtxcXp0dWRTSnNTRGZCbkw5cV82OElLLUVVZnRyVV9oZWtxd1hzRmQxZjk0TlRBRklYRV9QWkRTRVR3c0h4eFdzSXcyNDNDb2x6VjFfMU1RVy1LQTFzZExU?oc=5",
+      "published": "2026-11-06T05:43:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Blogs: World peace might soon happen",
+      "summary_original": "The Blogs: World peace might soon happen The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jQUlaUTJNRjNWWGJkVEhsZmRYSGdlN3Z0VVFaSl9qUFlhdnhnOHJHdjZINHRsUTlDOEpIcU9HRjJmRDBVUE53bk5BbHlMY2l0Qmo1LWk4UlRQT1lZQUVMSTZMWndDYmlCVmVuMXVpOA?oc=5",
+      "published": "2026-11-06T05:39:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Blogs: Making Honest Choices",
+      "summary_original": "The Blogs: Making Honest Choices The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lM21TenR3V19XWlJQWWszOW8zRVZIcnVILWRBaE9DZk5sMU1oYjJQZzBxRlEzSkwyTF9xQzZlUG5sTjZTX3NVX0Y2YW9TVVhVQ3hjZ3JLSlpzMFFwa2hPWlEwS1I?oc=5",
+      "published": "2026-11-06T05:38:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Replacing Netanyahu may not be enough to win back U.S. Democrats",
+      "summary_original": "Brad Lander rejected Lapid's pitch for an American outreach tour, calling for respect for international law and Palestinian rights. The Jewish congressman-elect sees withholding military aid as a way to press for change",
+      "url": "https://www.haaretz.com/israel-news/elections/2026-11-05/ty-article/.premium/replacing-netanyahu-may-not-be-enough-to-win-back-u-s-democrats/000001a1-ac8e-defa-a7f7-acff888f0000",
+      "published": "2026-11-06T05:46:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Israel's President Herzog says he will announce candidate to form gov't on Sunday",
+      "summary_original": "Eisenkot was recommended by 67 of the 120 elected Knesset members in consultations with the president. Herzog will pick the candidate he believes has the best chance of forming a government",
+      "url": "https://www.haaretz.com/israel-news/elections/2026-11-05/ty-article/.premium/israels-president-herzog-will-announce-candidate-to-form-government-on-sunday/000001a1-ad2e-d041-a5f9-ed2ff3970000",
+      "published": "2026-11-06T05:03:30+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Eisenkot secures parliamentary majority, paving clearest path to forming gov't",
+      "summary_original": "Both Arab-majority parties backed Eisenkot, while United Torah Judaism – traditionally aligned with Netanyahu and Likud – declined to endorse either candidate",
+      "url": "https://www.haaretz.com/israel-news/elections/2026-11-05/ty-article/.premium/eisenkot-secures-parliamentary-majority-clearest-path-to-form-govt/000001a1-ad0b-d041-a5f9-ed2bbb1f0000",
+      "published": "2026-11-06T04:04:54+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "U.S. Democrats embraced a broad coalition. Israel's opposition fears its own",
+      "summary_original": "While the Democratic Party is charting a new path against Trump's policies, nearly all Jewish Israeli opposition leaders remain unwilling to accept Arab voters as full partners in determining who governs",
+      "url": "https://www.haaretz.com/israel-news/haaretz-today/2026-11-05/ty-article/.highlight/u-s-democrats-embraced-a-broad-coalition-israels-opposition-fears-its-own/000001a1-ac4b-d2e9-a5ad-bedb1a320000",
+      "published": "2026-11-06T03:46:57+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Eisenkot secures 67 of 120 endorsements after his Yashar party backs him for PM",
+      "summary_original": "With a majority of elected Knesset members recommending Gadi Eisenkot, President Isaac Herzog is expected to task him with forming the next government",
+      "url": "https://www.haaretz.com/israel-news/elections/2026-11-05/ty-article/.premium/yashar-recommends-its-leader-gadi-eisenkot-to-form-israels-next-government/000001a1-acc0-d2e9-a5ad-bedae5e90000",
+      "published": "2026-11-06T02:33:48+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Case closed against cop who interrupted doctor giving CPR at anti-war rally",
+      "summary_original": "Dr. Udi Baharav was summoned for questioning for assaulting a police officer – and claims police are trying to obstruct the investigation against the volunteer police doctor, who he says blocked him from treating an unconcious protester",
+      "url": "https://www.haaretz.com/israel-news/israel-crime/2026-11-05/ty-article/.premium/case-closed-against-cop-who-interrupted-doctor-giving-cpr-at-anti-war-rally/000001a1-ac38-deae-a5ad-ae7d21170000",
+      "published": "2026-11-06T02:31:08+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "For first time, series of wildlife crossings in southern Israel will allow animals to cross major roads",
+      "summary_original": "The two crossings in southern Israel are designed to reconnect endangered gazelle populations separated by major roads and a railway line",
+      "url": "https://www.haaretz.com/science-and-health/nature-environment/2026-11-05/ty-article/.premium/series-of-wildlife-bridges-in-israel-will-allow-animals-to-cross-major-roads/000001a1-ab95-df0e-a9a3-bfdda0750000",
+      "published": "2026-11-06T02:22:09+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "When 'unity' is a bad word: Why any Netanyahu-led government is a disaster for Israel",
+      "summary_original": "What 'unity' can there be with a failed leader whose warmongering, racism and cruelty have led to the abyss? The delusional idea still holds sway – not just in Netanyahu's circles, but with Israel's president himself",
+      "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-05/ty-article-magazine/.premium/why-a-unity-government-would-be-a-disaster-for-israel/000001a1-ac33-d041-a5f9-ed333efd0000",
+      "published": "2026-11-06T01:48:35+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Israel Election 2026 live updates: Eisenkot, Netanyahu race to build government",
+      "summary_original": "Israel Election 2026 live updates: Eisenkot, Netanyahu race to build government The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CN25VOGU2aFhSN1VNd1h6Rk1mWWhjQjVhY01zbk5Pb2FfVktpX1lIYW80UnliUUdTajBVWWlCcjVkSHB5U2ttMnNqQzJyVXN4WXNSOTdSN082NHN0ZHpWLVhQblNSaWd6bm1HLVBxZWpsbXRMaW9xY2QyNmYyUQ?oc=5",
+      "published": "2026-11-06T05:41:36+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Ultra-Orthodox demonstrators block Jerusalem Light Rail during protest",
+      "summary_original": "Ultra-Orthodox demonstrators block Jerusalem Light Rail during protest The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ESkhvMW1WeFZEY0NoSHJ0dVE1S0JfVUNMN0dZRU54XzdCRUphaTFPUmFxekJlMXlqTl9acjJkcXRMMkNQamxqNnVvamtBUXJHVlNlc3dCNE9udXBs?oc=5",
+      "published": "2026-11-06T05:35:54+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "IDF raids outpost, arrests two after Jewish rioters torch Palestinian cars - report",
+      "summary_original": "IDF raids outpost, arrests two after Jewish rioters torch Palestinian cars - report The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jMm1VOFU0QWItU2twZ1lHU0lQNzZuSUZPNjFsUUFnb2dPdU04MzRRSWpuejBvekRJNGVaZU1aMk5QS0tXZ3lZdlNaUkcwNlhJTERKTFdlTzBfdDF4b0pONDlZMEZRNW10LVQzQXRB?oc=5",
+      "published": "2026-11-06T05:23:25+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Gadi Eisenkot expected to secure presidential mandate as Isaac Herzog finishes meeting",
+      "summary_original": "Gadi Eisenkot expected to secure presidential mandate as Isaac Herzog finishes meeting The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02Y3dQa3JxTmJ3U1JPem80SUtmVFBsYjZNWEdyZmhLZWo1ZWU3WnBGem5tZl9aWnpmb2lqeGxMSC0ycTdTSFNvWjEtNXREWTZTOHlTN1RUanpHSDV4VFRvekJxcGZ3Y2pD?oc=5",
+      "published": "2026-11-06T05:00:26+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Herzog warns political hostility in Israel impacts Diaspora Jews, calls for greater unity",
+      "summary_original": "Herzog warns political hostility in Israel impacts Diaspora Jews, calls for greater unity The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tTWZuYmp3ZkJNTFB0dHlpaWhDekVnc3FHWlk1NXJUanlfV2NVMlNsMFBhbENVSWs1SzlxWUtJeWI2dTNoeDhCcHZpSFlLMGJsUXB1c3FLenFLcXRKZVpzaHVQNHBpMlNkaGhBRi1GNzZyMHlfNHhRMzFpYw?oc=5",
+      "published": "2026-11-06T04:46:28+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Michigan Jews divided after El-Sayed’s Senate election",
+      "summary_original": "Michigan Jews divided after El-Sayed’s Senate election The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12anNwS3dPN19tZERkclpwZ0hVaTBrc1BzYlNKenhtaVZ2cUcxZXR6YThtY29DZjZXTzU0LTAzOUF5alBvSXFGRnQ3QWpGR09tVmNheTFVaUdwemFvWGViZ1Rhb19nYzJtRGc?oc=5",
+      "published": "2026-11-06T04:04:40+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Demolition of illegal West Bank Bedouin community begins as E1 plan faces legal challenges",
+      "summary_original": "Demolition of illegal West Bank Bedouin community begins as E1 plan faces legal challenges The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XaXNqNEhTamlJLVFkcjhMZTFtenZoclpONkoyeEJZSkhweGVEN201U01tVVpuZDhqT1RfWW9fOFNuUzNxVFl4eGNLNGpJU2JvemNHMS0yYmFqNVA0?oc=5",
+      "published": "2026-11-06T04:00:24+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "'Our fight will go on until victory,' Reza Pahlavi tells 'Post' before Freedom Prize",
+      "summary_original": "'Our fight will go on until victory,' Reza Pahlavi tells 'Post' before Freedom Prize The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wWERxUnJWUVIzZTdDN3A0QnQ4U2JPbklTN2k4WWh3ZnpZbjFzd3pGOVd5bnlsWHFrTlFQRzBTeDlBS0lEY3Q4dFUxZ1pNTUlXQzU2S1dEYk5GY1NSemdMTkZOQnFDVEpFV1E?oc=5",
+      "published": "2026-11-06T03:51:51+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Judges consider summoning attorney general over irregularities in Netanyahu corruption trial",
+      "summary_original": "Judges reveal they previously considered calling Gali Baharav-Miara to court amid disputes over the prosecution's handling of the bribery charge in Case 4000, saying the trial has involved 'many unusual things'",
+      "url": "https://www.ynetnews.com/article/ryjlb0t6me",
+      "published": "2026-11-05T18:56:36+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Shin Bet begins handing election interference evidence to police after days of delays",
+      "summary_original": "Security agency transfers intelligence on suspected foreign funding of Arab parties following clash with AG over demands to question lawmakers; investigators examine allegations involving Qatar, Turkey and PA; no arrests or interrogations currently planned",
+      "url": "https://www.ynetnews.com/article/bjjjvttpgg",
+      "published": "2026-11-05T18:06:57+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "As Haredi allies withhold support for Netanyahu, Eisenkot poised to secure most endorsements",
+      "summary_original": "Yashar! leader expected to win backing of 56 lawmakers to PM's 46 as Herzog concludes consultations; United Torah Judaism declines to endorse either candidate; Otzma Yehudit backs Netanyahu; Democrats support Eisenkot",
+      "url": "https://www.ynetnews.com/article/rydawnytgl",
+      "published": "2026-11-05T16:50:11+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Israel faces $10 billion military aid shortfall as Trump moves to end US funding",
+      "summary_original": "Jerusalem has ordered billions in American arms beyond Washington's existing commitments, complicating Trump's push to end military aid; lawmakers weigh shift to joint defense production as questions mount over who will pay for future arms deliveries",
+      "url": "https://www.ynetnews.com/article/bku19sktgl",
+      "published": "2026-11-05T16:19:47+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Iran turns universities into a new front in crackdown on dissent",
+      "summary_original": "Students face expulsion, intimidation and threats as Tehran intensifies its crackdown on campus protests, with the war providing fresh cover for repression",
+      "url": "https://www.ynetnews.com/article/sjwnkjk6ge",
+      "published": "2026-11-05T16:00:30+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "From quantum physics to poetry: Israel opens nominations for 2027 Landau Prizes",
+      "summary_original": "Mifal HaPais will award nine prizes of 150,000 shekels each, totaling 1.35 million shekels, to outstanding artists, scientists and a nonprofit promoting the inclusion of people with disabilities; applications are open through December 6",
+      "url": "https://www.ynetnews.com/article/syfwro00tgg",
+      "published": "2026-11-05T14:26:07+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Hezbollah is back: Lebanese army fails to fill the vacuum left by IDF",
+      "summary_original": "More than 100 days after the IDF handed three southern Lebanese villages to the Lebanese army, Hezbollah-linked aid groups have returned and oversight talks remain stalled, raising fears in Israel that the failed pilot could lead to renewed fighting",
+      "url": "https://www.ynetnews.com/article/by96jytpze",
+      "published": "2026-11-05T13:07:22+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Vance's post should set off alarm bells in Jerusalem, as 10 fierce critics of Israel enter Congress",
+      "summary_original": "JD Vance points to the Iran war and US ties with Israel among the reasons Republicans lost Congress, complicating Trump's plans on Tehran; the Democratic wave also brings 10 outspoken critics of Israel into the Senate and House of Representatives",
+      "url": "https://www.ynetnews.com/article/syb7mofaml",
+      "published": "2026-11-05T12:15:16+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Tax chief: We can bring in NIS 8b from black economy",
+      "summary_original": "Israel Tax Authority director Shay Aharonovich acknowledged that the next two years will be fiscally very challenging.",
+      "url": "https://en.globes.co.il/en/article-1001562340#utm_source=RSS",
+      "published": "2026-11-06T03:24:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Playtika surges after opting to remain independent",
+      "summary_original": "After a review of strategic alternatives, the gaming app company's board announced that \"Playtika will continue to operate as an independent, publicly traded company.\"",
+      "url": "https://en.globes.co.il/en/article-1001562334#utm_source=RSS",
+      "published": "2026-11-06T02:37:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Thu: Defense, tech stocks tumble",
+      "summary_original": "The main indices fell sharply today, the decline becoming steeper as Wall Street opened significantly lower.",
+      "url": "https://en.globes.co.il/en/article-1001562332#utm_source=RSS",
+      "published": "2026-11-06T01:53:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Time to buy the dip on the TASE?",
+      "summary_original": "Analysts weigh in on how investors should interpret the recent declines on the local exchange.",
+      "url": "https://en.globes.co.il/en/article-1001562328#utm_source=RSS",
+      "published": "2026-11-06T01:08:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Bezeq, Adgar to build data center in Petah Tikva",
+      "summary_original": "The deal signals Bezeq’s intention to create new growth engines outside the traditional realms of telephony and Internet, by capitalizing on the growing demand for data centers and AI infrastructure.",
+      "url": "https://en.globes.co.il/en/article-1001562217#utm_source=RSS",
+      "published": "2026-11-05T22:47:33+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Israel’s forex reserves back on the rise",
+      "summary_original": "Israel’s foreign exchange reserves at the end of October 2026 stood at $237.773 billion, an increase of $775 million from their level at the end of the previous month, the Bank of Israel reports.",
+      "url": "https://en.globes.co.il/en/article-1001562205#utm_source=RSS",
+      "published": "2026-11-05T21:51:07+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Ending US aid casts doubt on $10b in Israeli arms orders - report",
+      "summary_original": "Even if the US fulfills the current aid agreement through 2028, Israel will still require about $10 billion more to cover orders for US weaponry that have already been placed, “The Wall Street Journal” reports.",
+      "url": "https://en.globes.co.il/en/article-1001562188#utm_source=RSS",
+      "published": "2026-11-05T19:38:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "El Al reports higher revenue, lower profit, big dividend",
+      "summary_original": "Part of the reason for the fall in profit was because the company wrote down the value of its stake in credit card firm ICC-CAL, following the collapse of a deal to sell the company to George Horesh and the insurance firm Harel.",
+      "url": "https://en.globes.co.il/en/article-1001562172#utm_source=RSS",
+      "published": "2026-11-05T17:39:58+09:00",
+      "via": "rss",
+      "state_media": false
+    }
+  ],
+  "unavailable_sources": [
+    "Kan (KAN News)",
+    "N12 (Channel 12)"
+  ],
+  "errors": {
+    "Times of Israel": [
+      "rss 실패: HTTPError: HTTP Error 403: Forbidden"
+    ]
+  }
+}
