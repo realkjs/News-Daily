@@ -1,8 +1,35 @@
 {
   "team": "fr",
   "team_name_ko": "프랑스팀",
-  "collected_at": "2026-11-05T06:13:32.145084+09:00",
+  "collected_at": "2026-11-05T09:33:06.658011+09:00",
   "headlines": [
+    {
+      "source": "France 24",
+      "title_original": "L'Assemblée nationale rejette, à l'unanimité, en première lecture le budget de l'État 2027",
+      "summary_original": "Après avoir très largement modifié la copie gouvernementale, l'Assemblée nationale a rejeté mercredi, à l'unanimité des 458 votants, la partie \"recettes\" du projet de budget de l'État 2027, qui emporte avec elle tout le texte. Le Sénat va s'emparer du texte dans sa version initiale.",
+      "url": "https://www.france24.com/fr/france/20261104-assemblee-nationale-rejette-unanimite-en-premiere-lecture-budget-etat-2027-pib-finances",
+      "published": "2026-11-05T08:16:53+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Ligue des champions : le RC Lens étrillé par Côme à domicile",
+      "summary_original": "Les Sang et Or, complètement dépassés, ont été étrillés (9-1) contre Côme au stade Bollaert, mercredi lors de la 4e journée de phase de ligue. Le Real Madrid, difficile vainqueur de l'AEK Athènes (3-2), a lui rejoint le PSG en tête.",
+      "url": "https://www.france24.com/fr/sports/20261104-ligue-champions-rc-lens-etrille-par-come-domicile-football-nico-paz-defaite",
+      "published": "2026-11-05T07:37:24+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Législatives en Israël : Netanyahu assure qu'il existe de \"graves soupçons\" d'ingérence étrangère",
+      "summary_original": "Le Premier ministre Benjamin Netanyahu a affirmé mercredi qu'il existait \"de graves soupçons\" d’ingérence étrangère dans les élections législatives israéliennes. De son côté, la Liste unifiée, principal parti arabe israélien, a dénoncé une \"persécution politique\", après des accusations relayées par le camp de Benjamin Netanyahu affirmant que l'un de ses piliers, Ayman Odeh, était soupçonné de frau",
+      "url": "https://www.france24.com/fr/moyen-orient/20261104-l%C3%A9gislatives-isra%C3%ABl-netanyahu-assure-existe-graves-soup%C3%A7ons-ing%C3%A9rence-%C3%A9trang%C3%A8re",
+      "published": "2026-11-05T06:56:30+09:00",
+      "via": "rss",
+      "state_media": false
+    },
     {
       "source": "France 24",
       "title_original": "Après la déroute des midterms, les règlements de compte commencent chez les républicains",
@@ -49,38 +76,56 @@
       "state_media": false
     },
     {
-      "source": "France 24",
-      "title_original": "L'actu en dessin : le président Trump submergé par une vague démocrate lors des midterms",
-      "summary_original": "Une vague démocrate a déferlé jusque dans des bastions républicains lors des élections de mi-mandat, alimentée par la colère suscitée par la flambée des prix de l'énergie et la longue guerre contre l'Iran. Un vote sanction qui constitue une humiliation personnelle pour le président américain Donald Trump, même s'il a dit ne pas se sentir visé, et qui hypothèque ses deux dernières années de mandat.",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20261104-actu-en-dessin-pr%C3%A9sident-trump-submerg%C3%A9-vague-d%C3%A9mocrate-midterms",
-      "published": "2026-11-05T03:19:48+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "France 24",
-      "title_original": "Une \"maison de torture\" à Kiev ? Comment la photo d'un enfant a été instrumentalisée par la Russie",
-      "summary_original": "Lundi, près de Kiev, des rumeurs de torture dans un centre de détention de déserteurs géré par la Garde nationale ukrainienne ont déclenché une manifestation violente. La diplomatie russe et des responsables d'extrême droite européens ont par la suite diffusé la photo d'un adolescent présenté comme une victime du centre. Ce dernier faisait en fait partie des manifestants.",
-      "url": "https://www.france24.com/fr/europe/20261104-ukraine-maison-torture-kiev-photo-enfant-instrumentalis%C3%A9e-russie",
-      "published": "2026-11-05T03:07:55+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "France 24",
-      "title_original": "Midterms : Donald Trump face au verdict des urnes",
-      "summary_original": "Matthieu Mabin analyse la situation en direct de Washington.",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-donald-trump-face-au-verdict-des-urnes-1",
-      "published": "2026-11-05T02:57:34+09:00",
+      "source": "franceinfo (France 2)",
+      "title_original": "\"Ce n'est pas une défaite, c'est une leçon\"... Le RC Lens sonné et humilié après sa débâcle historique en Ligue des champions contre Côme",
+      "summary_original": "Après avoir encaissé neuf buts, mercredi, Yannick Cahuzac et ses joueurs n'ont pas cherché d'excuses et seront sous pression dimanche pour un nouveau match à Bollaert, face à l'OM.",
+      "url": "https://www.franceinfo.fr/sports/foot/rc-lens/ce-n-est-pas-une-defaite-c-est-une-lecon-le-rc-lens-sonne-et-humilie-apres-sa-debacle-historique-en-ligue-des-champions-contre-come_8268518.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-05T07:52:47+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "franceinfo (France 2)",
-      "title_original": "Mobilisation du 5 novembre : la justice valide l'interdiction de la manifestation parisienne entre Bastille et Concorde",
+      "title_original": "Mobilisation du 5 novembre : la justice valide l'interdiction de la manifestation parisienne entre Bastille et Concorde, la CGT accepte le parcours République-Nation",
       "summary_original": "La préfecture de police de Paris appelle les manifestants à emprunter le parcours alternatif autorisé entre la place de la République et la place de la Nation.",
       "url": "https://www.franceinfo.fr/societe/manifestations/le-ministere-de-l-education-nationale-estime-a-17-54-le-taux-de-grevistes-dans-le-premier-degre-public-pour-la-mobilisation-du-5-novembre_8267255.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-05T06:04:08+09:00",
+      "published": "2026-11-05T07:46:24+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "Midterms 2026 : le chef des députés républicains va se retirer, le démocrate Hakeem Jeffries en lice pour présider la Chambre des représentants",
+      "summary_original": "Les démocrates ont remporté la majorité absolue dans les deux chambres du Congrès américain mardi, lors des élections de mi-mandat.",
+      "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-nette-avance-democrate-au-congres-des-premieres-victoires-historiques-suivez-les-resultats-des-elections-de-mi-mandat_8265776.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-05T07:45:56+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "Législatives en Israël : Benyamin Nétanyahou évoque \"de graves soupçons\" d'ingérences étrangères",
+      "summary_original": "C'est la première fois depuis le scrutin du 27 octobre que le Premier ministre sortant s'empare de ces allégations, non étayées à ce stade, en sa qualité de chef du gouvernement.",
+      "url": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/legislatives-en-israel-benyamin-netanyahou-evoque-de-graves-soupcons-d-ingerences-etrangeres_8268485.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-05T07:05:26+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "Humilié par Côme, le RC Lens encaisse la plus large défaite d'un club français en Ligue des champions",
+      "summary_original": "Les Lensois ont concédé leur troisième revers de rang en Ligue des champions, mercredi, face à Côme.",
+      "url": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/humilie-par-come-le-rc-lens-encaisse-la-plus-large-defaite-d-un-club-francais-en-ligue-des-champions_8268452.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-05T06:57:53+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "Autoritaire, Arthur Fils réussit son entrée en lice au Masters 1000 de Paris et rallie les huitièmes de finale",
+      "summary_original": "La tête de série n°6 n'a laissé aucune ouverture à Tomas Machac (60e mondial), mercredi, s'imposant en deux sets maîtrisés.",
+      "url": "https://www.franceinfo.fr/sports/tennis/masters-1000/autoritaire-arthur-fils-reussit-son-entree-en-lice-au-masters-1000-de-paris-et-rallie-les-huitiemes-de-finale_8268386.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-05T06:53:25+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -89,205 +134,214 @@
       "title_original": "La mère d'élèves suspectée d'avoir commis une agression dans une école de Nice mise en examen et placée en détention provisoire",
       "summary_original": "Cette femme de 36 ans est mise en examen notamment pour \"tentatives de meurtre sur un enseignant ou tout membre du personnel travaillant dans un établissement scolaire\".",
       "url": "https://www.franceinfo.fr/faits-divers/la-mere-d-eleves-suspectee-d-avoir-commis-une-agression-dans-une-ecole-de-nice-mise-en-examen-et-placee-en-detention-provisoire_8268437.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-05T05:52:24+09:00",
+      "published": "2026-11-05T06:12:40+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "franceinfo (France 2)",
-      "title_original": "Clous, aiguilles et épingles dans des bonbons d'Halloween... Des enquêtes ouvertes dans plusieurs pays d'Europe centrale, une fillette blessée en Autriche",
-      "summary_original": "Des cas ont été signalés dans plusieurs régions d'Autriche, ainsi qu'en Allemagne, en Hongrie et en Pologne. La police autrichienne évoque \"un mode opératoire comparable\", sans \"lien établi\" à ce stade entre ces affaires.",
-      "url": "https://www.franceinfo.fr/decouverte/halloween/clous-aiguilles-et-epingles-dans-des-bonbons-d-halloween-des-enquetes-ouvertes-dans-plusieurs-pays-d-europe-centrale-une-fillette-blessee-en-autriche_8268428.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-05T05:46:29+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "franceinfo (France 2)",
-      "title_original": "TGV, TER, RER... La SNCF dévoile son plan de circulation à la veille de la mobilisation du 5 novembre",
-      "summary_original": "Au moins neuf TGV sur 10 circuleront lors de cette journée, mais certaines lignes régionales seront plus perturbées.",
-      "url": "https://www.franceinfo.fr/economie/greve/greve/tgv-ter-rer-la-sncf-devoile-son-plan-de-circulation-a-la-veille-de-la-mobilisation-du-5-novembre_8268011.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-05T04:51:08+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "franceinfo (France 2)",
-      "title_original": "Guerre en Ukraine : Volodymyr Zelensky accorde une décoration à Melania Trump pour son engagement \"humanitaire\"",
-      "summary_original": "La Première dame des Etats-Unis a notamment été impliquée dans un récent cessez-le-feu localisé ayant permis l'évacuation de la ville ukrainienne d'Olechky.",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymyr-zelensky-accorde-une-decoration-a-melania-trump-pour-son-engagement-humanitaire_8268350.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-05T04:29:15+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "franceinfo (France 2)",
-      "title_original": "Midterms 2026 : la guerre en Iran \"doit prendre fin\", plaide le chef des démocrates au Sénat, après la victoire de son camp face aux républicains de Donald Trump",
-      "summary_original": "Les démocrates ont remporté la majorité absolue dans les deux chambres du Congrès américain mardi, lors des élections de mi-mandat.",
-      "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-nette-avance-democrate-au-congres-des-premieres-victoires-historiques-suivez-les-resultats-des-elections-de-mi-mandat_8265776.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-05T04:11:40+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "franceinfo (France 2)",
-      "title_original": "\"Il était le meilleur choix possible\" : dans la ville du nouveau sénateur du Texas James Talarico, les démocrates espèrent que les midterms \"apporteront du changement\"",
-      "summary_original": "Le modéré, élu avec plus de 55% des voix, deviendra en janvier le premier démocrate à représenter le Texas au Sénat depuis 1988.",
-      "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/reportage-il-etait-le-meilleur-choix-possible-dans-la-ville-du-nouveau-senateur-du-texas-james-talarico-les-democrates-esperent-que-les-midterms-apporteront-du-changement_8268125.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-05T04:02:10+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "franceinfo (France 2)",
-      "title_original": "Le ministre de l'Education nationale annonce une plainte après un tir de mortier dans l'enceinte d'un lycée de Lille",
-      "summary_original": "L'académie de Lille confirme à franceinfo que l'auteur est un élève, mais son identité n'a pas encore été établie.",
-      "url": "https://www.franceinfo.fr/faits-divers/le-ministre-de-l-education-nationale-annonce-une-plainte-apres-un-tir-de-mortier-dans-l-enceinte-d-un-lycee-de-lille_8268086.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-05T02:35:23+09:00",
+      "title_original": "Joyon, Le Cléac'h, Caudrelier... Y a-t-il vraiment plus d'abandons dans cette édition de la Route du Rhum ?",
+      "summary_original": "Beaucoup de grands noms et favoris ont déjà dû abandonner la Transatlantique, partie dimanche de Saint-Malo pour rejoindre la Guadeloupe en fin de semaine.",
+      "url": "https://www.franceinfo.fr/sports/voile/route-du-rhum/joyon-le-cleac-h-caudrelier-y-a-t-il-vraiment-plus-d-abandons-dans-cette-edition-de-la-route-du-rhum_8267576.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-05T06:11:56+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "TF1 Info",
-      "title_original": "\"Des moustiques infectés\" : les causes des cas mortels de paludisme détectés en Allemagne cet été dévoilées",
-      "summary_original": "\"Des moustiques infectés\" : les causes des cas mortels de paludisme détectés en Allemagne cet été dévoilées TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ0cwSVdZcnU3Q2FjUWFNZjBrQmFtWWlLTkxEcHBpYVE0Q0FBXzZ6SGtCd3hoNFQ1S2c4NDFxd2NCckJxSlBUMTFMbmQtel9wOE1KSG5nUlZKb3BqTnJvUFAzbWR3YmdzRDg5R2tfcW9GSWlaRXJpczVvN0J1aWtucHBVR1VOX283QVM4amUzRFlnLUNCRm5xaXh5a1JKLVNaeEVqeWpVQ1J3RVhrRkhCTko0NmlNcl8zZFhsRDlmQm5qM0Juclo5Z2RYakhXZ1M5djZuY3hFMWxLd25vLU1yTHU5ZkpvVU5w?oc=5",
-      "published": "2026-11-05T06:10:19+09:00",
+      "title_original": "Lunettes : de plus en plus connectées",
+      "summary_original": "Lunettes : de plus en plus connectées TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMmtUUWh5OUNYbGlxVFd5WllZdVZ0RDAxaEZUVmI1dTR5VnVnanpsZWRicFBKRDEwOTNKTUR3UmxEXzAzWmo2djFGaG9XQ1dic2xJdjdyQjgwdmpNTGtPSnhLckdUT1N0Sk1xWGVvZGhJVTlVV285Z3RVZGNpaTlOS3M0TGZTTlF6TnZWcmpoajJjd1gtOXpYZ29qejhPMXNtcVE?oc=5",
+      "published": "2026-11-05T09:20:10+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "TF1 Info",
-      "title_original": "On a parlé séduction avec les acteurs de la série \"Campus Drivers\"",
-      "summary_original": "On a parlé séduction avec les acteurs de la série \"Campus Drivers\" TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN0U0dEV0VThIeW52MUlpNWtPN0x1ZFU1RWluQ1VJUU1IQm5NRUVlMXQyU2pPYjJ6ZUFaTkFoSHNsSkR5M01JNkVScU9IN1NtYXFScm1iSEJBMFlyWGpma210akRGSmpxUkhyeUtiLVBVZm1KZldtMWwxajNMQUowb0ZLb2dubHhzQnRRQ3Z3bmhOQ2ZyZGZoVjlyV21yWEFVcVhqSnF4amZaVUZISGs3c2lkUk5OaDVvNlRZQWhXd2I?oc=5",
-      "published": "2026-11-05T06:00:13+09:00",
+      "title_original": "Plusieurs Picasso volés : des suspects interpellés",
+      "summary_original": "Plusieurs Picasso volés : des suspects interpellés TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTWdRMkVSeEdURTlieFVCeDJnMmJleUYzZWhEbEFMbS01dVRlMDNNNkd3b2IzTEh0WS1CamZERGd5dTkzUVpXblptWUFoN3VkeDlwT0ZQQUhuZ2JJS1k3Sk9ZdXFsZW5jNV92TVB3QjI1Mk1Nb3doV2UzQkRGeGNRVE9Wek9QNVdfWGNHSU1YVGsyUEJJUDM3NDlybHBVeFFmZnBJaXlhY3AxVE50ZjFtQV9xc2Q2SEowZ2k3Sll0SDZ5QQ?oc=5",
+      "published": "2026-11-05T09:05:09+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "TF1 Info",
-      "title_original": "\"Moulin\" n°1 du box-office : la Seconde Guerre mondiale secoue (encore) le cinéma français",
-      "summary_original": "\"Moulin\" n°1 du box-office : la Seconde Guerre mondiale secoue (encore) le cinéma français TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaWllNE1MQkp6SlV0OFJQeHhWRlBNNE5GTU04Qm5jODlZNjg5QXVzc01EcVdZRE15Nnd3eHJMQ1NBZkFPVnNhRmZxT0ZmOEY2UWRtc2pUbV9rcDkweHlEVi0tRGNtMm56Rks3eFp3QUF2V1ZzeTloQV9rNERRTEZvQXVEazFyajl2TlZUczdLNTVnNmVpeFhVbTFxYko3TU1ZLVlqdjBVTlM5SDJJaTZ5Sl9HMTVhcnFtSzVzUjdlU0xZU0p5M2ZySzNzcG5BZzdpMEZNRkxNUnE1Qk15T0RfajlUYUo?oc=5",
-      "published": "2026-11-05T05:44:04+09:00",
+      "title_original": "Des drones pour aider les agriculteurs",
+      "summary_original": "Des drones pour aider les agriculteurs TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWllNdHVoWjNpOERpOWR4MjJMSnpVbjBQbjJYNmJES09uZ0pWODE3TjRhRXEzS1RDcnBkYVo2VHFoV1dwRTFzU2d3U2MtTkdGMGxjU3BxSjZCNVNPYXlpQUV0RXZJeXlwWWkyTlFUb1RxTUVIWW9OTVZid1FjS1BjWmZzQnRVUjBWcElmdTNCT29ESlZOX1E0XzAyN2hBTE1DSDFuak9B?oc=5",
+      "published": "2026-11-05T09:00:21+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "TF1 Info",
-      "title_original": "Agression dans une maternelle de Nice : la mère mise en examen pour tentatives de meurtre et écrouée",
-      "summary_original": "Agression dans une maternelle de Nice : la mère mise en examen pour tentatives de meurtre et écrouée TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOS0NvaWhFOTZtRUp2ZG1TYmhZb1p2dGtNeW5LbnV3Sm1TZTFrN29TLTZhNFBaVHlrdklJYWlrZDl3amhBVk02aDJmMHJ6c2YxNG4xWkJiQzBqZ2hiSWJOT21Yb2I1cWMwenFuaF8zOWlLLUZybmtERDNLalJOS0FZbVQtZzNsOHp0VHZ5TUxQUklhT0dwUmN3ZlJPWVpkdzhJdExVMVZEeldBcVo5ZWFxRW54SmxPUjZuRHduT2hZSXpCWkNNQVNTRjFxMllkN2NTZi16S3hGaDFWOEp4TTNpTVNGUUlyc2F1M3RV?oc=5",
-      "published": "2026-11-05T05:40:39+09:00",
+      "title_original": "Vols de Picasso : plusieurs suspects interpellés, les gravures retrouvées",
+      "summary_original": "Vols de Picasso : plusieurs suspects interpellés, les gravures retrouvées TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMkwzOGJXamQxWHFTNUZSd3FMTVlMbTVwUjlCaDZ4MUFBcEVVVGxOZEFGSXdIc0MwUzdqRkdrVzlwbHg5YXNUaEt4eDRld3dkWUtFUkFtSDJEUU1tbHlmTGlnUmk0blV4MnNTWTZNZy05SWd0ZXhIcGF2TGlzLUlmV0J1VS1CdTVUVDFsaGpqZnBVZkFtNXIwdzl5NzN0RG9DV3RTLWJHOVlYQ09qYlVVVzA3RnpYUGFxT05JVjA4MVdfTXBXYzlTVC1GRWk1Zk53ellIYlg4ai1tREZYUUlj?oc=5",
+      "published": "2026-11-05T08:25:19+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "TF1 Info",
-      "title_original": "Cyberespionnage : une entreprise française détecte une nouvelle campagne de la Russie ciblant des téléphones portables",
-      "summary_original": "Cyberespionnage : une entreprise française détecte une nouvelle campagne de la Russie ciblant des téléphones portables TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRlBrbFo0R01wLXVNcGVxbmFJVndESWd6czJRUnFMdk9aeW1iYmlnV1ByeGNQOEV0bmpJZnpLUWpxOTZsdzBWSjJpSnJXUi1ONnZqM3JVNXZIZkxUSFhzbmdsNVFMU3hFRUVWSUdHbVFnRmEta09Fc3Y0SWROb1dMU1NDVDNKeWplVkc1N3VfTXJidVladEtRZTIwbUVHNUdKc2c5elBPNkUwLUFmT0wxdTJHdjF2a2RkbGU3VjlDWEF5eTVuajMtZHJsbGtLVWhPQkx0UmN6YlM1UmwzSzJkQ1g4UzdsdUlaYlBnaFZ0eTltb0RH?oc=5",
-      "published": "2026-11-05T05:32:05+09:00",
+      "title_original": "Budget 2027 : l'Assemblée nationale rejette, à l'unanimité, la copie budgétaire modifiée",
+      "summary_original": "Budget 2027 : l'Assemblée nationale rejette, à l'unanimité, la copie budgétaire modifiée TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWFNlOVpSVnV5TTRPVWNlYlVzOEt6YlVNVy13UDJPTGQzREdaVEllM1ZGeTQtbVVjdWNHcDNYZk9EZmtUVzZ3V1Zvb2pTMlNrZ1dLWVNGMkpVS3VfZEdKaE1EdWllbUNIVGFXcnctRGZVT3RYWUJDdm5QU3JEQmNYRlg2M2hDajF5UlFhSmk3RVdXQzBJb3Vub1VSc05TYUtRc1c3SGZySEZIVDFYbWhlM2d3emFsM1lOQlVPT3NHNFVpa1JldVh5UWlwTkFJYzhkMjJySF83M3E2YzJMeUVsTXRybDQ?oc=5",
+      "published": "2026-11-05T07:37:24+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "TF1 Info",
-      "title_original": "\"Ce n'est pas possible quand on est censé faire rêver les gens\" : Mosimann recadre un de ses élèves à la \"Star Academy\"",
-      "summary_original": "\"Ce n'est pas possible quand on est censé faire rêver les gens\" : Mosimann recadre un de ses élèves à la \"Star Academy\" TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPenE2TlM1a0R0SXJwYlJCWDR3dnUzRFZHMVBDeXpaZnpXMkFjVTEyV2FPeGdPN1JSazAtemVpYjQ2TXY2bE9xQndpRzhuWF9aOFdrU3RjSUlaRzBPNHNLcXNrQ2VqT3V3X2lrR0RWcWhDRmF1emFYZEVTU2hJNFFhV1ZLRmQycUREbXJPdE40My14WnpBajNwZzZNa3RQMmg3R3l2VEswd1dEMWFiWmxOVEdaV3QzV28xTnFzeGdLTl9qUklRME1MVzVkNU9GNHZyMkJIZ2dlZkM?oc=5",
-      "published": "2026-11-05T05:15:09+09:00",
+      "title_original": "Humilié par Côme (1-9), le RC Lens concède la plus lourde défaite d'un club français en Ligue des champions",
+      "summary_original": "Humilié par Côme (1-9), le RC Lens concède la plus lourde défaite d'un club français en Ligue des champions TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSVlsTU5tYkpfdU5jaGY5VGdnanIwRkw2bUtvZ3YxVTRGUW5WaGdfRmZLUUY0Nm9HNmZEZXJ2Nk02WWtQWkJCcFowMldNS0ZYV3RTMm12Mkp2NXpvS2hMdGJnZUk2ZXF6OTZqNl9mSXRQVERiZERGLUZtcjVQWjB5a1VfZHhGaEEzTnhFVXJLLVhXazR5aTY2WXBOOGNoLTY1NUZyVVNJVlNRU0JpWVJoT2RjNnpkN3Rta2t5NW42d3JkRTNuUmRhOG9fMzZtYUVqZUNqelUxcnZDR1FKQWRN?oc=5",
+      "published": "2026-11-05T07:02:02+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "TF1 Info",
-      "title_original": "\"Immense colère\" : le non-lieu général dans l'accident de car de Puisseguin en 2015 confirmé en cassation",
-      "summary_original": "\"Immense colère\" : le non-lieu général dans l'accident de car de Puisseguin en 2015 confirmé en cassation TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQmJNMWZ5M1UwWGY1d0s3NmMyMlc4d0RmRHRiNFpIQ2ZZbHZ3VXBocUtLc1FKNjRoT0xBQTBMa1Z4VTdYbDlLUjNtY1Rmc2FQc1ZiUXVpRG1TSjFiZTM2WnJqRjNDUGQzOGxodHpwMVlVSmJaZ3ZHZDZsZUhsWVdfSlByU1VNa0FUbU0tYWxpVEE5U05BeWUtelJMV0ZsR1VGdFE2V2phVnpEcnBEX2R2M1lmVXQ2WGlid2p3eXBjMzJwaFJOd0JRem50VGFDeklDMXFENXRQZ2g4SjRNYVI5WjUzbV9MczM0QlhqekRFaw?oc=5",
-      "published": "2026-11-05T05:07:25+09:00",
+      "title_original": "Mediapart recalé, militants contre l'antisémitisme mobilisés... Soirée de lancement agitée pour le livre de Jordan Bardella",
+      "summary_original": "Mediapart recalé, militants contre l'antisémitisme mobilisés... Soirée de lancement agitée pour le livre de Jordan Bardella TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQR3M1NHA1dzFmX2xVM2NaM1pfYWtQYWJOQkpDSmliOUxiVlRUOTNuRTQ0RHFrX0hZV0RHQnJnSGljd1ZMeHBaTXVHTDJuWG9zZzBIQWpGWnNQcElYNHVDT1cxTXdDeU5CZ3d2aEhlY1JVbzg5RWl5Y2ZCdFltUndtdXJoQ0NyWjdGdHkxeXJpOW1Ud2RLUWZxRzdzSnk1X3pRR3BFclM2cWs4RzZqTmx2WW5pV1hRLXBPaHZxR0d4QlV3aGVnVDFNM2U4ZE82U0lfajNmTnloY1hFVGR4bmZCZFAxcDY0Z29MUVFtZFJKVHJiYkQ2aTREdA?oc=5",
+      "published": "2026-11-05T06:51:18+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "TF1 Info",
-      "title_original": "Santé, supermarchés... des pirates sans limite",
-      "summary_original": "Santé, supermarchés... des pirates sans limite TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbG1mQTlmdkFDNXdBRFpsU0VFa3ROb3BSTV9MRy1GREdlT1FqNmR6V0dyQmJSNTBuSm5mRUtiUE5YMmxNdHVwZzRLWUlab1dVamx4QU1kTG9kMG5LbmZQYlhiTGZBdWpHaEgtRmRvOC1QektIelYxc29BUHpHc010bkpFOVdqTzRqV2dmWmF1QW5zcnZXYmNXODVHVHJBZ00yVDltRFdEVFJLdE1fUFd2UFpWVDM2dHR1Y3c?oc=5",
-      "published": "2026-11-05T04:45:24+09:00",
+      "title_original": "Transports en commun : les horaires, dans votre poche !",
+      "summary_original": "Transports en commun : les horaires, dans votre poche ! TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFUyQnQ1dVdCRG9vUXd2RExYNUMyR2pqbUNOdE1fSy04Z1g2bDB1VFZNSXRZdTQwb0hYZzJSaDNoYnhDRzVHZE1Va2dHNk92dm5LNVJFSjFtM0dfbzljdFFETHdRdmhuWkdLZFkzN1Jka1RSSG9KblQtRVcyUGZyVmN2SDQ3ODNnOGhlNE12OGxyRVpYMHN6VVlwZFRmWm1RV0F1c1FTeEZJZU1JV0ZtaW4xZHNzZw?oc=5",
+      "published": "2026-11-05T06:20:19+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "La piste du matricide se profile après la mort d'une femme de 57 ans en Alsace en octobre",
-      "summary_original": "Le parquet de Strasbourg a communiqué sur la mort d'une femme à Gumbrechtshoffen en octobre. Il évoque la piste d'un matricide.",
-      "url": "https://www.bfmtv.com/alsace/la-piste-du-matricide-se-profile-apres-la-mort-d-une-femme-de-57-ans-en-alsace-en-octobre_AD-202611040964.html",
-      "published": "2026-11-05T06:11:20+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BFMTV",
-      "title_original": "FORUM BFMTV - \"Le gouvernement a peur de nos mobilisations\", assure Iliès, étudiant à Paris",
+      "title_original": "FORUM BFMTV - Manifs, vie chère: la France à cran",
       "summary_original": "Entre inflation et baisse du pouvoir d’achat, BFMTV consacre une soirée spéciale à l’enlisement de la crise sociale en France. Confrontés à cette situation de crise, les Français sont de plus en plus nombreux à faire entendre leur voix. Ce mercredi 4 novembre, BFMTV a proposé un nouveau numéro du FORUM BFMTV : « Manifs, vie chère : la France à cran » présenté par Maxime Switek.",
-      "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-le-gouvernement-a-peur-de-nos-mobilisations-assure-ilies-etudiant-a-paris_VN-202611040963.html",
-      "published": "2026-11-05T06:07:40+09:00",
+      "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-manifs-vie-chere-la-france-a-cran_VN-202611041023.html",
+      "published": "2026-11-05T08:11:50+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "FORUM BFMTV - Mobilisation lycéenne: \"Le mouvement n'est pas en recul et on va le voir demain\", estime Henry, lycéen et porte-parole \"Les Lycéens !\"",
+      "title_original": "RC Lens - Côme : la réaction de Ruben Aguilar après la déroute historique",
+      "summary_original": "Lens battu à domicile par Côme, 9 buts à 1 en Ligue des champions. Une défaite historique pour un club français. \"On s'est fait marcher dessus\", reconnaît Ruben Aguilar.",
+      "url": "https://www.bfmtv.com/grand-littoral/sport/video-rc-lens-come-la-reaction-de-ruben-aguilar-apres-la-deroute-historique_VN-202611041006.html",
+      "published": "2026-11-05T07:57:34+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "FORUM BFMTV - Passe d'armes entre Matthieu Valet, porte-parole du \"Rassemblement national\" et Mélanie Vogel, présidente du groupe \"Écologiste\" au Sénat, au sujet des mesures d'urgence pour lutter contre la vie chère",
       "summary_original": "Entre inflation et baisse du pouvoir d’achat, BFMTV consacre une soirée spéciale à l’enlisement de la crise sociale en France. Confrontés à cette situation de crise, les Français sont de plus en plus nombreux à faire entendre leur voix. Ce mercredi 4 novembre, BFMTV a proposé un nouveau numéro du FORUM BFMTV : « Manifs, vie chère : la France à cran » présenté par Maxime Switek.",
-      "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-mobilisation-lyceenne-le-mouvement-n-est-pas-en-recul-et-on-va-le-voir-demain-estime-henry-lyceen-et-porte-parole-les-lyceens_VN-202611040961.html",
-      "published": "2026-11-05T06:05:24+09:00",
+      "url": "https://www.bfmtv.com/politique/video-forum-bfmtv-passe-d-armes-entre-matthieu-valet-porte-parole-du-rassemblement-national-et-melanie-vogel-presidente-du-groupe-ecologiste-au-senat-au-sujet-des-mesures-d-urgence-pour-lutter-contre-la-vie-chere_VN-202611041001.html",
+      "published": "2026-11-05T07:44:04+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "FORUM BFMTV - \"Notre gouvernement n'écoute rien ni personne\", estime Chloé, professeure d'équitation et ancienne gilet jaune",
+      "title_original": "Procès du triple narchomicide près de Marseille: un mis en cause maintient ses déclarations chocs contre d'autres accusés",
+      "summary_original": "Mercredi 4 novembre, au procès du triple narchomicide près de Marseille, un des mis en cause a réitéré des accusations contre les autres accusés.",
+      "url": "https://www.bfmtv.com/marseille/proces-du-triple-narchomicide-pres-de-marseille-un-mis-en-cause-maintient-ses-declarations-chocs-contre-d-autres-accuses_AD-202611040997.html",
+      "published": "2026-11-05T07:41:19+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "FORUM BFMTV - \"Ce qui est exceptionnel pour un policier, c'est de passer du temps avec sa famille\", affirme Jean-Christophe Couvy, du syndicat de police UN1TÉ, à propos des manifestations",
       "summary_original": "Entre inflation et baisse du pouvoir d’achat, BFMTV consacre une soirée spéciale à l’enlisement de la crise sociale en France. Confrontés à cette situation de crise, les Français sont de plus en plus nombreux à faire entendre leur voix. Ce mercredi 4 novembre, BFMTV a proposé un nouveau numéro du FORUM BFMTV : « Manifs, vie chère : la France à cran » présenté par Maxime Switek.",
-      "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-notre-gouvernement-n-ecoute-rien-ni-personne-estime-chloe-professeure-d-equitation-et-ancienne-gilet-jaune_VN-202611040959.html",
-      "published": "2026-11-05T05:58:10+09:00",
+      "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-ce-qui-est-exceptionnel-pour-un-policier-c-est-de-passer-du-temps-avec-sa-famille-affirme-jean-christophe-couvy-du-syndicat-de-police-un1te-a-propos-des-manifestations_VN-202611040996.html",
+      "published": "2026-11-05T07:34:07+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "FORUM BFMTV - \"Ces politiques nous ont retiré notre dignité\", assure Bruno, agriculteur",
+      "title_original": "FORUM BFMTV - \"C'est la colère sociale qui monte\": Cédric, commercial en recherche d'emploi, explique pourquoi il ira manifester ce jeudi 5 novembre",
       "summary_original": "Entre inflation et baisse du pouvoir d’achat, BFMTV consacre une soirée spéciale à l’enlisement de la crise sociale en France. Confrontés à cette situation de crise, les Français sont de plus en plus nombreux à faire entendre leur voix. Ce mercredi 4 novembre, BFMTV a proposé un nouveau numéro du FORUM BFMTV : « Manifs, vie chère : la France à cran » présenté par Maxime Switek.",
-      "url": "https://www.bfmtv.com/politique/video-forum-bfmtv-ces-politiques-nous-ont-retire-notre-dignite-assure-bruno-agriculteur_VN-202611040958.html",
-      "published": "2026-11-05T05:57:30+09:00",
+      "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-c-est-la-colere-sociale-qui-monte-cedric-commercial-en-recherche-d-emploi-explique-pourquoi-il-ira-manifester-ce-jeudi-5-novembre_VN-202611040993.html",
+      "published": "2026-11-05T07:28:27+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "FORUM BFMTV - Vie chère: \"Cela fait cinq ans que je cumule deux emplois\", explique Myriam, AESH et hôtesse de caisse",
+      "title_original": "Budget 2027: l'Assemblée nationale rejette en première lecture à l'unanimité la partie \"recettes\" du projet de loi de finances",
+      "summary_original": "L'Assemblée nationale a rejeté en première lecture à l'unanimité la première partie du projet de loi de finances. Le texte a récolté 458 voix contre issues de tous les groupes, et deux abstentions au sein du groupe communiste et ultramarin.",
+      "url": "https://www.bfmtv.com/politique/parlement/budget-2027-l-assemblee-nationale-rejette-en-premiere-lecture-a-l-unanimite-la-partie-recettes-du-projet-de-loi-de-finance_AD-202611040991.html",
+      "published": "2026-11-05T07:25:16+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "FORUM BFMTV - \"Cela fait 10 ans que la situation se dégrade\", observe Mélanie Vogel, présidente du groupe \"Écologiste\" au Sénat",
       "summary_original": "Entre inflation et baisse du pouvoir d’achat, BFMTV consacre une soirée spéciale à l’enlisement de la crise sociale en France. Confrontés à cette situation de crise, les Français sont de plus en plus nombreux à faire entendre leur voix. Ce mercredi 4 novembre, BFMTV a proposé un nouveau numéro du FORUM BFMTV : « Manifs, vie chère : la France à cran » présenté par Maxime Switek.",
-      "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-vie-chere-cela-fait-cinq-ans-que-je-cumule-deux-emplois-explique-myriam-aesh-et-hotesse-de-caisse_VN-202611040956.html",
-      "published": "2026-11-05T05:52:24+09:00",
+      "url": "https://www.bfmtv.com/politique/video-forum-bfmtv-cela-fait-10-ans-que-la-situation-se-degrade-observe-melanie-vogel-presidente-du-groupe-ecologiste-au-senat_VN-202611040990.html",
+      "published": "2026-11-05T07:14:59+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "BFMTV",
-      "title_original": "INFO BFMTV - Le tribunal administratif rejette le recours de l'intersyndicale et valide le parcours République-Nation de la préfecture de police de Paris pour la manifestation de ce jeudi 5 novembre",
-      "summary_original": "D'après les informations de BFMTV, le tribunal administratif a rejeté le recours de l'intersyndicale déposé après l'interdiction du parcours Bastille-Concorde soumis pour la manifestation prévue demain à Paris. La justice a validé l'itinéraire alternatif proposé par la préfecture de police, reliant la place de la République à la place de la Nation.",
-      "url": "https://www.bfmtv.com/police-justice/video-info-bfmtv-le-tribunal-administratif-rejette-le-recours-de-l-intersyndicale-et-valide-le-parcours-republique-nation-de-la-prefecture-de-police-de-paris-pour-la-manifestation-de-ce-jeudi-5-novembre_VN-202611040955.html",
-      "published": "2026-11-05T05:51:26+09:00",
+      "source": "Le Monde",
+      "title_original": "Le RC Lens subit « une humiliation » face à Côme en Ligue des champions et poursuit son début de saison tumultueux",
+      "summary_original": "Les Sang et Or sont devenus la première équipe de l’histoire à concéder neuf buts en Ligue des champions à domicile, mercredi, lors de leur défaite face à la formation italienne (1-9). Cette gifle intervient alors que le club traverse une période compliquée.",
+      "url": "https://www.lemonde.fr/sport/article/2026/11/05/le-rc-lens-subit-une-humiliation-face-a-come-en-ligue-des-champions-et-poursuit-son-debut-de-saison-tumultueux_6806503_3242.html",
+      "published": "2026-11-05T08:41:50+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "BFMTV",
-      "title_original": "Colère lycéenne: face-à-face entre Ryad Rani (USL) et l'ancien ministre Jean-Michel Blanquer",
-      "summary_original": "Ryad Rani, président de l'Union syndicale lycéenne et Jean-Michel Blanquer, ancien ministre de l'Éducation nationale étaient invités sur BFMTV ce mercredi 4 novembre 2026.",
-      "url": "https://www.bfmtv.com/societe/greves/video-colere-lyceenne-face-a-face-entre-ryad-rani-usl-et-l-ancien-ministre-jean-michel-blanquer_VN-202611040957.html",
-      "published": "2026-11-05T05:49:51+09:00",
+      "source": "Le Monde",
+      "title_original": "Présidentielle 2027 : Emmanuel Macron préconise une coalition de Glucksmann à Lisnard",
+      "summary_original": "Le chef de l’Etat estime que seule une large alliance au sein de l’espace central permettra d’éviter le duel Le Pen-Mélenchon au second tour de l’élection présidentielle.",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-emmanuel-macron-preconise-une-coalition-de-glucksmann-a-lisnard_6806470_823448.html",
+      "published": "2026-11-05T07:58:35+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Aux assises des Bouches-du-Rhône, les ex-amis Amine Oualane et Zakaria Bensaci s’accusent mutuellement du triple homicide commis à Marseille en 2020",
+      "summary_original": "Fondateur présumé de la DZ Mafia, Amine Oualane voit dans les accusations de son ancien partenaire Zakaria Bensaci la main du clan Yoda.",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/04/aux-assises-des-bouches-du-rhone-les-ex-amis-amine-oualane-et-zakaria-bensaci-s-accusent-du-triple-homicide-commis-a-marseille-en-2020_6806465_3224.html",
+      "published": "2026-11-05T07:42:48+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "EN DIRECT, midterms 2026 : dans son premier discours après une défaite historique, Trump parle de sa salle de bal à la Maison Blanche",
+      "summary_original": "Le président américain a réservé ses premières remarques, mercredi, à son projet de rénovation. Quelques heures avant, son vice-président a déclaré que « la véritable raison pour laquelle nous avons perdu est évidente pour presque tout le monde », à savoir la guerre lancée par son administration et Israël contre l’Iran.",
+      "url": "https://www.lemonde.fr/international/live/2026/11/04/en-direct-midterms-2026-dans-son-premier-discours-apres-une-defaite-historique-trump-parle-de-sa-salle-de-bal-a-la-maison-blanche_6805528_3210.html",
+      "published": "2026-11-05T07:31:27+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "En RDC, l’OMS alerte sur la « pire épidémie de choléra depuis des décennies », avec 1 800 morts, sur fond de crise liée à Ebola",
+      "summary_original": "Selon l’OMS, 2025 avait enregistré le nombre de cas signalés le plus élevé depuis plus de vingt-cinq ans, mais « l’année en cours s’annonce encore plus grave ».",
+      "url": "https://www.lemonde.fr/afrique/article/2026/11/04/en-rdc-l-oms-alerte-sur-la-pire-epidemie-de-cholera-depuis-des-decennies-avec-1-800-morts-sur-fond-de-crise-liee-a-ebola_6806432_3212.html",
+      "published": "2026-11-05T06:17:39+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Tours : enquête ouverte après la blessure à l’œil d’un tiktokeur lors d’une manifestation",
+      "summary_original": "Enzo Gimgembre, 22 ans, s’était rendu samedi à la manifestation « pour filmer ». Jusqu’à ce qu’un « petit groupe de CRS » se détache et qu’une « grenade de désencerclement » soit lancée dans sa direction, explique-t-il.",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/04/tours-enquete-ouverte-apres-la-blessure-a-l-il-d-un-tiktokeur-lors-d-une-manifestation_6806430_3224.html",
+      "published": "2026-11-05T06:01:41+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -303,64 +357,28 @@
     {
       "source": "Le Monde",
       "title_original": "Procès de « l’inconnue de l’A10 » : la mère d’Inass Touloub s’effondre après la diffusion des photos de l’autopsie de sa fille",
-      "summary_original": "L’audience a été suspendue mercredi suite au malaise d’Halima El Balkhti, survenu après l’éprouvant exposé de la médecin légiste. « Ce n’est pas un décès brutal, mais une lente agonie », a indiqué l’experte, en décrivant les multiples lésions, brûlures, morsures et fractures relevées sur l’enfant de 4 ans, abandonnée en 1987 en bordure de l’autoroute A10.",
+      "summary_original": "L’audience a été suspendue mercredi après le malaise d’Halima El Bakhti, survenu après l’éprouvant exposé de la médecin légiste. « Ce n’est pas un décès brutal, mais une lente agonie », a indiqué l’experte, en décrivant les multiples lésions, brûlures, morsures et fractures relevées sur l’enfant de 4 ans, abandonnée en 1987 en bordure de l’autoroute A10.",
       "url": "https://www.lemonde.fr/societe/article/2026/11/04/proces-de-l-inconnue-de-l-a10-la-mere-d-inass-touloub-s-effondre-apres-la-diffusion-des-photos-de-l-autopsie-de-sa-fille_6806428_3224.html",
-      "published": "2026-11-05T05:20:41+09:00",
+      "published": "2026-11-05T05:20:38+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "Le Monde",
-      "title_original": "Le Royaume-Uni devrait présenter des excuses officielles pour son rôle dans l’esclavage, mais refuse d’envisager le paiement de réparations",
-      "summary_original": "Lors du sommet du Commonwealth qui s’est achevé mercredi, dans les Caraïbes, le gouvernement britannique a écarté tout débat sur les réparations liées à la traite des esclaves, que réclament les pays concernés. Le roi a lui exprimé son « horreur » face à l’esclavage.",
-      "url": "https://www.lemonde.fr/international/article/2026/11/04/le-royaume-uni-devrait-presenter-des-excuses-officielles-pour-son-role-dans-l-esclavage-mais-refuse-d-envisager-le-paiement-de-reparations_6806423_3210.html",
-      "published": "2026-11-05T03:30:02+09:00",
-      "via": "rss",
+      "source": "Les Echos",
+      "title_original": "Cours Obligations 5 Schneider 46 -S - GBBXWXV15 FR001401BX29",
+      "summary_original": "Cours Obligations 5 Schneider 46 -S - GBBXWXV15 FR001401BX29 Investir Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNakMwemJQMHFrWXN1NHJyVjZkbEJoZG9VdDFNTm5fbVVGV0JiYzhZVzQya21rSmJTWVk1S2hTZ0FZb0xUSFlmTjdOTmJZdXV6QjVUWmN6SHgxeklHTHVCVFN3b1ZIRjdSRnl5UU96TVc3ZGZiVW9UajRWZnNuTGdBS0EweUVJTHBi?oc=5",
+      "published": "2026-11-05T07:21:10+09:00",
+      "via": "google_news",
       "state_media": false
     },
     {
-      "source": "Le Monde",
-      "title_original": "L’Ukraine veut répliquer ailleurs la mission humanitaire menée à Olechky pour sauver des civils",
-      "summary_original": "D’après la Maison Blanche, l’opération avait été négociée par Melania Trump. Volodymyr Zelensky lui a décerné, mercredi, une distinction honorifique.",
-      "url": "https://www.lemonde.fr/international/article/2026/11/04/l-ukraine-veut-repliquer-ailleurs-la-mission-humanitaire-menee-a-olechky-pour-sauver-des-civils_6806422_3210.html",
-      "published": "2026-11-05T03:19:34+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "Pierre Coppey, ancien dirigeant de Vinci et militant associatif pour la réinsertion, devient Contrôleur général des lieux de privation de liberté",
-      "summary_original": "Après avoir passé, mercredi 4 novembre, deux oraux devant la commission des lois de l’Assemblée nationale puis devant celle du Sénat, il succède à Dominique Simonnot.",
-      "url": "https://www.lemonde.fr/societe/article/2026/11/04/pierre-coppey-ancien-dirigeant-de-vinci-et-militant-associatif-pour-la-reinsertion-devient-controleur-general-des-lieux-de-privation-de-liberte_6806421_3224.html",
-      "published": "2026-11-05T03:19:12+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "Parcoursup : Sébastien Lecornu annonce une première réunion lundi pour réformer la plateforme d’orientation, sur fond de mobilisation lycéenne",
-      "summary_original": "Lycéens et enseignants seront réunis autour des ministres concernés, afin de présenter de « premières recommandations courant novembre », a déclaré le premier ministre.",
-      "url": "https://www.lemonde.fr/politique/article/2026/11/04/parcoursup-sebastien-lecornu-annonce-une-premiere-reunion-lundi-pour-reformer-la-plateforme-d-orientation-sur-fond-de-mobilisation-lyceenne_6806420_823448.html",
-      "published": "2026-11-05T03:17:38+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "Manifestations du 17 octobre : devant la commission d’enquête parlementaire, les commerçants disent avoir été « totalement abandonnés et sacrifiés »",
-      "summary_original": "Entendus à l’Assemblée nationale, mercredi 4 novembre, plusieurs représentants d’associations de commerçants à Paris, Lyon ou Marseille, ont dénoncé la défaillance des pouvoirs publics face aux pillages lors de cette journée de mobilisation.",
-      "url": "https://www.lemonde.fr/societe/article/2026/11/04/manifestations-du-17-octobre-devant-la-commission-d-enquete-parlementaire-les-commercants-disent-avoir-ete-totalement-abandonnes-et-sacrifies_6806418_3224.html",
-      "published": "2026-11-05T03:06:42+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "La grande nouvelliste Katherine Mansfield et sa prose fulgurante sont à redécouvrir à l’occasion de son entrée dans « La Pléiade »",
-      "summary_original": "Une édition qui comprend toutes les nouvelles publiées de son vivant ainsi que de nombreux textes posthumes, études et premiers états. De quoi suivre au jour le jour le travail de l’écrivaine d’origine néo-zélandaise morte à 34 ans, en 1923.",
-      "url": "https://www.lemonde.fr/livres/article/2026/11/04/la-grande-nouvelliste-katherine-mansfield-et-sa-prose-fulgurante-sont-a-redecouvrir-a-l-occasion-de-son-entree-dans-la-pleiade_6806415_3260.html",
-      "published": "2026-11-05T03:00:18+09:00",
-      "via": "rss",
+      "source": "Les Echos",
+      "title_original": "Cyberattaque de Crédit Mutuel Arkéa : le parquet ouvre une enquête judiciaire",
+      "summary_original": "Cyberattaque de Crédit Mutuel Arkéa : le parquet ouvre une enquête judiciaire Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcHBZZVAzeVdCcktPdkNDYTJpekVrZ3VCNTFaVjFseEFHU0pHT2NMN2ZXMnZqeTNQa1BTVWRkNklxanIzZFBFODhmR203cmpoT0hGajVsRjNzaVVuNGlhV1d4M2ZBazdRTUMyaHJQLXpTMUJ0TjdLamlueWZFcExzWHhTeUVkZlhCSGhZNGxpd1p5QVVPT3ZSMFd4bGwwandSX0hiZFhuLWpLMF9DTVU4d3FzZXV0enJEcTZHSzRJb2xIandxaFhKdFRZbXhYczNVaDVfS19VZjA?oc=5",
+      "published": "2026-11-05T06:12:53+09:00",
+      "via": "google_news",
       "state_media": false
     },
     {
@@ -418,38 +436,38 @@
       "state_media": false
     },
     {
-      "source": "Les Echos",
-      "title_original": "Ces questions qui secouent le monde de la finance après le « cybercasse » de Crédit Mutuel Arkéa",
-      "summary_original": "Ces questions qui secouent le monde de la finance après le « cybercasse » de Crédit Mutuel Arkéa Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdWlDOTgzWm0wMWhmSEtPNHJvVFhYa2NldHRuTEQ3SmJZcEs0UnBxZE5rRVpnVkxXeXdUMEVMRlF5R3h5di02ZkdVNVpseGdrWWx0R0VPOURaRHhaYUZ0UjFRanpDQzByVnFfeUY3VC0xdG9oZV9VczZMYjhDajBzSW9ETFhtYy1QTmh3VWNGVnhmb0JRazJEMXAxVGt1TDh3QjAxRlZOR0ZKRXYtQWpSVEMzcXdmSmd2dS1EbTg3Q01DNDNWbDhKaWRmUnNVSGxmbFhpMFVRMllsR2pqczBWX0U1cGRBVVdVTEs5ZEhkUQ?oc=5",
-      "published": "2026-11-05T03:33:28+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Les Echos",
-      "title_original": "HP nomme à sa tête l'ex-patronne d'un géant de l'industrie pharmaceutique",
-      "summary_original": "HP nomme à sa tête l'ex-patronne d'un géant de l'industrie pharmaceutique Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUjUyWlM5MzZyelNTLTVQenY3LXQ0cHRvdEczQWJiOWJlYmk0MkFhVE5ET2I4VXB5Rk5yV1hCODdhNlNLa3FIVWppUkF5aTlfd2lmQ09MNko5STZaN0V5Zi1vemNDN0M1Uzc0dUJxRkFMWGhrQ0s5ckdQY3FLemIyTmw3ZlBBRHloOFZGSzlSeHAtQ0FSYW1kR0RQMl9hU0JvRXA1eE53RUFIaHlJNUFYR0ljNlBwZTMwZEtncFZOb1c?oc=5",
-      "published": "2026-11-05T03:22:37+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
       "source": "Le Figaro",
-      "title_original": "Agression dans une école maternelle de Nice : la mère mise en examen pour tentative de meurtre et écrouée",
-      "summary_original": "La mère de quatre enfants, qui avait retenu la directrice dans son bureau pendant près d’une heure, a reconnu en garde à vue avoir actionné plusieurs fois son arme, tout en affirmant savoir qu’elle était déchargée.",
-      "url": "https://www.lefigaro.fr/faits-divers/agression-dans-une-ecole-maternelle-de-nice-la-mere-mise-en-examen-pour-tentative-de-meurtre-et-ecrouee-20261104",
-      "published": "2026-11-05T06:07:29+09:00",
+      "title_original": "Budget 2027 : après le rejet du projet de loi de finances à l’Assemblée, quelles sont les prochaines étapes ?",
+      "summary_original": "Après le rejet du budget de l’État à l’Assemblée, les débats se poursuivent au Sénat. Faute de compromis, le gouvernement pourrait recourir au 49.3 ou aux ordonnances.",
+      "url": "https://www.lefigaro.fr/politique/budget-2027-apres-le-rejet-du-projet-de-loi-de-finances-a-l-assemblee-quelles-sont-les-prochaines-etapes-20261105",
+      "published": "2026-11-05T08:53:50+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Le Figaro",
-      "title_original": "EN DIRECT - Manifestation du 5 novembre : le parcours à Paris entre République et Nation validé par le tribunal administratif",
+      "title_original": "Manifestation du 5 novembre : le parcours à Paris entre République et Nation validé par le tribunal administratif",
       "summary_original": "Quelque 70.000 policiers et gendarmes seront mobilisés jeudi en France en vue de l’appel national à la grève lancé par les principaux syndicats du pays pour défendre les salaires et l’emploi, a indiqué le ministre de l’Intérieur Laurent Nuñez.",
       "url": "https://www.lefigaro.fr/actualite-france/manifestation-5-novembre-greve-mobilisation-etudiants-syndicats-et-gilets-jaunes-en-lutte-contre-la-vie-chere-20261104",
-      "published": "2026-11-05T06:06:48+09:00",
+      "published": "2026-11-05T07:53:55+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Budget : le projet de loi de finances unanimement rejeté en première lecture à l’Assemblée",
+      "summary_original": "DÉCRYPTAGE - Après plus de deux semaines de débats, les députés ont voté contre la partie recettes du PLF, qui va désormais poursuivre sa route au Sénat.",
+      "url": "https://www.lefigaro.fr/politique/budget-le-projet-de-loi-de-finances-unanimement-rejete-en-premiere-lecture-a-l-assemblee-20261104",
+      "published": "2026-11-05T07:28:02+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Manifestations du 5 novembre : 70.000 policiers et gendarmes mobilisés, déclare Nuñez",
+      "summary_original": "Le dispositif de jeudi 5 novembre est «exactement le même que celui du 31 octobre», a déclaré le ministre de l’Intérieur. Beauvau a donc fait appel au RAID, au GIGN et à la BRI, ainsi qu’aux «26 blindés Centaure» de la gendarmerie, à une «quinzaine d’engins lanceurs d’eau», des hélicoptères, ou encore des drones.",
+      "url": "https://www.lefigaro.fr/flash-actu/manifestations-du-5-novembre-70-000-policiers-et-gendarmes-mobilises-declare-nunez-20261104",
+      "published": "2026-11-05T06:24:58+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -464,28 +482,10 @@
     },
     {
       "source": "Le Figaro",
-      "title_original": "Accueilli par des militants de «Nous Vivrons» au lancement de son livre, Gouverner, Bardella dénonce une «nostalgie des régimes totalitaires»",
-      "summary_original": "À peine sorti de sa voiture devant le Pavillon Wagram, dans le nord-ouest de Paris, le président du RN a été interpellé mercredi soir aux cris de «Bardella, ton antisémitisme ne s’efface pas !».",
-      "url": "https://www.lefigaro.fr/elections/presidentielles/accueilli-par-des-militants-de-nous-vivrons-au-lancement-de-son-livre-gouverner-bardella-denonce-une-nostalgie-des-regimes-totalitaires-20261104",
-      "published": "2026-11-05T05:56:54+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "Déjà condamnée, ex-conjoint incarcéré, faux passeports : qui est la mère de famille qui a agressé une directrice d’école et une enseignante à Nice ?",
-      "summary_original": "La suspecte a été mise en examen pour tentative de meurtre et écrouée mercredi soir. Mère de quatre enfants, son passeport lui avait été retiré et elle devait pointer tous les jours au commissariat.",
-      "url": "https://www.lefigaro.fr/nice/deja-condamnee-ex-conjoint-incarcere-faux-passeports-qui-est-la-mere-de-famille-qui-a-agresse-une-directrice-d-ecole-et-une-enseignante-a-nice-20261104",
-      "published": "2026-11-05T05:54:35+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "Rolex Paris Masters : « Ça me préoccupait », confie Alcaraz, rescapé d’une journée noire pour les favoris",
-      "summary_original": "Contrarié par la vitesse du court et le jeu agressif d’Alex Michelsen, l’Espagnol a su éviter la sortie de route.",
-      "url": "https://www.lefigaro.fr/sports/tennis/rolex-paris-masters-ca-me-preoccupait-confie-alcaraz-rescape-d-une-journee-noire-pour-les-favoris-20261104",
-      "published": "2026-11-05T05:34:37+09:00",
+      "title_original": "« L’information a commencé à circuler sur X à partir du 1er novembre » : les coulisses de la cyberattaque contre Crédit mutuel Arkéa",
+      "summary_original": "RÉCIT - Ce hold-up numérique trouverait son origine chez un prestataire de services du groupe, victime fin octobre d’une attaque. La banque compte récupérer une partie des sommes tandis que le parquet de Paris a ouvert une enquête.",
+      "url": "https://www.lefigaro.fr/societes/l-information-a-commence-a-circuler-sur-x-a-partir-du-1er-novembre-les-coulisses-de-la-cyberattaque-contre-credit-mutuel-arkea-20261104",
+      "published": "2026-11-05T06:00:25+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -500,10 +500,28 @@
     },
     {
       "source": "Le Figaro",
-      "title_original": "La stratégie d’intimidation de Jean-Luc Mélenchon met les chaînes de télévision sous tension",
-      "summary_original": "RÉCIT - LFI prend à partie les journalistes, y compris sur leur plateau. De quoi attiser la division au sein des rédactions et déstabiliser le PAF.",
-      "url": "https://www.lefigaro.fr/medias/la-strategie-d-intimidation-de-jean-luc-melenchon-met-les-chaines-de-television-sous-tension-20261104",
-      "published": "2026-11-05T05:13:25+09:00",
+      "title_original": "Grève du 5 novembre : TGV, TER, RER… À quoi faut-il s’attendre dans les transports ?",
+      "summary_original": "Après trois journées de mobilisation les 17, 24 et 31 octobre, les syndicats veulent accentuer la pression sur le gouvernement. Ils appellent à une nouvelle journée de grève et de manifestations jeudi 5 novembre. Les transports seront notamment perturbés, notamment en Île-de-France.",
+      "url": "https://www.lefigaro.fr/social/greve-intersyndicale-du-5-novembre-transports-education-sante-quels-sont-les-secteurs-mobilises-20261025",
+      "published": "2026-11-05T04:47:35+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "Budget 2027 : l’Assemblée nationale rejette à l’unanimité une copie budgétaire distordue et périmée",
+      "summary_original": "Après trois semaines d’examen dans l’hémicycle, l’ensemble des députés a, sans surprise, rejeté la partie recettes du projet de loi de finances pour 2027, ce mercredi 4 novembre. Les sénateurs s’empareront courant novembre du texte initial du gouvernement.",
+      "url": "https://www.liberation.fr/economie/budget-2027-a-lassemblee-nationale-le-rejet-attendu-dune-copie-budgetaire-distordue-et-perimee-20261104_D42ACMWWHBBZ5C45PUSPCKO6LI/",
+      "published": "2026-11-05T07:29:14+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "«No pogrom last night» de Yolande Zauberman : une vie à cent allures",
+      "summary_original": "De son enfance à ses tournages rocambolesques, la cinéaste se livre avec une plume intense dans une autobiographie en 32 chapitres.",
+      "url": "https://www.liberation.fr/culture/livres/no-pogrom-last-night-de-yolande-zauberman-une-vie-a-cent-allures-20261104_RK5JFNENDVDMPMGETGIAV67EP4/",
+      "published": "2026-11-05T06:17:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -519,7 +537,7 @@
     {
       "source": "Libération",
       "title_original": "Procès de la «petite inconnue de l’A10» : dans la cour d’assises du Loir-et-Cher, au bout des images, le vertige",
-      "summary_original": "Les jurés ont tenté de reconstituer, ce jeudi 4 novembre, la vie des parents d’Inass Touloub, 4 ans, dont le corps a été abandonné au bord de l’autoroute en 1987. Ils ont découvert l’appartement familial et ont été confrontés au détail des sévices subis par l’enfant.",
+      "summary_original": "Les jurés ont tenté de reconstituer, ce mercredi 4 novembre, la vie des parents d’Inass Touloub, 4 ans, dont le corps a été abandonné au bord de l’autoroute en 1987. Ils ont découvert l’appartement familial et ont été confrontés au détail des sévices subis par l’enfant.",
       "url": "https://www.liberation.fr/societe/proces-de-la-petite-inconnue-de-la10-dans-la-cour-dassises-du-loir-et-cher-au-bout-des-images-le-vertige-20261104_5SX5A65MCFDVRHVF6R2IZYGDMQ/",
       "published": "2026-11-05T06:05:39+09:00",
       "via": "rss",
@@ -558,24 +576,6 @@
       "summary_original": "Une large intersyndicale appelle les salariés et les fonctionnaires à se mobiliser ce jeudi pour leurs rémunérations, la CGT évoquant une «généralisation» de la grève. Avec l’espoir d’obtenir, cette fois, des réponses concrètes et immédiates du gouvernement.",
       "url": "https://www.liberation.fr/economie/social/mouvement-social-ce-5-novembre-un-reve-de-greve-generale-20261104_KS5D463DKFBP3HOUNIYDMB5YTI/",
       "published": "2026-11-05T05:11:39+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Libération",
-      "title_original": "Fièvre jaune, dengue… La vaccination des voyageurs pourrait bientôt être élargie aux pharmaciens, infirmiers et sages-femmes",
-      "summary_original": "La ministre Stéphanie Rist a demandé à la Haute autorité de santé de rendre ses recommandations sur le sujet d’ici à fin 2027. L’objectif est de simplifier le parcours vaccinal pour les personnes partant à l’étranger.",
-      "url": "https://www.liberation.fr/societe/sante/fievre-jaune-dengue-la-vaccination-des-voyageurs-pourrait-bientot-etre-elargie-aux-pharmaciens-infirmiers-et-sages-femmes-20261104_3PXELWKYG5B73CLS6SYCB3WOMY/",
-      "published": "2026-11-05T05:01:34+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Libération",
-      "title_original": "Trump, premier artisan de sa déroute électorale aux midterms",
-      "summary_original": "En transformant le scrutin en référendum sur sa présidence, le dirigeant américain a exposé son camp à la colère des électeurs. Sa stratégie et ses candidats imposés ont contribué au basculement du Congrès.",
-      "url": "https://www.liberation.fr/international/amerique/midterms-trump-premier-artisan-de-sa-deroute-electorale-20261104_EKRXRJRBTVFZZJOD3WP3ENTGWQ/",
-      "published": "2026-11-05T04:55:22+09:00",
       "via": "rss",
       "state_media": false
     }
