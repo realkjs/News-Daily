@@ -1,8 +1,35 @@
 {
   "team": "de",
   "team_name_ko": "독일팀",
-  "collected_at": "2026-11-07T06:13:07.988946+09:00",
+  "collected_at": "2026-11-07T08:49:46.983226+09:00",
   "headlines": [
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "HSV schießt Gladbach zurück in die Krise",
+      "summary_original": "Der HSV hat das ereignisreiche Kellerduell gegen Borussia Mönchengladbach mit 3:1 für sich entschieden - auch dank eines spektakulären Treffers von Miro Muheim.",
+      "url": "https://www.sportschau.de/fussball/bundesliga/hsv-schickt-gladbach-zurueck-in-die-krise,spielbericht-hamburger-sv-borussia-moenchengladbach-102.html",
+      "published": "2026-11-07T07:24:16+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Porträt der möglichen neuen Bundespräsidentin Ilse Aigner",
+      "summary_original": "Porträt der möglichen neuen Bundespräsidentin Ilse Aigner",
+      "url": "https://www.tagesschau.de/tagesthemen/video-1679596.html",
+      "published": "2026-11-07T06:40:59+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Union legt sich bei Bundespräsidenten-Kandidatur auf Aigner fest",
+      "summary_original": "Union legt sich bei Bundespräsidenten-Kandidatur auf Aigner fest",
+      "url": "https://www.tagesschau.de/tagesthemen/video-1679594.html",
+      "published": "2026-11-07T06:39:46+09:00",
+      "via": "rss",
+      "state_media": false
+    },
     {
       "source": "ARD Tagesschau",
       "title_original": "Politologin über Aigner: \"Sie hat viel politische Erfahrung\"",
@@ -24,7 +51,7 @@
     {
       "source": "ARD Tagesschau",
       "title_original": "Trumps Stabschefin Wiles verlässt das Weiße Haus",
-      "summary_original": "Seit der verheerenden Wahlniederlage der Republikaner bei den Midterms gibt es Spekulationen darüber, ob und wie US-Präsident Trump seinen Machtzirkel umbaut. Nun steht eine Personalie fest: Die Strippenzieherin Wiles geht.",
+      "summary_original": "Seit der Wahlniederlage der Republikaner bei den Midterms wird spekuliert, ob und wie US-Präsident Trump seinen Machtzirkel umbaut. Nun steht fest: Die Strippenzieherin Wiles geht, ihr Vize Miller übernimmt.",
       "url": "https://www.tagesschau.de/ausland/amerika/trump-wiles-100.html",
       "published": "2026-11-07T05:20:30+09:00",
       "via": "rss",
@@ -49,47 +76,56 @@
       "state_media": false
     },
     {
-      "source": "ARD Tagesschau",
-      "title_original": "Erster UNESCO-Nationalpark im Südsudan eröffnet",
-      "summary_original": "Erster UNESCO-Nationalpark im Südsudan eröffnet",
-      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1679498.html",
-      "published": "2026-11-07T04:40:35+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ARD Tagesschau",
-      "title_original": "Bombendrohungen in Europa: Anzeichen auf koordinierten Angriff verdichten sich",
-      "summary_original": "Erneut hat es in Europa zahlreiche Bombendrohungen gegeben - sowohl im Flugverkehr als auch gegen Medienhäuser. Spanien spricht von einem hybriden Angriff, der \"kein Zufall\" sei. Irland sieht eine \"koordinierte Kampagne\".",
-      "url": "https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html",
-      "published": "2026-11-07T04:39:20+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ARD Tagesschau",
-      "title_original": "tagesschau 20:00 Uhr",
-      "summary_original": "Union will Aigner als Bundespräsidentin, Weltweiter Ausverkauf bei KI- und Halbleiteraktien, Erneut Bombendrohungen gegen Passagiermaschinen in Europa, Bundestag beschließt härtere Strafen für Einsatz von K.-o.-Tropfen, Beginn der 31. UN-Klimakonferenz im türkischen Antalya, Erste UNESCO-Welterbestätte im Südsudan ist die Boma-Badingilo-Landschaft, Das Wetter Korrektur: Im Beitrag über die Nominie",
-      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1679502.html",
-      "published": "2026-11-07T04:39:09+09:00",
+      "source": "ZDF heute",
+      "title_original": "Hubig: Strafverschärfung \"macht für Opfer einen Unterschied\"",
+      "summary_original": "Justizministerin Hubig begrüßt härtere Strafen beim Einsatz von K.o.-Tropfen. Grund für weitere Verschärfungen sei auch die Zunahme von Delikten im Bereich sexualisierter Gewalt.",
+      "url": "https://www.zdfheute.de/politik/deutschland/hubig-k-o-tropfen-strafverschaerfung-bundesjustizministerin-bundestag-100.html",
+      "published": "2026-11-07T07:47:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "ZDF heute",
-      "title_original": "Trump entlässt Stabschefin Susie Wiles - Vize Miller übernimmt",
-      "summary_original": "Personalwechsel im Weißen Haus: US-Präsident Donald Trump entlässt seine Stabschefin. Die 69-Jährige galt als mächtigste Frau im Weißen Haus - und sorgte 2025 für Schlagzeilen.",
-      "url": "https://www.zdfheute.de/politik/ausland/trump-wiles-entlassung-miller-stabschef-100.html",
-      "published": "2026-11-07T05:28:00+09:00",
+      "title_original": "Heimspiel für den Papst in Lateinamerika",
+      "summary_original": "Seine bisher längste Reise führt Papst Leo XIV. nach Uruguay, Argentinien und Peru. Nach seiner Krebs-OP gab es keinerlei Änderungen am ursprünglich geplanten Reiseverlauf.",
+      "url": "https://www.zdfheute.de/panorama/papst-leo-xiv-suedamerika-reise-100.html",
+      "published": "2026-11-07T07:01:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "ZDF heute",
-      "title_original": "Wohnungsnot treibt Tausende auf die Straßen",
-      "summary_original": "Seit Wochen demonstrieren Menschen in Portugal für politische Maßnahmen, um das Wohnen wieder bezahlbar zu machen. Die Polizei löst Protestcamps immer wieder gewaltsam auf.",
-      "url": "https://www.zdfheute.de/politik/ausland/portugal-lissabon-protest-wohnungsnot-100.html",
-      "published": "2026-11-07T04:55:00+09:00",
+      "title_original": "Kleinflugzeug stürzt auf A2 in Sachsen-Anhalt - zwei Tote",
+      "summary_original": "In Sachsen-Anhalt ist ein Kleinflugzeug auf die A2 gestürzt. Zwei Insassen kamen dabei ums Leben. Fahrzeuge waren nach ersten Erkenntnissen nicht betroffen.",
+      "url": "https://www.zdfheute.de/panorama/sachsen-anhalt-flugzeugabsturz-a2-tote-100.html",
+      "published": "2026-11-07T06:54:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Kleinflugzeug stürzt auf A2",
+      "summary_original": "Ein Kleinflugzeug stürzte am Freitag auf die Autobahn 2 in Sachsen-Anhalt. Beide Insassen starben. Die Maschine geriet beim Absturz in Brand.",
+      "url": "https://www.zdfheute.de/video/a2-flugzeugabsturz-video-100.html",
+      "published": "2026-11-07T06:53:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "HSV siegt in Überzahl gegen Mönchengladbach",
+      "summary_original": "Zwei Weitschusstore und ein Platzverweis bescheren dem Hamburger SV den Sieg im Freitagsspiel gegen Mönchengladbach. Mit einem Mann mehr macht der HSV aus einem 1:1 ein 3:1.",
+      "url": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-hamburger-sv-borussia-moenchengladbach-100.html",
+      "published": "2026-11-07T06:47:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Aktuelles zum Krieg in der Ukraine",
+      "summary_original": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
+      "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
+      "published": "2026-11-07T06:15:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -98,52 +134,16 @@
       "title_original": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
       "summary_original": "Die Lage in Nahost ist weiter angespannt - es kommt immer wieder zu Angriffen. Im Westjordanland spitzt sich die Situation zu. Alle Entwicklungen im Liveblog.",
       "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
-      "published": "2026-11-07T04:33:00+09:00",
+      "published": "2026-11-07T06:11:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "ZDF heute",
-      "title_original": "Wölfinnen schlagen Frankfurt im Verfolgerduell",
-      "summary_original": "Die Fußballerinnen des VfL Wolfsburg bauen ihre jüngste Erfolgsserie weiter aus. In Frankfurt setzen sich die Wölfinnen nach einer offenen ersten Hälfte am Ende mit 3:1 durch.",
-      "url": "https://www.zdfheute.de/sport/fussball-bundesliga-frauen/eintracht-frankfurt-vfl-wolfsburg-tore-ergebnis-100.html",
-      "published": "2026-11-07T04:32:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "FC Bayern dreht gegen Bremen spät auf",
-      "summary_original": "Bis wenige Minuten vor Ende der Partie FC Bayern gegen Bremen sieht es so aus, als könne Werder etwas aus München mitnehmen. Doch dann schlägt der Tabellenführer eiskalt zu.",
-      "url": "https://www.zdfheute.de/sport/fussball-bundesliga-frauen/video/fc-bayern-muenchen-sv-werder-bremen-frauen-saison-2026-27-100.html",
-      "published": "2026-11-07T04:26:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "XXL-Lichtfassade für Werbung, Kunst und Kultur",
-      "summary_original": "Spektakuläre Bilder aus St. Pauli: Das Klubhaus am Spielbudenplatz begeistert mit Deutschlands größter immersiver 3D-LED-Medienfassade.",
-      "url": "https://www.zdfheute.de/video/panorama-lichtinstalation-hamburg-100.html",
-      "published": "2026-11-07T04:17:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "Duell zeichnet sich ab: Wer folgt auf Lagarde?",
-      "summary_original": "EZB-Präsidentin Christine Lagarde räumt ihr Amt. Bis zum Fristende am Freitagnachmittag wurden nur zwei Kandidaten offiziell nominiert. Nun entscheiden die EU-Staatschefs.",
-      "url": "https://www.zdfheute.de/wirtschaft/ezb-nachfolge-lagarde-knot-hernandez-de-cos-100.html",
-      "published": "2026-11-07T04:08:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "Berliner Linke fordert Emde zum Mandatsverzicht auf",
-      "summary_original": "Die Spitze der Berliner Linken geht auf Distanz zu Vanessa Emde. Der Landesvorstand fordert die umstrittene Abgeordnete zur Rückgabe ihres Mandats auf.",
-      "url": "https://www.zdfheute.de/politik/deutschland/emde-linke-berlin-mandat-verzicht-nahost-konflikt-100.html",
-      "published": "2026-11-07T03:50:00+09:00",
+      "title_original": "Donald Trumps neuer Stabschef: Wer ist Stephen Miller?",
+      "summary_original": "Als Stabschefin organisierte Susie Wiles Trumps Regierungsalltag. Auf sie folgt Stephen Miller, einer der umstrittensten und zugleich einflussreichsten Männer in Trumps Umfeld.",
+      "url": "https://www.zdfheute.de/politik/ausland/usa-midterms-susie-wiles-stephen-miller-trump-100.html",
+      "published": "2026-11-07T06:10:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -221,6 +221,42 @@
     },
     {
       "source": "n-tv",
+      "title_original": "Infektionen nehmen rasant zu : Masernwelle in den USA: Säugling gestorben",
+      "summary_original": "In den USA stirbt erneut ein Kind an Masern, es ist schon der zweite Todesfall in dieser Woche. Die Krankheit galt in dem Land als ausgerottet. Jetzt breitet sie sich mit wachsender Geschwindigkeit aus.",
+      "url": "https://www.n-tv.de/panorama/Masernwelle-in-den-USA-Saeugling-gestorben-id31505855.html",
+      "published": "2026-11-07T08:21:45+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Nasdaq legt zu: KI-Werte erholen sich vom Kursgemetzel",
+      "summary_original": "Der Preisrutsch bei KI-Werten ist beendet. Vor dem Wochenende nutzen Schnäppchenjäger ihre Chance und greifen unter anderem bei Chipherstellern zu. Für Erstaunen an der Wall Street sorgt der jüngste Arbeitsmarktbericht.",
+      "url": "https://www.n-tv.de/wirtschaft/KI-Werte-erholen-sich-vom-Kursgemetzel-id31505838.html",
+      "published": "2026-11-07T07:22:56+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Tabellenletzten abgefertigt: HSV-Distanzhämmer zertrümmern Gladbachs kurze Hoffnung",
+      "summary_original": "Das Lebenszeichen ist schon wieder verpufft: Borussia Mönchengladbach fällt in der Fußball-Bundesliga beim Hamburger SV auf die Nase. Weil die Norddeutschen sehenswert treffen und Ko Itakura seine Gladbacher mit dem Platzverweis dezimiert.",
+      "url": "https://www.n-tv.de/sport/fussball/HSV-Distanzhaemmer-zertruemmern-Gladbachs-kurze-Hoffnung-id31505813.html",
+      "published": "2026-11-07T06:23:12+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Historische Bayern-Verbindung: Achtligist schließt überraschenden Deal ab",
+      "summary_original": "Uganda möchte Berliner Touristen ins Land locken - und setzt dabei auf die Unterstützung eines Achtligisten. Der überraschende Deal, der für die Amateure \"Neuland\" bedeutet, stärkt erst mal vor allem den Breitensport. Überraschung: Der große FC Bayern kommt in dieser Geschichte gleich zweimal vor.",
+      "url": "https://www.n-tv.de/sport/fussball/Achtligist-schliesst-ueberraschenden-Deal-ab-id31505744.html",
+      "published": "2026-11-07T06:21:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
       "title_original": "Erfolg im FIFA-Machtkampf: Infantinos Geld-Versprechen bringen Karibik auf Abwege",
       "summary_original": "Gianni Infantino kann den nächsten Erfolg im FIFA-Machtkampf feiern. Die Karibik stellt sich hinter ihn - und damit gegen den eigenen Kontinentalverband. Das hat vor allem mit Geld zu tun.",
       "url": "https://www.n-tv.de/sport/fussball/Infantinos-Geld-Versprechen-bringen-Karibik-auf-Abwege-id31505795.html",
@@ -234,15 +270,6 @@
       "summary_original": "Nach dem Tod von Kinderbuchautor Janosch würdigt KiKA sein Lebenswerk. Ausgewählte Geschichten sind online abrufbar, auch der \"Tigerenten Club\" nimmt Abschied.",
       "url": "https://www.n-tv.de/leute/Tigerenten-Club-wuerdigt-Janosch-id31505753.html",
       "published": "2026-11-07T05:49:32+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "n-tv",
-      "title_original": "Historische Bayern-Verbindung: Berliner Achtligist soll Tourismus in Uganda ankurbeln",
-      "summary_original": "Uganda möchte Berliner Touristen ins Land locken - und setzt dabei auf die Unterstützung eines Achtligisten. Der überraschende Deal, der für die Amateure \"Neuland\" bedeutet, stärkt erst mal vor allem den Breitensport. Überraschung: Der große FC Bayern kommt in dieser Geschichte gleich zweimal vor.",
-      "url": "https://www.n-tv.de/sport/fussball/Berliner-Achtligist-soll-Tourismus-in-Uganda-ankurbeln-id31505744.html",
-      "published": "2026-11-07T05:49:11+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -265,29 +292,38 @@
       "state_media": false
     },
     {
-      "source": "n-tv",
-      "title_original": "Schon wieder vorn in Formel 1: Weltmeister Antonelli verwehrt sich und Gegnern den Schlendrian",
-      "summary_original": "Zeit zum Feiern? Nimmt sich Kimi Antonelli offenbar nicht. In Brasilien stellt er jedenfalls sofort nach dem WM-Titel schon wieder seine Klasse unter Beweis. Für Nico Hülkenberg verläuft das Training bitter.",
-      "url": "https://www.n-tv.de/sport/formel1/Weltmeister-Antonelli-verwehrt-sich-und-Gegnern-den-Schlendrian-id31505749.html",
-      "published": "2026-11-07T05:22:23+09:00",
+      "source": "WELT",
+      "title_original": "„Es könnte irgendwann einen Bruch geben“ – Wie AfD und BSW über Deutschlands Westbindung diskutieren",
+      "summary_original": "Die NATO eine „Angriffsmaschine“, die EU ein „CIA-Projekt“? Bei einem Auftritt von BSW-Politikerin Claudia Wittig und AfD-Mann Rainer Rothfuß fallen viele Verschwörungserzählungen. Beide wollen die deutsche Außenpolitik gegenüber Russland grundlegend ändern.",
+      "url": "https://www.welt.de/politik/deutschland/plus6ae9907908ca4edf91e64fdf/neue-russlandpolitik-es-koennte-irgendwann-einen-bruch-geben-wie-afd-und-bsw-ueber-deutschlands-westbindung-diskutieren.html",
+      "published": "2026-11-07T08:29:36+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "n-tv",
-      "title_original": "Führungspersonal geht: Trump-Regierung verliert weitere hochrangige Beamte",
-      "summary_original": "Das US-Justizministerium hat einige Lücken zu füllen: Zwei hochrangige Beamte treten ohne Nennung von Gründen zurück. Einer von ihnen war mit einem Fall betraut, der sich um US-Präsident Donald Trump dreht.",
-      "url": "https://www.n-tv.de/politik/Trump-Regierung-verliert-weitere-hochrangige-Beamte-id31505595.html",
-      "published": "2026-11-07T05:21:53+09:00",
+      "source": "WELT",
+      "title_original": "Immunität als Abgeordneter – Ermittlungen gegen Berliner SPD-Politiker Krach ruhen",
+      "summary_original": "Seit der konstituierenden Sitzung des Parlaments am 29. Oktober werden keine Ermittlungen mehr gegen den Berliner SPD-Landesvorsitzenden geführt. Die Staatsanwaltschaft prüft, ob sie die Aufhebung von Krachs Immunität beantragen will.",
+      "url": "https://www.welt.de/politik/deutschland/article6aee4d9047b5fce02f87ac5d/vorwurf-vorteilnahme-immunitaet-als-abgeordneter-ermittlungen-gegen-berliner-spd-politiker-krach-ruhen.html",
+      "published": "2026-11-07T07:09:37+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "n-tv",
-      "title_original": "Distanzierung vom BSW: Schreiber will eigenen Bundespräsidenten-Vorschlag machen",
-      "summary_original": "Das sächsische BSW schickt Ex-\"Tagesschau\"-Sprecher Schreiber in die Bundesversammlung. Eigentlich mag der das BSW aber gar nicht. Und die Wahl will er noch mit einem eigenen Personal-Vorschlag mitgestalten.",
-      "url": "https://www.n-tv.de/politik/Schreiber-will-eigenen-Bundespraesidenten-Vorschlag-machen-id31505618.html",
-      "published": "2026-11-07T04:44:18+09:00",
+      "source": "WELT",
+      "title_original": "Eine Gelb-Rote Karte und zwei Traumtore brechen Gladbach das Genick in Hamburg",
+      "summary_original": "Der Hamburger SV stoppt seine Negativserie gegen Borussia Mönchengladbach. Ein Platzverweis direkt nach der Pause wird zum Knackpunkt. Zwei Hamburger zaubern aus der Distanz, ein 19-Jähriger feiert seine Tor-Premiere.",
+      "url": "https://www.welt.de/sport/fussball/article6aee0bc847b5fce02f87a937/hsv-gladbach-gelb-rote-karte-und-zwei-traumtore-brechen-gladbach-das-genick.html",
+      "published": "2026-11-07T06:46:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "13-Jähriger sticht bei Streit im Park 15-Jährigen mit Messer nieder – Lebensgefahr",
+      "summary_original": "Der Streit zwischen den Jugendlichen eskalierte nachmittags in einem Park in Hessen. Bevor der 13-Jährige mit dem Messer angriff, entfernte er sich zwischenzeitlich vom Tatort, um seinen Bruder zu holen. Der rückte mit Pfefferspray an.",
+      "url": "https://www.welt.de/vermischtes/article6aee459847b5fce02f87ac1b/marburg-13-jaehriger-sticht-bei-streit-im-park-15-jaehrigen-mit-messer-nieder-lebensgefahr.html",
+      "published": "2026-11-07T06:32:20+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -324,42 +360,6 @@
       "summary_original": "Dynamo Dresden feiert im Abstiegskampf der 2. Bundesliga einen erlösenden Sieg. Stürmer Vincent Vermeij hält sogar Nasenbluten nicht auf. Eintracht Braunschweig kassiert Pfiffe der eigenen Fans.",
       "url": "https://www.welt.de/sport/fussball/article6aee2689dc01c6aa86e208e2/2-bundesliga-stuermer-trifft-mit-blutiger-nase-dresden-fertigt-fuerth-ab.html",
       "published": "2026-11-07T05:03:10+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "WELT",
-      "title_original": "Universität Kassel zieht Strafanträge nach Hörsaalbesetzung zurück",
-      "summary_original": "Nach der Räumung eines besetzten Hörsaals nimmt die Universität Kassel ihre Strafanträge zurück. Die Hochschule hatte zuvor das Verbot militärischer Forschung aufgehoben.",
-      "url": "https://www.welt.de/politik/article6aee22439a8c816aafecdaa7/abschaffung-der-zivilklausel-universitaet-kassel-zieht-strafantraege-nach-hoersaalbesetzung-zurueck.html",
-      "published": "2026-11-07T04:20:23+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "WELT",
-      "title_original": "HSV nutzt die Überzahl – Grönbaek erhöht mit dem nächsten Traumtor",
-      "summary_original": "Der Hamburger SV geht nach drei Pflichtspielniederlagen in Serie angeschlagen ins Duell mit Borussia Mönchengladbach. Auch die Gäste brauchen die drei Punkte als Tabellenletzter dringend. Verfolgen Sie das Spiel im Liveticker.",
-      "url": "https://www.welt.de/sport/fussball/article6aee0bc847b5fce02f87a937/hsv-gladbach-liveticker-hsv-nutzt-ueberzahl-groenbaek-erhoeht-per-traumtor.html",
-      "published": "2026-11-07T04:18:28+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "WELT",
-      "title_original": "339 Polizisten bei Krawallen verletzt – Hälfte der Verdächtigen in Frankfurt ohne deutschen Pass",
-      "summary_original": "Bei den jüngsten Krawallen am Rande der bundesweiten Jugendproteste gab es laut einem Bericht 330 Festnahmen und Festsetzungen. 218 Strafverfahren wurden bislang eingeleitet. Alleine in Frankfurt wurden 17 Geschäfte beschädigt. Auffällig dort ist die Herkunft der Tatverdächtigen.",
-      "url": "https://www.welt.de/politik/deutschland/article6aee092b47b5fce02f87a926/ausschreiungen-nach-genz-demos-339-polizisten-bei-krawallen-verletzt-haelfte-der-verdaechtigen-in-frankfurt-ohne-deutschen-pass.html",
-      "published": "2026-11-07T04:08:29+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "WELT",
-      "title_original": "Nach verheerendem Wahldebakel – Trump feuert Stabschefin Susie Wiles",
-      "summary_original": "US-Präsident Donald Trump beruft Stephen Miller zum Stabschef des Weißen Hauses. Der Wechsel folgt auf die Kongresswahl, bei der die Republikaner Senat und Repräsentantenhaus verloren.",
-      "url": "https://www.welt.de/politik/article6aee250e47b5fce02f87aad7/us-regierung-nach-verheerendem-wahldebakel-trump-feuert-stabschefin-susie-wiles.html",
-      "published": "2026-11-07T04:07:50+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -437,6 +437,24 @@
     },
     {
       "source": "Der Spiegel",
+      "title_original": "Demonstranten besetzen Baustelle von Microsoft-Rechenzentrum in Amsterdam",
+      "summary_original": "Absperrzäune und die Polizei konnten sie nicht stoppen: Hunderte Menschen sind in Amsterdam auf die Baustelle eines Rechenzentrums vorgedrungen. Der Protest richtet sich gegen hohen Energieverbrauch und generell gegen große Tech-Projekte.",
+      "url": "https://www.spiegel.de/ausland/demonstranten-besetzen-baustelle-von-microsoft-rechenzentrum-in-amsterdam-a-487855b6-ecae-4204-9f30-4921beed0d65#ref=rss",
+      "published": "2026-11-07T08:23:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Fußball-Bundesliga: HSV stoppt Borussia Mönchengladbach mit 3:1",
+      "summary_original": "Borussia Mönchengladbach bleibt Tabellenletzter. Mit einem überzeugenden 3:1 hat der Hamburger SV den Gladbachern einen Dämpfer versetzt. Auch ihr Supertalent konnte das nicht verhindern.",
+      "url": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-hsv-stoppt-borussia-moenchengladbach-mit-3-1-a-2434da6e-f3d8-4f51-a72b-d9a90866f325#ref=rss",
+      "published": "2026-11-07T06:54:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
       "title_original": "Ukraine: Wolodymyr Selenskyj macht Vitali Klitschko für Stromausfälle in Kyjiw verantwortlich",
       "summary_original": "Seit Wochen greift Russland das ukrainische Energienetz an, die Hauptstadt Kyjiw bleibt immer wieder dunkel. Präsident Selenskyj sieht die Schuld bei Bürgermeister Klitschko. Der wehrt sich scharf.",
       "url": "https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-macht-vitali-klitschko-fuer-stromausfaelle-in-kyjiw-verantwortlich-a-2e10ce20-7817-46f2-89f1-34bb45cb346f#ref=rss",
@@ -490,20 +508,56 @@
       "state_media": false
     },
     {
-      "source": "Der Spiegel",
-      "title_original": "Berlin: Linke fordert Vanessa Emde auf, Mandat zurückzugeben",
-      "summary_original": "Der Konflikt um Vanessa Emde erschwert die Koalitionsgespräche in Berlin. Nun hat die Partei sie gedrängt, ihren Posten aufzugeben – das Mandat sei keine »Ich-AG«. Hintergrund sind ihre Positionen zum Nahostkonflikt.",
-      "url": "https://www.spiegel.de/politik/deutschland/berlin-linke-fordert-vanessa-emde-auf-mandat-zurueckzugeben-a-45f7d6f6-b193-42c8-a1ac-0b5025237edb#ref=rss",
-      "published": "2026-11-07T03:24:00+09:00",
+      "source": "FAZ",
+      "title_original": "Bankenaffäre: Paraguays Präsident abgesetzt",
+      "summary_original": "Eine Bankenaffäre kostet Paraguays Präsident Santiago Peña das Amt. Die regierenden Colorados opfern ihren Präsidenten, behalten aber die Macht.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/santiago-pena-abgesetzt-paraguays-praesident-scheitert-an-bankenaffaere-201660662.html",
+      "published": "2026-11-07T07:23:49+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "Der Spiegel",
-      "title_original": "Tesla Cybertruck: Das war das Auto der Trump-Ära",
-      "summary_original": "Elon Musk verabschiedet sich nach drei Jahren vom Cybertruck. Die Amerikaner haben das monströse Gefährt abgewählt, wirtschaftlich wie politisch.",
-      "url": "https://www.spiegel.de/mobilitaet/auto/tesla-cybertruck-das-war-das-auto-der-trump-aera-a-43ec5786-e494-415f-b6ae-de772a2313f0#ref=rss",
-      "published": "2026-11-07T02:58:00+09:00",
+      "source": "FAZ",
+      "title_original": "Holocaust im Kino: Soll man sich vom Grauen ein Bildnis machen?",
+      "summary_original": "Wahrheitsfindung im Film — von Lanzmann bis Spielberg und darüber hinaus: Michal Kosakowskis reflektiert in seinem Experimentalfilm „Holofiction“ die Darstellung des Mordes an den Juden in der Geschichte des Kinos.",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/experimentalfilm-reflektiert-darstellung-des-holocausts-im-kino-201648317.html",
+      "published": "2026-11-07T06:31:24+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Fußball-Bundesliga: Gladbach dezimiert sich und verliert in Hamburg",
+      "summary_original": "Die Borussia möchte den Schwung der jüngsten Spiele mitnehmen. In Hamburg aber spielen die Gladbacher nach dem Ausgleich lange Zeit in Unterzahl. Das nutzt der HSV mit sehenswerten Toren aus.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/borussia-moenchengladbach-verliert-mit-wael-mohya-beim-hamburger-sv-201304342.html",
+      "published": "2026-11-07T06:29:46+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Deutsche Autohersteller: Kein Plan für China",
+      "summary_original": "Volkswagen, Mercedes und BMW verzweifeln am chinesischen Automarkt. Was auch immer sie versuchen, ist offenkundig zum Scheitern verurteilt. Und nun kommen die chinesischen Autos nach Europa.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/vw-mercedes-und-bmw-wie-die-deutsche-autoindustrie-in-china-scheitert-201647881.html",
+      "published": "2026-11-07T06:23:32+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Konzernumbau: VW in der neuen Weltordnung",
+      "summary_original": "Der Autokonzern steht vor einem Umbruch, auf dessen Dimension das Land noch nicht vorbereitet ist. Zunächst müssen alle Beteiligten die Realität akzeptieren.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/volkswagen-im-umbruch-ist-deutschland-auf-die-neue-realitaet-vorbereitet-201654396.html",
+      "published": "2026-11-07T06:22:40+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Rhein-Main-Liveblog: 24.000 Demonstranten erwartet: Wie sich Frankfurt auf die Iran-Demo vorbereitet",
+      "summary_original": "Was ist los in Frankfurt & Hessen? Lesen Sie aktuelle News & Nachrichten im News-Ticker von heute ► Was heute wichtig ist, erfahren Sie bei der F.A.Z.",
+      "url": "https://www.faz.net/aktuell/rhein-main/wie-sich-frankfurt-auf-die-iran-grossdemo-vorbereitet-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
+      "published": "2026-11-07T06:10:21+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -526,56 +580,20 @@
       "state_media": false
     },
     {
-      "source": "FAZ",
-      "title_original": "„Matchbox: Der Film“: Crashtest für Dummies",
-      "summary_original": "Skydance gibt Gummi: „Matchbox: Der Film“ von Sam Hargrave sollte „Barbie“ für Jungs werden. Herausgekommen ist ambitionsloser Bleifuß-Stuss. Der läuft bei Apple TV auf der Überholspur.",
-      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/fernsehfilm/hirnlose-raserei-matchbox-der-film-bei-apple-tv-201314814.html",
-      "published": "2026-11-07T05:17:39+09:00",
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Newsblog zu den Landtagswahlen: Siegmund schließt mehrere Wahlgänge nicht mehr aus",
+      "summary_original": "Bei der Ministerpräsidentenwahl in Magdeburg wollte der AfD-Politiker Siegmund zunächst nur in einem Wahlgang antreten. Nachdem die CDU ihren Kurs abgesteckt hat, lässt er weitere Versuche nun offen.",
+      "url": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-sachsen-anhalt-ulrich-siegmund-berlin-vanessa-emde-li.3540501",
+      "published": "2026-11-07T06:57:30+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "FAZ",
-      "title_original": "Fußball der Frauen: Wolfsburg und Bayern siegen vor ihrem Spitzenspiel",
-      "summary_original": "Vor dem direkten Duell geben sich die beiden Topteams der Frauen-Bundesliga keine Blöße. Beim VfL überzeugt mal wieder die Torjägerin, beim FC Bayern gibt eine Starspielerin ihr Comeback.",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-und-vfl-wolfsburg-siegen-vor-frauen-bundesliga-duell-201660492.html",
-      "published": "2026-11-07T04:50:39+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "FAZ",
-      "title_original": "Zweite Bundesliga: Dresden verlässt letzten Platz durch 3:0-Sieg über Fürth",
-      "summary_original": "Es geht eng zu im Tabellenkeller der zweiten Fußball-Bundesliga. Dresden macht mit einem deutlichen Heimsieg über Fürth einen Sprung. Keine Tore gibt es dagegen beim Spiel in Braunschweig.",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/dynamo-dresden-besiegt-greuther-fuerth-in-2-fussball-bundesliga-201304587.html",
-      "published": "2026-11-07T04:35:06+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "FAZ",
-      "title_original": "Nach den Midterms: Trump-Niederlage sorgt in der AfD für Streit",
-      "summary_original": "Viele in der AfD sahen in Trump ein Vorbild. Nun, wo die Wähler ihn abgestraft haben, stellt sich die Frage: Was lässt sich daraus ableiten?",
-      "url": "https://www.faz.net/aktuell/politik/inland/trumps-niederlage-befeuert-streit-in-der-afd-201658612.html",
-      "published": "2026-11-07T04:26:07+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "FAZ",
-      "title_original": "Kongress-Untersuchungen: Die Demokraten raten dem Weißen Haus: Nehmt euch Anwälte",
-      "summary_original": "Das Kontrollrecht des Kongresses wird eines der mächtigsten Instrumente der Demokraten sein. Die Liste der geplanten Untersuchungen ist lang – und Trump steht ganz oben.",
-      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/welche-untersuchungen-im-kongress-donald-trump-nun-drohen-201655903.html",
-      "published": "2026-11-07T04:25:29+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "FAZ",
-      "title_original": "Epos des Westens: Hat Homer die „Ilias“ seiner Tochter diktiert?",
-      "summary_original": "Mitten im Rummel um die „Odyssee“ möchte Robin Lane Fox der „Ilias“ wieder zu ihrem Recht verhelfen. Als Aristokrat identifiziert er sich mit den homerischen Helden – und hat ein paar sonderbare Ideen.",
-      "url": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/robin-lane-fox-hat-ideen-zu-homers-ilias-201252733.html",
-      "published": "2026-11-07T04:25:02+09:00",
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Reaktionen: „Ilse Aigner schätzen wir“",
+      "summary_original": "Sowohl Grüne als auch die SPD signalisieren ihre Unterstützung für die Kandidatur der CSU-Politikerin für das Amt der Bundespräsidentin. Die Linke kritisiert das Zustandekommen ihrer möglichen Aufstellung.",
+      "url": "https://www.sueddeutsche.de/politik/ilse-aigner-bundespraesidentin-gruene-spd-linke-reaktionen-li.3575672",
+      "published": "2026-11-07T06:43:24+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -634,92 +652,74 @@
       "state_media": false
     },
     {
-      "source": "Süddeutsche Zeitung",
-      "title_original": "Deutsche Bahn: Vorbild Österreich: Ein Sondervermögen fürs Schienennetz",
-      "summary_original": "Das deutsche Bahnnetz ist marode. Um es langfristig auszubauen und zu erhalten, schlägt die SPD-Fraktion jetzt einen Schienenfonds vor. Und kommt damit Verkehrsminister Bilger zuvor.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/schienenfonds-deutsche-bahn-spd-steffen-bilger-infrastruktur-li.3575338",
-      "published": "2026-11-06T22:53:58+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Süddeutsche Zeitung",
-      "title_original": "Steinmeier-Nachfolge: Ilse Aigner soll Bundespräsidentin werden",
-      "summary_original": "Vor dem entscheidenden Wochenende gilt nach SZ-Informationen als sicher, dass CDU-Chef Merz die bayerische Landtagspräsidentin für das höchste Amt im Staat vorschlagen wird.",
-      "url": "https://www.sueddeutsche.de/politik/bundespraesidentin-kandidatin-ilse-aigner-friedrich-merz-nominierung-bekanntgabe-li.3575265",
-      "published": "2026-11-06T22:48:27+09:00",
+      "source": "Die Zeit",
+      "title_original": "Regierungskrise in Paraguay: Paraguays Senat enthebt Präsident Santiago Peña des Amtes",
+      "summary_original": "Der paraguayische Präsident Santiago Peña ist seines Amtes enthoben worden und steht unter Hausarrest. Ihm werden Verbindungen zu einem Bankenskandal vorgeworfen.",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/paraguay-santiago-pena-regierungskrise-bankenskandal-senat",
+      "published": "2026-11-07T08:48:40+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Ehrung im Saarland: «Rose» gewinnt auch Günter Rohrbach Filmpreis",
+      "title_original": "Kriminalität: Mann nach mutmaßlicher Würgeattacke auf seine Frau in Haft",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/06/rose-gewinnt-auch-guenter-rohrbach-filmpreis",
-      "published": "2026-11-07T06:00:04+09:00",
+      "url": "https://www.zeit.de/news/2026-11/07/mann-nach-mutmasslicher-wuergeattacke-auf-seine-frau-in-haft",
+      "published": "2026-11-07T08:43:39+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Innenminister: Dobrindt wirbt für mehr Wehrhaftigkeit gegen Cyberattacken",
+      "title_original": "Krieg gegen die Ukraine: Selenskyj kritisiert Klitschko nach Stromausfällen in Kyjiw",
+      "summary_original": "Wolodymyr Selenskyj übt nach Stromausfällen in der Hauptstadt Kritik an Bürgermeister Vitali Klitschko. Die Ukraine warnt vor Angriffen auf Energieanlagen. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "2026-11-07T08:19:45+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Amsterdam: Aktivisten besetzen Baustelle von Microsoft-Rechenzentrum",
+      "summary_original": "Umweltorganisationen rufen zu Protestaktionen gegen Rechenzentren in ganz Europa auf. In Amsterdam legen Aktivisten eine Baustelle von Microsoft lahm.",
+      "url": "https://www.zeit.de/digital/2026-11/protest-amsterdam-microsoft-rechenzentrum-sloterdijk",
+      "published": "2026-11-07T08:16:56+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Staatskrise in Südamerika: Santiago Peña als Präsident Paraguays abgesetzt",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/06/dobrindt-wirbt-fuer-mehr-wehrhaftigkeit-gegen-cyberattacken",
-      "published": "2026-11-07T05:58:50+09:00",
+      "url": "https://www.zeit.de/news/2026-11/06/santiago-pe-a-als-praesident-paraguays-abgesetzt",
+      "published": "2026-11-07T07:58:29+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Ilse Aigner: CDU und CSU wollen Ilse Aigner als Bundespräsidentin",
-      "summary_original": "Die unionsinterne Debatte um die Nachfolge von Frank-Walter Steinmeier ist beendet. Die CDU will die CSU-Politikerin Ilse Aigner als Bundespräsidentin nominieren.",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/ilse-aigner-union-landtagswahl-bayern-csu",
-      "published": "2026-11-07T05:56:31+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "Ilse Aigner: CDU und CSU wollen Ilse Aigner als Bundespräsidentin",
-      "summary_original": "Die unionsinterne Debatte um die Nachfolge von Frank-Walter Steinmeier ist beendet. Die CDU will die CSU-Politikerin Ilse Aigner als Bundespräsidentin nominieren.",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/ilse-aigner-union-landtagswahl-bayern-csu",
-      "published": "2026-11-07T05:56:31+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "Basketball-Bundesliga: Alba Berlin fertigt Aufsteiger Phoenix Hagen ab",
+      "title_original": "Kalenderblatt: Was geschah am 7. November?",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/06/alba-berlin-fertigt-aufsteiger-phoenix-hagen-ab",
-      "published": "2026-11-07T05:47:31+09:00",
+      "url": "https://www.zeit.de/news/2026-11/06/was-geschah-am-7-november",
+      "published": "2026-11-07T07:55:04+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Netflix-Kultserie: Netflix: Spin-off-Serie zu «Stranger Things» kommt 2028",
+      "title_original": "Missbrauchsvorwürfe: Vater von Herzogin Meghan in den USA festgenommen",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/06/netflix-spin-off-serie-zu-stranger-things-kommt-2028",
-      "published": "2026-11-07T05:46:33+09:00",
+      "url": "https://www.zeit.de/news/2026-11/06/vater-von-herzogin-meghan-in-den-usa-festgenommen",
+      "published": "2026-11-07T07:29:09+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "WTT Champions im Tischtennis: Vier Deutsche weiter: Jungstar überrascht bei Heimturnier",
+      "title_original": "Verkehr: Mann bei Unfall in der Eifel schwer verletzt",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/06/tischtennis-star-kaufmann-in-frankfurt-ausgeschieden",
-      "published": "2026-11-07T05:30:07+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "Nach Wahldebakel: Trump ersetzt Stabschefin Wiles durch Hardliner Miller",
-      "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/06/trumps-stabschefin-wiles-verlaesst-das-weisse-haus",
-      "published": "2026-11-07T05:29:08+09:00",
+      "url": "https://www.zeit.de/news/2026-11/06/mann-bei-unfall-in-der-eifel-schwer-verletzt",
+      "published": "2026-11-07T07:00:51+09:00",
       "via": "rss",
       "state_media": false
     }
