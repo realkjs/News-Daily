@@ -18,7 +18,7 @@
     "unavailable": []
   },
   "uk": {
-    "headlines": 87,
+    "headlines": 86,
     "unavailable": []
   },
   "fr": {
@@ -37,9 +37,10 @@
     "unavailable": []
   },
   "cn": {
-    "headlines": 49,
+    "headlines": 47,
     "unavailable": [
-      "Global Times"
+      "Global Times",
+      "Caixin"
     ]
   }
 }
