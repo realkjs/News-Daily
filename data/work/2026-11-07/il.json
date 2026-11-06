@@ -1,0 +1,853 @@
+{
+  "team": "il",
+  "headlines": [
+    {
+      "source": "i24NEWS",
+      "title_original": "Holocaust Survivor Wounded In Bondi Beach Terror Attack Dies At 90",
+      "title_ko": "본다이 해변 테러 공격으로 부상한 홀로코스트 생존자, 90세로 사망",
+      "summary_ko": "본다이 해변 테러 공격 당시 부상한 홀로코스트 생존자가 90세로 숨졌다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaDh5VXlBYm94VmsycFp4bmtfLURiT1JlQUhGWWtfcWJHeE1uNk95UG1wYk9jblZMa2YtakJkNzF1LUJ3aVM4TzlEZzlBX2ljYy1zODdzOE9hbV8wcndNVmducGl3Y1haNkRBUTNubmNhU3A2UmRVcDFkckJvOC1FdXNzcXhvRGQzTzBGbjIycXBGbnRmd3FOaVFjVU9kQURIZ0c2cHFMU1ZnQmhZZUkyTXFJdVFvQm5udE5EYzNaT1djYnhobE1GZA?oc=5",
+      "published": "2026-11-07T02:47:15+09:00",
+      "tags": [],
+      "event": "bondi-attack-survivor-death",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Eisenkot Reaffirms Draft Demand After Liberman Opens Door To UTJ Coalition",
+      "title_ko": "아이젠코트, 리버만의 UTJ 연정 참여 가능성 시사 후 징병 요구 재확인",
+      "summary_ko": "리베르만이 초정통파 정당 UTJ와의 연정 가능성을 열자 아이젠코트가 징병 요구를 재확인했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSHNjRjlFV0VrR19SWjlsTkp0emhreTNaRF9leDlIWUNtNlBLRE1XLWVDUm9LRlJwU0hnbm56Qnlpbk1zalJMQWh4ZDdmaENFOFVweFdsZ1pJaWFkNEdYRkc3bElEMEphSEthcFNuQjlsb3ZnNWN5V1plQV9pWGdpX1dBNnhxNXRWVV9OSGZfMUlJYTJsczlDUlg0Vm80MUc1QXU1UURuUm5BRVNTLXVhaERlZTZUZk92OFJKYnBTVmZZVXFV?oc=5",
+      "published": "2026-11-07T02:25:55+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "israel-coalition-formation",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Breaking news from the Middle East, Israel and around the world",
+      "title_ko": "중동·이스라엘·세계 속보",
+      "summary_ko": "i24NEWS 속보 페이지 제목으로, 구체 기사 내용은 확인되지 않는다.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSVBNd2gzLW5lUzdUSlR0YVE2aUZMd3E2WkVQVlBtUlRLaTJPNF9JbUNTSkZHalc4bWxTQ2l1MlVUNU9yeXAzOU1FV3pmdHlhWHE3VXdLdmNEZlE0LVZRRi1EeFMzdmVxU25yVlQ1RUZkcnZ0dV90UWsxUTFBRHNvbmx3?oc=5",
+      "published": "2026-11-06T22:50:41+09:00",
+      "tags": [],
+      "event": "i24-breaking-generic",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Irish Media Offices Evacuated As Fresh Bomb Threats Target European Flights",
+      "title_ko": "유럽 항공편 겨냥한 새 폭탄 위협 속 아일랜드 언론사 사무실 대피",
+      "summary_ko": "유럽 항공편을 겨냥한 새로운 폭탄 위협이 이어지는 가운데 아일랜드 언론사 사무실이 대피했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeUVSdmdUd20teEVMOW9HZ3FFOE9SM3k4UkNxdW9yLXdSQk1ILVh1aFdIMC1xYklUNjZFT1Y0TXI0MFJkZldYaWtNUTk2MTFIeDBnSi1qMUc2ZTVvbUF3MHYzRGFxWGVya01TZE5qbktnTmFyY25JR1ZLUGNRV1A2ZjJ6Y0s3djhoMDBqUG5JZkpJQURfV19udnZRTFEwbTJGUVh2UXEtdExiLXhGRHdYOWVaT1p6WkZyQWVZVXFHSGVWbGFoRm5PN1NkZm0?oc=5",
+      "published": "2026-11-06T22:49:45+09:00",
+      "tags": [],
+      "event": "europe-bomb-threats",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Report: Trump Meets With National Security Team To Weigh Renewed Strikes On Iran",
+      "title_ko": "보도: 트럼프, 이란 재공습 검토 위해 국가안보팀과 회의",
+      "summary_ko": "트럼프 대통령이 이란에 대한 공습 재개를 검토하기 위해 국가안보팀과 만났다는 보도(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR2VDMVZ0aFZXRXJReTdEUmZSdkcyYzdTU2FUZ1hQOWtLRHBjRjEtRjcxbmd6ZmR3TGRIQUdPYzUzMS1PZnFjSGdrYnM1OHNXcng0TVQtbjBMQkROeFRRVVdYd2hadGI2WmNwalVBZTgwMklEdUxVQmFkN3Awem1IbDZaWURpMmQwbHctNkxFbFdwSTB1SFN3TU5WdDZLcThLYkJvN3NmOXhVa0RvVmRUN09WTDYzOERRNk5ZSjJ4OGlqckM5bUdCRw?oc=5",
+      "published": "2026-11-06T21:20:07+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-iran-war-talks",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Liberman Softens Draft Law Stance In Bid To Break Coalition Deadlock",
+      "title_ko": "리버만, 연정 교착 타개 위해 징병법 입장 완화",
+      "summary_ko": "리베르만이 연정 교착 상태를 풀기 위해 징병법 관련 입장을 누그러뜨렸다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWTFQY2Vhd1RVVlREbzVwNXpKT1gyTE5rU3VfM1VFVS1HSjN0VGZhY3hlc3g5MVYtdUZMb0N5d2tNU0JsZHVjRmw4eEY1WS1lSWlqZDJ1NzhXa3FhWUs3REd6cnFnYy10dnBiaXh4Yy1jQU5maTZOSEZPUkQtZkptSkU3M2tIQ21LaUJKLUhwNmZRcHVxZEF1TWRkYzhMR3pNQzVEN1l0N1pnbDBabExnaXNVRHBOUVEyWXBTZw?oc=5",
+      "published": "2026-11-06T18:16:49+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "israel-coalition-formation",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Iran Sends US Nuclear Proposal But Demands Seven Conditions Before Talks | LIVE BLOG",
+      "title_ko": "이란, 미국에 핵 제안 전달했으나 협상 전 7개 조건 요구 | 라이브 블로그",
+      "summary_ko": "이란이 미국에 핵 관련 제안을 보냈지만 협상에 앞서 7가지 조건을 내걸었다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQXQwbFFSeVBvcDdVcnRTdDJoZUFsMnRaNmx0LWd5NFgzc2Q0MjVUbktCaUZWOE1McTVqTlA3b2xGUGFjUXJCd3N4UEV3cVF0YzBBaVNxTDFGWTRNSjZObzVRMlBjLW5oN2w3ZUIwVmVGSGJvNFFDNDBMUHdXQy1kbU1kbnJYalNLNUpfdm1oaEZIS3c3MlBYVXpJbXBvSWd3elBDOW1ZdllYZ0lnMlBiSlJneW1DUmFDaXhvd0RMQXdZOEV0QkpHM1RhaVRFOW8?oc=5",
+      "published": "2026-11-06T17:00:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-iran-war-talks",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "President Herzog to announce Sunday who will be nominated to form next Israeli government",
+      "title_ko": "헤르초그 대통령, 일요일 차기 정부 구성 지명자 발표 예정",
+      "summary_ko": "헤르초그 대통령이 일요일에 차기 이스라엘 정부 구성권을 받을 인물을 발표한다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY0l6Q29LVmRZTzU3RXVCOXlMb3BXSG1Dc3g0ODRvSGRfbndOaUhDc2FTdlNQSzI5YzM0VDBjemhTZ2JRc1BIU0lOTFJhMjdrX2lYNzZDU2JtYkd4OEJTb1VTOGdKalM1SV94WGI2U3h2Vklnbk41ZUl2WnBnc1NUTTRfX0RTZ01JNEt5Nm5YRjBiaEpiUFE0dmUzV2tzbnI1X1lxVnRncFVxcFdaTnRUSzh2ZWNHcjJIbVZ0T2xZaVYtcnd5SDk2Mzh5QmJja19SeERaSlNSQXk4cGc?oc=5",
+      "published": "2026-11-06T13:45:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "israel-coalition-formation",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "‘We will dance again’ on Nov. 21",
+      "title_ko": "'우리는 다시 춤출 것이다' 11월 21일",
+      "summary_ko": "'We will dance again' 관련 11월 21일 행사 소식(제목 기준, 원 게재처는 Pittsburgh Jewish Chronicle로 표기).",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKaGxmTlgzUlZzbGJoOVJNa2RONVFZSXdva29xWWZkY2JUUHl6eEJGejlJY3lEVlFFaVhrVU1RUm5WTG4yeHUzY3RHaHRqRXpEbjk0V2JtU21ZZ3AydHF4S0xCNy1HbjB6LVBpZmhnVzRUdk1BVkxwS1U1VW4?oc=5",
+      "published": "2026-11-07T04:56:37+09:00",
+      "tags": [],
+      "event": "we-will-dance-again",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "An Iranian missile hit this Tel Aviv building. Its next chapter is remarkable",
+      "title_ko": "이란 미사일에 맞은 텔아비브 건물, 그 다음 이야기는 놀랍다",
+      "summary_ko": "이란 미사일에 피격된 텔아비브 건물의 이후 변화를 다룬 기사(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeDF3QVZIQUhBWFZMbXJXaDlSVlpaeGQyNmQwZFFPNXRvaXdNU3NSQU5leno1aG9KUURCNnc2WXEzSGw5dE5hanM0djBVUTFDWDhWVldVcXhQZGpVbTBYcFUwNlREWHpMOWp3Y09NTFN2LUJMcUhCaXd4NThmTDJ3OTNGUzhLU0tDRy1KN3BXOVZheTk1MUpyangteDJaQ184aG94RXNzUHp2eHc5YkhGS05VTDhLVU90Q3hB?oc=5",
+      "published": "2026-11-07T03:30:41+09:00",
+      "tags": [],
+      "event": "tel-aviv-missile-building",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "Israel’s Alliance With The US Is At Risk",
+      "title_ko": "이스라엘의 대미 동맹이 위기에 처했다",
+      "summary_ko": "이스라엘-미국 동맹이 위험에 처했다는 글(제목 기준, 블로그·칼럼으로 추정).",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CMDNaVHZXb0JOa3ViMkozNnVpY0s4aHJYMHRaYjV6SVBlZGxtZWVkcXJWTlQ2VkJUblVhWk5laVpmcXRxLUdRTVpVQUVjZjNHZ1NtbWN1NTd4SjlLS3B2b2F5SHU3bDVJdU1lR2tVdzI0N0dqSnk3Z1NXOEc?oc=5",
+      "published": "2026-11-07T03:27:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-israel-aid-halt",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Blogs: Jewish Animal Chaplaincy: Restoring Sacred Dignity",
+      "title_ko": "블로그: 유대 동물 채플린 활동 — 신성한 존엄의 회복",
+      "summary_ko": "Times of Israel 블로그 글(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS0JuazJOLW9YaFYyUUwwakNYdi1hVkgzS3Z1STlqOUhsRDBBQ3ZqZmdXTllkQTJFYVV3NTFkbWloTXVhaUt1YjQxQXY3Z296UnNsWUVzQW9hV3FFYWxkNy0wRVFCMHBEbGotX0ZNSTBUTmVCekQyUUxnQy15bWtCNElMMnVLQWJnTEE?oc=5",
+      "published": "2026-11-07T03:26:00+09:00",
+      "tags": [],
+      "event": "toi-blog-animal-chaplaincy",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "Washington Just Gave the Opposition an Opening",
+      "title_ko": "워싱턴이 야권에 기회를 줬다",
+      "summary_ko": "미국 측 움직임이 이스라엘 야권에 기회를 제공했다는 취지의 글(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd09aRjNWNXFwNGZtTTN4algzWldzZUhlWmJGa1VYSjNFdW5JT1lscFBIcWpBYXgzMENrcmswZGR5ZlhZTFk0cVVHT3QtMjduMW51ck5YaXJ1R09DQXJXQVJCUm95RlJKa2cwV2pDUDJXdnN2NFlkdlFnSjZqWGs3cVl5V1dhUQ?oc=5",
+      "published": "2026-11-07T03:24:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "washington-opposition-opening",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "‘Ivri Anochi’ – Opening our Tent",
+      "title_ko": "'이브리 아노키' — 우리의 장막을 열다",
+      "summary_ko": "Times of Israel 게재 글(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SUHllWFVyY053R3pyYzZFRW9vdDN0THpCV3FUeVNRUml1S0JTTkR4Y1J3WTJZOHBZTDVNc3JVc3pBNlJTRVNEV0d6Q0FiaWVHMlFjNVY1VUlNcTVqa1RSSkRHQUpzM2NaSVlLbXpn?oc=5",
+      "published": "2026-11-07T03:23:00+09:00",
+      "tags": [],
+      "event": "toi-ivri-anochi",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "What does the future hold for UK Jewry?",
+      "title_ko": "영국 유대인 사회의 미래는?",
+      "summary_ko": "영국 유대인 공동체의 앞날을 다룬 글(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PSjFCUXo3X25wcXl4MUlZVGN5UlU2VTVUNnliQUwtYXEyVjlUeS02SnkyM3R4R3VTNVRpOVFoU2pTd3dfWlNYZGxDVy1qN29PLUZnUjZLalpZVFQ5VzRjNWdiNENFdXc4NFN6eldQWEhRZmFtekJBeVZ5TQ?oc=5",
+      "published": "2026-11-07T03:22:00+09:00",
+      "tags": [],
+      "event": "uk-jewry-future",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "Report: PM, Mossad chief planned operation inside Iran on eve of Israeli election, which was thwarted after US accidentally tipped off",
+      "title_ko": "보도: 총리·모사드 국장, 이스라엘 총선 전야 이란 내 작전 계획…미국의 실수로 정보 새어 무산",
+      "summary_ko": "네타냐후 총리와 모사드 국장이 총선 전날 이란 내부 작전을 계획했으나 미국이 실수로 이를 누설해 무산됐다는 보도(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNc3VjTEZqa1lScjJ1ZXhabXd2Z1p0THNnd2VQZXhHVU1ELU42LS1qWU02OEp5Zm1UR0xXbFNFeTRJTFNfci1qa1VRZThqZ0lQM0VUZVRBN1ZLdW85OXZTRC1Bbng3TEM4dkJxY3Q2cU83MUV4Uk5qVDBrSTZNbE1JeTZxM3FwQy1yRHZTSmgweWJzaVQ5WUZWV0RYRXpkN1B2Q0d4QmRWSkZodEdHZUJWMlFmV3lid0JkM2t3MGRWTV9hZEg4U2o4NzhkTlBVdGlhOEVmb3RMWkZzVUVOU0pJaEZfc29XMV9mcGphVHdRM3Fzc240S0U0QWxvbEVxVHhJVEFTblJNTUg?oc=5",
+      "published": "2026-11-07T03:15:22+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "netanyahu-mossad-iran-op-report",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Trump: U.S. is 'talking to Iran' and doing 'very well' with Tehran",
+      "title_ko": "트럼프: 미국은 '이란과 대화 중'이며 '매우 잘 진행'",
+      "summary_ko": "블룸버그는 미국과 이란이 전쟁 종식 협상에서 돌파구에 근접했으며, 이란이 카타르가 제시한 핵 프로그램 관련 제안을 논의할 의향을 보였다고 보도했다.",
+      "url": "https://www.haaretz.com/us-news/2026-11-06/ty-article/trump-u-s-is-talking-to-iran-and-doing-very-well-with-tehran/000001a1-b274-dd7a-a3ed-f3742dcb0000",
+      "published": "2026-11-07T05:20:50+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-iran-war-talks",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Trump names far-right pro-Israel Stephen Miller as White House chief of staff",
+      "title_ko": "트럼프, 극우·친이스라엘 성향 스티븐 밀러를 백악관 비서실장에 지명",
+      "summary_ko": "중간선거에서 공화당이 크게 패한 며칠 뒤의 결정으로, 강경 이민정책을 주도해 온 밀러가 최장수 비서실장 수지 와일스를 대체한다.",
+      "url": "https://www.haaretz.com/us-news/2026-11-06/ty-article/trump-names-far-right-pro-israel-stephen-miller-as-white-house-chief-of-staff/000001a1-b245-d2e9-a5ad-badf186e0000",
+      "published": "2026-11-07T04:21:31+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "trump-miller-chief-of-staff",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Syria aiding Saudi Arabia with military advice and training amid Houthi attacks, sources say",
+      "title_ko": "소식통: 시리아, 후티 공격 속 사우디에 군사 자문·훈련 지원",
+      "summary_ko": "아흐마드 알샤라 시리아 대통령의 리야드 방문 때 체결된 방위협정이 군사협력을 공식화했으며, 미국은 다마스쿠스가 역내 전쟁에 휘말리지 말라고 경고했다.",
+      "url": "https://www.haaretz.com/middle-east-news/2026-11-06/ty-article/syria-aiding-saudi-arabia-in-war-against-the-houthis-sources-say/000001a1-b1e4-d2e9-a5ad-bbfe22660000",
+      "published": "2026-11-07T03:48:37+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "saudi-houthi-conflict",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Germany's Merz: Muslim immigrants who reject country's Holocaust responsibility must leave",
+      "title_ko": "독일 메르츠: 홀로코스트 책임을 거부하는 무슬림 이민자는 떠나야",
+      "summary_ko": "메르츠 총리는 마카비아 참가 유대인 선수 환영행사에서 독일의 홀로코스트 책임이 '이슬람권에서 독일로 온 사람들에게도 똑같이 적용된다'고 말했다.",
+      "url": "https://www.haaretz.com/world-news/europe/2026-11-06/ty-article/merz-muslim-immigrants-who-reject-german-holocaust-responsibility-must-leave/000001a1-b1c2-d041-a5f9-f5e341690000",
+      "published": "2026-11-07T03:15:17+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "merz-holocaust-immigrants",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "A Jewish-Arab government is the answer to Israel's most basic problems",
+      "title_ko": "유대-아랍 연립정부가 이스라엘 근본 문제의 해답이다(오피니언)",
+      "summary_ko": "'변화의 정부'의 짧은 실험은 유대인과 아랍인이 협력하면 빠르게 변화를 이룰 수 있음을 보여줬다는 주장.",
+      "url": "https://www.haaretz.com/opinion/2026-11-06/ty-article-opinion/.premium/a-jewish-arab-government-is-the-answer-to-israels-most-basic-problems/000001a1-b15b-d041-a5f9-f57ba49d0000",
+      "published": "2026-11-07T02:05:40+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "israel-coalition-formation",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Eisenkot signals readiness for minority government to replace Netanyahu",
+      "title_ko": "아이젠코트, 네타냐후 대체 위한 소수정부 구성 의향 시사",
+      "summary_ko": "야당 대표 리베르만이 소수정부를 배제한 뒤, 정부 구성권을 받을 것으로 보이는 가디 아이젠코트는 연정 노력을 방해하는 자는 '용서받지 못할 것'이라고 경고했다.",
+      "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-06/ty-article/.premium/eisenkot-signals-readiness-for-minority-government-to-replace-netanyahu/000001a1-b12a-defa-a7f7-bd7f4c110000",
+      "published": "2026-11-07T00:17:39+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "israel-coalition-formation",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Eisenkot has no choice: He must break his promise and link up with the Arab parties",
+      "title_ko": "아이젠코트에게 선택지는 없다: 약속을 깨고 아랍 정당과 손잡아야(분석)",
+      "summary_ko": "네타냐후 축출에는 고통스러운 양보가 필요하다는 주장과 함께, 선거위원회에서의 총리의 '책임 있는' 행보가 연막일 수 있다고 지적.",
+      "url": "https://www.haaretz.com/israel-news/elections/2026-11-06/ty-article/.premium/eisenkot-has-no-choice-he-must-break-his-pledge-and-link-up-with-arab-parties/000001a1-ad9b-d041-a5f9-edbb60f30000",
+      "published": "2026-11-06T22:31:58+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "israel-coalition-formation",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Netanyahu's attorney withdraws candidacy for Israel's state watchdog",
+      "title_ko": "네타냐후 변호인, 감사원장 후보직 사퇴",
+      "summary_ko": "7월 대법원은 리쿠드 의원들이 비밀투표여야 할 표결을 촬영한 뒤 미하엘 라벨로의 감사원장 임명을 동결한 바 있다.",
+      "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-06/ty-article/.premium/netanyahus-attorney-withdraws-candidacy-for-israels-state-watchdog/000001a1-b086-dda9-a5e9-b7dff4ef0000",
+      "published": "2026-11-06T21:30:19+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "state-comptroller-rabello",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Israel issues severe weather warnings for floods, thunderstorms",
+      "title_ko": "이스라엘, 홍수·뇌우 대비 기상특보 발령",
+      "summary_ko": "이스라엘이 홍수와 뇌우에 대한 심각한 기상 경보를 발령했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnSGlxb0NScnM2Q1c5RldFal9JcXhOY2htd0Q1UFlFWmQtUGEzN1ZmbXJuVWRPWUZnNnIzR3pIYXZ1aHllUk9hOXdDZkZkMzh6YzZDaUZReUU4d2pY?oc=5",
+      "published": "2026-11-07T05:51:39+09:00",
+      "tags": [],
+      "event": "israel-severe-weather",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "The true effect of Trump halting military aid to Israel - analysis",
+      "title_ko": "트럼프의 대이스라엘 군사원조 중단의 실제 영향 — 분석",
+      "summary_ko": "트럼프의 군사원조 중단이 이스라엘에 미칠 실제 영향을 분석한 기사(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pQ0RNam9aU1p0QnpfWWVUdDM0elYwUC1HdVFRZnNfTV9GNEItNnRraGEyX3hzZGxETkpic1Fvam12T29nZzlpclRuQVFRM01EZ0RpbVZTMzgzcVEt?oc=5",
+      "published": "2026-11-07T05:44:34+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-israel-aid-halt",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Friday crimes in Israel: Haifa stabbing, Tel Aviv soccer fan arrest",
+      "title_ko": "이스라엘 금요일 사건: 하이파 흉기 사건, 텔아비브 축구팬 체포",
+      "summary_ko": "하이파 흉기 사건과 텔아비브 축구팬 체포 소식(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ITHBjVzNmcUZvZUV6dGprX2xHbzNqWUUyUDIxUlR6Z09ENmgzWVJBSGVHcng0NHZKSFUxVlFfSDNfdlF0TlUzNlpOX1NJSVUxUnpBMG5JdHhkYTVjTV9zZDQ2VTVuck5HdU1TUHpuREN1QQ?oc=5",
+      "published": "2026-11-07T05:36:35+09:00",
+      "tags": [],
+      "event": "israel-friday-crimes",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Donald Trump to promote Stephen Miller to admin. chief of staff",
+      "title_ko": "트럼프, 스티븐 밀러를 백악관 비서실장으로 승진",
+      "summary_ko": "트럼프가 스티븐 밀러를 비서실장으로 기용한다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ycUpmcjA0LVYxajdVN2YwaEJJUGpuaGl4aDFoVFlTWVBwYjZmNjZjV2N5SmpaekJSOGVNdk9IcmdWRHBHZWVLaWlOWmRRdGhqQTRnTm9JN054TDN2WGNj?oc=5",
+      "published": "2026-11-07T05:27:44+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "trump-miller-chief-of-staff",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "First Israeli appointed to UN Independent Audit Advisory Committee",
+      "title_ko": "이스라엘인 최초로 유엔 독립감사자문위원회 위원 임명",
+      "summary_ko": "이스라엘인이 처음으로 유엔 독립감사자문위원회(IAAC)에 임명됐다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zek5CZDVvNWNoa19QU3M1RVpCY0FXeFlTSE9xNDhET3F1aDJIT2xXU2FYZkV0QTJUOG9GcWF2NEhfVUdnRE83ZmNOWWZUT2tMcTAyS20wZWZLMjQy?oc=5",
+      "published": "2026-11-07T05:27:11+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "israeli-un-audit-committee",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Israel urged to release detained Palestinian journalist by Jewish congressmen",
+      "title_ko": "유대계 미 하원의원들, 이스라엘에 구금된 팔레스타인 기자 석방 촉구",
+      "summary_ko": "유대계 미 의원들이 이스라엘에 구금된 팔레스타인 기자의 석방을 촉구했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oQUhUQVVpNkEySmZfa3plNFFGVUF0cHpJeTdJSF91NWFybXFidllJRnpEZDZHTEVjNWV4YVVEa01mNzhXbG9nWURQakp6MHNQOE8yempZZVk?oc=5",
+      "published": "2026-11-07T04:58:31+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "palestinian-journalist-detention",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Foreign election interference and political divisions threaten Israel's future",
+      "title_ko": "외국의 선거 개입과 정치 분열이 이스라엘의 미래를 위협한다",
+      "summary_ko": "외국의 선거 개입과 정치적 분열을 경고하는 글(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2NGhfSFNRSnVDU2hmNDl0cVdzNTVEU3ZUaDVrRUIydGxuRzFXZE13MjNIVnY5bmRYWFdpckhWdDF2VEMtRDVhVFVnSXRRQlREV0E4T25jdw?oc=5",
+      "published": "2026-11-07T04:16:42+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "foreign-election-interference",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Border Police catch Palestinian in haredi disguise with six others",
+      "title_ko": "국경경찰, 하레디 복장으로 변장한 팔레스타인인 등 7명 적발",
+      "summary_ko": "국경경찰이 초정통파 복장으로 변장한 팔레스타인인과 다른 6명을 붙잡았다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iYnM0Z0VNWEJXR0dYXzY5YUgzQkFTZXo1dVp3WmJ0bWNqMjNhYTlGYVNVclNpVmxPQi1jSE85dHpQcjYtenlXY0dqU0cyRnpyam1SUzd6VU5jMmR1bjktZmJBSVdnSHFKajdnMDNiMnF4QQ?oc=5",
+      "published": "2026-11-07T03:37:33+09:00",
+      "tags": [],
+      "event": "border-police-haredi-disguise",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Worker",
+      "title_ko": "노동자",
+      "summary_ko": "제목('Worker')만 있어 내용 확인 불가.",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfWkRhWG82Vm9mY2t1b3ZUb2FqeFRZMVhURTg1WWNwUTczbE9lNFlFckljV0JxVEdvTnMtejhiZUZTM1J6TVRCOU1wdWlPTlU?oc=5",
+      "published": "2026-11-07T06:11:43+09:00",
+      "tags": [],
+      "event": "ynet-worker",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Police: Missing 28-Year-Old Woman from Tel Aviv Located",
+      "title_ko": "경찰: 텔아비브 실종 28세 여성 발견",
+      "summary_ko": "경찰이 텔아비브에서 실종된 28세 여성의 소재를 확인했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvZ1Z0bnl5cjBqdG8ycFNKVzM1QnFCenpQYnpzMXFpcFZwYmdyaFNwdVl2NTlobmpZRGFYY2VjUEYxSzJ2X3NnbVZaM1Q1cWk1OTR3dg?oc=5",
+      "published": "2026-11-07T05:43:40+09:00",
+      "tags": [],
+      "event": "tel-aviv-missing-woman",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Police seek public's help in locating missing 28-year-old woman from Tel Aviv",
+      "title_ko": "경찰, 텔아비브 실종 28세 여성 찾기 위해 시민 제보 요청",
+      "summary_ko": "경찰이 텔아비브 실종 여성의 소재 파악을 위해 시민 도움을 요청했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0Q1E3Vm0yWnliN2UyaU10R3BVTjQ2c0xrV3JXX3dSWGtWaFlSb0ZNSzZUVXlnQVRtSVF4VU01NjZpVTdnaDZSSzdZSXU5T1U4dlhxVw?oc=5",
+      "published": "2026-11-07T05:43:16+09:00",
+      "tags": [],
+      "event": "tel-aviv-missing-woman",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Saudi Arabia: We Intercepted a Drone in Riyadh Area",
+      "title_ko": "사우디: 리야드 인근 상공에서 드론 요격",
+      "summary_ko": "사우디아라비아가 리야드 지역에서 드론을 요격했다고 밝혔다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nMmdDRnRuYlhzVXpVazlBSHRJa1lpd2ZsNktpNnJOV0JIWlh4bXRwRnBWODVKRjkxVG96aUZYdWgtdlY0YzdKMW5vVnZiR0N2ajdQMg?oc=5",
+      "published": "2026-11-07T05:25:10+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "saudi-houthi-conflict",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Israeli official makes history with appointment to UN oversight body",
+      "title_ko": "이스라엘 관리, 유엔 감독기구 임명으로 역사 새로 써",
+      "summary_ko": "이스라엘 관리가 유엔 감독기구에 처음 임명됐다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJMm1LNldYQWRYQzZreUZoRUk4bE1CaktaRTJqQkNxbXVWVk5DZXkzbWtZZzIwcHExN1ZLT09NSVlXTzFycXV3TWVDVmtsRGwwOThGNHV3?oc=5",
+      "published": "2026-11-07T05:13:39+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "israeli-un-audit-committee",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Israel voted, but did anyone really choose? The psychology behind the political deadlock",
+      "title_ko": "이스라엘은 투표했지만 누가 진짜 선택했나? 정치 교착의 심리학",
+      "summary_ko": "총선 이후 정치 교착 상태를 심리학적으로 다룬 글(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84d0dRNVJ4N1lwaTZtakRaaDBQNHZoSkZUYWM1S3pHYjUtLVk3UmdQclZFZEZYeExHbElzX1F4dDZvRk94YnVnOHVZYUVoZXg5ZlpzR1hlSzRoY2I5bmV2OXl5ZkpfTUJBYUxvdEFB?oc=5",
+      "published": "2026-11-07T04:29:09+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "israel-coalition-formation",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Oscar-winning Chilean director Sebastian Lelio dies at 52",
+      "title_ko": "오스카 수상 칠레 감독 세바스티안 렐리오, 52세로 별세",
+      "summary_ko": "오스카 수상 칠레 감독 세바스티안 렐리오가 52세로 사망했다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiS2Q0RE00VXExdDFTbzRDdTd3ZjFuNWxuU3JSUnlhVjB2R0JKNjdLalNNdkY3UUpqX21Cd2xaOUpnUEZJUmw0cmhvWFlGVG9TMy1obA?oc=5",
+      "published": "2026-11-07T03:45:18+09:00",
+      "tags": [],
+      "event": "sebastian-lelio-death",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "For the First Time: Israeli Appointed to UN Audit Committee",
+      "title_ko": "최초: 이스라엘인, 유엔 감사위원회 위원으로 임명",
+      "summary_ko": "이스라엘인이 처음으로 유엔 감사위원회에 임명됐다(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KRnF2ZU1KOXFZa2k3Y1h1RXlOckdudUpMOUZiRFVBZ3QwVDRzM0VrRHg2MXM2TjBmWmluVGJaOWJFWjdTRmVYUGF2YVpKVGl6M3FtYQ?oc=5",
+      "published": "2026-11-07T03:31:28+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "israeli-un-audit-committee",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Tax chief: We can bring in NIS 8b from black economy",
+      "title_ko": "국세청장: 지하경제에서 80억 셰켈 거둘 수 있다",
+      "summary_ko": "이스라엘 국세청장 샤이 아하로노비치는 향후 2년이 재정적으로 매우 어려울 것이라고 인정했다.",
+      "url": "https://en.globes.co.il/en/article-1001562340#utm_source=RSS",
+      "published": "2026-11-06T03:24:00+09:00",
+      "tags": [
+        "business",
+        "forecast"
+      ],
+      "event": "israel-tax-black-economy",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Playtika surges after opting to remain independent",
+      "title_ko": "플레이티카, 독립 유지 결정 후 급등",
+      "summary_ko": "전략적 대안 검토 끝에 게임앱 기업 플레이티카 이사회는 '독립 상장사로 계속 운영한다'고 발표했다.",
+      "url": "https://en.globes.co.il/en/article-1001562334#utm_source=RSS",
+      "published": "2026-11-06T02:37:00+09:00",
+      "tags": [
+        "business",
+        "stocks"
+      ],
+      "event": "playtika-independent",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Thu: Defense, tech stocks tumble",
+      "title_ko": "목요일: 방산·기술주 급락",
+      "summary_ko": "주요 지수가 크게 하락했으며, 월가가 큰 폭 하락 출발하면서 낙폭이 커졌다.",
+      "url": "https://en.globes.co.il/en/article-1001562332#utm_source=RSS",
+      "published": "2026-11-06T01:53:00+09:00",
+      "tags": [
+        "stocks"
+      ],
+      "event": "tase-decline",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Time to buy the dip on the TASE?",
+      "title_ko": "TASE 저점 매수할 때인가?",
+      "summary_ko": "애널리스트들이 최근 텔아비브 증시 하락을 투자자가 어떻게 해석해야 할지 의견을 제시했다.",
+      "url": "https://en.globes.co.il/en/article-1001562328#utm_source=RSS",
+      "published": "2026-11-06T01:08:00+09:00",
+      "tags": [
+        "stocks",
+        "forecast"
+      ],
+      "event": "tase-decline",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Bezeq, Adgar to build data center in Petah Tikva",
+      "title_ko": "베제크·아드가르, 페타티크바에 데이터센터 건설",
+      "summary_ko": "통신·인터넷 외 새 성장동력을 찾으려는 베제크의 의도를 보여주는 거래로, 데이터센터·AI 인프라 수요 증가를 겨냥한다.",
+      "url": "https://en.globes.co.il/en/article-1001562217#utm_source=RSS",
+      "published": "2026-11-05T22:47:33+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "bezeq-adgar-data-center",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Israel’s forex reserves back on the rise",
+      "title_ko": "이스라엘 외환보유액 다시 증가",
+      "summary_ko": "이스라엘은행에 따르면 2026년 10월 말 외환보유액은 2,377억 7,300만 달러로 전월 말보다 7억 7,500만 달러 늘었다.",
+      "url": "https://en.globes.co.il/en/article-1001562205#utm_source=RSS",
+      "published": "2026-11-05T21:51:07+09:00",
+      "tags": [
+        "monetary"
+      ],
+      "event": "israel-forex-reserves",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Ending US aid casts doubt on $10b in Israeli arms orders - report",
+      "title_ko": "미국 원조 종료로 이스라엘의 100억 달러 무기 주문에 의문 — 보도",
+      "summary_ko": "월스트리트저널은 미국이 2028년까지 현행 원조협정을 이행하더라도, 이스라엘은 이미 발주한 미국산 무기 대금으로 약 100억 달러가 더 필요하다고 보도했다.",
+      "url": "https://en.globes.co.il/en/article-1001562188#utm_source=RSS",
+      "published": "2026-11-05T19:38:00+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "us-israel-aid-halt",
+      "state_media": false
+    }
+  ],
+  "events": [
+    {
+      "event": "israel-coalition-formation",
+      "title_ko": "이스라엘 차기 정부 구성 협상(헤르초그 지명·아이젠코트·리베르만 징병법)",
+      "sources": [
+        "i24NEWS",
+        "Haaretz",
+        "Ynet News"
+      ],
+      "count": 7
+    },
+    {
+      "event": "us-iran-war-talks",
+      "title_ko": "미-이란 협상과 이란 재공습 검토",
+      "sources": [
+        "i24NEWS",
+        "Haaretz"
+      ],
+      "count": 3
+    },
+    {
+      "event": "us-israel-aid-halt",
+      "title_ko": "미국의 대이스라엘 군사원조 중단",
+      "sources": [
+        "Times of Israel",
+        "Jerusalem Post",
+        "Globes"
+      ],
+      "count": 3
+    },
+    {
+      "event": "israeli-un-audit-committee",
+      "title_ko": "이스라엘인 최초 유엔 독립감사자문위원회 임명",
+      "sources": [
+        "Jerusalem Post",
+        "Ynet News"
+      ],
+      "count": 3
+    },
+    {
+      "event": "trump-miller-chief-of-staff",
+      "title_ko": "트럼프, 스티븐 밀러 백악관 비서실장 기용",
+      "sources": [
+        "Haaretz",
+        "Jerusalem Post"
+      ],
+      "count": 2
+    },
+    {
+      "event": "saudi-houthi-conflict",
+      "title_ko": "사우디-후티 충돌(드론 요격·시리아 군사지원)",
+      "sources": [
+        "Haaretz",
+        "Ynet News"
+      ],
+      "count": 2
+    },
+    {
+      "event": "tel-aviv-missing-woman",
+      "title_ko": "텔아비브 실종 28세 여성 발견",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 2
+    },
+    {
+      "event": "tase-decline",
+      "title_ko": "텔아비브 증시 하락",
+      "sources": [
+        "Globes"
+      ],
+      "count": 2
+    },
+    {
+      "event": "bondi-attack-survivor-death",
+      "title_ko": "본다이 해변 테러 공격으로 부상한 홀로코스트 생존자, 90세로 사망",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "i24-breaking-generic",
+      "title_ko": "중동·이스라엘·세계 속보",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "europe-bomb-threats",
+      "title_ko": "유럽 항공편 겨냥한 새 폭탄 위협 속 아일랜드 언론사 사무실 대피",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "we-will-dance-again",
+      "title_ko": "'우리는 다시 춤출 것이다' 11월 21일",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "tel-aviv-missile-building",
+      "title_ko": "이란 미사일에 맞은 텔아비브 건물, 그 다음 이야기는 놀랍다",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "toi-blog-animal-chaplaincy",
+      "title_ko": "블로그: 유대 동물 채플린 활동 — 신성한 존엄의 회복",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "washington-opposition-opening",
+      "title_ko": "워싱턴이 야권에 기회를 줬다",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "toi-ivri-anochi",
+      "title_ko": "'이브리 아노키' — 우리의 장막을 열다",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "uk-jewry-future",
+      "title_ko": "영국 유대인 사회의 미래는?",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "netanyahu-mossad-iran-op-report",
+      "title_ko": "보도: 총리·모사드 국장, 이스라엘 총선 전야 이란 내 작전 계획…미국의 실수로 정보 새어 무산",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "merz-holocaust-immigrants",
+      "title_ko": "독일 메르츠: 홀로코스트 책임을 거부하는 무슬림 이민자는 떠나야",
+      "sources": [
+        "Haaretz"
+      ],
+      "count": 1
+    },
+    {
+      "event": "state-comptroller-rabello",
+      "title_ko": "네타냐후 변호인, 감사원장 후보직 사퇴",
+      "sources": [
+        "Haaretz"
+      ],
+      "count": 1
+    },
+    {
+      "event": "israel-severe-weather",
+      "title_ko": "이스라엘, 홍수·뇌우 대비 기상특보 발령",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "israel-friday-crimes",
+      "title_ko": "이스라엘 금요일 사건: 하이파 흉기 사건, 텔아비브 축구팬 체포",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "palestinian-journalist-detention",
+      "title_ko": "유대계 미 하원의원들, 이스라엘에 구금된 팔레스타인 기자 석방 촉구",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "foreign-election-interference",
+      "title_ko": "외국의 선거 개입과 정치 분열이 이스라엘의 미래를 위협한다",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "border-police-haredi-disguise",
+      "title_ko": "국경경찰, 하레디 복장으로 변장한 팔레스타인인 등 7명 적발",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ynet-worker",
+      "title_ko": "노동자",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "sebastian-lelio-death",
+      "title_ko": "오스카 수상 칠레 감독 세바스티안 렐리오, 52세로 별세",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "israel-tax-black-economy",
+      "title_ko": "국세청장: 지하경제에서 80억 셰켈 거둘 수 있다",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "playtika-independent",
+      "title_ko": "플레이티카, 독립 유지 결정 후 급등",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "bezeq-adgar-data-center",
+      "title_ko": "베제크·아드가르, 페타티크바에 데이터센터 건설",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "israel-forex-reserves",
+      "title_ko": "이스라엘 외환보유액 다시 증가",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    }
+  ],
+  "unavailable_sources": [
+    "Kan (KAN News)",
+    "N12 (Channel 12)"
+  ]
+}
