@@ -1,0 +1,875 @@
+{
+  "team": "jp",
+  "team_name_ko": "일본팀",
+  "collected_at": "2026-11-08T06:13:02.042045+09:00",
+  "headlines": [
+    {
+      "source": "NHK",
+      "title_original": "リスボン会議開く",
+      "summary_original": "リスボン会議開く NHK",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03SlppYlg5cHpVX0dpQW1MdDBRQzc1R1FMdDlEZ0xTa1RFelJJLUdBeE5BSHA2czZpcjdGZlQ5SHMwR3BkWXdYamZCU3NncHpxSzhKQjFWd21SUW5pNEpfOWJVaENYMjVmNUVtSA?oc=5",
+      "published": "2026-11-08T00:24:44+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "NHK",
+      "title_original": "スポーツ ～モーターボートレース 春の６大学リーグ シャモのケンカ～",
+      "summary_original": "スポーツ ～モーターボートレース 春の６大学リーグ シャモのケンカ～ NHK",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hQVBDV1ZraHFlOV9hMS1kREVmUWR5eWxNOHVocThQcHFQUGVrZkp2LThiRzIwQUttWHNGUl9HTGQ1UjBBMEU0QzVnbXRkZlNEZ040UWFVV2dIOXVodkFUdmczeDVRWDBvUk5rXw?oc=5",
+      "published": "2026-11-07T21:51:16+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "NHK",
+      "title_original": "「新プロジェクトＸ ～挑戦者たち～」トークイベントｉｎ福岡",
+      "summary_original": "「新プロジェクトＸ ～挑戦者たち～」トークイベントｉｎ福岡 NHK",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HeU94d2pVU1RyNHV0N2JLLVhKS2Z0aHVfMVZ3b05WRW1GQ2tDYWZSZmFpa2FmdVJVdmtqVmNYTG4yamtMSDNqa1VnbUw2bTJkb3lwUGNtZmJCT2xXLXRtdWg5SDlMZw?oc=5",
+      "published": "2026-11-07T21:46:01+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "NHK",
+      "title_original": "鹿児島県徳之島町のことば 送りのあいさつ",
+      "summary_original": "鹿児島県徳之島町のことば 送りのあいさつ NHK",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hUGg4SXhVMlRCeDcwanA1ei12UHRaYXY4emVPYTRFc2dLak12UHRla2Y2WGFyZXJaN1otSldieVhJZGVRal9nVGlNWUU1RHo3cXJUYzZCanVZbk95YXZaLXN2T3FKVkNzd1JEag?oc=5",
+      "published": "2026-11-07T21:16:27+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "NHK",
+      "title_original": "北九州放送局からのお知らせ",
+      "summary_original": "北九州放送局からのお知らせ NHK",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnWUZGU1cwaTdPeXBGZEstWldqMU5RU1AtS1FZbXFqb1dILVRUTExWbjZwNjhhQ2V0a3laQk5KOEpVc3MzTFVvZEpGN3J6N0lQUWU4VHJMTlJDQW9sZHRtYmo3MlNlQXBDZFE?oc=5",
+      "published": "2026-11-07T20:02:27+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "NHK",
+      "title_original": "まるっと！×常滑市ウイーク！11月9日(月)～13日(金)",
+      "summary_original": "まるっと！×常滑市ウイーク！11月9日(月)～13日(金) NHK",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rOV80SU5LLU9zbEgta0RJYlFBWE9yY3o2bVFkcTRYVlFVcFRwbWNIb3RvR2thdHdrRDlhbXdzVklqVldGYlNoek91emRzdmh2MUtJUjl4T0IzZ3JCRVYyODVvWWI?oc=5",
+      "published": "2026-11-07T18:39:04+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "NHK",
+      "title_original": "スガシカオが選んだフェイバリットな５枚とは？",
+      "summary_original": "スガシカオが選んだフェイバリットな５枚とは？ NHK",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9IcWkwYU5hVEN6dUc2NHZJRTdEYkhFd0RROU96WTlWaGJ1STBrZFg5ZEs1WE94UmdaYzdpN0UxX25YNXNqSjJ6U1lVN1pJS05kVHJjdjlNejRCMGQyMXppTkZxcmxRV0U1bFR6SWNyUHVWdVlZQUEwNDBWNEpjUQ?oc=5",
+      "published": "2026-11-07T18:12:07+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "NHK",
+      "title_original": "【視覚障害ナビ・ラジオ】コージー＆みーぱんと、スマホ機能を一緒に学ぼう",
+      "summary_original": "【視覚障害ナビ・ラジオ】コージー＆みーぱんと、スマホ機能を一緒に学ぼう NHK",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOanBvTjh6YUFkaWJvcnpGMno1YlpGTjVqVlBoT3AxT0RhYktBenNEOTJ1WjQ5NUV4ay1FSEt1OF9POG9hUzhyU2pjUXV2M0hpeDV2OVFBcFpHejRlZmxpTjhQZjdKN1pTOEJpWXFoX3p2ekhNZ2dYWHpwZmZCc0IzQmZn?oc=5",
+      "published": "2026-11-07T18:12:07+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "【愛知県で震度5強】地震の影響＜交通＞ ※8日午前4時30分現在（2026年11月7日掲載）｜中京テレビNEWS NNN",
+      "summary_original": "【愛知県で震度5強】地震の影響＜交通＞ ※8日午前4時30分現在（2026年11月7日掲載）｜中京テレビNEWS NNN 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRVpTdlpEd00zcEdka0FmalZ2bEZyUlZ6NW00MUdyTDVCTWh0VEtEWUhNMmV3YU5FVmg1ODRJZEUtZ1lTeE9ESUgwV01tRWRxb1RhZTJvakZJRTQzMzVtai1JNmNRSGJQaDNtZ0h0ZVdpRW1aU0Fla3F0UVA1M3Q0cmhoODBma2M?oc=5",
+      "published": "2026-11-08T04:52:01+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "【解説】愛知・知多市で震度5強 今後の地震活動の見通しは（2026年11月7日掲載）｜日テレNEWS NNN",
+      "summary_original": "【解説】愛知・知多市で震度5強 今後の地震活動の見通しは（2026年11月7日掲載）｜日テレNEWS NNN 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtekM2RmxtNDUwRHF2WmszSkR1SFc0VmZ4LUNyUHZuRjEwYW5mR0pJMU5CTC1iSmdFWDM3MUV4ajB6Z1RDUkVEM2JlVnNyZnRMQm9BSHc2OW1rbHV2ZmV3MGN0VmdBTjBlWTYxT0JQZjdWcGw3dUgxc3EzaFE?oc=5",
+      "published": "2026-11-08T04:17:01+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "【地震情報】静岡県西部を震源とする地震 静岡県内は最大震度５弱 ３人けが 浜岡原発は異常なし（8日午前1時4分ごろ発生）",
+      "summary_original": "【地震情報】静岡県西部を震源とする地震 静岡県内は最大震度５弱 ３人けが 浜岡原発は異常なし（8日午前1時4分ごろ発生） 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSEZpQlpxS0hpSVQyek9FU1k1MUpJelhpX1E1eTV5SXJrbVVwd1M0eU9RV0xaajlPMzU5QzFVUFdpRGVQV2x0VXdMZUV4aExYWndpc185MDBVSmIxdXhSR05vVHRaYzRnY0NablFpTjFGRTdHbFBrcmRIb0ZwVWlERURzU3p1aEU?oc=5",
+      "published": "2026-11-08T03:57:01+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "愛知で震度5強 地震の揺れで転倒などけが人も（2026年11月7日掲載）｜日テレNEWS NNN",
+      "summary_original": "愛知で震度5強 地震の揺れで転倒などけが人も（2026年11月7日掲載）｜日テレNEWS NNN 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KTDBld1dMdDA4bzZ4RDBNdUMycHh5dXRCQVJPNXNraHZLUzBDQTIxVUVuOTZpTUZCOXVDLWsyTFFJS0xRUW5NSXgxRmJyc25sTFRQaEZxM21WQWhVdjNMSFlGS1lwdDlJV3NyMjZFMXVheko5VHNTR0Fad3c?oc=5",
+      "published": "2026-11-08T03:46:01+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "高市首相、Xを更新 揺れの強かった地域の住民に向け、引き続き同程度の地震発生に注意呼びかけ",
+      "summary_original": "高市首相、Xを更新 揺れの強かった地域の住民に向け、引き続き同程度の地震発生に注意呼びかけ 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OQ3NxR3ZZdzFxRDhINzVjQjBmcUZIOTJ1MzVlSDNic1FuSHhXVU85OG03SUJidEpJeTY5RlJINjRvdXV4TnNIeWJYREUwQS0wTFkwT0RvNGlRaGxMUk5vbXA5ZnVhY1FUdWlDZmNZNTJOMEY2a0Q0aVVFZG1pdw?oc=5",
+      "published": "2026-11-08T02:22:01+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "静岡県西部を震源とする地震 愛知県知多市で最大震度5強 マグニチュードは5.7と推定 長野県内は売木村で最大震度5弱【長野】（2026年11月7日掲載）",
+      "summary_original": "静岡県西部を震源とする地震 愛知県知多市で最大震度5強 マグニチュードは5.7と推定 長野県内は売木村で最大震度5弱【長野】（2026年11月7日掲載） 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yMENqQVl0akNFd3ZEdDZTVm9PNGlZRDNSN0x5Rm5jYzMxNzhWRmZUU1NpZEJSU09GM0N0c2FHUy1qTGJURXdYLTd0c3ptZjNSQzdLc1VESkFsa09DbW1uZ2g4cUdEZVFtWDNqM3BieDV6aWs0aVRZZzNHTW1PYUk?oc=5",
+      "published": "2026-11-08T02:07:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "知多市で震度５強 震源地は静岡県西部 津波の心配なし（2026年11月7日掲載）｜中京テレビNEWS NNN",
+      "summary_original": "知多市で震度５強 震源地は静岡県西部 津波の心配なし（2026年11月7日掲載）｜中京テレビNEWS NNN 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMW96ZnM4cGgtWENvOGZUS1BBN2dqVnpRbUZqcTN3RmdCVHJVSk1LcFBhWUFWV3JwQmtrZm5FbGM2SFlUMjgzaGdsQ3JRczVNUjVCZUlPUHJaUGJIUnVwc1lYejRWcjFTUXl0WUR6bEpjaGxhN0RBdUZjeUZxdHNzM3RSTjBfbU0?oc=5",
+      "published": "2026-11-08T01:54:01+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "20代女性を監禁の疑いで広島市在住の男逮捕 福井県内の山林に女性遺体…殺人の疑いも視野に捜査",
+      "summary_original": "20代女性を監禁の疑いで広島市在住の男逮捕 福井県内の山林に女性遺体…殺人の疑いも視野に捜査 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82OTJMZU4zZ01CbDdhUXFqaUhmcExrUl9RbkRNVzRSb25LSkwtMGNkZ1ZuWXBGRVRzdlV0aEZkclFWaTRXUTVKcFpxZGRSYUxVSjl3U19Nazl4Mk9XYzVvQ25DZGlsYkl0MER5YnVTVmJNWHozNnNtUGFleFU?oc=5",
+      "published": "2026-11-08T01:40:01+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "11/8(日)宮崎県内の交通取り締まり情報",
+      "summary_original": "11/8(日)宮崎県内の交通取り締まり情報 TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84Z0lOa1ZaTmdLT1ZpbGhoM24yVmxHRll1dERzRVhkcGV6YmxsRkhNVGtNVHVXYnlsWFQ5ZEw0RXdvbk01eUxIWWJ6WTdXUWIyQUtwS0xfUVRVRjFFcGtqNUFyZGI?oc=5",
+      "published": "2026-11-08T06:00:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "高市内閣発足から1年で“過去最高”支持率64.9％…背景に「ほかよりマシ」？ 消費税減税と給付金は「効果なし4割」の試練【11月JNN世論調査解説】",
+      "summary_original": "高市内閣発足から1年で“過去最高”支持率64.9％…背景に「ほかよりマシ」？ 消費税減税と給付金は「効果なし4割」の試練【11月JNN世論調査解説】 TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0TlhzNmJfTDB2b3Ewci1KTVBibTQ0eDJGdmVZRXFaaEZlTlRYUzE1UGxEY0NQdnlBZ2RvaEpMTnk0a2kyNFlwZU9DakpsRlhJNVdiZlU2SHpJaHFTRzNBaFJ4Vm0?oc=5",
+      "published": "2026-11-08T06:00:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "【地震情報まとめ・随時更新】愛知県で最大震度5強の強い地震 けが人も 被害･交通情報の詳細",
+      "summary_original": "【地震情報まとめ・随時更新】愛知県で最大震度5強の強い地震 けが人も 被害･交通情報の詳細 TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1cFdIX19aWWNLVnZuNG9DT0VhU090NU5ZYkVuMkhFdFREM0REQ0FkRk9pdVRIZlNiZlRBSmxpT2tXcVdqMFk0SjBuMTJUMWNVeC04RmFmMA?oc=5",
+      "published": "2026-11-08T05:12:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "アメリカ中央軍 イラン陸路の監視を強化 新たなタスクフォースを立ち上げ",
+      "summary_original": "アメリカ中央軍 イラン陸路の監視を強化 新たなタスクフォースを立ち上げ TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GQVlRM3JLRHhEYlJ3cC03V3dtN1ZZOFJhSEpubE9tbDByZkR4d05GTXo4aFFyeUc0LUFaOFRDTUk5a1JEUnA3NkRDTVlkeExEdEVJWUNvcw?oc=5",
+      "published": "2026-11-08T04:26:21+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "乗用車同士が衝突 双方の車に乗っていた男性合わせて3人が重軽傷 長野・松本市",
+      "summary_original": "乗用車同士が衝突 双方の車に乗っていた男性合わせて3人が重軽傷 長野・松本市 TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mRElVV2tVUXNpNUdBbXcyZ0FHQXM3YmN4eFlMLXExM2lobzdKMHNLSG0zWmdpU1FhN3RJbEJucE5hSmlnZFhBcmJfeGNsYVUxdlB5R1U1X1p1QQ?oc=5",
+      "published": "2026-11-08T04:15:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "【台風情報】台風32号（チャンパカ）中心気圧は996hPa 最大瞬間風速35m/s 小笠原近海を西北西に進む 9日には「強い」勢力で「日本の南」へ 13日には温帯低気圧になる見通し（8日午前3時50分・気象庁発表）※13日までの雨風シミュレーション | SBC NEWS | 長野のニュース",
+      "summary_original": "【台風情報】台風32号（チャンパカ）中心気圧は996hPa 最大瞬間風速35m/s 小笠原近海を西北西に進む 9日には「強い」勢力で「日本の南」へ 13日には温帯低気圧になる見通し（8日午前3時50分・気象庁発表）※13日までの雨風シミュレーション | SBC NEWS | 長野のニュース TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnOFlpWFV5NW5CV2Eyb2JjNjE0ZTFZTHVFeHFOTl9zODFpTmRUeHphRzA2THN5X1hrNVEzcUxPWWNuYUIxVkVOb09mSkNfNlRoZzc2ZGY1Y1Fhdw?oc=5",
+      "published": "2026-11-08T03:35:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "ポーランド南部クラクフで無差別銃撃事件 6人死亡、10人超負傷 容疑者はポーランド人で警察官に撃たれ搬送",
+      "summary_original": "ポーランド南部クラクフで無差別銃撃事件 6人死亡、10人超負傷 容疑者はポーランド人で警察官に撃たれ搬送 TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95TWlmNDJ4Y2xvZ0lEOEhmbXJfMThISW55ZU56Xy15Yk5jbThUQ3FjZ1hYcXV3NlBTdWNsTS1WbDhQYVg5RVR2T25CZDgySlNXRU1XRjllYw?oc=5",
+      "published": "2026-11-08T03:30:44+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "バイナンスのCFO退任へ、後任にジャスティン・イェク氏",
+      "summary_original": "バイナンスのCFO退任へ、後任にジャスティン・イェク氏 TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuOFRhMkh1RmtxUW95N3c5eGFjZzRWSWNoeTU5R2d6cG1Ec0pvT0F5WFdBRUU3bGFibmZvYlBpTERFWUZtbGtHSlhiSHRZZXhjUjNESXVCamN0TEtLdG1OVE1ieVZYUEcwLWJRaFpwSTVOQlY2?oc=5",
+      "published": "2026-11-08T03:30:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "「軍服姿で自動小銃」無差別発砲で6人死亡 ポーランド第二の都市クラクフ中心部の広場",
+      "summary_original": "「軍服姿で自動小銃」無差別発砲で6人死亡 ポーランド第二の都市クラクフ中心部の広場 テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE55YnhCdV9ULV9SY2dJNUFRTVBDTmNVN0RTd0hmUWVFS2lYeDZTLTV0WU54TlYtcENjNVEtTmRJRVRfR3d1bl9jY25ndW0wejMxUHFoT2pJeTNzTmRQa3R4VXpMUkZnVWtTQVQ1VkhxVUNoVzAwbVJXUHRB?oc=5",
+      "published": "2026-11-08T04:10:24+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "【静岡県内の情報】寝台特急「サンライズ出雲」も影響 新幹線、在来線は確認中",
+      "summary_original": "【静岡県内の情報】寝台特急「サンライズ出雲」も影響 新幹線、在来線は確認中 テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fb2dVazFkS1VkQUczRDgyaG14cjJNOXVHcjUzMVg5QUhhV1o5WlVGRml5LTUtZURwak1Zeml6Yk9FU0QxbUhmYTdFa0Y4WlVQWmQxc1JYYnlkQlB0RXBzWjVtZXIyM0hGaC12SHpWMlVwQQ?oc=5",
+      "published": "2026-11-08T03:21:25+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "【愛知で震度5強】静岡県内の被害情報 ベッドから転落などで負傷か",
+      "summary_original": "【愛知で震度5強】静岡県内の被害情報 ベッドから転落などで負傷か テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13akE3SVhFSE5ha0pzNnhsZXIzRzYyUVNOZ0NoeDNmQVRTVXFuVGw5ZHRaS2lsR1AybDlVY3JsOVJqX3RSTm1GTElFeEdSLWV3R2N4VzRiVE9sckowOVFsNHBZcnFiUnhDQnJCX0JLemg2Zw?oc=5",
+      "published": "2026-11-08T02:58:26+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "【愛知で震度5強】転倒や避難する際に飛び降りけが",
+      "summary_original": "【愛知で震度5強】転倒や避難する際に飛び降りけが テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HNkNTRmVUc0V2N0FmYjRjMWR6S0RhOEViSmZ3NXp3NXFCMnNsTEU2TVNXNlhxbHpLc2lENlBsSUZoMXhWazRPcHZoRFFvUFFiX1lzVlh3WmJnUjZqMU90eklodkg1S2F5VUIzdFFWSEdUZw?oc=5",
+      "published": "2026-11-08T02:46:55+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "【愛知で震度5強】高市総理 被害状況の把握などを指示",
+      "summary_original": "【愛知で震度5強】高市総理 被害状況の把握などを指示 テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GSjlfcmV1NFR1MWxJVnVwZ3A2T2MydUxtMS0ydHRxUVRTMlFFUmQyQjBEbkd5UkhmTEpaRjR6WVQ5aEd2el8yR0lZbXYwMVF6Nlh0Qk9sOHFScEg2QWZzclY1V09mTEpJaEZhSlZfcHBPMjQ?oc=5",
+      "published": "2026-11-08T02:26:53+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "震源の静岡県では最大震度5弱を観測 浜岡原発は地震の影響なし 女性が救急搬送要請",
+      "summary_original": "震源の静岡県では最大震度5弱を観測 浜岡原発は地震の影響なし 女性が救急搬送要請 テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKaElTbmJIX0ozRlFtbWxyako1YktiMHNsck5xYVRtQkwyN2dQM0hodUZwWHFQNUV2RGdWZm1vT3p6WmVQMVlYeGRCczBoRm9uOEhyeGZ4VFFUekhZSkhqclE0TTlBckdTMmNidVlOTi1PQQ?oc=5",
+      "published": "2026-11-08T02:23:07+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "【愛知で震度5強】政府が官邸連絡室を設置 情報収集や被害確認へ",
+      "summary_original": "【愛知で震度5強】政府が官邸連絡室を設置 情報収集や被害確認へ テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yRnpSRmZtNTVaN3dYeS10Zms1cWVlcGZrLTlEOWxfaTBXUE1OWlA0NW5CamdPU2o1QlJ1QXFYTmpNaThSLUQybTRJV0x5cE9Pb1o4LVFsWDhiWTkzUFc0bFEwZ1JSMjgzak9ZOHk4ZkVwVWc?oc=5",
+      "published": "2026-11-08T01:52:08+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "【速報】愛知県西部で震度5強 津波の心配なし カメラが揺れる様子も",
+      "summary_original": "【速報】愛知県西部で震度5強 津波の心配なし カメラが揺れる様子も テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02by16UFJoTl9hNUpCNFB1bnNlZzVyNDV3UWxNYWRBVWZDNDUzcU9GLVQzMnhrakJVTTdTN3hQN19jUDNRWGd3NWw2LWI4U2tOdGdkWkRGUW1mRXZ4dlRkUlB1bkpsaU8wS25OZjZCS2RtQQ?oc=5",
+      "published": "2026-11-08T01:11:46+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "バイク2台が出合い頭に衝突の瞬間 夜の信号がない交差点 車体大破も体への直撃免れたか 運転手2人無傷 トルコ",
+      "summary_original": "バイク2台が出合い頭に衝突の瞬間 夜の信号がない交差点 車体大破も体への直撃免れたか 運転手2人無傷 トルコ FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nYzZ3Q3pfTTVmRWJCenZCUUJNN2Z4c3dlYVZWekhrX3FUMzlxNm9mbTYxTWZ1Z0xlcFZ6REJJSTBjT01sNmtJeFVRbkxoUQ?oc=5",
+      "published": "2026-11-08T06:00:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "最大震度5強の地震の影響 東海道新幹線 8日始発から遅れの見込み【午前5時時点】",
+      "summary_original": "最大震度5強の地震の影響 東海道新幹線 8日始発から遅れの見込み【午前5時時点】 FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBibXo0QmRBelRqUDJpVi1IMzBDNmxuU09aUlo5Q2U2Qm1SOGZSMmoyRk5CTmxmMUZKNTR5SlUwWVV0QXVyTGtMY2JSMDh5Zw?oc=5",
+      "published": "2026-11-08T05:17:36+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "【富山県】11/8の天気予報",
+      "summary_original": "【富山県】11/8の天気予報 FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUUGs1YmVHZFA0ZHByeTdkWmFxckJoeF9BMVpJMjNXRm4yT05MSmYzcmcyQXFZOUJWX3hiRTNVMmxJX1NsMktaUGNmZndRZw?oc=5",
+      "published": "2026-11-08T05:10:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "【三重県】11/8の天気予報",
+      "summary_original": "【三重県】11/8の天気予報 FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Sc1pDMEd0ZnkwSkVrdUJadmpvTmVJZUVvSGhOS2hMTXVOdW43bzlFRWszUzQtRXk5el83Y1RXaDdIN096Q1hGYl9HV2E3Zw?oc=5",
+      "published": "2026-11-08T05:10:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "【愛知県】11/8の天気予報",
+      "summary_original": "【愛知県】11/8の天気予報 FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14NmNiWFVsUHZxd0xxSFdXUnlsa09EVDRkN1hTWlNNajJFSjlkQi1PdFJ2d3dhbjNoTl92YmtVQzRuUk1Ob0lvbXJKS21tZw?oc=5",
+      "published": "2026-11-08T05:10:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "【静岡県】11/8の天気予報",
+      "summary_original": "【静岡県】11/8の天気予報 FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WU3pNaGcyb2IzblVDUUhhWFJpMUNNNEU0dWR5aktlR2h5aW5QTEttU05MajltM3RmOEc4WmYxcVd1S2dSNU1TUS1PUlFYZw?oc=5",
+      "published": "2026-11-08T05:10:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "【長崎県】11/8の天気予報",
+      "summary_original": "【長崎県】11/8の天気予報 FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZUXF3VUQxX1FNTzM5T3J2YWFYdUpDeWtGQWhpSnltazJfNDRMSWVXSDJLWXdCWHJlTDA4WmJIV2kyMWlNSFY1aXdzTWhoQQ?oc=5",
+      "published": "2026-11-08T05:10:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "【茨城県】11/8の天気予報",
+      "summary_original": "【茨城県】11/8の天気予報 FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CTEx6aFlZVWdEbFEzaUQycFJrRFVHVTVodXBVdF9BQW1CaFA3dzZabDV6RkJPSlBidkthZ3pOZUdBRzBManV4emxVb2Jzdw?oc=5",
+      "published": "2026-11-08T05:10:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "日本製鉄 純利益1500億円上振れ USスチールの収益改善",
+      "summary_original": "日本製鉄 純利益1500億円上振れ USスチールの収益改善 テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hd1hhSUJsQkJnb2k4VkwyUUJxVHQ5V2dRUkROTnNGRnFVcmdOZF9CSWVxeTZZRjB6Qm5iNE96YkF6MjV5VU02OVRSazBqRDNrc3hQck5aeDRfZUo2YlE?oc=5",
+      "published": "2026-11-08T04:16:23+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "アップルが社債発行 1.1兆円規模か 株主還元強化へ",
+      "summary_original": "アップルが社債発行 1.1兆円規模か 株主還元強化へ テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TMElmcnNUbEJici1mMXVrRHo3Y3RsVHh1am1XdEZ4OE5vTDlUWTl5UGYtRFNPMzVlbDBjNVVvekxjdVZhZU9Sd284TXZpSnNpbVZIT2hOWUFuV0VzYUNpRDl5VQ?oc=5",
+      "published": "2026-11-08T01:18:38+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "【NY市場リポート】米半導体マーベル 大幅安の要因",
+      "summary_original": "【NY市場リポート】米半導体マーベル 大幅安の要因 テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Tdndqd1dsRVNXZl91bUU0dy1qZnZtM3Ezc0xic0VGS0tGcHdMMGlrUExOLWtyWlVhWkN6a3FyanRoVWxMaTVEVHFIa1g5WGlJQmJqc2REMjAyenVQNXo5eQ?oc=5",
+      "published": "2026-11-08T00:38:28+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "米中間選挙後の政治日程を読む▼アメリカで 盛り上がる予測市場 日本参入なるか?｜Newsモーニングサテライト（モーサテ）",
+      "summary_original": "米中間選挙後の政治日程を読む▼アメリカで 盛り上がる予測市場 日本参入なるか?｜Newsモーニングサテライト（モーサテ） テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MaU1LQTlsUE5WVHNOSlk3LXNteHpwMEh3LU52WDlBYUUyQUY1TDYxVzl4dzlaT1hpQkl6VU13SHp3WU4yOVFmbFpuU05sOHdTLUNoZkhxR3hBalJn?oc=5",
+      "published": "2026-11-08T00:33:37+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "米失業保険申請 57年ぶり低水準 人員削減数も減少",
+      "summary_original": "米失業保険申請 57年ぶり低水準 人員削減数も減少 テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5acFc0UHFyTklfeG1JSDRPUzR3TUN4SGpQdGlHVlBReXZTY0Z2MmVTbG5iVDJHcUJnYzRBNlJRLTZBNERtaEhJaDh2WEQyZVYwRVM2ODZ1anJidXFlNWQ1dlJacw?oc=5",
+      "published": "2026-11-07T23:46:33+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "日経平均株価 一時4000円超下落",
+      "summary_original": "日経平均株価 一時4000円超下落 テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kVGpDM1VYVEowQ01vdzdZUXZXMU9KcnVheFF3QmFoVzY0SVVRXzFfM3VwZndlcnNVRWRYbllWbWFYNGdKcWZJektyWllMbXhzaVBTXw?oc=5",
+      "published": "2026-11-07T22:47:22+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "トランプ氏とバンス氏に亀裂 米中間選挙の共和党大敗で イランでは「歓喜」の裏に警戒感も…｜SPECIALコンテンツ",
+      "summary_original": "トランプ氏とバンス氏に亀裂 米中間選挙の共和党大敗で イランでは「歓喜」の裏に警戒感も…｜SPECIALコンテンツ テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zUzVpYzMxbi0wV3l1Q0ZwbHNZZ2Y0enhfN214Mm5oUWFaQVYzODJrVVBodUNmQTM2Q3EtaEZ1Y0RmQXF3SVNpTGt4WTlvNVZRd0dyTk5XMTU1REVhaWlVSW0zaVU?oc=5",
+      "published": "2026-11-07T21:00:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "モーサテプレミアム",
+      "summary_original": "モーサテプレミアム テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xRVJFcVg2Wks3TUU5TV9VTkI0cHBfT0w1OElCamdQN0JqbzhtLW5wWXh6bF9ER0JyODZEQUJMYlQ1dllib3otUDRrSnpCbXpX?oc=5",
+      "published": "2026-11-07T20:38:01+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "トランプ敗北後も「米の外交・安保戻らず」 変わる脅威、自衛磨く欧州",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQOGR02AJR0S6A101C2000000/",
+      "published": "2026-11-08T02:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "クレディセゾン、アジア開発銀行と提携 新興国で中小企業融資800億円",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQOUB029EQ0S6A900C2000000/",
+      "published": "2026-11-08T02:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "食後の血糖変動、AIはどこまで予測できるか 記者が2週間体験",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQOUA0275G0S6A101C2000000/",
+      "published": "2026-11-08T02:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "新小結美ノ海、稽古相手に恵まれて地力つく（玉ノ井親方の勝負勘）",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQODH043RS0U6A101C2000000/",
+      "published": "2026-11-08T02:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "トランプ政権の月面着陸、熱量だけでは越えられぬ壁 日中と温度差",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQOCD023L40S6A101C2000000/",
+      "published": "2026-11-08T02:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "製造業の27年3月期、半数が純利益上振れ 値上げや円安が追い風",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQOUB042Q00U6A101C2000000/",
+      "published": "2026-11-08T02:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "COP31が9〜20日に開催 温暖化ガス排出抑制、新たな協調探る",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQOUA302J90Q6A031C2000000/",
+      "published": "2026-11-08T02:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "サンゴの白化が秋にも発生、海水温上昇の長期化で 琉球大学調査",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQOSG021VE0S6A101C2000000/",
+      "published": "2026-11-08T02:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "国宝天守を望む人気の城下町、悩みは「空き家」 始まった新たな対策",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVC24DWDVC2OIPE003M.html?ref=rss",
+      "published": "2026-11-08T06:01:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "歯科技工士のなり手不足問題、労働環境改善へ業界関係者らフォーラム",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVC73FW2VC7UTIL005M.html?ref=rss",
+      "published": "2026-11-08T06:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "隣の空き家、解体してくれたら…市独自の「あっせん」制度、効果は",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVC245KGVC2OIPE001M.html?ref=rss",
+      "published": "2026-11-08T06:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "【そもそも解説】空き家管理の頻度、経費は 全国900万戸超の実態",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVC344J7VC3OIPE00GM.html?ref=rss",
+      "published": "2026-11-08T06:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "ポーランド南部クラクフで無差別銃撃事件 6人死亡、十数人負傷",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVC75HBQVC7UHBI017M.html?ref=rss",
+      "published": "2026-11-08T04:57:21+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "愛知県知多市で震度5強、震源は静岡県西部 愛知で5強は29年ぶり",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVC75F9SVC7UEFT009M.html?ref=rss",
+      "published": "2026-11-08T01:24:28+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "神戸淡路鳴門道で高速バス火災 乗客21人にけがなし 明石大橋付近",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVC74CYCVC7PXLB004M.html?ref=rss",
+      "published": "2026-11-07T22:17:46+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "NZ総選挙、大接戦も与党わずかにリード 政権交代なら日本に影響も",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVC73FDJVC7UHBI01LM.html?ref=rss",
+      "published": "2026-11-07T22:14:49+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "日越 農産品流通拡大へ あす首脳合意…国産ブドウ輸出解禁",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/politics/20261108-GYT1T00034/",
+      "published": "2026-11-08T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "［安保新時代］中国を「最大の挑戦」維持 安保戦略検討…抑止と対話 踏襲",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/politics/20261108-GYT1T00033/",
+      "published": "2026-11-08T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "［憲法公布８０年］＜５＞熟議経て円満な採決望む…前衆院法制局長 橘幸信氏",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/politics/20261108-GYT1T00029/",
+      "published": "2026-11-08T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "米民主 ＡＩ規制法案 来年議会提出方針 トランプ氏拒否権 壁に…ロイター報道",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/world/20261108-GYT1T00025/",
+      "published": "2026-11-08T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "日米外相会談を調整 中間選後初…パリ Ｇ７会合で",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/politics/20261108-GYT1T00024/",
+      "published": "2026-11-08T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "岐阜のシカ化石 最古級…１８００万年前「欧州起源」に一石",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/science/20261108-GYT1T00019/",
+      "published": "2026-11-08T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "「ショウリンジじゃ」交番で絶叫 中高生「警官挑発」横行…ＳＮＳ模倣か 逮捕者も",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/national/20261108-GYT1T00017/",
+      "published": "2026-11-08T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "ＮＺ与党 第１党維持へ 総選挙…政権枠組みは不透明",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/world/20261108-GYT1T00015/",
+      "published": "2026-11-08T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "AI新世紀:中国で急拡大した「AI故人」 対照的な日本で起きた変化とは",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261105/k00/00m/040/042000c",
+      "published": "2026-11-08T06:00:14+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "半島の現場から:「惨禍伝える力に」 ソウル近郊の「本土決戦」痕跡が果たす役割",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261106/k00/00m/030/049000c",
+      "published": "2026-11-08T05:00:17+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "社会人野球日本選手権、8強出そろう 東芝やHondaなど2回戦勝利",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261107/k00/00m/050/242000c",
+      "published": "2026-11-08T02:16:43+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "愛知県知多市で震度5強 震源は静岡県西部 M5・7",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261108/k00/00m/040/002000c",
+      "published": "2026-11-08T01:50:02+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "淡路島で高速バスから出火 運転手と乗客計22人は避難、けがなし",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261107/k00/00m/040/250000c",
+      "published": "2026-11-07T23:06:43+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "NZ総選挙、与党が暫定集計はやや優勢 新興政党も議席獲得へ",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261107/k00/00m/030/247000c",
+      "published": "2026-11-07T23:02:34+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "「極力意識しないように」 DeNAドラフト7位のHonda坂口渉",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261107/k00/00m/050/251000c",
+      "published": "2026-11-07T23:01:40+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "Honda・磯貝、ドラフト漏れの悔しさぶつける好救援 日本選手権",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261107/k00/00m/050/249000c",
+      "published": "2026-11-07T22:55:19+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "＜主張＞FIFA会長選 威風堂々正論をぶつけよ",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261108-PMCECTAG3BK2DFIKJ2RG5KZSCE/",
+      "published": "2026-11-08T05:01:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "＜主張＞FIFA会長選 威風堂々正論をぶつけよ",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261108-PMCECTAG3BK2DFIKJ2RG5KZSCE/",
+      "published": "2026-11-08T05:01:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "＜朝晴れエッセー＞新しい家族",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261108-E2ONTFPQLZMXPJ2SLRL57Q2XHY/",
+      "published": "2026-11-08T05:00:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "＜産経抄＞ 本を「買う、借りる」 作者や言葉との出会いを",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261108-MQYOTPH7ONM5BITOA5Z66CY3WM/",
+      "published": "2026-11-08T05:00:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "＜朝晴れエッセー＞新しい家族",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261108-E2ONTFPQLZMXPJ2SLRL57Q2XHY/",
+      "published": "2026-11-08T05:00:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "＜主張＞COP31開幕へ 災害減の適応策に重点を",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261108-NNYN56SOWVNCNFWE2W3ECHLLLQ/",
+      "published": "2026-11-08T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "愛知西部の震度5強、豊田市内で「2人が転倒しけが」と通報",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261108-DA2F3XULBBJYVMWBX3PUENYE5E/",
+      "published": "2026-11-08T01:45:52+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "愛知西部で震度5強を観測 M5.7、津波の心配なし 政府が官邸連絡室設置",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261108-CHBRQG4GRRKUXPTPLLY54ZIM5A/",
+      "published": "2026-11-08T01:17:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "Japan eyes early contribution payment to ICC as court faces U.S. sanctions",
+      "summary_original": "If the sanctions are fully implemented as early as April next year, the ICC could be cut off from dollar-based settlements.",
+      "url": "https://www.japantimes.co.jp/news/2026/11/07/japan/politics/japan-contribution-icc-us-sanctions/",
+      "published": "2026-11-07T13:27:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "Japan eyes education programs for U.S. troops in Okinawa after recent robbery-murder",
+      "summary_original": "Among the recurrence prevention measures, which were agreed upon by both sides, are lectures on Okinawa's culture and history.",
+      "url": "https://www.japantimes.co.jp/news/2026/11/07/japan/crime-legal/us-japan-okinawa-crime/",
+      "published": "2026-11-07T12:24:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "Japan picks 28 priority items for ¥370 trillion in investments",
+      "summary_original": "The priority items, which were picked from 62 products and technologies, include semiconductors and artificial intelligence.",
+      "url": "https://www.japantimes.co.jp/business/2026/11/07/economy/japan-priority-items-investments/",
+      "published": "2026-11-07T12:24:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "BOJ’s Ueda says unclear how long 2% inflation rate will remain",
+      "summary_original": "Gov. Kazuo Ueda indicated an awareness that the goal had been reached hasn't yet become embedded among the broader Japanese public.",
+      "url": "https://www.japantimes.co.jp/business/2026/11/07/economy/boj-ueda-2-inflation-rate/",
+      "published": "2026-11-07T12:23:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "China’s top spy agency recruited woman who targeted Nvidia’s Jensen Huang",
+      "summary_original": "Alice Huang, a Chinese executive who developed a relationship with Nvidia's leader, is believed to be an asset of the Ministry of State Security.",
+      "url": "https://www.japantimes.co.jp/news/2026/11/07/asia-pacific/china-nvidia-jensen-huang-spy/",
+      "published": "2026-11-07T11:42:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "U.S. urges China to meet rare earths and agriculture commitments ahead of Trump-Xi meetings",
+      "summary_original": "Presidents Donald Trump and Xi ​Jinping are expected to meet at two different summits, one in China and one in the U.S.",
+      "url": "https://www.japantimes.co.jp/business/2026/11/07/economy/us-china-rare-earths-agriculture/",
+      "published": "2026-11-07T11:16:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "Japan and China shifting toward selective economic dependence",
+      "summary_original": "One year into an ongoing political row, the neighbors are continuing to look for new opportunities while cutting risks.",
+      "url": "https://www.japantimes.co.jp/business/2026/11/07/economy/china-japan-selective-economic-dependence/",
+      "published": "2026-11-07T10:24:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "Crisis-hit Paraguay impeaches president and replaces him with VP",
+      "summary_original": "Pedro Alliana became president of Paraguay on Friday following the impeachment of his predecessor over a massive banking crisis.",
+      "url": "https://www.japantimes.co.jp/news/2026/11/07/world/politics/paraguay-president-santiago-pena-impeached/",
+      "published": "2026-11-07T10:23:00+09:00",
+      "via": "rss",
+      "state_media": false
+    }
+  ],
+  "unavailable_sources": [
+    "Nikkei Asia"
+  ],
+  "errors": {}
+}

@@ -1,0 +1,661 @@
+{
+  "team": "ru",
+  "team_name_ko": "러시아팀",
+  "collected_at": "2026-11-08T06:13:02.042045+09:00",
+  "headlines": [
+    {
+      "source": "Channel One (1tv)",
+      "title_original": "«Это они», Москва. Домашнее задание. Первый полуфинал. Высшая лига. КВН. Фрагмент выпуска от 07.11.2026",
+      "summary_original": "«Это они», Москва. Домашнее задание. Первый полуфинал. Высшая лига. КВН. Фрагмент выпуска от 07.11.2026 Первый канал",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeWVPLU1LZmZTVExuMHpLMGRwVDRENTc4djY5VXZtUVZYWGVPdElWZWJhUzFBNThVbVNYRG1wTUFybndaZXF1TU5laG5nQzlRdlNqWVE4RFhCYWl3SmEzUlFhbkVhZnJCZ2lxbVFzVXdWMzRYemd0alY4bmctRW9ZdmVfNGdIbHByWG0tRnNldTFXZjlZUV81ZmNaYkZOdy1jdlNxWnljZWlfUi1qcUlMa2FmNk9KMWR3ZDBmUXpJUkJNQ3QzaGgyOUlibGxjMEpMWk53VzFVSThOWlRrRkRXR19RVWR6TFRmclFVT0JyX285QQ?oc=5",
+      "published": "2026-11-08T05:55:49+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Channel One (1tv)",
+      "title_original": "«НК Казахстан», Астана. Домашнее задание. Первый полуфинал. Высшая лига. КВН. Фрагмент выпуска от 07.11.2026",
+      "summary_original": "«НК Казахстан», Астана. Домашнее задание. Первый полуфинал. Высшая лига. КВН. Фрагмент выпуска от 07.11.2026 Первый канал",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOOTR1amcyMURDdkRZZTlxNG1mblJ0bUxtYXNueGhlLXZZZXN2QXdsMWw0cVlEY3dCcW1BNVU4T05teFBRRmMwT0VXeDJQZVE5a0RqZS1Ka2NpbUdFSW1hNm5yWDVaRE5qWGdBM1JvODl0VHhLdG5JX2luM09VX19lOXdFdFkwVmhtX1JNZHBXOU9LRkRXVjdzZ0drWFNWQ3Q5bEY4OGVZaEUtdXVieTZWcmNCZkVJa1N6c3o5bWxMZk5fQ2Y0b012ekhoQ3kzUGlDZFpjZ0h5WnFXTEh0MnloNXd2OXlBUUE2YUIwbFRhUWVYbWJvLUpSUQ?oc=5",
+      "published": "2026-11-08T05:51:29+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Channel One (1tv)",
+      "title_original": "«СПИКЛ», Мытищи. Десять шуток про… Первый полуфинал. Высшая лига. КВН. Фрагмент выпуска от 07.11.2026",
+      "summary_original": "«СПИКЛ», Мытищи. Десять шуток про… Первый полуфинал. Высшая лига. КВН. Фрагмент выпуска от 07.11.2026 Первый канал",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNczMwWTl5d0NjZk1CRmxsbjNzb2EwcE8ydHU2Q2VxSnRFX3RZeFFPMDJNUzVWVlNGTlRrcUN5UVpwd0twRFB6dU1RWV9UZnFHOUVDZ1BXV25GekhvX0Q4X2pZdE9fYzRnWTRkWVF4SEFJT1JHMkNJeWVWOFdTb1hlYWVpa19lNDJkNUF0elNVclFyWkI0S0c3U1FtMHNZN2k5bzU0RzBjNUVVUVkxU0pHQnV6QV9HbVFxaWl0Y1FLdDhPNW80MVloMXFxVDNiN3o0aHN5b1Vyc3dXUEIwZkZKRFVxUHBFbHdZdnVwQ1ZKdlk?oc=5",
+      "published": "2026-11-08T05:29:21+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Channel One (1tv)",
+      "title_original": "«НК Казахстан», Астана. Десять шуток про… Первый полуфинал. Высшая лига. КВН. Фрагмент выпуска от 07.11.2026",
+      "summary_original": "«НК Казахстан», Астана. Десять шуток про… Первый полуфинал. Высшая лига. КВН. Фрагмент выпуска от 07.11.2026 Первый канал",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNOHZITWZRNFVtSU45bnJhRnhOWUlfRll4akxpLUlvZHh3SUxtZ292d3hwQTJVUW12QTdJbkt3bTFkQ3RnM2xDeUNSLXl5X0wycndKOURxSUViSG5BWTFSaGQzTC1PVWNhZ3pGb0FhdmZSQ21tOUdiMkNCQXNoSlItZDZRYnRJbEVkSzRXNE1YQ0dNcm55b2FhYkJma1BzeVR6WUhVczV4ZGlxUWw5Q2phRmJVaHBXZVFPaUVDV0xZd0g4S2RXazVIVW9NZUJ5aU9Xc290MlhfNVgtT212TGFXM3JTbG04UWFmMWJHZWtDdU9SVi00enJNTA?oc=5",
+      "published": "2026-11-08T05:29:20+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Channel One (1tv)",
+      "title_original": "«Это они», Москва. Музыкальный номер. Первый полуфинал. Высшая лига. КВН. Фрагмент выпуска от 07.11.2026",
+      "summary_original": "«Это они», Москва. Музыкальный номер. Первый полуфинал. Высшая лига. КВН. Фрагмент выпуска от 07.11.2026 Первый канал",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNW1PQlVMVlItRWt3LV81QWpQU3VBS3U4SzVnejM1X2xvU2pTN2pGcUpSTHFremwzcm1pZ2Y4ZWo3SzlGSTZJV25fZVBpOGtCaV9zYktJMWlEVXBUT19BYlZIenBmVUp6ZWpIOXMtQXdXZDhLREVsdzZVVUtiem0zbUlPekMwU25XcThPYjJuUzZKemwyOU9rcGZzbDktRHVzZ2xlWjlpeW9YRFBFbWctWG1mYW9iR19pWGNRMm1CN1pKS3UyWU5Wbm1QVmwyeXpGb0lqX29vZGJuZ1VDZ1ptTk1Vd0JOa0NWU25FZTRxTGk?oc=5",
+      "published": "2026-11-08T05:07:17+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Channel One (1tv)",
+      "title_original": "«НК Казахстан», Астана. Музыкальный номер. Первый полуфинал. Высшая лига. КВН. Фрагмент выпуска от 07.11.2026",
+      "summary_original": "«НК Казахстан», Астана. Музыкальный номер. Первый полуфинал. Высшая лига. КВН. Фрагмент выпуска от 07.11.2026 Первый канал",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaHgzWm9xUDBQUHNOTXRBMHp0WW9rd21fMVZyVjBjWW80S1hwbEVkM0RoT1VBZWlJUzRQTEd2VUhQaGZMY0liSXZEN2M0QWhyS3VnTlRIaENIcWVycGdCcTQtV19fMlVMYVRnWkxpNHFSR0tsUXp2ZGhkdXFCVTRIMnFTOU1tOFloMTBiYXVTUmNNOFQtdnB5cGJVQlJlWWo2YXVRVXhiRTZ4bEFwWDhGZWJBQ1ZhWEs2bnVBeEw1NFQ1WXlOSTVaaFZzR013WWp2NGRzaDZtNmNPZTBCcTU2RVBfalZXMDBDOExoR2k2WVNjNEpjN0NR?oc=5",
+      "published": "2026-11-08T05:07:17+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Channel One (1tv)",
+      "title_original": "«СПИКЛ», Мытищи. Музыкальный номер. Первый полуфинал. Высшая лига. КВН. Фрагмент выпуска от 07.11.2026",
+      "summary_original": "«СПИКЛ», Мытищи. Музыкальный номер. Первый полуфинал. Высшая лига. КВН. Фрагмент выпуска от 07.11.2026 Первый канал",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMEtQMm1WSXhuY3NEU003THZndjVGdV9lQlNzNEVMTHpUVVQxSUxpaTcxZWdKT2VmUnRVcGl1QVczWVQtSENoV1EzTkJLM2RGRDRpMXJnUWlkdmpQZVZyQzJpY0VpX0k0WWh4cDVKLXBtU2tNa3dnLXd1eEhlamN5Vmo4MWpqbDBvQ0htRTVjQzJqV1VsbHk2eGEyYkloOVMwRmZyRDBpTmxUemk5Unh2QUFTblA0UkNEa0JsMDdzSERkRVpaTl9SVmhuNXRBOVdTZmdBZXFzR29Vbkh3M2gyWlpTT0Y4ZkV6UDhuT0RHMA?oc=5",
+      "published": "2026-11-08T04:53:13+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Channel One (1tv)",
+      "title_original": "«НК Казахстан», Астана. Приветствие. Первый полуфинал. Высшая лига. КВН. Фрагмент выпуска от 07.11.2026",
+      "summary_original": "«НК Казахстан», Астана. Приветствие. Первый полуфинал. Высшая лига. КВН. Фрагмент выпуска от 07.11.2026 Первый канал",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcW1yM3ZhWTBXUFBIQzJ6ejZ0c3VnVHI5dnIyRTlUQUdYVW10RklIZDgyZGdQMTdaNVVTT243eDFLY2ZSUVF4SE9yajFXeGRWV19CaFlqd1RUTXl3OTJobXFQVnB3Tkh4U2VlNDFHU2tqMlEyV29EMDF5QXBwTGZxM1RxTXhfeEktNkdPeXNmRnRrZFFnWnV1dDhsbFczZDRpN1ZLenVsbm9weF9UNW9MdG9jME5fU2lsb0FNMDBqTTNrVGRLanR0X1c0Q0Y0VUtjalpYdnhmQnBscTFKa2JEc0F6UTJOWnF2QnNFcWcxRFM?oc=5",
+      "published": "2026-11-08T04:07:52+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Rossiya 24 (Vesti)",
+      "title_original": "В результате атаки БПЛА нарушено электроснабжение города Снежное в ДНР",
+      "summary_original": "В результате атаки БПЛА нарушено электроснабжение города Снежное в ДНР vesti.ru",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT1B4WGcwdk52YUc5bHQ1LV9tdERrZ0lrTERHOXdOcC1FMXdvcXQxOElLcjhOdjRmckhpX0RCeEV1U3VYY1dnQUZaZUpHOGJCeXZYRnFFUEhDU01kZk5ZSE5LUENXdVd3NWRPQUhUbU5xSHh0cXBfWDZmZnc5bzB6RHl5cm02SElYUWVCV1pyS085MmRnTFB6T1FkQnhUZw?oc=5",
+      "published": "2026-11-08T05:52:27+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Rossiya 24 (Vesti)",
+      "title_original": "На Земле зафиксировали слабую магнитную бурю",
+      "summary_original": "На Земле зафиксировали слабую магнитную бурю vesti.ru",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UHN6V241a2pvQllsei1oUF9Qamgxb09JQlVsRzhYeG5mS3l1bVk4NmdIcHBZWldnV2lEemE2WVF0RkFfYXhubW9pdTZ3eEVyeDc2d3RkdTRzYVhHdEp1QzRBdVJzVjcwMzV4eVNMZXZWaWxycGJEWXd6WQ?oc=5",
+      "published": "2026-11-08T05:50:29+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Rossiya 24 (Vesti)",
+      "title_original": "Крым засыпает снегом",
+      "summary_original": "Крым засыпает снегом vesti.ru",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlb2FlTW5fTFNmdzFWc2RGZ3AxUmlsWlJpYnNaZmhCLUtMbHFJSEtsa0hISjJITHd4aXhNU1dUOHFoZmpnenREbTBRYlN3TEdVTUJmeFJTQQ?oc=5",
+      "published": "2026-11-08T05:42:20+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Rossiya 24 (Vesti)",
+      "title_original": "Франция и НАТО: кандидат в президенты раскрыл условия для выхода из блока",
+      "summary_original": "Франция и НАТО: кандидат в президенты раскрыл условия для выхода из блока vesti.ru",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYzREc1hoemFpVjR1dGlhOTdIN3Z6UWJWeV9hT0xLU0dFS2hPQ3IxYmZQZ2I5UHdNR1I5S1NiUTNVeDd3Rzc4b3J0c20yYUFOekI4UzE2UlZEdzQtRzR0d1dvcmhZcUs1U3ZycTQ5ck5Vd3VPZ2gxTFFRWnFqNUJHNEdSeUJ5UjN4TUFmWnl2TDVHcUJURDE4dWFWNGtjTk5kd3c?oc=5",
+      "published": "2026-11-08T05:29:31+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Rossiya 24 (Vesti)",
+      "title_original": "В ДНР погибла женщина, ранена девочка в результате атак ВСУ",
+      "summary_original": "В ДНР погибла женщина, ранена девочка в результате атак ВСУ vesti.ru",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM0tORWNLeDJKZU5WWjBod1lNc2ZIX05nLTU5dkIxVWo5VGN1Sm1VTThoSTVsTzNEQTlUZ3BBbW41YWdqUnA3dkRydy1qVDFaWkhJTndES3I3Y0p5YnQ5Z3hsT1NRbEthQ05NU2E2Z19VU0x4SGx2SE5hdTVoM3N4WWF5WVQzLU52MFhQcnFlQQ?oc=5",
+      "published": "2026-11-08T05:22:30+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Rossiya 24 (Vesti)",
+      "title_original": "Глава UFC отреагировал на предложение Трампа возглавить пресс-службу Белого дома",
+      "summary_original": "Глава UFC отреагировал на предложение Трампа возглавить пресс-службу Белого дома vesti.ru",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOHJ4dS1EX09MSVdYME43UlhWQkk3b2dydWdVSnRsdlVQV0o0MWlsUG9ybVdROER1eXMtZlc3dlRzMnZheWVDWE1WamNiU3ZPQUxfbzZ6OGVFT1M3UDNENkNSMlhfYWNxUF8taGhTTjJfMVlIZW11R0R4UGJMcEo2RlBCYnhSdmg5LWN5SmpMY0s4TzA2ZDV0c29mZFZMSmVDd2ltQ1FRMnQ?oc=5",
+      "published": "2026-11-08T05:18:57+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Rossiya 24 (Vesti)",
+      "title_original": "Украинский беспилотник атаковал поселок в Белгородской области, ранена женщина",
+      "summary_original": "Украинский беспилотник атаковал поселок в Белгородской области, ранена женщина vesti.ru",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMzkzZWY0NW5XdFFzeUFOSGl1dG9vSWxfbUt0LXlLVWkwNnp5bW9QSTR3RFAya0tLckE4dGhwYXV4cU9qTjIzUzlBU0pnbFNNUmEteFRXc2Y3LW1FaEJTNWMxLXNBUzRoZzR1RkRMRldqUFo5SGNHUzNpaUdZaFJXWWtnZUNnOTdkVkUxLUg5R2JTVWRQdVFyUG9OaHBVdENEVEYtOGRsXzQ?oc=5",
+      "published": "2026-11-08T04:44:16+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Rossiya 24 (Vesti)",
+      "title_original": "На территории концерна в Ставрополе продолжают ликвидировать пожар",
+      "summary_original": "На территории концерна в Ставрополе продолжают ликвидировать пожар vesti.ru",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV2xJUXRTSktrR3p5b3lHVjRrNnRmZlRhaWlwS0x5cmU5cU1adXFUaWpKNXVBWVNVZllLVnNKTkhhclBSMHl1Mm04MGZjYmRSUXlXSi1IZU5hNldEa0k1aVJRNTZuZXdxdkI2SU4yZ1NCYVMyOVZVR1lTcTh5eEVnM3VKai0xdkM2S05jdFdaX01mUEs1TjBYQjZORW4zaWZzS2pJZ2Zsbw?oc=5",
+      "published": "2026-11-08T04:31:31+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "TASS",
+      "title_original": "Поезд Деда Мороза отправится в путешествие по РФ из Великого Устюга 8 ноября",
+      "summary_original": "Он сделает остановки в 65 городах",
+      "url": "https://tass.ru/obschestvo/28295405",
+      "published": "2026-11-08T06:05:35+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "TASS",
+      "title_original": "Михайловский театр отметит день основания гала-концертом звезд оперы",
+      "summary_original": "",
+      "url": "https://tass.ru/kultura/28295403",
+      "published": "2026-11-08T06:02:35+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "TASS",
+      "title_original": "Бронемашина ВСУ не доехала до позиции из-за работы сапера ВС РФ",
+      "summary_original": "Рядовой Олег Коняев в неблагоприятных погодных условиях дистанционно заминировал дорогу и пешие маршруты возле опорного пункта противника",
+      "url": "https://tass.ru/armiya-i-opk/28295401",
+      "published": "2026-11-08T06:02:17+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "TASS",
+      "title_original": "Тренер российских дзюдоисток знал, что они не проиграют на командном ЧЕ",
+      "summary_original": "Сборная России стала победителем турнира, одолев в финале сборную Грузии",
+      "url": "https://tass.ru/sport/28295397",
+      "published": "2026-11-08T06:01:27+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "TASS",
+      "title_original": "В Астане пройдут гастроли Театра наций",
+      "summary_original": "",
+      "url": "https://tass.ru/kultura/28295395",
+      "published": "2026-11-08T06:01:08+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "TASS",
+      "title_original": "Военная операция на Украине. Онлайн",
+      "summary_original": "",
+      "url": "https://tass.ru/armiya-i-opk/28295209",
+      "published": "2026-11-08T06:00:16+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "TASS",
+      "title_original": "Polsat: полиция обнаружила в доме устроившего стрельбу в Кракове еще три трупа",
+      "summary_original": "",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28295391",
+      "published": "2026-11-08T05:59:43+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "TASS",
+      "title_original": "В полиции заявили, что среди погибших в Кракове был гражданин Британии",
+      "summary_original": "",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28295389",
+      "published": "2026-11-08T05:57:41+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "RIA Novosti",
+      "title_original": "Поезд Деда Мороза посетит 65 российских городов",
+      "summary_original": "",
+      "url": "https://ria.ru/20261108/ded-moroz-2130038851.html",
+      "published": "2026-11-08T06:12:47+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "RIA Novosti",
+      "title_original": "СМИ пишут о ракетах над Бендер-Аббасом после сообщений о взрывах",
+      "summary_original": "",
+      "url": "https://ria.ru/20261108/iran-2130038677.html",
+      "published": "2026-11-08T06:09:44+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "RIA Novosti",
+      "title_original": "На Земле началась магнитная буря уровня G5+",
+      "summary_original": "",
+      "url": "https://ria.ru/20261108/zemlja-2130038365.html",
+      "published": "2026-11-08T06:04:11+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "RIA Novosti",
+      "title_original": "США вывели из строя судно, пытавшееся прорвать морскую блокаду Ирана",
+      "summary_original": "",
+      "url": "https://ria.ru/20261108/ssha-2130038187.html",
+      "published": "2026-11-08T06:00:47+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "RIA Novosti",
+      "title_original": "Гражданин Британии погиб при стрельбе в Кракове",
+      "summary_original": "",
+      "url": "https://ria.ru/20261107/krakov-2130037965.html",
+      "published": "2026-11-08T05:57:40+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "RIA Novosti",
+      "title_original": "В доме устроившего стрельбу в Кракове обнаружили мертвых людей",
+      "summary_original": "",
+      "url": "https://ria.ru/20261107/krakov-2130037833.html",
+      "published": "2026-11-08T05:56:36+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "RIA Novosti",
+      "title_original": "В Днепродзержинске прогремели взрывы",
+      "summary_original": "",
+      "url": "https://ria.ru/20261107/ukraina-2130037486.html",
+      "published": "2026-11-08T05:51:15+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "RIA Novosti",
+      "title_original": "В Польше силовики ищут помощников стрелявшего в Кракове",
+      "summary_original": "",
+      "url": "https://ria.ru/20261107/krakov-2130037360.html",
+      "published": "2026-11-08T05:50:44+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "Interfax",
+      "title_original": "Приостановили работу аэропорты Пензы и Саратова",
+      "summary_original": "Временно не обслуживают рейсы аэропорты Пензы и Саратова, сообщили в Росавиации вечером в субботу.\"Аэропорты Пенза, Саратов (Гагарин).",
+      "url": "https://www.interfax.ru/russia/1127619",
+      "published": "2026-11-08T05:46:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Interfax",
+      "title_original": "Овечкин продлил серию без голов в НХЛ до 10 матчей",
+      "summary_original": "\"Вашингтон\" со счетом 4:3 обыграл \"Флориду\" в матче регулярного чемпионата Национальной хоккейной лиги.",
+      "url": "https://www.sport-interfax.ru/1127618",
+      "published": "2026-11-08T05:37:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Interfax",
+      "title_original": "Мирный житель пострадал в Белгородской области в результате атаки БПЛА",
+      "summary_original": "Мирный житель получил ранения в Белгородской области в результате удара ВСУ по парковке, сообщает региональный оперштаб.\"В поселке Ивня беспилотник сдетонировал на парковке.",
+      "url": "https://www.interfax.ru/russia/1127617",
+      "published": "2026-11-08T05:13:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Interfax",
+      "title_original": "Пожар в производственном здании в Пензенской области локализован на 1,5 тыс. кв. м",
+      "summary_original": "В Пензенской области спасатели локализовали пожар в производственном здании в селе Бикмосеевка, сообщает ГУ МЧС по региону в своем канале в Мах в субботу.\"21.",
+      "url": "https://www.interfax.ru/russia/1127616",
+      "published": "2026-11-08T04:37:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Interfax",
+      "title_original": "Посольство РФ в Польше выясняет, пострадали ли россияне при стрельбе в Кракове",
+      "summary_original": "Посольство РФ в Польше уточняет, есть ли россияне среди пострадавших в результате стрельбы в центре Кракова.\"Посольство России в Польше находится в постоянном контакте с правоохранительными органами Кракова и уточняет информацию о том, имеются ли среди пострадавших граждане Российской Федерации\", - говорится в сообщении диппредставительства в соцсетях.",
+      "url": "https://www.interfax.ru/world/1127615",
+      "published": "2026-11-08T04:23:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Interfax",
+      "title_original": "Более 300 тыс. абонентов остались без света в ЛНР после атаки БПЛА",
+      "summary_original": "Энергетическая инфраструктура Луганской Народной Республики подверглась атаке БПЛА, в результате свыше 300 тыс. абонентов остались без электричества, сообщили в правительстве региона.\"В результате атаки БПЛА по энергетической инфраструктуре республики обесточено свыше 300 тысяч абонентов южной и центральной части республики\", - говорится в сообщении в канале правительства ЛНР в Max.",
+      "url": "https://www.interfax.ru/russia/1127614",
+      "published": "2026-11-08T04:06:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Interfax",
+      "title_original": "Во Франции начали расследование угроз о якобы минировании самолетов",
+      "summary_original": "Прокуратура Парижа объявила в субботу, что начинает расследование в связи с сообщениями о минировании самолетов и допускает \"возможную связь с иностранными государствами\", передает BFMTV.",
+      "url": "https://www.interfax.ru/world/1127613",
+      "published": "2026-11-08T04:02:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Interfax",
+      "title_original": "Эрдоган в разговоре с Трампом выразил надежду на прогресс в украинском урегулировании",
+      "summary_original": "Президент Турции Реджеп Тайип Эрдоган в ходе телефонного разговора с президентом США Дональдом Трампом выразил надежду на достижение прогресса в решении украинского кризиса, сообщает в субботу турецкая телерадиокомпания ТРТ.\"Он выразил надежду на то, что активизация дипломатической работы по прекращению войны России с Украиной принесет положительные результаты\", - отмечает TPT в сообщении в соцсет",
+      "url": "https://www.interfax.ru/world/1127612",
+      "published": "2026-11-08T03:53:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Kommersant",
+      "title_original": "Дни рождения",
+      "summary_original": "8 ноября исполняется 71 год президенту холдинга Crocus Group Аразу Агаларову Его поздравляет народный артист РСФСР Владимир Винокур: — Дорогой Араз Искендерович, Араз, дорогой друг, поздравляю с «совершеннолетием»! Всегда помни, что Володя Винокур старше, Лев Валерьянович Лещенко — еще старше, но мы работаем и желаем тебе того же, а еще долгих-долгих лет жизни, чтобы радовать семью, своих близких ",
+      "url": "https://www.kommersant.ru/doc/9091174",
+      "published": "2026-11-07T07:27:54+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Kommersant",
+      "title_original": "Дни рождения",
+      "summary_original": "8 ноября исполняется 75 лет художественному руководителю Московского театра музыки и драмы, лидеру рок-группы «Цветы» Стасу Намину Его поздравляет скульптор, народный художник РФ Георгий Франгулян: — Дорогой Стас, поздравляю тебя с днем рождения! Ты — многогранная и очень талантливая личность. За что бы ты ни взялся, ты стремишься к настоящему качеству и добиваешься его. Я мог бы много говорить о ",
+      "url": "https://www.kommersant.ru/doc/9081424",
+      "published": "2026-11-07T07:27:54+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Kommersant",
+      "title_original": "Льготы ждут перестройки // Выдачи семейной ипотеки в октябре сократились в четыре раза",
+      "summary_original": "В октябре банки выдали ипотечных кредитов почти вдвое меньше, чем месяцем ранее, что стало минимальным результатом с февраля 2026 года. Резкое сокращение последовало за сентябрьским всплеском спроса перед ужесточением условий семейной ипотеки, которая обеспечивала большую часть выдач. В новых условиях участники рынка ожидают роста доли рыночного кредитования. Однако ее массовость будет зависеть от",
+      "url": "https://www.kommersant.ru/doc/9091504",
+      "published": "2026-11-07T02:09:11+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Kommersant",
+      "title_original": "Лента старостей // Дмитрий Черняков поставил три оперы Рахманинова",
+      "summary_original": "Цюрихская опера показала премьеру оперного спектакля, созданного на основе трех одноактных опер Сергея Рахманинова — «Алеко», «Скупой рыцарь» и «Франческа да Римини». Постановку осуществили режиссер и сценограф Дмитрий Черняков и музыкальный руководитель театра Джанандреа Нозеда. Из Цюриха — Сергей Ходнев и Эсфирь Штейнбок.",
+      "url": "https://www.kommersant.ru/doc/9091495",
+      "published": "2026-11-07T01:35:55+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Kommersant",
+      "title_original": "Крест преткновения // РПЦ пытается отстоять право на использование эмблемы Красного Креста",
+      "summary_original": "Новые правила использования символики Российского Красного Креста (РКК) вызвали недовольство РПЦ. Согласно вступившему в силу постановлению правительства, религиозные организации должны согласовывать с РКК применение его символики. Это касается даже таких случаев, как использование красного креста на одежде сестер милосердия, заявила глава правового управления Московской патриархии игумения Ксения",
+      "url": "https://www.kommersant.ru/doc/9091508",
+      "published": "2026-11-07T01:30:34+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Kommersant",
+      "title_original": "Аптеки приехали на почту // Правительство вводит новые форматы продажи лекарств в сельской местности",
+      "summary_original": "В сельских населенных пунктах, где отсутствуют аптечные и медицинские организации, правительство разрешает продажу лекарств через почтовые отделения. Как сообщают в Минздраве, отпускать смогут более 100 наименований безрецептурных препаратов. Также власти определились с первыми регионами, которые будут участвовать в эксперименте по продаже лекарств в передвижных аптечных пунктах,— ими станут Нижег",
+      "url": "https://www.kommersant.ru/doc/9091427",
+      "published": "2026-11-06T23:51:54+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Kommersant",
+      "title_original": "На ЦИАН вышли с объявлением // «Т-Технологии» заявили о намерении купить ЦИАН",
+      "summary_original": "«Т-Технологии» объявили о готовности купить до 100% акций ЦИАН. Для продавца сделка — это прежде всего возможность получить финансово-технологического партнера, а для покупателя — приобретение ключевого игрока на рынке онлайн-сервисов по операциям с недвижимостью, что позволит сформировать экосистему с ипотекой, страхованием, эквайрингом и другими продуктами. По оценкам аналитиков, полный выкуп ак",
+      "url": "https://www.kommersant.ru/doc/9091311",
+      "published": "2026-11-06T22:36:08+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Kommersant",
+      "title_original": "Патенты принесли апартаменты // Прокуроры отбирают у чиновника полсотни объектов недвижимости",
+      "summary_original": "Как стало известно “Ъ”, у бывшего начальника филиала по Свердловской области ФГУП «Паспортно-визовый сервис» МВД Александра Луканина были обнаружены 52 объекта недвижимости, в основном апартаменты в престижных ЖК, оцениваемые в сотни миллионов рублей. Генпрокуратура подала к нему антикоррупционный иск, установив, что чиновник параллельно с госслужбой занимался бизнесом, связанным с оформлением док",
+      "url": "https://www.kommersant.ru/doc/9091334",
+      "published": "2026-11-06T22:09:05+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Meduza (독립·망명)",
+      "title_original": "Силовики провели рейд на Китай-городе. Телеграм-каналы сообщают о 100 задержанных, среди них есть несовершеннолетние",
+      "summary_original": "Вечером 7 ноября московская полиция провела масштабный рейд в районе станции метро «Китай-город». По данным телеграм-каналов, силовики задержали больше ста человек, в том числе несовершеннолетних.",
+      "url": "https://meduza.io/news/2026/11/07/siloviki-proveli-reyd-na-kitay-gorode-telegram-kanaly-soobschayut-o-sotnyah-zaderzhannyh-sredi-nih-mogut-byt-nesovershennoletnie",
+      "published": "2026-11-08T05:10:16+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Meduza (독립·망명)",
+      "title_original": "«Холод»: россияне рассказали, что их допрашивают в аэропорту Берлина. Спрашивают о войне и мобилизации",
+      "summary_original": "В аэропорту Берлина граждан России начали приглашать на «добровольные» беседы, во время которых их спрашивают о ситуации в России, мобилизации и росте цен. Об этом изданию «Холод» рассказали две россиянки, которые прилетели в Берлин через Стамбул.",
+      "url": "https://meduza.io/news/2026/11/07/holod-rossiyane-rasskazali-chto-ih-doprashivayut-v-aeroportu-berlina-sprashivayut-o-voyne-i-mobilizatsii",
+      "published": "2026-11-08T02:13:44+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Meduza (독립·망명)",
+      "title_original": "Преступник открыл стрельбу по прохожим на рыночной площади в Кракове. Погибли шесть человек. Главное",
+      "summary_original": "В Кракове произошла стрельба на главной рыночной площади в исторической части города. Преступник открыл стрельбу по прохожим из окна автомобиля днем 7 ноября. Нападавший был одет в военную форму и использовал длинноствольное оружие армейского образца.",
+      "url": "https://meduza.io/feature/2026/11/07/prestupnik-otkryl-strelbu-po-prohozhim-na-rynochnoy-ploschadi-v-krakove-pogibli-pyat-chelovek",
+      "published": "2026-11-08T01:28:05+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Meduza (독립·망명)",
+      "title_original": "Apple запретила писать с помощью свайпов 100 тысяч слов и выражений. Среди них — «Dictator Trump», а на русском — фразы о Путине и вводе войск",
+      "summary_original": "У компании Apple в iOS есть негласный «серый список» слов и фраз на почти 30 языках мира, которые невозможно написать при помощи свайпов и которые не будут появляться при предиктивном наборе. Список содержит около 100 тысяч слов и фраз, выяснил исследователь Дерик Кауфман, опубликовавший подробный перечень на сайте swipeblocked.com.",
+      "url": "https://meduza.io/feature/2026/11/07/apple-zapretila-pisat-s-pomoschyu-svaypov-100-tysyach-slov-i-vyrazheniy-sredi-nih-dictator-trump-a-na-russkom-frazy-o-putine-i-vvode-voysk",
+      "published": "2026-11-08T01:27:51+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Meduza (독립·망명)",
+      "title_original": "На рыночной площади в Кракове произошла стрельба. Есть погибшие",
+      "summary_original": "На главной рыночной площади польского города Краков преступник открыл стрельбу по прохожим. Пожарная служба подтвердила гибель двух человек. Позднее в полиции сообщили, что погибли пять человек. Среди раненых — двое полицейских.",
+      "url": "https://meduza.io/news/2026/11/07/na-rynochnoy-ploschadi-v-krakove-proizoshla-strelba-est-pogibshie",
+      "published": "2026-11-08T00:09:03+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Meduza (독립·망명)",
+      "title_original": "Финляндия хочет перенять опыт Украины и построить противотанковые заграждения на границе с Россией",
+      "summary_original": "Финляндия изучает возможность строительства противотанковых заграждений на границе с Россией по примеру Украины. Об этом Bloomberg рассказал командующий сухопутными войсками страны генерал-лейтенант Паси Вялимяки.",
+      "url": "https://meduza.io/news/2026/11/07/finlyandiya-hochet-perenyat-opyt-ukrainy-i-postroit-protivotankovye-ograzhdeniya-na-granitse-s-rossiey",
+      "published": "2026-11-07T23:35:32+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Meduza (독립·망명)",
+      "title_original": "Искусственный интеллект меняет письменный язык. Авторам приходится писать «более по-человечески», чтобы не выглядеть как ChatGPT. Влияют и такие системы, как Pangram, призванные находить ИИ в текстах",
+      "summary_original": "Писатели и учащиеся стали менять стиль своего письма, чтобы доказать, что они люди. На них в том числе повлияли инструменты, призванные находить контент, сгенерированный искусственным интеллектом, например сервис Pangram, который анализирует текст и оценивает, сколько процентов из написанного создал ИИ, рассказывает Bloomberg в большом материале об этом. Мы его пересказали.",
+      "url": "https://meduza.io/feature/2026/11/07/iskusstvennyy-intellekt-menyaet-pismennyy-yazyk-avtoram-prihoditsya-pisat-bolee-po-chelovecheski-chtoby-ne-vyglyadet-kak-chatgpt-vliyayut-i-takie-sistemy-kak-pangram-prizvannye-nahodit-ii-v-tekstah",
+      "published": "2026-11-07T23:03:02+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Meduza (독립·망명)",
+      "title_original": "Война. 1718-й день. Заявление Трампа о «большой прекрасной сделке» с Россией застало Европу врасплох. Европейские лидеры опасаются, что Москва лишь выиграет время для ударов",
+      "summary_original": "«Медуза» с 24 февраля 2022 года в прямом эфире рассказывает о российско-украинской войне. Мы ежедневно публикуем ваши письма, потому что уверены: о войне нужно продолжать говорить. Поделитесь с нами мыслями о войне. Какие чувства вы испытываете? Как война влияет на вашу жизнь и ваше отношение к миру? Если у вас есть история, связанная с войной, — расскажите ее. Форма для обратной связи — в конце э",
+      "url": "https://meduza.io/feature/2026/11/07/voyna",
+      "published": "2026-11-07T22:48:34+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Vedomosti",
+      "title_original": "Трамп предложил главе UFC Уайту стать пресс-секретарем Белого дома",
+      "summary_original": "",
+      "url": "https://www.vedomosti.ru/politics/news/2026/11/07/1243433-tramp-predlozhil-stat-press-sekretarem",
+      "published": "2026-11-08T05:00:53+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Vedomosti",
+      "title_original": "Россиянин пострадал при стрельбе в польском Кракове",
+      "summary_original": "",
+      "url": "https://www.vedomosti.ru/society/news/2026/11/07/1243429-rossiyanin-postradal-v-krakove",
+      "published": "2026-11-08T04:42:56+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Vedomosti",
+      "title_original": "МИД РФ выразил надежду на возвращение стран G20 к равноправному диалогу",
+      "summary_original": "",
+      "url": "https://www.vedomosti.ru/politics/news/2026/11/07/1243428-mid-virazil-nadezhdu",
+      "published": "2026-11-08T04:15:07+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Vedomosti",
+      "title_original": "12 пострадавших при стрельбе в Кракове находятся в критическом состоянии",
+      "summary_original": "",
+      "url": "https://www.vedomosti.ru/politics/news/2026/11/07/1243427-v-kriticheskom-sostoyanii",
+      "published": "2026-11-08T03:55:51+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Vedomosti",
+      "title_original": "Гусаров: РФ не тревожит формирование антироссийского консенсуса в конгрессе США",
+      "summary_original": "",
+      "url": "https://www.vedomosti.ru/politics/news/2026/11/07/1243417-rf-ne-trevozhit",
+      "published": "2026-11-08T03:28:55+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Vedomosti",
+      "title_original": "В Кракове объявили траур после стрельбы в центре города",
+      "summary_original": "",
+      "url": "https://www.vedomosti.ru/politics/news/2026/11/07/1243426-v-krakove-obyavili-traur",
+      "published": "2026-11-08T03:15:46+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Vedomosti",
+      "title_original": "В течение дня силы ПВО сбили 28 украинских беспилотников над регионами России",
+      "summary_original": "",
+      "url": "https://www.vedomosti.ru/politics/news/2026/11/07/1243425-sbili-28-bespilotnikov",
+      "published": "2026-11-08T03:02:09+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Vedomosti",
+      "title_original": "Сборная России победила на командном чемпионате Европы по дзюдо",
+      "summary_original": "",
+      "url": "https://www.vedomosti.ru/lifestyle/news/2026/11/07/1243424-sbornaya-rossii-pobedila",
+      "published": "2026-11-08T02:49:45+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "Среди погибших при стрельбе в Кракове оказался гражданин Великобритании",
+      "summary_original": "Среди шести погибших при стрельбе в центре Кракова был один гражданин Великобритании и две гражданки Польши, сообщил начальник польской полиции Марек Боронь, передает Onet.",
+      "url": "https://www.rbc.ru/rbcfreenews/6aef9319a5387231a9b6ea7d",
+      "published": "2026-11-08T06:11:22+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "В доме устроившего стрельбу в центре Кракова обнаружили тела трех человек",
+      "summary_original": "В доме устроившего стрельбу на рыночной площади в Кракове, в результате которой погибли шесть человек, нашли тела еще троих, заявил премьер-министр Польши Дональд Туск, передает Onet.",
+      "url": "https://www.rbc.ru/politics/08/11/2026/6aef9111867e39a5978d25c3",
+      "published": "2026-11-08T06:00:25+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "Провайдер Beget анонсировал запуск первых сайтов после кибератаки",
+      "summary_original": "В ночь на 8 ноября хостинг-провайдер Beget решил провести запуск первых серверов для восстановления сайтов после кибератаки.",
+      "url": "https://www.rbc.ru/technology_and_media/07/11/2026/6aef8e37b292bf71ed81056a",
+      "published": "2026-11-08T05:49:40+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "Рютте рассказал о планах «напиться в стельку» с Зеленским после конфликта",
+      "summary_original": "Генеральный секретарь НАТО Марк Рютте заявил, что после окончания конфликта с Россией планирует вместе с президентом Украины Владимиром Зеленским выпить вина на горе в Швейцарии.",
+      "url": "https://www.rbc.ru/politics/07/11/2026/6aef82523c02e1f36c5b67f3",
+      "published": "2026-11-08T05:18:25+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "Среди погибших при стрельбе в Кракове оказался иностранец",
+      "summary_original": "Посольство России проверяет, есть ли россияне среди пострадавших при стрельбе в Кракове. В больницах находятся пятеро иностранцев, гражданство которых не уточняется. Один из раненых полицейских в тяжелом состоянии",
+      "url": "https://www.rbc.ru/society/07/11/2026/6aef85f99e543f790d79ca23",
+      "published": "2026-11-08T05:16:24+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "Глава Минобороны опроверг данные о службе в армии стрелявшего в Кракове",
+      "summary_original": "Устроивший стрельбу в центре Кракова мужчина не имеет отношения к армии, заявил министр национальной обороны Владислав Косиняк-Камыш.",
+      "url": "https://www.rbc.ru/rbcfreenews/6aef8629e6803857c9e78ab6",
+      "published": "2026-11-08T05:14:39+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "Овечкин третий раз в карьере не забил в десяти матчах подряд в НХЛ",
+      "summary_original": "«Вашингтон» обыграл «Флориду» со счетом 4:3. Самая длинная безголевая серия в карьере Александра Овечкина в НХЛ составляет 14 матчей (сезон 2023/24)",
+      "url": "https://www.rbc.ru/sport/07/11/2026/6aef81213993aeaad62451a9",
+      "published": "2026-11-08T05:13:24+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "Военная операция на Украине. Онлайн",
+      "summary_original": "Президент России Владимир Путин 24 февраля 2022 года объявил о начале спецоперации по «демилитаризации» и «денацификации» Украины. Что происходит на 1718-й день операции, а также все самое важное о санкциях и других последствиях боевых действий",
+      "url": "https://www.rbc.ru/textonlines/18/04/2025/6216fb4d9a79474dc80e8821",
+      "published": "2026-11-08T05:04:33+09:00",
+      "via": "rss",
+      "state_media": false
+    }
+  ],
+  "unavailable_sources": [],
+  "errors": {
+    "Rossiya 24 (Vesti)": [
+      "rss 실패: HTTPError: HTTP Error 404: Not Found"
+    ]
+  }
+}
