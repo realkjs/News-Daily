@@ -1,8 +1,17 @@
 {
   "team": "fr",
   "team_name_ko": "프랑스팀",
-  "collected_at": "2026-11-08T06:13:02.042045+09:00",
+  "collected_at": "2026-11-08T08:06:16.746573+09:00",
   "headlines": [
+    {
+      "source": "France 24",
+      "title_original": "Municipales en Afrique du Sud: déroute historique de l'ANC qui passe à peine les 30%",
+      "summary_original": "Municipales en Afrique du Sud. Plus de 99 % des bulletins ont été dépouillés. Les résultats seront annoncés demain, après vérification de près de 200 contestations. Mais les tendances sont claires : l’ANC est en recul historique, en passant à peine la barre des 30 %. Avec 24,6 %, l’Alliance démocratique de Geordin Hill-Lewis, maire du Cap, s’impose comme la deuxième force politique du pays.",
+      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261107-municipales-en-afrique-du-sud-d%C3%A9route-historique-de-l-anc-qui-passe-%C3%A0-peine-les-30",
+      "published": "2026-11-08T06:30:18+09:00",
+      "via": "rss",
+      "state_media": false
+    },
     {
       "source": "France 24",
       "title_original": "Israël : Gadi Eisenkot chargé de former un gouvernement",
@@ -32,7 +41,7 @@
     },
     {
       "source": "France 24",
-      "title_original": "Israël : Eisenkot, rival de Netanyahu, sera chargé de former le prochain gouvernement",
+      "title_original": "Israël : Eisenkot, rival de Netanyahu, chargé de former le prochain gouvernement",
       "summary_original": "La présidence israélienne a annoncé samedi soir choisir Gadi Eisenkot, principal rival du Premier ministre Benjamin Netanyahu, pour tenter de former un nouveau gouvernement. Cette décision intervient après des élections législatives sans issue claire, qui n'ont permis à aucun des deux hommes de réunir une majorité absolue.",
       "url": "https://www.france24.com/fr/moyen-orient/20261107-isra%C3%ABl-gadi-eisenkot-rival-de-benjamin-netanyahu-sera-charg%C3%A9-de-former-le-prochain-gouvernement",
       "published": "2026-11-08T04:40:46+09:00",
@@ -67,11 +76,38 @@
       "state_media": false
     },
     {
-      "source": "France 24",
-      "title_original": "Mélenchon : \"Je n'ai qu'une chose raisonnable à vous proposer, il faut tout changer\"",
-      "summary_original": "Le candidat insoumis Jean-Luc Mélenchon a proposé samedi à ses partisans de \"tout changer\", une position \"raisonnable\" a-t-il dit lors d'un meeting de campagne pour la présentation du programme présidentiel de La France insoumise (LFI) au Bourget (Seine-Saint-Denis).",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261107-m%C3%A9lenchon-je-n-ai-qu-une-chose-raisonnable-%C3%A0-vous-proposer-il-faut-tout-changer-1",
-      "published": "2026-11-08T02:18:42+09:00",
+      "source": "franceinfo (France 2)",
+      "title_original": "Le XV de France signe une démonstration face à des Fidjiens stériles pour son premier match d'automne",
+      "summary_original": "Les hommes de Fabien Galthié n'ont pas laissé le moindre espoir aux Fidjiens (54-17), samedi soir à Lyon. Point noir de la soirée : la sortie sur blessure de Romain Ntamack.",
+      "url": "https://www.franceinfo.fr/sports/rugby/xv-de-france/le-xv-de-france-signe-une-demonstration-face-a-des-fidjiens-steriles-pour-son-premier-match-d-automne_8272730.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-08T07:01:02+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "Le PSG assure le service minimum contre Troyes et signe un septième succès d'affilée en Ligue 1",
+      "summary_original": "Le club parisien est assuré de rester leader du championnat à l'issue de la 10e journée.",
+      "url": "https://www.franceinfo.fr/sports/foot/psg/le-psg-assure-le-service-minimum-contre-troyes-et-signe-un-septieme-succes-d-affilee-en-ligue-1_8272742.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-08T06:56:29+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "\"On entend beaucoup de revendications mais pas de réponses concrètes\" : à Paris, la mobilisation se poursuit malgré les annonces du gouvernement",
+      "summary_original": "Le cortège qui s'est élancé depuis la place de la République jusqu'à celle de la Nation s'est déroulé en grande majorité dans le calme, même si les quelques milliers de personnes présentes ne décolèrent pas après les propositions du gouvernement qu'ils jugent insuffisantes.",
+      "url": "https://www.franceinfo.fr/societe/manifestations/reportage-on-entend-beaucoup-de-revendications-mais-pas-de-reponses-concretes-a-paris-la-mobilisation-se-poursuit-malgre-les-annonces-du-gouvernement_8272733.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-08T06:47:45+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "A Cracovie, en Pologne, un assaillant tire sur des passants et tue six personnes, trois corps retrouvés à son domicile",
+      "summary_original": "Au total, 16 personnes sont hospitalisées après cette attaque, dont cinq étrangers, a fait savoir, dans la soirée samedi, le ministre de l'Intérieur. Tout indique que le suspect \"était fasciné par des idéologies d'extrême droite. Même si cela devra encore être vérifié\", a précisé le ministre de l'Intérieur.",
+      "url": "https://www.franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-08T06:37:20+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -86,10 +122,10 @@
     },
     {
       "source": "franceinfo (France 2)",
-      "title_original": "A Cracovie, en Pologne, un assaillant tire sur des passants et tue six personnes, 16 autres sont hospitalisées",
-      "summary_original": "Au total, 16 personnes sont hospitalisées après cette attaque, dont cinq étrangers, a fait savoir, dans la soirée samedi, le ministre de l'Intérieur. Tout indique que le suspect \"était fasciné par des idéologies d'extrême droite. Même si cela devra encore être vérifié\", a précisé le ministre de l'Intérieur.",
-      "url": "https://www.franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-08T04:59:55+09:00",
+      "title_original": "\"Nous allons gagner\" : au Bourget, Jean-Luc Mélenchon dévoile son programme pour 2027 et poursuit sa démonstration de force",
+      "summary_original": "Devant plus de 20 000 personnes, le prétendant insoumis à l'Elysée a présenté la version actualisée de son programme l'Avenir en commun avec plus de 1 000 propositions, entre pouvoir d'achat, écologie et santé.",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/reportage-nous-allons-gagner-au-bourget-jean-luc-melenchon-devoile-son-programme-pour-2027-et-poursuit-sa-demonstration-de-force_8272679.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-08T05:30:30+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -112,39 +148,57 @@
       "state_media": false
     },
     {
-      "source": "franceinfo (France 2)",
-      "title_original": "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque",
-      "summary_original": "Plus de 500 kilomètres de câbles de cuivre, dont le cours ne cesse de s’envoler, ont été dérobés dans des parcs photovoltaïques du Sud-Ouest. Le montant du préjudice est estimé à 1 million d’euros. Plus d’une centaine de gendarmes ont été mobilisés pour démanteler un réseau, et six personnes placées en détention.",
-      "url": "https://www.franceinfo.fr/france/nouvelle-aquitaine/gironde/cette-recrudescence-des-vols-impacte-la-production-des-parcs-500-km-de-cables-de-cuivre-derobes-dans-une-centrale-photovoltaique_8272673.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-08T04:22:19+09:00",
-      "via": "rss",
+      "source": "TF1 Info",
+      "title_original": "Alertes à la bombe dans les avions : des puissances étrangères impliquées ?",
+      "summary_original": "Alertes à la bombe dans les avions : des puissances étrangères impliquées ? TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMXh4LWh0ZzdOTGkzSU1qd1cxZmVkMmVfeUlSMDZfck9ab19CODlXd1JpSTFnc2htNXFqLU9BZUJzQ3U4RXJiRmFKZUE5NzFOX09EdTktaWRwQWlmME5QYXRhM1BwVHY3U0Y4YjNhc01FQVp5bE5yaDNpcnk0VWVqaWVNRFFSek5za01ZRWRKZVlmTUhhR1l5cV9SSnBucGQxZGRuQmhkQTBNYzVjSHVVZ09paWcyVFZjXzcyLW5WNzdlbVNfaUlscE84NGROUDhxNTJmWV92ZjhnVlRjeEhN?oc=5",
+      "published": "2026-11-08T08:00:18+09:00",
+      "via": "google_news",
       "state_media": false
     },
     {
-      "source": "franceinfo (France 2)",
-      "title_original": "Depuis son meeting au Bourget, Jean-Luc Mélenchon refuse de mettre \"de l'eau dans\" son \"vin pour séduire et être moins clivant\"",
-      "summary_original": "Cet événement, qui se tenait samedi au Bourget (Seine-Saint-Denis), suivait la sortie en librairie vendredi du programme présidentiel des Insoumis, nouvelle version de \"L'Avenir en commun\", forte de 1 069 propositions.",
-      "url": "https://www.franceinfo.fr/politique/melenchon/depuis-son-meeting-au-bourget-jean-luc-melenchon-refuse-de-mettre-de-l-eau-dans-son-vin-pour-seduire-et-etre-moins-clivant_8272640.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-08T03:58:40+09:00",
-      "via": "rss",
+      "source": "TF1 Info",
+      "title_original": "Championnat des nations : la charnière Dupont-Ntamack de retour, découvrez la composition du XV de France contre les Fidji",
+      "summary_original": "Championnat des nations : la charnière Dupont-Ntamack de retour, découvrez la composition du XV de France contre les Fidji TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNSmlyaU1URmxUVzJKQVRWenhaZklYMlNHaTB2MVdCaGxDeWk0TXlRaVJ2OEcwbjk3bHk4UXF4WmVYb3pONGtDSFJualZDWGtFamY4Z2FydzNqcHVlV1F4WWZweXpBaTExdUgxTEZXZW9oTXdUQlQtSEN0clQxYVU0c041dU85RDlHcVROa1lqajU4dEVIODBpOFNEMnBhVW5vTWZCOE5ELTdEbGl4ejYwLVJxMm5IYldkU1Bnck5FTkw5ZFZEYlZHYVlodVlEUmVGVzEzaU0wOENCZWM0U0xNTXRadW9sNjI0X0pKbVh2cTMxTm0xUDZfa1FjdHFPLVNEUzFXSGNkNUdXanFmanIyNW5kcmk3OVBJSVNraFZxMUUxY3doMEIyS2tVQkF0SkZtcVE?oc=5",
+      "published": "2026-11-08T07:35:12+09:00",
+      "via": "google_news",
       "state_media": false
     },
     {
-      "source": "franceinfo (France 2)",
-      "title_original": "Près de 146 000 personnes ont défilé en France samedi 7 novembre selon le ministère de l'Intérieur, 250 000 selon l'intersyndicale de la jeunesse",
-      "summary_original": "La mobilisation de samedi est en recul par rapport à jeudi et par rapport aux trois précédents samedis de mobilisation sociale.",
-      "url": "https://www.franceinfo.fr/societe/manifestations/pres-de-146-000-personnes-ont-defile-en-france-samedi-7-novembre-selon-le-ministere-de-l-interieur-250-000-selon-l-intersyndicale-de-la-jeunesse_8272610.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-08T03:23:21+09:00",
-      "via": "rss",
+      "source": "TF1 Info",
+      "title_original": "Info/Infox : l'intelligence artificielle menace-t-elle l'industrie musicale ?",
+      "summary_original": "Info/Infox : l'intelligence artificielle menace-t-elle l'industrie musicale ? TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ0hHbWZtY1dtSXZjblAteDY2Y2xJOVFrR250VjI0QzFVRVZlTnJtUUpQY1p6bE9UV1c3X1hqc2l0Vl9Tb1lqZDFyeTBOb0lKU1U1a2lYM3djWFZ5TXFQV2liQ3A0LXJONHBZc3BLZVZ1czVHSFRBa1ZUMVl6Sks5dHZvQlNHcUk2U1k0anhNQncyeEozeGFCX3lYRzhqX3llcTNDVjU1U2JKZ2I0MkRZTmJieC0wVG5oa3FqZ2ZrY0VFVTNxdGd2Q0g3MXVWMVBKVEE?oc=5",
+      "published": "2026-11-08T07:30:23+09:00",
+      "via": "google_news",
       "state_media": false
     },
     {
-      "source": "franceinfo (France 2)",
-      "title_original": "Les députés communistes qui soutiennent La France insoumise se sont mis \"en dehors du parti\", estime le PCF",
-      "summary_original": "Cette décision vise les députés communistes qui ont annoncé vendredi soutenir la candidature de Jean-Luc Mélenchon, au lieu de celle du dirigeant du mouvement, Fabien Roussel.",
-      "url": "https://www.franceinfo.fr/politique/les-deputes-communistes-qui-soutiennent-la-france-insoumise-se-sont-mis-en-dehors-du-parti-estime-le-pcf_8272592.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-08T02:59:42+09:00",
-      "via": "rss",
+      "source": "TF1 Info",
+      "title_original": "Moins de pervenches, plus de PV !",
+      "summary_original": "Moins de pervenches, plus de PV ! TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSVltZ1VrMDdBb2E1aDFjZXZLVHFUSVFKNmVwRVp1Wk5oWjNtcFhMTEJhRnBBMlJuOC10UDVYc0U2LS1EU0lacks2Yi1hXzFZRzc5WnVmQlpval9ZTUVoMjREZ2pOMV9SUXRuTklrNWJBcjRIYVhsZlBpN3ZjblpzUGs2QjhzLUtkcE95aGhaSHI4Q0RCSE13ekMxZUZaUVdBb3BEYzJFODNlQQ?oc=5",
+      "published": "2026-11-08T07:15:16+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Un homme tire sur la foule : six morts en Pologne",
+      "summary_original": "Un homme tire sur la foule : six morts en Pologne TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd3dxOXpDQ1VGQkprcUhKZTdyUVRLdThUX1d1NnhxYW9IV3o4NnpaT1J4VWE5cVhqNHRuQjlRSmhKVGU0TDlEclBYMDBIQzJfSDQ0LWVfeVc1SUN5elR0blN4dUxIZVpLY0wyWEZHRk1SbGZWTXdUMVdMblVWenZnZWFqYUhfR1Byak9qUVVEXzltdDhDZzNzUlpxeERDeWhTWGFRdEpZT3RMc3dXRGp1TGRGa3JTZUE?oc=5",
+      "published": "2026-11-08T06:50:19+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Le candidat insoumis Jean-Luc Mélenchon a proposé samedi à ses partisans de \"tout changer\" lors d'un meeting de campagne pour la présentation du programme présidentiel de La France insoumise (LFI) au Bourget.",
+      "summary_original": "Le candidat insoumis Jean-Luc Mélenchon a proposé samedi à ses partisans de \"tout changer\" lors d'un meeting de campagne pour la présentation du programme présidentiel de La France insoumise (LFI) au Bourget. TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQSkxSNU5hbS0wRWl4cHNhdmlMWFpjWTB2dzROa2N6YkZOb2F1dmdCVGUtR1R3X29pY2pkbGlxRm5JZVVtTmx4Vl8tTGRIbWxWS25mNXRaNTh1ZFZOVVFiTXJ6ZjR1N2hVTXdYOGY2Tml4ZjY1c1Vobmd0ZWMxM3E4dC0zNHh6bEhhNkhLQ1plRFJuSVhTQXdLa0RISWNoUlE2M25WY0U2NG9oSV9Lem9UVjd2VXZUQVI3U0FOZXhyaEh5ZG5xR2FzanNrUGdxUXVaTmNJVm9mVWFkZm51R3o3NEhNeHNUeXpGYjV0NndCbVpJWjhrMmxJdi0wMVRnTU8ycjRlSWdhcXFqSkFVbWVZNDF4TEZrUUstUkNsd1NpNzVySHltTXBPNFFjcEZmRDJMZHhIcE5VQXkxekNoMEVxMFEzTmVOSnV1ME1BM1RvUm1TU0d0SmpxaHJpYldfVEpibG9jV2hOYUhmdkN5WWpQWDJHUTRtTU5QbTJJYWsyWG03Zw?oc=5",
+      "published": "2026-11-08T06:25:11+09:00",
+      "via": "google_news",
       "state_media": false
     },
     {
@@ -166,128 +220,83 @@
       "state_media": false
     },
     {
-      "source": "TF1 Info",
-      "title_original": "LCI Direct du samedi 7 novembre 2026",
-      "summary_original": "LCI Direct du samedi 7 novembre 2026 TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYWNCaWRQbEZoVFRvYm1QeDNwZ0dCenRxSUtkMVFXdEVRTVNNemR6TmhES0FEeENIeUtiRjE2SnNTTzY3djc1dHZLSUhVbk9vVlRjbEFQTGs0QVhXMTlBV1h4ZFlWWEJtSzBKYXRwbDY4RnNZeFVPUjNXaXdhUG1sb2VWeVFQQTBUTE9CSFpCVDZueFJkLVB4dGJ6X2I?oc=5",
-      "published": "2026-11-08T05:36:17+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "D'où viennent nos boîtes de maquereaux ?",
-      "summary_original": "D'où viennent nos boîtes de maquereaux ? TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd19QS3laTDVyOUVBcXNuc3hfb3FrcEFGQTN0VjRfTGZnbEhKQXp1SUxGQjV6NnA4RkhWdGIzMVZZaGRtT01nQnVSUmRVT2RROE1vZndqdVJkcEs1NW5tVS1TaERfTjhTeFVpLUhGZlVWdlNKTFJXU1FXdGhkMnNBYnk5UFlJckN1SDZuVEFVcTBmVjZHdHFsYWlSRVpscm9K?oc=5",
-      "published": "2026-11-08T05:35:15+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "Alertes à la bombe dans les avions : des puissances étrangères impliquées ?",
-      "summary_original": "Alertes à la bombe dans les avions : des puissances étrangères impliquées ? TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMXh4LWh0ZzdOTGkzSU1qd1cxZmVkMmVfeUlSMDZfck9ab19CODlXd1JpSTFnc2htNXFqLU9BZUJzQ3U4RXJiRmFKZUE5NzFOX09EdTktaWRwQWlmME5QYXRhM1BwVHY3U0Y4YjNhc01FQVp5bE5yaDNpcnk0VWVqaWVNRFFSek5za01ZRWRKZVlmTUhhR1l5cV9SSnBucGQxZGRuQmhkQTBNYzVjSHVVZ09paWcyVFZjXzcyLW5WNzdlbVNfaUlscE84NGROUDhxNTJmWV92ZjhnVlRjeEhN?oc=5",
-      "published": "2026-11-08T04:55:15+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "Accident de car dans l'Ain : le drame aurait-il pu être évité ?",
-      "summary_original": "Accident de car dans l'Ain : le drame aurait-il pu être évité ? TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQjNIbzRabkItLVk1ZWpRWm5CS0J4eWNLakNuMVlxbHZqQ3JRU3BvYU9RWlRZaTVIN194ME5NelFIaHQzOE1NWWZTcDk5ZkxJMkN5Ul80cVNKZnR4LXpJOXp4azc5YVJPaFloTVBMOHBSTEJkM2FwTWF6RkZxLV9hVnJpelljZlBPUnVKWVk0ZGVtZWNzRjU2T1JPRVp3RDBQOGR0LWZYTFNKZUxTLUQ3YWtneTRGcUlNVmVILTdMV1pmLThnWUJJSFZ6eGRzblpD?oc=5",
-      "published": "2026-11-08T04:50:22+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "Une fusillade à Cracovie fait au moins six morts : \"La Pologne n'est pas seule\", déclare la cheffe de la diplomatie de l'UE",
-      "summary_original": "Une fusillade à Cracovie fait au moins six morts : \"La Pologne n'est pas seule\", déclare la cheffe de la diplomatie de l'UE TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUW9sQ2xLWHZ5M0FlbzlnaWstLXZTUVJsLXJxRnNfZnZwR1VyaVJhNXFGRlJFX0hWeFBFZzB1R1J1U1VfWFhRUFJna3dfZ0lnUXJLQmRVYVZmWndXMjZLZ3FGc3cwNUR1eDJPWWVXbDF1bGVLTWo3bTgxMXFMaGh1V1FmYVJzLTA0UjgyNEhfeEJIMDY5UjRkZVBra3dLTWFFRkNGalVaV2I1Ql90bDgxeg?oc=5",
-      "published": "2026-11-08T04:49:33+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "Le JT de 20 heures de TF1 du samedi 7 novembre 2026",
-      "summary_original": "Le JT de 20 heures de TF1 du samedi 7 novembre 2026 TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVpVSVdCazV0aHRFUDVtbXNqVUY2LWZaOEhwSHVOYVNMRXQ2eTlvOVVaLUZZUzd4b2xrajFvNWNadVFIMUp6TXlyTkluNkxfa19yYzZPdXJJSmI5UlJVaDlVRExWclB1QnotOEp5SUJpOE53R3JVQWw1R3U5TUVwSFpWaXBTc2JDRzhSZzlYUXJMYkxEX2QtSmc5dWtzSm5GUTBnckRBRmNuTjk3VzR2Nw?oc=5",
-      "published": "2026-11-08T04:48:21+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
       "source": "BFMTV",
-      "title_original": "\"Nous sommes nombreux au Parlement a demandé la baisse de la TVA\" sur l'énergie, déclare Fabien Roussel, candidat PCF à la présidentielle",
+      "title_original": "\"Ce que je propose, ce n'est pas la même chose que ce que souhaite\" Emmanuel Macron, déclare Édouard Philippe, candidat (Horizons) à la présidentielle",
       "summary_original": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon a tenu un meeting au Bourget pour présenter son programme ce samedi 7 novembre. Édouard Philippe (Horizons) a participé à un débat aux Rencontres de l'Avenir dans le Var. Fabien Roussel, candidat PCF à la présidentielle était aussi l'invité de BFMTV ce samedi 7 novembre.",
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-nous-sommes-nombreux-au-parlement-a-demande-la-baisse-de-la-tva-sur-l-energie-declare-fabien-roussel-candidat-pcf-a-la-presidentielle_VN-202611070514.html",
-      "published": "2026-11-08T06:05:49+09:00",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-ce-que-je-propose-ce-n-est-pas-la-meme-chose-que-ce-que-souhaite-emmanuel-macron-declare-edouard-philippe-candidat-horizons-a-la-presidentielle_VN-202611070565.html",
+      "published": "2026-11-08T08:02:40+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "\"Nous demandons de porter le SMIC à 2.200 euros brut\", déclare Fabien Roussel, candidat PCF à la présidentielle",
+      "title_original": "\"Encore temps de faire passer la France avant les égos\": 66 parlementaires appellent à une primaire contre les \"extrêmes\"",
+      "summary_original": "66 parlementaires, majoritairement de Renaissance, appellent à une \"primaire des démocrates et républicains\" dans une tribune publiée dans La Tribune Dimanche ce samedi.",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/encore-temps-de-faire-passer-la-france-avant-les-egos-66-parlementaires-appellent-a-une-primaire-contre-les-extremes_AD-202611070562.html",
+      "published": "2026-11-08T07:57:19+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "146 000 manifestants, 360 interpellations (Intérieur) - 07/11",
+      "summary_original": "Chaque week-end, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.",
+      "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-146-000-manifestants-360-interpellations-interieur-07-11_VN-202611070563.html",
+      "published": "2026-11-08T07:44:12+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Présidentielle 2027: la réponse de Fabien Roussel (PCF) sur les députés de son parti qui soutiennent Jean-Luc Mélenchon",
       "summary_original": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon a tenu un meeting au Bourget pour présenter son programme ce samedi 7 novembre. Édouard Philippe (Horizons) a participé à un débat aux Rencontres de l'Avenir dans le Var. Fabien Roussel, candidat PCF à la présidentielle était aussi l'invité de BFMTV ce samedi 7 novembre.",
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-nous-demandons-de-porter-le-smic-a-2-200-euros-brut-declare-fabien-roussel-candidat-pcf-a-la-presidentielle_VN-202611070513.html",
-      "published": "2026-11-08T06:05:24+09:00",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-la-reponse-de-fabien-roussel-pcf-sur-les-deputes-de-son-parti-qui-soutiennent-jean-luc-melenchon_VN-202611070557.html",
+      "published": "2026-11-08T07:44:12+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Crise sociale: \"Ce n’est pas du bleu qu'il faut, mais des actes\", déclare Fabien Roussel, candidat PCF à la présidentielle",
+      "title_original": "Crise sociale: pour Fabien Roussel, candidat PCF à la présidentielle, il faut augmenter le Smic",
       "summary_original": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon a tenu un meeting au Bourget pour présenter son programme ce samedi 7 novembre. Édouard Philippe (Horizons) a participé à un débat aux Rencontres de l'Avenir dans le Var. Fabien Roussel, candidat PCF à la présidentielle était aussi l'invité de BFMTV ce samedi 7 novembre.",
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-crise-sociale-ce-n-est-pas-du-bleu-qu-il-faut-mais-des-actes-declare-fabien-roussel-candidat-pcf-a-la-presidentielle_VN-202611070511.html",
-      "published": "2026-11-08T05:56:12+09:00",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-crise-sociale-pour-fabien-roussel-candidat-pcf-a-la-presidentielle-il-faut-augmenter-le-smic_VN-202611070554.html",
+      "published": "2026-11-08T07:39:50+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "\"Je refuse les discours déclinistes\", déclare Fabien Roussel, candidat PCF à la présidentielle",
-      "summary_original": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon a tenu un meeting au Bourget pour présenter son programme ce samedi 7 novembre. Édouard Philippe (Horizons) a participé à un débat aux Rencontres de l'Avenir dans le Var. Fabien Roussel, candidat PCF à la présidentielle était aussi l'invité de BFMTV ce samedi 7 novembre.",
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-je-refuse-les-discours-declinistes-declare-fabien-roussel-candidat-pcf-a-la-presidentielle_VN-202611070510.html",
-      "published": "2026-11-08T05:55:35+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BFMTV",
-      "title_original": "INFO BFMTV. Hauts-de-Seine: un jeune homme en urgence absolue après un rodéo urbain et l'intervention de la police",
-      "summary_original": "Un jeune homme âgé d'une vingtaine d'années a été grièvement blessé ce samedi à Chaville (Hauts-de-Seine) après un rodéo urbain et l'intervention de la police, a appris BFMTV de sources concordantes. Il aurait percuté une barrière en tentant de fuir les forces de l'ordre, selon une source police.",
-      "url": "https://www.bfmtv.com/paris/hauts-de-seine/info-bfm-tv-hauts-de-seine-un-jeune-homme-en-urgence-absolue-apres-un-rodeo-urbain-et-l-intervention-de-la-police_AN-202611070508.html",
-      "published": "2026-11-08T05:31:55+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BFMTV",
-      "title_original": "Crise sociale: \"Est-ce qu'aujourd'hui, le gouvernement aura la capacité de recevoir d'autres personnes que celles qu'il a l'habitude de recevoir ?\", se demande Jérôme Rodrigues, membre du mouvement des Gilets Jaunes",
+      "title_original": "Budget pour la France: \"Comment vous voulez construire un compromis, quand ceux qui représentent le gouvernement ne sont pas présents ?\", dénonce Dieynaba Diop, porte-parole du PS",
       "summary_original": "Pour ce quatrième samedi d'affilée de mobilisation nationale ce samedi 7 novembre à l'appel d'organisations syndicales et de jeunesse ainsi que de gilets jaunes, quelque 70.000 policiers et gendarmes sont mobilisés sur l'ensemble du territoire. Comme les semaines précédentes, \"les préfets ont pris des arrêtés d'interdiction de manifestation dans les centres-villes\" et \"évidemment, les centres-vill",
-      "url": "https://www.bfmtv.com/societe/manifestations/video-crise-sociale-est-ce-qu-aujourd-hui-le-gouvernement-aura-la-capacite-de-recevoir-d-autres-personnes-que-celles-qu-il-a-l-habitude-de-recevoir-se-demande-jerome-rodrigues-membre-du-mouvement-des-gilets-jaunes_VN-202611070507.html",
-      "published": "2026-11-08T05:30:13+09:00",
+      "url": "https://www.bfmtv.com/politique/video-budget-pour-la-france-comment-vous-voulez-construire-un-compromis-quand-ceux-qui-representent-le-gouvernement-ne-sont-pas-presents-denonce-dieynaba-diop-porte-parole-du-ps_VN-202611070552.html",
+      "published": "2026-11-08T07:39:21+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Primaire à droite: \"Édouard Philippe n'a pas raison de refuser la primaire\", estime Gérard Longuet, ancien ministre de la Défense",
-      "summary_original": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon a tenu un meeting au Bourget pour présenter son programme ce samedi 7 novembre. Édouard Philippe (Horizons) a participé à un débat aux Rencontres de l'Avenir dans le Var.",
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-primaire-a-droite-edouard-philippe-n-a-pas-raison-de-refuser-la-primaire-estime-gerard-longuet-ancien-ministre-de-la-defense_VN-202611070501.html",
-      "published": "2026-11-08T05:10:16+09:00",
+      "title_original": "Jean-Pierre Farandou, ministre du Travail, déclare à La Tribune Dimanche que \"porter le Smic à 1.700 euros net détruirait plus de 230.000 emplois\"",
+      "summary_original": "Pour ce quatrième samedi d'affilée de mobilisation nationale ce samedi 7 novembre à l'appel d'organisations syndicales et de jeunesse ainsi que de gilets jaunes, quelque 70.000 policiers et gendarmes sont mobilisés sur l'ensemble du territoire. Comme les semaines précédentes, \"les préfets ont pris des arrêtés d'interdiction de manifestation dans les centres-villes\" et \"évidemment, les centres-vill",
+      "url": "https://www.bfmtv.com/politique/video-jean-pierre-farandou-ministre-du-travail-declare-a-la-tribune-dimanche-que-porter-le-smic-a-1-700-euros-net-detruirait-plus-de-230-000-emplois_VN-202611070550.html",
+      "published": "2026-11-08T07:39:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Meeting au Bourget: \"Jean-Luc Mélenchon est une bête de scène, il sait parler mais ne sait pas compter\", observe Gérard Longuet, ancien ministre de la Défense",
-      "summary_original": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon a tenu un meeting au Bourget pour présenter son programme ce samedi 7 novembre. Édouard Philippe (Horizons) a participé à un débat aux Rencontres de l'Avenir dans le Var.",
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-meeting-au-bourget-jean-luc-melenchon-est-une-bete-de-scene-il-sait-parler-mais-ne-sait-pas-compter-observe-gerard-longuet-ancien-ministre-de-la-defense_VN-202611070497.html",
-      "published": "2026-11-08T04:51:59+09:00",
+      "title_original": "Manifestations en France ce 7 novembre: \"Les grandes villes ont été émaillées de nombreux incidents\", détaille le ministère de l'Intérieur dans un communiqué",
+      "summary_original": "Pour ce quatrième samedi d'affilée de mobilisation nationale ce samedi 7 novembre à l'appel d'organisations syndicales et de jeunesse ainsi que de gilets jaunes, quelque 70.000 policiers et gendarmes sont mobilisés sur l'ensemble du territoire. Comme les semaines précédentes, \"les préfets ont pris des arrêtés d'interdiction de manifestation dans les centres-villes\" et \"évidemment, les centres-vill",
+      "url": "https://www.bfmtv.com/politique/video-manifestations-en-france-ce-7-novembre-les-grandes-villes-ont-ete-emaillees-de-nombreux-incidents-detaille-le-ministere-de-l-interieur-dans-un-communique_VN-202611070551.html",
+      "published": "2026-11-08T07:38:34+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Aux obsèques de Pengo Bossio Wangi, à Guyancourt : « Mon fils n’est pas une couleur de peau, mon fils est un être humain »",
+      "summary_original": "Des centaines de personnes, proches et anonymes, sont venues rendre un dernier hommage au jeune homme de 26 ans, tué lors d’un attentat raciste à Trappes, le 23 octobre.",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/07/aux-obseques-de-pengo-bossio-wangi-a-guyancourt-mon-fils-n-est-pas-une-couleur-de-peau-mon-fils-est-un-etre-humain_6808317_3224.html",
+      "published": "2026-11-08T06:09:52+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -320,15 +329,6 @@
     },
     {
       "source": "Le Monde",
-      "title_original": "Aux obsèques de Pengo Bossio Wangi, une foule de proches et d’anonymes réunis : « C’est important d’être là pour montrer notre solidarité, quelle que soit la religion, la couleur »",
-      "summary_original": "Les obsèques de Pengo Bossio Wangi, tué dans l’attentat raciste de Trappes, le 23 octobre, se sont déroulées samedi à Guyancourt (Yvelines).",
-      "url": "https://www.lemonde.fr/societe/article/2026/11/07/aux-obseques-de-pengo-bossio-wangi-une-foule-de-proches-et-d-anonymes-reunis-c-est-important-d-etre-la-pour-montrer-notre-solidarite-quelle-que-soit-la-religion-la-couleur_6808310_3224.html",
-      "published": "2026-11-08T03:45:55+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
       "title_original": "EN DIRECT, guerre en Ukraine : les dernières informations",
       "summary_original": "L’armée russe a lancé plusieurs attaques contre des infrastructures énergétiques ukrainiennes, cette nuit, selon le ministère de l’énergie ukrainien, qui signale des coupures d’électricité dans les oblasts de Dnipropetrovsk, Donetsk, Kiev, Jytomyr et Kharkiv.",
       "url": "https://www.lemonde.fr/international/live/2026/11/07/en-direct-guerre-en-ukraine-les-dernieres-informations_6803934_3210.html",
@@ -338,8 +338,8 @@
     },
     {
       "source": "Le Monde",
-      "title_original": "EN DIRECT, France-Fidji : les Bleus prennent le large malgré la blessure de Romain Ntamack",
-      "summary_original": "Après deux victoires et une défaite en juillet dans l’hémisphère Sud, les Bleus continuent leur parcours dans le Championnat des nations de rugby, samedi, avec un match contre les Fidji.",
+      "title_original": "France-Fidji : revivez la large victoire du XV de France face aux Fidjiens, entachée par la blessure de Romain Ntamack",
+      "summary_original": "Les hommes de Fabien Galthié ont débuté le mois de novembre par une large victoire, samedi, à Décines-Charpieu (54-17). Confronté à une vague de blessure, le sélectionneur devra néanmoins probablement se passer de Ntamack face à l’Afrique du Sud, vendredi.",
       "url": "https://www.lemonde.fr/sport/live/2026/11/07/en-direct-france-fidji-suivez-le-match-de-championnat-des-nations-de-rugby-2026_6808309_3242.html",
       "published": "2026-11-08T03:10:03+09:00",
       "via": "rss",
@@ -356,8 +356,8 @@
     },
     {
       "source": "Le Monde",
-      "title_original": "En Pologne, au moins six morts dans une attaque par arme à feu à Cracovie, le tireur interpellé",
-      "summary_original": "Selon un porte-parole de la police, un homme a foncé en voiture sur la grande place de la vieille ville et a tiré « au hasard » sur des passants. L’auteur des faits était « fasciné par les idéologies d’extrême droite », a affirmé le ministre de l’intérieur.",
+      "title_original": "En Pologne, une attaque par arme à feu a fait au moins six morts à Cracovie, Donald Tusk dénonce un acte de « terrorisme »",
+      "summary_original": "Le tireur, un Polonais de 24 ans « fasciné par les idéologies d’extrême droite » d’après le premier ministre, a ouvert le feu « au hasard » sur la grande place de la vieille ville. Deux jours de deuil national ont été décrétés.",
       "url": "https://www.lemonde.fr/international/article/2026/11/07/en-pologne-au-moins-six-morts-dans-une-attaque-par-arme-a-feu-a-cracovie-le-tireur-interpelle_6808293_3211.html",
       "published": "2026-11-08T02:34:57+09:00",
       "via": "rss",
@@ -365,10 +365,64 @@
     },
     {
       "source": "Les Echos",
-      "title_original": "« La présidentielle n'est pas un concours de beauté » : au Bourget, Mélenchon fait étalage de sa force pour tenter de rendre sa victoire crédible",
-      "summary_original": "« La présidentielle n'est pas un concours de beauté » : au Bourget, Mélenchon fait étalage de sa force pour tenter de rendre sa victoire crédible Les Echos",
+      "title_original": "Cours Indices EN ATHENS ESGGR Idx - ATGGR FRESG0005412",
+      "summary_original": "Cours Indices EN ATHENS ESGGR Idx - ATGGR FRESG0005412 Investir Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ2MyUFhDYkNUclhCVjVENVhiM2hueEQteVZabjJYcEpfYWJfOU5Sb3Y4WTI2RENIcTlJZFV4R0hmM24wQzdMRVBTSFZ0dnQxaV9HQXI5b2k1dUY5M25RanJYSmZfeXJWUXhRQ1JuRWtKY09Odmt1bmNheTd3NWZja09KejdxVEh5TVBtZmtuOA?oc=5",
+      "published": "2026-11-08T07:30:42+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "Cours Indices EN ATHENS ESGNR Idx - ATGNR FRESG0005420",
+      "summary_original": "Cours Indices EN ATHENS ESGNR Idx - ATGNR FRESG0005420 Investir Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR0toWFUwMUxia0l4RkxJc2pkcGR1S0hsNEtPNzVmTklLZFY3aUU0aE1ZemxTNUJJOHFzM1pfd0hFVllLdDZ0eVFTbjV4ekVyekd0RHQ3VE55SncySDVWSjRzQ1Naa1g4N294NDdJSDVnUThHVE9UdGZ2dFJKVUUxZXMtNmVSUEtUdGZzQ0FGQQ?oc=5",
+      "published": "2026-11-08T07:30:42+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "Cours Indices EN ATN ESG GR TILT - ATTGR FRESG0004027",
+      "summary_original": "Cours Indices EN ATN ESG GR TILT - ATTGR FRESG0004027 Investir Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVGhESmxhUFBOelZIT2ZDa2gyY3FKZ1V2ZG5STjdlUklRS1dncnZ6UmhOczZ6b2dVeVRSZlVmVldGYjI0MXUwNF9DT2dwekxkM1pTbTBLdERNRlhCdlFlZWV1bUVOXy1FU2VfbGlTU1B1WDRMcURvNjJKbFpMemo0cDBRbC1FN25rbnoxaGNB?oc=5",
+      "published": "2026-11-08T07:30:42+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "Cours Indices EN ATHENS ESGPR Idx - ATESG FRESG0005404",
+      "summary_original": "Cours Indices EN ATHENS ESGPR Idx - ATESG FRESG0005404 Investir Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUGU4RWVyMjVRWGdtTGRoWFZuVVlySk1wT3FzM2xLVmtzNWZPU2dVQ3JRZGhwWGRSajZkVEhUTXMtdE9fRzZ1dlo2OTU5UWkxQlpFRVpIdW85ZVJDR1pCd0RhcVRYTWkwYUtEaFlrTmhXMS1FTFpBNzJOVHlBUW0wODh2NFIyU3d1SGRzNEVMRQ?oc=5",
+      "published": "2026-11-08T07:30:42+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "Cours Indices EA ESG T NR Idx EUR - ATTNR FRESG0004035",
+      "summary_original": "Cours Indices EA ESG T NR Idx EUR - ATTNR FRESG0004035 Investir Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbWlaUk5iMzg4TGpCRHFMcm9lbkxSSUN3NzU1bHd1YVlQTkdrbl9ETExjdlMxU0dFZEdjOW1vOHhUdXlsYTBPTUh2NmxicHJ1UzY2bVVkUldlNjJNblE5VjdSYjhKaFE3aWlqemdnN0NZLVF2Vlh3MjVDaGpFbnhoa0dXYVlhYURYMlZUcU1fTQ?oc=5",
+      "published": "2026-11-08T07:30:42+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "« La présidentielle n'est pas un concours de beauté » : au Bourget, Mélenchon fait étalage de sa « force » pour tenter de rendre sa victoire crédible",
+      "summary_original": "« La présidentielle n'est pas un concours de beauté » : au Bourget, Mélenchon fait étalage de sa « force » pour tenter de rendre sa victoire crédible Les Echos",
       "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQR3FDT3ZEOVQwdXJpcktlY0JLeGFMSHc3d0tjQkxabmFqNzB4V2tuNGFpY2pkaHhXUVVxLWNKdzNLMERfay1xYVBKSUpGUVpqN3Q2VFh4ak1CcXUxWk8zY0lGTmxaMHRXTFdBUmkwWFJHRFQ3TGItdnYxNnJ0U1puVnVEUTYwT21LanNsLUZRaXJyQlZOZGFoZlRpMFNBZzVIVlFCOHZIUHBReUkyanJVWVl5SHdtbzJab1lMNi1UT1h0UHlqZ29DWlJ2Z2FzODBlOUJ6SEpINjd5bGJwb1VsLTh3VjdwamxVUWxpYWttNU1mcWs5YXBqbEl4WVhfeHhWRkVkYTNHaVJZUWV6T3JXOUU4RzU4TjhHUTNXM3k2Yw?oc=5",
-      "published": "2026-11-08T06:11:21+09:00",
+      "published": "2026-11-08T06:11:15+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "Budget et fiscalité : actualités en direct, analyses et vidéos - Les Echos | Page 61",
+      "summary_original": "Budget et fiscalité : actualités en direct, analyses et vidéos - Les Echos | Page 61 Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE85MEdKYzRmQURncEFOdGk4ajRrRW9lUDZxYjlDWkRvSFJ5TXlhV2hoS2ZaWndaYUw4WHJldUd3a1pNR3NZS3NRdFdPQkhCRldrZE9MZlM2clo1enI5MFluT3RrY2piM29qbXF5THM1aG4wdw?oc=5",
+      "published": "2026-11-08T01:21:27+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -382,128 +436,74 @@
       "state_media": false
     },
     {
-      "source": "Les Echos",
-      "title_original": "Les paris sportifs de nouveau interdits par un juge au Brésil",
-      "summary_original": "Les paris sportifs de nouveau interdits par un juge au Brésil Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmRETk1Kb2EwWndNT0psQnlMOThodEJTZWp4em1Qa3E5emtnZkNidjZaM29NdlVsMllUTnJSS2Iwai1IUEhXVV9GTjRxQ2NCVnRjTWxUcFNzcEo4QmdWcEFibzZKOWN4QVBTNUVVTDN3dDVfOTJOT1FldmszajRjckcwajZlOFphQ3ZpZ1Y3STdwVEtQWkQxWEl0M2tHZVdKX1NtUUxlanFpY2dlZEE?oc=5",
-      "published": "2026-11-08T00:09:51+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Les Echos",
-      "title_original": "Gastronomie : « Lucas Carton » selon Cyril Lignac",
-      "summary_original": "Gastronomie : « Lucas Carton » selon Cyril Lignac Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQXVaeXlUejdQbEs0UFFNUEpvSENvWExFbFdEak9zZ1I4TmppT1dDRFd2ZXRFOW1YYlJBMnRGTzBhYzRLc1lLZjNNNXgyaVotVnYwT3JRdG54YlpSa21CblRmeERZQWp6MnZpanlSQXFTVkJyWDhpLUdGaFdpUElXZWNOU2dPakxkNXJMMnlxelVQbEZ1dmdUbkFNaWNmbHRZV1E?oc=5",
-      "published": "2026-11-07T23:55:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Les Echos",
-      "title_original": "Malgré la victoire démocrate, le Canada reste sous la pression commerciale de Trump",
-      "summary_original": "Malgré la victoire démocrate, le Canada reste sous la pression commerciale de Trump Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWTgtVzF1U3dVUm4xMUdCX0tIMFZVTHBTOWI0OGdHc0QtdUFvTTZyV3NEbUNJQ0tXWENOSGlaZG9rME9RZnhLTlAwTkpXanpjZHJRbjBPNnZpYmF0OE5DbnVpZ1VSNHNwZkQ0XzJVTVZpNEMwcE0xU3JJOUVVUjdjeFExVklLNnJyUmxpOFdsMVVjWXhfU3RUNE5WMFN6VWhIMmE3Ujk0YnFEdUZvX3I5R1RLTDFoLXdWSEc3Uldrb1RSTXdBMEdZdi1ybw?oc=5",
-      "published": "2026-11-07T23:25:08+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Les Echos",
-      "title_original": "Changement d'objet social - Paris - ALP01577993 - Les Echos",
-      "summary_original": "Changement d'objet social - Paris - ALP01577993 Les Echos - Annonces légales",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ24zWXk1Q1E3LTJfVThHN2xaS2Jnd2FUSFpwMGtJRTI5bzVjcGs2OHZWR0lhSVdBTV92aUpTVUlHT3FXU1JTNVRQU3lxRlZTNjl4ZXFDYTRwekZXeXNFbER3TEhKM2FlazVOa3RYd2RGWHFUb2dKc09DQzJ4WjNTMnlQdENhbmVWYXVLOE1QdmVrU21hS29IV0lZczcxUQ?oc=5",
-      "published": "2026-11-07T22:40:12+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Les Echos",
-      "title_original": "Football : comment deux milliardaires indonésiens ont réveillé le petit club de Côme, le bourreau du RC Lens",
-      "summary_original": "Football : comment deux milliardaires indonésiens ont réveillé le petit club de Côme, le bourreau du RC Lens Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTzNjdU5vaDdCWHhJb3pVUmllcXh4dk9IOXRUMHpOYmc2Vng0UzZpdXVnLXlyMWJiVjZXTVlSQ3hiMDRxb2FRRVFYRXBXaktKTy1zNWxjeDRFN2F1UVBmeFZ1SlFTSXdzcGRxS2VlbGJsTXVObXZxbllSWFJGYzVwNFpSYlJpelVfaU5BQjVKNDVhTHdYYWFnVzVXVGZwaHdkaGpjdUIzUWtscU1WYjZodDc3d3JfR095LTc5MU9Fb2xob3FCTU03TWJKRU4tWmJNaWtSWnBCbElRQ3hUZEdORGZVTjljZDdmZl9wSFJ3WUtmeDN4N2dEYXpDUE55Ml9IejhpU0lB?oc=5",
-      "published": "2026-11-07T21:30:08+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Les Echos",
-      "title_original": "Électricité et échéances politiques à venir",
-      "summary_original": "Électricité et échéances politiques à venir Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdXFtMGtoRnREX2ZUSFBBWFBqWlVNb25mMFlHQWFrS3lsVmVIX3JqeHVoeG5GR2lyVUhMNGFyRnE1R19qNXgxREhYcHBNWmhEazM4ejAyOTdleWFFQzFLTFEwQVZTNnRoYml2Tm1BZDNXQVRON0w3ZzVacDZmMzB3QzVHMGxvcXV1c1o4aDA5RlJwSzB6akdWcnhyRG1qYnEyNDZYQTk0SG4?oc=5",
-      "published": "2026-11-07T21:07:36+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
       "source": "Le Figaro",
-      "title_original": "EN DIRECT - France-Fidji : Dupont et les Bleus ont pris le large mais perdent Ntamack sur blessure",
-      "summary_original": "Le XV de France accueille les Fidji, ce samedi, à l’occasion du retour du Championnat des nations.",
-      "url": "https://www.lefigaro.fr/sports/rugby/live/championnat-des-nations/2026/949584/france-fidji",
-      "published": "2026-11-08T06:13:03+09:00",
+      "title_original": "Les notes des Bleus après France-Fidji : Dupont le patron, Moefana en bulldozer, Falatea efficace",
+      "summary_original": "À l’issue de la victoire des Tricolores ce samedi face aux Fidjiens (54-17), retrouvez les notes des joueurs français attribuées par nos spécialistes rugby.",
+      "url": "https://www.lefigaro.fr/sports/rugby/xv-de-france/les-notes-des-bleus-apres-france-fidji-dupont-le-patron-moefana-en-bulldozer-falatea-efficace-20261107",
+      "published": "2026-11-08T08:04:55+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Le Figaro",
-      "title_original": "EN DIRECT – PSG-Troyes : Paris fait (enfin) céder l’Estac, ambiance magique au Parc pour les 35 ans du Virage Auteuil",
-      "summary_original": "Le Paris Saint-Germain accueille Troyes ce samedi pour le compte de la 10e journée de Ligue 1. Un succès permettrait aux Parisiens d’être seul leader du championnat.",
-      "url": "https://www.lefigaro.fr/sports/football/live/ligue-1/2026/2640646/paris-sg-troyes",
-      "published": "2026-11-08T06:13:03+09:00",
+      "title_original": "France-Fidji : du travail bien fait par les Bleus, mais la tuile Ntamack",
+      "summary_original": "Une semaine avant d’affronter les redoutables Springboks, le XV de France a lancé sa deuxième partie du Championnat des nations en dominant les Fidjiens, ce samedi, à Lyon. Mais a perdu un nouveau joueur : l’ouvreur toulousain.",
+      "url": "https://www.lefigaro.fr/sports/rugby/xv-de-france/france-fidji-du-travail-bien-fait-par-les-bleus-mais-la-tuile-ntamack-20261107",
+      "published": "2026-11-08T08:04:55+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Le Figaro",
-      "title_original": "EN DIRECT - Raphaël Glucksmann estime que la large coalition suggérée par Emmanuel Macron «décrédibilise la politique»",
+      "title_original": "France-Fidji : les Bleus perdent Romain Ntamack sur blessure",
+      "summary_original": "Le Toulousain s’est blessé sérieusement à l’épaule ce samedi, à Lyon, lors de la rencontre de Championnat des nations contre les Fidji.",
+      "url": "https://www.lefigaro.fr/sports/rugby/xv-de-france/france-fidji-le-xv-de-france-perd-romain-ntamack-sur-blessure-20261107",
+      "published": "2026-11-08T08:04:55+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "France-Fidji : en vidéo, le résumé de la rencontre et les huit essais des Bleus",
+      "summary_original": "EN VIDÉO - Découvrez les essais tricolores à l’occasion de la rencontre de Championnat des nations contre les Fidji, ce samedi, au Groupama Stadium.",
+      "url": "https://www.lefigaro.fr/sports/rugby/xv-de-france/france-fidji-gros-falatea-grandidier-nkanang-les-essais-des-bleus-en-video-20261107",
+      "published": "2026-11-08T08:04:52+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Pologne: une fusillade à Cracovie fait au moins 6 morts et une quinzaine de blessés, le tireur «fasciné par les idéologies d’extrême droite» neutralisé",
+      "summary_original": "Un tireur à bord d’une voiture a ouvert le feu sur des piétons à Cracovie, faisant six morts et une quinzaine de blessés, avant d’être neutralisé. 3 corps supplémentaires, qui pourraient être ceux de sa famille, ont également été retrouvés dans son appartement.",
+      "url": "https://www.lefigaro.fr/international/pologne-2-morts-et-10-blesses-a-cracovie-donald-tusk-evoque-une-fusillade-tragique-le-tireur-a-ete-interpelle-20261107",
+      "published": "2026-11-08T07:57:29+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Fusillade en Pologne : 3 corps supplémentaires retrouvés au domicile du tireur",
+      "summary_original": "Il pourrait s’agir des corps de la famille du tireur, selon le premier ministre Donald Tusk. Cet homme a abattu 6 personnes et en a blessé une quinzaine d’autres ce samedi à Cracovie.",
+      "url": "https://www.lefigaro.fr/international/fusillade-en-pologne-3-corps-supplementaires-retrouves-au-domicile-du-tireur-20261107",
+      "published": "2026-11-08T07:55:27+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Présidentielle 2027: plus de soixante parlementaires centristes appellent à une primaire contre les «extrêmes»",
+      "summary_original": "Gabriel Attal, Bruno Retailleau et David Lisnard sont désormais favorables à cette primaire. Mais Edouard Philippe, en difficulté dans les sondages, s’y oppose.",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-plus-de-soixante-parlementaires-centristes-appellent-a-une-primaire-contre-les-extremes-20261107",
+      "published": "2026-11-08T07:21:53+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Raphaël Glucksmann estime que la large coalition suggérée par Emmanuel Macron «décrédibilise la politique»",
       "summary_original": "Le président de la République «aurait mieux fait d’organiser un grand moment d’unité nationale après l’attentat raciste de Trappes plutôt que d’imaginer de telles combines politiques», grince Raphaël Glucksmann.",
       "url": "https://www.lefigaro.fr/elections/presidentielles/en-direct-melenchon-lfi-la-france-insoumise-presidentielle-2027-campagne-edouard-philippe-gabriel-attal-rn-marine-le-pen-20261107",
-      "published": "2026-11-08T06:07:03+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "EN DIRECT - Colère sociale : 360 personnes interpellées en France",
-      "summary_original": "70.000 policiers et gendarmes étaient mobilisés ce samedi 7 novembre et espèrent contenir de nouveaux débordements.",
-      "url": "https://www.lefigaro.fr/actualite-france/en-direct-acte-iv-des-gilets-jaunes-syndicats-mouvement-social-contre-la-vie-chere-casseurs-blacks-blocs-crs-manifestation-paris-place-de-la-concorde-20261107",
-      "published": "2026-11-08T06:07:02+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "Menacé par les commissions d’enquête des démocrates après sa défaite aux midterms, Donald Trump crie au « chantage »",
-      "summary_original": "Ces enquêtes pourraient conduire à des procédures d’« impeachment », qui auraient toutefois peu de chances d’aboutir.",
-      "url": "https://www.lefigaro.fr/international/menace-par-les-commissions-d-enquete-des-democrates-apres-sa-defaite-aux-midterms-donald-trump-crie-au-chantage-20261107",
-      "published": "2026-11-08T06:06:12+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "Pologne: une fusillade à Cracovie fait au moins 6 morts et une quinzaine de blessés, le tireur neutralisé",
-      "summary_original": "Un tireur à bord d’une voiture a ouvert le feu sur des piétons au hasard à proximité de la place du marché principal de Cracovie, faisant six morts et une quinzaine de blessés, dont deux policiers. Le ministre de l’Intérieur a évoqué une possible fascination de l’auteur des tirs pour «les idéologies d’extrême droite».",
-      "url": "https://www.lefigaro.fr/international/pologne-2-morts-et-10-blesses-a-cracovie-donald-tusk-evoque-une-fusillade-tragique-le-tireur-a-ete-interpelle-20261107",
-      "published": "2026-11-08T06:03:47+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "Israël : le président charge Gadi Eisenkot, principal opposant de Benyamin Netanyahou, de former un gouvernement de coalition",
-      "summary_original": "Le premier ministre sortant a jugé dans une allocution vidéo qu’un tel gouvernement entre le bloc d’opposition et les partis arabes «démantèlerait» l’État d’Israël.",
-      "url": "https://www.lefigaro.fr/international/israel-benyamin-netanyahou-affirme-qu-un-gouvernement-avec-les-partis-arabes-demantelerait-l-etat-hebreu-20261107",
-      "published": "2026-11-08T05:55:09+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "Israël : Gadi Eisenkot, l’« anti-Bibi » appelé au pouvoir",
-      "summary_original": "PORTRAIT - Après des législatives serrées, le principal opposant à Benyamin Netanyahou a été appelé à former un gouvernement de coalition. Moins charismatique que le chef du Likoud, il a pour lui sa réputation d’intégrité et son image d’homme à poigne.",
-      "url": "https://www.lefigaro.fr/international/legislatives-en-israel-gadi-eisenkot-l-anti-bibi-qui-pourrait-prendre-le-pouvoir-20261026",
-      "published": "2026-11-08T05:53:35+09:00",
+      "published": "2026-11-08T06:53:15+09:00",
       "via": "rss",
       "state_media": false
     },

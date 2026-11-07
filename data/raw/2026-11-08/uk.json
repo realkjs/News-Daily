@@ -1,14 +1,59 @@
 {
   "team": "uk",
   "team_name_ko": "영국팀",
-  "collected_at": "2026-11-08T06:13:02.042045+09:00",
+  "collected_at": "2026-11-08T08:06:16.746573+09:00",
   "headlines": [
     {
       "source": "BBC",
+      "title_original": "What we know so far after Krakow gun attack",
+      "summary_original": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T07:58:49+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
       "title_original": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
-      "summary_original": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment.",
+      "summary_original": "The BBC has asked the White House and UFC whether the president's job offer is genuine.",
       "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-08T06:12:30+09:00",
+      "published": "2026-11-08T07:29:37+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "summary_original": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T07:19:59+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Veterans shouldn't sleep rough this Christmas, Burnham says",
+      "summary_original": "Downing Street says the prime minister will personally write to councils on Armistice Day to urge them to draw up plans.",
+      "url": "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T06:50:58+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Can New Zealand's new government win over disillusioned voters?",
+      "summary_original": "The mood is low, and Kiwi's faith in politics even lower - with voters deserting the main parties at the polls.",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T06:36:16+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Wales let themselves down despite win - Lake",
+      "summary_original": "Captain Dewi Lake knows there is plenty to improve following a lacklustre 28-21 Nations Championship victory over Japan.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/crgj9323we9go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T06:03:07+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -27,51 +72,6 @@
       "summary_original": "Enzo Maresca left the City Ground on Saturday evening with chants of \"can we play you every week?\" ringing in his ears - the Italian's dream start as Manchester City manager is rapidly turning into a nightmare.",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-08T05:54:12+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BBC",
-      "title_original": "Norris takes pole in rain-delayed qualifying",
-      "summary_original": "McLaren's Lando Norris takes pole position for the Sao Paulo Grand Prix in a wet qualifying session at Interlagos delayed by nearly an hour and a half for heavy rain.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6gell5l7l3zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-08T05:48:40+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BBC",
-      "title_original": "Veterans shouldn't sleep rough this Christmas, Burnham says",
-      "summary_original": "Downing Street says the prime minister will personally write to councils on Armistice Day to urge them to draw up plans.",
-      "url": "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-08T05:26:54+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BBC",
-      "title_original": "What we know so far after Polish gunman opens fire in Krakow main square",
-      "summary_original": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-08T05:23:17+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BBC",
-      "title_original": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
-      "summary_original": "Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-08T04:34:32+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BBC",
-      "title_original": "US offers $20m reward for information about Iran's nuclear programme",
-      "summary_original": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
-      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-08T03:14:38+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -104,24 +104,6 @@
     },
     {
       "source": "Sky News",
-      "title_original": "Two teenagers arrested after boys chased with sword in Gloucester",
-      "summary_original": "Two teenagers have been arrested after a boy was attacked with a sword in Tuffley, police said.",
-      "url": "https://news.sky.com/story/two-teenagers-arrested-after-boy-injured-in-sword-chase-in-gloucester-13609229",
-      "published": "2026-11-07T23:14:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Sky News",
-      "title_original": "No clear winner after New Zealand general election",
-      "summary_original": "The New Zealand election count has ended without a definitive result as the two main parties remain almost deadlocked in the popular vote.",
-      "url": "https://news.sky.com/story/new-zealand-election-too-close-to-call-with-conservative-coalition-on-brink-of-slim-majority-13609199",
-      "published": "2026-11-07T22:00:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Sky News",
       "title_original": "Thousands turn out to greet Pope Leo as he begins Latin America tour",
       "summary_original": "Thousands of people greeted Pope Leo as he arrived in Uruguay at the start of a 12-day tour of Latin America.",
       "url": "https://news.sky.com/story/pope-leo-begins-latin-america-tour-less-than-a-month-after-lung-cancer-surgery-13609186",
@@ -130,21 +112,48 @@
       "state_media": false
     },
     {
-      "source": "Sky News",
-      "title_original": "Man appears in court charged with murder of missing woman",
-      "summary_original": "A man has appeared in court charged with the murder of a missing woman whose whereabouts remain unknown.",
-      "url": "https://news.sky.com/story/man-appears-in-court-charged-with-murder-of-missing-woman-carrie-mullane-in-northern-ireland-13609131",
-      "published": "2026-11-07T10:38:00+09:00",
-      "via": "rss",
+      "source": "ITV News",
+      "title_original": "Charles combines ‘doing’ role with figurehead stance of Elizabeth II",
+      "summary_original": "Charles combines ‘doing’ role with figurehead stance of Elizabeth II ITVX",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMnJ4azN1NUdNSUE3V2ZTclJGZUc4bmV5TmtjeEZTRWR4YVBKZldDbDlFWlF4MWE3b3lYdHJtUVBDRlhBTEhObGhVZnUtd1JVeHctTFpjcDFZNW5EQlJOMnVoaEt3U2xfRVVRWjZ5OGljUVJCZDNTVnZJVlV5UmRsbzdKRGMwbFBfVE1wc0Vnc3lWaTcycnRJM3BJVzlmWlhtc2dSMA?oc=5",
+      "published": "2026-11-08T07:00:00+09:00",
+      "via": "google_news",
       "state_media": false
     },
     {
-      "source": "Sky News",
-      "title_original": "Deep forces are reshaping America's electoral map - and what it means for White House race",
-      "summary_original": "This week's American midterm was a once-in-a-lifetime result.",
-      "url": "https://news.sky.com/story/deep-forces-are-reshaping-americas-electoral-map-and-what-it-means-for-the-2028-presidential-election-13608844",
-      "published": "2026-11-07T09:01:00+09:00",
-      "via": "rss",
+      "source": "ITV News",
+      "title_original": "PM pays tribute after shooting in Krakow in which British citizen died",
+      "summary_original": "PM pays tribute after shooting in Krakow in which British citizen died ITVX",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRFZQOS1uOFZBQjVwemFYUm1pekRETzRfNmwzakt1VEhUemdIY3hTVldpcTYwY0lBU0ZhODFvZFNWMXRESFZrcUNNSFI4MEw2ZFNZQmVvbDFQLWZFdmF5SExmbTBBSVMwOXpyMm1yeHAtYW1VSlBYcm1qVjZyaGlvXzQ4NkJhN1JMVnZXbnNRMFFhNXdWX2psbHZZNk5xZUtOMGxuQklZb2w5dw?oc=5",
+      "published": "2026-11-08T06:41:46+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "British citizen among six dead after mass shooting in Krakow, Polish police say | ITV News",
+      "summary_original": "British citizen among six dead after mass shooting in Krakow, Polish police say | ITV News ITVX",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObWV0b0V6d2RqcG1EN1dmekdENG0yU24xdXN6N3JMeFBHSjhrbVJzS1BqTGx5WFBiYXdwdkhoWnRYZUE2TUtxU3NIc2h3ZmpnZlA5REdIMHpEOV81eDN1TzdteVZNeG8zLUZrVFNuSmFkVXdNZS1pbHNSbUdpVmt1U0tlWUc5V1lQX1dWMnQ3VTd0cFlFTVFMc3RyQm1CeGttTHlnc1Y5d3JkS0F6a3BqaGRBMTk?oc=5",
+      "published": "2026-11-08T06:17:45+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "King and Queen lead applause at Festival of Remembrance",
+      "summary_original": "King and Queen lead applause at Festival of Remembrance ITVX",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSzc2TThDSEd5TTFsTUVibEJlYXE4c294S3RKM0p0SnM1Y3ZJVXZZRVdGYTkzbjF4S2VRS0h4cEtkUTB3aGdyOFhTc3N5c2EyTUdZbFlHLTFuUFpnc3E5UjFJUTVlRUdybnRsWmJQZllwOFU1UGhfR2o2cWJCM296ZzBfN2pIRUxKZUd3bmd2MXhRNHI2dmc?oc=5",
+      "published": "2026-11-08T06:12:50+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "US military says it fired on commercial vessel in Gulf of Oman after it attempt… | ITV News",
+      "summary_original": "US military says it fired on commercial vessel in Gulf of Oman after it attempt… | ITV News ITVX",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTldsSEUzQUVnT290YXBuTXpsRWZEOVpHRHk1TXd1UmZaQTNSNG1OUXRIV1VLY1l3MFRYdkUxaHNhLVVZUklScldjTHNFU3N2bTY3QjZ3S0h2b3dBUjdILVVlbktHX2kyRnlRR2UzVFM2WkJ3VEhYZm80RjNfS2dzMG41X2NJUmxsRl9sS0FzU25oMWtjTFFSSXhsd0RDUEgwTDBKTXd0NnBTWk0wZ2RFVnpEZWlPVHJETlJsWk9yeHQ0LTY0Qm1sS0ZmY1Bvb0tLMXc?oc=5",
+      "published": "2026-11-08T06:01:00+09:00",
+      "via": "google_news",
       "state_media": false
     },
     {
@@ -167,55 +176,10 @@
     },
     {
       "source": "ITV News",
-      "title_original": "Nations Championship - Series 1 - Episode 22",
-      "summary_original": "Nations Championship - Series 1 - Episode 22 ITVX",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OdTRLZllmSjE3MWJ2eWo0ZXRsLW9UOTNVMTdjaFlxaVZmaE55V0s1dHM0WXV4Y3BVMEZiX0lrVWN0MjNXd05CZllpUnJ3QU16TjhRMTVmbUVEdEZtYWpXVEg5VHRXT1l1czVCWXB1LXJKV215ZkE?oc=5",
-      "published": "2026-11-08T05:24:17+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "ITV News",
-      "title_original": "ITV News Weekend Teatime - Series 11 - Episode 86",
-      "summary_original": "ITV News Weekend Teatime - Series 11 - Episode 86 ITVX",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40clBFX3pFODZIZEl5X205ajRtUU5jQ0ZOa3dyWEFJUW4tLThoSDh4U1VyVFRGaHpzOHZXcGZ6T2lTQkdBdjBOX0VmZnJWWmsxT3dFcVJRbl9KLWF3TXlZZlNCYWtmcXNmN3g0bGg2SktHeHVOM2VMeA?oc=5",
-      "published": "2026-11-08T04:52:13+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "ITV News",
-      "title_original": "Catch up on ITV News Central (East Midlands) - Saturday 7th November",
-      "summary_original": "Catch up on ITV News Central (East Midlands) - Saturday 7th November ITVX",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZGozZGRYbzBpNzQ2QzdnSVgtNGFZRGJaZkZQQlNXcms5SGxFdHp6Z3lJQkJpaXcwUXBxQ3hIV0lUUzBTOFdIVjlIZWFmLVFOWEdUaW9aNS1FdUMzcjN0UjZxUVhpdFNFcmpWMFZRR0ZiOWxqblNwQ3IwY0xrVmhnNThLLW9jNWxya2dlR0xlcHRmbGJuYm1TeERTSUk2THJ5ZHNKNE5R?oc=5",
-      "published": "2026-11-08T04:41:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "ITV News",
-      "title_original": "Donald Trump offers UFC boss job as his press secretary",
-      "summary_original": "Donald Trump offers UFC boss job as his press secretary ITVX",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdXVkdVljel9XOUp1bE5CcFF3U2NZeXFvUFBHSUdnQzBnS0hkakVfc1JHNzZPM0Jqa3VUZEdxbnZhZ0ExdkdFYzR2MHhHVDE5c1M4ZW50VUE1Y0g0aXpsM2xiT2hxcDBUX21DalBMNWRhQjQtSFZlUnhJMkhMMVliUGRTc21YWE16UzNmUkt3eTdrV200QUE?oc=5",
-      "published": "2026-11-08T04:40:12+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "ITV News",
-      "title_original": "Catch up on ITV News Central (West Midlands) - Saturday 7th November",
-      "summary_original": "Catch up on ITV News Central (West Midlands) - Saturday 7th November ITVX",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbjVQT0FBRVQ4QVBpRnhsR2FGaGl3VkFyNGJ5bEJxdEpMRVlLZUpTdjl3T290YmFWbVRPeHpNbV9CQ1VCblNpX1NMV0ZKSnhqamJYQVdXSTY4SVhtMDMwWnlibDhQa0EzcndIMTZsRGZGUFBjTk1qYS16Xzdfa0c2N05HZ1BIQ1l3QmthMXVhYlVvU1RaeWZtSlVqY1FKcmVicGM3MVVR?oc=5",
-      "published": "2026-11-08T04:39:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "ITV News",
-      "title_original": "Israel’s president taps opposition candidate Eisenkot to form a government, in … | ITV News",
-      "summary_original": "Israel’s president taps opposition candidate Eisenkot to form a government, in … | ITV News ITVX",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMFh4YURDRzNPUjREWlg0NXk2VURLUG80eE9tTnl4TkNIUEIwMGVaa3RLci1ESC1pc2hkN181bzZSdjIyRXcwVkNnZGE1Si1uU2QtS3pKZnhvLUgwVUM3WUJld0p3aDM5QWppQTIwWjRyNDlFM2t3QjdGUFZjQ3RfcmFWMklIWi1VdmpKb0FkVXRGUWpTOHNMSURDTDhBN2xEa3RDWFdpcnB4VlBOSlFfNGtIRFhhOV9pclE?oc=5",
-      "published": "2026-11-08T04:34:00+09:00",
+      "title_original": "Nations Championship Rugby Highlights 2026 - Series 1 - Episode 22",
+      "summary_original": "Nations Championship Rugby Highlights 2026 - Series 1 - Episode 22 ITVX",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSXhaQlROWGV4SWlDczNVaWV5ZFNuZ0xLQ2RUQklTdzhsYUdlOVJLaU1LLW42YVUwNXExbDVRbXVjTTRqQXNKU0VZY0tBeExrdG81ZTR2YjJQRXo0UG1YMEk5dEs2RHFFZkp0N1NEeHF4U2lNSTIyWktkNUZGeTN0ZnhJbWdZbEphUW42d0w4TjBkTjg?oc=5",
+      "published": "2026-11-08T05:38:06+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -293,74 +257,83 @@
     },
     {
       "source": "Reuters",
-      "title_original": "New Zealand preliminary vote leaves unclear who will govern",
-      "summary_original": "New Zealand preliminary vote leaves unclear who will govern Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeHN3TmpfLVFhTnlIdlNERm8zUnRzaExUZ0NDUGo4Q3JiR295dVNsRDgwRDVDUC1VaU12MzlpYVdiSXJOMVdFRy1nYTZDWWE4OVM3X1JIUV9vQ01YaTVoVlN4MzNMaXlIUWRDTUVyT1dMeW16d2dWYjlrVndFek5GanZtQWdSUUt0RkVwcFpJWTZkRWlnWUdPbEdZRlBaU283Nk5aQXptWG5DZ08ybG1nZkVn?oc=5",
-      "published": "2026-11-08T06:07:55+09:00",
+      "title_original": "France rout Fiji 54-17 to top Nations Championship section",
+      "summary_original": "France rout Fiji 54-17 to top Nations Championship section Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQak95cnlIVzhaM2lJNmtUYTlhMVN0T3NTeXlvYXVrbXFSSjRmc2NPQWdJMzFKWlBTMlFlUDJySTZvdFh1SzJ3YktVOHFxLS1BaXpxUEZ0dUlTbktGcU1mWU1UQVNaQm1EXzZRbWFSQlpSRm8weXM3emdoSExadjJwUG5XRUEzZ2lhRHQxSGlqUXJhX3dJSE4zOENXbkFnWlU?oc=5",
+      "published": "2026-11-08T07:53:03+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Reuters",
-      "title_original": "US midterm results in maps and charts",
-      "summary_original": "US midterm results in maps and charts Reuters",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mYlFQMWJNR3dHZEQ1QVZ5TEo4QnRWOHYwTE9UMGh2X2x4TV8xTk1VbWNJSWZzdkdjclZFdjBNZmE5UFhhQnU4dGh0eXloOVhCeTBkekRwQUUyTzVZNV96Uml0ZXZDbHB1RHExMkphQUtLRnl3cWNMYmwyYVE?oc=5",
-      "published": "2026-11-08T06:00:05+09:00",
+      "title_original": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government",
+      "summary_original": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHIwVVZqTlgycHFJTEhPM3g1WU5oWWtKelZsNW5aUEphdmpDRC1STjMxQmYyYjR5dkNZUVFiVFBfZ3J1Nm9HN0RmM25pOUlTMWJkWGZuVktLV3h5QkNmdEtrbUt5X2NBYXFuZC04TzhPZUJWLWVJeWJMM256ZWIxRENRczhNdEtIa2I2aF85VzJUejZMa1ZvVEFSZXZCQWJtZU1nTnBvaVl4cmNJTEhfcWpCNTFjMmotS090TzE1eXc?oc=5",
+      "published": "2026-11-08T07:49:13+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Reuters",
-      "title_original": "Scotland frustrated as winless streak against All Blacks continues",
-      "summary_original": "Scotland frustrated as winless streak against All Blacks continues Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSEQ3ZVBVZEc4WXRIdkpJRG02VzBZcVFhM3FlczBPOHNnOXlEN3ZqXy1OUGxEZUdzdWhpbVM4T24ybG5NTlhfNFNBaFFfQ1oxMEJjcEMweGViYW5keEt3Y2RYX0JaRHZrekhXVERBT2ktek5fbEJRYWlWOFQ1VmZEN2I1MWJGRm83SlJNeFpGekhwUHNmWnc1YkkzTUpTQTg3MUYxb1NUc0JPZw?oc=5",
-      "published": "2026-11-08T05:52:08+09:00",
+      "title_original": "Houthi-run health ministry says airstrikes kill 33 near Yemen capital",
+      "summary_original": "Houthi-run health ministry says airstrikes kill 33 near Yemen capital Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPck9CUTVBTUgyQVJnZUxobTVpZGxIdTBmaGNmOWpHVWt4NUF4SHYyTWlUS1g2QmZ5RUd0YmJHVVpPQUVqa1lzVlJ1SU9HUUpDdzh0SVNFRW9KanJEZDJycDA5cVhxV0NKWnA5TUEtS2tkcDF4MTNjTUstalQwLXg3TVJXb3d1VlpaTUN6N1BFWHFfUk1FNm42QWdBSndJNDdQQUdNNlZKUVlLTUN6RmQ0aXluNHNUQUxYTW9vV0ZfUEFHX2tjXzBwZkpZeXA?oc=5",
+      "published": "2026-11-08T07:48:58+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Reuters",
-      "title_original": "Poland in shock as six dead after mass shooting in Krakow",
-      "summary_original": "Poland in shock as six dead after mass shooting in Krakow Reuters",
+      "title_original": "High-scoring Roma move second with 3-0 win over Sassuolo",
+      "summary_original": "High-scoring Roma move second with 3-0 win over Sassuolo Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS1Z0S0oyZHZHRFV6dDJXZ3V0Vm5weEdad3RiVV9pcnRCSERJeG1VaU5WS1pUNGpONUI5aWt3TUp6cWtJaDhUNm05R3NIWm5kV25zenFqTm52eTRSQm5iTU4zWExRemdrTE94YkFLdlhCWW5KZ3lkQVYyeDBjMDI5M0dSU0JRakFyZmttdWQ0MUhCRWF6UFRvTkxjSWljSlkwR2liUEVTX0taQQ?oc=5",
+      "published": "2026-11-08T07:27:43+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Poland in shock after six die in Krakow mass shooting",
+      "summary_original": "Poland in shock after six die in Krakow mass shooting Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5",
-      "published": "2026-11-08T05:51:07+09:00",
+      "published": "2026-11-08T07:16:54+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Reuters",
-      "title_original": "Former youngest champion Fittipaldi hails Antonelli's rise",
-      "summary_original": "Former youngest champion Fittipaldi hails Antonelli's rise Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORUNHU2FMWVgtYkdWb1paZ2szblBrYTA5WFYxTlREelNmQzQwMWZiVjd3Rmtwa1R4U3VZd05kWmZmZHB3c0dMbXB2UzFHRzVTYUF1SWI1ckQ2M2V4TFBVZHYtQmF0YWp5eHo1MEVXMUVIdDhWTlRaRHNNZ0xudFBLcXhSOUUwd2tkTnZReUlLWmZ3aGhHRmNwRmZzVHBXUDU4b2JZWm5YeHRSTGRBRmc?oc=5",
-      "published": "2026-11-08T05:43:44+09:00",
+      "title_original": "Norris on pole in rain-hit Brazil for third year in a row",
+      "summary_original": "Norris on pole in rain-hit Brazil for third year in a row Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUm9DUWswdjE3YnZMTWhZN3RGU1pRb2ZpZ2ppNUNGVG55WkZFVzI0YlVzUGpLUmZTZ0ZZYUxYWjV5eEtMWVEwVlBINkQ3OUhxRFVmRkRMbnhZWHFVZzBCaFctb1VRdXZ5aU9iWUJheEZBZUVQbVYyZktZTV8zNkplWjVINzViUVZScUl5b3M1cDBmUFZJcmNIczhR?oc=5",
+      "published": "2026-11-08T07:15:18+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Reuters",
-      "title_original": "Lacklustre Man City felled by Forest as title challenge stutters",
-      "summary_original": "Lacklustre Man City felled by Forest as title challenge stutters Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMTdVZGtnNlhwcWNpQlo4bFZ1a2JGb0ZURTJvc1FXWUdWZ3M5TzlmQVpzV0FydDVDZG1QaGEybmgtb3VfQ04tOUFnZDRKdTh6U3Fzblk3NGNLNkVIc0kwVFphNVVGeGV4eTJkQXhXaWFFSWttUERxU2ltQ0g5X1B3NFdNeWw2WnFCUlIwRVphYVZlOWVNRnBWdVA4LUZXWjg2YTg2dTYtSHc5c1BoazQ3ZQ?oc=5",
-      "published": "2026-11-08T05:31:44+09:00",
+      "title_original": "Parisian delight as capital clubs head Ligue 1 standings.",
+      "summary_original": "Parisian delight as capital clubs head Ligue 1 standings. Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSURKaVpoVGo2YVJSZnBTZkFlREhUc3p2c0F6RF9xTFJUVFBrT1RxcEcycDVaMXMtT1M1ZXczWHZqZkx1bUotRm1yZlEtaHlDaWdNdWt4M2I3M29zR3Z6WHBNTHBjSHQ2Ql9PUUoyTjFQcDJ0WFo4RElXbnhmWE1yUEZ3T0NsV0MyNWZlOFNVWXRmYUFvWi02MmhPOFVhXzFmZVN5am9R?oc=5",
+      "published": "2026-11-08T07:11:44+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Reuters",
-      "title_original": "Tandy admits Wales need vast improvement despite Japan win",
-      "summary_original": "Tandy admits Wales need vast improvement despite Japan win Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQmFkdWFCWXNkN1dZNFVQb3doSGM1UkgzVmRDLU5yVElYUEhuUVpkdUFBYmJvOExwdzdkd1laMVllNXpLSDdqU3ZwOHFXbWttYlY3cEpzYUdfeHNRTGFBb1FDcXd3bmhFdHhYWUdUTmFTOHVZMlRtNGRkeUNBbjJ1ZWg0ZzJjZkhsY1REbFdJVjNxMzNQY0RPMXk4RGltQzhDOWJ3?oc=5",
-      "published": "2026-11-08T05:23:43+09:00",
+      "title_original": "Microsoft Corporation (MSFT.O) | Stock Price & Latest News",
+      "summary_original": "Microsoft Corporation (MSFT.O) | Stock Price & Latest News Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mc1U3MkxiZ00yS0FLaXVrTG1GRkFVdFRNTVRBV2cxQm1vSGl4bThaMXdGRHI2Q09oUkpsTE5mcElfN2ppbnlkcTQ2eE5jYlZETzBnNTdCN2lUNDluNkE?oc=5",
+      "published": "2026-11-08T07:07:50+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
-      "source": "Reuters",
-      "title_original": "Explosions heard in Iran's Qeshm Island, Iranian media reports",
-      "summary_original": "Explosions heard in Iran's Qeshm Island, Iranian media reports Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObzVlZDVLRWxGVlQ1a2V1cTY5NXBjcjlJVzVqbjBKRGpRLUpnWndzNlM5bFpUYjJaUU5UeG1OS2E3c205RVVNMDJaUWxoWFN2ODc1bVhnc096VFlpOFo1N1YwR2JGS2JQYURyQ3NHZEVZaFhvQU5IaWZ1VFZHRjZNTkstbVhiOTUyTDJKTjAySmE0N3FiUzZLUGJKdDdrcGllOTNmMEdHUC1DanlqZ3V5MA?oc=5",
-      "published": "2026-11-08T05:20:19+09:00",
-      "via": "google_news",
+      "source": "Financial Times",
+      "title_original": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
+      "summary_original": "American intelligence warned the tech boss was involved with executive recruited by China to gather information on US group",
+      "url": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1",
+      "published": "2026-11-08T06:41:05+09:00",
+      "via": "rss",
       "state_media": false
     },
     {
@@ -369,15 +342,6 @@
       "summary_original": "Isaac Herzog’s decision means opposition politician has 28 days to attempt to put together a ruling coalition",
       "url": "https://www.ft.com/content/bf737648-b974-4f87-ba0b-958f2aff1163?syn-25a6b1a6=1",
       "published": "2026-11-08T06:03:47+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Financial Times",
-      "title_original": "Trump asks UFC boss Dana White to be new press secretary",
-      "summary_original": "US president signals combative approach in wake of midterms drubbing of his party",
-      "url": "https://www.ft.com/content/52c3c7ac-f0ee-4b90-a2c8-68e76d120a79?syn-25a6b1a6=1",
-      "published": "2026-11-08T05:33:52+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -437,17 +401,44 @@
     },
     {
       "source": "The Guardian",
-      "title_original": "Strictly Come Dancing week seven – live",
-      "summary_original": "Jaime Winstone is missing this week due to an injury, but the Latin and ballroom bonanza goes on. Brace for music by J-Lo, Leona Lewis and Coldplay Close your curtains on any fireworks and concentrate on the dance pyrotechnics instead. We’re about to be beamed over live to Elstree Studios … Tomorrow night’s results show includes an annual and much-admired Strictly tradition: a poignant group dance",
-      "url": "https://www.theguardian.com/tv-and-radio/live/2026/nov/07/strictly-come-dancing-week-seven-live",
-      "published": "2026-11-08T06:01:34+09:00",
+      "title_original": "European football: Mbappé eases Real Madrid past Valencia to move joint top",
+      "summary_original": "Valverde opens scoring in 3-0 victory for Real Madrid Bayern beat Mainz but Neuer’s record-breaking day turns sour Kylian Mbappé scored for the seventh match running as Real Madrid pulled provisionally level on points with La Liga leaders Barcelona after a 3-0 win at 10-man Valencia on Saturday. Reigning champions Barça visit Atlético Madrid , third, on Sunday, aiming to move back clear of the cha",
+      "url": "https://www.theguardian.com/football/2026/nov/07/european-football-bayern-beat-mainz-but-neuers-record-breaking-day-turns-sour",
+      "published": "2026-11-08T07:30:08+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "The Guardian",
-      "title_original": "Lando Norris claims pole for F1 São Paulo GP as rain disrupts qualifying",
-      "summary_original": "McLaren driver fastest ahead of Mercedes duo Antonelli to start on front row alongside Norris Lando Norris took pole position for McLaren at the São Paulo Grand Prix at Interlagos, with George Russell setting the second fastest time. Norris put in a strong lap in very tricky wet conditions during a qualifying session that took two and a half hours to complete because of heavy rain. Russell, though",
+      "title_original": "Scottish roundup: Naderi fires Rangers past St Mirren to keep pressure on Celtic",
+      "summary_original": "Rangers win 2-0 to go one point off top spot Aberdeen slump to 4-0 defeat against Hibernian Rangers banished their recent away day blues with a solid 2-0 win at St Mirren . Draws against Dundee and Hearts in their last two Scottish Premiership games away from Ibrox had blemished their title challenge, but Derek McInnes’s side were determined to leave Paisley without a mark on them. Continue readin",
+      "url": "https://www.theguardian.com/football/2026/nov/07/scottish-premiership-roundup-rangers-st-mirren-aberdeen-hibernian-dundee-united-motherwell-st-johnstone",
+      "published": "2026-11-08T07:08:26+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Truro City game at Folkestone called off after Yassine En-Neyah has medical emergency in warm-up",
+      "summary_original": "National League South match postponed Player now ‘stable and chatting’ in hospital Truro’s National League South game at Folkestone Invicta was called off after the visitors’ midfielder Yassine En-Neyah had a medical emergency and was taken to hospital. The 26-year-old was transported to the William Harvey Hospital in Ashford for treatment but was responsive on Saturday night, according to an upda",
+      "url": "https://www.theguardian.com/football/2026/nov/07/yassine-en-neyah-truro-folkestone-national-league-south-medical-emergency",
+      "published": "2026-11-08T06:28:52+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
+      "summary_original": "Suspect was influenced by far-right ideology and held ‘ultra-nationalistic’ views, says Polish interior minister Six people have been killed and 16 wounded after a gunman opened fire in a busy market square in Kraków, authorities said, in what Poland’s defence minister called an “act of terror” on the people of the city. The suspect, a 25-year-old Polish citizen, opened fire with an automatic weap",
+      "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+      "published": "2026-11-08T06:19:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Lando Norris claims F1 São Paulo GP pole as ‘crazy’ rain disrupts qualifying",
+      "summary_original": "McLaren driver fastest ahead of Mercedes duo Antonelli to start on front row alongside Norris Mastering the most treacherous of conditions at Interlagos, Lando Norris had the edge to take pole position for McLaren at the São Paulo Grand Prix, having bested a downpour that tested every driver. But with more rain predicted for the race on Sunday, it remains wide open from the front to the very back ",
       "url": "https://www.theguardian.com/sport/2026/nov/07/lando-norris-claims-pole-for-f1-sao-paulo-gp-as-rain-disrupts-qualifying",
       "published": "2026-11-08T05:53:55+09:00",
       "via": "rss",
@@ -455,19 +446,10 @@
     },
     {
       "source": "The Guardian",
-      "title_original": "Steve Tandy warns Wales to be more ruthless despite victory against Japan",
-      "summary_original": "Wales 28-21 Japan Head coach wants more in New Zealand Test Steve Tandy has admitted there is no hiding from his team’s below-par performance ⁠in their 28-21 home Nations Championship victory over Japan on Saturday where they looked flat at times and kept their ⁠opponents in the ⁠contest. Wales ran ​in four tries to collect a bonus point and although it was a third win in five games, the head coac",
+      "title_original": "Steve Tandy warns Wales to be more ruthless after edgy win against Japan",
+      "summary_original": "Wales 28-21 Japan Head coach wants more in New Zealand Test Steve Tandy has admitted there is no hiding from his team’s below-par performance ⁠in their 28-21 home Nations Championship victory over Japan on Saturday where they looked flat at times and kept their ⁠opponents in the ⁠contest. Wales recorded a bonus-point win as Josh Adams twice, Archie Griffin and Louis Rees-Zammit crossed, but they h",
       "url": "https://www.theguardian.com/sport/2026/nov/07/wales-japan-nations-championship-rugby-union-match-report",
       "published": "2026-11-08T05:52:09+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "The Guardian",
-      "title_original": "Kraków shooting latest updates: six killed and more than a dozen injured, police say",
-      "summary_original": "Polish Prime Minister Donald Tusk heads to the city after four women and two men are killed and more than a dozen people injured Tom Rose, the US ambassador to Poland, wrote on X: We are just learning details of the horrific mass shooting in Kraków, a savage and murderous attack that’s shattered the peace of Poland. America stands with Poland at this dark hour as Poland stands with her beloved cit",
-      "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
-      "published": "2026-11-08T05:45:40+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -490,20 +472,11 @@
       "state_media": false
     },
     {
-      "source": "The Guardian",
-      "title_original": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
-      "summary_original": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority Israel’s president has ⁠chosen Gadi Eisenkot, prime minister Benjamin Netanyahu’s ⁠strongest rival, to ⁠try to ​form a new government, after a deadlocked election that left neither man ⁠with a clear path to power. Isaac Herzog’s office said he had informed Eisenkot, the leader of the Yas",
-      "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
-      "published": "2026-11-08T04:49:39+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "The Guardian",
-      "title_original": "Delap’s Nottingham Forest stunners hand Manchester City third league defeat in a row",
-      "summary_original": "Wait long enough, and results will come to reflect performances. Manchester City may have won their first seven games of the season, but they always looked vulnerable, and now have lost three in a row. Nottingham Forest may have been second bottom but, other than the twin curses of missing chances and giving away daft goals, they seemed to be playing reasonably well. Put the two together, and the ",
-      "url": "https://www.theguardian.com/football/2026/nov/07/nottingham-forest-manchester-city-premier-league-match-report",
-      "published": "2026-11-08T04:30:43+09:00",
+      "source": "The Telegraph",
+      "title_original": "Lando Norris takes pole at Interlagos after chaotic qualifying session",
+      "summary_original": "Lando Norris takes pole at Interlagos after chaotic qualifying session",
+      "url": "https://www.telegraph.co.uk/formula-1/2026/11/07/f1-sao-paulo-gp-qualifying-live-latest-lap-updates-brazil/",
+      "published": "2026-11-08T06:41:24+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -571,83 +544,137 @@
       "state_media": false
     },
     {
-      "source": "The Telegraph",
-      "title_original": "‘Air Caluori’ puts on show as England A offer exciting glimpse into future",
-      "summary_original": "‘Air Caluori’ puts on show as England A offer exciting glimpse into future",
-      "url": "https://www.telegraph.co.uk/rugby-union/2026/11/06/england-a-v-argentina-xv-live-score-latest-updates/",
-      "published": "2026-11-07T07:15:01+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
       "source": "The Times",
-      "title_original": "No early teaching of GCSEs in new curriculum, schools told",
-      "summary_original": "No early teaching of GCSEs in new curriculum, schools told The Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWnpVbUpsSUE2dmMzWFRMdG5Hd0FOa2p1MGNlRTJKWXpmZUdsOTVMWDNDV3NaQWVmcWdBaTN5aXhmVzNMUzl3OFJsN2VRSXRrbTNiSHlKSmtjbEFnQzFOSmQ5RUc0eC1zbEFESUg0WVBtSER6RElSQlQzY3pHYjF5ZzA0dVVhbFpqLWg5YVJZcHI5Qi03Sl95Sw?oc=5",
-      "published": "2026-11-08T06:05:00+09:00",
+      "title_original": "I’m a sexual assault survivor. A conviction doesn’t end the trauma",
+      "summary_original": "I’m a sexual assault survivor. A conviction doesn’t end the trauma The Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc3BkSHhvSFZpOVdIRFJ2Qjd0OEJJb0h0eUY2WXlRSUZVZFpaelJrOXl5ZS15VkNpcFM5eXMtMjlPeGluc0pZMFZ5NUV0ZTlSeFVfRGFkRFhveGsyTUhPSWpJMHR0NzBSaVA1WnhnQkFiNzhseTVVbDBpVlcxLVhLMVhMdnBPT1I2ZTdnV01seG1QRHc?oc=5",
+      "published": "2026-11-08T07:45:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "The Times",
-      "title_original": "This England back three are a real threat — if midfield can set them free",
-      "summary_original": "This England back three are a real threat — if midfield can set them free The Times",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc3hzOExDc0pXeHhXdXdzTWFPNDFXOWhpaHFDbHJVUnNXTkRvVTVFekgwMUg2TzNDZWVKOWZDODg0Zll5UWl1aGhXU2J0WGRNMEtpallaY1hSSGM4b25aS3JZNkRtWkhSTHdNSFJxMDB2WVpUT2FDVXE3dElzOGJCdkF2dFdwcnl3eFdVQ0JVWTVSR0d3cDgza1A2MGJsY3JuTGVWYTExVEpCOC1qdXVN?oc=5",
-      "published": "2026-11-08T06:00:00+09:00",
+      "title_original": "‘Always by my side’",
+      "summary_original": "‘Always by my side’ The Times",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4a0VxWEt6bzNaZjdCbV9iUzlxZHpVbEQ1T2tlRjRwTG5VZ3JiOWJQNWh1d1U3eDRHZlc5SnJpSklrd2xnU3BiOXdiSEdlbHk4dG9sZmI3ZDFrSjVoVm8wRTQ5LTVDQXVsUVZQYkg3Y2otQUk?oc=5",
+      "published": "2026-11-08T07:34:59+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "The Times",
-      "title_original": "Trump offers UFC chief Dana White press secretary job",
-      "summary_original": "Trump offers UFC chief Dana White press secretary job The Times",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRkxjYXpvaWR6bGhLV0xyVk1YMTBJb2hMOTFFTzdYWWw1RjhsR3FndUFRakQ1b2l0Vm4tMzVmR2RGQU9zUlhkcV9wX001X3JkU3pZbXQ2M3loSGtKeElKNGUtN25hY3NmdFkzNWRHR195eWxiQWdaYk9LcEFWdXZTeTRqZTdnQ0NEUEVuZmNmZm5mRnFyX0pCenRKalk0ZVBCSEVvQnZ3VmxaNGpWblFz?oc=5",
-      "published": "2026-11-08T05:59:39+09:00",
+      "title_original": "Prue Leith’s recipe for better school dinners: get pupils to cook",
+      "summary_original": "Prue Leith’s recipe for better school dinners: get pupils to cook The Times",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUjViREtoZE10bG0yelVKTV9oSnFldnB2MzBEUUYwVnhYNjFZMFZTbFZzOHJ5WVVBUjYzTGQxUlktWm9tR1RDcjJIZHNuTEFtS1Y5RFo1am45XzRBZV9sbjFFd0lOSzNCX0s4YUQtaG9PUmpZUUU3NGhfOUNiNkYyRW1yaUJ5RnBsYkNoNFM3d2I4QmhFYmp0YnFOSm1tRDhwMzFCNlVZZTlYYzNLUUZoeTlEOHotWE1l?oc=5",
+      "published": "2026-11-08T07:30:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "The Times",
-      "title_original": "Cathy Newman: Why did it take months to arrest my stalker?",
-      "summary_original": "Cathy Newman: Why did it take months to arrest my stalker? The Times",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHlIczdSMGNYQnBsUUl0OV81NXBVNXNuV2owUXo2RVh4MkoyaWgza1JQQWRSMHEwZWVoNkVFQTduWVV5aVdsdUdycHhCZnBuMXlzcnJvSU9rdFNabkZLejVwRnJEN1B1NWQ0N1RuWU1iUkJNLWo0TU1hNmkwSUVfZHVRWk9TX2NwOTRKSE91SHFaM3JNcXd0ZW1sQzZ4OFd2N2VCbWNaWjVoX1Zw?oc=5",
-      "published": "2026-11-08T05:50:55+09:00",
+      "title_original": "Russell Brand’s treatment of women was tolerated for far too long",
+      "summary_original": "Russell Brand’s treatment of women was tolerated for far too long The Times",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQnlkb2lTUmRBNjVnVkZDQ0UwSHpzc2hrcXpPek0zMHdPakxTdmZjWDJNc3EzZ21jSVRvajdPNU1WQWJ5NWFXRDBCNGxnR0U1bG9LMEpLclhIX0ZhM19yZWpfc3l6M0FQZzRVT0dsXzMwdDZiN0Z6dmU1eVU3aG9zT19lbkNKOGthNUxTOFVTcFVqQWhVdzRpdzltVUk?oc=5",
+      "published": "2026-11-08T07:18:30+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "The Times",
-      "title_original": "United Ireland to cost billions, says Fine Gael",
-      "summary_original": "United Ireland to cost billions, says Fine Gael The Times",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdm9MUGozMnU1VVJla3NiU3kzUXNXMmxRTHFFSkZkNU9zbUZqWkh0eFdUYTdsWXZLbWNCUDl0S1k3bHFVVDRVUzgzd083RFhrSmljblcxZzRod3V5SjE5OXB5RHBsRDNlcVEwMFpTMGhWYWYtdFpLWjd4MFNqNVFLM3VZRmw1N0ZWVzhxS1Rwa3ZVZDRfdUlkYmx3QUhZT01tUmFjM2YzTHI?oc=5",
-      "published": "2026-11-08T05:45:00+09:00",
+      "title_original": "Latest news & breaking headlines | The Times and The Sunday Times",
+      "summary_original": "Latest news & breaking headlines | The Times and The Sunday Times The Times",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE1rUkwwNVRWQUpTalMyTmJSWVRxR2VTTHQ2RmV1amVFSzlPXzY3SUdfTzVzM0dNNXVzUzZscWV3?oc=5",
+      "published": "2026-11-08T07:06:57+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "The Times",
-      "title_original": "Tories v Reform: the bust-up you won’t be able to look away from",
-      "summary_original": "Tories v Reform: the bust-up you won’t be able to look away from The Times",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaTB4cUZfNEk3dEw3dlMzd28td0V1VEYtS29rd3RiRm94Umd0SVNqdHNodGtVb2Q2cUtCYjNtdDMtbkVNVkxCXzBPYjNJazBkOXJIazk2VGlNU1BkYWVjVTNiOEg4dnhLMEZaaUFnYkRtcEwwbENaNFpvdzg3bFlQNVhUT3hxQkhDVjFkcGNGT3pjc2pvS3lMU2s2ZFpSQnlaR01RamI3cUs0ZWc?oc=5",
-      "published": "2026-11-08T05:40:42+09:00",
+      "title_original": "Jeremy Clarkson: Stop the driverless cab — I want to get off",
+      "summary_original": "Jeremy Clarkson: Stop the driverless cab — I want to get off The Times",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVkZnZi1faW9pcnVXdl9VYU9yVDhYaGlZZFVJYjFOWmtuUmpzb2FCdVhsbWRIQUZaWDNSVzliNzVFbmZLc3p1Umx6TzVlTVhuc3VlWEd1WFA3QjN5ckdsWkRvT2tGVDhVTFZySUt4VXdnNFhnUEdPRW9vdlY4WkVDdjN6R0dGN0RwcXk0bDZZZ2JDb2ZpTm1iUzNEamRGUVVESjN0QUp0dnlNNWxUN0F3aWxUZmR2eEZVMC1n?oc=5",
+      "published": "2026-11-08T07:00:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "The Times",
-      "title_original": "Ger Gilroy laughs off tracksuit row as RTE bosses leap to his defence",
-      "summary_original": "Ger Gilroy laughs off tracksuit row as RTE bosses leap to his defence The Times",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOGVOUllmN1R6RjhZUm5PV2g4WHNQejA2bzVLSERYTldNaGhBT3UzRTdvUUxXRlUyaGJpRjNKazhFcC1hZ01NYnBCSzM2amEtZjd1NHpabHl0Y0FSS3h2dmJnb2JKWHdxaUJadzF3elQ4WVBkUzBHcHF6RlFva3VpZHRidlAwckNPcTVOY3ZiaklGUDVKNDRnU3lWeWZLekg3YzNaSGtlQVQ?oc=5",
-      "published": "2026-11-08T05:20:00+09:00",
+      "title_original": "Shaun Usher: the ultimate man of letters on a passion that went global",
+      "summary_original": "Shaun Usher: the ultimate man of letters on a passion that went global The Times",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWmstODVuM1NlSmVacElxTjkzRE9EVnl2aFI4bmZPaEVtMndUZlhMcnhfeTNUWkVuZTJsZE9HcGJ5NzMwSkFMSHFROGpPWElmeHpzOXhZRmdSbHotbU5zX2ZIZGVJdUxab1VLcGdHM1IyeTJRbWZsdDlpbncwTDdpbEEtRHBtbzNFWWRyV0tIZ1hEdEF4ZF9wdXB3ZmZ6ejhM?oc=5",
+      "published": "2026-11-08T07:00:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "The Times",
-      "title_original": "Russell Brand was protected by a cloak of progressive virtue",
-      "summary_original": "Russell Brand was protected by a cloak of progressive virtue The Times",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbzhrUmFHb0J1VmJNcjU3SmdWQWVkN2YzeXZ5eGFuNE5YZXgxdDhXNTRBTUJSQWtZZEw2Y1p3S3BXb1dEODBwYml1QnFQS254Q1g5UGpyN1lyWkVzRWU2dGRaaUpTcUkyZVNtLU5KU2hOTlpkTUJ4cWpFb3QzakF1V2lrZXhXLWpWNktTa1NENjc1TTl0THdKUzRVX053NGVoN0E?oc=5",
-      "published": "2026-11-08T05:00:00+09:00",
+      "title_original": "What happened to Bibby Stockholm, the boat that didn’t stop the boats?",
+      "summary_original": "What happened to Bibby Stockholm, the boat that didn’t stop the boats? The Times",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdWRzQXM1dktzT2NhcUJQbUxHbV8zM2k0RkV1SzZobE9Nb1MxMnlLSnh3ODBvUkJLNVU3bzRLakZ4bzVTdXhNY2VadTBGMXdKZDJnR1NsUk9BSF9ocXhrbElDdm9nVXdxQ0xOMUQ3Z0RleDJ6Z3EtcVBwblBoNklKcktTQTVJaHdqMTFYUHBQb2FrR0ZSTlF5T2ROa2gyQlZfbGc?oc=5",
+      "published": "2026-11-08T07:00:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Everything you need to know about wills",
+      "summary_original": "Everything you need to know about wills The Independent",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOEJjXzk0dG5faW16eVRsMUJrSnk0WVZadEYtdnVHRWZId0FqdGV2cDFVTFRBbEpta2VzZzlJVXMycGtmNTZZU3VyZGlGRVFNd2k3amdIQl9JUHV2WEU3NHNUYVhEOXRRZlVObkhzT0UybjJPSTFEWlgxelF0VVltTTNxS2Y4OVdfeGFsYjd4WXpzRzI0ZXdOOEJ2MEtxQzV1aWNkeEgtWnkwLWIxVUJwRThNaEdROVZkQXVFdVRYZnUxQQ?oc=5",
+      "published": "2026-11-08T07:59:07+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Man sues OpenAI and claims chatbot plotted with his wife to try to murder him",
+      "summary_original": "Man sues OpenAI and claims chatbot plotted with his wife to try to murder him The Independent",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2F3RTRSMi1kYmRkdjE0M3FIVDNDT0dtQUMxWGtRR0I4SVl3V0prd3dQeTJpQm9FcGswX1lWb1ppS1J6STRiWFp0TDlrVWUwMDdiTlBKaThkX1B0YVlWSE02ZkpjYkR1eVd6Q3dnMUY0YzNhWEVRZnM1WVVLME1OOFFLNTZMS2RBNEFJNjZTcnhVc0NPOVVycmFYczRUWW9uSDV1RzJma1NyMWNvakNn?oc=5",
+      "published": "2026-11-08T07:23:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Susie Wiles knew about Vance’s post blaming GOP midterms disaster on Iran days before being axed by Trump",
+      "summary_original": "Susie Wiles knew about Vance’s post blaming GOP midterms disaster on Iran days before being axed by Trump The Independent",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWC1zTVpYX2NUb3lKNE0yYTVLNGJabWFZRUUyQktsYlQxNTRNV2tuRExMSlZydlFXcms4QUR6X251WnNOY2dUSW0yNFc3OFUwbE9jZU1vXzhTeVhrRU5DbnowcjFOVnBPYmlsZ1lEQ0owQU9LX2FETElBVE1yLWJJampaamZ0RVpNZmZZc1NmcGZEaUpKNWxvM2JmTFd0cXVRYTV2OWF1dlViVTFhRENaRQ?oc=5",
+      "published": "2026-11-08T07:03:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Who is the Krakow shooting suspect ‘influenced by far-right ideology’",
+      "summary_original": "Who is the Krakow shooting suspect ‘influenced by far-right ideology’ The Independent",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT1A3cHl1b2d6Qnlub0tNb0pOVlphU0dkYTczMllUZFpRQWR1SGJUR09DSG11cy1yVmxGN3VkQlRSZXB4Ylo1cHhXak9aT2k4WC1EY1FDRV9peUpmWXZZTjNNMGRnS3RaYkRYTHlrOVY0a1lHRGtBTzBwaXR3bXpHZ3kwOWJ0R3JzM3puX0dXZ3BPdEFJcU1lX3ItSm1DaUd5STdjWjVjU00?oc=5",
+      "published": "2026-11-08T07:02:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "‘We heard about 20 shots’: Witnesses describe terror of Krakow shooting as six dead",
+      "summary_original": "‘We heard about 20 shots’: Witnesses describe terror of Krakow shooting as six dead The Independent",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZHczaWlLQmMyVi1MV1dNaUtIbzdxRHpTX2laamwyZ3NNSFlwLWs0SlZyRmJNa043YzVaNmRqQlM4Vzc2ZHIyc1k4TXAwVjZnb3dYWlNOdmJkOHFSSUhIZ29tRmYxRnE0U1pld2JKUGE4eUlsWGRuRFR2V2wyX2ViRFJHN0IxNllFOVZHbUNZdURhUW5mSy1UTk14NW9sbEZl?oc=5",
+      "published": "2026-11-08T06:29:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "What is the ‘veto’ Trump has vowed to use after midterm wipeout in Senate and House?",
+      "summary_original": "What is the ‘veto’ Trump has vowed to use after midterm wipeout in Senate and House? The Independent",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZGdzTHN4TzNNdkFWR3NFLXd0NHduM3gxS0hsbS1HdWVaRHlhTEJOeDRQRmUwU3RIWmpiUFlseHdFNUxUVFRqZE1mdmlxaENGc2NzLWdjYndFUG1wT29nYU0yZFFSa2F5ZE5PSWluamJsZVp0NndibHVOb0l6ZG1uY2MxSWFJWFQxSU5RaXBURDdCTmxFZHlaemRUbkdGRnUtbUxCZ2hldUZ3eG9CLUVJbXlxWVNqWE9jQXc?oc=5",
+      "published": "2026-11-08T05:56:11+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "F1 grid: Starting positions for Brazilian Grand Prix",
+      "summary_original": "F1 grid: Starting positions for Brazilian Grand Prix The Independent",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX3RZdjhrT2x3U1lJQ2tPWUxuVU1ueGozX3gxeVR2ckNWN3otaExSZHhCSnNyR0xualhSZ0l3eUlCZ3RlLVU1Zld4SEVkcktQUDBTVEVJNnpZaVphVHJ6Y0RTcF9kSHdpOWxMUkIwRW5qTWRUSUVabHBYQ01qbnBqRDZ6dlBadU5iQ1IzOS1hdFFoU0g4a1E5ektDNUJENkl6SlBNQVRZWUJxbHVN?oc=5",
+      "published": "2026-11-08T05:56:00+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -661,74 +688,11 @@
       "state_media": false
     },
     {
-      "source": "The Independent",
-      "title_original": "F1 grid: Starting positions for Brazilian Grand Prix",
-      "summary_original": "F1 grid: Starting positions for Brazilian Grand Prix The Independent",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX3RZdjhrT2x3U1lJQ2tPWUxuVU1ueGozX3gxeVR2ckNWN3otaExSZHhCSnNyR0xualhSZ0l3eUlCZ3RlLVU1Zld4SEVkcktQUDBTVEVJNnpZaVphVHJ6Y0RTcF9kSHdpOWxMUkIwRW5qTWRUSUVabHBYQ01qbnBqRDZ6dlBadU5iQ1IzOS1hdFFoU0g4a1E5ektDNUJENkl6SlBNQVRZWUJxbHVN?oc=5",
-      "published": "2026-11-08T05:27:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "The Independent",
-      "title_original": "‘Loud music’ could have caused bridge collapse in Bristol",
-      "summary_original": "‘Loud music’ could have caused bridge collapse in Bristol The Independent",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUkVoc3A1eHpPZloxYXFkWVBJVWJ4Y2tUVjNqVy1tNHF6bUZJN0hEMjE2azhmdlcyVFlILTIwckZsVnplZXU0TXh4cWpYOEI3VThQdVZCMWtfMER5cXc4ZjZ5N29BN21ibzNvb3o1TEFVcGQ5V3dZVEVDSVNHVDVOSncxekFReU40Z09vM3c5STlrbVVH?oc=5",
-      "published": "2026-11-08T05:25:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "The Independent",
-      "title_original": "Andy Burnham’s 10-year plan, like the nationalised trains, is running late",
-      "summary_original": "Andy Burnham’s 10-year plan, like the nationalised trains, is running late The Independent",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRGJNSXk1Y1JXSGhtbFY1N1d6RUNYZlloRG9sUTN5R0RuMHJsYloxV25LZnlrX2pDdDQzcDRzMTdxNi13eUUtRGQtSkZ4R0kyQzNjQVViZkIwRlV0Rm13ZGwyS2tqRXVkRXhSVmZGRDNmR3VGckZXMW9vX2pwY0JPT3ZoUDFhc1o4M2ZZOC1MbDZBcmdZc2tv?oc=5",
-      "published": "2026-11-08T05:13:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "The Independent",
-      "title_original": "Burnham considers rape trial law change after Russell Brand backlash",
-      "summary_original": "Burnham considers rape trial law change after Russell Brand backlash The Independent",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYnJhVTRydHZfSkR6M2NwcFBnTmZXQ2J2akFmbGxWTXdUTk5hS1BTaFpST0RxX29rN3VHdzlEWWttdkJaOWJQQVgxZjY5Z0VPSFdDOHM4SmFvcERPcFBVcWduRldzTlZNSDNob3VidEhoU0hXdHlmVU1oQnhZdzFKT1p6VmRTdHY5TXRPTnUycTJSTGxuUklMRHJfVFI0ZkdUU3c?oc=5",
-      "published": "2026-11-08T05:12:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "The Independent",
-      "title_original": "Phoebe Waller‑Bridge offers rent‑free London flat – on one condition",
-      "summary_original": "Phoebe Waller‑Bridge offers rent‑free London flat – on one condition The Independent",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcmJVQkdUVEFieDc1T2hoYk9DdzlheGItWHBLTVprbW5OX3RNMUtveDZ3S1d6VVc2c2E5NG96UldaVHBWYXFNLVBxaDRvMzRVTUhNVWVGU29nOE92SFNLSmY1M2t3WEF5NDVxYklKNU45dzRPbHh2dnExb295c2RzWTg3STVIV3VRQ042WnBGUkFGTkpRZmRLdnJzSUJtWUMtTzNWTVJWeUlCSkNtWkNkckJYaHRWdVQ0Vkdfd0lR?oc=5",
-      "published": "2026-11-08T05:07:12+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "The Independent",
-      "title_original": "Everything you need to know about wills",
-      "summary_original": "Everything you need to know about wills The Independent",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOEJjXzk0dG5faW16eVRsMUJrSnk0WVZadEYtdnVHRWZId0FqdGV2cDFVTFRBbEpta2VzZzlJVXMycGtmNTZZU3VyZGlGRVFNd2k3amdIQl9JUHV2WEU3NHNUYVhEOXRRZlVObkhzT0UybjJPSTFEWlgxelF0VVltTTNxS2Y4OVdfeGFsYjd4WXpzRzI0ZXdOOEJ2MEtxQzV1aWNkeEgtWnkwLWIxVUJwRThNaEdROVZkQXVFdVRYZnUxQQ?oc=5",
-      "published": "2026-11-08T04:59:07+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "The Independent",
-      "title_original": "Mikel Arteta identifies two missing elements that can raise Arsenal’s level",
-      "summary_original": "Mikel Arteta identifies two missing elements that can raise Arsenal’s level The Independent",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazFDcW52WjdJQUg3Nk9MSW5rQTliWHJ6blJVZW9oMHZQUy1ORXRYeWdfVzlNQWo0Sm9QRGNZclhDUEFsc25ETU5KSUlzR09oQXhPa0tNYkhWTFJFUlNOa0tEUTYzUFF0WTlPN0xLQmwxVjZYOTlnaE92c2xPbi1MZW51TlZGZ0ZfOWkyaG9fYjc5MTQwemRKaWJWcGphRTcyMU1FQ0tOY1BYLVFZZlVab0pXY3VlM25kcEVQdlBR?oc=5",
-      "published": "2026-11-08T04:35:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
       "source": "The Economist",
       "title_original": "Wipeout | November 7th 2026",
       "summary_original": "Wipeout | November 7th 2026 The Economist",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xcDgzX3JwaWJzbXBjd2xjMlFCdUtDMEhWOU0zcDBySE5zTWoyb2Njb1R2WTVabVFvbmlPckdUMF9oTGEzenFLNGFRN1FfY2lCTGRKX0tQQVpYREZkQllF?oc=5",
-      "published": "2026-11-08T05:35:04+09:00",
+      "published": "2026-11-08T07:05:04+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -779,19 +743,19 @@
     },
     {
       "source": "The Economist",
-      "title_original": "World in Brief: Stephen Miller is Trump’s new chief of staff; strong jobs growth in America",
-      "summary_original": "World in Brief: Stephen Miller is Trump’s new chief of staff; strong jobs growth in America The Economist",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWXVsYjNIUTNtc0pHWXNhQnhTUm54aWVpa09VMUNlZlo5XzBnZk9PNEhuU0pHNDlRV1hMLVp3OXZnakJ6ZzJPTDJlUjhkN0FQbVdHUW1UblpFd203b0pmdmJBTVlWaDNfYVJSckN4ei1LVWJ0NXpRcHhTUTV1MTh1c1d6X21HTlBDVjNxSy1BSnBsaGkyX2J3?oc=5",
-      "published": "2026-11-07T23:08:31+09:00",
+      "title_original": "Middle East & Africa",
+      "summary_original": "Middle East & Africa The Economist",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZGJkZ1BodENZVVd1R2ctQS00RW9kMUM5d3FsV2djZG95OF8xclFVZ0M2RXJXaEkxTWlVQ1FyZ0tWSFlIdksyMWhudUVGd1N0UU9DNmR2OUg4RXgzZFYxRHFwYTAya0p6cDEta29vRVFXQ0IxcFQ1aXpvY21HLXhaYjRvRFEzWHFHcXNzcWROZzhhTml1RzRMV0Z1XzI5aWwyQ1dGRXFURjE5eGt6SWk4ekZ6bVhrMG9i?oc=5",
+      "published": "2026-11-07T23:35:21+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "The Economist",
-      "title_original": "Middle East & Africa",
-      "summary_original": "Middle East & Africa The Economist",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd0F5cnl2QWVLdTRmU2tER2pqUkpHTnBZMmNXWmJ1eEVZcjdEa2dlYUZJc1F2WFZ6SGpXQmNhMU9NNjhudXZjMWFxaUsxazljelhjd0JGOVBLYUJXYTVTX3lrYVJ3S0ZiX0RaZUVmUzlNeDBFbWJxVUZEbEFxWVZVQldrVzc0czdYekVONUtsV0M1VE80V0p1X3ZWT3BiekR3Sno3UWVZU055cFZSTWttRTZzWkZEbnM0Qmc?oc=5",
-      "published": "2026-11-07T21:56:25+09:00",
+      "title_original": "World in Brief: Stephen Miller is Trump’s new chief of staff; strong jobs growth in America",
+      "summary_original": "World in Brief: Stephen Miller is Trump’s new chief of staff; strong jobs growth in America The Economist",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWXVsYjNIUTNtc0pHWXNhQnhTUm54aWVpa09VMUNlZlo5XzBnZk9PNEhuU0pHNDlRV1hMLVp3OXZnakJ6ZzJPTDJlUjhkN0FQbVdHUW1UblpFd203b0pmdmJBTVlWaDNfYVJSckN4ei1LVWJ0NXpRcHhTUTV1MTh1c1d6X21HTlBDVjNxSy1BSnBsaGkyX2J3?oc=5",
+      "published": "2026-11-07T23:08:31+09:00",
       "via": "google_news",
       "state_media": false
     }
