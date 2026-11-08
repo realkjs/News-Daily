@@ -1,14 +1,68 @@
 {
   "team": "de",
   "team_name_ko": "독일팀",
-  "collected_at": "2026-11-09T06:13:09.003154+09:00",
+  "collected_at": "2026-11-09T08:11:28.833449+09:00",
   "headlines": [
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Leverkusen gewinnt in Köln 2:1",
+      "summary_original": "Der 1. FC Köln rutscht immer tiefer in die Abstiegszone: Gegen den ungeliebten Nachbarn aus Leverkusen gab es eine 1:2 Heimpleite.",
+      "url": "https://www.sportschau.de/regional/wdr/wdr-1-fc-koeln-bittere-pleite-gegen-ungeliebten-nachbarn-100.html",
+      "published": "2026-11-09T08:00:17+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Stuttgart bezwingt starke Bremer - Füllkrugs Serie endet",
+      "summary_original": "Kein Füllkrug-Tor, keine Bremer Punkte: In Stuttgart haben die Werderaner erneut eine gute Leistung gezeigt, diesmal aber eine knappe Niederlage hinnehmen müssen.",
+      "url": "https://www.sportschau.de/fussball/bundesliga/mittelstaedt-tor-reicht-stuttgart-gegen-starke-bremer,spielbericht-vfb-stuttgart-werder-bremen-106.html",
+      "published": "2026-11-09T08:00:17+09:00",
+      "via": "rss",
+      "state_media": false
+    },
     {
       "source": "ARD Tagesschau",
       "title_original": "Ein Tor, aber keine Punkte für den FC Schalke 04",
       "summary_original": "Mal wieder ein Tor, aber kein Punkt: Der FC Schalke 04 hängt nach einer Niederlage bei der TSG Hoffenheim im Tabellenkeller der Fußball-Bundesliga fest und beklagt weitere Verletzte.",
       "url": "https://www.sportschau.de/fussball/bundesliga/ein-tor-aber-keine-punkte-fuer-fc-schalke-04,spielbericht-tsg-hoffenheim-schalke-04-100.html",
-      "published": "2026-11-09T06:06:14+09:00",
+      "published": "2026-11-09T08:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Null Torgefahr: Union bewirbt sich gegen Freiburg für den Abstiegskampf",
+      "summary_original": "Der SC Freiburg feierte einen ungefährdeten Heimsieg gegen erschreckend schwache Berliner. Allein Schlussmann Rönnow war es zu verdanken, dass die Niederlage nicht höher ausfiel.",
+      "url": "https://www.sportschau.de/fussball/bundesliga/null-torgefahr-union-bewirbt-sich-fuer-abstiegskampf,spielbericht-sc-freiburg-union-berlin-106.html",
+      "published": "2026-11-09T08:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Björn Dake, ARD Tel Aviv, über Eisenkots schwierige Regierungsbildung in Israel",
+      "summary_original": "Björn Dake, ARD Tel Aviv, über Eisenkots schwierige Regierungsbildung in Israel",
+      "url": "https://www.tagesschau.de/tagesthemen/video-1680512.html",
+      "published": "2026-11-09T06:58:10+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Nach den Schüssen in Polen: Was über den Täter bekannt ist",
+      "summary_original": "Nach den Schüssen in Polen: Was über den Täter bekannt ist",
+      "url": "https://www.tagesschau.de/tagesthemen/video-1680510.html",
+      "published": "2026-11-09T06:55:56+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Julie Kurz, ARD Berlin, zur Personalie Aigner",
+      "summary_original": "Julie Kurz, ARD Berlin, zur Personalie Aigner",
+      "url": "https://www.tagesschau.de/tagesthemen/video-1680508.html",
+      "published": "2026-11-09T06:54:29+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -22,128 +76,74 @@
       "state_media": false
     },
     {
-      "source": "ARD Tagesschau",
-      "title_original": "Überschwemmungen in Gaza schüren Sorge vor neuer Katastrophe",
-      "summary_original": "Starker Regen hat Teile des Gazastreifens überschwemmt. Laut dem Gesundheitsminister haben eine Million Vertriebene kein Dach mehr über dem Kopf. Hilfsorganisationen befürchten eine humanitäre Katastrophe. Von J.-C. Kitzler.",
-      "url": "https://www.tagesschau.de/ausland/asien/gaza-regenfaelle-humanitaere-lage-100.html",
-      "published": "2026-11-09T05:15:13+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ARD Tagesschau",
-      "title_original": "Handball: Deutschland siegt souverän im letzten Länderspiel des Jahres",
-      "summary_original": "Zweiter Erfolg im zweiten EM-Qualifikationsspiel: Deutschland zeigt der Slowakei klar die Grenzen auf und feiert einen gelungenen Abschluss des Länderspieljahres 2026.",
-      "url": "https://www.sportschau.de/handball/nationalmannschaft/deutsche-handballer-siegen-souveraen-im-letzten-laenderspiel-des-jahres,handball-em-qualifikation-slowakei-deutschland-100.html",
-      "published": "2026-11-09T05:12:39+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ARD Tagesschau",
-      "title_original": "Kanzler Merz will Aigner als Bundespräsidentin",
-      "summary_original": "Kanzler Merz will Aigner als Bundespräsidentin",
-      "url": "https://www.tagesschau.de/video/video-1680486.html",
-      "published": "2026-11-09T05:09:53+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ARD Tagesschau",
-      "title_original": "tagesschau in 100 Sekunden",
-      "summary_original": "tagesschau in 100 Sekunden",
-      "url": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1680488.html",
-      "published": "2026-11-09T05:06:53+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ARD Tagesschau",
-      "title_original": "Kanzler Merz will Aigner als Bundespräsidentin vorschlagen",
-      "summary_original": "Bislang hatte sich Kanzler Merz in der Frage zur Bundespräsidenten-Nachfolge zurückgehalten. Jetzt machte er es offiziell: Der CDU-Chef will am Montag Ilse Aigner dafür vorschlagen - als erste Frau in diesem Amt.",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-merz-100.html",
-      "published": "2026-11-09T05:05:22+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ARD Tagesschau",
-      "title_original": "Chef der Jungen Union: \"Junge Generation wird von der Politik vernachlässigt\"",
-      "summary_original": "Viele junge Menschen fühlen sich politisch übergangen. Das liege auch daran, dass Pläne wie die Rentenreform nicht umgesetzt würden, sagt Winkel, Vorsitzender der Jungen Union, im Bericht aus Berlin. Die Regierung habe einiges wieder gut zu machen.",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-junge-generation-100.html",
-      "published": "2026-11-09T04:43:02+09:00",
+      "source": "ZDF heute",
+      "title_original": "FC Bayern verlängert Mainzer Heimmisere",
+      "summary_original": "Wieder kein Heimsieg für Mainz 05. Die 05er zeigen gegen den FC Bayern eine solide, am Ende aber ertraglose Leistung. Bayern-Keeper Manuel Neuer muss verletzt ausgewechselt werden.",
+      "url": "https://www.zdfheute.de/sport/fussball-bundesliga/video/fsv-mainz-05-fc-bayern-muenchen-saison-2026-27-100.html",
+      "published": "2026-11-09T08:00:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "ZDF heute",
-      "title_original": "Aktuelles zum Krieg in der Ukraine",
-      "summary_original": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
-      "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
-      "published": "2026-11-09T06:05:00+09:00",
+      "title_original": "Doppelpack Nmecha: BVB bezwingt Elversberg",
+      "summary_original": "Dank eines Felix Nmecha in Topform gewinnt Borussia Dortmund gegen die SV Elversberg. Der Aufsteiger beeindruckt durch eine mutige Spielweise und einem Traumtor von Noel Futkeu.",
+      "url": "https://www.zdfheute.de/sport/fussball-bundesliga/video/borussia-dortmund-sv-elversberg-saison-2026-27-100.html",
+      "published": "2026-11-09T08:00:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "ZDF heute",
-      "title_original": "Aktivisten hissen Palästinenser-Flagge vor dem Reichstag",
-      "summary_original": "Statt Schwarz-Rot-Gold wehte am Sonntagvormittag kurzfristig die palästinensische Flagge vor dem Berliner Reichstag. Eine Aktivistengruppe bekannte sich zu der Aktion.",
-      "url": "https://www.zdfheute.de/politik/deutschland/palaestinenser-flagge-reichstag-100.html",
-      "published": "2026-11-09T05:37:34+09:00",
+      "title_original": "Nach Augsburgs Blitztor dreht Leipzig auf",
+      "summary_original": "Rasenballsport Leipzig fertigt den FC Augsburg ab. Der FCA startet mit einem schnellen Treffer, geht im Anschluss aber im Angriffswirbel der Leipziger unter.",
+      "url": "https://www.zdfheute.de/sport/fussball-bundesliga/video/rasenballsport-leipzig-fc-augsburg-saison-2026-27-100.html",
+      "published": "2026-11-09T08:00:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "ZDF heute",
-      "title_original": "Füllkrug: \"Da denke ich jetzt nicht dran\"",
-      "summary_original": "Nach der 0:1-Niederlage gegen den VfB Stuttgart ist Werder-Stürmer Niclas Füllkrug enttäuscht und möchte nicht über die Nationalmannschaft reden.",
-      "url": "https://www.zdfheute.de/sport/video/das-aktuelle-sportstudio/fuellkrug-interview-vfb-stuttgart-werder-bremen-100.html",
-      "published": "2026-11-09T05:28:00+09:00",
+      "title_original": "HSV mit Traumtoren zum Sieg gegen M'gladbach",
+      "summary_original": "Der HSV zahlt drei wichtige Zähler auf sein Punktekonto ein. Beim Sieg gegen Borussia Mönchengladbach gelingen Miro Muheim und Albert Grönbaek sehenswerte Treffer aus der Distanz.",
+      "url": "https://www.zdfheute.de/sport/fussball-bundesliga/video/hamburger-sv-borussia-moenchengladbach-saison-2026-27-100.html",
+      "published": "2026-11-09T08:00:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "ZDF heute",
-      "title_original": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
-      "summary_original": "Die Lage in Nahost ist weiter angespannt - es kommt immer wieder zu Angriffen. Im Westjordanland spitzt sich die Situation zu. Alle Entwicklungen im Liveblog.",
-      "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
-      "published": "2026-11-09T05:00:00+09:00",
+      "title_original": "Eintracht punktet dank Burkardts Geniestreich",
+      "summary_original": "Mit einer irren Schlussaktion rettet Eintracht Frankfurt einen Punkt beim SC Paderborn. Die Partie wird von einem medizinischen Notfall auf der Gäste-Tribüne überschattet.",
+      "url": "https://www.zdfheute.de/sport/fussball-bundesliga/video/sc-paderborn-eintracht-frankfurt-saison-2026-27-100.html",
+      "published": "2026-11-09T08:00:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "ZDF heute",
-      "title_original": "Einladung aus Spanien? Noll: \"Ich würde mich sehr freuen\"",
-      "summary_original": "Nahuel Noll durchlief zwar die U-Nationalmannschaften des DFB, könnte aber auch für Spanien auflaufen. Im aktuellen sportstudio verrät er seine Präferenz - auf spanisch.",
-      "url": "https://www.zdfheute.de/sport/video/nahuel-noll-paderborn-torwart-spanischer-verband-100.html",
-      "published": "2026-11-09T04:47:00+09:00",
+      "title_original": "Leverkusen gewinnt hitzige Partie in Köln",
+      "summary_original": "Bayer Leverkusens Abwärtstrend ist vorerst gestoppt. Die Werkself gewinnt die hitzige Begegnung beim 1. FC Köln, in der viel geschubst, gefoult und auch geschauspielert wird.",
+      "url": "https://www.zdfheute.de/sport/fussball-bundesliga/video/1-fc-koeln-bayer-leverkusen-saison-2026-27-100.html",
+      "published": "2026-11-09T08:00:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "ZDF heute",
-      "title_original": "Merz bekennt sich zu Aigner als Kandidatin",
-      "summary_original": "Friedrich Merz hat angekündigt, Ilse Aigner als Bundespräsidentin vorzuschlagen. Das erklärte er dem CDU-Präsidium. Nie zuvor hat die Union für das Amt ein CSU-Mitglied nominiert.",
-      "url": "https://www.zdfheute.de/politik/aigner-merz-bundespraesidentin-zeitplan-100.html",
-      "published": "2026-11-09T04:34:00+09:00",
+      "title_original": "VfB Stuttgart ringt Werder nieder",
+      "summary_original": "Der VfB und Werder liefern sich ein intensives Duell, mit dem besseren Ausgang für Stuttgart. Bei Werders zweiter Saison-Niederlage endet auch die Serie von Stümer Niclas Füllkrug.",
+      "url": "https://www.zdfheute.de/sport/fussball-bundesliga/video/vfb-stuttgart-werder-bremen-saison-2026-27-100.html",
+      "published": "2026-11-09T08:00:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "ZDF heute",
-      "title_original": "Koalition verhandelt über Haushalt: Was auf dem Spiel steht",
-      "summary_original": "Schwarz-Rot ringt um den Bundeshaushalt für 2027. Durch eine Finanzlücke in Milliardenhöhe steigt der Spardruck. Unionsfraktionschef Frei ist gegen eine Plastiksteuer.",
-      "url": "https://www.zdfheute.de/politik/deutschland/bundeshaushalt-verhandlungen-schwarz-rote-koalition-streit-finanzierung-100.html",
-      "published": "2026-11-09T03:12:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "SC Freiburg setzt Siegesserie fort: Heimsieg gegen Union",
-      "summary_original": "Der SC Freiburg gewinnt sein Heimspiel gegen den 1. FC Union Berlin mit 2:0. Den Breisgauern reicht dafür trotz verschossenem Elfmeter eine starke zweite Halbzeit.",
-      "url": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-sc-freiburg-union-berlin-suzuki-100.html",
-      "published": "2026-11-09T03:06:28+09:00",
+      "title_original": "Freiburg knackt Unions Abwehr-Bollwerk",
+      "summary_original": "Freiburg fährt gegen Union einen souveränen Sieg ein und bleibt dem Spitzen-Duo auf den Fersen. Die Berliner Defensive hält der Spielfreude des SC nur eine Halbzeit stand.",
+      "url": "https://www.zdfheute.de/sport/fussball-bundesliga/video/sc-freiburg-union-berlin-saison-2026-27-100.html",
+      "published": "2026-11-09T08:00:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -221,8 +221,26 @@
     },
     {
       "source": "n-tv",
+      "title_original": "In leer stehendem Haus: Vermisste 13-Jährigen tot gefunden, mutmaßlicher Entführer schwer verletzt",
+      "summary_original": "Was die Polizei schon vermutet hatte, ist jetzt traurige Gewissheit: Die in Berlin vermisste Lisa T. ist tot. Dass die Leiche der 13-Jährigen in einem unbewohnten Haus kurz vor der polnischen Grenze entdeckt wird, ist reiner Zufall. Ihr mutmaßlicher Mörder wird schwer verletzt verhaftet.",
+      "url": "https://www.n-tv.de/panorama/Vermisste-13-Jaehrigen-tot-gefunden-mutmasslicher-Entfuehrer-schwer-verletzt-id31509723.html",
+      "published": "2026-11-09T07:48:53+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Absurdes Spiel mit Sensationstor: Lachender VfL Bochum wird aus 51 Metern blamiert",
+      "summary_original": "Dem VfL Bochum gelingt im sechsten Zweitliga-Heimspiel der Saison der erste Sieg. Der kommt auf sehr spektakuläre Weise zustande. Mit Traumtoren und einem Last-Minute-Drama.",
+      "url": "https://www.n-tv.de/sport/fussball/Karlsruher-SC-mit-Sensationstor-Fassungsloser-VfL-Bochum-wird-aus-51-Metern-blamiert-id31509646.html",
+      "published": "2026-11-09T06:10:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
       "title_original": "Affäre mit möglicher Spionin: Nvidia leitet Untersuchungen gegen Chef Huang ein",
-      "summary_original": "In einer E-Mail an seine Belegschaft bestätigt Nvidia-Chef Huang eine Affäre. Berichten zufolge soll die Frau vom chinesischen Geheimdienst angeworben sein worden. Der Chipkonzern leitet daraufhin eine interne Untersuchung ein.",
+      "summary_original": "In einer E-Mail an seine Belegschaft bestätigt Nvidia-Chef Huang eine Affäre. Berichten zufolge wurde die Frau vom chinesischen Geheimdienst angeworben. Der Chipkonzern leitet daraufhin eine interne Untersuchung ein.",
       "url": "https://www.n-tv.de/wirtschaft/Nvidia-leitet-Untersuchungen-gegen-Chef-Huang-ein-id31509683.html",
       "published": "2026-11-09T06:02:59+09:00",
       "via": "rss",
@@ -234,15 +252,6 @@
       "summary_original": "Der Fall \"Frei wie ein Adler\" setzt mit seiner inklusiven Besetzung auf ein besonderes Ensemble. Ein echter Casting-Coup - und eine wohltuende Herausforderung für die Sehgewohnheiten des Sonntagskrimis.",
       "url": "https://www.n-tv.de/leute/tv/Die-unueblichen-Verdaechtigen-id31499818.html",
       "published": "2026-11-09T05:50:43+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "n-tv",
-      "title_original": "Völlig absurdes Fußballspiel: VfL Bochum wird aus 51 Metern blamiert und lacht trotzdem",
-      "summary_original": "Dem VfL Bochum gelingt im sechsten Zweitliga-Heimspiel der Saison der erste Sieg. Der kommt auf sehr spektakuläre Weise zustande. Mit Traumtoren und einem Last-Minute-Drama.",
-      "url": "https://www.n-tv.de/sport/fussball/VfL-Bochum-wird-aus-51-Metern-blamiert-und-lacht-trotzdem-id31509646.html",
-      "published": "2026-11-09T05:47:25+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -283,11 +292,20 @@
       "state_media": false
     },
     {
-      "source": "n-tv",
-      "title_original": "Hegseth droht Impeachment: Demokraten nehmen Trump-Vertraute ins Visier",
-      "summary_original": "Die Demokraten möchten nach ihrem umfassenden Sieg bei den Midterms Untersuchungen gegen Trumps-Umfeld einleiten. Elon Musk und der neue Stabschef Stephen Miller stehen ganz oben auf ihrer Liste. Auf Pentagon-Chef Hegseth könnte zudem ein Amtsenthebungsverfahren zukommen.",
-      "url": "https://www.n-tv.de/politik/Demokraten-nehmen-Trump-Vertraute-ins-Visier-id31509542.html",
-      "published": "2026-11-09T04:45:56+09:00",
+      "source": "WELT",
+      "title_original": "Operation „Iron Gate“ – Trump schickt Spezialeinheit aufs Festland",
+      "summary_original": "US-Präsident Donald Trump hat das eiserne Tor geschlossen. So nennt er die jüngste Operation („Iron Gate“), um die Lieferung von Waffen in den Iran zu unterbinden. Eine Spezialtruppe ist dafür an Land unterwegs.",
+      "url": "https://www.welt.de/politik/ausland/article6af0f62a80d3a1c6aa66db6d/iran-krieg-operation-iron-gate-trump-schickt-spezialeinheit-aufs-festland.html",
+      "published": "2026-11-09T07:49:45+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Ich war meiner Frau untreu“ – Nvidia-Chef Huang bestätigt Affäre, Konzern ermittelt",
+      "summary_original": "Nvidia-Chef Jensen Huang bestätigt eine Affäre. Nun untersucht der US-Chiphersteller Berichte über mögliche Verbindungen der Frau zum chinesischen Geheimdienst. Auch die Sicherheit von Geschäftsgeheimnissen steht im Fokus.",
+      "url": "https://www.welt.de/vermischtes/article6af0f531a389bc337cfca95c/affaere-und-spionageverdacht-ich-war-meiner-frau-untreu-nvidia-chef-huang-bestaetigt-affaere-konzern-ermittelt.html",
+      "published": "2026-11-09T07:23:21+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -346,28 +364,10 @@
       "state_media": false
     },
     {
-      "source": "WELT",
-      "title_original": "„Es schaut schlimm aus“ – Gosens-Verletzung überschattet Schalkes Pleite",
-      "summary_original": "Schalke 04 hat auch sein siebtes Spiel in Folge nicht gewinnen können. Der Aufsteiger verlor trotz des ersten Stürmertors der Saison bei der TSG Hoffenheim. Die Gelsenkirchener beklagten nach einem Zusammenprall zudem erneut zwei Ausfälle.",
-      "url": "https://www.welt.de/sport/fussball/bundesliga/article6af09d2480d3a1c6aa66d6bb/schalkes-erstes-stuermertor-reicht-nicht-gegen-hoffenheim-gosens-und-karius-verletzt.html",
-      "published": "2026-11-09T03:19:25+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "WELT",
-      "title_original": "Trump droht Demokraten mit Ermittlungen und spricht von „riesigem Schritt zurück“ für Amerika",
-      "summary_original": "Nach der Niederlage seiner Republikaner bei den US-Kongresswahlen geht Donald Trump zum Gegenangriff über. Er droht den Demokraten mit Ermittlungen und beklagt einen historischen Rückschritt. Doch auch eine überraschende Personalie sorgt für Aufsehen.",
-      "url": "https://www.welt.de/politik/ausland/article6af0a0a4a389bc337cfca4d7/nach-wahlschlappe-trump-droht-demokraten-mit-ermittlungen-und-spricht-von-riesigem-schritt-zurueck-fuer-amerika.html",
-      "published": "2026-11-09T02:44:46+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
       "source": "Handelsblatt",
-      "title_original": "Spionageverdacht: Nvidia prüft Berichte zu ausländischer Spionage gegen Chef",
-      "summary_original": "Nvidia-Chef Jensen Huang räumt eine Affäre ein. Laut Medienberichten vermuten US-Behörden, dass die Frau vom chinesischen Geheimdienst angeworben wurde.",
-      "url": "https://www.handelsblatt.com/technik/ki/spionageverdacht-nvidia-prueft-berichte-zu-auslaendischer-spionage-gegen-chef/100268272.html",
+      "title_original": "Spionageverdacht: Hatte Jensen Huang eine Affäre mit einer Spionin? – Nvidia will Medienberichte prüfen",
+      "summary_original": "Nvidia-CEO Jensen Huang sagt, er sei seiner Frau untreu gewesen. Laut Medienberichten vermuten US-Behörden, dass die Frau vom chinesischen Geheimdienst angeworben wurde.",
+      "url": "https://www.handelsblatt.com/technik/ki/spionageverdacht-nvidia-will-berichte-ueber-auslaendische-spionage-gegen-chef-pruefen/100268272.html",
       "published": "2026-11-09T06:03:43+09:00",
       "via": "rss",
       "state_media": false
@@ -437,6 +437,24 @@
     },
     {
       "source": "Der Spiegel",
+      "title_original": "Niedersachsen: Ministerin entsetzt über »Gewaltfantasien« von CDU-Chef Sebastian Lechner",
+      "summary_original": "Der niedersächsische CDU-Chef Lechner hat in einer Rede mehr Härte gegen kriminelle Clans gefordert – und martialische Worte gewählt. Ministerin Hamburg von den Grünen sieht darin eine verbale Entgleisung.",
+      "url": "https://www.spiegel.de/politik/deutschland/niedersachsen-ministerin-entsetzt-ueber-gewaltfantasien-von-cdu-chef-sebastian-lechner-a-daf3441b-4def-4edf-97e6-1fa235ebaad0#ref=rss",
+      "published": "2026-11-09T07:03:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Kim Kardashian: Kunden schimpfen über 148-Dollar-Adventskalender",
+      "summary_original": "Kim Kardashians Modemarke »Skims« hat einen Adventskalender voller billigem Kleinkram verkauft – zu einem stattlichen Preis. In den sozialen Medien hagelt es Häme und Spott. Jetzt reagiert das Unternehmen.",
+      "url": "https://www.spiegel.de/panorama/leute/kim-kardashian-kunden-schimpfen-ueber-148-dollar-adventskalender-a-98ab4ec2-b4e8-4540-a804-2758fe0415a7#ref=rss",
+      "published": "2026-11-09T06:52:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
       "title_original": "Nvidia-Chef Jensen Huang entschuldigt sich für Affäre mit mutmaßlicher Spionin",
       "summary_original": "»Ich war meiner Frau untreu«: Nvidia-Chef Huang hat einen Seitensprung zugegeben, der Konzern leitet eine Untersuchung ein. Seine Geliebte arbeitete offenbar für Chinas Geheimdienst. US-Außenminister Rubio soll vor ihr gewarnt haben.",
       "url": "https://www.spiegel.de/ausland/nvidia-chef-jensen-huang-entschuldigt-sich-fuer-affaere-mit-mutmasslicher-spionin-a-66db6061-9340-44ba-9c9d-75726df75e3b#ref=rss",
@@ -490,20 +508,11 @@
       "state_media": false
     },
     {
-      "source": "Der Spiegel",
-      "title_original": "Ilse Aigner: Im CDU-Präsidium dürfte Friedrich Merz ihre Nominierung als Bundespräsidentin verkünden",
-      "summary_original": "Ilse Aigner soll Bundespräsidentin werden, die Nominierung trifft in der CDU auf viel Zuspruch. Doch das Verfahren irritiert manchen. Nun werden Details bekannt, inklusive Wanderungen und gemeinsamen Freunden mit dem Kanzler.",
-      "url": "https://www.spiegel.de/politik/deutschland/ilse-aigner-im-cdu-praesidium-duerfte-kanzler-friedrich-merz-ihre-nominierung-als-bundespraesidentin-verkuenden-a-16d83dfb-440a-4514-a5d5-c14d660df44d#ref=rss",
-      "published": "2026-11-09T03:21:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Der Spiegel",
-      "title_original": "Donald Trump bietet UFC-Chef Dana White Job als Sprecher an - eine Verwechslung?",
-      "summary_original": "In den sozialen Medien behaupten User: Donald Trump sollte gar nicht den Boss der Kampfsportorganisation UFC als Pressesprecher anwerben – sondern eine Frau mit fast gleichem Namen. Die bringt nun Licht ins Dunkel.",
-      "url": "https://www.spiegel.de/netzwelt/web/donald-trump-bietet-ufc-chef-dana-white-job-als-sprecher-an-eine-verwechslung-a-2f71c575-00ad-44d0-872e-10b58830d0dd#ref=rss",
-      "published": "2026-11-09T03:17:00+09:00",
+      "source": "FAZ",
+      "title_original": "Jensen Huang: Nvidia prüft Berichte zu ausländischer Spionage gegen Konzernchef",
+      "summary_original": "Jensen Huang hat gegenüber seiner Belegschaft eine außereheliche Beziehung eingestanden. Laut Medienberichten vermuten US-Behörden, dass die Frau vom chinesischen Geheimdienst angeworben wurde.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-prueft-berichte-zu-auslaendischer-spionage-gegen-jensen-huang-201664216.html",
+      "published": "2026-11-09T06:12:38+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -567,15 +576,6 @@
       "summary_original": "Der FC Bayern sagt Jamal Musiala nach seiner Diagnose bedingungslose Unterstützung zu. Nun jedoch äußert Uli Hoeneß Zweifel daran, ob der Nationalspieler zu alter Leistungsfähigkeit zurückkehrt.",
       "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/jamal-musiala-uli-hoeness-aeussert-zweifel-beim-fc-bayern-muenchen-201663919.html",
       "published": "2026-11-09T04:39:27+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "FAZ",
-      "title_original": "Deutschland Liveblog: Friedrich Merz schlägt Ilse Aigner als Bundespräsidentin vor",
-      "summary_original": "Aigner soll am Montag für Steinmeier-Nachfolge vorschlagen werden +++ Emde weigert sich, auf ihr Mandat zu verzichten +++ BSW-Spitze kritisiert Nominierung von Constantin Schreiber durch Landesverband +++ alle Entwicklungen im Liveblog",
-      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-friedrich-merz-schlaegt-ilse-aigner-als-bundespraesidentin-vor-faz-110093143.html",
-      "published": "2026-11-09T04:38:01+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -653,73 +653,73 @@
     },
     {
       "source": "Die Zeit",
+      "title_original": "Donald Trump: Trump räumt mögliche Fehler bei Abschiebepolitik ein",
+      "summary_original": "Die Abschiebepolitik der USA könnte »zu hart« gewesen sein, sagt Donald Trump in einem Fernsehinterview. Ob er sie ändern will, lässt der US-Präsident offen.",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-abschiebepolitik-usa-stephen-miller-jd-vance",
+      "published": "2026-11-09T08:07:57+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "»Gen Z regelt! Studis«: Studierende rufen nach Jugendprotesten zu Streiks an mehreren Unis auf",
+      "summary_original": "Eine studentische Initiative will die Proteste von »Gen Z regelt!« auf Universitäten ausweiten. Die Bestreikung von Universitäten solle zusätzlichen Druck ausüben.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-11/gen-z-regelt-studis-streik-universitaeten-20-november",
+      "published": "2026-11-09T08:05:31+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Papst auf Reisen: Papst Leo fordert in Argentinien mehr Rücksicht auf Schwache",
+      "summary_original": "",
+      "url": "https://www.zeit.de/news/2026-11/09/papst-leo-fordert-in-argentinien-mehr-ruecksicht-auf-schwache",
+      "published": "2026-11-09T08:02:04+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Kalenderblatt: Was geschah am 9. November?",
+      "summary_original": "",
+      "url": "https://www.zeit.de/news/2026-11/08/was-geschah-am-9-november",
+      "published": "2026-11-09T07:55:04+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Vier Verletzte: Unfall auf B270: Kind schwer verletzt",
+      "summary_original": "",
+      "url": "https://www.zeit.de/news/2026-11/08/unfall-auf-b270-kind-schwer-verletzt",
+      "published": "2026-11-09T07:39:30+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Iran-Krieg: US-Militär ergänzt Iran-Seeblockade mit Maßnahmen an Land",
+      "summary_original": "",
+      "url": "https://www.zeit.de/news/2026-11/08/us-militaer-ergaenzt-iran-seeblockade-mit-massnahmen-an-land",
+      "published": "2026-11-09T07:08:20+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Nvidia: Nvidia prüft Berichte zu ausländischer Spionage gegen Jensen Huang",
+      "summary_original": "Der Chef von Nvidia, Jensen Huang, hat eine Affäre eingeräumt. Sein Unternehmen prüft nun, ob die involvierte Frau vom chinesischen Geheimdienst angeworben wurde.",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/nvidia-jensen-huang-spionage-verwaltungsrat-ermittlungen",
+      "published": "2026-11-09T06:14:37+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
       "title_original": "Chip-Riese: Nvidia prüft Berichte zu ausländischer Spionage gegen Chef",
       "summary_original": "",
       "url": "https://www.zeit.de/news/2026-11/08/nvidia-prueft-berichte-zu-auslaendischer-spionage-gegen-chef",
       "published": "2026-11-09T06:07:33+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "Proteste in Amsterdam: Zehntausende bei Protesten in Amsterdam gegen Israels Gaza-Politik",
-      "summary_original": "In Amsterdam haben Zehntausende gegen Israels Vorgehen im Gazastreifen protestiert. Sie forderten von der niederländischen Regierung, mehr Druck auf Israel auszuüben.",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/proteste-amsterdam-israel-gazastreifen-niederlande",
-      "published": "2026-11-09T06:05:18+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "Kriminalität: Flucht aus Klinik: Polizei warnt vor gefährlichem Straftäter",
-      "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/08/flucht-aus-klinik-polizei-warnt-vor-gefaehrlichem-straftaeter",
-      "published": "2026-11-09T05:59:03+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "Papst auf Reisen: Leo XIV. zu Besuch in Argentinien gelandet",
-      "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/08/leo-xiv-zu-besuch-in-argentinien-gelandet",
-      "published": "2026-11-09T05:51:07+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "»Tatort« Zürich: Rocker umarmen sich nicht so oft",
-      "summary_original": "»Frei wie ein Adler« heißt diese gezähmte Folge und stellt eine wenig brisante Frage: Darf ein Mann mit Downsyndrom im »Tatort« der Mörder sein?",
-      "url": "https://www.zeit.de/feuilleton/film/2026-11/tatort-zuerich-ard-frei-wie-ein-adler-rocker",
-      "published": "2026-11-09T05:49:48+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "Bundespräsidentenwahl: Was die Kandidatur Aigners bedeutet",
-      "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/08/was-die-entscheidung-in-der-p-frage-bedeutet",
-      "published": "2026-11-09T05:40:58+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "Treffen mit Merz: Unions-Fraktionschefs pochen auf Senkung der Stromsteuer",
-      "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/08/unions-fraktionschefs-pochen-auf-senkung-der-stromsteuer",
-      "published": "2026-11-09T05:28:57+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "Fußball-Bundesliga: Karius patzt und verletzt sich: Schalke-Abend zum Vergessen",
-      "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/08/karius-patzt-und-verletzt-sich-schalke-abend-zum-vergessen",
-      "published": "2026-11-09T05:27:43+09:00",
       "via": "rss",
       "state_media": false
     }

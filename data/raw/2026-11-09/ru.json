@@ -1,8 +1,17 @@
 {
   "team": "ru",
   "team_name_ko": "러시아팀",
-  "collected_at": "2026-11-09T06:13:09.003154+09:00",
+  "collected_at": "2026-11-09T08:11:28.833449+09:00",
   "headlines": [
+    {
+      "source": "Channel One (1tv)",
+      "title_original": "Этап IV. Екатеринбург. Гран-при России по фигурному катанию 2026/27. Первый канал",
+      "summary_original": "Этап IV. Екатеринбург. Гран-при России по фигурному катанию 2026/27. Первый канал Первый канал",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTlhzd0YxOENiNXJmRnZqMmdvd2FKQlVINFh6M0k5ckgzdXA3NnpFaHNNalFpLWRxVkw1ZDVHbTRRYmxrVS1CTll4Vk01elc0Z0V3WlE0N3dROUE3aDd3Q2FOQU5GdDdET0hZcnJEX3VmZGZSWnppQ1ZrTFVTbG1mQy1fU2lETFpYdVZRRFNSV3Y1aW1ULWc?oc=5",
+      "published": "2026-11-09T07:10:14+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
     {
       "source": "Channel One (1tv)",
       "title_original": "Большая игра. Выпуск от 08.11.2026",
@@ -50,15 +59,6 @@
     },
     {
       "source": "Channel One (1tv)",
-      "title_original": "Этап IV. Екатеринбург. Гран-при России по фигурному катанию 2026/27. Первый канал",
-      "summary_original": "Этап IV. Екатеринбург. Гран-при России по фигурному катанию 2026/27. Первый канал Первый канал",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTlhzd0YxOENiNXJmRnZqMmdvd2FKQlVINFh6M0k5ckgzdXA3NnpFaHNNalFpLWRxVkw1ZDVHbTRRYmxrVS1CTll4Vk01elc0Z0V3WlE0N3dROUE3aDd3Q2FOQU5GdDdET0hZcnJEX3VmZGZSWnppQ1ZrTFVTbG1mQy1fU2lETFpYdVZRRFNSV3Y1aW1ULWc?oc=5",
-      "published": "2026-11-09T04:08:48+09:00",
-      "via": "google_news",
-      "state_media": true
-    },
-    {
-      "source": "Channel One (1tv)",
       "title_original": "В трех регионах открыты современные учебные центры, в которых будут готовить востребованных специалистов",
       "summary_original": "В трех регионах открыты современные учебные центры, в которых будут готовить востребованных специалистов Первый канал",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4ySWZjSzRnNzJjQ0UyZm9EbUxPNFBXWmlhejJReU12SkRUSGNZRmh0TzVnQl9SMFlvLTQxekw4bjJIM203R191VUxWdTlIV2lxNnFr?oc=5",
@@ -77,219 +77,282 @@
     },
     {
       "source": "Rossiya 24 (Vesti)",
-      "title_original": "Сенатор Кондратьев объяснил позицию США в конфликте ЕС и России",
-      "summary_original": "Сенатор Кондратьев объяснил позицию США в конфликте ЕС и России vesti.ru",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa3FKdGNyVnluektNdC1ZeGxKc01oZnlQU2Y1SGtXdklRVy0xVDFRem9vUnRxcFVWckxBN2lXWUxPVlZKQW55SmxaNWpMLTRTQ09xXzZuekdPZ004cC1xMUpnbzAzaEV1bHpaWUNPVjByQWdyeEoyWVNVbVdBb1BIVHlsMkxLRk1ibXRxb2VXY1VYZw?oc=5",
-      "published": "2026-11-09T03:56:52+09:00",
+      "title_original": "\"Мерседес\" после 5-летнего перерыва выиграл Кубок конструкторов \"Формулы-1\"",
+      "summary_original": "\"Мерседес\" после 5-летнего перерыва выиграл Кубок конструкторов \"Формулы-1\" vesti.ru",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc0FPNFZxY0t4S1Q3T3lWWXAxODFlOTRsUzB5RHRMemQwWmh4OGFIX2RwSlZGckZ3Q3dTWlQtMGx0ZjlKN3JOZl9WWWRrT1VydjhNazhzemZaVTVUajd2SkJzUExPRHFnM1Q4WkgwelhjVTItWWFvQjRlRnVTbEU0OUtsdnQtSk9BbjJ2ZkFPSVRMMVotRS1nU19Ocw?oc=5",
+      "published": "2026-11-09T07:48:10+09:00",
       "via": "google_news",
       "state_media": true
     },
     {
       "source": "Rossiya 24 (Vesti)",
-      "title_original": "Выход маломерных судов в Баренцово море ограничен в Кольском округе на 3 суток",
-      "summary_original": "Выход маломерных судов в Баренцово море ограничен в Кольском округе на 3 суток vesti.ru",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbzRwMHVGcVJBVjFvLUVlNDJQTFJDazNWNkM1YnktM3NySWNuTGxyN09JRVV6S0hpOTdvaU5sUDFiSmZuQ3gweUMxN3M1TWNfWXg0THZqNWY3bER6SVRrRHpNUEFwUGRvWk5NTEJ4OVF0SUxMbGJSTmtpM29HT1hCelROenVnd1paWTRqSUxncEM5eW42c0FmWFBLV2dtb2ZCUmROQ1pydw?oc=5",
-      "published": "2026-11-09T03:23:07+09:00",
+      "title_original": "\"Барселона\" после победы над \"Атлетико\" возглавила таблицу чемпионата Испании",
+      "summary_original": "\"Барселона\" после победы над \"Атлетико\" возглавила таблицу чемпионата Испании vesti.ru",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV2d3Z3JLUExzS2pvcGp5eldmRGQxcHZJTHRWWGFvazJhck1remVOcFQ0c2hwNlhOSEx5VC03STFIQkVGMzF1SXRvWjhkZ2FoWGx1S3hhaU9SQUR2Q3pVQTZIaHo4RTE3cXpLaVFHcmJ6d05rWHVaZW00WEI2eDZNMVZMVEFieGF3RGd3UXNYdFEwa1ZzNzBacTFxWFBzOFk?oc=5",
+      "published": "2026-11-09T07:43:45+09:00",
       "via": "google_news",
       "state_media": true
     },
     {
       "source": "Rossiya 24 (Vesti)",
-      "title_original": "Стрелок из Кракова регулярно посещал местный тир с отцом",
-      "summary_original": "Стрелок из Кракова регулярно посещал местный тир с отцом vesti.ru",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbHpmQVVCY2w4c2Rya1FaWkZ2U2tNUFFkVGtjb1JtRm1zb09jOGpGQjRmU2R4M0VWRzR5amFva0NmdHhaNVNUd2pwUjRHRHVsaTF4VGdpZFRVempmX2VVZWJCbzV4WG1sUDY2blJKZnQ5anpsajVfdHhwZlg3eE1LdlVKZlN0NTVQTHlrNw?oc=5",
-      "published": "2026-11-09T03:15:16+09:00",
+      "title_original": "Евродепутат обвинил ЕС в затягивании конфликта на Украине",
+      "summary_original": "Евродепутат обвинил ЕС в затягивании конфликта на Украине vesti.ru",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTXB1bURRcmc1VmlrMjFSTmZfX2QtQk1iaDhCSWFSdENWOFlSS1UxOTJVN2tYejJkTUszVVl6S1BUd0EwWUE1aXRfeXFrbDVPZEU5eGFBSWdicXpJZTFkbS1iYlp6N25rT2stX0dsY1dhVm9fSzUxLVFoQkljWFh6MFI5ZHotUkhtTlE?oc=5",
+      "published": "2026-11-09T07:40:39+09:00",
       "via": "google_news",
       "state_media": true
     },
     {
       "source": "Rossiya 24 (Vesti)",
-      "title_original": "США перебросили на Ближний Восток три авианосца, сообщил Трамп",
-      "summary_original": "США перебросили на Ближний Восток три авианосца, сообщил Трамп vesti.ru",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMXpJbGlXU213cDNzcEhxNGgwWnBjVk9YZXA5djFObEJHM1RjQ3B6SDRJSnVZaW1ybEtPZXZUWktnVmlBODRqX1V0dUh3NGYtOXFHY19LNFV3MUI3Yl9VV2RucXNOWGIzbW5DRS1GdzJRN0xYc0xpamZpTVduVERRVHRTNTVWb1RoZzRPWHVzWG9BTHA5?oc=5",
-      "published": "2026-11-09T03:13:04+09:00",
+      "title_original": "Росавиация: аэропорт Внуково принимает и отправляет самолеты по согласованию",
+      "summary_original": "Росавиация: аэропорт Внуково принимает и отправляет самолеты по согласованию vesti.ru",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdkowM2IwVGlxZEFSS0VUQ2NQYnhTNnJlZkpsV2FJanp2N0ExZUVrVVFoUVJmWjlGaU1KSWpjQkdVRkJQM3hQRUpjYkJiQzRReWlSbGZLMG1HVmVINEpRVjlHaVJqNDRtc0VUM19JQTA1RW1pcmN4anRzZzRiTU5mN3J1VkdqaldRLVVWRWx2RU9ZMDNTU08zTkhpUVpxQXZWM185M2Fn?oc=5",
+      "published": "2026-11-09T07:40:24+09:00",
       "via": "google_news",
       "state_media": true
     },
     {
       "source": "Rossiya 24 (Vesti)",
-      "title_original": "Эксперт рассказал о том, как на Украине слепили образ \"политического украинца\"",
-      "summary_original": "Эксперт рассказал о том, как на Украине слепили образ \"политического украинца\" vesti.ru",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNODdSUmd5blJyeGRzdjJNMnF6NzI3OTlDWHJ0dWpQSXhPbWxfLWpNaldvcWw5cy1KTm5JNzdZdUN0dmROLUhBS3lHOEk0N2Zsb19lcTZaYTd1U29aZ2J5Y3RVOGFKSVZ2SFZoV2tXYVE2Mk9pZWticjNtXzZHWWQwcHJpd3NjNVhEek5MYW1SRlNicWlWTXdhazlHQlZwTDF5Tkxj?oc=5",
-      "published": "2026-11-09T03:11:20+09:00",
+      "title_original": "Синоптик: атлантические воздушные массы принесут потепление на Русскую равнину",
+      "summary_original": "Синоптик: атлантические воздушные массы принесут потепление на Русскую равнину vesti.ru",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMG5HS1o5VDg3eVJ5NGZvM19BNGNtSVR1WEx1bUJjSXJWQVZwTG5ULXpzbVpXa2lQN0pkVTRoSTVKN0I1d3JZejdHVkpUb0VMS3hpSjJzSWpXQi1yTGc4ckk3OW1FMHdOOWxpMjlZZi1vdnk3WF9SZTZ3RHp2d3BkTmc4Uzl0ZktpQWZVXzFUS1A5bEstOWY4NVJDVjJKbjVnX282WEpSWQ?oc=5",
+      "published": "2026-11-09T07:36:14+09:00",
       "via": "google_news",
       "state_media": true
     },
     {
       "source": "Rossiya 24 (Vesti)",
-      "title_original": "Трое взрослых и 13-летний пассажир пострадали в результате ДТП на Ставрополье",
-      "summary_original": "Трое взрослых и 13-летний пассажир пострадали в результате ДТП на Ставрополье vesti.ru",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYUNwM1FwVkxHc2QtdTRvRDVxS1B5dlBENUkyVFVvLWZKNmlHSGRSYjMzcjc5ckxxX1VmTGRzWmlFMUZOa2plZHYzeV91UDFKcXFOMDNPY0JYT3dKeV9zTm8tclVpeVRobXYxRGZyeHlRcVZ5Z0w3NU1JOGpPWV9uMDhTcGJJYnUzcnhMenJPbmhaNXBrWVBCNThUeEhqOUd6dFE0?oc=5",
-      "published": "2026-11-09T03:11:08+09:00",
+      "title_original": "Режим ограничения электроснабжения в Севастополе отменен",
+      "summary_original": "Режим ограничения электроснабжения в Севастополе отменен vesti.ru",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONVhtOUt1bnkyQktrQ1Q5SHJLODl5TElqRjd3S3YzSFJVbUlwMURKSmUyMjBOQ0RyLTVLRzVWVjZldzdDLTVGdU51aXBWVVM2a0dyamlqTU1jNTdpV3BrNGF2X3NCUTVrclppTVAwdGlIYjZqMTJxdVJrOUMweFdsdXlvUFJqWl84Nllpdi1ZZ0sxcnJ5bFhZVFFR?oc=5",
+      "published": "2026-11-09T07:34:09+09:00",
       "via": "google_news",
       "state_media": true
     },
     {
       "source": "Rossiya 24 (Vesti)",
-      "title_original": "Свыше 250 россиян были выдворены из Грузии с начала года",
-      "summary_original": "Свыше 250 россиян были выдворены из Грузии с начала года vesti.ru",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcVZNZnJJbDdaei1YdUpYQmtOeFA5R0k0U3VucllCeE1nSkFWRG1NS2ZPVEFxNVRaWUhmYmZydGw0UllKc0JYUDJyem1GX293MkFidnJySDNKVUYzNjZhUWxJWHhERXBQN1B4YmlZcnZJQkxpcDNSelo5RXY5TlVOTVlOa1dTdGxQLVdN?oc=5",
-      "published": "2026-11-09T03:01:58+09:00",
+      "title_original": "Врач рассказала, есть ли смысл проходить вакцинацию от гриппа в декабре",
+      "summary_original": "Врач рассказала, есть ли смысл проходить вакцинацию от гриппа в декабре vesti.ru",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdFVkTXNHaTdWdndkRURYdjUzZllQbk9VSjBZS09jODJVVExoRnlETVROVktac0RlMFUzNW01WmZpM1FYT245UVpmUjVrMkxReFdSRFViT0FXUWNmUVduMncyNk5pdXJXUlZBbDF0d2g1WTdqTjFiZU9vYjNUTlBQWGd6YlNDUzBXWWpIckctOW5jamhtSElsWG9YQQ?oc=5",
+      "published": "2026-11-09T07:26:57+09:00",
       "via": "google_news",
       "state_media": true
     },
     {
       "source": "Rossiya 24 (Vesti)",
-      "title_original": "Бужинский объяснил, зачем НАТО проводит учения в Польше",
-      "summary_original": "Бужинский объяснил, зачем НАТО проводит учения в Польше vesti.ru",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR0lqMHlxNDRySjE0YTlScEs3LUFHd0NTd0JoMnktLXFXZHN1SUVpSG9pSU5SVHhvM2NNRFVLU2IxdmQ0NWZTUmEtdG1SbEZ2NlBwWEFsNzZIWmJFeWFpRFJIUUt1UHZVSWFoNjF3aXpGMVp6MzQ2Rmg3TzBJTFF5SjVIZ2tPWlhhX3c?oc=5",
-      "published": "2026-11-09T02:58:37+09:00",
+      "title_original": "Аккредитацию Beget как регистратора доменов .ru и .рф приостановили",
+      "summary_original": "Аккредитацию Beget как регистратора доменов .ru и .рф приостановили vesti.ru",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONm9rZkNYWVdYTGhQbnNlcmo1TVd3RXZCUlI4bjVmT19ITzhUejZTV0F4emE3cGlma2IwMWVRcFlaemR1NXdQejhKX3lrbnNZSkMxWUFnU1FaWDNzUjNOc29XWVlZbmN5MnFjR3diOHE4QzJtSTFFNWxBdl83NlFsaVdhblNNWXhEVnMwbWtfdF8tR2tE?oc=5",
+      "published": "2026-11-09T06:00:16+09:00",
       "via": "google_news",
       "state_media": true
     },
     {
       "source": "TASS",
-      "title_original": "МИД РФ отметил попытки Армении переложить ответственность за решения на ОДКБ",
-      "summary_original": "",
-      "url": "https://tass.ru/politika/28296707",
-      "published": "2026-11-09T06:05:56+09:00",
+      "title_original": "В ГД прокомментировали план ЕС по отказу от газа РФ до конца 2027 года",
+      "summary_original": "Глава комитета Госдумы по международным делам Петр Толстой отметил, что европейцам в таком случае придется отапливать дома дровами",
+      "url": "https://tass.ru/politika/28296791",
+      "published": "2026-11-09T08:11:42+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "TASS",
-      "title_original": "Два украинских БПЛА уничтожили в Тульской области",
+      "title_original": "МИД РФ посоветовал Армении провести референдум перед подачей заявки в ЕС",
       "summary_original": "",
-      "url": "https://tass.ru/proisshestviya/28296705",
-      "published": "2026-11-09T06:05:25+09:00",
+      "url": "https://tass.ru/politika/28296793",
+      "published": "2026-11-09T08:05:50+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "TASS",
-      "title_original": "Иерусалимский патриарх планирует посетить Украину",
-      "summary_original": "Феофил III добавил, что сосредоточится на подготовке к переговорам",
-      "url": "https://tass.ru/obschestvo/28296701",
-      "published": "2026-11-09T06:04:16+09:00",
+      "title_original": "В Хмельницком произошли взрывы",
+      "summary_original": "В Хмельницкой области не объявляли воздушную тревогу",
+      "url": "https://tass.ru/proisshestviya/28296789",
+      "published": "2026-11-09T08:03:24+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "TASS",
-      "title_original": "Эксперт Степанов прокомментировал учения \"коалиции желающих\" в Польше",
+      "title_original": "\"Мошеловка\" предупредила о новой уловке мошенников с ИИ-знахарями",
       "summary_original": "",
-      "url": "https://tass.ru/armiya-i-opk/28296697",
-      "published": "2026-11-09T06:04:10+09:00",
+      "url": "https://tass.ru/obschestvo/28296787",
+      "published": "2026-11-09T08:00:34+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "TASS",
-      "title_original": "Трамп заявил о работе группы США по противодействию поставкам оружия в Иране",
-      "summary_original": "",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28296703",
-      "published": "2026-11-09T06:03:59+09:00",
+      "title_original": "Названы размеры пени за неуплату имущественных налогов со 2 декабря",
+      "summary_original": "Задолженность будет расти на 47 копеек в день с каждой тысячи рублей, сообщил глава комитета Госдумы по малому и среднему предпринимательству Станислав Дружинин",
+      "url": "https://tass.ru/obschestvo/28296783",
+      "published": "2026-11-09T07:50:58+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "TASS",
-      "title_original": "В Ташкенте откроется третий российско-узбекский медиафорум",
-      "summary_original": "Участники мероприятия обсудят вызовы, стоящие перед медиаорганизациями в эпоху цифровой трансформации",
-      "url": "https://tass.ru/obschestvo/28296695",
-      "published": "2026-11-09T06:03:00+09:00",
+      "title_original": "Командир Змей рассказал о женщинах в диверсионных группах ВСУ",
+      "summary_original": "Военный отметил, что одну из таких групп удалось обнаружить разведчикам 89-го танкового полка Южной группировки",
+      "url": "https://tass.ru/armiya-i-opk/28296773",
+      "published": "2026-11-09T07:46:35+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "TASS",
-      "title_original": "Капитан Зуев с осколочным ранением лица доставил боеприпасы экипажу танка",
-      "summary_original": "",
-      "url": "https://tass.ru/armiya-i-opk/28296699",
-      "published": "2026-11-09T06:02:38+09:00",
+      "title_original": "У российского хостинг-провайдера ESTT произошел технический сбой",
+      "summary_original": "Проблема затронула работу клиентских сервисов",
+      "url": "https://tass.ru/ekonomika/28296767",
+      "published": "2026-11-09T07:46:11+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "TASS",
-      "title_original": "Военная операция на Украине. Онлайн",
-      "summary_original": "Российские войска ударили по сухогрузу и контейнеровозу ВСУ в порту Черноморск и в акватории Черного моря юго-западнее Одессы, сообщили в Минобороны РФ",
-      "url": "https://tass.ru/armiya-i-opk/28296561",
-      "published": "2026-11-09T06:00:00+09:00",
+      "title_original": "В аэропортах Череповца и Ярославля ввели временные ограничения",
+      "summary_original": "Прием и выпуск самолетов приостановили",
+      "url": "https://tass.ru/ekonomika/28296775",
+      "published": "2026-11-09T07:44:44+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "RIA Novosti",
-      "title_original": "Россия и США против увеличения финансирования ОБСЕ, заявил Полянский",
+      "title_original": "Стал известен средний размер пенсии госслужащих в России",
       "summary_original": "",
-      "url": "https://ria.ru/20261109/obse-2130180124.html",
-      "published": "2026-11-09T06:10:14+09:00",
+      "url": "https://ria.ru/20261109/pensiya-2130187342.html",
+      "published": "2026-11-09T08:03:55+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "RIA Novosti",
-      "title_original": "Названы регионы России с наибольшей долей высокооплачиваемых работников",
+      "title_original": "ОАЭ обеспечат гибкий ход встречи по Украине в Абу-Даби, сообщил источник",
       "summary_original": "",
-      "url": "https://ria.ru/20261109/regiony-2130179622.html",
-      "published": "2026-11-09T06:09:34+09:00",
+      "url": "https://ria.ru/20261109/oae-2130187165.html",
+      "published": "2026-11-09T08:03:06+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "RIA Novosti",
-      "title_original": "Глава Nvidia Дженсен Хуанг признал факт супружеской измены",
+      "title_original": "\"Филадельфия\" в гостях обыграла \"Чикаго\" в матче НБА",
       "summary_original": "",
-      "url": "https://ria.ru/20261109/nvidia-2130179945.html",
-      "published": "2026-11-09T06:08:48+09:00",
+      "url": "https://ria.ru/20261109/nba-2130187039.html",
+      "published": "2026-11-09T08:02:04+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "RIA Novosti",
-      "title_original": "В России заблокировали более 55 тысяч сайтов, предлагающих запрещенные БАД",
+      "title_original": "Шесть стран Персидского залива планируют построить общую железную дорогу",
       "summary_original": "",
-      "url": "https://ria.ru/20261109/rospotrebnadzor-2130179464.html",
-      "published": "2026-11-09T06:03:44+09:00",
+      "url": "https://ria.ru/20261109/transport-2130186885.html",
+      "published": "2026-11-09T07:59:21+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "RIA Novosti",
-      "title_original": "Над Тульской областью уничтожили два украинских беспилотника",
+      "title_original": "Рубио надеется на прогресс в ОАЭ по урегулированию конфликта на Украине",
       "summary_original": "",
-      "url": "https://ria.ru/20261109/pvo-2130179299.html",
-      "published": "2026-11-09T06:00:56+09:00",
+      "url": "https://ria.ru/20261109/rubio-2130186706.html",
+      "published": "2026-11-09T07:58:51+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "RIA Novosti",
-      "title_original": "Президент Nvidia намерен продолжить работу, несмотря на скандал",
+      "title_original": "Школьники смогут получать пояснения к оценкам за поведение",
       "summary_original": "",
-      "url": "https://ria.ru/20261108/nvidia-2130179116.html",
-      "published": "2026-11-09T05:51:04+09:00",
+      "url": "https://ria.ru/20261109/minprosveschenie-2130186465.html",
+      "published": "2026-11-09T07:55:55+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "RIA Novosti",
-      "title_original": "Nvidia расследует сообщения о якобы информаторе КНР в окружении главы",
+      "title_original": "В Хмельницком прогремели взрывы",
       "summary_original": "",
-      "url": "https://ria.ru/20261108/nvidia-2130178955.html",
-      "published": "2026-11-09T05:43:07+09:00",
+      "url": "https://ria.ru/20261109/hmelnitskij-2130186188.html",
+      "published": "2026-11-09T07:52:14+09:00",
       "via": "rss",
       "state_media": true
     },
     {
       "source": "RIA Novosti",
-      "title_original": "Головин сам попросил замену в матче Лиги 1 с \"Ле-Маном\", заявил тренер",
+      "title_original": "В Киеве объявили воздушную тревогу",
       "summary_original": "",
-      "url": "https://ria.ru/20261108/golovin-2130178816.html",
-      "published": "2026-11-09T05:41:43+09:00",
+      "url": "https://ria.ru/20261109/kiev-2130186023.html",
+      "published": "2026-11-09T07:51:23+09:00",
       "via": "rss",
       "state_media": true
+    },
+    {
+      "source": "Interfax",
+      "title_original": "Аэропорты Череповца и Ярославля приостановили работу",
+      "summary_original": "Аэропорты Череповца и Ярославля временно не принимают и не отправляют самолеты, сообщили в Росавиации.\"Введены временные ограничения на прием и выпуск воздушных судов\", - говорится в сообщении в канале агентства в Max.",
+      "url": "https://www.interfax.ru/russia/1127721",
+      "published": "2026-11-09T07:44:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Interfax",
+      "title_original": "Аэропорт Внуково принимает и отправляет рейсы по согласованию",
+      "summary_original": "Аэропорт Внуково работает по согласованию с соответствующими органами в связи с введением временных ограничений на использование воздушного пространства, сообщили в Росавиации.\"Аэропорт Внуково принимает и отправляет рейсы по согласованию с соответствующими органами в связи с введением временных ограничений на использование воздушного пространства в районе авиагавани.",
+      "url": "https://www.interfax.ru/russia/1127720",
+      "published": "2026-11-09T07:38:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Interfax",
+      "title_original": "Крупное газовое месторождение в Ираке подверглось удару беспилотника",
+      "summary_original": "Добыча на газовом месторождении Хор-Мор в провинции Сулеймания в Иракском Курдистане экстренно остановлена после взрыва в результате атаки беспилотника, сообщают местные службы безопасности.",
+      "url": "https://www.interfax.ru/world/1127719",
+      "published": "2026-11-09T07:37:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Interfax",
+      "title_original": "Иранский остров Кешм подвергся американским ударам",
+      "summary_original": "Американские вооруженные силы выпустили несколько \"снарядов\" по иранскому острову Кешм в Ормузском проливе, передает агентство IRNA.",
+      "url": "https://www.interfax.ru/world/1127718",
+      "published": "2026-11-09T07:11:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Interfax",
+      "title_original": "\"Барселона\" победила \"Атлетико\" в чемпионате Испании по футболу",
+      "summary_original": "Футболисты \"Барселоны\" со счетом 2:1 взяли верх над \"Атлетико\" в центральном матче 12-го тура чемпионата Испании.",
+      "url": "https://www.sport-interfax.ru/1127717",
+      "published": "2026-11-09T07:05:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Interfax",
+      "title_original": "Аэропорт Домодедово принимает и отправляет рейсы по согласованию",
+      "summary_original": "Московский аэропорт Домодедово обслуживает рейсы по согласованию с соответствующими органами, сообщили в Росавиации в ночь на понедельник.\"Аэропорт Домодедово принимает и отправляет рейсы по согласованию с соответствующими органами в связи с введением временных ограничений на использование воздушного пространства в районе авиагавани\", - говорится в сообщении в канале агентства в Max.",
+      "url": "https://www.interfax.ru/russia/1127716",
+      "published": "2026-11-09T06:33:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Interfax",
+      "title_original": "Трамп попросил Нетаньяху воплотить в жизнь американский мирный план по Газе",
+      "summary_original": "Президент США Дональд Трамп ранее в ноябре попросил израильского премьер-министра Биньямина Нетаньяху предпринять шаги по воплощению в жизнь плана по урегулированию ситуации в секторе Газа, на который Израиль согласился в 2025 году, сообщает Axios со ссылкой на источники.\"Президент Трамп в ходе телефонного разговора в четверг сказал израильскому премьер-министру Биньямину Нетаньяху, что он ожидает",
+      "url": "https://www.interfax.ru/world/1127715",
+      "published": "2026-11-09T06:11:00+09:00",
+      "via": "rss",
+      "state_media": false
     },
     {
       "source": "Interfax",
@@ -297,69 +360,6 @@
       "summary_original": "Министры иностранных дел России и Перу Сергей Лавров и Карлос Эспа проведут в понедельник переговоры в Москве.",
       "url": "https://www.interfax.ru/russia/1127714",
       "published": "2026-11-09T06:02:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Interfax",
-      "title_original": "Два БПЛА сбиты в Тульской области",
-      "summary_original": "Силы ПВО уничтожили два беспилотника ВСУ в Тульской области, сообщил губернатор Дмитрий Миляев.\"Уничтожены два украинских беспилотника.",
-      "url": "https://www.interfax.ru/russia/1127713",
-      "published": "2026-11-09T06:00:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Interfax",
-      "title_original": "Аэропорт Калуги приостановил работу",
-      "summary_original": "Аэропорт Калуги временно не принимает и не отправляет рейсы, сообщили в Росавиации.\"Аэропорт Калуга (Грабцево).",
-      "url": "https://www.interfax.ru/russia/1127712",
-      "published": "2026-11-09T05:26:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Interfax",
-      "title_original": "Mercedes выиграл Кубок конструкторов \"Формулы-1\"",
-      "summary_original": "Команда Mercedes досрочно завоевала Кубок конструкторов в чемпионате мира \"Формулы-1\" сезона-2026 по итогам Гран-при Сан-Паулу.",
-      "url": "https://www.sport-interfax.ru/1127711",
-      "published": "2026-11-09T04:46:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Interfax",
-      "title_original": "Россия готова продолжать военно-техническое сотрудничество с Арменией",
-      "summary_original": "Россия имеет большой опыт взаимодействия в сфере военно-технического сотрудничества, и готова продолжать это взаимодействие с Арменией, заявил посол РФ в Ереване Сергей Копыркин.\"У нас накоплен очень большой массив опыта, с технической, материальной точки зрения, по взаимодействию в этой сфере (военно-технического сотрудничества - ИФ).",
-      "url": "https://www.interfax.ru/world/1127710",
-      "published": "2026-11-09T04:43:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Interfax",
-      "title_original": "Посол РФ опроверг наличие предварительных условий для встречи Путина и Пашиняна",
-      "summary_original": "Посол России в Армении Сергей Копыркин опроверг сведения о предварительных условиях для проведения встречи между президентом РФ Владимиром Путиным и премьером Армении Николом Пашиняном.\"О таком сценарии мне неизвестно.",
-      "url": "https://www.interfax.ru/world/1127709",
-      "published": "2026-11-09T04:29:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Interfax",
-      "title_original": "Российский посол высоко оценил условия концессии РЖД в Армении",
-      "summary_original": "Концессионное соглашение между РЖД и Арменией на управление ЗАО \"Южно-Кавказская железная дорога\" (ЮКЖД) составлено на беспрецедентно благоприятных для армянской стороны условиях, заявил посол России в Ереване Сергей Копыркин.\"Я присутствовал на встречах руководителей наших крупных организаций (глав Росатома и РЖД - ИФ) с премьер-министром Армении.",
-      "url": "https://www.interfax.ru/world/1127708",
-      "published": "2026-11-09T04:22:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Interfax",
-      "title_original": "Российская сторона заявила, что Армении придется сделать выбор между ЕАЭС и ЕС",
-      "summary_original": "Армении придется сделать выбор между Евразийским экономическим союзом (ЕАЭС) и Европейским союзом (ЕС), заявил посол России в Ереване Сергей Копыркин.\"Российская сторона достаточно открыто и откровенно говорит о своей позиции, что так не получится идти куда-то в другую сторону.",
-      "url": "https://www.interfax.ru/world/1127707",
-      "published": "2026-11-09T04:09:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -581,6 +581,51 @@
     },
     {
       "source": "RBC",
+      "title_original": "Рубио заявил, что США ждут «прогресса» от переговоров в Абу-Даби",
+      "summary_original": "Администрация США ожидает достижения определенных результатов на предстоящих переговорах по урегулированию конфликта на Украине, заявил госсекретарь Марко Рубио.",
+      "url": "https://www.rbc.ru/politics/09/11/2026/6af0fbe3141669c441880f41",
+      "published": "2026-11-09T07:47:05+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "Депутаты эстонского парламента поругались из-за водки",
+      "summary_original": "Депутат Рийгикогу (парламент Эстонии) из оппозиционной Центристской партии Пеэтер Эрнитс обвинил своего коллегу Юку-Калле Райда из правящей партии Eesti 200, что тот якобы без спроса зашел в помещение фракции центристов, достал из холодильника его водку и выпил ее.",
+      "url": "https://www.rbc.ru/rbcfreenews/6af0f8180a246f462992d7ed",
+      "published": "2026-11-09T07:41:02+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "В Кракове открыли Главную рыночную площадь после теракта с 6 погибшими",
+      "summary_original": "На Главной рыночной площади в центре Кракова завершили следственно-оперативные действия после стрельбы в минувшую субботу, сообщает RMF FM.",
+      "url": "https://www.rbc.ru/society/09/11/2026/6af0f57017a51139ea59e9f3",
+      "published": "2026-11-09T07:19:43+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "На иранском острове Кешм прогремели взрывы",
+      "summary_original": "Несколько взрывов прогремели в районе иранского острова Кешм в Персидском заливе, сообщило агентство IRNA.",
+      "url": "https://www.rbc.ru/rbcfreenews/6af0ec777eaa951f14ecba0d",
+      "published": "2026-11-09T06:49:15+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "Глава Nvidia признался в измене на фоне сообщений о «шпионке из Китая»",
+      "summary_original": "Глава Nvidia Дженсен Хуанг признал факт супружеской измены, извинившись перед семьей и сотрудниками компании на фоне сообщении о том, что в его окружении могла быть женщина-информатор разведки КНР.",
+      "url": "https://www.rbc.ru/rbcfreenews/6af0eb59867d3fb6ce8e32aa",
+      "published": "2026-11-09T06:37:29+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
       "title_original": "Министр спорта Словакии призвал допустить российских хоккеистов до ЧМ",
       "summary_original": "Российские хоккеисты обязательно должны выступить на чемпионате мира в 2027 году, заявил министр спорта Словакии Рудольф Гуляк в эфире телеканала ТА3.",
       "url": "https://www.rbc.ru/rbcfreenews/6af0df7b68d985650a6b0c3a",
@@ -591,7 +636,7 @@
     {
       "source": "RBC",
       "title_original": "Хостинг-провайдер ESTT сообщил о «серьезном сбое»",
-      "summary_original": "В работе хостинг-провайдера ESTT произошел «серьезный технический сбой», затронувший также клиентские сервисы, сообщает компания.",
+      "summary_original": "Хостинг-провайдер ESTT сообщил о серьезном техническом сбое, начавшемся 8 ноября около 04:00 мск. К вечеру часть клиентских сервисов удалось восстановить, однако инженерная команда продолжает работы по стабилизации инфраструктуры",
       "url": "https://www.rbc.ru/technology_and_media/09/11/2026/6af0e11416a877722eec188a",
       "published": "2026-11-09T06:00:03+09:00",
       "via": "rss",
@@ -603,51 +648,6 @@
       "summary_original": "Власти немецкого города Бад-Дюбен выставили на продажу 800-летний замок Шнадиц по цене в €1 в надежде привлечь инвесторов, сообщило Bild.",
       "url": "https://www.rbc.ru/rbcfreenews/6af0d2da06a631a23fbe032b",
       "published": "2026-11-09T05:37:02+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "RBC",
-      "title_original": "Nvidia начала расследование данных о романе CEO со шпионкой из Китая",
-      "summary_original": "Совет директоров NVIDIA начал независимое расследование после сообщений о попытках иностранной разведки атаковать Дженсена Хуанга. В центре скандала — возможные связи главы компании с руководителем Megaspeed, связанной с КНР",
-      "url": "https://www.rbc.ru/technology_and_media/08/11/2026/6af0da63e4067d36b817dd06",
-      "published": "2026-11-09T05:30:45+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "RBC",
-      "title_original": "В Минобороны анонсировали переход на доставку грузов к фронту дронами",
-      "summary_original": "Задача тыла — доставить все необходимое на передовую без участия человека, используя БПЛА, чтобы боец не тратил силы на перенос тяжелых грузов и не становился мишенью, заявил замминистра обороны Валерий Солодчук",
-      "url": "https://www.rbc.ru/politics/08/11/2026/6af0d30af07a758c7ac38b4b",
-      "published": "2026-11-09T05:18:48+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "RBC",
-      "title_original": "Турнирная таблица РПЛ сезона 2026/27",
-      "summary_original": "«Зенит» упустил победу в матче с «Ростовом» (2:2), но остался лидером РПЛ по итогам 14-го тура, опередив «Динамо» по дополнительным показателям",
-      "url": "https://www.rbc.ru/sport/24/08/2026/6a8ca6c89a79470ae5977622",
-      "published": "2026-11-09T04:55:47+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "RBC",
-      "title_original": "Beget лишили статуса регистратора доменов после кибератаки",
-      "summary_original": "Аккредитацию провайдера Beget как регистратора доменов .RU и .РФ приостановили, сообщил координационный центр доменов.",
-      "url": "https://www.rbc.ru/rbcfreenews/6af0c9466adff985c2ee4d48",
-      "published": "2026-11-09T04:54:54+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "RBC",
-      "title_original": "В Калифорнии попросили губернатора вмешаться в ситуацию вокруг Форт-Росса",
-      "summary_original": "В письме губернатору Калифорнии Fort Ross Conservancy попросила продлить соглашение с парком Форт-Росс, чтобы устранить замечания аудиторов и добиться независимой проверки решения о прекращении более чем 50-летнего партнерства",
-      "url": "https://www.rbc.ru/society/08/11/2026/6af0aecf16a877722eec183c",
-      "published": "2026-11-09T04:47:59+09:00",
       "via": "rss",
       "state_media": false
     }

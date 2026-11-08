@@ -1,14 +1,50 @@
 {
   "team": "uk",
   "team_name_ko": "영국팀",
-  "collected_at": "2026-11-09T06:13:09.003154+09:00",
+  "collected_at": "2026-11-09T08:11:28.833449+09:00",
   "headlines": [
     {
       "source": "BBC",
+      "title_original": "Top House Democrat 'a hard yes' on impeaching Pete Hegseth",
+      "summary_original": "But the Pentagon said the defence secretary would not be deterred by \"phony investigations\".",
+      "url": "https://www.bbc.co.uk/news/articles/cj4g1nwx39wno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T07:49:53+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
       "title_original": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-      "summary_original": "Jensen Huang also admitted to having been \"unfaithful \"to his wife and apologised for hurting her and their children.",
+      "summary_original": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
       "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T06:10:23+09:00",
+      "published": "2026-11-09T07:42:41+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Norris wins gripping race after Antonelli and Russell errors",
+      "summary_original": "McLaren's Lando Norris wins a gripping Sao Paulo Grand Prix in difficult conditions, as Mercedes secure the 2026 constructors' championship.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T07:11:31+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Bizarre & thrilling theatre as Carrick in limbo with Man Utd in drop zone",
+      "summary_original": "It was a Premier League classic at Old Trafford but what has Manchester United's 4-4 draw with Aston Villa done to Michael Carrick's future?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T06:50:05+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "summary_original": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T06:37:36+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -17,7 +53,7 @@
       "title_original": "Maya Jama steps down as host of reality TV show Love Island",
       "summary_original": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success.",
       "url": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T05:51:50+09:00",
+      "published": "2026-11-09T06:19:48+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -40,47 +76,20 @@
       "state_media": false
     },
     {
-      "source": "BBC",
-      "title_original": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "summary_original": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T04:58:02+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BBC",
-      "title_original": "Feyi-Waboso burns bright as England energy endorses Borthwick",
-      "summary_original": "Immanuel Feyi-Waboso's blistering first half display provides England fans with a glimpse of what could be in a much-needed statement of faith in coach Steve Borthwick.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c620r5dp51e0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T04:52:48+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BBC",
-      "title_original": "Are 'outstanding' Brighton now Arsenal's main title challengers?",
-      "summary_original": "After moving up to second in the Premier League, could Brighton really be Arsenal's main title challengers?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T04:24:36+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BBC",
-      "title_original": "Norris wins gripping race after Antonelli and Russell errors",
-      "summary_original": "McLaren's Lando Norris wins a gripping Sao Paulo Grand Prix in difficult conditions, as Mercedes secure the 2026 constructors' championship.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T04:13:53+09:00",
+      "source": "Sky News",
+      "title_original": "Nvidia launches 'foreign intelligence' investigation after CEO admits affair",
+      "summary_original": "Tech giant Nvidia says it is investigating reports that CEO Jensen ⁠Huang was targeted by a foreign intelligence effort.",
+      "url": "https://news.sky.com/story/tech-giant-nvidia-launches-investigation-after-reports-ceo-was-targeted-by-chinese-intelligence-13609986",
+      "published": "2026-11-09T05:41:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Sky News",
-      "title_original": "Nvidia launches 'foreign intelligence' investigation after CEO admits affair",
-      "summary_original": "Tech giant Nvidia says it is investigating reports that CEO Jensen ⁠Huang had been targeted by a foreign intelligence effort.",
-      "url": "https://news.sky.com/story/tech-giant-nvidia-launches-investigation-after-reports-ceo-was-targeted-by-chinese-intelligence-13609986",
-      "published": "2026-11-09T05:41:00+09:00",
+      "title_original": "Government considering banning under-16s from Vinted and eBay",
+      "summary_original": "The government is seriously considering banning children from online sales platforms such as eBay and Vinted, the culture secretary has said.",
+      "url": "https://news.sky.com/story/government-considering-banning-under-16s-from-vinted-and-ebay-13609954",
+      "published": "2026-11-09T04:43:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -139,12 +148,39 @@
       "state_media": false
     },
     {
-      "source": "Sky News",
-      "title_original": "Briton among six killed by 'far-right' gunman in Krakow rampage",
-      "summary_original": "A 32-year-old British man is among six people killed in a mass shooting in Krakow, in which another Briton was wounded, Polish officials have said.",
-      "url": "https://news.sky.com/story/british-national-among-six-killed-by-far-right-gunman-in-krakow-rampage-13609612",
-      "published": "2026-11-08T11:19:00+09:00",
-      "via": "rss",
+      "source": "ITV News",
+      "title_original": "£1,000 up for grabs this week! Enter from just £1 - ITV Win",
+      "summary_original": "£1,000 up for grabs this week! Enter from just £1 - ITV Win ITVX",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU0JkeTVTYUo0Vy0yRWlTRVlJVlF1WGZ2SHNFV0xCaWxGU0ZJT01nMkNaT0ljbUpVN0lRZllka2J2eEJrRUFPUU5NV0VOeHpfNWF1NlZpVVF5RjdqNzZReVBNdmhlUnVyWWw5MFRZNG5ISDlHVmZzZ0p3Nl9QSVpOODlHS3BWUl9BMURCelB4dlM?oc=5",
+      "published": "2026-11-09T07:48:34+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "Win £70,000 and an Audi Q3!",
+      "summary_original": "Win £70,000 and an Audi Q3! ITVX",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84MXRaNkJjT3hCdTFqLVFYX2o0VFllMTNUc3g0MkhFWDVqN21venB3cjk0cXdxRjFEYzBrc2d2S0RHN21hRGoyQnBFaXItYml0N3lWVy1uakZRd21YdWM5OENWdVVVRFYzanY0ZlA3RzV4Rng5Zy1hbVV5RG0?oc=5",
+      "published": "2026-11-09T06:51:38+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "Nvidia investigates reports CEO Jensen Huang was targeted by Chinese spy | ITV News",
+      "summary_original": "Nvidia investigates reports CEO Jensen Huang was targeted by Chinese spy | ITV News ITVX",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcHU2U1RaX3d5VWM1b05ncDN5NWRlZWdxV1V4NDFwUjV4Q05SU3I3cklmb0lPMVp6TUowX1hfalljd05jbkJZZ1I0alU1aFFNNVZURkZ6TkZnbkFFQXcwUDgtRnZkdW1fa282b1RhRkdkVmRnQjJ5c3dHV3FXSlJZWDFxQzFqR3dRRjNlTUVhcG5VNF93ZzZIckFsUnBkUmxORWNKWVdiM1NYaDB5?oc=5",
+      "published": "2026-11-09T06:41:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "Doctors treating ‘critical’ injuries after teenagers hit by car",
+      "summary_original": "Doctors treating ‘critical’ injuries after teenagers hit by car ITVX",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWl9sbkRpa3g4SmZjWU40V3cyaWJBNFpWVEhLaGcxMGM4Unl2bGQxUGI3T1pBOHZXUmNtSmhJQzZLdDByek5icUZMWGNLYURadzlPQXdFYnMzVC0wS1E4N2NGczhxNXY1ZFJQZzdrTVZTa2JpaW9jbWpKSkRtT3VRXy1VeDBIYl9MdnpqNWZZd3djTGVRQklSUDRBbFZwQQ?oc=5",
+      "published": "2026-11-09T06:40:01+09:00",
+      "via": "google_news",
       "state_media": false
     },
     {
@@ -153,6 +189,15 @@
       "summary_original": "ITV Win Latest Competitions ITVX",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlQlZVLUpMVFpFUmpOeWhtdnhoeUN2eEl3Vnhzei1wRVlKMEZxVk1qUVNXWW52WDhNSGZHa2l1ajVhaXNrZlRNQUZjNk45ZlY1VTlLYmFEMVdMUjgyc3llZ1dTQWo0Qk1weW9vd0R1TERYcUJy?oc=5",
       "published": "2026-11-09T05:23:48+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "Farage suggests he believes investigation into £5m gift will find against him | ITV News",
+      "summary_original": "Farage suggests he believes investigation into £5m gift will find against him | ITV News ITVX",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUmR5eU1VMWxiMHA4YVdicjZEV09XNU1DNXlGTVM5akt2aVNOT2RHZjJqTHcxRFluUWllTjY3blBzMWo1c195dzlIcDREZ0txQlJ1dXBfM2pfNGxMUlN1cGlzMC1MR2NzSmU3UEU4SXZSakFwVXFWWldmbnh3ZW5EUkt0a3RYR19hZ2RMWGN1QTJJZlgtLVZhdS1MNC02S3h3NW5EWjlERzgyZ3F0anNpYnl3?oc=5",
+      "published": "2026-11-09T05:19:55+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -175,47 +220,11 @@
       "state_media": false
     },
     {
-      "source": "ITV News",
-      "title_original": "Watch the latest Granada Reports from Sunday 8th November",
-      "summary_original": "Watch the latest Granada Reports from Sunday 8th November ITVX",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWHoyUkptRVlfcWlKdlVmUkNqZXZMVHB6Z2FNLTY1R0xzTXpBZ01sRDRveEpvYkhhWjNfTFRhRTNUdkFOZmNqU2VndmJNQUNfMnhRTDZScEFrNHVIalZydkhqQUt2Um9UQjZQM3MyYlpnNDhKSm9qM2x0Z19hOWc5MkhkU1ZmenNkcEdOekpyQTVyQW1YV21kVHcxY0Y?oc=5",
-      "published": "2026-11-09T04:13:48+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "ITV News",
-      "title_original": "Seven teenagers struck by car in Dublin",
-      "summary_original": "Seven teenagers struck by car in Dublin ITVX",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY0xwdWF1U2NXWWowTEw4M056R3E3V2lRLVFXMVBvd0VMSmJ6aURfZWl2eU9RSGNFbUt3RXZEM005MG9JcGIweVJacnhVYTJfX0t6YnNuelFfZXZKMlU2REUzTmFoTm9JbEk1am42eVJEVndiUXNOLWdqakpWLUZIaw?oc=5",
-      "published": "2026-11-09T03:55:55+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "ITV News",
-      "title_original": "Heavy rain floods tents housing thousands of displaced families in Gaza",
-      "summary_original": "Heavy rain floods tents housing thousands of displaced families in Gaza ITVX",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXFRNnotQ2xvQlU5SzlIVGp0OVRwYjNlTkRNbVBVQTZGRHJMRVdfYnVyX2Z5X1RTUHJYd0t5dnlULVhMWmVFcXlUWWxoY2JiRkxxSl9JaUtPTXJ5dTFTSFJBaklzSkdqTUhyOEZoS19LNDZnaXhZaFlJekI2UGxyS3BWRnBGSzV1cFdMbDBNNlF2eVpmdlJTWg?oc=5",
-      "published": "2026-11-09T03:50:46+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "ITV News",
-      "title_original": "Win £70,000 and an Audi Q3!",
-      "summary_original": "Win £70,000 and an Audi Q3! ITVX",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84MXRaNkJjT3hCdTFqLVFYX2o0VFllMTNUc3g0MkhFWDVqN21venB3cjk0cXdxRjFEYzBrc2d2S0RHN21hRGoyQnBFaXItYml0N3lWVy1uakZRd21YdWM5OENWdVVVRFYzanY0ZlA3RzV4Rng5Zy1hbVV5RG0?oc=5",
-      "published": "2026-11-09T03:49:16+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "ITV News",
-      "title_original": "'Godzilla Minus Zero' stomps to $31.6M debut | ITV News",
-      "summary_original": "'Godzilla Minus Zero' stomps to $31.6M debut | ITV News ITVX",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTTU1eWhNVzZCaWtaaV9kNmRJT2JkcHF3NTNCTEVkVTRaZTdsVnNFMXRLa2ZSWDctUjlyM1RDR0hMclFXaHFuM1BOUmRKc0N1SG51WlZXLXRzeGVMVlFYSXk3b1BLSzNXTF9GM28yOEpwNFNJbExIQnY3bXYtRHV6Nzh3?oc=5",
-      "published": "2026-11-09T03:32:00+09:00",
+      "source": "Channel 4 News",
+      "title_original": "Stacey Dooley's Australia",
+      "summary_original": "Stacey Dooley's Australia Channel 4",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM3QyemhVelRBWGhyMWY4ZUZ2Zm5zMG1jQThjUzN5a2ZFUEZSUnhVVjNWVWU2UDZROEk2aG5SbTlCSGdzT01kY0NaU0JGWnpjazNPMHh6U1lkWFdvT3R5dzFIMEZRVGl0bFNKV21LQlU1SlJWTHdHYkVZTENXQXRNV0tNUW1IX2M?oc=5",
+      "published": "2026-11-09T07:11:24+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -257,15 +266,6 @@
     },
     {
       "source": "Channel 4 News",
-      "title_original": "King Charles leads 2026 Remembrance tributes as Andy Burnham makes veteran rough sleeping pledge",
-      "summary_original": "King Charles leads 2026 Remembrance tributes as Andy Burnham makes veteran rough sleeping pledge Channel 4",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaFFMSDFHOGNvcUFhUW0zV1k5cEN1SDZ1VlB5bkdCTVV6ZkhtY05wbmI0cFBYdWtCTjh1MFNlSmFKUXBrQlFHNEM0cjBYczJ3b3BoVGlnei1ISm9MNUpRZ0V0Q2I2NHcwMnRod0d2aWZXTG4xQWFyUkx4Z2dwQVpDSUZ1REJ0cU84MkZoZVBQTkdKaGQ4aENfT1Z5WUdZNVRUNEcyY016YVVUZlRTbGlnVnRxamRyNGU2RXlWZFFqanpNcVFq?oc=5",
-      "published": "2026-11-09T04:03:29+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Channel 4 News",
       "title_original": "Krakow shooting: British national confirmed among six dead as Poland mourns",
       "summary_original": "Krakow shooting: British national confirmed among six dead as Poland mourns Channel 4",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdHBrQ3Btc19pa3JlcmZVWlVpOVRpU2VZMmdpZzRUUFo2bm1SQlRXaHlRYjgxY01tV1pjMzlwbmtvWHFZX0pZdGw2aFdJT2pDbGtBRzFZbUh6eUxzUkNwaVVrRVNvVy11Umd4NjdyYWRtVFRSRzVDc3pVVVhSREpESnU4cENhakFzWkVvU1ZVMllxUlJLZFhnTzViczJKeU9SLXg4emlNdw?oc=5",
@@ -275,100 +275,100 @@
     },
     {
       "source": "Channel 4 News",
-      "title_original": "Democrats Win Big",
-      "summary_original": "Democrats Win Big Channel 4",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TTWFpMk5qVlJ6bFV3SlRCNXRIdVVKbjJNZ2pabmR2bHZKcFlqamtDSkNfTHFBYjl5N25yYjFGX2lHa1A0WEJ2UlNqcVNST1FkMENvS0JlU21VNnBpR1g4R0J4X0NmSWtqV1BuRE82eFJFbi04T3dOdWVVakd4Zw?oc=5",
-      "published": "2026-11-08T19:37:30+09:00",
+      "title_original": "King Charles leads 2026 Remembrance tributes as Andy Burnham makes veteran rough sleeping pledge",
+      "summary_original": "King Charles leads 2026 Remembrance tributes as Andy Burnham makes veteran rough sleeping pledge Channel 4",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaFFMSDFHOGNvcUFhUW0zV1k5cEN1SDZ1VlB5bkdCTVV6ZkhtY05wbmI0cFBYdWtCTjh1MFNlSmFKUXBrQlFHNEM0cjBYczJ3b3BoVGlnei1ISm9MNUpRZ0V0Q2I2NHcwMnRod0d2aWZXTG4xQWFyUkx4Z2dwQVpDSUZ1REJ0cU84MkZoZVBQTkdKaGQ4aENfT1Z5WUdZNVRUNEcyY016YVVUZlRTbGlnVnRxamRyNGU2RXlWZFFqanpNcVFq?oc=5",
+      "published": "2026-11-09T04:03:29+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Channel 4 News",
-      "title_original": "Martin Clunes: A Man and His Dogs",
-      "summary_original": "Martin Clunes: A Man and His Dogs Channel 4",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa29RbEc2LWd4NjVmV1B6ZU41WFNrVTdYcEV0TVNmREpFaDVRN0NMSzlaU1FNQlVMdG03YUZKUzdVaUd4aXZ5OWtzaF9pajFDZlJjQ0wtUWVNSHk3WnN3c1YtWW1kT3VlbUVWTjlIb1lDRGVkUUNNeXF0TDhacnpJeDRPOV9JNDR5S3U3R0s0akN4Zw?oc=5",
-      "published": "2026-11-08T19:37:29+09:00",
+      "title_original": "Watch Marley & Me",
+      "summary_original": "Watch Marley & Me Channel 4",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZZzZyOWVVRkpxMFYtb09lVGdZSkhoU0ttRl9QbHJnd2xSeUVxaTdlZ0JVblBOS0V5b2QwNDlOakg2azNrbC1reTQwdFBjbzZPV19qX3RTbUE?oc=5",
+      "published": "2026-11-09T02:35:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Reuters",
-      "title_original": "How a digital bank’s collapse toppled Paraguay’s president",
-      "summary_original": "How a digital bank’s collapse toppled Paraguay’s president Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWlVMmg2TlFMXzFudjZfRUlFWlVkYldzRzcwY2U0NVM2VUc4YXpYWDhnbHpJTHAzd25KUG9DUmJreXlEazZsZmlkWXJJal9KYUdpYmZCVkZDaUVsY3dvLUxKUWFPZW42V21FT1NhbC1vX2owY1lyQVJUdXI4b0hwTkQ1S0ptajZjNnp4LXlxVnVKN2pOZVRpbVNEYnVGcmE3THotZGh3Mll4X1k?oc=5",
-      "published": "2026-11-09T05:59:13+09:00",
+      "title_original": "National Australia Bank names Ian Saines as next chair",
+      "summary_original": "National Australia Bank names Ian Saines as next chair Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYU01QkQtV1lMOWpweWhScXZ1RnFIdjFFdlY4QWcyeXUweEZMUTRKUVdEYjhQTFNHQ3ZBYVYtcnZoZjd6ZDRkXzc1WjhpRHlpLXRTbjBzWE01T1BQaTZBNGg4WXIzYkxDOWdLakNQMm16X09xLVR2QUVwRlVoZ1Bmc0ptUHRhQ1R0Wm1mYnFLeXFabXktaElIMUROWml2SzllN2RlSExtOE90QQ?oc=5",
+      "published": "2026-11-09T07:55:43+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Reuters",
-      "title_original": "DeChambeau reflects on uncertain days ahead after LIV liquidation announcement",
-      "summary_original": "DeChambeau reflects on uncertain days ahead after LIV liquidation announcement Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQlpsTjdDMFZTOUtKd1VWdnROQ192TUNmbk9JYUFxLXlvNk5VNmZ2YklKZmJ6M0J1bmxMWWhKZUdBY0FxM05Kdi1mM2pqRjJYdnFOOE56UUFGRmZseW9jODlVakdkSF9icVplZVhCQ05VbDJfVTlKb250WHhWb0J2YkRTbEFkMXVmYU5OY09uSzd0Z3ZCUHBUdE5EbXRoTWJmcDd5aEpjQXpBamtwX1RtS2JpdDh1dmNTUVRNQkp0Ymw?oc=5",
-      "published": "2026-11-09T05:53:27+09:00",
+      "title_original": "National Australia Bank names Ian Saines as next chair",
+      "summary_original": "National Australia Bank names Ian Saines as next chair Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTFp5UEJVNVltUk9ReGNWN2hmOWNXbFg3OFd5ZTN5Vk5fQl9RZUlZdXVnSVJpRGlHNWtrRzhsX19KckZFdkxiZ0hVMVUtWXhXaFlrREpUUVZUVlE3WW5pZXpiUW5ONlpkc0E1dGR0UThWcjhQMGtuaGI5MGxJZjZITVV3YkdiNTJVYUxPSFA0S3NDTFNHUE9xbzJsRjRfNldYQzRNRWZxcl9tNFE?oc=5",
+      "published": "2026-11-09T07:55:43+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Reuters",
-      "title_original": "Production suspended at Iraq's Khor Mor gas field after drone attack, sources say",
-      "summary_original": "Production suspended at Iraq's Khor Mor gas field after drone attack, sources say Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSjc4dFNBUmN3UHp3Uk5FLUhNOElWeTVLRDNzSHZsSTAyUWZ4elN0eHdYUVJ5MDZBb0Y3MDNaNzlWbTRHMnctUFY5dGdNWWtKUnZTdHRPeXl1UUhlUE9mdTU0d2ZWTk9Hak9HaHVXaVBJQ3BoVXdfZnFxelF2aUc1MEV1U0JFQ1lDQ0s3RXhtRnk2dmoxZ2h4a3FRazE4Y3VpbGlDYW1zdE1DcDYxU3R4aE9zOWxkdTNuRVFxMzRlTDEtMDNHRmpr?oc=5",
-      "published": "2026-11-09T05:47:27+09:00",
+      "title_original": "RBA's Hunter says AI has yet to deliver productivity boost, trigger job losses",
+      "summary_original": "RBA's Hunter says AI has yet to deliver productivity boost, trigger job losses Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNW9UVDViMV80RXpjYmswQ1lNQ0pMVG02UDEwcUVINjZRNTI5R2cydUxFYm9nMEI2YVUtNm5KT2xzdUwyNW93cGpldzBudzJkSWU0dEg2NU5LN1UyVW9tVW0zbDJ6Z0JmVl84UVc5ZEdBakZUcGhDMjNFX1ZhX2JfM0NIanRJM0tuYnVSZHZrTU5lSVNSSVZJZVdmZjRIclNic2UyYjZacE40cUxWMnJVeFg5RGNlUkdxSGRPVnBDdUZhV3UtT2hZ?oc=5",
+      "published": "2026-11-09T07:43:45+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Reuters",
-      "title_original": "Nvidia opens probe after report that CEO Huang was target of foreign intelligence",
-      "summary_original": "Nvidia opens probe after report that CEO Huang was target of foreign intelligence Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFNRSy1yS0duakdXT1hKbjI2MkFsMVhHeTQ1VVh4QlZYOVdvd0ZKaWVjTzFXT2JCRlR2T2IzSjRKcENSTkNLbVR2VU90Q1VyUHhEZWp0NGZLQUZPRXJ1NlNVNG9OZ0U0T2VwYmJuaURBMWVBYXhHd1hDb00zZU9aUXJGaU10bmFrclgySUZoUE1GX210Q19TQ1pXRjJTVFpoZjN2NG9qblVQMXhHUC1vV3JxaHkxbVJiVkhldEZISHlCdw?oc=5",
-      "published": "2026-11-09T05:31:39+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Reuters",
-      "title_original": "Poland mourns victims of Krakow shooting amid security fears",
-      "summary_original": "Poland mourns victims of Krakow shooting amid security fears Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjUxVkw1TWRaU0FNWjdiZlUyUk9KcmFRMjlobjltclhvd2xEMFZic2QyLVJ1U2M4WEtOVWJ0S3J6WHdkT19pcUJwQml5Z3UyLV9PalUtQWV5X1J0dzJVMnFyc2pDQllBWTNKNTh2dVNkUVFMQWZ0OWlnUFp0Tm5LZmt0YXItSUprX09QVE93dElVd082LXpyck04QU0xemMySklEV0xSVDZRcWx5LVdUWA?oc=5",
-      "published": "2026-11-09T05:29:16+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Reuters",
-      "title_original": "Norris wins in wet Brazil as Mercedes take constructors' title",
-      "summary_original": "Norris wins in wet Brazil as Mercedes take constructors' title Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTUk1NGtXQ0g4Z3Y5STJtbm1oWFZDWDZiTmZjTFlZaTU0R2R2UG00bl9oNTVZcE5sVHhNQlVkNGg5dE5QWDBqNTdyQVpQSXNNNzhicjF0UzZaYjJ2SGd3ZDlkVzQxYVVzcWJIVWh1eTVPN1R5cWMyOHZRcDhOQ2IxMlJ6elBiUnFrM3lyVzBXZ3B2TmxKc25XQmdUUXNRWUs3UmpRaHhR?oc=5",
-      "published": "2026-11-09T05:28:52+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Reuters",
-      "title_original": "Tounde Yessoufou totals 23 as No. 13 St. John's blasts Iona",
-      "summary_original": "Tounde Yessoufou totals 23 as No. 13 St. John's blasts Iona Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSndYLUNSQ2ZXM3AxYzdHQVdmYkt4TkxOVmpkN29iM2w4UG9pa3hZQ2ZsRTJzWERXRFF2aHN0ZnduWU53SU94TUZObXQzTV9RM2pNNmhPMkx2cFlRTXJfSG5CeEZuZjZVT3pxbnV6RUNwbFE4RzUzb2hkbkQzRjVGSy1uYXIwLVk5dWR3SGxSX0pjOHc2RHV5Z1B3UEJtX193ckljNG05MmpCdWVqRXg3U0Fn?oc=5",
-      "published": "2026-11-09T05:26:56+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Reuters",
-      "title_original": "Pope Leo arrives in Milei's Argentina as tensions loom over austerity, Iran",
-      "summary_original": "Pope Leo arrives in Milei's Argentina as tensions loom over austerity, Iran Reuters",
+      "title_original": "Pope Leo tells Argentina's Trump-ally Milei that leaders must know limits of power",
+      "summary_original": "Pope Leo tells Argentina's Trump-ally Milei that leaders must know limits of power Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV8wSU00NXg1Q0xRcmpIZWxTdkhGYV8zZmZuZ1pxdWpwQWpabFdGQVFQY1VSUkY5cUdNd1lnQWJjV3VkYy11Sk1nUHdkeGdnbFZ3bXRTNGxaeE9XWnVHRHlMVEF2T0I3QjVEX2dLY054QlZWUi1aTnBzc01RY21GUG1MYXhTcXhmZTl2UF9XZDh5WHlrNjk4ZXZ0OU16UkNhdnBjUi1mSDAwSkpxTnRMQjBLa3BVaWs?oc=5",
-      "published": "2026-11-09T05:10:33+09:00",
+      "published": "2026-11-09T07:20:49+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Wolff says Antonelli still no Senna, but 'Senninha' can grow",
+      "summary_original": "Wolff says Antonelli still no Senna, but 'Senninha' can grow Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN01LWmlVUy1HMjZpbFF4UXkwdGhSOVNjSW5pVHlfb2VQaEZvV3BRMEdQcF9FaHZ3a0F5NDE4WGotQ0czUVdTX2tHOTRFa3dYUldPMG5qaW5MRWNyWUZxSjV6YVlZRGZxa1RjWWNlUDZmVE01dGtjelR5SWdtMkl6SnhUZ3BGY1RZdmZFZmdYQnpIc1o2UUVvbXNZX200VVFBcUxjZ21lZXM?oc=5",
+      "published": "2026-11-09T07:20:31+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "New Zealand's new lawmakers start to arrive at parliament as government remains in limbo",
+      "summary_original": "New Zealand's new lawmakers start to arrive at parliament as government remains in limbo Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSVpEajBrQzJrUnlJeDZSMWFUaF9zcWloWW1nQXV5aTdCM0M1bGRkUndVenpZUUo0U1J3NlhhbFU4R3Zydl9QUUZESXFzMWRRV0dmUWhqZzdOMzBIMy15c2ZMbTJPcXNjaGNydXRQMGJPTDhsSUxSZExMdm9YdWhfYjZ3QXdkdzduaTFUbTdGOGYyaFZCcmhWQnhwRHNGTmxZdFJ1eHpudTZ6QUlGVXNMS2VuVlg2dFJaSXBWU0pITWVMaUhPWldIbGZR?oc=5",
+      "published": "2026-11-09T07:13:43+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Norris unscathed after bottle and fireworks mishaps",
+      "summary_original": "Norris unscathed after bottle and fireworks mishaps Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLTc5X0hrbWxLb2dUZExaRDJpQ1puRUtPMF9fOHdIbGNYYWo3TWxFX3hkNW1JQTVsckhVUEFJX09GVUFMTjdNUE1lV3VrWjVGNFh0aFhoajF0V25DdE9qX09ORGxBM2VhUG1pdjRVSkZFc2J6OWpDWm5BRTJQQ053MWRaajlKXzVTeExPLTQ2aWUxUm02UXhtQWIwRTJlc1NJ?oc=5",
+      "published": "2026-11-09T07:07:43+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Australian lender ANZ reports 31% rise in full-year cash profit",
+      "summary_original": "Australian lender ANZ reports 31% rise in full-year cash profit Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWF0c3dhX2tSRGVTN05kLV82ektpT3hRYzRkc0ZJT1BBYTRYX1dOWXBvQl9Vb2ZMd05xc1FxRnRlX0htY0tGTW5nY2RIcXd5LXJfRmd4b05uTWNCdy1VM0YtRUZpLTdTWC1ZRXdPcnBRMlZaM1NlVjMtZUtrZFpTZkoyS3lXYkIyTDZyaWxabmFJR3NDZWxuMlBRbXRZS2Ita25EQ3RqRURrckJ1Q0dxaWVB?oc=5",
+      "published": "2026-11-09T06:59:44+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Financial Times",
       "title_original": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
-      "summary_original": "Tech company opens investigation into CEO as he confirms extramarital relationship in internal message to employees",
+      "summary_original": "Silicon Valley chipmaker opens investigation into chief executive as he confirms extramarital relationship in message to employees",
       "url": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1",
-      "published": "2026-11-09T05:19:02+09:00",
+      "published": "2026-11-09T07:31:02+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -392,19 +392,19 @@
     },
     {
       "source": "Financial Times",
-      "title_original": "Republican infighting mounts over corruption claims after midterms wipeout",
-      "summary_original": "Former health official’s allegations of corporate influence over Trump administration policy spark war of words",
-      "url": "https://www.ft.com/content/66e9ca46-d1ea-473c-b8d6-06ba1dfc9e76?syn-25a6b1a6=1",
-      "published": "2026-11-08T21:51:25+09:00",
+      "title_original": "Sequoia’s new chiefs sweep away last remnants of Botha era",
+      "summary_original": "Closures of London office and permanent capital fund mark latest efforts to streamline Silicon Valley VC firm",
+      "url": "https://www.ft.com/content/abf66424-1738-4c1b-9d6b-a868be30b474?syn-25a6b1a6=1",
+      "published": "2026-11-08T23:00:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Financial Times",
-      "title_original": "Anthropic strikes $3.4bn deal to generate gas-fired power for data centres",
-      "summary_original": "AI lab bypasses traditional suppliers to secure scarce equipment as demand for energy surges",
-      "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1",
-      "published": "2026-11-08T20:00:09+09:00",
+      "title_original": "Republican infighting mounts over corruption claims after midterms wipeout",
+      "summary_original": "Former health official’s allegations of corporate influence over Trump administration policy spark war of words",
+      "url": "https://www.ft.com/content/66e9ca46-d1ea-473c-b8d6-06ba1dfc9e76?syn-25a6b1a6=1",
+      "published": "2026-11-08T21:51:25+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -437,28 +437,55 @@
     },
     {
       "source": "The Guardian",
-      "title_original": "NFL week nine: Jets v Chiefs, Rams v Commanders, Broncos v Panthers and more – updates",
-      "summary_original": "Bengals joint-top of AFC North with 34-17 win in Madrid What do the midterms mean for the NFL? | Email Graham Broncos 0-0 Panthers 14:56, 1st quarter Here we go! Carolina kick it away to Denver. The Broncos run it back to the 45-yard line. Nice trot from Sean Fresch. Excellent field position for Bo Nix to go to work. Continue reading...",
+      "title_original": "GPs to offer 300,000 patients extra support to ease winter strain on NHS",
+      "summary_original": "£40m scheme in England aims to keep most vulnerable people well at home and avoid unnecessary hospital stays Hundreds of thousands of vulnerable patients in England are to receive extra support from their GP as part of a £40m drive aimed at keeping them out of hospital this winter. As the NHS gears up for the pressures of the coming months, family doctors will offer 300,000 people with frailty and",
+      "url": "https://www.theguardian.com/society/2026/nov/08/gps-extra-checks-winter-nhs-hospitals-england",
+      "published": "2026-11-09T07:30:51+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Barcelona move clear at the top after Fermín López’s double stuns Atlético Madrid",
+      "summary_original": "They had been in a battle, they had been behind and they had been on edge, but Barcelona found a way through, holding on to their place at the top of the table and holding the doubts at bay for another day. A fortnight in which they were defeated by Pris Saint-Germain and Real Madrid , in which they might have wondered if something was not quite right, ended with a 2-1 win at Atlético Madrid. This",
+      "url": "https://www.theguardian.com/football/2026/nov/08/atletico-madrid-barcelona-la-liga-match-report",
+      "published": "2026-11-09T07:27:50+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Crystal Palace poised to sack Pierre Sage and target Frank after Liverpool defeat",
+      "summary_original": "Frenchman under pressure after four successive defeats Former Spurs manager Frank emerging as main candidate Crystal Palace are poised to sack Pierre Sage after Sunday’s defeat by Liverpool left them bottom of the Premier League for the first time since December 2017, with Thomas Frank emerging as the main candidate to succeed him. The Frenchman, appointed in mid-June to replace Oliver Glasner, ha",
+      "url": "https://www.theguardian.com/football/2026/nov/08/crystal-palace-pierre-sage-thomas-frank-main-candidate-manager-selhurst-park",
+      "published": "2026-11-09T07:12:58+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Stacey Dooley’s Australia: Off the Beaten Track review – presenting this fluffy show is beyond her",
+      "summary_original": "This trip to Kangaroo Island is pleasant enough, but the investigative reporter seems lost when tackling something that doesn’t feature exploitation or outrage For years on BBC Three, Stacey Dooley equalled strife. Child labour, sexual exploitation, poverty, religious extremism, homelessness: all were ably tackled by a presenter who stood out for her lack of lofty TV-star pretension and her knack ",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/08/stacey-dooleys-australia-off-the-beaten-track-review-kangaroo-island-channel-4",
+      "published": "2026-11-09T07:00:51+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "NFL week nine: Chiefs thrash Jets, Rams beat Commanders and Broncos survive wild finish – as it happened",
+      "summary_original": "Bengals joint-top of AFC North with 34-17 win in Madrid Myles Garrett returns in Rams win with three sacks Broncos 0-0 Panthers 14:56, 1st quarter Here we go! Carolina kick it away to Denver. The Broncos run it back to the 45-yard line. Nice trot from Sean Fresch. Excellent field position for Bo Nix to go to work. Continue reading...",
       "url": "https://www.theguardian.com/sport/live/2026/nov/08/nfl-week-nine-jets-v-chiefs-rams-v-commanders-broncos-v-panthers-and-more-updates",
-      "published": "2026-11-09T06:07:27+09:00",
+      "published": "2026-11-09T06:38:42+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "The Guardian",
       "title_original": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
-      "summary_original": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing Nvidia said ⁠on Sunday that it “is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort”. Top Republican lawmakers ⁠in the US House of Representatives have called on Huang to brief Congress ⁠th",
+      "summary_original": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing Nvidia said ⁠on Sunday it “is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort”. The Republican-led foreign affairs and intelligence committees of the US Congress asked Huang to testify nex",
       "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
       "published": "2026-11-09T06:00:58+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "The Guardian",
-      "title_original": "FA Cup roundup: Seventh-tier Wimborne shock Crawley to reach second round",
-      "summary_original": "Grimsby and Stockport survive scares but Wednesday out Exeter upset League One leaders Huddersfield Seventh-tier Wimborne heaped more misery on Crawley as the bottom side in the Football League lost 2-0 in the biggest upset of the FA Cup first round. The Dorset part-timers took the lead after only nine minutes when the property surveyor Yang Seung-woo curled a superb strike from just inside the pe",
-      "url": "https://www.theguardian.com/football/2026/nov/07/fa-cup-roundup-non-league-kidderminster-doncaster-exeter-huddersfield",
-      "published": "2026-11-09T05:15:53+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -473,37 +500,28 @@
     },
     {
       "source": "The Guardian",
-      "title_original": "Scottish roundup: Flying Falkirk hit five to shatter Hearts’ long unbeaten home run",
-      "summary_original": "Falkirk leapfrog their hosts with 5-2 rout at Tynecastle Liam Scales gives Celtic 1-0 home win over Kilmarnock Rampant Falkirk obliterated Hearts ’ 18-month unbeaten home record in the Scottish Premiership with a stunning 5-2 win at Tynecastle on Sunday as they leapfrogged their hosts into third place. Wouter Vrancken’s beleaguered side, missing 11 players through injury, were in disarray as swash",
+      "title_original": "Scottish roundup: flying Falkirk hit five to shatter Hearts’ long unbeaten home run",
+      "summary_original": "Falkirk leapfrog their hosts with 5-2 rout at Tynecastle Liam Scales gives Celtic 1-0 home win over Kilmarnock Falkirk obliterated Hearts ’ 18-month unbeaten home record in the Scottish Premiership with a stunning 5-2 win at Tynecastle on Sunday as they leapfrogged their hosts into third place. Wouter Vrancken’s beleaguered side, missing 11 players through injury, were in disarray as Falkirk rompe",
       "url": "https://www.theguardian.com/football/2026/nov/07/scottish-premiership-roundup-rangers-st-mirren-aberdeen-hibernian-dundee-united-motherwell-st-johnstone",
       "published": "2026-11-09T04:54:56+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "The Guardian",
-      "title_original": "Small plane crashes into pickup truck on busy Florida highway",
-      "summary_original": "No one was injured after emergency landing in Fort Myers 50 minutes after takeoff with two people onboard A small plane crashed into the rear of a pickup truck as it made an emergency landing on a busy Florida highway on Saturday but miraculously no one was injured in the dramatic incident. Video footage obtained from the sheriff’s office shows a Cessna 172 grazing over the truck as it approached ",
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/florida-plane-crash-truck-highway",
-      "published": "2026-11-09T04:29:05+09:00",
+      "source": "The Telegraph",
+      "title_original": "Energised England deliver statement win to take heat off Borthwick",
+      "summary_original": "Energised England deliver statement win to take heat off Borthwick",
+      "url": "https://www.telegraph.co.uk/rugby-union/2026/11/08/england-v-australia-live-score-nations-championship-updates/",
+      "published": "2026-11-09T07:35:47+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "The Guardian",
-      "title_original": "John Frieda obituary",
-      "summary_original": "Hair stylist to the stars who created the ‘Purdey’ bob and the groundbreaking Frizz Ease product range All beauty chains now have metres-long shelves of products for curly, coily and wavy hair, and among the proliferating varieties of “curl custard” and “scrunching jelly” there is always the purple livery of John Frieda’s Frizz Ease range, developed from his original 1991 silicon-based serum. It w",
-      "url": "https://www.theguardian.com/fashion/2026/nov/08/john-frieda-obituary",
-      "published": "2026-11-09T04:22:46+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "The Guardian",
-      "title_original": "Dominant Lando Norris powers to victory in São Paulo F1 Grand Prix",
-      "summary_original": "Mercedes wrap up constructors’ championship Red Bull’s Max Verstappen surges to second place Lando Norris delivered a masterclass for victory at the São Paulo Grand Prix, taking the flag at a ­meeting marked by a series of ­striking comebacks. Max ­Verstappen was once more outstanding at Interlagos by taking second from 21st on the grid and for McLaren it was a victory they have sought since mid-s",
-      "url": "https://www.theguardian.com/sport/2026/nov/08/lando-norris-wins-f1-sao-paulo-grand-prix-max-verstappen-kimi-antonelli-lewis-hamilton-mercedes",
-      "published": "2026-11-09T04:12:32+09:00",
+      "source": "The Telegraph",
+      "title_original": "Lando Norris wins chaotic Sao Paulo Grand Prix but F1 season is fizzling out",
+      "summary_original": "Lando Norris wins chaotic Sao Paulo Grand Prix but F1 season is fizzling out",
+      "url": "https://www.telegraph.co.uk/formula-1/2026/11/08/sao-paulo-grand-prix-f1-2026-live-latest-norris-antonelli/",
+      "published": "2026-11-09T06:20:39+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -518,28 +536,10 @@
     },
     {
       "source": "The Telegraph",
-      "title_original": "Energised England deliver statement win to take heat off Borthwick",
-      "summary_original": "Energised England deliver statement win to take heat off Borthwick",
-      "url": "https://www.telegraph.co.uk/rugby-union/2026/11/08/england-v-australia-live-score-nations-championship-updates/",
-      "published": "2026-11-09T04:32:24+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "The Telegraph",
       "title_original": "Xabi Alonso disgusted after Chelsea bullied by Brobbey and Sunderland",
       "summary_original": "Xabi Alonso disgusted after Chelsea bullied by Brobbey and Sunderland",
       "url": "https://www.telegraph.co.uk/football/2026/11/08/sunderland-vs-chelsea-live-score-premier-league-updates/",
       "published": "2026-11-09T04:25:22+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "The Telegraph",
-      "title_original": "Norris wins chaotic Sao Paulo Grand Prix as Mercedes seal constructors’ championship",
-      "summary_original": "Norris wins chaotic Sao Paulo Grand Prix as Mercedes seal constructors’ championship",
-      "url": "https://www.telegraph.co.uk/formula-1/2026/11/08/sao-paulo-grand-prix-f1-2026-live-latest-norris-antonelli/",
-      "published": "2026-11-09T04:16:45+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -581,73 +581,127 @@
     },
     {
       "source": "The Times",
-      "title_original": "UK sends cyber ‘hunt forces’ abroad to stop hostile hackers",
-      "summary_original": "UK sends cyber ‘hunt forces’ abroad to stop hostile hackers The Times",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFhZYjI0SkZGVEdvUV9TWVFhRmRNMEUyLXkzR25vSWtCUHpwVFVjZE1QWG9nd2hWX1BiX1VpSzVrdjFJLVhDc0dkU2c5Qkk5WjdFbFFpZWNXbS1vMUtNT2hPMC04S3plY1BuZ3hVdHdXb09LdmVHU0R6enJjMThVU0FaTWNfZ2JRT3N0emRmLVVqeDJHMmFJ?oc=5",
-      "published": "2026-11-09T05:55:40+09:00",
+      "title_original": "‘Sickfluencers’ blamed for surge in mental health benefit claims",
+      "summary_original": "‘Sickfluencers’ blamed for surge in mental health benefit claims The Times",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObERFVXJYbk9MNUF4ZVI4RER3YjN3dXhVNkRkbzY5SWZCR3lBdU9KQWVCNmx1ckVSZ3VaMmdlUDRaX0g2dy1aWVpkWE9laWk5a2plenJqWWRSUWdacDNyN1RWY1R3YUtsSE9aYXR2Wk1SNGNXYmZlOXZ6QmVqLUZkanBMRk13ZkpUaVFjVWh4ZWw3bHVhcnBEZlNBeXFQOXBZcERrLXFtX09ELWQyY0E?oc=5",
+      "published": "2026-11-09T07:46:38+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "The Times",
-      "title_original": "World News",
-      "summary_original": "World News The Times",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5MMEpqNFNXbXVVYllwVVJJZ1lCV0dSek4xM3FBLTlEbkoxN0g0Y1Z0cWY1OFZBeU9YUjlYWThKdWU4WTJE?oc=5",
-      "published": "2026-11-09T05:14:09+09:00",
+      "title_original": "Inside Russell Brand’s Hollywood bubble, where nobody said no",
+      "summary_original": "Inside Russell Brand’s Hollywood bubble, where nobody said no The Times",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVzZGVjJqQWE1QmRWZUg2QVNWbTd4Y2VPM2MzUjhsOVBLSHhCZ2h5YkNiZzNkdW9fOFNYaFB1OVBxM2hPbmFfemZBemNWdXByRExvYkdvS21ZR1U5NDZnVllETWNGaEFJc2xuVGF6WGY4OFVIS1U3OXI1SVJmZ3l5OW5HaG4tNW53RUhZZ0h4NkF4WFp3WExHV1czN3VrLWx0aTI5eHFTM0ttYk9xWnBqNg?oc=5",
+      "published": "2026-11-09T07:45:31+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "The Times",
-      "title_original": "I lost my husband, Hairy Biker Dave Myers. Now I’m a grief counsellor",
-      "summary_original": "I lost my husband, Hairy Biker Dave Myers. Now I’m a grief counsellor The Times",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOGswWUNBbkk5WU10b0phUGZnemVodlNrYllDRFNiYVdBaWtPWFB0LWRiZDV2bGsySWQwVkpUQ3N6UFlrOGRvdWthenExM0lVelFDWFhmWl83Y25tVkdqazBUQWczX0dXSUg5Z0FpUlczbzE4VnJPcVlLdlFNXzBJdnFaTTNIa2JOOWR3R3pQcmczNkZPRGZ0eC04ZXZpM2M2N3RiaHBkY3JRMk1nZEUyWTBybDk2WU1mTmlnNXlaMG5Ldw?oc=5",
-      "published": "2026-11-09T05:00:00+09:00",
+      "title_original": "FCA did not warn investors over ‘scam’ company",
+      "summary_original": "FCA did not warn investors over ‘scam’ company The Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZUZhMWE3V0tfeTR4aF9iVmVtTlBKTFRXZWdxWDZBVG5oV09hMWxqQ3ZNMm1GWkRFNVhqaWZNUXU5OVJKaWlHREhIRVdxS0xUTUJrZ1ZkZTdkeW56UzBMUTltYWVLakFGMmVScDN2RDNETnBpSmllMHRJc3FlamdlWEZfMENERXduMkF1ejFYMWN6a0dQOFhkclFhTEgyZw?oc=5",
+      "published": "2026-11-09T07:45:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "The Times",
-      "title_original": "My daughter has developed a fear of vomiting. What can I do?",
-      "summary_original": "My daughter has developed a fear of vomiting. What can I do? The Times",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPU195MV90QkdjTjlxc3ZYNi1iVkJjRzJ4OUVSUzVfVExBS2pYV2R6cUlDbk1mSjJxT3RHTDBnNVlFV18xZFZMbEhROUpiTGx5dFk0akQwZHNkOFRxMWkxdWxtNTZ3MTg0OXdqODFpdktiMzdmWE8tZHBBLXdnSk9HMDBUV0NvMGlpVGR6d1p0WDZMLU54QnVyY3gzdWJPRkRqRHp6bjBXQXZ3RnVLX0xaeUlMRExQd0ZaVmUwcmJrM0RRVktpVU1YaUNYUFg1U2ZtSDBJbHpZSjFoNnNpakk0?oc=5",
-      "published": "2026-11-09T05:00:00+09:00",
+      "title_original": "Andrew befriends woman at centre of Norfolk’s ‘turnip toffs’",
+      "summary_original": "Andrew befriends woman at centre of Norfolk’s ‘turnip toffs’ The Times",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUDQzR2pTdUhWNU5hLUVxUGozV3VCRnd5d1BoZ3JCMlJHVkQtOVk3Ty0tdG1md29NY040dlUxRTBKWUllZDdOVXNXYVNERXY1U05tTDJhWGtZOFNYc2RnZzdkNFZmX0xJaGh6U1o2ZTR5UlY5eFFzTUQtWXpnZUZoNEJvUGt2RlNHNUJpRzFIVGNwcEdDYTlEWXpJcVhvWTNnb1VpdlVLNmxCa2VXQXc?oc=5",
+      "published": "2026-11-09T07:39:59+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "The Times",
-      "title_original": "When was the last time you mislaid your phone? I’ve lost 50!",
-      "summary_original": "When was the last time you mislaid your phone? I’ve lost 50! The Times",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUFkySnp0MHRzUzM5X3ZqYU1VdkZRLW8xa1NlT242b2UzamNXcHJDSl96NXkwOWZVaFZja1pvR0xTM0xUOXhjb3JkWTJBSEFTSHRlb0hSSE4zX2ZOcHBIZ3V1b1BWaWk2YmRjZXUtSDlsTlF5Mk5meEV4SzlGTnlINjN3bXJvcjY5d3oyX1J4S3NLYUdhLUNDeFFVN3I4NmdwSEdvcTA1NUNYQTAtYzZlTWJn?oc=5",
-      "published": "2026-11-09T05:00:00+09:00",
+      "title_original": "Broadcasters could be forced to adopt safeguards against sex abuse",
+      "summary_original": "Broadcasters could be forced to adopt safeguards against sex abuse The Times",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSzVZQ21SZm9CMGJ1bDExRFNTNWFHbUdiRkRsb0NWbktCaGtrdlpOU2w0Z2pseGpiYjBUdVhOazI2SzhrNUdndDFTV2tKcy1YRUxweVpwRUR5Q0J3YXhLU1dXQW5MdGlIeVVjby1GTE5HMDRLdHpEVjhiRHowTmE4aVd1TzJJbEJDeVBtUExCNzBvSzBfWWpYMm9KRjRQUVlqcjU0?oc=5",
+      "published": "2026-11-09T07:12:19+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "The Times",
-      "title_original": "This summer’s hottest takeaway? A bag of ice",
-      "summary_original": "This summer’s hottest takeaway? A bag of ice The Times",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcHM1MFd0bmw0eW51QU50SHEyLUE0OVJQcUEtSEp3aDdYQU9GUmxMMTVSOWVKUnVxYkRGRUEwNHNYVS1wVF9QQzNVTXlGOHNCNWluenRTeHU5TU1VVkRfNVJaanNrZFlFZ21fcmJ4VWlveGdmR2VBdlQ4ejJOc0lsYi14cDM3VFBpeHkxSmdUMDBhZWpFekhaY0pqazc?oc=5",
-      "published": "2026-11-09T04:29:48+09:00",
+      "title_original": "Nero review — a depraved emperor’s downfall could have become a great show",
+      "summary_original": "Nero review — a depraved emperor’s downfall could have become a great show The Times",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPREdxX04zZGRWaVM0YUNfRjJmWlRYUWxSMVE1b2xHWFFfU2ktMWRBVHJaNk9ZYjE1SzNDdnZTT0UxZlJxOVd6YzFjbTFibGZSUzZ2YU5VOUNuMlU4S29QMTFvVkdUakNzaU43YjltNXcwbmNJTWN6ejFIYUJWeTdLeDZxTVVFUGtLLUt1R2JzUDQ1Smx1MWN2dXh5bUZUSl9ndmRBN0Q1bXJFY3pFd2FfLV9raDZCb0RPSElxSVZudkdZaDIt?oc=5",
+      "published": "2026-11-09T07:00:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "The Times",
-      "title_original": "Karl Bushby’s 28-year walk home and the people he left behind",
-      "summary_original": "Karl Bushby’s 28-year walk home and the people he left behind The Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZnRVMmpwdHo3QzZzU09fNjRkeEloNC1LbmZ4cDBDZ1o2WTVuQkRtbjltdV9zMVEySVJPWWhob1llRXMxZUZZVVRpd053Rkp3SWhYb0plNWtHb2tkUnRSUUdvMFZpdjVqa1BON2h0eHFMb0p1dEdBaGRLMWVlQ1pSN0lVU2N5ZnljMmhoYmlwUQ?oc=5",
-      "published": "2026-11-09T04:20:17+09:00",
+      "title_original": "Latest news & breaking headlines | The Times and The Sunday Times",
+      "summary_original": "Latest news & breaking headlines | The Times and The Sunday Times The Times",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE1rUkwwNVRWQUpTalMyTmJSWVRxR2VTTHQ2RmV1amVFSzlPXzY3SUdfTzVzM0dNNXVzUzZscWV3?oc=5",
+      "published": "2026-11-09T06:14:52+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "The Times",
-      "title_original": "Russell Brand was banned from BBC’s LA office after flashing woman",
-      "summary_original": "Russell Brand was banned from BBC’s LA office after flashing woman The Times",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ1lycjJyQjFaZlhfelktLTBzaXN6X3VPaFp2bWo4cE1hX1B3NWlPbjBCQXJTWmJONzVGakdUZGJKYUpRVjJqRDAwa2lUM0JIazIycjUwMW15TVNONkw5czMtVGJfemVlb1RwbzJJbkN3OVpsMDFqY1hudTNtLU9naUNHQ0J5Nk5FRGZBUTZFS2FLX3Rqak13TjJtRnpwZk5VMzRFeFUwVDZJNWplMFZaZ2NLNDhnZk9X?oc=5",
-      "published": "2026-11-09T04:10:43+09:00",
+      "title_original": "Graduate fights a lone campaign against Montenegro’s embassy next door",
+      "summary_original": "Graduate fights a lone campaign against Montenegro’s embassy next door The Times",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdW5udXczNTZFczNrWWRXTUt3Zk4zOWZqSDhQZDRvQ1Jwa2o5Q1dFN2c0c25hUFNYMkNIbVRsNm1GRV9MeFpGa0xUbnBpb3BTdy1DUmppcXN5QXQ5RjE0Q2ppWlNIeE9jSTBPRWZQMXFMRFJ0R3k5c2VrNm1ycF9PWFJISEY5R2FkajNCV25yQ3JsUjR3a1JXNGtnNE1Jd0YwQ05EOTJTT2QtcE5EYUFVMWpOMkdydmN6cGNB?oc=5",
+      "published": "2026-11-09T06:06:12+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Nvidia launches investigation after CEO Jensen Huang admits to affair with suspected Chinese spy",
+      "summary_original": "Nvidia launches investigation after CEO Jensen Huang admits to affair with suspected Chinese spy The Independent",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZDVBQjA0amgyVU50eUJUbXA2TzIwRkJ4M2t4NmNwdEYwaTctWVdhZEMwRy12MUpvWGQ0N1c0RmdWel9SUEFwaHRPY2VMSEh1Z0VMR1piRE94OUp2Q3BqUHRvMmpRanRZNzFQbWU4eEZ6MVpMbVRkS1JSS3l4QzZWQ21zSldaNDJteDA4UUxRMjM5TGpMUHJST3pEZWpRbVlIVXJGOHNPTkpHWVVXcUpjbjRR?oc=5",
+      "published": "2026-11-09T07:54:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Mould, broken blinds and cold showers: How tenants are making a winning case in fight over rental hikes",
+      "summary_original": "Mould, broken blinds and cold showers: How tenants are making a winning case in fight over rental hikes The Independent",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSjEzV0hkNlVoamhZMWljM2hGYm5BV1ZwemlveDdyMUcxRHgyQTRid1VwamFzV090WGI0UnFPc3ZiMFVCQjB0T1BPRUE1RHFuT2tsVjZ2VTZ1ck9UeFdlVFZsV3l2SHRMNHdhRTFFMmxyN1BtTVFCeThRWHhZcDVlQ2pGcXRIbkp4NFcyY3AtM0NJZDg5Q2lXYWVKYUNRa00?oc=5",
+      "published": "2026-11-09T07:09:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Trump’s pick of Dana White as press secretary has given way to a wild mix-up theory",
+      "summary_original": "Trump’s pick of Dana White as press secretary has given way to a wild mix-up theory The Independent",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMkg1T29LMGlKOXdfc3ZKQnU1MnBUWDF0Nzh2eW5oTEVMV09WREtDVDVtZGlSeFNHNVJ1b3BycjV3S3VuQ1JzeS1iZ29BcE1sblJNMkdseFcxVkJrSWtzMXIzYTlkVXVpbnlSSFdwdkxPSlA1bnlzWS1OdVhpRXpRVnFPeFE2SWNJZ0JGeVFfN2lUVTFfMkRDcTBsS2tNWTMyNHBQcXVsOFFyWFIzRG9PUTh0U3RhX0kwX3RBYQ?oc=5",
+      "published": "2026-11-09T06:24:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Steve Borthwick provides update on Immanuel Feyi-Waboso and Seb Atkinson as injuries takes shine off England win",
+      "summary_original": "Steve Borthwick provides update on Immanuel Feyi-Waboso and Seb Atkinson as injuries takes shine off England win The Independent",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR29UQ2xleVMtTEVLZWxUdkFrN2QyakpmTW5PVDFqQ01TVDhKWXZkcnNyOC1lMllTOHJBaDVFYkFiTE1hcV8yMU5zOTBYc09PMlo2NlZsU1Y4SzZTOVZkSnNNNGZpV1pneGxXRGxPTDJyLWdXbl9VWmQ2d3otX05XSFZYOXFrc0FITExTd2RTZldPU3liYWcwSVdsQ1NwY0NxVDFmWXpmdktYYUFzWHZPOUE0WFNBOHBQTkgxeTFRaHFCbDA3?oc=5",
+      "published": "2026-11-09T06:22:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Popular progressive podcast sees sponsors flee after ‘insensitive’ Charlie Kirk joke",
+      "summary_original": "Popular progressive podcast sees sponsors flee after ‘insensitive’ Charlie Kirk joke The Independent",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbmtJZFBpZkxEVU91b0dVUjRFM0Y5YVQ0b19YUlpENVYzeEVFYXd5MHNuUTk4dk9iRTlmWXJJa2ZfeDIxaE03UWhoZGtxYi1KaFplY0lyNm1jZmd4djBiWENtdm9jZmpRS3B1cE8tcE51OWx0RUJXVVRaZ1ZlVWpla0dyb2ZtSjhUX21hUndKeUt5TWFnM0Zqb1dHcVp6S2c2aTVjWWpfSjhHMUlhU0pWX0tXX1Q2Mi1QYnFuWGZR?oc=5",
+      "published": "2026-11-09T06:11:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Celebrity Traitors star Maya Jama quits as Love Island host after three years",
+      "summary_original": "Celebrity Traitors star Maya Jama quits as Love Island host after three years The Independent",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcl9NTHhYS2lpZmlrRkhpZ2lMUUhqVmxtTE5fQWlzajZ5QWJuRVlVWllNWG9CeVFnNEJfek0xNkdleGtiZHk0UDVzVU14ZTZOLTNLSU1uYmFjYVpWbGZuaVVWQ3VOOFFjQ0ZrVGc2YWUtMngxRzMwejgzQTZtQ21xd2NURERQeVEzLW9fZVhvMkZCRzBFRFZrd056X0tlRmpJYUl6ekMwQUduTzNQU21FNjhFdw?oc=5",
+      "published": "2026-11-09T06:04:00+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -656,70 +710,16 @@
       "title_original": "Supreme Court justice hopes some rulings will be reversed and praises the ‘outpouring of voters’",
       "summary_original": "Supreme Court justice hopes some rulings will be reversed and praises the ‘outpouring of voters’ The Independent",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNWJxZ1hIcmdQTTZTcjZ3R2VZYVh0ZzB5UjlqRFFDblJaUnQzT2R4OURNRkZyMHJjdHpFd2NXODEwY0N5cW1CRTdoTU1XRVBLdXZORDRCMC1MXzFHLUFYUkR1MXFvWUpkUGdneWszZzhIZ0dLUDUtYXkydU1Zam1CQkRHRk5UZFM3ZFZHWlRReGtUdUt4dUJRUVNjZF9jcVJpRi13LTk0aWdzSU5jMGV2Z3JlV1h1QWlKSThab3ViWFQ1QVFtbVlBcm5VUzY1UQ?oc=5",
-      "published": "2026-11-09T05:09:00+09:00",
+      "published": "2026-11-09T05:56:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "The Independent",
-      "title_original": "Bernie Sanders gives Trump backhanded compliment when asked about Stephen Miller promotion",
-      "summary_original": "Bernie Sanders gives Trump backhanded compliment when asked about Stephen Miller promotion The Independent",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM3U1a05XYWpjMHhCdFJxSkxVVzdGRjV3NDdtRlh3NlFlRUQ3WGc0d2tUQ3FBUUxPREdpZ2lyWHlBNUpCNHdtTHhlR1ZfV0x1a3F3UjlkMldHOXM5QzVXVW14aGdtcmlOb1ZmOXBwUFpiQWJjQ2xDemZIdXRiNVZwM3BiSzBXSW5xRjJTQ3JOVm5MaXRNU2dFS2ROYXMxRkM0T0dCa0NwQ3RWbW5WNXJjMDVCOVhvZkxRX0JSWQ?oc=5",
-      "published": "2026-11-09T04:58:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "The Independent",
-      "title_original": "Man United’s unique comeback leaves no one knowing how to feel",
-      "summary_original": "Man United’s unique comeback leaves no one knowing how to feel The Independent",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNemlVR0tKUkF4U1BzU0ZTdUZkYmczZmJHU01RdXdVX0M2UlJsTXRHdUgwM0xWa3l4WC10SWFxd0JkYjZrY01yVnZMamozVkFHY09LcFpDU0lreGZvZDJtMXhuZW51d3FzaTNoRGZIaVY5YmZjclpVOEE5ejhweG1JalgxZkNzX3FLQkQ2Y0FKY1Y1T1BLZEV6Um9uRDRsbnc2V2txQUc3SmlueGxMWDRr?oc=5",
-      "published": "2026-11-09T04:58:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "The Independent",
-      "title_original": "England send message with emphatic Australia victory to show faith in Steve Borthwick",
-      "summary_original": "England send message with emphatic Australia victory to show faith in Steve Borthwick The Independent",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUXAxTjRPb0tGcnBFNlJFMVRSTlZRYWpVdnpDRmNhSGF2eF9faGd5WGhLekhDLV9iakpIb1V1WXFobVNnbTRnSWdxRXVsMnZ1bGFqTWtEbjF3RkZhRWZqUXdiWDZZeVBkTi1GV1c4MEpKNVVlTFZNbGN3T0dkSjRROC15N2VuY1M1X1hSdHlKQ1d5dVpSSGVEZVdfX20tODQ1Y1NsbU51NVo2NEZSRlNnMFlacjVBd2xQSGM0?oc=5",
-      "published": "2026-11-09T04:53:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "The Independent",
-      "title_original": "Cruise ship employee found by fishermen treading water 20 miles off the California coast",
-      "summary_original": "Cruise ship employee found by fishermen treading water 20 miles off the California coast The Independent",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWlhCd1pjRGNBdVphRmZydGVMZGVJSFZVZXFyZmp4SThHRmVuNl82emY2OU55YS1yT0xZUU85Y3plcTZIS3o3OVNjV2FLeVI3SzZGdmY4TjhDbkxxTWk0cWVYMU1qc0YtaV9aVzd4R1RGZTN0dHBrOXBRbzZ6QVhwWFM0ODVVdVZDYXgwZFRNSU5Mb1Z5VUVpT1NSaGV6cW0xdFFKWVdQZU9YX0xSN3ZOV2g4R1Z6WDJUaGhhOQ?oc=5",
-      "published": "2026-11-09T04:51:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "The Independent",
-      "title_original": "Michael Carrick has painfully awkward exchange with interviewer over Man United future",
-      "summary_original": "Michael Carrick has painfully awkward exchange with interviewer over Man United future The Independent",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNci1jWEZCVUQwUHhzd3FVQjd0NmdDSlFyZGhRbTRMV01XeFpFOGpoR3RacGpZYTA5SVpIdXZJT05pcG42aHNFcmd0WmRYNWFhRVlmUnB2UmEyc1dQZTFDYXhXQXBSXzlaWFdacVNUZW5Pb0p0aHRWUWdjR3NaQ1ljYnREeUZ6RlBzUmoxVUhRejhyZ1lfNHFzbGNBQmo5NUt2bmV6aGJXNFdwWFV0VG1DT08yODJYVVli?oc=5",
-      "published": "2026-11-09T04:50:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "The Independent",
-      "title_original": "Aston Villa boss Unai Emery storms down the tunnel after last-gasp Man United equaliser",
-      "summary_original": "Aston Villa boss Unai Emery storms down the tunnel after last-gasp Man United equaliser The Independent",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1RLWVV1elJfdC1RMWZjLWdOTTViZXk1NTBPcTVRc1dUZXJhZ3pqeVFrUDl0U1RYcXFWMW1UaU1tOVBNRjJYX2pHcmRmN0hhLXVSSnVwa1NzSUdOY2ItcG1RdVFXRUM3QjdlWEtPMlpIMHduQ2oxd011ZWRURmNmbW1XWjY1YVpSOHRuQzBYczg5QTZQY0JFOEZLdU11SWVVamFkSVd1OU52bjd2VUE?oc=5",
-      "published": "2026-11-09T04:27:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "The Independent",
-      "title_original": "Wirtz breaks goalscoring duck as Liverpool send Palace boss closer to exit door",
-      "summary_original": "Wirtz breaks goalscoring duck as Liverpool send Palace boss closer to exit door The Independent",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmlRQzdKUWRGRldqOGM0elRKOVlLQjBMckR6aFM3Z2lPanA5Nzg1ZV9JUnFWUWFHSGpiS2FMX0lWOTVVYmt2VkZMX1h0VGwzVDJfTXg5bXVOcXpmS00zVzZjdldPRXBvTUpNWmg1TGNTYnExOGFsaDI2cUZiaGtMMjZxUjV1Z2lubEJUdDBUVTdJWkFKR2pndDZITEZFb0pSS0hEYmNhbXd2a25tTmNBcTAyc3NxdU0wRE1CUg?oc=5",
-      "published": "2026-11-09T04:21:00+09:00",
+      "title_original": "When is FA Cup second round draw? Ball numbers, time and how to watch",
+      "summary_original": "When is FA Cup second round draw? Ball numbers, time and how to watch The Independent",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSUtWMVJjNWxxdzk4SmFsYmxSSEJGaXBDRGVfNjBRMGNiNU00SmZ2WlFhZUFrMmZwMHJ4clZtVHFfX0U3Y003VWFGalpWcm9VUURNRUNKZklqTTdKbWJXcm54d21RcUNuUlZVZDhZQ3RkZU9BY2lNbWszODlpaHZoR2kzOUZqY1Zjb3hadnd1b1I5enRXU3dzNnVSZXExQWhEZWY0?oc=5",
+      "published": "2026-11-09T05:56:00+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -728,7 +728,7 @@
       "title_original": "Business",
       "summary_original": "Business The Economist",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY25UMl9XTE5ySUQtUzlLVlBaZDhOVG0tVGdUTC14d18taE8tVVZzZmZBNmszcGtvSjBnVjJpOFFoVDQyWDZBSzJqYTNualg4MTFNbWZ4U01VR0VwcU5JdDRlQzZQSUhfVmFvbVNlazFITF9NZFZubnNGaTVQcEwyZlE1eW5WQ2gtcWgteQ?oc=5",
-      "published": "2026-11-09T05:40:17+09:00",
+      "published": "2026-11-09T07:10:17+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -782,7 +782,7 @@
       "title_original": "Quote of the day: Eleanor Roosevelt, who died in 1962.",
       "summary_original": "Quote of the day: Eleanor Roosevelt, who died in 1962. The Economist",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONnk1dEM4M1FPZjZNQUF4MGRIRVJZeGV1SW05bkJ5SkMxQllTYjFrblgzOHdLS3QteEdlRWtzM0FCS3RmZWFieUw0ak5yTk5aNFNhLURGUHlhSzBaNE9ZdkxQd21qbzAzX3NmaW9oSU9PSmlaQ0RJTF9XSGo3czBmdHZfRXBYSFF0QWs5Tmc3czV3Tk5Ua0tv?oc=5",
-      "published": "2026-11-08T22:44:47+09:00",
+      "published": "2026-11-08T21:28:19+09:00",
       "via": "google_news",
       "state_media": false
     },
