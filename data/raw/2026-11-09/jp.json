@@ -1,0 +1,875 @@
+{
+  "team": "jp",
+  "team_name_ko": "일본팀",
+  "collected_at": "2026-11-09T06:13:09.003154+09:00",
+  "headlines": [
+    {
+      "source": "NHK",
+      "title_original": "入 札 公 告",
+      "summary_original": "入 札 公 告 NHK",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qbks3bExJNk14SWN5ak1IODZWRjhROWJWVWpVMVl5VjdPcFhKckhzXzdyWmdsSGstZlpBZC1uUWtGbENBUko3Qlh5QzU5Uy04R0hlYXRFV25VUU9yU250SXVWUDNVVFhBREc1N0MtQnFzRFlw?oc=5",
+      "published": "2026-11-09T03:59:21+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "NHK",
+      "title_original": "山口県勢3高専が出場！高専ロボコン2026中国地区大会",
+      "summary_original": "山口県勢3高専が出場！高専ロボコン2026中国地区大会 NHK",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ibVJwejlxVndFUFVZVlFndW50Tk04YTg1elpkRHJDajFITVpDaFFOaG11WjlhbmxvVHZRMGtaOXRSRG1OTWtjM0pXSUd6Zi1ENnlYMTI0UzQ0akViX1RPbFhmSFVBZ25n?oc=5",
+      "published": "2026-11-09T01:32:29+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "NHK",
+      "title_original": "林家三平（二代目）",
+      "summary_original": "林家三平（二代目） NHK",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xZFdTc2NhaDgtM253am8tRVNYZ0FKUExiU1hMWTFQcWhsX1FqeXpXT1JUVUVrZzR1QjYxVThnTlQ3aWpVWnRzX1FYYk8xbzFvZ2xfbXFaZ2YzdnQyNXpCTkdlcHIwRFdhUl8xZ1RxQQ?oc=5",
+      "published": "2026-11-09T01:14:27+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "NHK",
+      "title_original": "朝ドラ「ブラッサム」名場面復習＆新章ガイド！石橋静河・染谷将太｜NHK 山口",
+      "summary_original": "朝ドラ「ブラッサム」名場面復習＆新章ガイド！石橋静河・染谷将太｜NHK 山口 NHK",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uR2NMZkY0NzN1dTdlZE5pNmZYSXdocGI1Uy1OYmhXTGVCTWNQNVY3cHhXdDRLeEwtS2hHWU5vZ0I3dzJFQ0ZjdnBKbWhaSTFidkVpYUkxY1BYQlBXclE5SlRSaU5rUUlP?oc=5",
+      "published": "2026-11-09T00:50:07+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "NHK",
+      "title_original": "多彩な春の楽壇",
+      "summary_original": "多彩な春の楽壇 NHK",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYNnAzZFlUZU5ULWR6eW1pZ3ZpMnVPRVpaQ1hWSEJLSjk3d0FKVE5EaDNZSzhhc3o2TVk0YWVQb2FBb1duV3VoWXFJTkFodzEySmc3Tm9vUVpMMzFOWklPNW5YTHJCUVVZVG5oag?oc=5",
+      "published": "2026-11-09T00:41:01+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "NHK",
+      "title_original": "ソ連が日本の政府予算を非難 ～時の話題～",
+      "summary_original": "ソ連が日本の政府予算を非難 ～時の話題～ NHK",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSRzdOQmdQbFlkcGxXMHNEM3BFTjhVVkd1RThCcm92MzJqU0c1ekVJY2FsWUprOWJDTU5lOGdHUFJtLVUxVUQ1Y2lHN3RPTHBqQ01rNGVLamh3ZGNXTHBZOHZhTEhMNUpVS1pnOA?oc=5",
+      "published": "2026-11-08T22:03:05+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "NHK",
+      "title_original": "添浦・前田高地の戦い 沖縄戦 映像・証言アーカイブ(4)",
+      "summary_original": "添浦・前田高地の戦い 沖縄戦 映像・証言アーカイブ(4) NHK",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yZ25DYVRHU1F0Q1kxS08zc0V1ejdMMUhxMVVremNhSzVVS2RJbERrMUFWbGx4eTVweDZvUUdDYktQNXhScndwSUFfeXozSmhVQmFyMlh6TDlwUnhsWjhYVHhxOA?oc=5",
+      "published": "2026-11-08T20:52:28+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "NHK",
+      "title_original": "シュガーローフの戦い 沖縄戦 映像・証言アーカイブ(6)",
+      "summary_original": "シュガーローフの戦い 沖縄戦 映像・証言アーカイブ(6) NHK",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2LWZZWFhkc3FhRl9tVnNtQ3lwNjd5NDRoNWIyTnNCdDRldHN3eFRtRUxPZDRRZGRacl9YNXhCZGhaM1pJbGZhREFCczg0MkQxV2Y5WGJPR3laZ2diWkJvdUlhYw?oc=5",
+      "published": "2026-11-08T19:24:21+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "一時不停止の疑いで46歳の女を現行犯逮捕 無免許など複数の余罪の可能性 北海道帯広市",
+      "summary_original": "一時不停止の疑いで46歳の女を現行犯逮捕 無免許など複数の余罪の可能性 北海道帯広市 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY3Bjd3Q3MlR3V3Y2MmE3UzNBTlRfQUlILTI2Tng2RTZkZmtaOFA2TUlTaUFKZGhPZnhzbEs2cmRzVFhpNG13YmQ5REFUVVZUbEJrV1ZvODNQaER3WkFHSW9yNEFldTVNdFB0X3RUR2xrQ0V2WWNPQnJNb1J3MWRHaWUwZGZ5bkU?oc=5",
+      "published": "2026-11-09T05:54:01+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "災害救助犬やヘリコプターを使って訓練 南海トラフ地震に備える 三重・紀宝町（2026年11月8日掲載）｜中京テレビNEWS NNN",
+      "summary_original": "災害救助犬やヘリコプターを使って訓練 南海トラフ地震に備える 三重・紀宝町（2026年11月8日掲載）｜中京テレビNEWS NNN 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUDN6M05tZTJuWFl3RUVqR1h0RDJUTVFMOHRCUm9GVE9PZDUyckQxNTlsZ3J1Zmo5ZkFFZlpHMjZ0OUFBakFZM2I4ZkR5eGFkYjROZzREZ2RscmpKaUNyTnhjcTNCLWxQVGhIWWE0OXpoUTdIa0dKc3pFOUg3djl5OS15MWRldXVr?oc=5",
+      "published": "2026-11-09T02:03:01+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "山林の遺体、石川県の26歳女性と判明 監禁容疑で逮捕の男の供述から発見（2026年11月8日掲載）｜日テレNEWS NNN",
+      "summary_original": "山林の遺体、石川県の26歳女性と判明 監禁容疑で逮捕の男の供述から発見（2026年11月8日掲載）｜日テレNEWS NNN 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9VajZodFU5NHlpYmE5N3RYckZoa0JkQzVTNV9DZHhWNktzNGNOT2NIRUxKN1U5ZXFGSmZRbnpTdFQ1SjhEYjNESlc4SEswaHZXQ2ZreThYbjQwSHJLbVp3MGpoczBvMDZjZEJmWmtKYmdmVXhzRVRCTGpzRnk?oc=5",
+      "published": "2026-11-09T00:56:01+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "死因は急性窒息死 福井県の山林で発見された遺体は石川県の26歳女性と判明 （2026年11月8日掲載）｜テレ金NEWS NNN",
+      "summary_original": "死因は急性窒息死 福井県の山林で発見された遺体は石川県の26歳女性と判明 （2026年11月8日掲載）｜テレ金NEWS NNN 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObXQ0NVBTNS0zQWVWc2FPUE5CclJQa3pfUVJfQ1I2NmhPTXpYaVVNeFZLR2RtdjJmamd1NUhhb3k4bnBKajZHRmZjVG1KNlYtMkp2TW40R1pLXzdzVHNYTVFRYjVQbVd4VUJ0bURDWmI4TnM2eWRkN3F3V0o2bGl1WXM1Q3ZGMzQ?oc=5",
+      "published": "2026-11-08T21:36:01+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "【新東名】トレーラーに追突された路肩停車中のトラックの男性死亡 トレーラー運転の男を逮捕（静岡・沼津市）",
+      "summary_original": "【新東名】トレーラーに追突された路肩停車中のトラックの男性死亡 トレーラー運転の男を逮捕（静岡・沼津市） 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbGd3Zzg0Si1lcTgyM3FEbWF0V3ZqMWxaTGJhY2UyTW1OcUN3a1NhMFVNTEd6azdpcUV5dVp0YzBlcUxJR1FXb25GV3MzbkFqODNhSUJLdGhobDhhTmlBOU96a0ZuaHJ5RkZka09veHNPb3AwVWtYeFM1YUFuUGlnVnQ3SmhGMW8?oc=5",
+      "published": "2026-11-08T21:16:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "50年以上現役の専用機械で箸づくりを体験 いただきのひ2026（2026年11月8日掲載）｜KKT NEWS NNN",
+      "summary_original": "50年以上現役の専用機械で箸づくりを体験 いただきのひ2026（2026年11月8日掲載）｜KKT NEWS NNN 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUFdWd2hPbU5tZFZXck45RFk5RXJUbkR4cGwxek80Tk5HUUgyMUZhdVhyT0d1cnU5aldGZDhuMExyT1BpUlpVcV9CS3J2THRaWE1BTlBXTkJXMm5heERoeEYzNmdwX1NCWGZ2aER0QVVfSGNpekxVeHA3SktSc3RKMkVTNm05N00?oc=5",
+      "published": "2026-11-08T20:56:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "熊本市長選挙の期日前投票所ゆめタウンにも 投票率アップなるか？（2026年11月8日掲載）｜KKT NEWS NNN",
+      "summary_original": "熊本市長選挙の期日前投票所ゆめタウンにも 投票率アップなるか？（2026年11月8日掲載）｜KKT NEWS NNN 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV1poTENrbmxyTnBSMWFHeHpYQll3MmNER01wMWtXald2MmM1S2Zvd2NLd1FjbHFveko1RGlrZmNReVhjUy1jRzFFRzBmVXctbU9GdW1qWFBVVFpBbGp1OGxvVndXR1g2WWtyd3RKWjhQYXB2bU40akdtN20zQXAyS0NuVFY1Z28?oc=5",
+      "published": "2026-11-08T20:42:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "最大震度5強 愛知県と静岡県で計22人がケガ（2026年11月8日掲載）｜日テレNEWS NNN",
+      "summary_original": "最大震度5強 愛知県と静岡県で計22人がケガ（2026年11月8日掲載）｜日テレNEWS NNN 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CR2l2a2h2cWhJREwydTFaUTFta3V2WGtVV3ZNTWxmSGlSQUZ1VHkweXhqUTRrTEN6OTE2TzFHdzY0bWJIWUlWamZ2NWVoRHc2ZHMzTUI4eEt0UXZDck1GeEkzYlN5WkdDcmRLa2l1N2xvNEc1RFRCbW9YU3M?oc=5",
+      "published": "2026-11-08T20:26:01+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "11/9(月)宮崎県内の交通取り締まり情報",
+      "summary_original": "11/9(月)宮崎県内の交通取り締まり情報 TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yaW96QzdtdGlQampaMWxFeGhGeVM5UDlwTGNRajBFUmo3empCcFk2bW5IMlFENWViWHBtc3N4dHZvSENjS0FoZGdRZnFwRDE3M2pWTk1PdEJRZG5Ralk3QmtoWHc?oc=5",
+      "published": "2026-11-09T06:00:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "“全国からのファンレター”が原点 J1最多673試合出場の浦和GK西川周作とサポーターを結ぶ絆 「太陽みたいな存在」が目指すリーグ優勝【KICK OFF! J】",
+      "summary_original": "“全国からのファンレター”が原点 J1最多673試合出場の浦和GK西川周作とサポーターを結ぶ絆 「太陽みたいな存在」が目指すリーグ優勝【KICK OFF! J】 TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxRGE4N2pJRDlaMXBudW5JcUtfRVI4LVlPd3VvQjJSWFU5a1R0Zlhpdng0NkhuNGI2bHRWQWVILXFUalczWU9OSmhkNDlkY1Nia2tSWF9aeGNpaW1zbHdFbUdtZ2w?oc=5",
+      "published": "2026-11-09T06:00:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "イスラエル・ヘルツォグ大統領 野党党首アイゼンコット元軍参謀総長に組閣要請 政権交代へ協議本格化",
+      "summary_original": "イスラエル・ヘルツォグ大統領 野党党首アイゼンコット元軍参謀総長に組閣要請 政権交代へ協議本格化 TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lYlVwX1F3VkRqRTluMEZYaDZhMnVHWS1qTHVpNnFfYXp4TmViNEM3WWhJcHZUa25UYWZ5LWpqYnJSZFZlalNRVnNSZFhRakJzVTFCNXNCbw?oc=5",
+      "published": "2026-11-09T05:55:33+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "岩手県、宮城県で最大震度3の地震 岩手県・一関市、宮城県・気仙沼市、石巻市",
+      "summary_original": "岩手県、宮城県で最大震度3の地震 岩手県・一関市、宮城県・気仙沼市、石巻市 TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41Sk5JM2pPaFVNcjNLeXJvSFd2MWxoY3hwQ1VNT3ZCOEtHdjN6QmdaWUJjNjUxdGdSNVlwWVQtRWhJWXR1WHZaU0hXR3ZrWTFxSHJRX29vWQ?oc=5",
+      "published": "2026-11-09T05:19:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "エジプトで列車同士が衝突 7人死亡、110人以上が負傷",
+      "summary_original": "エジプトで列車同士が衝突 7人死亡、110人以上が負傷 TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ma0hsZDZMNEJnYWp1d09rM3g5bk1kRUhhQk9mUk00dmMzeDFrSF93QlRNWjd6VVZCZmdTMUg4SnRwSGlkc1ZWT1pSRlB5Z3c4WVgxS3dvZw?oc=5",
+      "published": "2026-11-09T04:29:21+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "板橋区赤塚で強盗 マッサージ店で客がナイフのようなものを突きつけ店員の財布など奪う 現在逃走中",
+      "summary_original": "板橋区赤塚で強盗 マッサージ店で客がナイフのようなものを突きつけ店員の財布など奪う 現在逃走中 TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qUFFfd1VyUVpZUFFQMFdEMUtZdDNNU2xqTWdrTUJqcS1udTZBWWotM0pJdEtoN3lTbERZUVc5THhrSGs5NW0yZjRyM1MtbHA5a3EydUdzRQ?oc=5",
+      "published": "2026-11-09T03:22:21+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "茨城県で最大震度2の地震 茨城県・日立市",
+      "summary_original": "茨城県で最大震度2の地震 茨城県・日立市 TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2MFMwZ2doYkxPWnhpTEQ1OXBRNzg2eWo3LXh1cGlSYjlxVUFRb0NoS0VHZHFsUDdrS0pqQ3BiTFo5TTl4VFNSTllnZkNDUFY4U29FS2pLSQ?oc=5",
+      "published": "2026-11-09T03:18:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "\"神武さま\"を前に 宮崎神宮で清掃奉仕活動 | TBS NEWS DIG",
+      "summary_original": "\"神武さま\"を前に 宮崎神宮で清掃奉仕活動 | TBS NEWS DIG TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NZ2RYejZUQmhnamhMVUVDeUZaMERBMzBpd24xZVBxUy10d2xvQzNRSzNLTnF2emFRNnhienhIV3h6N2syd1RHMjRRbjQtbXdRV29LeUJXekpLZmst?oc=5",
+      "published": "2026-11-09T02:02:06+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "トランプ氏 イラン攻撃再開の可能性「極めて低い」 CNNの電話インタビューで",
+      "summary_original": "トランプ氏 イラン攻撃再開の可能性「極めて低い」 CNNの電話インタビューで テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5X3IxVkdWTDhZUm9FaW1Zd2NZOXBIUmV4dlVLS3A1RW9OczlLajdaN28xMmI5THpickoyZVhsV0syOUxzalEycWo3dEZVeW5zUm1admYxS3FLaUdSQWZfbktVazg2dURDeEtGWjY5ZW9KQlJnYmk5QXdR?oc=5",
+      "published": "2026-11-09T05:30:59+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "エジプトで2つの列車が衝突 7人死亡112人けが 追突か",
+      "summary_original": "エジプトで2つの列車が衝突 7人死亡112人けが 追突か テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vanppQU5WYUduakxFVExQajRxNGF5YzRDOU9uV3lHVF9XSGxWRFc0MFU1Z01yc3FnUTgxY1M4WFp2ZTNHQXhIbVdjby1KcThfclNoc0NqLXpYazZYbGNyajMxaW0wbGxadkRHMGR5YmROZzRBVENNNlVR?oc=5",
+      "published": "2026-11-09T05:23:11+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "「最も野蛮で非人道的」ミラー氏が首席補佐官＆「狂暴なファイター」が報道官に？",
+      "summary_original": "「最も野蛮で非人道的」ミラー氏が首席補佐官＆「狂暴なファイター」が報道官に？ テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEX2ZwRTdPX2VFMlExVWEzaXNYdXE5MXZ6SnhtS3BKVzhLeFNYWVo2LURGUERzR3RIeGR1OWwyWjV2SXpCSDRXSTZ1S1JNTGtzVC1TT092MHkxdG1YN2RTeHB5LUVoTUZ4Q0otN0dOT1IzeGlGUEQ0WWxn?oc=5",
+      "published": "2026-11-09T00:43:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "田嶋幸三氏は「勝つ可能性ある」とUEFA元幹部 FIFA会長選“日本人初”誕生は",
+      "summary_original": "田嶋幸三氏は「勝つ可能性ある」とUEFA元幹部 FIFA会長選“日本人初”誕生は テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGT3VSZ1VkYXp5V1RGQUlsYWgyY1ZtcU5CODZTbnJsZ0F0MGhYVVZENHFUZWhISlEtZ0pUR2syWnlGSmtHT29FQVNRR2lIZnFkUnBkQmtrUkdfbTdueE13eThpdWFTeGlsNDZSZ01SYm9xTm4xaTl6YlFn?oc=5",
+      "published": "2026-11-09T00:33:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "「突然吹雪」でパニック！冬の嵐“頭大仏＆モアイ”も冠雪 都内も“最低5℃”以下に",
+      "summary_original": "「突然吹雪」でパニック！冬の嵐“頭大仏＆モアイ”も冠雪 都内も“最低5℃”以下に テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50X1c5MUh1eFhJTXptdmhzVXltT3dqd1Q5XzZqbzJ2bm56MVJOYjZCTGJMYUs5cXdwSkllQkQ5NzJqT3c1ZXRRaDFGYk02T1EyOHJsOW8wX1dsQUlPVGhHY3BGOVpyRnRyeC1aVVpMRWxxQQ?oc=5",
+      "published": "2026-11-08T23:30:43+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "深夜に震度5強 就寝中激しく揺れ家族守る姿「経験上一番大きい」愛知で約30年ぶり",
+      "summary_original": "深夜に震度5強 就寝中激しく揺れ家族守る姿「経験上一番大きい」愛知で約30年ぶり テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MdVgtQTVvOEhRZFZkdVBBeXFwaVR1MEZTeHdzYjVxSnBKZC03ZmZlUVlOQzRvX2dzXzhnV2t4azNFdEZ5Q0xxY1AtOEhBYnk3N05pd3FoMEk0RGd5LUZCbTl1SzZhRW5NaUFXMzNaVFllQQ?oc=5",
+      "published": "2026-11-08T23:30:42+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "福岡空港の近くで産廃処理施設で火災 福岡・粕屋町",
+      "summary_original": "福岡空港の近くで産廃処理施設で火災 福岡・粕屋町 テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55TGNoaHNhZHNyY3A4Y19SQ0hDMUVrcW1PWTUyTmhqZkFzWFZTQVF4LWVXZVJxNkwtdTdEb2xqWmoza1NYbWdsQWtBSE9zSTQzZVpRcUZkNWdKVDRId3NDS2Y5Nnk4NUlnN2lSVzZOdU5JZw?oc=5",
+      "published": "2026-11-08T23:28:02+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "拉致被害者救出へ 高市総理「北朝鮮と対話して行動する用意」",
+      "summary_original": "拉致被害者救出へ 高市総理「北朝鮮と対話して行動する用意」 テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pMHNGbnpqMHhtT0ZnTWlYV3ZacE5nLVR1Q1JhYTBOeXlWQ3pIbnA1TlNWRjNNMjhNTVBJYUozQVc3dVp6ajBHTU1yVHNVQWt1bnV0ZUU1bER4S2NpaEhyWXBLdDZfb2hpX3pNZEdRRG9XQQ?oc=5",
+      "published": "2026-11-08T23:26:10+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "約40メートル先を横切るクマ1頭を目撃 体長約1.5メートル 車を運転中の男性が山口市の県道で",
+      "summary_original": "約40メートル先を横切るクマ1頭を目撃 体長約1.5メートル 車を運転中の男性が山口市の県道で FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1QQWluMzlEWDNiRjF1QzFoTDZuRHFuRlpVTno0a0dDalhpcDVBbkJOcndvTTFVMXdDbEtBcHA5MVJmcXRrZXh3Rm0xQURrdw?oc=5",
+      "published": "2026-11-09T06:00:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "【大阪府】11/9の天気予報",
+      "summary_original": "【大阪府】11/9の天気予報 FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfYjRTWUtfYnpzMnBEamtyc2lyTXd6cEZwMXFJNUR1Um5HODdkTGZKZlJrSnJ6QTh1QVhqOVRHUkxQWVhkakdGZ1gwa1B1Zw?oc=5",
+      "published": "2026-11-09T05:10:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "【宮城県】11/9の天気予報",
+      "summary_original": "【宮城県】11/9の天気予報 FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pOFRlTTkzbG9GYUw1cW9VMlBMcWlqMWFxWXBMN1Z0LTA0WGJhRmZmb0kzRm1LaUV0V2EyNVAtSC1WWUJLS0hFVWk5SjF5dw?oc=5",
+      "published": "2026-11-09T05:10:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "【兵庫県】11/9の天気予報",
+      "summary_original": "【兵庫県】11/9の天気予報 FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jbXg3REpBbFNDVTBjSXdpT3hNNWJqSmlOMXljMElQRTJVeEJrQmdfdnhmcGFoaldjWVptMlo3UUJEUU1HRTNxR2FOQkI2Zw?oc=5",
+      "published": "2026-11-09T05:10:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "【大分県】11/9の天気予報",
+      "summary_original": "【大分県】11/9の天気予報 FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11b0RaTUpaemVTNG5WMGFIY05VM0pZTmNLZGVnby11VmhpSi03cGRxQ1VJNm43MFl4VkU5V3NtN240VVZocEdUU2pJYmhCQQ?oc=5",
+      "published": "2026-11-09T05:10:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "【長崎県】11/9の天気予報",
+      "summary_original": "【長崎県】11/9の天気予報 FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZQlFGTTQxelJidjBXU215X2NDMFYyNzNKTXA1TnZ3bVNPRGFOQkRwbmF4clVqTDlvSHZfU1FPTFNENlZ2SG9TampkUVE1UQ?oc=5",
+      "published": "2026-11-09T05:10:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "【富山県】11/9の天気予報",
+      "summary_original": "【富山県】11/9の天気予報 FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1weU02NkRRSnpUWFVDeEd6M2VSRUdIbUd5cEdPbEp0SkFtRXcwZW0tMTNtQlZqR3prSW1yTE9XN3gzM2QtTzNUTlU2cjdyQQ?oc=5",
+      "published": "2026-11-09T05:10:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "【山形県】11/9の天気予報",
+      "summary_original": "【山形県】11/9の天気予報 FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4tVFFpU0Y4bGZkQ0t6a1hwUm5tbDVTc1JqSlIyTzM3bFlVcEhNeDZNdElJSmlZS3A2OWtyMldnSjFNZnpJRkdTTEwwXzJjQQ?oc=5",
+      "published": "2026-11-09T05:10:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "速報・新着ニュース",
+      "summary_original": "速報・新着ニュース テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1Ym1aeVU4R1JtN1hjTDlQaVRobk5hUWpDbmFpb2VORURNOUpUMzVvd2FkQldzRkxhZUZrNWw5bjBFZ0pxd0ppMEJjcXBIVG92V3F1S2FfVkE?oc=5",
+      "published": "2026-11-09T03:58:10+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "三井化学のJSR買収 来週にも発表へ 巨額資金の調達が焦点",
+      "summary_original": "三井化学のJSR買収 来週にも発表へ 巨額資金の調達が焦点 テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ab3VUQWdxQmF3UU8ySzlpNi1GSkxXaktsajdXM0dqRGJjeVZzVGE3Zk1KR2JzTTI3NE93ejRhSHl1LUhsSm5KdnN5cFUwREZTUzZYaTVEU2RkMGlkVmJxSlln?oc=5",
+      "published": "2026-11-09T01:42:42+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "米大統領首席補佐官が交代へ",
+      "summary_original": "米大統領首席補佐官が交代へ テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHcDU0b1ZGTmRBMzFtS0ZEZEJxSHRUcjNNaXlYdExDY3UwMkpQOWpMWWVjNnZGQXY0OHI0Rk1ER3B1OGFUTk1FZ1pwWnM3YXN0VGd4b3BSSl96cXRVZ21VMURn?oc=5",
+      "published": "2026-11-08T22:07:02+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "原子力災害の発生に備え訓練 政府と自治体が連携 オンラインで対応を確認",
+      "summary_original": "原子力災害の発生に備え訓練 政府と自治体が連携 オンラインで対応を確認 テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MLTFlYlR3UlVCSGlrTXZEM2NjZHREelZWd051VTl1b2l5MXdJR1FNRDUtTDNqNVkzcGpSNi0xZGluZEZDZEhFYjV3QTlkZjNTcU9YcTVQVk5pNEdBNTFEQVhhOA?oc=5",
+      "published": "2026-11-08T21:27:25+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "なぜ半導体事業を？参入のターニングポイント／時流を味方につけるサバイブ術【配信版①/円卓コンフィデンシャル】",
+      "summary_original": "なぜ半導体事業を？参入のターニングポイント／時流を味方につけるサバイブ術【配信版①/円卓コンフィデンシャル】 テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WUnJpNHNXLVllOHZzbWp4MjZaMjBZTlRiWFdFTWJOM05zZ25ySXZuNGJWRkdEa1ByZVZ3TjYwcjVvMHl6UHNlclpjMmVTY2tXY2dtd2JIdHAtR2NQLVJiUA?oc=5",
+      "published": "2026-11-08T20:27:22+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "米オープンAI 中間選挙直後 データセンターの情報公開強化",
+      "summary_original": "米オープンAI 中間選挙直後 データセンターの情報公開強化 テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKYTVXSGZBbHJySV92X3A3bjRqX05oczFINnV1QmtUTjkzMTV1WWtXbkh4MmpGSmxfeXp4RElhZ3ZUendiMUlTQUwtdlFOcm92d3dvdzFpRWxkTnQ3b0E?oc=5",
+      "published": "2026-11-08T20:25:48+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "米ルビオ国務長官が辞任検討か 共和党大敗で",
+      "summary_original": "米ルビオ国務長官が辞任検討か 共和党大敗で テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vM0FNeFdNdVBMeGI0T2ktbWFDVzhlcEVnblF6VHQ2azF2Sy1XTDBJSlBxYUxmbkozdGJKUXZ1RW9JdXZLdmpjQ3Rmblh0eUpmQ1R1VU5kbkNjdHRZWHc?oc=5",
+      "published": "2026-11-08T20:25:33+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "米雇用統計 予想大幅に上回る",
+      "summary_original": "米雇用統計 予想大幅に上回る テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxOG96LTA0OHV0ZHVWNXZvTjJEZWN0TzJGNVd4WFRuSnhwMlM0YTB1blJsd2hjdDNvVzJQMnJUeloyU1ZkdDVUbEc2OUcxMXJYbXBoZWpranRkb0V2NEt5YTB3?oc=5",
+      "published": "2026-11-08T20:23:33+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "トランプ氏、戦闘再開の「可能性低い」 核やホルムズで交渉進展なら",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQOGN0900F0Z01C26A1000000/",
+      "published": "2026-11-09T05:30:58+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "COP31きょう開幕 議長国トルコ「電化率35%へ引き上げ」掲げる",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQOGR05CHO0V01C26A1000000/",
+      "published": "2026-11-09T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "Jリーグ、若者集客は若者の力で 初の新卒職員採用で狙う人材育成",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQODH15BFH0V11C26A0000000/",
+      "published": "2026-11-09T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "カナデビア人事責任者が求める人材「好奇心で仕事の見方が変わる」",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQOUC27B370X21C26A0000000/",
+      "published": "2026-11-09T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "東京都、都有10施設で二重窓の断熱改修 省エネ･防災推進へモデル化",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQOCC29AVC0Z20C26A9000000/",
+      "published": "2026-11-09T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "仏化粧品イヴ・ロシェ、日本で専門店出店 30年に10店舗出店",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQOUC05AJM0V01C26A1000000/",
+      "published": "2026-11-09T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "newmo、増資で208億円調達 自動運転タクシーの開発加速",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQOUC05A510V01C26A1000000/",
+      "published": "2026-11-09T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "お茶くみ仕事からフルラジャパン社長へ 違和感を行動に変える突破力",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQOLC049XM0U6A101C2000000/",
+      "published": "2026-11-09T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "技能実習生の逸失利益「67歳まで日本水準」判決 専門家「画期的」",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVC60P3YVC6UDCB00TM.html?ref=rss",
+      "published": "2026-11-09T06:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "「ファミマ×千代の富士」大ヒット 昭和の大横綱、令和になぜ？",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVC63QXMVC6UTQP012M.html?ref=rss",
+      "published": "2026-11-09T06:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "コンビニが変えた「コーヒー習慣」 セブンは100億杯、手軽さ強み",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVC51CHBVC5ULFA02YM.html?ref=rss",
+      "published": "2026-11-09T06:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "EV充電補助金、都が不正申請認定 105億円交付の国はOK？なぜ",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVC47QZJVC4ULFA01HM.html?ref=rss",
+      "published": "2026-11-09T06:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "寂聴さん没後5年、今なお続く「法話」 参拝者「上を向いて生きる」",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVC61VGRVC6UCVL02NM.html?ref=rss",
+      "published": "2026-11-09T06:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "イスラエル大統領、反ネタニヤフ氏陣営に組閣を要請 連立協議難航か",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVC772P3VC7UHBI023M.html?ref=rss",
+      "published": "2026-11-09T04:36:06+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "サウジ首都、金融街の「アラムコタワー」が標的に ミサイル攻撃か",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVC851QQVC8UHBI00QM.html?ref=rss",
+      "published": "2026-11-09T00:30:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "ブリヂストン鳥栖工場で火災 従業員ら避難、3時間半後に鎮火 佐賀",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVC84VQTVC8TTHB001M.html?ref=rss",
+      "published": "2026-11-09T00:16:44+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "ＡＩやデータセンター規制法案、中間選大勝した米民主党が提出方針…トランプ氏は拒否権で対抗か",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/world/20261108-GYT1T00025/",
+      "published": "2026-11-09T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "岐阜で見つかったシカの化石、世界最古級１８００万年前の新種と判明…欧州起源説に一石投じる太く短い角",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/science/20261108-GYT1T00019/",
+      "published": "2026-11-09T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "交番侵入し「ショウリンジ」絶叫・警官挑発し「ポリ鬼」、中高生の迷惑行為横行・動画拡散で拍車…逮捕者も",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/national/20261108-GYT1T00017/",
+      "published": "2026-11-09T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "フォーエバーヤング、年末の東京大賞典で引退へ…海外ＧＩレースで日本調教馬で最多４勝・総獲得賞金５０憶円超",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/sports/etc/20261108-GYT1T00146/",
+      "published": "2026-11-08T23:43:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "山林で発見の遺体は石川の２６歳女性、死因は頸部圧迫による急性窒息と判明…監禁容疑で逮捕の男送検",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/national/20261108-GYT1T00144/",
+      "published": "2026-11-08T23:06:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "「パラグライダーが落下した」と１１９番、操縦していた７２歳男性死亡…山中で木に引っ掛かった機体発見",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/national/20261108-GYT1T00142/",
+      "published": "2026-11-08T22:44:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "イチローが進学校の高校生指導「真面目オーラ」「野球と勉強でスイッチ切り替えて」…保護者とＷＢＣの縁で実現",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/sports/yakyu/20261108-GYT1T00138/",
+      "published": "2026-11-08T22:05:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "侍ジャパン、練習試合で広島に快勝…３番西川「誰かが打つと負けたくない」と集中打の火付け役",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/sports/wbc/20261108-GYT1T00135/",
+      "published": "2026-11-08T21:40:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "パワハラ問題で揺れた横浜市 首長の暴走を止める仕組みに課題",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261106/k00/00m/010/266000c",
+      "published": "2026-11-09T06:00:19+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "オリックス6位指名のHonda・千葉、好投も自分を責める",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261109/k00/00m/050/002000c",
+      "published": "2026-11-09T06:00:12+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "試合終了は午後11時半過ぎ 東芝・諸橋が1球で試合を決める",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261109/k00/00m/050/004000c",
+      "published": "2026-11-09T06:00:11+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "福井遺体、26歳女性と確認 交際相手を送検、殺人容疑も視野",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261109/k00/00m/040/001000c",
+      "published": "2026-11-09T05:30:10+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "高支持率支えた野党支持層の「高市離れ」 転機となった政策は…",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261106/k00/00m/010/249000c",
+      "published": "2026-11-09T05:01:18+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "高市内閣の支持率調査、下落する層と変わらぬ層 それぞれの理由",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261106/k00/00m/010/210000c",
+      "published": "2026-11-09T05:00:16+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "東芝が7大会ぶりに4強 Honda破る 社会人野球日本選手権",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261108/k00/00m/050/164000c",
+      "published": "2026-11-09T00:11:47+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "高望みせず、欲張らず 三浦佳生が取り戻した「目力」 中国杯",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261108/k00/00m/050/149000c",
+      "published": "2026-11-08T23:24:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "俳句同人誌「群青」共同代表の櫂未知子さん死去、66歳 17年に俳人協会賞",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261109-VQJLBXDKTZNN5FWDF7VKJH5HOQ/",
+      "published": "2026-11-09T00:49:45+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "俳句同人誌「群青」共同代表の櫂未知子さん死去、66歳 17年に俳人協会賞",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261109-VQJLBXDKTZNN5FWDF7VKJH5HOQ/",
+      "published": "2026-11-09T00:49:45+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "反ネタニヤフ首相陣営の元参謀総長に組閣指示、イスラエル大統領 不調続けば再選挙も",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261109-II66Q2GN7BIELOPVJFHW2WFRWY/",
+      "published": "2026-11-09T00:34:47+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "反ネタニヤフ首相陣営の元参謀総長に組閣指示、イスラエル大統領 不調続けば再選挙も",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261109-II66Q2GN7BIELOPVJFHW2WFRWY/",
+      "published": "2026-11-09T00:34:47+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "準決勝は西濃運輸―NTT西日本、日本通運―東芝 9日に実施 社会人野球日本選手権",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261109-UTWAQHJC4FKHDC6X2P72ODSAZI/",
+      "published": "2026-11-09T00:22:54+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "準決勝は西濃運輸―NTT西日本、日本通運―東芝 9日に実施 社会人野球日本選手権",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261109-UTWAQHJC4FKHDC6X2P72ODSAZI/",
+      "published": "2026-11-09T00:22:54+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "パラグライダー墜落し参加者が死亡 初心者向けイベントで 愛媛・四国中央",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261108-P7N3MHDVOFJWXIEHUYVQAZ2UOU/",
+      "published": "2026-11-08T23:55:50+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "男子プロゴルファーの上田諭尉さん死去、52歳 2007年にツアー優勝",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261108-PJVQBQWLTBO2HEOU5O2RBEGBD4/",
+      "published": "2026-11-08T23:41:31+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "800 Rally in Tokyo to demand North Korea abductees’ immediate return",
+      "summary_original": "The rally adopted a resolution calling on North Korea to return all abductees while members of the parents' generation are still alive.",
+      "url": "https://www.japantimes.co.jp/news/2026/11/08/japan/north-korea-abductees-rally/",
+      "published": "2026-11-08T20:58:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "Dutchman and Spaniard in two-horse race for ECB presidency",
+      "summary_original": "While no other candidate was proposed before Friday's deadline, a surprise contender could yet appear, just like current ECB head Christine Lagarde did in 2019.",
+      "url": "https://www.japantimes.co.jp/business/2026/11/08/dutchman-spaniard-ecb-presidency/",
+      "published": "2026-11-08T15:55:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "JCG-discovered ‘Godzilla’ seafloor formation wins heritage status",
+      "summary_original": "A megamullion is a dome-shaped seafloor structure formed when mantle rocks are exposed on the ocean floor was the seafloor spreads.",
+      "url": "https://www.japantimes.co.jp/news/2026/11/08/japan/godzilla-megamullion-heritage/",
+      "published": "2026-11-08T14:27:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "Azerbaijan welcoming ‘set-jetting’ fans of Japan TV drama ‘Vivant’",
+      "summary_original": "Fans of popular Japanese TV drama \"Vivant\" have flocked to Azerbaijan, where the second season of the hit series was filmed.",
+      "url": "https://www.japantimes.co.jp/culture/2026/11/08/tv-streaming/azerbaijan-vivant/",
+      "published": "2026-11-08T12:52:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "What the end of U.N. peacekeeping in Western Sahara means",
+      "summary_original": "Western Sahara is largely controlled by Morocco but has been claimed for decades by the Algeria-backed Polisario Front.",
+      "url": "https://www.japantimes.co.jp/news/2026/11/08/world/politics/un-peacekeeping-western-sahara/",
+      "published": "2026-11-08T12:43:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "Eurovision brings pop and politics to Asia",
+      "summary_original": "Eurovision is the world's biggest televised live music event, launching the careers of artists such as ABBA and Celine Dion.",
+      "url": "https://www.japantimes.co.jp/culture/2026/11/08/music/eurovision-pop-politics-asia/",
+      "published": "2026-11-08T12:42:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "Magnitude 5.7 quake injures dozens in central Japan",
+      "summary_original": "The quake struck at 1:04 am in Shizuoka Prefecture but no tsunami warning was issued.",
+      "url": "https://www.japantimes.co.jp/news/2026/11/08/japan/earthquake-aichi-sunday/",
+      "published": "2026-11-08T12:35:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "SoftBank and ABB consider China carve-out to salvage robotics deal",
+      "summary_original": "The companies seek a solution after China's Office of the Working Mechanism for Foreign Investment Security Review halted plans worth $5.4 billion.",
+      "url": "https://www.japantimes.co.jp/business/2026/11/08/companies/softbank-abb-china-carve-out/",
+      "published": "2026-11-08T12:23:00+09:00",
+      "via": "rss",
+      "state_media": false
+    }
+  ],
+  "unavailable_sources": [
+    "Nikkei Asia"
+  ],
+  "errors": {}
+}
