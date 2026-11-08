@@ -1,0 +1,1142 @@
+{
+  "team": "de",
+  "headlines": [
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Ein Tor, aber keine Punkte für den FC Schalke 04",
+      "title_ko": "FC 샬케 04, 한 골 넣었지만 승점은 없어",
+      "summary_ko": "FC 샬케 04가 TSG 호펜하임 원정에서 패해 분데스리가 하위권에 머물렀으며 추가 부상자가 발생했다.",
+      "url": "https://www.sportschau.de/fussball/bundesliga/ein-tor-aber-keine-punkte-fuer-fc-schalke-04,spielbericht-tsg-hoffenheim-schalke-04-100.html",
+      "published": "2026-11-09T06:06:14+09:00",
+      "tags": [],
+      "event": "schalke-hoffenheim",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Unionsfraktionschef erteilt Plastiksteuer eine Absage",
+      "title_ko": "기민·기사련 원내대표, 플라스틱세에 반대",
+      "summary_ko": "기민·기사련(CDU/CSU) 원내대표 프라이는 계획된 플라스틱세가 \"경제적·생태적으로 잘못됐다\"며 반대했다. 사민당(SPD) 원내대표 미르슈는 진행 중인 협상을 언급하며 다른 입장을 보였다.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/plastiksteuer-absage-100.html",
+      "published": "2026-11-09T05:38:04+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "budget-2027-plastic-tax",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Überschwemmungen in Gaza schüren Sorge vor neuer Katastrophe",
+      "title_ko": "가자 홍수, 새로운 재앙 우려 키워",
+      "summary_ko": "폭우로 가자지구 일부가 침수됐으며, 보건장관에 따르면 피란민 100만 명이 거처를 잃었다. 구호단체들은 인도적 재앙을 우려하고 있다.",
+      "url": "https://www.tagesschau.de/ausland/asien/gaza-regenfaelle-humanitaere-lage-100.html",
+      "published": "2026-11-09T05:15:13+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "gaza-flooding",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Handball: Deutschland siegt souverän im letzten Länderspiel des Jahres",
+      "title_ko": "핸드볼: 독일, 올해 마지막 A매치에서 완승",
+      "summary_ko": "독일이 유럽선수권 예선 두 번째 경기에서 슬로바키아를 꺾고 2연승으로 2026년 국가대표 일정을 마무리했다.",
+      "url": "https://www.sportschau.de/handball/nationalmannschaft/deutsche-handballer-siegen-souveraen-im-letzten-laenderspiel-des-jahres,handball-em-qualifikation-slowakei-deutschland-100.html",
+      "published": "2026-11-09T05:12:39+09:00",
+      "tags": [],
+      "event": "handball-germany-slovakia",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Kanzler Merz will Aigner als Bundespräsidentin",
+      "title_ko": "메르츠 총리, 아이그너를 연방대통령으로 원해",
+      "summary_ko": "메르츠 총리가 아이그너를 연방대통령으로 원한다.",
+      "url": "https://www.tagesschau.de/video/video-1680486.html",
+      "published": "2026-11-09T05:09:53+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "aigner-federal-president",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "tagesschau in 100 Sekunden",
+      "title_ko": "타게스샤우 100초 뉴스",
+      "summary_ko": "타게스샤우 100초 뉴스 요약 영상.",
+      "url": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1680488.html",
+      "published": "2026-11-09T05:06:53+09:00",
+      "tags": [],
+      "event": "tagesschau-100s",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Kanzler Merz will Aigner als Bundespräsidentin vorschlagen",
+      "title_ko": "메르츠 총리, 아이그너를 연방대통령 후보로 제안할 예정",
+      "summary_ko": "후임 연방대통령 문제에 말을 아끼던 메르츠 총리가 월요일 일제 아이그너를 첫 여성 연방대통령 후보로 제안하겠다고 공식화했다.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-merz-100.html",
+      "published": "2026-11-09T05:05:22+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "aigner-federal-president",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Chef der Jungen Union: \"Junge Generation wird von der Politik vernachlässigt\"",
+      "title_ko": "청년연합 대표 \"젊은 세대가 정치에서 소외되고 있다\"",
+      "summary_ko": "청년연합(Junge Union) 대표 빙켈은 연금개혁 등 계획이 실행되지 않아 많은 젊은이가 정치적으로 소외감을 느낀다며 정부가 만회해야 할 것이 많다고 말했다.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-junge-generation-100.html",
+      "published": "2026-11-09T04:43:02+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "junge-union-winkel",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Aktuelles zum Krieg in der Ukraine",
+      "title_ko": "우크라이나 전쟁 최신 소식",
+      "summary_ko": "2022년 2월부터 러시아의 우크라이나 침공 전쟁이 이어지고 있으며, 전황을 라이브 티커로 전한다.",
+      "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
+      "published": "2026-11-09T06:05:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-war-liveblog",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Aktivisten hissen Palästinenser-Flagge vor dem Reichstag",
+      "title_ko": "활동가들, 연방의회 앞에 팔레스타인 깃발 게양",
+      "summary_ko": "일요일 오전 베를린 연방의회 의사당 앞에 독일 국기 대신 팔레스타인 깃발이 잠시 걸렸으며, 한 활동가 단체가 자신들의 소행이라고 밝혔다.",
+      "url": "https://www.zdfheute.de/politik/deutschland/palaestinenser-flagge-reichstag-100.html",
+      "published": "2026-11-09T05:37:34+09:00",
+      "tags": [],
+      "event": "reichstag-palestinian-flag",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Füllkrug: \"Da denke ich jetzt nicht dran\"",
+      "title_ko": "퓔크루크 \"지금은 그 생각 안 한다\"",
+      "summary_ko": "VfB 슈투트가르트전 0:1 패배 후 베르더 공격수 니클라스 퓔크루크가 실망감을 드러내며 국가대표팀 관련 언급을 피했다.",
+      "url": "https://www.zdfheute.de/sport/video/das-aktuelle-sportstudio/fuellkrug-interview-vfb-stuttgart-werder-bremen-100.html",
+      "published": "2026-11-09T05:28:00+09:00",
+      "tags": [],
+      "event": "fuellkrug-werder",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
+      "title_ko": "이란 전쟁과 중동 분쟁: 라이브 블로그",
+      "summary_ko": "중동 정세가 여전히 긴장 상태이며 공격이 반복되고 있고, 요르단강 서안 상황이 악화되고 있다.",
+      "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+      "published": "2026-11-09T05:00:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "middle-east-liveblog-zdf",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Einladung aus Spanien? Noll: \"Ich würde mich sehr freuen\"",
+      "title_ko": "스페인 대표팀 초청? 놀 \"매우 기쁠 것\"",
+      "summary_ko": "나후엘 놀은 독일축구협회(DFB) 연령별 대표를 거쳤지만 스페인 대표로도 뛸 수 있으며, 스포츠 프로그램에서 스페인어로 선호를 밝혔다.",
+      "url": "https://www.zdfheute.de/sport/video/nahuel-noll-paderborn-torwart-spanischer-verband-100.html",
+      "published": "2026-11-09T04:47:00+09:00",
+      "tags": [],
+      "event": "noll-spain",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Merz bekennt sich zu Aigner als Kandidatin",
+      "title_ko": "메르츠, 아이그너 후보 지지 공식화",
+      "summary_ko": "프리드리히 메르츠가 기민당 지도부에 일제 아이그너를 연방대통령 후보로 제안하겠다고 밝혔다. 기민·기사련이 기사련 소속 인사를 이 직책에 지명하는 것은 처음이다.",
+      "url": "https://www.zdfheute.de/politik/aigner-merz-bundespraesidentin-zeitplan-100.html",
+      "published": "2026-11-09T04:34:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "aigner-federal-president",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Koalition verhandelt über Haushalt: Was auf dem Spiel steht",
+      "title_ko": "연정, 예산 협상 중: 무엇이 걸려 있나",
+      "summary_ko": "흑적 연정이 2027년 연방예산을 두고 씨름하고 있으며, 수십억 유로 규모의 재정 공백으로 긴축 압박이 커지고 있다. 기민·기사련 원내대표 프라이는 플라스틱세에 반대한다.",
+      "url": "https://www.zdfheute.de/politik/deutschland/bundeshaushalt-verhandlungen-schwarz-rote-koalition-streit-finanzierung-100.html",
+      "published": "2026-11-09T03:12:00+09:00",
+      "tags": [
+        "legislation",
+        "forecast"
+      ],
+      "event": "budget-2027-plastic-tax",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "SC Freiburg setzt Siegesserie fort: Heimsieg gegen Union",
+      "title_ko": "SC 프라이부르크 연승 행진: 우니온 상대로 홈 승리",
+      "summary_ko": "SC 프라이부르크가 페널티킥 실축에도 후반 활약으로 1. FC 우니온 베를린을 2:0으로 꺾었다.",
+      "url": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-sc-freiburg-union-berlin-suzuki-100.html",
+      "published": "2026-11-09T03:06:28+09:00",
+      "tags": [],
+      "event": "freiburg-union",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Die CSU-Politikerin Ilse Aigner ist als erste Bundespräsidentin nun Favoritin",
+      "title_ko": "기사련 정치인 일제 아이그너, 첫 여성 연방대통령 유력 후보로",
+      "summary_ko": "아이그너는 첫 여성이자 첫 기사련 출신 연방대통령이 될 수 있으며, 1월 30일 연방총회 선거까지 후보이자 유력 주자다.",
+      "url": "https://www.dw.com/de/die-csu-politikerin-ilse-aigner-ist-als-erste-bundespräsidentin-nun-favoritin/a-79873744?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-09T04:34:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "aigner-federal-president",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Wackelt Polens Ruf als sicheres Land?",
+      "title_ko": "폴란드의 '안전한 나라' 이미지 흔들리나?",
+      "summary_ko": "크라쿠프 테러로 폴란드가 큰 충격을 받았지만 투스크의 중도좌파 진영과 우파 야당 간 권력 다툼은 계속되고 있다.",
+      "url": "https://www.dw.com/de/wackelt-polens-ruf-als-sicheres-land/a-79893042?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-09T02:29:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "poland-krakow-attack",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Israel: Netanjahu-Rivale Gadi Eisenkot soll Regierung bilden",
+      "title_ko": "이스라엘: 네타냐후 경쟁자 가디 아이젠코트가 정부 구성 맡아",
+      "summary_ko": "새로 선출된 이스라엘 의회의 세력 구도가 복잡하며, 아이젠코트 연합은 독자 과반에 13석이 부족하다. 아랍계 소수 정당들이 도움이 될 수 있다.",
+      "url": "https://www.dw.com/de/israel-netanjahu-rivale-gadi-eisenkot-soll-regierung-bilden/a-79889744?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-09T01:40:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "israel-eisenkot-government",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Mali: Fast 4.000 Vertriebene nach Angriff auf Souleye",
+      "title_ko": "말리: 수울레 공격으로 피란민 4천 명 가까이 발생",
+      "summary_ko": "말리 중부 세구 지역 마시나와 사로에 수울레 마을 공격을 피해 온 피란민 약 4천 명(주로 여성과 어린이)이 머물고 있는 것으로 전해졌다.",
+      "url": "https://www.dw.com/de/mali-fast-4-000-vertriebene-nach-angriff-auf-souleye/a-79854085?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-08T22:37:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "mali-souleye-attack",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Ukraine: AKW Saporischschja wieder vom Strom abgetrennt",
+      "title_ko": "우크라이나: 자포리자 원전 다시 전력망에서 차단",
+      "summary_ko": "러시아군이 통제하는 자포리자 원전이 다시 비상 발전기로 전력을 공급받아야 하는 상황이며, 원인은 아직 알려지지 않았다.",
+      "url": "https://www.dw.com/de/ukraine-akw-saporischschja-wieder-vom-strom-abgetrennt/a-79890404?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-08T22:20:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "zaporizhzhia-npp-power",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Moskau: Gedenktafel erinnert an DDR-Spionagechef Wolf",
+      "title_ko": "모스크바, 동독 첩보 수장 볼프 기념 명판 설치",
+      "summary_ko": "동독 독재가 끝난 지 30여 년이 지났으며, 그 대표 인물 중 하나였던 마르쿠스 볼프가 모스크바에서 기려졌다.",
+      "url": "https://www.dw.com/de/moskau-gedenktafel-erinnert-an-ddr-spionagechef-wolf/a-79890319?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-08T22:02:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "moscow-wolf-plaque",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Holocaust: Ausstellung \"Nie wieder\" in Bonn. Erinnerungskultur unter Druck",
+      "title_ko": "홀로코스트: 본에서 '다시는 안 된다' 전시, 기억 문화가 압박받다",
+      "summary_ko": "홀로코스트를 증언할 생존자가 얼마 남지 않았고, '죄책감 숭배'를 끝내자는 목소리가 커지고 있다. 기억 문화가 어떻게 유지될 수 있는지 묻는다.",
+      "url": "https://www.dw.com/de/holocaust-ausstellung-nie-wieder-in-bonn-erinnerungskultur-unter-druck/a-79810276?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-08T18:52:00+09:00",
+      "tags": [],
+      "event": "holocaust-exhibition-bonn",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Iran richtet drei weitere Männer nach Massenprotesten hin",
+      "title_ko": "이란, 대규모 시위 관련 남성 3명 추가 처형",
+      "summary_ko": "이란 권력기관은 지난 겨울 시위대를 잔혹하게 진압했으며, 이번에 시위 참가자 3명에 대한 사형이 또 집행됐다.",
+      "url": "https://www.dw.com/de/iran-richtet-drei-weitere-männer-nach-massenprotesten-hin/a-79889299?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-08T18:26:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "iran-executions",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Affäre mit möglicher Spionin: Nvidia leitet Untersuchungen gegen Chef Huang ein",
+      "title_ko": "스파이 의혹 여성과의 불륜: 엔비디아, 젠슨 황 CEO 조사 착수",
+      "summary_ko": "엔비디아 CEO 황은 직원 이메일에서 불륜을 인정했다. 보도에 따르면 상대 여성은 중국 정보기관에 포섭된 것으로 알려졌으며, 회사는 내부 조사에 착수했다.",
+      "url": "https://www.n-tv.de/wirtschaft/Nvidia-leitet-Untersuchungen-gegen-Chef-Huang-ein-id31509683.html",
+      "published": "2026-11-09T06:02:59+09:00",
+      "tags": [
+        "business",
+        "stocks",
+        "geopolitics"
+      ],
+      "event": "nvidia-huang-affair-espionage",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "\"Tatort\" aus Zürich: Die unüblichen Verdächtigen",
+      "title_ko": "취리히 '타트오르트': 이례적인 용의자들",
+      "summary_ko": "'독수리처럼 자유롭게' 편은 포용적 캐스팅으로 특별한 앙상블을 선보였다.",
+      "url": "https://www.n-tv.de/leute/tv/Die-unueblichen-Verdaechtigen-id31499818.html",
+      "published": "2026-11-09T05:50:43+09:00",
+      "tags": [],
+      "event": "tatort-zurich",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Völlig absurdes Fußballspiel: VfL Bochum wird aus 51 Metern blamiert und lacht trotzdem",
+      "title_ko": "황당한 축구 경기: VfL 보훔, 51m 슛에 망신당하고도 웃다",
+      "summary_ko": "VfL 보훔이 이번 시즌 2부리그 여섯 번째 홈경기에서 첫 승을 거뒀으며, 환상적인 골과 막판 드라마가 있었다.",
+      "url": "https://www.n-tv.de/sport/fussball/VfL-Bochum-wird-aus-51-Metern-blamiert-und-lacht-trotzdem-id31509646.html",
+      "published": "2026-11-09T05:47:25+09:00",
+      "tags": [],
+      "event": "bochum-home-win",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Schlimmer Zusammenprall: Verzweifelter FC Schalke 04 verliert Spiel, Gosens und Karius",
+      "title_ko": "충격적 충돌: 샬케 04, 경기와 고젠스·카리우스를 잃다",
+      "summary_ko": "샬케 04가 무슬리치 감독 체제에서 호펜하임에 선전 끝에 근소하게 패했으며, 주요 선수 두 명의 부상이 우려된다.",
+      "url": "https://www.n-tv.de/sport/fussball/Verzweifelter-FC-Schalke-04-verliert-Spiel-Gosens-und-Karius-id31509565.html",
+      "published": "2026-11-09T05:29:12+09:00",
+      "tags": [],
+      "event": "schalke-hoffenheim",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Einigung statt Eskalation?: Trump hält neue Angriffe auf den Iran für \"höchst unwahrscheinlich\"",
+      "title_ko": "확전 대신 합의?: 트럼프 \"이란 추가 공격 가능성 매우 낮다\"",
+      "summary_ko": "이란 분쟁에서 트럼프 미 대통령은 외교적 해결에 무게를 두며 추가 군사공격 가능성을 낮게 봤다. 다만 테헤란이 양보하지 않으면 재공격도 선택지라고 했다.",
+      "url": "https://www.n-tv.de/politik/Trump-haelt-neue-Angriffe-auf-den-Iran-fuer-hoechst-unwahrscheinlich-id31509594.html",
+      "published": "2026-11-09T04:53:26+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "trump-iran-strikes-unlikely",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Tödlicher Unfall in Österreich: 61-jähriger Deutscher stirbt bei Wingsuit-Flug",
+      "title_ko": "오스트리아 사망 사고: 61세 독일인 윙슈트 비행 중 숨져",
+      "summary_ko": "오스트리아 알프스에서 윙슈트 비행을 하던 61세 독일인이 첼암제 비행장에 착륙하지 못하고 인근 마을 초원에서 숨진 채 발견됐다.",
+      "url": "https://www.n-tv.de/panorama/61-jaehriger-Deutscher-stirbt-bei-Wingsuit-Flug-id31509499.html",
+      "published": "2026-11-09T04:47:09+09:00",
+      "tags": [],
+      "event": "wingsuit-death-austria",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "17 Hektar sollen gerodet werden: Umweltschützer protestieren gegen Red Bull-Fabrik bei Berlin",
+      "title_ko": "17헥타르 벌채 예정: 베를린 인근 레드불 공장에 환경단체 반발",
+      "summary_ko": "레드불이 브란덴부르크주 바루트에 캔 공장을 새로 지으려 하며, 이를 위해 약 17헥타르의 숲을 벌채해야 해 환경단체가 반발하고 있다.",
+      "url": "https://www.n-tv.de/wirtschaft/Umweltschuetzer-protestieren-gegen-Red-Bull-Fabrik-bei-Berlin-id31509407.html",
+      "published": "2026-11-09T04:46:37+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "red-bull-baruth-plant",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Hegseth droht Impeachment: Demokraten nehmen Trump-Vertraute ins Visier",
+      "title_ko": "헤그세스 탄핵 위기: 민주당, 트럼프 측근 겨냥",
+      "summary_ko": "중간선거에서 대승한 민주당이 트럼프 주변 인사 조사에 나서려 하며, 일론 머스크와 새 비서실장 스티븐 밀러가 최우선 대상이다. 헤그세스 국방장관은 탄핵 절차에 직면할 수 있다.",
+      "url": "https://www.n-tv.de/politik/Demokraten-nehmen-Trump-Vertraute-ins-Visier-id31509542.html",
+      "published": "2026-11-09T04:45:56+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation"
+      ],
+      "event": "us-midterms-aftermath",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Wahnsinn, dass das in Europa funktioniert.“ – Hubschrauber von Olympiasieger geklaut",
+      "title_ko": "\"유럽에서 이런 일이 되다니\" – 올림픽 챔피언의 헬리콥터 도난",
+      "summary_ko": "전 스키점프 선수 토마스 모르겐슈테른은 오스트리아에서 가장 성공한 스포츠인 중 한 명이다.",
+      "url": "https://www.welt.de/sport/wintersport/article6af0c4a8a389bc337cfca6d4/thomas-morgenstern-wahnsinn-dass-das-in-europa-funktioniert-hubschrauber-von-olympiasieger-geklaut.html",
+      "published": "2026-11-09T06:01:10+09:00",
+      "tags": [],
+      "event": "morgenstern-helicopter-theft",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "CDU/CSU-Fraktionschefs fordern von Merz Stromsteuersenkung für alle und umfassende Sozialreformen",
+      "title_ko": "기민·기사련 원내대표들, 메르츠에 전 국민 전기세 인하·포괄적 사회개혁 요구",
+      "summary_ko": "기민·기사련 원내대표들이 메르츠 총리와 회동 후 전 국민 전기요금 인하, 사회보험료 인하, 근본적 개혁을 요구하며 압박을 높였다. 구체적 결정과 요구 목록을 제시했다.",
+      "url": "https://www.welt.de/politik/deutschland/article6af0cbda1125adfe9365d03b/reformforderungen-cdu-csu-fraktionschefs-fordern-von-merz-stromsteuersenkung-fuer-alle-und-umfassende-sozialreformen.html",
+      "published": "2026-11-09T04:59:14+09:00",
+      "tags": [
+        "legislation",
+        "industry"
+      ],
+      "event": "union-electricity-tax-demand",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Ilse Aigner soll Bundespräsidentin werden – Linke schimpft über „parteipolitischen Wanderpokal“",
+      "title_ko": "일제 아이그너, 연방대통령 후보로 – 좌파당 \"정당 간 돌려먹기 트로피\" 비난",
+      "summary_ko": "죄더가 거론하고 메르츠가 오래 망설였던 아이그너를 기민당 대표가 지지하면서 초당적 과반이 형성되고 있다. 그러나 모두가 이를 환영하지는 않는다.",
+      "url": "https://www.welt.de/politik/deutschland/article6af0cd0280d3a1c6aa66d965/merz-folgt-soeders-vorschlag-ilse-aigner-soll-bundespraesidentin-werden-linke-schimpft-ueber-parteipolitischen-wanderpokal.html",
+      "published": "2026-11-09T04:29:35+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "aigner-federal-president",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Brantner spricht über Angst von Frauen – CDU-Politiker wirft Grünen-Chefin „Verlogenheit“ vor",
+      "title_ko": "브란트너, 여성의 불안 언급 – 기민당 정치인 \"위선\" 비판",
+      "summary_ko": "녹색당 대표 프란치스카 브란트너가 영상에서 여성들의 불안을 설명하자 기민당 크리스토프 플로스가 토론의 중요한 부분이 빠졌다며 강하게 비판했다.",
+      "url": "https://www.welt.de/politik/article6af0b990a389bc337cfca642/streit-um-kriminalstatistik-brantner-spricht-ueber-angst-von-frauen-cdu-politiker-wirft-gruenen-chefin-verlogenheit-vor.html",
+      "published": "2026-11-09T03:55:11+09:00",
+      "tags": [],
+      "event": "brantner-ploss-dispute",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Fünfter Platz von Weltmeister Antonelli reicht – Mercedes feiert Konstrukteurstitel",
+      "title_ko": "세계 챔피언 안토넬리 5위로 충분 – 메르세데스 컨스트럭터 타이틀 획득",
+      "summary_ko": "키미 안토넬리가 상파울루에서 5위에 그쳤지만, 드라이버 타이틀에 이어 메르세데스의 F1 컨스트럭터 챔피언십 우승을 확정했다. 시상대 축하는 순탄치 않았다.",
+      "url": "https://www.welt.de/sport/formel1/article6af0bff76da1b3dcd20fdfaf/grosser-preis-von-brasilien-fuenfter-platz-von-weltmeister-antonelli-reicht-mercedes-feiert-konstrukteurstitel.html",
+      "published": "2026-11-09T03:54:26+09:00",
+      "tags": [],
+      "event": "f1-sao-paulo-gp",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Freiburg spaziert gegen chancenloses Union zum Sieg",
+      "title_ko": "프라이부르크, 무기력한 우니온 상대로 손쉬운 승리",
+      "summary_ko": "SC 프라이부르크가 우니온 베를린을 꺾고 구단 역사상 최고의 시즌 출발을 기록했다. 우니온은 골키퍼 덕분에 대패를 면했다.",
+      "url": "https://www.welt.de/sport/fussball/bundesliga/article6af0b9121125adfe9365ced8/neunter-spieltag-freiburg-spaziert-gegen-chancenloses-union-zum-sieg.html",
+      "published": "2026-11-09T03:42:25+09:00",
+      "tags": [],
+      "event": "freiburg-union",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Es schaut schlimm aus“ – Gosens-Verletzung überschattet Schalkes Pleite",
+      "title_ko": "\"상태가 심각해 보인다\" – 고젠스 부상이 샬케 패배에 그림자",
+      "summary_ko": "승격팀 샬케 04가 시즌 첫 공격수 골에도 호펜하임에 져 7경기 연속 무승을 기록했으며, 충돌로 또다시 두 명이 이탈했다.",
+      "url": "https://www.welt.de/sport/fussball/bundesliga/article6af09d2480d3a1c6aa66d6bb/schalkes-erstes-stuermertor-reicht-nicht-gegen-hoffenheim-gosens-und-karius-verletzt.html",
+      "published": "2026-11-09T03:19:25+09:00",
+      "tags": [],
+      "event": "schalke-hoffenheim",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Trump droht Demokraten mit Ermittlungen und spricht von „riesigem Schritt zurück“ für Amerika",
+      "title_ko": "트럼프, 민주당에 수사 위협하며 미국의 \"거대한 후퇴\" 언급",
+      "summary_ko": "중간선거 패배 후 트럼프가 반격에 나서 민주당에 수사를 경고하고 역사적 후퇴라고 한탄했다. 예상 밖 인사도 화제가 됐다.",
+      "url": "https://www.welt.de/politik/ausland/article6af0a0a4a389bc337cfca4d7/nach-wahlschlappe-trump-droht-demokraten-mit-ermittlungen-und-spricht-von-riesigem-schritt-zurueck-fuer-amerika.html",
+      "published": "2026-11-09T02:44:46+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-midterms-aftermath",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Spionageverdacht: Nvidia prüft Berichte zu ausländischer Spionage gegen Chef",
+      "title_ko": "스파이 의혹: 엔비디아, CEO 겨냥 외국 첩보 보도 검토",
+      "summary_ko": "엔비디아 CEO 젠슨 황이 불륜을 인정했다. 언론 보도에 따르면 미 당국은 상대 여성이 중국 정보기관에 포섭된 것으로 의심한다.",
+      "url": "https://www.handelsblatt.com/technik/ki/spionageverdacht-nvidia-prueft-berichte-zu-auslaendischer-spionage-gegen-chef/100268272.html",
+      "published": "2026-11-09T06:03:43+09:00",
+      "tags": [
+        "business",
+        "stocks",
+        "geopolitics"
+      ],
+      "event": "nvidia-huang-affair-espionage",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "+++ Iran-Krieg +++: Irak – Einigung mit USA über Ölexporte durch Straße von Hormus",
+      "title_ko": "+++ 이란 전쟁 +++: 이라크, 호르무즈 해협 통한 원유 수출에 미국과 합의",
+      "summary_ko": "걸프 국가들의 공동 철도망 추진, 미국의 이란 핵 프로그램 정보 현상금, 카츠 \"이스라엘의 대이란 임무는 끝나지 않았다\" 등을 전하는 뉴스 블로그.",
+      "url": "https://www.handelsblatt.com/politik/international/iran-krieg-irak-einigung-mit-usa-ueber-oelexporte-durch-strasse-von-hormus/100136895.html",
+      "published": "2026-11-09T05:13:00+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "iraq-us-hormuz-oil-exports",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Porträt: Die „Soulsister“ vom Starnberger See wird Bundespräsidentin",
+      "title_ko": "인물: 슈타른베르크 호수의 '소울시스터', 연방대통령 되다",
+      "summary_ko": "기민·기사련이 일제 아이그너를 최고 국가직 후보로 지명했으며 사민당과 녹색당도 동의할 것으로 보인다. 인기 배경을 고향, 뮌헨, 베를린에서 찾는다.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/ilse-aigner-die-soulsister-vom-starnberger-see/100267577.html",
+      "published": "2026-11-09T04:40:01+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "aigner-federal-president",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Bundespräsidentin: Erste Frau im Amt – Merz schlägt Aigner als Bundespräsidentin vor",
+      "title_ko": "연방대통령: 첫 여성 – 메르츠, 아이그너를 연방대통령 후보로 제안",
+      "summary_ko": "오랜 우여곡절과 큰 압박 끝에 기민당 대표 메르츠도 기사련 정치인 일제 아이그너를 최고 국가직 후보로 확정했다.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentin-erste-frau-im-amt-merz-schlaegt-aigner-als-bundespraesidentin-vor/100268202.html",
+      "published": "2026-11-09T04:33:14+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "aigner-federal-president",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Midterms: US-Demokraten nehmen nach Wahlsieg Musk und Trump-Vertraute ins Visier",
+      "title_ko": "중간선거: 미 민주당, 승리 후 머스크·트럼프 측근 겨냥",
+      "summary_ko": "의회 다수당이 된 민주당이 트럼프의 이민정책과 기업들의 비위 가능성을 조사하려 하며, 헤그세스 국방장관 탄핵 추진도 지지를 얻고 있다.",
+      "url": "https://www.handelsblatt.com/politik/international/midterms-us-demokraten-nehmen-nach-wahlsieg-musk-und-trump-vertraute-ins-visier/100268255.html",
+      "published": "2026-11-09T04:07:26+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation"
+      ],
+      "event": "us-midterms-aftermath",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Klimakonferenz: Der Trump-Effekt: Unsicherheit für Öl und Gas, Schwung für die Energiewende",
+      "title_ko": "기후회의: 트럼프 효과 – 석유·가스엔 불확실성, 에너지 전환엔 추진력",
+      "summary_ko": "트럼프는 석유·가스에 집중하지만 이란 전쟁과 에너지 위기로 재생에너지의 매력이 커지고 있다. 중간선거 패배가 튀르키예 기후회의에 갖는 의미를 짚는다.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/klimakonferenz-wie-der-us-praesident-unfreiwillig-die-erneuerbaren-antreibt/100262559.html",
+      "published": "2026-11-09T01:44:34+09:00",
+      "tags": [
+        "industry",
+        "geopolitics",
+        "forecast"
+      ],
+      "event": "climate-conference-trump-effect",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Israel: Diese Optionen hat Eisenkot nun für die Regierungsbildung",
+      "title_ko": "이스라엘: 아이젠코트의 정부 구성 선택지",
+      "summary_ko": "헤르초그 대통령이 야당 정치인 가디 아이젠코트에게 정부 구성을 맡겼으며, 그에게는 각기 다른 위험을 안은 세 가지 선택지가 있다.",
+      "url": "https://www.handelsblatt.com/politik/international/israel-diese-optionen-hat-eisenkot-nun-fuer-die-regierungsbildung/100268201.html",
+      "published": "2026-11-09T01:20:23+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "israel-eisenkot-government",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Migration: AfD-Chef Chrupalla geht überraschend auf Distanz zu Trumps Politik",
+      "title_ko": "이민: 독일대안당 대표 크루팔라, 트럼프 정책과 의외의 거리두기",
+      "summary_ko": "독일대안당(AfD) 내 추방 정책 노선을 둘러싼 갈등이 예고된다. 당 지도부는 미국식 대응을 거부하지만 다른 이들은 강경책을 고수한다.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/migration-afd-chef-chrupalla-geht-ueberraschend-auf-distanz-zu-trumps-politik/100268227.html",
+      "published": "2026-11-09T00:33:55+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "afd-chrupalla-trump-migration",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Nvidia-Chef Jensen Huang entschuldigt sich für Affäre mit mutmaßlicher Spionin",
+      "title_ko": "엔비디아 CEO 젠슨 황, 스파이 의혹 여성과의 불륜 사과",
+      "summary_ko": "황 CEO는 \"아내에게 충실하지 못했다\"며 외도를 인정했고 회사는 조사에 착수했다. 상대 여성은 중국 정보기관을 위해 일한 것으로 보이며, 루비오 미 국무장관이 그녀에 대해 경고했다고 한다.",
+      "url": "https://www.spiegel.de/ausland/nvidia-chef-jensen-huang-entschuldigt-sich-fuer-affaere-mit-mutmasslicher-spionin-a-66db6061-9340-44ba-9c9d-75726df75e3b#ref=rss",
+      "published": "2026-11-09T05:50:00+09:00",
+      "tags": [
+        "business",
+        "stocks",
+        "geopolitics"
+      ],
+      "event": "nvidia-huang-affair-espionage",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Österreich: 61-jähriger Deutscher stirbt bei Wingsuit-Unfall",
+      "title_ko": "오스트리아: 61세 독일인 윙슈트 사고로 사망",
+      "summary_ko": "숙련자로 알려진 독일인 윙슈트 비행사가 점프 후 연락이 끊겼고, 초원에서 숨진 채 발견됐다.",
+      "url": "https://www.spiegel.de/panorama/oesterreich-61-jaehriger-deutscher-stirbt-bei-wingsuit-unfall-a-0fb09787-3103-40ba-a5e3-2af875499a51#ref=rss",
+      "published": "2026-11-09T05:28:00+09:00",
+      "tags": [],
+      "event": "wingsuit-death-austria",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Formel 1: Lando Norris siegt in São Paulo, Mercedes jubelt über Team-WM",
+      "title_ko": "F1: 랜도 노리스 상파울루 우승, 메르세데스 팀 타이틀 환호",
+      "summary_ko": "뒤엉킨 출발 그리드와 빗속 혼전 속에 드라이버들이 젖은 노면에서 여러 차례 통제력을 잃었지만, 노리스를 따라잡은 이는 없었다.",
+      "url": "https://www.spiegel.de/sport/formel1/formel-1-lando-norris-siegt-in-sao-paulo-mercedes-jubelt-ueber-team-wm-a-8515aa9f-3837-4ac7-b019-b121968f9cb7#ref=rss",
+      "published": "2026-11-09T05:00:00+09:00",
+      "tags": [],
+      "event": "f1-sao-paulo-gp",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Gazastreifen: Zelte versinken im Wasser – Vertriebene ohne Schutz",
+      "title_ko": "가자지구: 텐트 물에 잠겨 피란민 무방비",
+      "summary_ko": "겨울 폭풍으로 가자지구에 다시 폭우가 내려 수만 개의 텐트가 침수돼 사용할 수 없게 됐으며, 약 200만 팔레스타인인의 인도적 상황이 악화되고 있다.",
+      "url": "https://www.spiegel.de/ausland/gazastreifen-zelte-versinken-im-wasser-vertriebene-ohne-schutz-a-ba82bba1-4889-4798-b986-f87037618676#ref=rss",
+      "published": "2026-11-09T03:52:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "gaza-flooding",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Warum Pilze für das Leben auf der Erde unverzichtbar sind",
+      "title_ko": "곰팡이(균류)가 지구 생명에 필수적인 이유",
+      "summary_ko": "균류는 지구 생명에 필수적이며, 이들이 어떻게 소통하는지, 의학적 의미, 특이한 종들을 소개한다.",
+      "url": "https://www.spiegel.de/deinspiegel/warum-pilze-fuer-das-leben-auf-der-erde-unverzichtbar-sind-a-1b36f12a-545c-4dc7-9f91-574b144b161f#ref=rss",
+      "published": "2026-11-09T03:47:00+09:00",
+      "tags": [],
+      "event": "fungi-explainer",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Kirche: Pfarrer Christian Schäfer kellnert im Kasseler Café",
+      "title_ko": "교회: 크리스티안 셰퍼 목사, 카셀 카페에서 서빙",
+      "summary_ko": "목사 크리스티안 셰퍼는 카셀의 한 카페에서 케이크와 음료를 서빙하며, 이 일에 특별한 희망을 걸고 있다.",
+      "url": "https://www.spiegel.de/panorama/gesellschaft/kirche-pfarrer-christian-schaefer-kellnert-im-kasseler-cafe-a-a152104c-9944-4415-815a-d74dd85bd1f1#ref=rss",
+      "published": "2026-11-09T03:28:00+09:00",
+      "tags": [],
+      "event": "pastor-cafe-kassel",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Ilse Aigner: Im CDU-Präsidium dürfte Friedrich Merz ihre Nominierung als Bundespräsidentin verkünden",
+      "title_ko": "일제 아이그너: 메르츠, 기민당 지도부에서 연방대통령 지명 발표 전망",
+      "summary_ko": "아이그너의 연방대통령 지명이 기민당 내 큰 지지를 받고 있지만 절차에 불만을 가진 이들도 있다. 총리와의 산행, 공통 지인 등 세부 사항이 알려졌다.",
+      "url": "https://www.spiegel.de/politik/deutschland/ilse-aigner-im-cdu-praesidium-duerfte-kanzler-friedrich-merz-ihre-nominierung-als-bundespraesidentin-verkuenden-a-16d83dfb-440a-4514-a5d5-c14d660df44d#ref=rss",
+      "published": "2026-11-09T03:21:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "aigner-federal-president",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Donald Trump bietet UFC-Chef Dana White Job als Sprecher an - eine Verwechslung?",
+      "title_ko": "트럼프, UFC 대표 데이나 화이트에 대변인직 제안 – 착오?",
+      "summary_ko": "소셜미디어 이용자들은 트럼프가 UFC 대표가 아닌 거의 같은 이름의 여성을 대변인으로 영입하려 했다고 주장하며, 해당 여성이 사정을 설명했다.",
+      "url": "https://www.spiegel.de/netzwelt/web/donald-trump-bietet-ufc-chef-dana-white-job-als-sprecher-an-eine-verwechslung-a-2f71c575-00ad-44d0-872e-10b58830d0dd#ref=rss",
+      "published": "2026-11-09T03:17:00+09:00",
+      "tags": [],
+      "event": "trump-dana-white-spokesperson",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Jacques-Louis David: So funktioniert Bildpolitik",
+      "title_ko": "자크루이 다비드: 이미지 정치는 이렇게 작동한다",
+      "summary_ko": "프랑스 혁명의 화가 다비드의 작품이 어떻게 이데올로기를 시각화하는지 클레멘스 클뤼네만이 보여준다.",
+      "url": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/wie-jacques-louis-david-als-maler-die-franzoesische-revolution-praegte-accg-200978412.html",
+      "published": "2026-11-09T05:38:47+09:00",
+      "tags": [],
+      "event": "jacques-louis-david-book",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Mode aus Vietnam: Nach Südostasien reisen für die Fashion",
+      "title_ko": "베트남 패션: 패션을 위해 동남아로",
+      "summary_ko": "베트남은 세계를 위한 옷을 만들지만 자국을 위한 패션도 가능한지 묻는다. 젊은 디자이너 세대가 독일에서도 주목받고 있다.",
+      "url": "https://www.faz.net/aktuell/besser-leben/stil/vietnamesische-mode-mehr-als-made-in-vietnam-201310971.html",
+      "published": "2026-11-09T05:36:17+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "vietnam-fashion",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Fußball-Bundesliga: Schalke 04 verliert zwei Spieler und das Duell mit Hoffenheim",
+      "title_ko": "분데스리가: 샬케 04, 선수 2명 잃고 호펜하임전 패배",
+      "summary_ko": "샬케가 오랜 침묵 끝에 골을 넣었지만 승점은 호펜하임이 가져갔고, 충돌로 선수 두 명이 부상당했다.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-schalke-04-verliert-bei-tsg-1899-hoffenheim-in-fussball-bundesliga-201304370.html",
+      "published": "2026-11-09T05:35:31+09:00",
+      "tags": [],
+      "event": "schalke-hoffenheim",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Nordkorea: Die kriminelle Cybermacht",
+      "title_ko": "북한: 범죄적 사이버 강국",
+      "summary_ko": "독일과 EU는 미·일·한 협력에 더 적극 참여하고, 자체 방어와 블록체인 분석에 투자해야 한다는 주장.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/die-kriminelle-cybermacht-201654269.html",
+      "published": "2026-11-09T05:13:58+09:00",
+      "tags": [
+        "geopolitics",
+        "crypto"
+      ],
+      "event": "north-korea-cyber",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Abgeordnete Emde: Die Linkspartei kommt um eine eigene Entscheidung nicht herum",
+      "title_ko": "엠데 의원: 좌파당은 스스로 결정을 피할 수 없다",
+      "summary_ko": "엠데 의원이 의원직을 내려놓지 않겠다고 하면서, 좌파당은 베를린에서 집권할지 여부를 결정해야 한다.",
+      "url": "https://www.faz.net/aktuell/politik/inland/vanessa-emde-und-die-zerreissprobe-fuer-die-berliner-linkspartei-201662974.html",
+      "published": "2026-11-09T04:45:12+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "emde-mandate-linke",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Welche Branchen wachsen: Aufschwung – echt jetzt?",
+      "title_ko": "어떤 산업이 성장하나: 회복 – 진짜일까?",
+      "summary_ko": "독일 경제가 마침내 다시 성장하고 있지만, 그 회복이 광범위하고 지속 가능한지 주요 업종별로 새 주문이 들어오는 곳과 압박이 여전한 곳을 살핀다.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutscher-wirtschaftsaufschwung-wo-er-ankommt-und-wo-nicht-201626495.html",
+      "published": "2026-11-09T04:44:37+09:00",
+      "tags": [
+        "industry",
+        "business",
+        "forecast"
+      ],
+      "event": "german-economy-recovery",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Münchner Sorgen: „Ein Dilemma“: Hoeneß mit Zweifeln an Bayern-Star Musiala",
+      "title_ko": "뮌헨의 걱정: 회네스 \"딜레마\"… 무시알라에 의구심",
+      "summary_ko": "FC 바이에른은 진단을 받은 자말 무시알라에 무조건적 지지를 약속했지만, 울리 회네스는 그가 예전 기량을 되찾을지 의문을 표했다.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/jamal-musiala-uli-hoeness-aeussert-zweifel-beim-fc-bayern-muenchen-201663919.html",
+      "published": "2026-11-09T04:39:27+09:00",
+      "tags": [],
+      "event": "musiala-hoeness",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Deutschland Liveblog: Friedrich Merz schlägt Ilse Aigner als Bundespräsidentin vor",
+      "title_ko": "독일 라이브 블로그: 메르츠, 아이그너를 연방대통령 후보로 제안",
+      "summary_ko": "아이그너가 월요일 슈타인마이어 후임으로 제안될 예정이며, 엠데 의원은 의원직 포기를 거부했고, BSW 지도부는 주 지부의 콘스탄틴 슈라이버 지명을 비판했다.",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-friedrich-merz-schlaegt-ilse-aigner-als-bundespraesidentin-vor-faz-110093143.html",
+      "published": "2026-11-09T04:38:01+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "aigner-federal-president",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Steinmeier-Nachfolge: Merz schlägt Aigner als Bundespräsidentin vor",
+      "title_ko": "슈타인마이어 후임: 메르츠, 아이그너를 연방대통령으로 제안",
+      "summary_ko": "총리가 기민당 지도부 만찬에서 바이에른 주의회 의장 아이그너를 추천했으며, 월요일 두 사람의 공동 등장이 예정돼 있다.",
+      "url": "https://www.sueddeutsche.de/politik/bundespraesidentin-ilse-aigner-friedrich-merz-cdu-csu-praesidium-li.3576988",
+      "published": "2026-11-09T04:21:11+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "aigner-federal-president",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Newsblog zu Nahost: Eisenkot: Israel „an extrem gefährlichem Punkt“",
+      "title_ko": "중동 뉴스 블로그: 아이젠코트 \"이스라엘, 극도로 위험한 지점에\"",
+      "summary_ko": "아이젠코트는 이스라엘이 비상 상황에 있다며 깊은 위기에서 나라를 이끌 새 지도부를 약속했다. 앞서 헤르초그 대통령이 그에게 정부 구성을 맡겼다.",
+      "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-israel-eisenkot-regierungsbildung-notstand-li.3571386",
+      "published": "2026-11-09T02:55:39+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "israel-eisenkot-government",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "USA: Kampfsport-Chef als White-House-Sprecher? Trump trifft Dana White",
+      "title_ko": "미국: 격투기 대표가 백악관 대변인? 트럼프, 데이나 화이트와 회동",
+      "summary_ko": "트럼프의 화이트 대변인 제안이 추측을 낳고 있으며 두 사람은 월요일 워싱턴에서 만난다. 미 정부는 캘리포니아와의 분쟁에서 물러섰다.",
+      "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-midterms-trump-white-house-sprecher-dana-white-li.3573278",
+      "published": "2026-11-09T01:40:00+09:00",
+      "tags": [],
+      "event": "trump-dana-white-spokesperson",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Newsblog zur Bundespolitik: Palästinensische Fahne vor Reichstag gehisst – Klöckner fordert mehr Schutz",
+      "title_ko": "연방정치 뉴스 블로그: 연방의회 앞 팔레스타인 깃발 게양 – 클뢰크너 보호 강화 요구",
+      "summary_ko": "22세 남성이 독일 국기를 팔레스타인 깃발로 바꿔 달았고, 클뢰크너 연방의회 의장은 의회 보호 강화를 요구했다. 특별기금에서 학교·유치원용 자금은 지금까지 거의 집행되지 않았다.",
+      "url": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-newsblog-bundestag-fahne-palaestina-li.3568524",
+      "published": "2026-11-09T01:04:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "reichstag-palestinian-flag",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Marbacher Schillerrede 2026: Sind nur die Gedanken frei oder der ganze Mensch?",
+      "title_ko": "마르바흐 실러 연설 2026: 생각만 자유로운가, 인간 전체가 자유로운가?",
+      "summary_ko": "실러 같은 독일 고전의 문장은 오늘날 박물관 상점 상품에 쓰이고 AI 에이전트 학습에 쓰인다. 그를 다시 제대로 읽는다면 어떨지 묻는 글.",
+      "url": "https://www.sueddeutsche.de/kultur/helga-schubert-schillerrede-marbach-friedrich-schiller-friedliche-revolution-klassik-li.3574980",
+      "published": "2026-11-09T00:01:15+09:00",
+      "tags": [],
+      "event": "schiller-speech-marbach",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Berliner Philharmoniker: Machtkampf auf offener Bühne",
+      "title_ko": "베를린 필하모닉: 공개 무대 위 권력 다툼",
+      "summary_ko": "베를린 필하모닉이 객원 지휘자 이반 피셔가 원한 좌석 배치를 받아들이지 않아 공연 2회를 취소했다.",
+      "url": "https://www.sueddeutsche.de/kultur/ivan-fischer-konzerte-absagen-mahler-orchester-li.3576950",
+      "published": "2026-11-08T23:59:31+09:00",
+      "tags": [],
+      "event": "berlin-phil-fischer",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Russland: Putins Wette: Er hält am längsten durch",
+      "title_ko": "러시아: 푸틴의 도박 – 가장 오래 버티는 자가 이긴다",
+      "summary_ko": "푸틴의 주적은 이미 유럽인이며, 그는 이들을 소모시키고 방해하고 낙담시키려 한다. 트럼프의 선거 참패 이후 더욱 그렇다는 분석.",
+      "url": "https://www.sueddeutsche.de/meinung/wladimir-putin-russland-ukraine-europa-donald-trump-li.3571786",
+      "published": "2026-11-08T23:53:05+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "putin-europe-strategy",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Theater: Liebe ist schöner als der Krieg",
+      "title_ko": "연극: 사랑이 전쟁보다 아름답다",
+      "summary_ko": "아니타 불레시카가 조르주 페렉의 평화주의 선언을 발굴해 함부르크 무대에 올렸다.",
+      "url": "https://www.sueddeutsche.de/kultur/schauspielhaus-hamburg-weil-der-frieden-zucker-ist-georges-perec-anita-vulesica-li.3576945",
+      "published": "2026-11-08T23:09:57+09:00",
+      "tags": [],
+      "event": "theater-perec-hamburg",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Chip-Riese: Nvidia prüft Berichte zu ausländischer Spionage gegen Chef",
+      "title_ko": "반도체 거인: 엔비디아, CEO 겨냥 외국 첩보 보도 검토",
+      "summary_ko": "엔비디아가 CEO를 겨냥한 외국 첩보 관련 보도를 검토하고 있다.",
+      "url": "https://www.zeit.de/news/2026-11/08/nvidia-prueft-berichte-zu-auslaendischer-spionage-gegen-chef",
+      "published": "2026-11-09T06:07:33+09:00",
+      "tags": [
+        "business",
+        "stocks",
+        "geopolitics"
+      ],
+      "event": "nvidia-huang-affair-espionage",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Proteste in Amsterdam: Zehntausende bei Protesten in Amsterdam gegen Israels Gaza-Politik",
+      "title_ko": "암스테르담서 수만 명, 이스라엘 가자 정책 항의 시위",
+      "summary_ko": "암스테르담에서 수만 명이 가자지구에서의 이스라엘 행동에 항의하며 네덜란드 정부에 이스라엘 압박 강화를 요구했다.",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/proteste-amsterdam-israel-gazastreifen-niederlande",
+      "published": "2026-11-09T06:05:18+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "amsterdam-gaza-protest",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Kriminalität: Flucht aus Klinik: Polizei warnt vor gefährlichem Straftäter",
+      "title_ko": "범죄: 병원 탈출, 경찰이 위험한 범죄자 경고",
+      "summary_ko": "병원에서 탈출한 위험한 범죄자에 대해 경찰이 경고했다.",
+      "url": "https://www.zeit.de/news/2026-11/08/flucht-aus-klinik-polizei-warnt-vor-gefaehrlichem-straftaeter",
+      "published": "2026-11-09T05:59:03+09:00",
+      "tags": [],
+      "event": "clinic-escape-offender",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Papst auf Reisen: Leo XIV. zu Besuch in Argentinien gelandet",
+      "title_ko": "교황 순방: 레오 14세, 아르헨티나 도착",
+      "summary_ko": "교황 레오 14세가 아르헨티나 방문을 위해 도착했다.",
+      "url": "https://www.zeit.de/news/2026-11/08/leo-xiv-zu-besuch-in-argentinien-gelandet",
+      "published": "2026-11-09T05:51:07+09:00",
+      "tags": [],
+      "event": "pope-leo-argentina",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "»Tatort« Zürich: Rocker umarmen sich nicht so oft",
+      "title_ko": "취리히 '타트오르트': 폭주족은 그렇게 자주 포옹하지 않는다",
+      "summary_ko": "'독수리처럼 자유롭게' 편은 다운증후군 남성이 '타트오르트'에서 살인범이 될 수 있느냐는 질문을 던진다.",
+      "url": "https://www.zeit.de/feuilleton/film/2026-11/tatort-zuerich-ard-frei-wie-ein-adler-rocker",
+      "published": "2026-11-09T05:49:48+09:00",
+      "tags": [],
+      "event": "tatort-zurich",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Bundespräsidentenwahl: Was die Kandidatur Aigners bedeutet",
+      "title_ko": "연방대통령 선거: 아이그너 출마가 의미하는 것",
+      "summary_ko": "아이그너의 연방대통령 후보 출마가 갖는 의미를 다룬다.",
+      "url": "https://www.zeit.de/news/2026-11/08/was-die-entscheidung-in-der-p-frage-bedeutet",
+      "published": "2026-11-09T05:40:58+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "aigner-federal-president",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Treffen mit Merz: Unions-Fraktionschefs pochen auf Senkung der Stromsteuer",
+      "title_ko": "메르츠와 회동: 기민·기사련 원내대표들, 전기세 인하 촉구",
+      "summary_ko": "기민·기사련 원내대표들이 메르츠와 회동해 전기세 인하를 촉구했다.",
+      "url": "https://www.zeit.de/news/2026-11/08/unions-fraktionschefs-pochen-auf-senkung-der-stromsteuer",
+      "published": "2026-11-09T05:28:57+09:00",
+      "tags": [
+        "legislation",
+        "industry"
+      ],
+      "event": "union-electricity-tax-demand",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Fußball-Bundesliga: Karius patzt und verletzt sich: Schalke-Abend zum Vergessen",
+      "title_ko": "분데스리가: 카리우스 실수에 부상까지, 잊고 싶은 샬케의 밤",
+      "summary_ko": "샬케의 카리우스가 실수를 범하고 부상당했다.",
+      "url": "https://www.zeit.de/news/2026-11/08/karius-patzt-und-verletzt-sich-schalke-abend-zum-vergessen",
+      "published": "2026-11-09T05:27:43+09:00",
+      "tags": [],
+      "event": "schalke-hoffenheim",
+      "state_media": false
+    }
+  ],
+  "events": [
+    {
+      "event": "aigner-federal-president",
+      "title_ko": "메르츠, 일제 아이그너를 첫 여성 연방대통령 후보로 제안",
+      "sources": [
+        "ARD Tagesschau",
+        "ZDF heute",
+        "Deutsche Welle",
+        "WELT",
+        "Handelsblatt",
+        "Der Spiegel",
+        "FAZ",
+        "Süddeutsche Zeitung",
+        "Die Zeit"
+      ],
+      "count": 9
+    },
+    {
+      "event": "schalke-hoffenheim",
+      "title_ko": "샬케 04, 호펜하임에 패배·고젠스·카리우스 부상",
+      "sources": [
+        "ARD Tagesschau",
+        "n-tv",
+        "WELT",
+        "FAZ",
+        "Die Zeit"
+      ],
+      "count": 5
+    },
+    {
+      "event": "nvidia-huang-affair-espionage",
+      "title_ko": "엔비디아 CEO 젠슨 황 불륜 인정·중국 스파이 의혹, 회사 조사 착수",
+      "sources": [
+        "n-tv",
+        "Handelsblatt",
+        "Der Spiegel",
+        "Die Zeit"
+      ],
+      "count": 4
+    },
+    {
+      "event": "israel-eisenkot-government",
+      "title_ko": "이스라엘 아이젠코트, 정부 구성 위임받아",
+      "sources": [
+        "Deutsche Welle",
+        "Handelsblatt",
+        "Süddeutsche Zeitung"
+      ],
+      "count": 3
+    },
+    {
+      "event": "us-midterms-aftermath",
+      "title_ko": "미 중간선거 후 민주당의 트럼프 측근 조사·트럼프 반격",
+      "sources": [
+        "n-tv",
+        "WELT",
+        "Handelsblatt"
+      ],
+      "count": 3
+    },
+    {
+      "event": "budget-2027-plastic-tax",
+      "title_ko": "2027년 연방예산 협상과 플라스틱세 반대",
+      "sources": [
+        "ARD Tagesschau",
+        "ZDF heute"
+      ],
+      "count": 2
+    },
+    {
+      "event": "gaza-flooding",
+      "title_ko": "가자지구 폭우·침수로 피란민 인도적 위기 심화",
+      "sources": [
+        "ARD Tagesschau",
+        "Der Spiegel"
+      ],
+      "count": 2
+    },
+    {
+      "event": "reichstag-palestinian-flag",
+      "title_ko": "연방의회 앞 팔레스타인 깃발 게양 사건",
+      "sources": [
+        "ZDF heute",
+        "Süddeutsche Zeitung"
+      ],
+      "count": 2
+    },
+    {
+      "event": "freiburg-union",
+      "title_ko": "프라이부르크, 우니온 베를린에 2:0 승리",
+      "sources": [
+        "ZDF heute",
+        "WELT"
+      ],
+      "count": 2
+    },
+    {
+      "event": "tatort-zurich",
+      "title_ko": "취리히 '타트오르트' 신작 '독수리처럼 자유롭게'",
+      "sources": [
+        "n-tv",
+        "Die Zeit"
+      ],
+      "count": 2
+    },
+    {
+      "event": "wingsuit-death-austria",
+      "title_ko": "오스트리아서 61세 독일인 윙슈트 사망",
+      "sources": [
+        "n-tv",
+        "Der Spiegel"
+      ],
+      "count": 2
+    },
+    {
+      "event": "union-electricity-tax-demand",
+      "title_ko": "기민·기사련 원내대표들, 메르츠에 전기세 인하 요구",
+      "sources": [
+        "WELT",
+        "Die Zeit"
+      ],
+      "count": 2
+    },
+    {
+      "event": "f1-sao-paulo-gp",
+      "title_ko": "F1 상파울루 GP: 노리스 우승, 메르세데스 컨스트럭터 타이틀",
+      "sources": [
+        "WELT",
+        "Der Spiegel"
+      ],
+      "count": 2
+    },
+    {
+      "event": "trump-dana-white-spokesperson",
+      "title_ko": "트럼프, 데이나 화이트에 백악관 대변인직 제안",
+      "sources": [
+        "Der Spiegel",
+        "Süddeutsche Zeitung"
+      ],
+      "count": 2
+    }
+  ],
+  "unavailable_sources": []
+}

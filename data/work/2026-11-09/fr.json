@@ -1,0 +1,869 @@
+{
+ "team": "fr",
+ "headlines": [
+  {
+   "source": "France 24",
+   "title_original": "Samy Cohen: \"Eisenkot est populaire car il représente un apaisement de la vie politique israélienne\"",
+   "title_ko": "사미 코엔: \"아이젠코트가 인기 있는 이유는 이스라엘 정치의 긴장 완화를 상징하기 때문\"",
+   "summary_ko": "이스라엘 헤르초그 대통령이 뚜렷한 과반이 나오지 않은 총선 10일 만에 가디 아이젠코트 전 참모총장에게 차기 정부 구성을 맡겼다. 아이젠코트는 성공 의지를 밝히며 네타냐후의 리쿠드당에도 손을 내밀었다.",
+   "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261108-samy-cohen-eisenkot-est-populaire-car-il-repr%C3%A9sente-un-apaisement-de-la-vie-politique-isra%C3%A9lienne",
+   "published": "2026-11-09T05:44:06+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "israel-eisenkot-government",
+   "state_media": false
+  },
+  {
+   "source": "France 24",
+   "title_original": "En Israël, Eisenkot invite le Likoud de Netanyahu à participer à une coalition",
+   "title_ko": "이스라엘 아이젠코트, 네타냐후의 리쿠드당에 연정 참여 제안",
+   "summary_ko": "일요일 공식적으로 차기 정부 구성을 위임받은 중도파 전 고위 장성 가디 아이젠코트가 네타냐후 책임이라고 규정한 '역사적 위기' 앞에 단결을 호소했다. 그는 리쿠드 의원들은 물론 극우 스모트리치 정당과의 연정에도 열려 있다고 밝혔다.",
+   "url": "https://www.france24.com/fr/moyen-orient/20261108-en-isra%C3%ABl-eisenkot-invite-le-likoud-de-netanyahu-%C3%A0-participer-%C3%A0-une-coalition",
+   "published": "2026-11-09T02:12:03+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "israel-eisenkot-government",
+   "state_media": false
+  },
+  {
+   "source": "France 24",
+   "title_original": "Tennis : Carlos Alcaraz remporte pour la première fois le Masters 1000 de Paris",
+   "title_ko": "테니스: 카를로스 알카라스, 파리 마스터스 1000 첫 우승",
+   "summary_ko": "세계 3위 알카라스가 일요일 결승에서 미국의 벤 셸턴을 꺾고 파리 마스터스 1000 첫 우승을 차지했다. 통산 29번째 타이틀로, 30회 우승한 라이벌 야니크 시너와의 격차를 1승으로 좁혔다.",
+   "url": "https://www.france24.com/fr/sports/20261108-tennis-carlos-alcaraz-remporte-pour-la-premi%C3%A8re-fois-le-masters-1000-de-paris",
+   "published": "2026-11-09T01:50:00+09:00",
+   "tags": [],
+   "event": "alcaraz-paris-masters",
+   "state_media": false
+  },
+  {
+   "source": "France 24",
+   "title_original": "Route du Rhum : \"Franchement, c'est un rêve d'enfant\", savoure Laperche",
+   "title_ko": "루트 뒤 럼: \"솔직히 어린 시절의 꿈\" — 라페르슈 우승 소감",
+   "summary_ko": "톰 라페르슈가 우승으로 도착한 뒤 멀티헐 최상위 클래스에서 종합 우승을 다투는 것이 어릴 적 꿈이었다고 말했다.",
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-route-du-rhum-franchement-c-est-un-r%C3%AAve-d-enfant-savoure-laperche",
+   "published": "2026-11-09T01:03:00+09:00",
+   "tags": [],
+   "event": "route-du-rhum",
+   "state_media": false
+  },
+  {
+   "source": "France 24",
+   "title_original": "🔴 En direct : Gadi Eisenkot officiellement chargé de former le prochain gouvernement en Israël",
+   "title_ko": "[실시간] 가디 아이젠코트, 이스라엘 차기 정부 구성 공식 위임받아",
+   "summary_ko": "가디 아이젠코트가 이스라엘 차기 정부 구성을 공식적으로 위임받았다(제목 기준).",
+   "url": "https://www.france24.com/fr/moyen-orient/20261107-isra%C3%ABl-gadi-eisenkot-rival-de-benjamin-netanyahu-sera-charg%C3%A9-de-former-le-prochain-gouvernement",
+   "published": "2026-11-09T00:13:35+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "israel-eisenkot-government",
+   "state_media": false
+  },
+  {
+   "source": "France 24",
+   "title_original": "Débâcle de Trump aux midterms, revendications lycéennes, JOJ de Dakar : la semaine en images",
+   "title_ko": "트럼프 중간선거 참패, 고교생 요구, 다카르 청소년올림픽: 사진으로 본 한 주",
+   "summary_ko": "지난주 주요 뉴스 회고: 미국 중간선거 민주당 압승, 프랑스 전역에서 이어지는 고교생 시위, 다카르 청소년올림픽(JOJ).",
+   "url": "https://www.france24.com/fr/france/20261108-d%C3%A9b%C3%A2cle-trump-midterms-revendications-lyc%C3%A9ennes-joj-dakar-semaine-images",
+   "published": "2026-11-08T23:20:20+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "fr-week-in-pictures",
+   "state_media": false
+  },
+  {
+   "source": "France 24",
+   "title_original": "Yémen : première livraison d'aide médicale du CICR dans la ville de Taëz",
+   "title_ko": "예멘: ICRC, 타이즈시에 첫 의료 지원 물자 전달",
+   "summary_ko": "응급의학 전문의이자 NGO Mehad 부회장인 피에르 카투아르 박사가 출연했다.",
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-y%C3%A9men-premi%C3%A8re-livraison-d-aide-m%C3%A9dicale-du-cicr-dans-la-ville-de-ta%C3%ABz",
+   "published": "2026-11-08T22:39:15+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "yemen-taiz-icrc-aid",
+   "state_media": false
+  },
+  {
+   "source": "France 24",
+   "title_original": "La Pologne en deuil confrontée au \"terrorisme de l'intérieur\"",
+   "title_ko": "애도에 잠긴 폴란드, '내부 테러리즘'에 직면",
+   "summary_ko": "극우 사상에 '매료된' 청년이 크라쿠프에서 6명을 사살하고 15명을 다치게 한 총기 난사 다음 날, 폴란드는 충격 속에 일요일을 맞았다.",
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-la-pologne-en-deuil-confront%C3%A9e-au-terrorisme-de-l-int%C3%A9rieur",
+   "published": "2026-11-08T22:31:15+09:00",
+   "tags": [],
+   "event": "krakow-shooting",
+   "state_media": false
+  },
+  {
+   "source": "franceinfo (France 2)",
+   "title_original": "La pétition appelant à fermer la chaîne CNews a recueilli plus d'un million de signatures sur le site de l'Assemblée nationale",
+   "title_ko": "CNews 채널 폐쇄 요구 청원, 하원 사이트에서 100만 명 이상 서명",
+   "summary_ko": "하원 청원 플랫폼은 노란조끼 사태 후 국민대토론을 계기로 2020년 개설됐다. 지금까지 100만 서명을 넘은 청원은 뒤플롱법 반대 청원뿐이었다.",
+   "url": "https://www.franceinfo.fr/economie/medias/la-petition-appelant-a-fermer-la-chaine-cnews-a-recueilli-plus-d-un-million-de-signatures-sur-le-site-de-l-assemblee-nationale_8273738.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-09T05:57:47+09:00",
+   "tags": [
+    "legislation"
+   ],
+   "event": "cnews-petition",
+   "state_media": false
+  },
+  {
+   "source": "franceinfo (France 2)",
+   "title_original": "Attentat en Pologne : \"J'ai vu des personnes tomber à un mètre de moi\", une témoin raconte",
+   "title_ko": "폴란드 테러: \"1미터 앞에서 사람들이 쓰러졌다\" 목격자 증언",
+   "summary_ko": "11월 7일(토) 폴란드 크라쿠프에서 한 남성이 총격을 가해 6명이 숨지고 15명이 다쳤다. 희생자 중에는 외국인 관광객 여러 명이 포함됐으며, 수사로 범인의 행적 일부가 드러났다.",
+   "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/attentat-en-pologne-j-ai-vu-des-personnes-tomber-a-un-metre-de-moi-une-temoin-raconte_8273690.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-09T04:59:01+09:00",
+   "tags": [],
+   "event": "krakow-shooting",
+   "state_media": false
+  },
+  {
+   "source": "franceinfo (France 2)",
+   "title_original": "En Egypte, une collision de deux trains fait au moins sept morts et une centaine de blessés",
+   "title_ko": "이집트서 열차 2대 충돌, 최소 7명 사망·약 100명 부상",
+   "summary_ko": "기자에서 파윰으로 가던 열차가 카이로발 아스완행 열차의 후미를 들이받았다고 철도 당국이 밝혔다.",
+   "url": "https://www.franceinfo.fr/monde/afrique/egypte/en-egypte-une-collision-de-deux-trains-fait-au-moins-sept-morts-et-une-centaine-de-blesses_8273720.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-09T04:57:25+09:00",
+   "tags": [],
+   "event": "egypt-train-collision",
+   "state_media": false
+  },
+  {
+   "source": "franceinfo (France 2)",
+   "title_original": "Présidentielle 2027 : Christine Lagarde tentée par l’Élysée ?",
+   "title_ko": "2027 대선: 크리스틴 라가르드, 엘리제궁에 끌리나?",
+   "summary_ko": "대선을 앞두고 중도·우파가 리더십을 찾는 가운데, 유럽중앙은행(ECB) 총재직 조기 사임 발표 이후 라가르드의 이름이 각종 가설에 오르내리고 있다.",
+   "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-christine-lagarde-tentee-par-l-elysee_8273705.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-09T04:44:42+09:00",
+   "tags": [
+    "monetary"
+   ],
+   "event": "lagarde-presidential-2027",
+   "state_media": false
+  },
+  {
+   "source": "franceinfo (France 2)",
+   "title_original": "Donald Trump juge \"très improbable\" une reprise de la guerre contre l'Iran pour le moment",
+   "title_ko": "트럼프 \"이란과의 전쟁 재개, 현재로선 매우 가능성 낮다\"",
+   "summary_ko": "트럼프 대통령은 일요일 CNN 인터뷰에서 \"그들이 매우 확고한 합의에 서명하느냐에 달렸다\"고 말했다.",
+   "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-juge-tres-improbable-une-reprise-de-la-guerre-contre-l-iran-pour-le-moment_8273696.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-09T04:39:40+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "trump-iran-war",
+   "state_media": false
+  },
+  {
+   "source": "franceinfo (France 2)",
+   "title_original": "\"Il était apeuré, il était trempé tellement il avait couru\" : dans l'Oise, des habitants sauvent un cerf poursuivi par des chasseurs",
+   "title_ko": "\"겁에 질려 흠뻑 젖어 있었다\": 우아즈에서 주민들이 사냥꾼에 쫓기던 사슴 구조",
+   "summary_ko": "11월 8일(일) 콩피에뉴 숲 몰이사냥 끝에 사슴이 한 정원으로 피신했고, 주민 여럿이 보호했다. 상황 정리를 위해 헌병대가 출동했다.",
+   "url": "https://www.franceinfo.fr/environnement/biodiversite/animaux/il-etait-apeure-il-etait-trempe-tellement-il-avait-couru-dans-l-oise-des-habitants-sauvent-un-cerf-poursuivi-par-des-chasseurs_8273693.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-09T04:28:50+09:00",
+   "tags": [],
+   "event": "oise-deer-hunt",
+   "state_media": false
+  },
+  {
+   "source": "franceinfo (France 2)",
+   "title_original": "Au large du Sénégal, au moins 34 personnes sont mortes dans le naufrage d'une pirogue de migrants",
+   "title_ko": "세네갈 앞바다서 이주민 탄 피로그 난파, 최소 34명 사망",
+   "summary_ko": "일요일 당국의 잠정 집계에 따르면 생존자 1명이 발견됐다.",
+   "url": "https://www.franceinfo.fr/monde/afrique/senegal/au-large-du-senegal-21-personnes-sont-mortes-dans-le-naufrage-d-une-pirogue-de-migrants_8273174.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-09T04:21:26+09:00",
+   "tags": [],
+   "event": "senegal-migrant-shipwreck",
+   "state_media": false
+  },
+  {
+   "source": "franceinfo (France 2)",
+   "title_original": "Le butin de braquages d'usines de métaux précieux à Besançon, d'une valeur estimée à six millions d'euros, a été retrouvé",
+   "title_ko": "브장송 귀금속 공장 연쇄 강도 장물(약 600만 유로 상당) 회수",
+   "summary_ko": "조직범죄 담당 검사는 일요일, 이 사건으로 8명이 무장 조직 절도 등 혐의로 기소됐다고 밝혔다.",
+   "url": "https://www.franceinfo.fr/faits-divers/le-butin-de-braquages-d-usines-de-metaux-precieux-a-besancon-d-une-valeur-estimee-a-six-millions-d-euros-a-ete-retrouve_8273639.html#xtor=RSS-3-[lestitres]",
+   "published": "2026-11-09T04:16:46+09:00",
+   "tags": [],
+   "event": "besancon-metal-robbery",
+   "state_media": false
+  },
+  {
+   "source": "TF1 Info",
+   "title_original": "Prime de Noël : la date et les montants annoncés par le gouvernement",
+   "title_ko": "크리스마스 보너스: 정부, 지급일과 금액 발표",
+   "summary_ko": "정부가 크리스마스 보너스(prime de Noël) 지급일과 금액을 발표했다(제목 기준).",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMUhXQU85TDVINy1PSlRPN1RQZi1LYTJyTGRReW5iaFBZZlh5SllwQ0t2M0lIVkktbkZkTk9qSnU4YVhLd2h1aXMxS1B2aUNkbmdxZzAzZXVQYzBBSGU3djR1bVRmdHhzTGdyTWVuWkVzeUp6Rjc3dzlWR2tpMjlMMXZZVnd6eHNqVHdhejBwLTRBdjNrVk5FbU1BMFVlNGJRM1JRZDg4SUxHUnROcjBOb21KYjBjQQ?oc=5",
+   "published": "2026-11-09T05:57:28+09:00",
+   "tags": [
+    "legislation"
+   ],
+   "event": "prime-de-noel",
+   "state_media": false
+  },
+  {
+   "source": "TF1 Info",
+   "title_original": "Sept à huit du dimanche 8 novembre 2026",
+   "title_ko": "'세트 아 위트' 11월 8일(일) 방송",
+   "summary_ko": "TF1 시사 프로그램 '세트 아 위트' 2026년 11월 8일 방송(제목 기준).",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2hOS1ljQU5UelNvZlZOZFBRM3QtX0oxQ3VfSmtfRnBKdWVVRzhJVEQzRlU1YmJqdmhkeVJ5RFRIcld3eTExY09rNmh4ckltVU16LW1vNHJUR0tJRmF5bXlkQUt3R0ZST3EyVHczc3dILXBhTlZLeml6Z3JZQ3Y2YW5MOE1FZWZQMDFQX3lLRURkZzFmY2s0NjZ4TU1VbDVH?oc=5",
+   "published": "2026-11-09T05:45:15+09:00",
+   "tags": [],
+   "event": "tf1-sept-a-huit",
+   "state_media": false
+  },
+  {
+   "source": "TF1 Info",
+   "title_original": "LCI en direct : info du jour en direct",
+   "title_ko": "LCI 생방송: 오늘의 뉴스",
+   "summary_ko": "LCI 실시간 뉴스 방송 페이지(제목 기준).",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1mRGd5UklDQ2I5eDMxOTR3ZzFLRkJJcEtPOUxCdmJWeEg5R3B0c29nbHItd1VSNWlRRVFycm9rREtqZzFV?oc=5",
+   "published": "2026-11-09T05:36:23+09:00",
+   "tags": [],
+   "event": "lci-live",
+   "state_media": false
+  },
+  {
+   "source": "TF1 Info",
+   "title_original": "Kiwi géant, charrette de cognac... quand les marques et leurs produits investissent nos ronds-points",
+   "title_ko": "거대한 키위, 코냑 수레…로터리에 진출한 브랜드와 상품들",
+   "summary_ko": "브랜드와 그 상품을 형상화한 조형물이 로터리에 설치되고 있다(제목 기준).",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPV0czVzdxaThRQnMzQ3BKZUdCSW1hb0g0S2JwY2hMUTEtdjhGT2FxZ1RObU0wQ1diYTU4NVhqdEYwS1I4b2djX2oxZVN4LS1wZWRacG92LW9GSnJtb2pyNE11QlkzU0hZbFZlRnFMd1A1Nl92SWZfa1lYWm9kNmpjZFVOWFY2WWtfcklwSVQyTWtLUUQ1eTd0eWhtbmlmMFhSSkVxU28yOFFGc2dybWhxTUtBdTJXVm5LRnU5RnNwenV0Wl9ZZVNhS0dHTU8yX0Zic2F1c3ZMeEpjUWNBdzljYkg3ME9JNEdVbWlHMQ?oc=5",
+   "published": "2026-11-09T05:36:23+09:00",
+   "tags": [
+    "business"
+   ],
+   "event": "brands-roundabouts",
+   "state_media": false
+  },
+  {
+   "source": "TF1 Info",
+   "title_original": "LCI Direct du dimanche 8 novembre 2026",
+   "title_ko": "LCI 다이렉트 11월 8일(일)",
+   "summary_ko": "LCI 2026년 11월 8일 생방송(제목 기준).",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX0dHR0dIU01mRnB1MGpHdVpQeVQza1FFNHB1eVk3UEpwSkJFZzRWWnJkU3RTTW02eU5GdmVlYlFvXzhMalgtN3J4VThVSFVFNk1JYWtzd1N4MTFZRmZSbmhJOHlGSUVKcVhCVnVZV2pnYjRxMnhncG5keExVYm5NVnlhVUtTd2VuQUdHdng3UjU3cE5ZNmtJRXZrQ2dGdHc?oc=5",
+   "published": "2026-11-09T05:24:21+09:00",
+   "tags": [],
+   "event": "lci-direct-nov8",
+   "state_media": false
+  },
+  {
+   "source": "TF1 Info",
+   "title_original": "Météo du 8 novembre 2026 : Prévisions météo à 21h03",
+   "title_ko": "2026년 11월 8일 날씨: 21시 03분 예보",
+   "summary_ko": "2026년 11월 8일 21시 03분 기상 예보(제목 기준).",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR1V0THI1d1Nra0JFSk1GUUR0ajZqM3JlSEdfN0JvTzVVOTV1aWNLWmNSdFpmdzdBSWpqM0ZMdUs4MEx2aFJhTXA4UWZ0X2xlWFhEcXRkeXYxb1RNZ0kycnlCUmoyazlpZXFsd3NhTXhQMGtkdThzR2hocHdPZ1oxTjhXemhRMF9ibmM2Q05BNTdMcmljSUpTWDJlb3lhTFdrVWJULTdqZXFNaU5td0E?oc=5",
+   "published": "2026-11-09T05:13:59+09:00",
+   "tags": [],
+   "event": "tf1-weather",
+   "state_media": false
+  },
+  {
+   "source": "TF1 Info",
+   "title_original": "De retour au cinéma dans \"Scrooge\", Johnny Depp est l'invité du 20H de TF1 ce dimanche",
+   "title_ko": "영화 '스크루지'로 복귀한 조니 뎁, 일요일 TF1 20시 뉴스 출연",
+   "summary_ko": "영화 '스크루지'로 스크린에 복귀한 조니 뎁이 일요일 TF1 20시 뉴스에 출연했다(제목 기준).",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOZlgwRHM2QU5fUDR1Sk1ZcGJDWDZFck9tVDFwcEJYR3lGdjRyYkViZnRKMm96WHktb1FPS2RGTmNMNDVuSXkzZVUtTndRWko0WXl1YnFPcV90X0czN25aQVlKOHNQbDlBZlQ0U0V5NWtFZFFodkl5Wm5scHlKTU1hc1ZYeUxzbWlIc0ZYalNZZUdiak9udUlmQVNsd2VVZEJVYVE4MUl5NGo4M3dLZkZXT0tXUnowTXZ2eUpFZ0JlcTI3ZlFCNldRcVJSbXlmd055OEc1YkI1ZWlsMnRRQk8zcGxVRXBUYXF5NGw5RkRWMXVmd2tBM0RkQmpwcWpRVFJT?oc=5",
+   "published": "2026-11-09T05:08:22+09:00",
+   "tags": [],
+   "event": "johnny-depp-tf1",
+   "state_media": false
+  },
+  {
+   "source": "TF1 Info",
+   "title_original": "\"Je suis aussi proche de la France que du pays où je suis né\" : à l'affiche de \"Scrooge\", Johnny Depp se confie au 20H de TF1",
+   "title_ko": "\"태어난 나라만큼 프랑스와도 가깝다\": '스크루지' 주연 조니 뎁, TF1 20시 뉴스서 소회",
+   "summary_ko": "조니 뎁이 TF1 20시 뉴스에서 프랑스에 대한 애착을 밝혔다(제목 기준).",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQMVppNHZHVXBVMjc5YXB0SHZTYUw4RzlVTkNwS0dQb0U0bEk1dGM5X1FmYWUwZGM3WWdlUFJmZm5vcTBPLVhrRFV3dmJuUGRvM0ZvTUdIb0pOVVZnQ013UUxJYVBPdVNwaWgtb3FqVTM2Z2Y2ZkZILWVUUlBxdC1KMzE3Q1UzVk9xLUJxSmFtNWZ6VlZHXzUxMFlnLTIxU2ZYUFNTWVFndkZLUHlnbWR1THZmdlBiLXhhWjNhVFFYSzJtaHRxUUNpUkdVODFNNzl4Z0RCdVU5a2JDalZUTV8tTzRwcmxsbmtVMzFWUEJWamJIRGZEbV9jUXc2S3IwYUY0dWhvQWllMzVDcklacjlHTE5WdGZ4b3gxSXF4bUpnQk1pSXhRX1NN?oc=5",
+   "published": "2026-11-09T05:07:49+09:00",
+   "tags": [],
+   "event": "johnny-depp-tf1",
+   "state_media": false
+  },
+  {
+   "source": "BFMTV",
+   "title_original": "Le témoignage sur BFMTV d'un commerçant qui a contacté l'un des individus ayant cambriolé son commerce le 17 octobre",
+   "title_ko": "10월 17일 가게를 턴 절도범 중 한 명에게 연락한 상인의 BFMTV 증언",
+   "summary_ko": "10월 17일 자신의 가게를 턴 절도범 중 한 명과 연락한 상인이 BFMTV에 증언했다(제목 기준).",
+   "url": "https://www.bfmtv.com/societe/video-le-temoignage-sur-bfmtv-d-un-commercant-qui-a-contacte-l-un-des-individus-ayant-cambriole-son-commerce-le-17-octobre_VN-202611080413.html",
+   "published": "2026-11-09T05:53:54+09:00",
+   "tags": [],
+   "event": "bfmtv-shopkeeper-burglary",
+   "state_media": false
+  },
+  {
+   "source": "BFMTV",
+   "title_original": "Six personnes, dont trois mineures, mises en examen après le cambriolage d'une gendarmerie à Brest",
+   "title_ko": "브레스트 헌병대 절도 사건으로 미성년자 3명 포함 6명 기소",
+   "summary_ko": "15~34세 6명이 브레스트의 헌병대 시설을 털어 체포·기소됐다고 검찰이 일요일 발표했다. 도난 물품은 '거의 전부' 회수됐다.",
+   "url": "https://www.bfmtv.com/finistere/six-personnes-dont-trois-mineures-mises-en-examen-apres-le-cambriolage-d-une-gendarmerie-a-brest_AD-202611080412.html",
+   "published": "2026-11-09T05:49:50+09:00",
+   "tags": [],
+   "event": "brest-gendarmerie-burglary",
+   "state_media": false
+  },
+  {
+   "source": "BFMTV",
+   "title_original": "\"Il faut mettre la question des classes sociales au cœur de notre réflexion sur notre modèle de développement\", détaille Thomas Piketty, économiste et directeur d'études à l'EHESS",
+   "title_ko": "토마 피케티 \"발전 모델 논의의 중심에 계급 문제를 놓아야\"",
+   "summary_ko": "EHESS 연구주임인 경제학자 토마 피케티가 발전 모델 논의에서 사회계급 문제를 중심에 둬야 한다고 말했다(제목 기준).",
+   "url": "https://www.bfmtv.com/economie/video-il-faut-mettre-la-question-des-classes-sociales-au-c-ur-de-notre-reflexion-sur-notre-modele-de-developpement-detaille-thomas-piketty-economiste-et-directeur-d-etudes-a-l-ehess_VN-202611080411.html",
+   "published": "2026-11-09T05:43:05+09:00",
+   "tags": [],
+   "event": "piketty-social-class",
+   "state_media": false
+  },
+  {
+   "source": "BFMTV",
+   "title_original": "Lens-OM: l'énorme boulette lensoise pour l'ouverture du score, scénario catastrophe après l'humiliation face à Côme",
+   "title_ko": "랑스-마르세유: 코모전 굴욕 이후 랑스, 대형 실수로 선제골 허용",
+   "summary_ko": "챔피언스리그에서 코모에 9-1 대패한 지 나흘 만에 RC 랑스가 리그1 10라운드 빅매치에서 마르세유(OM)에 선제골을 내줬다. 첫 실점은 큰 실수에서 비롯됐다.",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-1/lens-om-l-enorme-boulette-lensoise-pour-l-ouverture-du-score-scenario-catastrophe-apres-l-humiliation-face-a-come_AV-202611080408.html",
+   "published": "2026-11-09T05:01:06+09:00",
+   "tags": [],
+   "event": "lens-om",
+   "state_media": false
+  },
+  {
+   "source": "BFMTV",
+   "title_original": "\"Sur la réduction de la dépense publique, il n'y a pas d'effort c'est un leurre\", estime Serge Grouard, maire DVD d'Orléans",
+   "title_ko": "\"공공지출 감축 노력은 없다, 착시일 뿐\" — 세르주 그루아르 오를레앙 시장(우파 무소속)",
+   "summary_ko": "오를레앙 시장 세르주 그루아르(DVD)가 공공지출 감축 노력은 허상이라고 비판했다(제목 기준).",
+   "url": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-sur-la-reduction-de-la-depense-publique-il-n-y-a-pas-d-effort-c-est-un-leurre-estime-serge-grouard-maire-dvd-d-orleans_VN-202611080400.html",
+   "published": "2026-11-09T04:42:52+09:00",
+   "tags": [
+    "legislation"
+   ],
+   "event": "public-spending-critique",
+   "state_media": false
+  },
+  {
+   "source": "BFMTV",
+   "title_original": "INFO BFMTV. Des heurts avec la police après des rodéos urbains dans les Yvelines, au moins quatre personnes interpellées",
+   "title_ko": "[BFMTV 단독] 이블린서 로데오 폭주 후 경찰과 충돌, 최소 4명 체포",
+   "summary_ko": "일요일 저녁 샹틀루레비뉴(이블린)에서 도심 로데오 폭주 참가자들과 경찰 간 충돌이 일어나 최소 4명이 체포됐다.",
+   "url": "https://www.bfmtv.com/police-justice/info-bfmtv-des-heurts-avec-la-police-apres-des-rodeos-urbains-dans-les-yvelines-au-moins-quatre-personnes-interpellees_AN-202611080394.html",
+   "published": "2026-11-09T04:28:14+09:00",
+   "tags": [],
+   "event": "yvelines-rodeo-clashes",
+   "state_media": false
+  },
+  {
+   "source": "BFMTV",
+   "title_original": "Le gouvernement va accepter une revalorisation anticipée du Smic au 1er décembre",
+   "title_ko": "정부, 최저임금(SMIC) 12월 1일 조기 인상 수용 방침",
+   "summary_ko": "BFMTV는 일요일, 정부가 12월 1일 SMIC 조기 인상을 수용해 현재 순 1,477유로에서 1,500유로 이상으로 올릴 것이라고 보도했다.",
+   "url": "https://www.bfmtv.com/politique/video-le-gouvernement-va-accepter-une-revalorisation-anticipee-du-smic-au-1er-decembre_VN-202611080395.html",
+   "published": "2026-11-09T04:27:13+09:00",
+   "tags": [
+    "legislation",
+    "business"
+   ],
+   "event": "smic-revaluation",
+   "state_media": false
+  },
+  {
+   "source": "BFMTV",
+   "title_original": "Raphaël Glucksmann, candidat PS-Place Publique en 2027, était l’invité du Grand Oral 2027",
+   "title_ko": "2027 대선 PS-플라스퓌블리크 후보 라파엘 글뤽스만, '그랑 오랄 2027' 출연",
+   "summary_ko": "라파엘 글뤽스만(PS-플라스퓌블리크)이 BFMTV '그랑 오랄 2027'에 출연했다.",
+   "url": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-raphael-glucksmann-candidat-ps-place-publique-en-2027-etait-l-invite-du-grand-oral-2027_VN-202611080396.html",
+   "published": "2026-11-09T04:26:31+09:00",
+   "tags": [],
+   "event": "glucksmann-grand-oral",
+   "state_media": false
+  },
+  {
+   "source": "Le Monde",
+   "title_original": "Présidentielle 2027 : Fabien Roussel ira « jusqu’au bout », malgré le ralliement de députés communistes à Mélenchon",
+   "title_ko": "2027 대선: 공산당 의원들의 멜랑숑 합류에도 파비앵 루셀 \"끝까지 간다\"",
+   "summary_ko": "지지율 2~3%인 프랑스공산당 대표 루셀은 소속 의원 9명의 선택을 '유감'이라 하면서, 불복하는 프랑스(LFI) 대표 멜랑숑은 '결코 이기지 못할 것'이라고 말했다.",
+   "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/08/presidentielle-2027-fabien-roussel-ira-jusqu-au-bout-malgre-le-ralliement-de-deputes-communistes-a-melenchon_6808471_6205049.html",
+   "published": "2026-11-09T06:00:53+09:00",
+   "tags": [],
+   "event": "roussel-2027",
+   "state_media": false
+  },
+  {
+   "source": "Le Monde",
+   "title_original": "Saint-Denis : rassemblement contre la « répression » au lycée Paul-Eluard, épicentre de la mobilisation lycéenne",
+   "title_ko": "생드니: 고교생 시위 진원지 폴엘뤼아르 고교의 '탄압' 규탄 집회",
+   "summary_ko": "LFI 소속 바이 바가요코 시장의 지지 속에 수백 명이 모여, 학교에 경찰을 부른 교장의 사퇴와 교사들에 대한 행정 조사 중단을 요구했다.",
+   "url": "https://www.lemonde.fr/societe/article/2026/11/08/saint-denis-rassemblement-contre-la-repression-au-lycee-paul-eluard-epicentre-de-la-mobilisation-lyceenne_6808470_3224.html",
+   "published": "2026-11-09T05:49:14+09:00",
+   "tags": [],
+   "event": "saint-denis-lycee",
+   "state_media": false
+  },
+  {
+   "source": "Le Monde",
+   "title_original": "Présidentielle 2027 : Raphaël Glucksmann affirme avoir refusé Matignon après la dissolution de 2024",
+   "title_ko": "2027 대선: 글뤽스만 \"2024년 의회 해산 후 총리직 제안 거절했다\"",
+   "summary_ko": "마크롱주의와 가깝다는 공격을 받는 사회민주주의 후보 글뤽스만은 '승리한 개인주의'부터 부유세(ISF) 폐지까지 마크롱과의 차이점을 열거했다.",
+   "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/08/presidentielle-2027-raphael-glucksmann-affirme-avoir-refuse-matignon-apres-la-dissolution-de-2024_6808468_6205049.html",
+   "published": "2026-11-09T04:26:03+09:00",
+   "tags": [],
+   "event": "glucksmann-grand-oral",
+   "state_media": false
+  },
+  {
+   "source": "Le Monde",
+   "title_original": "Italie : le ministre des affaires étrangères visé par une cyberattaque, Giorgia Meloni dénonce des « hackers prorusses »",
+   "title_ko": "이탈리아 외교장관 사이버 공격 피해, 멜로니 \"친러 해커\" 규탄",
+   "summary_ko": "안토니오 타야니 장관은 토요일 자신의 개인정보 일부가 다크웹에 유포됐다고 밝혔다. 그는 2027년 총선을 앞두고 향후 여론 개입을 노린 불안정화 공작이 이어질 수 있다고 말했다.",
+   "url": "https://www.lemonde.fr/international/article/2026/11/08/italie-le-ministre-des-affaires-etrangeres-vise-par-une-cyberattaque-giorgia-meloni-denonce-des-hackers-prorusses_6808467_3210.html",
+   "published": "2026-11-09T04:19:16+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "italy-tajani-cyberattack",
+   "state_media": false
+  },
+  {
+   "source": "Le Monde",
+   "title_original": "Accident de car dans l’Ain : le chauffeur mis en examen pour « homicide involontaire », annonce le parquet",
+   "title_ko": "앵 주 버스 사고: 운전기사 '과실치사' 혐의 기소",
+   "summary_ko": "금요일 오전 부르앙브레스 남쪽 랑에서 발생한 사고로 7세 여아와 18세 청년 등 2명이 숨졌다고 검찰이 밝혔다.",
+   "url": "https://www.lemonde.fr/societe/article/2026/11/08/accident-de-car-dans-l-ain-le-chauffeur-mis-en-examen-pour-homicide-involontaire-annonce-le-parquet_6808464_3224.html",
+   "published": "2026-11-09T03:32:24+09:00",
+   "tags": [],
+   "event": "ain-bus-accident",
+   "state_media": false
+  },
+  {
+   "source": "Le Monde",
+   "title_original": "Samuel Hayat, historien : « Les jeunes ont eux-mêmes conscience d’être en train de faire l’histoire »",
+   "title_ko": "역사학자 사뮈엘 아야: \"청년들은 스스로 역사를 만들고 있음을 자각하고 있다\"",
+   "summary_ko": "노조의 지지와 포용 요구에 힘입은 고교생 운동은 한 세대 전체가 정치적 주체로 서고 있다는 신호라고 연구자가 르몽드 인터뷰에서 분석했다.",
+   "url": "https://www.lemonde.fr/idees/article/2026/11/08/samuel-hayat-historien-les-jeunes-ont-eux-memes-conscience-d-etre-en-train-de-faire-l-histoire_6808462_3232.html",
+   "published": "2026-11-09T03:00:11+09:00",
+   "tags": [],
+   "event": "lycee-movement-analysis",
+   "state_media": false
+  },
+  {
+   "source": "Le Monde",
+   "title_original": "Immigration : Une proposition de loi socialiste veut régulariser 300 000 travailleurs sans‑papiers",
+   "title_ko": "이민: 사회당 법안, 미등록 노동자 30만 명 합법화 추진",
+   "summary_ko": "드롬 지역구 사회당 의원 폴 크리스톨의 법안이 11월 9일(월) 상임위에서 논의된다. 스페인 모델을 따라 일부 외국인 노동자에게 체류증을 부여하는 내용으로, 경영계 일부도 반대하지 않는다.",
+   "url": "https://www.lemonde.fr/societe/article/2026/11/08/immigration-une-proposition-de-loi-socialiste-veut-regulariser-300-000-travailleurs-sans-papiers_6808461_3224.html",
+   "published": "2026-11-09T03:00:08+09:00",
+   "tags": [
+    "legislation"
+   ],
+   "event": "ps-undocumented-workers-bill",
+   "state_media": false
+  },
+  {
+   "source": "Le Monde",
+   "title_original": "Carlos Alcaraz, vainqueur du Masters 1000 de Paris, trouve dans le plaisir de jouer la force de vaincre",
+   "title_ko": "파리 마스터스 1000 우승 알카라스, 경기의 즐거움에서 승리의 힘을 찾다",
+   "summary_ko": "알카라스는 일요일 결승에서 벤 셸턴을 2-0(7-6, 7-5)으로 꺾었다. 5개월 공백 후 복귀한 그는 한 주 내내 인상적인 경기력을 보였다.",
+   "url": "https://www.lemonde.fr/sport/article/2026/11/08/vainqueur-du-masters-1000-de-paris-carlos-alcaraz-trouve-dans-le-plaisir-de-jouer-la-force-de-vaincre_6808458_3242.html",
+   "published": "2026-11-09T02:22:37+09:00",
+   "tags": [],
+   "event": "alcaraz-paris-masters",
+   "state_media": false
+  },
+  {
+   "source": "Les Echos",
+   "title_original": "Cours Obligations 5.35 CIC 36 MTN - 5.35 CIC 36 MTN XS3548854846",
+   "title_ko": "채권 시세: 5.35 CIC 36 MTN (XS3548854846)",
+   "summary_ko": "CIC 2036년 만기 5.35% MTN 채권 시세 페이지(제목 기준).",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR3N2S0g2LWVnWkxhODFtM3JZaXd2S3IwRU1heDFEMGZvZktLcW9DMURTR094aTJnd1FGRGpLUk12Z1o3eVFrbERGTmZldDVyejVxUVkwSmV0a2pBUHV5WTladVF4WkdhbUdUX1FWS05uSVhjMkszVVNKZmg4VnRwN09JWGJvX0k?oc=5",
+   "published": "2026-11-09T02:46:02+09:00",
+   "tags": [
+    "stocks"
+   ],
+   "event": "bond-cic-36",
+   "state_media": false
+  },
+  {
+   "source": "Les Echos",
+   "title_original": "Cours Obligations 4.25 BkSte 28EMTN - 4.25 BkSte 28EMTN FR001401C2Q2",
+   "title_ko": "채권 시세: 4.25 BkSte 28 EMTN (FR001401C2Q2)",
+   "summary_ko": "2028년 만기 4.25% BkSte EMTN 채권 시세 페이지(제목 기준).",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWGNxZ1NKdXhOVjRVLUxIMmEwWklIM0ExdmhNX1JmMDhuYVdqZGxxVlU3amZ4YlYxMWxZTUcxTU5jNUF2Tm9aeHRUNGo4dlV0dkp2VDBJeW9SMDZwTE5RWU1jVXdBZVRGVmU4TzZRd2RFUmJlWW9EWnVIeU11UTBUcnNES2lXbDFQRnc?oc=5",
+   "published": "2026-11-09T02:44:01+09:00",
+   "tags": [
+    "stocks"
+   ],
+   "event": "bond-bkste-28",
+   "state_media": false
+  },
+  {
+   "source": "Les Echos",
+   "title_original": "Tesla, à la recherche de son flair perdu",
+   "title_ko": "테슬라, 잃어버린 감각을 찾아서",
+   "summary_ko": "테슬라가 잃어버린 감각(flair)을 되찾으려 하고 있다(제목 기준).",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUXdTb0pYRUEwY05TVHM1dzBOQi16bE15ZVQ5aHUwOWNQR2thb3E2OGd6NlU1bjRrS2doOE9RaHZQcktDd3dzdE5IQzl6bWZ2a0NBVWtkU3RGbnNsaFRxOFBsLWpnQ0JfQjBwLTc0RFU4Z2l1bjNPTkxGTEhraV93N2lGbDY3UkczVjdNanJoVHpSbWxKV0M0X2RlN3RaLVNIZ0EyYWl5V2ZJX1BS?oc=5",
+   "published": "2026-11-09T02:30:16+09:00",
+   "tags": [
+    "industry"
+   ],
+   "event": "tesla",
+   "state_media": false
+  },
+  {
+   "source": "Les Echos",
+   "title_original": "Conférence sociale : le coût du travail au coeur du bras de fer sur la hausse du SMIC",
+   "title_ko": "노사정 회의: SMIC 인상 줄다리기의 핵심은 노동비용",
+   "summary_ko": "노사정 사회회의에서 SMIC 인상을 둘러싼 대립의 핵심 쟁점이 노동비용이다(제목 기준).",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjhmZHNuOVFocGR1S2pkQ2pFb0h3TTk1a25xM2ZlaUNwQW83akJ6VXFsbUNBeGN5TEJBNHE2Wm9RYkthOHI2eTdRWVYtNzgwWENzaVNLQzJodktxQUgzTU9SVVA2MkoxSVJQd0lPX0t6QlJiTThkSDBMUlFsSk82UkR4VGtrOHNCNWd3OWs2TGM3X2JNaXRQTDV1eEZEUnRWcG9MTVJrVnpIeTluSkZuSDByUXNYTjlJWUF0TjFNYnJrdHpLRHlENVFSV25ycDFpcjVyNw?oc=5",
+   "published": "2026-11-09T01:22:28+09:00",
+   "tags": [
+    "business",
+    "legislation"
+   ],
+   "event": "smic-revaluation",
+   "state_media": false
+  },
+  {
+   "source": "Les Echos",
+   "title_original": "TP : la croissance aux abonnés absents",
+   "title_ko": "토목·공공공사(TP): 성장 실종",
+   "summary_ko": "토목·공공공사 부문 성장이 부진하다(제목 기준).",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOEhtU045SEpqUFpZRnhyaUd1Szd5S2R5QjYwQjFTU1J0dGFJU0pqRDAtVllkcXZVSjdVZlBJT0dsTmhlaDNHWGhvN3dOWUNZWnFYbTRGeGwxQ0t3SUpJbmRnOHN2M0pYSW1rYWwtalZzRnd1akxVQXhPaG5lV3BIMXRJbGJ1ZXlDbC1sWGVYMGZFc2xCcG5DeUtRM1VUVEZiZzlPU181VU0?oc=5",
+   "published": "2026-11-09T01:01:31+09:00",
+   "tags": [
+    "industry"
+   ],
+   "event": "public-works-growth",
+   "state_media": false
+  },
+  {
+   "source": "Les Echos",
+   "title_original": "Théâtre : « Madame de Sade », la divine marquise de Stanislas Nordey aux Bouffes du Nord",
+   "title_ko": "연극: 스타니슬라스 노르데의 '사드 후작 부인', 부프 뒤 노르 극장 공연",
+   "summary_ko": "스타니슬라스 노르데 연출 '사드 후작 부인'이 부프 뒤 노르 극장에서 공연된다(제목 기준).",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSEhudC04bWcwQlNXaWNjS2tlazJMT1F4X1VVMElDeHRjUXoxeF9yclhLX2MzUHVMRFhxd29zN0lPdllYLTNsTGZsdGdCbzlzNGFiTkJ5UkJLNWhlQnlUdFF3NE5mbWd1V0NsV29PRk9qU2tiQ1phcXV5S2V6NXVTd0xPOERyZWVrSHJ3dWVEcDVudlg1OXhzd2F6czc3ZnRGZDloaE0zZkE3Q3dZTlRyMGp0YXRoX1VOZXRobld3WWxsei16OU41c1JSQV83Qy1NZWIxSW9Eaw?oc=5",
+   "published": "2026-11-09T01:00:09+09:00",
+   "tags": [],
+   "event": "theatre-madame-de-sade",
+   "state_media": false
+  },
+  {
+   "source": "Les Echos",
+   "title_original": "« Nous avons compris qu'il y avait un changement de paradigme » : Naval Group, Anduril et Boeing lancent la bataille des drones sous-marins géants",
+   "title_ko": "\"패러다임 전환을 깨달았다\": 나발그룹·안두릴·보잉, 초대형 무인잠수정 경쟁 돌입",
+   "summary_ko": "나발그룹, 안두릴, 보잉이 초대형 무인잠수정(수중 드론) 경쟁에 나섰다(제목 기준).",
+   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQWXFhcEJLZlJyMWZSckN0R2ZjZmZzZzQ0cklnbWVCTmx5Yk1BMUUyZF8td3lGeGpKUDZ2alRNUFFONDEzSTJYQnBWcjAxSFVjb3JHaVRnWFJjVGlrMG1ES2dkZTdieGVvWExXTmp6OEJ4Z0NPSTE1d2hSQmcxSU1hY0dhODVMbFQ1N1FNT0lBM1dTNk1ZYnA0bm96Q1RKTEdBMTBlOER1azg0TzlJS0hOOHd4ZUxwRU92ODNVYk9EWnRWZUxmZ09Od3dDSURIZHpmeHJNYmdYQl84aWtvZTlEWl93RzU0d2hoNXhPekdRUjh3bS1sbWNaak5DemZSUUFKZDI5YUdIX2tfNXp5YTctcnJmTFBFUXU3ZUtiSWEzVlVnRDZsOFdZVQ?oc=5",
+   "published": "2026-11-09T00:50:29+09:00",
+   "tags": [
+    "industry",
+    "geopolitics"
+   ],
+   "event": "giant-underwater-drones",
+   "state_media": false
+  },
+  {
+   "source": "Les Echos",
+   "title_original": "Israël : Gadi Eisenkot pousse Benyamin Netanyahou vers la sortie",
+   "title_ko": "이스라엘: 가디 아이젠코트, 네타냐후를 퇴진으로 몰아붙여",
+   "summary_ko": "가디 아이젠코트가 네타냐후의 퇴진을 압박하고 있다(제목 기준).",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZEVZWmh4cHh5bnJhamZLdldtTkQwcmh5NjdtbUVqb1lRYnJjLVNKLXBEaEgzREI4eXY4d29ENWRxQUsyUUZpbGx5dVFYMWlaWmUxY0RFTGVoSDhuOU42NjNiZ3pxOWtwUGx4cFJGRnk5b1NKaGVXMlBZaGNqYXItSUU3X1J6czJKM2RHQ0hJUmlCbkRld2JleHBReTVMcnpOMDd3bUV0Q1F2Njl2R1M5V3NBbS1mRWR1Q1ZaQTRB?oc=5",
+   "published": "2026-11-09T00:50:06+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "israel-eisenkot-government",
+   "state_media": false
+  },
+  {
+   "source": "Le Figaro",
+   "title_original": "EN DIRECT - Lens-Marseille : Thauvin répond au cadeau fait à Gouiri, le choc s’emballe à Bollaert",
+   "title_ko": "[실시간] 랑스-마르세유: 고우이리에게 준 선물에 토뱅이 응수, 볼라에르에서 접전 격화",
+   "summary_ko": "마르세유가 일요일, 수요일 챔피언스리그에서 코모에 9-1로 패한 랑스 원정에 나섰다.",
+   "url": "https://www.lefigaro.fr/sports/football/live/ligue-1/2026/2640645/lens-marseille",
+   "published": "2026-11-09T06:13:03+09:00",
+   "tags": [],
+   "event": "lens-om",
+   "state_media": false
+  },
+  {
+   "source": "Le Figaro",
+   "title_original": "États-Unis: Donald Trump reconnaît une politique d’expulsions des immigrés «trop dure» devant la presse",
+   "title_ko": "미국: 트럼프, 이민자 추방 정책이 \"너무 가혹했다\"고 인정",
+   "summary_ko": "트럼프 대통령이 미국 CBS 인터뷰에서 이같이 말했다.",
+   "url": "https://www.lefigaro.fr/international/etats-unis-donald-trump-reconnait-une-politique-d-expulsions-des-immigres-trop-dure-devant-la-presse-20261108",
+   "published": "2026-11-09T06:04:12+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "trump-deportation-policy",
+   "state_media": false
+  },
+  {
+   "source": "Le Figaro",
+   "title_original": "Friedrich Merz souhaite voir la Bavaroise Ilse Aigner présidente de la République fédérale allemande",
+   "title_ko": "메르츠, 바이에른의 일제 아이그너를 독일 연방대통령 후보로 지지",
+   "summary_ko": "메르켈 정부 농업장관 출신으로 대중적이고 무난한 인물인 아이그너가 집권 연정의 후보로 지명돼, 1월 말 슈타인마이어(SPD) 현 대통령의 후임으로 선출될 것이 거의 확실하다.",
+   "url": "https://www.lefigaro.fr/international/friedrich-merz-souhaite-voir-ilse-aigner-presidente-de-la-republique-federale-allemande-20261108",
+   "published": "2026-11-09T05:59:33+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "germany-president-aigner",
+   "state_media": false
+  },
+  {
+   "source": "Le Figaro",
+   "title_original": "Le Mans-Monaco : une célébration polémique qui pourrait valoir une suspension à Mamadou Coulibaly",
+   "title_ko": "르망-모나코: 코울리발리의 논란의 세리머니, 출장정지 가능성",
+   "summary_ko": "모나코 미드필더 마마두 코울리발리가 일요일 리그1 10라운드 르망전(무승부)에서 득점 후 목을 베는 동작으로 세리머니했다.",
+   "url": "https://www.lefigaro.fr/sports/football/ligue-1/le-mans-monaco-une-celebration-polemique-qui-pourrait-valoir-une-suspension-a-mamadou-coulibaly-20261108",
+   "published": "2026-11-09T05:58:13+09:00",
+   "tags": [],
+   "event": "coulibaly-celebration",
+   "state_media": false
+  },
+  {
+   "source": "Le Figaro",
+   "title_original": "États-Unis : face à Donald Trump, les démocrates en ordre de bataille pour la présidentielle 2028",
+   "title_ko": "미국: 트럼프에 맞서 민주당, 2028 대선 채비",
+   "summary_ko": "중간선거 승리에 힘입어 민주당 신세대가 2028년 대선 출마를 검토하기 시작했다.",
+   "url": "https://www.lefigaro.fr/international/etats-unis-face-a-donald-trump-les-democrates-en-ordre-de-bataille-pour-la-presidentielle-2028-20261108",
+   "published": "2026-11-09T05:08:28+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "us-democrats-2028",
+   "state_media": false
+  },
+  {
+   "source": "Le Figaro",
+   "title_original": "« Je trouverai un moyen de vous faire venir » : sous le mur de Berlin, ces tunnels par lesquels des centaines d’habitants de la RDA sont passés à l’Ouest",
+   "title_ko": "\"너를 데려올 방법을 찾을게\": 베를린 장벽 아래, 동독 주민 수백 명이 서쪽으로 넘어간 터널들",
+   "summary_ko": "장벽 붕괴 37년, 아니타 묄러가 1962년 9월 70여 차례 시도 중 성공한 19개 터널 중 하나로 탈출한 경험을 피가로에 증언했다.",
+   "url": "https://www.lefigaro.fr/international/je-trouverai-un-moyen-de-vous-faire-venir-sous-le-mur-de-berlin-ces-tunnels-par-lesquels-des-centaines-d-habitants-de-la-rda-sont-passes-a-l-ouest-20261108",
+   "published": "2026-11-09T04:48:24+09:00",
+   "tags": [],
+   "event": "berlin-wall-tunnels",
+   "state_media": false
+  },
+  {
+   "source": "Le Figaro",
+   "title_original": "Présidentielle 2027 : Glucksmann assure qu’il va « mettre fin » à l’« hégémonie culturelle, idéologique et politique » de Mélenchon sur la gauche",
+   "title_ko": "2027 대선: 글뤽스만 \"좌파에 대한 멜랑숑의 문화·이념·정치적 헤게모니 끝내겠다\"",
+   "summary_ko": "일요일 'BFMTV-르피가로 그랑 오랄'에 출연한 사회민주주의 후보 글뤽스만은 멜랑숑주의도 마크롱주의도 아닌 '민주적' 좌파의 수호자를 자처했다.",
+   "url": "https://www.lefigaro.fr/elections/presidentielles/ils-ne-le-supportent-pas-glucksmann-assure-qu-il-va-mettre-fin-a-l-hegemonie-culturelle-ideologique-et-politique-de-melenchon-sur-la-gauche-20261108",
+   "published": "2026-11-09T04:30:06+09:00",
+   "tags": [],
+   "event": "glucksmann-grand-oral",
+   "state_media": false
+  },
+  {
+   "source": "Le Figaro",
+   "title_original": "«Sa faiblesse, c’était sa gentillesse» : ce que l’on sait du meurtre barbare de Jimmy, égorgé dans son appartement à Paris",
+   "title_ko": "\"그의 약점은 친절함이었다\": 파리 아파트서 목이 베인 채 숨진 지미 살해 사건",
+   "summary_ko": "토요일 밤 파리 14구 시테 뒤 수브니르의 아파트에서 54세 지미 P.가 숨진 채 발견됐다. 이웃들은 그의 교우 관계가 화를 불렀을 수 있다고 전했다.",
+   "url": "https://www.lefigaro.fr/faits-divers/sa-faiblesse-c-etait-sa-gentillesse-ce-que-l-on-sait-du-meurtre-barbare-de-jimmy-egorge-dans-son-appartement-a-paris-20261108",
+   "published": "2026-11-09T04:27:15+09:00",
+   "tags": [],
+   "event": "paris-jimmy-murder",
+   "state_media": false
+  },
+  {
+   "source": "Libération",
+   "title_original": "500 jours de la condamnation de Christophe Gleizes : ne pas laisser l’oubli l’emporter",
+   "title_ko": "크리스토프 글레즈 유죄 판결 500일: 망각을 허용하지 말자",
+   "summary_ko": "리베라시옹은 동생의 편지 두 통을 통해 알제리에 수감 중인 기자 글레즈의 인간적 면모를 다시 전하고 그와 가족에 대한 지지를 재확인했다.",
+   "url": "https://www.liberation.fr/idees-et-debats/editorial/500-jours-de-la-condamnation-de-christophe-gleizes-ne-pas-laisser-loubli-lemporter-20261108_HQ5EDW5DXNDVXO2ER25EHRO6VY/",
+   "published": "2026-11-09T05:02:00+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "gleizes-algeria-detention",
+   "state_media": false
+  },
+  {
+   "source": "Libération",
+   "title_original": "Lettre de Maxime Gleizes à son grand frère Christophe : «C’est toi qui me fais tenir»",
+   "title_ko": "막심 글레즈가 형 크리스토프에게 보내는 편지: \"나를 버티게 하는 건 형\"",
+   "summary_ko": "2024년 알제리에 수감된 형에게서 받은 유일한 편지에 답하며, 막심 글레즈가 그동안 쓸 용기가 없었던 글을 리베라시옹에 공개했다.",
+   "url": "https://www.liberation.fr/societe/lettre-de-maxime-gleizes-a-son-grand-frere-christophe-cest-toi-qui-me-fais-tenir-20261108_HACK6UBYD5EBFL3TSKAP5F3WN4/",
+   "published": "2026-11-09T05:01:00+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "gleizes-algeria-detention",
+   "state_media": false
+  },
+  {
+   "source": "Libération",
+   "title_original": "Christophe Gleizes en détention : 500 jours loin des siens",
+   "title_ko": "수감 중인 크리스토프 글레즈: 가족과 떨어진 500일",
+   "summary_ko": "2025년 6월부터 '테러 옹호' 혐의로 알제리에 수감된 기자와 동생이 2년 간격으로 주고받은 편지 두 통을 리베라시옹이 공개했다.",
+   "url": "https://www.liberation.fr/international/afrique/christophe-gleizes-en-detention-500-jours-loin-des-siens-20261108_5LPRSE55CRAQVLRMFSX4ULXT5M/",
+   "published": "2026-11-09T05:00:00+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "gleizes-algeria-detention",
+   "state_media": false
+  },
+  {
+   "source": "Libération",
+   "title_original": "Raphaël Glucksmann affirme avoir refusé le poste de Premier ministre en 2024 après la dissolution",
+   "title_ko": "라파엘 글뤽스만 \"2024년 의회 해산 후 총리직 거절했다\"",
+   "summary_ko": "11월 8일(일) BFMTV 인터뷰에서 글뤽스만은 '10년 동안' 마크롱이 제안한 모든 자리를 거절해 왔다고 밝혔다. 그는 LFI로부터 마크롱주의와 연관됐다는 비판을 받고 있다.",
+   "url": "https://www.liberation.fr/politique/raphael-glucksmann-affirme-avoir-refuse-le-poste-de-premier-ministre-en-2024-20261108_VB6A55NENJCL3BZF43VE646YX4/",
+   "published": "2026-11-09T04:47:26+09:00",
+   "tags": [],
+   "event": "glucksmann-grand-oral",
+   "state_media": false
+  },
+  {
+   "source": "Libération",
+   "title_original": "«Ma place est devant l’établissement pour assurer la sécurité des élèves» : à Saint-Denis, une mobilisation contre la répression «incessante» au lycée Paul-Eluard",
+   "title_ko": "\"내 자리는 학생 안전을 위해 학교 앞\": 생드니 폴엘뤼아르 고교 '끊임없는' 탄압 규탄 집회",
+   "summary_ko": "11월 8일(일) 고교생 시위의 선봉이 된 생드니 학교의 교직원과 학생을 지지하는 수백 명이 모였다.",
+   "url": "https://www.liberation.fr/societe/education/ma-place-est-devant-letablissement-pour-assurer-la-securite-des-eleves-a-saint-denis-une-mobilisation-contre-la-repression-incessante-au-lycee-paul-eluard-20261108_QHUM2LLA3FGNBGWYOLE7VRNHTY/",
+   "published": "2026-11-09T04:43:33+09:00",
+   "tags": [],
+   "event": "saint-denis-lycee",
+   "state_media": false
+  },
+  {
+   "source": "Libération",
+   "title_original": "Route du rhum : quinze heures après Tom Laperche, Thomas Coville arrive deuxième, Louis Burton en troisième position",
+   "title_ko": "루트 뒤 럼: 라페르슈 15시간 뒤 토마 코빌 2위, 루이 뷔르통 3위",
+   "summary_ko": "브르타뉴 출신 코빌이 잇단 기술적 문제 끝에 11월 8일(일) 푸앵타피트르에 Ultim 부문 2위로 도착했고, 생말로 출신 뷔르통이 바짝 뒤따랐다.",
+   "url": "https://www.liberation.fr/sports/route-du-rhum-quinze-heures-apres-tom-laperche-thomas-coville-arrive-deuxieme-louis-burton-en-troisieme-position-20261108_GKORMUQNOBAOTNYZLX3ZUE4MKI/",
+   "published": "2026-11-09T04:39:55+09:00",
+   "tags": [],
+   "event": "route-du-rhum",
+   "state_media": false
+  },
+  {
+   "source": "Libération",
+   "title_original": "Présidentielle 2027 : en dépit des départs chez LFI, Fabien Roussel assure qu’il ira «jusqu’au bout»",
+   "title_ko": "2027 대선: LFI로의 이탈에도 파비앵 루셀 \"끝까지 간다\"",
+   "summary_ko": "공산당 후보 루셀은 11월 8일(일) 선거운동을 끝까지 이어가겠다며, 멜랑숑 혼자서는 극우를 상대로 '결코 이기지 못할 것'이라고 말했다.",
+   "url": "https://www.liberation.fr/politique/elections/presidentielle-2027-en-depit-des-departs-chez-lfi-fabien-roussel-assure-quil-ira-jusquau-bout-20261108_HIS3472YWZDDLOVZR7KOXSHEYM/",
+   "published": "2026-11-09T04:28:00+09:00",
+   "tags": [],
+   "event": "roussel-2027",
+   "state_media": false
+  },
+  {
+   "source": "Libération",
+   "title_original": "«Jamais je n’ai vécu un choc pareil» : après l’attentat à Cracovie, les habitants sidérés",
+   "title_ko": "\"이런 충격은 처음\": 크라쿠프 테러 후 망연자실한 주민들",
+   "summary_ko": "11월 7일(토) 폴란드 제2도시에서 총격으로 6명이 숨지고 15명이 다쳤다. 최근 몇 주 학교 흉기 공격이 잇따르고 정치 논쟁의 양극화가 심해지는 가운데 벌어진 사건이다.",
+   "url": "https://www.liberation.fr/international/europe/jamais-je-nai-vecu-un-choc-pareil-apres-lattentat-a-cracovie-les-habitants-sideres-20261108_LEMMWBOMHRFZDLWGTU5A53NYHQ/",
+   "published": "2026-11-09T04:17:59+09:00",
+   "tags": [],
+   "event": "krakow-shooting",
+   "state_media": false
+  }
+ ],
+ "events": [
+  {
+   "event": "glucksmann-grand-oral",
+   "title_ko": "글뤽스만 '그랑 오랄' 출연·총리직 거절 발언",
+   "sources": [
+    "BFMTV",
+    "Le Monde",
+    "Le Figaro",
+    "Libération"
+   ],
+   "count": 4
+  },
+  {
+   "event": "krakow-shooting",
+   "title_ko": "폴란드 크라쿠프 총기 테러(6명 사망)",
+   "sources": [
+    "France 24",
+    "franceinfo (France 2)",
+    "Libération"
+   ],
+   "count": 3
+  },
+  {
+   "event": "israel-eisenkot-government",
+   "title_ko": "이스라엘 아이젠코트 차기 정부 구성 위임",
+   "sources": [
+    "France 24",
+    "Les Echos"
+   ],
+   "count": 2
+  },
+  {
+   "event": "alcaraz-paris-masters",
+   "title_ko": "알카라스 파리 마스터스 1000 우승",
+   "sources": [
+    "France 24",
+    "Le Monde"
+   ],
+   "count": 2
+  },
+  {
+   "event": "route-du-rhum",
+   "title_ko": "루트 뒤 럼 요트 레이스 결과",
+   "sources": [
+    "France 24",
+    "Libération"
+   ],
+   "count": 2
+  },
+  {
+   "event": "smic-revaluation",
+   "title_ko": "최저임금(SMIC) 조기 인상",
+   "sources": [
+    "BFMTV",
+    "Les Echos"
+   ],
+   "count": 2
+  },
+  {
+   "event": "roussel-2027",
+   "title_ko": "루셀 공산당 후보 '끝까지 완주'",
+   "sources": [
+    "Le Monde",
+    "Libération"
+   ],
+   "count": 2
+  },
+  {
+   "event": "saint-denis-lycee",
+   "title_ko": "생드니 폴엘뤼아르 고교 탄압 규탄 집회",
+   "sources": [
+    "Le Monde",
+    "Libération"
+   ],
+   "count": 2
+  },
+  {
+   "event": "lens-om",
+   "title_ko": "랑스-마르세유 리그1 경기",
+   "sources": [
+    "BFMTV",
+    "Le Figaro"
+   ],
+   "count": 2
+  },
+  {
+   "event": "johnny-depp-tf1",
+   "title_ko": "조니 뎁 TF1 20시 뉴스 출연",
+   "sources": [
+    "TF1 Info"
+   ],
+   "count": 1
+  },
+  {
+   "event": "gleizes-algeria-detention",
+   "title_ko": "알제리 수감 기자 크리스토프 글레즈 500일",
+   "sources": [
+    "Libération"
+   ],
+   "count": 1
+  }
+ ],
+ "unavailable_sources": []
+}

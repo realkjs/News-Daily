@@ -1,0 +1,771 @@
+{
+  "team": "cn",
+  "headlines": [
+    {
+      "source": "CCTV",
+      "title_original": "加沙中部流离失所者营地发生沙土塌方 已致5人死亡",
+      "title_ko": "가자 중부 피란민 캠프서 토사 붕괴, 5명 사망",
+      "summary_ko": "가자지구 중부의 피란민 캠프에서 토사 붕괴가 발생해 5명이 숨졌다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UMk1jLWlvWk5LT3pEeVJhaTg2WGxYTU0wWlhiOTdvOWs4Qmc5YlRzRDRxUVJYQ19TTDc0dmFNTm01WWk0QS0tc29kVk42SDBlVmNBZGE4MGRUZWVjenRPOVhQVmVfdkhOOGFTb1hxMk9wbmZTaGxLUQ?oc=5",
+      "published": "2026-11-09T05:58:22+09:00",
+      "tags": [],
+      "event": "gaza-camp-landslide",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "特朗普：如谈判有进展 “极不可能”再对伊大动武",
+      "title_ko": "트럼프 \"협상 진전 있으면 이란에 대한 대규모 무력 사용 재개 '극히 가능성 낮아'\"",
+      "summary_ko": "트럼프 미국 대통령은 협상에 진전이 있으면 이란에 다시 대규모 무력을 쓸 가능성은 극히 낮다고 밝혔다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DdkIzekY1b0tTN3FQT3FhM3drNG5NQjZJdlN5Q2dRWW52RFM3Y2VyVjRJbWFWeTVPcWIyYnQyd3I0eG5BS0E2SjRJeTh2R3JpNmlTZ0dqdDJhNFdaNTU0YUxwTXBlUmx1WkdyYi1ST3hVR0V1WTBhbg?oc=5",
+      "published": "2026-11-09T05:51:33+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "trump-iran-strike-unlikely",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "应对降雪降温 多措并举保民生",
+      "title_ko": "강설·한파 대응해 다각적 조치로 민생 보장",
+      "summary_ko": "강설과 기온 하강에 대응해 여러 조치를 병행하며 민생을 보장하고 있다는 보도.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yMGVZaEdtYTFTT3k4Wk5Qck5USkZ3LUp4ci1NYVhfTFVyQmRvUGk3dzAtS0Z6MjQ1MHVmWUdtWFRoZjhldmQ4SGN1MzE0c3JPWDVWa3dEclVxTUVVaHE0MmtlMDZweXpiTXNXV1NlZFJxNmZGWmY4Xw?oc=5",
+      "published": "2026-11-09T05:47:41+09:00",
+      "tags": [],
+      "event": "cn-snow-cold-response",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "逛进博 看成果｜记者观察：签约速度展现合作信心",
+      "title_ko": "수입박람회 성과 둘러보기｜기자 관찰: 계약 체결 속도가 협력 신뢰 보여줘",
+      "summary_ko": "수입박람회(진보회) 현장의 계약 체결 속도가 협력에 대한 신뢰를 보여준다는 기자 관찰 기사.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iZDA4eTk4eU9NQk9Fdi1PTzBrd1Q1N0JnczQtcmVzQWRxM0MzRjY1Vjd2LS1hQWtXcXhuU1lzQWZPZVVWV1dkOEVTTkdNUHl6ZVRjTmRLMDhGdVAzeGFlTXJuTXR6c0I4XzBvSDJOUmFSRWNXSHQ5NQ?oc=5",
+      "published": "2026-11-09T05:27:15+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "ciie-2026",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "扎波罗热核电站恢复外部供电",
+      "title_ko": "자포리자 원전 외부 전력 공급 복구",
+      "summary_ko": "자포리자 원자력발전소의 외부 전력 공급이 복구됐다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSaEI0QkpyMWQzOWJ2Y1E4S0MyUm9nZ3ZheDZLZDF6QWxheEUwU2dvZ1JPVWRyTHl5czc2NTVZb3NzbldFY3dXTE1uMTRzSkJUZTdkbXZaaGg5VWxmVkZ6a0czSlNmU1dRMTY1UUVJNHdYRThQZnV0WA?oc=5",
+      "published": "2026-11-09T04:29:28+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "zaporizhzhia-npp-power",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "埃及列车脱轨事故已致7死112伤",
+      "title_ko": "이집트 열차 탈선 사고로 7명 사망·112명 부상",
+      "summary_ko": "이집트에서 발생한 열차 탈선 사고로 7명이 숨지고 112명이 다쳤다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nUm9DU1kxQTkxbV94N201cXlVWXFLc1BNWS13VXp0Y05uR2xMT0VJbXJGaGlXWnB0eERZRV9MelVNRnI3WU9nUzJWSDVVcmJMWlRBVWkwczNaR3VsZTBFMlA3aGlDdHVFVEFycC1wTDhtU3VnTklPaw?oc=5",
+      "published": "2026-11-09T04:15:44+09:00",
+      "tags": [],
+      "event": "egypt-train-collision",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "非国大在南非地方选举中保住第一大党地位",
+      "title_ko": "아프리카민족회의(ANC), 남아공 지방선거서 제1당 지위 유지",
+      "summary_ko": "아프리카민족회의가 남아프리카공화국 지방선거에서 제1당 지위를 지켰다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAySnZGZEwyMTl2a3Q2SDJnY2FZbXRDRGE4RDJRZU9uTnNzY1FVcjN6U0owM1FaTkRJYzhDS2NUeVBNVEFKMGdHVUlvdnI1R0ZJYV81TDZ3UFNHUUFZLUxpSFQ5OUV1X3REYUctWkZpUC1ZV01DQWVDTA?oc=5",
+      "published": "2026-11-09T02:37:49+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "south-africa-local-election",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "伊朗海军称霍尔木兹海峡东部一违规油轮触雷起火",
+      "title_ko": "이란 해군 \"호르무즈 해협 동부서 규정 위반 유조선이 기뢰에 닿아 화재\"",
+      "summary_ko": "이란 해군은 호르무즈 해협 동부에서 규정을 위반한 유조선 한 척이 기뢰에 닿아 불이 났다고 밝혔다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlVVhqNVJ0QnRpQ2U0Vlo1MTRIQlI4ZlYtd18wSVRIRmV4WTdaNTFzZnRUQ3Z3WjlLSzZtd1Q0QzNlZ0RQQU54V1NnR3ZVc0p5Qlcyc2JZZHNyTkp0X0kzX29xMGlSUUs4X0xQX1NWOVBXNVlKdW5jUA?oc=5",
+      "published": "2026-11-09T02:32:13+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "hormuz-tanker-mine",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "Saudi-led coalition spox: Intercepted and destroyed a drone launched by the Houthi militia toward the southern region.",
+      "title_ko": "사우디 주도 연합군 대변인 \"후티 반군이 남부 지역으로 발사한 드론 요격·파괴\"",
+      "summary_ko": "사우디 주도 연합군 대변인은 후티 반군이 남부 지역을 향해 발사한 드론을 요격해 파괴했다고 밝혔다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vVXNXOHZYVjR0NXh3UVU4cTNGSF8zTFAwVmx0aHp3ZGFSN0t2YWNIbi1qZFdxQktUeHVabDVRMURyVEJyU3k4UHgtTVVya0VMcFRqWHZHQTlHV29RWGRMa1BpX0d4b2IyandhSWZtTnRyTXdodXJnYw?oc=5",
+      "published": "2026-11-08T17:30:40+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "houthi-drone-intercepted",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "SAUDI CIVIL DEFENSE: DANGER HAS PASSED IN AL AHSA GOVERNORATE",
+      "title_ko": "사우디 민방위 \"알아흐사 주(州) 위험 상황 종료\"",
+      "summary_ko": "사우디 민방위는 알아흐사 주의 위험 상황이 지나갔다고 밝혔다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KUVdDRTZDNjdSQXp1ckFFVU1qZC1vSkhvOEJMeDhSbElNZjBJczY5RW9PMERPMnV0Mm1BUG56aVhTcFI4eDJGcnhfQ2lYRDNaNnpFRVNaZmVTVkNiaUhOT2hrQnVVTzlUMzU1eXdUcUdISXFfMlFlcg?oc=5",
+      "published": "2026-11-08T10:54:21+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "saudi-al-ahsa-danger-passed",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "5.3-magnitude earthquake hits CENTRAL MID-ATLANTIC RIDGE",
+      "title_ko": "중앙 대서양 중앙해령에서 규모 5.3 지진",
+      "summary_ko": "중앙 대서양 중앙해령에서 규모 5.3의 지진이 발생했다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pcHNfSGNsR1FzWkVOTUhOdDc0TkszNXFwYk9MeTVybTJGNG44S1cxb0tuNy1FQWx5blVVVVNiY3RFUF9hZ2k3Z3lHYTZwQjZoVkpYM29Ga1ZubDVIQWNlbm12VjY0TEpISW1jMWNrcmdydVhPeW45SA?oc=5",
+      "published": "2026-11-08T08:27:24+09:00",
+      "tags": [],
+      "event": "mid-atlantic-quake",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "特朗普：如谈判有进展 “极不可能”再对伊大动武",
+      "title_ko": "트럼프 \"협상 진전 있으면 이란에 대한 대규모 무력 사용 재개 '극히 가능성 낮아'\"",
+      "summary_ko": "트럼프 미국 대통령은 협상에 진전이 있으면 이란에 다시 대규모 무력을 쓸 가능성은 극히 낮다고 밝혔다.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56ZlJwN1V0d1RFZTkwUTdBOHl4dmZoaldUYnBSNnBKSkJEc3pKbld3TXJ5UlZ5d2dFZ25XeFdlUGtCU00wZkt0amlWcy1WNDVxNmd6NWk4dEZLUDV1UlhseU1YaUpMQjFCenNLalRuWlpWUEs5SU0ybXRRdHpDSUU?oc=5",
+      "published": "2026-11-09T04:46:18+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "trump-iran-strike-unlikely",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "埃及吉萨列车相撞事故已致7死112伤",
+      "title_ko": "이집트 기자 열차 충돌 사고로 7명 사망·112명 부상",
+      "summary_ko": "이집트 기자에서 열차 충돌 사고가 발생해 7명이 숨지고 112명이 다쳤다.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXd29XZ05YUjAzRVhnTmRiclJrYVJLNW9qaFVpSUdTa2pjbzFjc0hlcU9fMUNBanZLSDhTcWJfSmRUU2FBb2MxQUV1cGFFV1NsaFMzVGZvakVRR2ZKQmhJMEJ2RVhybGRsc0ZuM015TXNjRUdUTXlKQUZXc2hNM2s?oc=5",
+      "published": "2026-11-09T04:40:21+09:00",
+      "tags": [],
+      "event": "egypt-train-collision",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "南非地方选举计票结束 非国大保住第一大党地位",
+      "title_ko": "남아공 지방선거 개표 종료, ANC 제1당 지위 유지",
+      "summary_ko": "남아프리카공화국 지방선거 개표가 끝났으며 아프리카민족회의가 제1당 지위를 지켰다.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rQ1ZWZFl4Sm1TbEV0WlYxV2JoMjZYbEFhOWlURTM1SlJ1SDRvU29PdFJXZnY4VlJhSUMtLVRybFMzWGpKejFra21XQVYtcWt1Znlwc0x5akNQaXZYQkF5aXE2U0xTYl9jM1lvMGd4UFhiNEIzSHJwbDhxVGNyTEE?oc=5",
+      "published": "2026-11-09T04:40:16+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "south-africa-local-election",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "土伊重申合作终结库尔德工人党在辛贾尔地区的存在",
+      "title_ko": "튀르키예·이라크, 신자르 지역 쿠르드노동자당(PKK) 존재 종식 위한 협력 재확인",
+      "summary_ko": "튀르키예와 이라크가 신자르 지역에서 쿠르드노동자당의 존재를 끝내기 위한 협력을 재확인했다.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBMTU4a1MwbktwREkxRVlHWE1Cbk91VU9CaHNCclVLM0pmQmZZZkZVTFptdnEwSWJ0ZlJsTlVyNHZleW53ZlpjaXdVd25EYkdzLUtfNTlSSjFsUjdrdVNxV2JHbF9UQjlUNzgtQjFkYUsxaF9Xc012eUk0UWViZnM?oc=5",
+      "published": "2026-11-09T04:09:58+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "turkey-iraq-pkk-sinjar",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "沙特媒体：伊拉克代表团访问伊朗并转达美方信息",
+      "title_ko": "사우디 매체 \"이라크 대표단, 이란 방문해 미국 측 메시지 전달\"",
+      "summary_ko": "사우디 매체에 따르면 이라크 대표단이 이란을 방문해 미국 측 메시지를 전달했다.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ucDNVek9PUEFKNFJCRzRwenFrY0xJenE4S0M5cV9relhIalFsQzhFdEM3dUFhZHJxUWw4eFBONWJhclEwUGZRVW9rRVZ6dFM3SFl4QTVhWWg4cWx5QXMxMWtJTnphbTZqbEx5ODlIQzVzUTEySy1STmpoQ0Jvb1E?oc=5",
+      "published": "2026-11-09T02:55:39+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "iraq-delegation-iran-us-message",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "俄国防部称打击乌能源设施及两艘涉军船只",
+      "title_ko": "러시아 국방부 \"우크라이나 에너지 시설과 군 관련 선박 2척 타격\"",
+      "summary_ko": "러시아 국방부는 우크라이나의 에너지 시설과 군 관련 선박 2척을 타격했다고 밝혔다.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxNFhoZjM5eU1uWF91RFVfSTUwTk9lLXBydkNIUHpfZkxhaU9vYXNkQXhFYWZaUWNRd1R1SjdGM2luckhLcFhIcDl0aEJsUlM1RWVVVXFlUTRhaHRYMUM0RzNpNE9yb1hvajZielJST0FZaUdXazdzck5EcEt3YUU?oc=5",
+      "published": "2026-11-09T02:23:41+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "russia-strikes-ukraine-energy",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "新华社快讯：非国大在南非地方选举中保住第一大党地位",
+      "title_ko": "신화사 속보: ANC, 남아공 지방선거서 제1당 지위 유지",
+      "summary_ko": "신화사 속보로, 아프리카민족회의가 남아프리카공화국 지방선거에서 제1당 지위를 지켰다.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJTGxjekF4UGZmVUZxOFc2cFd2WERhVm91NmtCb2V0Y1ZmN2s4T0p4VnRuRVhxMmU5YlA0TGtVTmRjQ1M0bU9xYUhBeXdPNUpvcDI1eVkxdWw2c1dMMkU1VzFHRW96LTFqUEREMFJreEpJajQyZExZMTVacHpJVlE?oc=5",
+      "published": "2026-11-09T02:10:57+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "south-africa-local-election",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "以色列总统正式授权埃森科特组建新政府",
+      "title_ko": "이스라엘 대통령, 아이젠코트에 새 정부 구성권 공식 부여",
+      "summary_ko": "이스라엘 대통령이 아이젠코트에게 새 정부 구성을 공식 위임했다.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93TDNqX3AzWGJuSE1DOWR0RnktNnRiXy1uaHFkaUVCc25ZWFVaa01QM3M0cDUzS1BpU3JmLW5wT05taUplWWRwSEdWT1ZCOFdDZVZaaGhqZDdHWUoxSV9jV3FTZjg2MnJkS0V1bE8zbVpLMGR5QWhr?oc=5",
+      "published": "2026-11-09T01:31:52+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "israel-eisenkot-government-mandate",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "人民日报图文数据库（1946-2026）",
+      "title_ko": "인민일보 도문(圖文) 데이터베이스(1946-2026)",
+      "summary_ko": "인민일보 도문 데이터베이스(1946-2026) 페이지. 뉴스 기사가 아닌 데이터베이스 안내 항목으로 보인다.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDcTNZR1gxQllPNmpEcmxoeTlTdnpVSHpHNUhfX2x1aWd3eUtna0V0TGY3bmNCZk9LbndnZWpsSEc2ZXItY1ZybHlmTXg4RVg1NXMwQUVwb3BGck1sNkZPc1ZnNEpwU1MzcVpkcWs2S0M4cVJuM2c?oc=5",
+      "published": "2026-11-09T05:46:25+09:00",
+      "tags": [],
+      "event": "peoples-daily-database",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "人民日报图文数据库（1946-2026）",
+      "title_ko": "인민일보 도문(圖文) 데이터베이스(1946-2026)",
+      "summary_ko": "인민일보 도문 데이터베이스(1946-2026) 페이지. 뉴스 기사가 아닌 데이터베이스 안내 항목으로 보인다.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53ZzVDejBvWjhOZ044elRuWjVjRVVCNWNsSkxKc0ZHTVZMRmlhVlF6YlFwblJSYU5nbU1wdm9QcVo4N2kwNW1ob3JEdWZZUjFJUUJnRjF6dWlacjIycS1Nd29VOXgteVZpQ2VtM0tLV0lJZjI2U1E?oc=5",
+      "published": "2026-11-09T05:46:25+09:00",
+      "tags": [],
+      "event": "peoples-daily-database",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "人民日报图文数据库（1946-2026）",
+      "title_ko": "인민일보 도문(圖文) 데이터베이스(1946-2026)",
+      "summary_ko": "인민일보 도문 데이터베이스(1946-2026) 페이지. 뉴스 기사가 아닌 데이터베이스 안내 항목으로 보인다.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jeEdqN0JDckRsQnZFQ092OWQ2bldPVFNUQllWRXpKYlFGbEdVSzliSDE1Smlla1ZQeXd4OV9BZ1N5YmVDRjlKNVA1VXM3RmpJVTE0N3JGWXI2YktZSGVzVDlPQ1g4VWppazJScDk3aWVSTFgxa0E?oc=5",
+      "published": "2026-11-09T05:46:24+09:00",
+      "tags": [],
+      "event": "peoples-daily-database",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "人民日报图文数据库（1946-2026）",
+      "title_ko": "인민일보 도문(圖文) 데이터베이스(1946-2026)",
+      "summary_ko": "인민일보 도문 데이터베이스(1946-2026) 페이지. 뉴스 기사가 아닌 데이터베이스 안내 항목으로 보인다.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02VjRka0JCeDdOaUZqb0dOQnl0VUpONEw0NlBhZG5OM2Zad3EzQUhYWTlEOUNKYldWZ0ZpTnFJNUhhWnJGZVBpaFRZaG50NTd5dGRxaW0xQnE4Y1RCMFR0b1B4QmlabURTZXVhcC1hbktJZ2VWb3c?oc=5",
+      "published": "2026-11-09T05:46:24+09:00",
+      "tags": [],
+      "event": "peoples-daily-database",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "人民日报图文数据库（1946-2026）",
+      "title_ko": "인민일보 도문(圖文) 데이터베이스(1946-2026)",
+      "summary_ko": "인민일보 도문 데이터베이스(1946-2026) 페이지. 뉴스 기사가 아닌 데이터베이스 안내 항목으로 보인다.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDQlB3ZDdiWFJwRlduVXpzc2otOFZLTW9LOUp2UUFzRkhZRVZkWnVNSDdUWTR2dlJKLXRrenBDeHBzZ3k2WkRkd3cybms0YlBzVl9CdXFOemc0cUxmeHlta3d0dDZvcnRRSXVLbmdONUIxZjI4ZUE?oc=5",
+      "published": "2026-11-09T05:46:24+09:00",
+      "tags": [],
+      "event": "peoples-daily-database",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "人民日报图文数据库（1946-2026）",
+      "title_ko": "인민일보 도문(圖文) 데이터베이스(1946-2026)",
+      "summary_ko": "인민일보 도문 데이터베이스(1946-2026) 페이지. 뉴스 기사가 아닌 데이터베이스 안내 항목으로 보인다.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Uel9UZ3phcGVqNzQyX254MnV5dmVyV0FKWXR6QWViQ2k0dlJhUElXRThSSmtURllkS2dKc3FmaVYwX1lxeXRjTUVORU1KY0FIXzEzbzVRODQ5UXgteU1pOUVQSjNrUnpCMlRHU1B0bl85a0pHYVE?oc=5",
+      "published": "2026-11-09T05:46:24+09:00",
+      "tags": [],
+      "event": "peoples-daily-database",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "人民日报图文数据库（1946-2026）",
+      "title_ko": "인민일보 도문(圖文) 데이터베이스(1946-2026)",
+      "summary_ko": "인민일보 도문 데이터베이스(1946-2026) 페이지. 뉴스 기사가 아닌 데이터베이스 안내 항목으로 보인다.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fVHVUTWVtOEp4eWw5REJucDY5a2dtZ0VyLURiQ2M1cTJ2T0hQelllNjNPNkRIaVZjLU9CUHYzMVdzZUR6SjNuX183WHVnRDJZbGlXbTFDQ2FDUWZaQ2NicFpkZU9UdEw1MjMyLUZVYjdHYWd0ZHc?oc=5",
+      "published": "2026-11-09T05:46:23+09:00",
+      "tags": [],
+      "event": "peoples-daily-database",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "埃及列车脱轨事故已致4死88伤--国际",
+      "title_ko": "이집트 열차 탈선 사고로 4명 사망·88명 부상",
+      "summary_ko": "이집트에서 발생한 열차 탈선 사고로 4명이 숨지고 88명이 다쳤다(초기 집계).",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mb2g1QzZxWEd4OFNSUE5NNG5kM2Fuem1JeVVrRklIQVVaWDh6SV8wSGowYkNHbmxuRW9NZ1BOWUp0VkNzQjlsd0tZcUhDLUM0NC0wbFdRekdQTDFrNlFrWlptdXZhUHZibk53?oc=5",
+      "published": "2026-11-09T00:16:00+09:00",
+      "tags": [],
+      "event": "egypt-train-collision",
+      "state_media": true
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "King Charles and Prince Harry mark Remembrance Day separately",
+      "title_ko": "찰스 국왕과 해리 왕자, 현충일 각각 따로 기념",
+      "summary_ko": "해리 왕자는 찰스 국왕이 주관한 영국 전몰자 추모 주 행사와 떨어진 잉글랜드의 한 소도시에서 열린 현충일(Remembrance Sunday) 행사에 참석했다. 이 행사는 1차 대전을 끝낸 휴전일(11월 11일)에 가장 가까운 일요일에 영국 전역에서 열린다.",
+      "url": "https://www.scmp.com/news/world/europe/article/3373720/king-charles-and-prince-harry-mark-remembrance-day-separately",
+      "published": "2026-11-09T05:05:03+09:00",
+      "tags": [],
+      "event": "uk-remembrance-royals",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Police make arrest in deadly shooting at North Carolina university",
+      "title_ko": "노스캐롤라이나 대학 총격 사망 사건 용의자 체포",
+      "summary_ko": "당국은 노스캐롤라이나주의 한 역사적 흑인대학에서 홈커밍 주말에 발생해 1명이 숨지고 최소 1명이 다친 총격 사건과 관련해 일요일 남성 1명을 체포했다. 경찰은 토요일 밤 총성을 듣고 출동해 총상을 입은 19세 남성을 발견했다.",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3373719/police-make-arrest-deadly-shooting-north-carolina-university",
+      "published": "2026-11-09T03:59:32+09:00",
+      "tags": [],
+      "event": "nc-university-shooting",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Media industry still has a problem with sexual abuse, UK culture minister says",
+      "title_ko": "영국 문화장관 \"미디어 업계에 여전히 성폭력 문제 있어\"",
+      "summary_ko": "리사 낸디 영국 문화장관은 코미디언 겸 배우 러셀 브랜드가 여성 1명 강간과 3명 성폭행 혐의로 유죄 판결을 받은 뒤, 미디어 업계에 여전히 성폭력 문제가 있다고 일요일 말했다. 이번 판결로 영국 연예계가 유명인 가해 의혹을 다뤄 온 방식에 대한 비판이 다시 일고 있다.",
+      "url": "https://www.scmp.com/news/world/europe/article/3373718/media-industry-still-has-problem-sexual-abuse-uk-culture-minister-says",
+      "published": "2026-11-09T03:35:55+09:00",
+      "tags": [],
+      "event": "uk-media-sexual-abuse",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Pope Leo leaves Uruguay and heads to most fraught stop of his tour in Milei’s Argentina",
+      "title_ko": "교황 레오, 우루과이 떠나 순방 중 가장 민감한 방문지인 밀레이의 아르헨티나로",
+      "summary_ko": "교황 레오 14세는 일요일 우루과이 방문을 마치며 신앙을 다음 세대에 전해 온 여성들을 칭송했다. 교황은 몬테비데오 북쪽 플로리다시에서 가톨릭 축일을 기념한 뒤 순방 두 번째 방문지인 아르헨티나로 향했다.",
+      "url": "https://www.scmp.com/news/world/americas/article/3373717/pope-leo-leaves-uruguay-and-heads-most-fraught-stop-his-tour-mileis-argentina",
+      "published": "2026-11-09T02:53:30+09:00",
+      "tags": [],
+      "event": "pope-leo-latam-tour",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Iran executes 3 more men over January protests, judiciary says",
+      "title_ko": "이란, 1월 시위 관련 남성 3명 추가 처형 — 사법부 발표",
+      "summary_ko": "이란 당국은 2026년 1월 시위와 관련된 혐의로 남성 3명을 일요일 처형했다고 사법부가 밝혔다. 노르웨이에 본부를 둔 이란인권(IHR)은 이번 교수형으로 1월 시위 관련 처형자가 최소 39명이 됐다고 밝혔으며, 인권단체들은 재판이 불공정했다고 지적했다.",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3373716/iran-executes-3-more-men-over-january-protests-judiciary-says",
+      "published": "2026-11-09T02:06:47+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "iran-protest-executions",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Tens of thousands of Dutch protesters take to Amsterdam streets to support Palestinians",
+      "title_ko": "암스테르담서 수만 명, 팔레스타인 지지 시위",
+      "summary_ko": "일요일 암스테르담에서 붉은 옷을 입은 수만 명이 가자지구 팔레스타인인에 대한 폭력을 규탄하며 '집단학살 중단' 피켓을 들고 행진했다. 주최 측은 약 2만 명이 참가했다며 네덜란드 정부에 이스라엘에 대한 조치를 요구했다.",
+      "url": "https://www.scmp.com/news/world/europe/article/3373715/tens-thousands-dutch-protesters-take-amsterdam-streets-support-palestinians",
+      "published": "2026-11-09T01:35:44+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "amsterdam-palestine-protest",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Will China’s slow and steady moon landing plan be a safer bet than the US’?",
+      "title_ko": "느리지만 착실한 중국의 달 착륙 계획, 미국보다 안전한 선택일까",
+      "summary_ko": "미국의 한 우주정책 분석가는 중국의 유인 달 착륙 전 '전면 리허설' 계획이 일정상 부담은 크지만 상용 착륙선에 의존하는 NASA의 저비용 방식보다 안전하다고 평가했다. 왕샹 중국 유인우주프로그램 부총설계사는 10월 31일 베이징에서 우주인 파견 전 단계를 설명했다.",
+      "url": "https://www.scmp.com/news/china/science/article/3373711/will-chinas-slow-and-steady-moon-landing-plan-be-safer-bet-us",
+      "published": "2026-11-09T00:00:25+09:00",
+      "tags": [
+        "industry",
+        "geopolitics"
+      ],
+      "event": "china-us-moon-landing-plans",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Train collision in Egypt kills 7, injures 112",
+      "title_ko": "이집트 열차 충돌로 7명 사망·112명 부상",
+      "summary_ko": "일요일 이집트 수도 남쪽에서 두 열차가 충돌해 여러 객차가 탈선하고 7명이 숨졌으며 100명 넘게 다쳤다. 기자발 파이윰행 열차가 카이로발 아스완행 열차 후미를 들이받았고, 보건부는 부상자가 112명이라고 밝혔다.",
+      "url": "https://www.scmp.com/news/world/africa/article/3373713/train-collision-egypt-kills-4-injures-88",
+      "published": "2026-11-08T23:56:42+09:00",
+      "tags": [],
+      "event": "egypt-train-collision",
+      "state_media": false
+    },
+    {
+      "source": "China Daily",
+      "title_original": "文旅体商加速融合释放消费潜力——中国经济三季报亮点解析- 中国日报网",
+      "title_ko": "문화·관광·스포츠·상업 융합 가속으로 소비 잠재력 방출 — 중국 경제 3분기 성적 하이라이트 분석",
+      "summary_ko": "중국 경제 3분기 성적 가운데 문화·관광·스포츠·상업의 융합이 소비 잠재력을 끌어내고 있다는 분석 기사.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONmM4UHVYS2NmM0Z3R2pNQWVnckpSa1NYckprOUNFa0ZjdTZ2VmVlMTM1WTlEV1U2dGhQLTdQZ1VTenN3VjdSNmU0ZUhmZHhObVJGeEQxWGNTMWI3YjN2X1dUOWt1VVdsV3B1MlhfVWJpajRXeFlNRG55cHJWNlNCaA?oc=5",
+      "published": "2026-11-08T22:45:07+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "cn-q3-economy-consumption",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "听，进博九年答卷｜赴约，老朋友历“九”弥新- 中国日报网",
+      "title_ko": "들어보라, 수입박람회 9년의 답안｜약속을 지키러 온 오랜 친구들, '9'년을 지나도 새롭다",
+      "summary_ko": "9회째를 맞은 수입박람회에 참가해 온 오랜 참가자들을 조명한 기사.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uOUJrSXhYSG1XUU5LbkNwUEItblZYekY3VjN2NVV3ODI0OUpScXlXdnNUc09XYnZsaHpVTlFoenRpN2pUczMydHhOcl96cFBzckhxMFhmX2loOXg2OW1OdklVRlNRMmp1UnZNeGFkbXE3RHFTMHdNclNqbnlzQzQ?oc=5",
+      "published": "2026-11-08T22:40:36+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "ciie-2026",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "【讲习所·中国与世界】习近平：携手构建新时代中加命运共同体- 中国日报网",
+      "title_ko": "【강습소·중국과 세계】시진핑: 신시대 중국-캐나다 운명공동체 함께 구축",
+      "summary_ko": "시진핑 주석의 '신시대 중국-캐나다 운명공동체 공동 구축' 발언을 다룬 해설 기사.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM0dxbEhsRzdPbUNsa3gtWGxONHdGeWg3OC1tc241SWNuNXdiNDl5VUE4QjMzTlJlQmxmQnBkdWdkWTU3bnlLV0VNMnh4OFliMXRqcDBQdENFS2N3bkNEVzZ3S2xabVplQXNFQ09IUnJSNUlkUlJteTcxdml5MGx3Uw?oc=5",
+      "published": "2026-11-08T22:19:56+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "xi-china-canada-community",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "学习·知行丨共赴“进博之约” 共享中国机遇- 中国日报网",
+      "title_ko": "학습·지행｜'수입박람회의 약속'에 함께 가서 중국의 기회를 공유하다",
+      "summary_ko": "수입박람회 참가를 통해 중국의 기회를 공유하자는 내용의 기사.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZTU0MG50M19XUDE4WFAyYjV0X2lJMTVkckpHS21PWUduaUFRTXpNN2VTcDJmMkJWZ2JVcWE5Q2ZtSmxNQjhRS0JicTF5ZHVMOVpnWWxvaGJwUVVic2szVTFLdW1PZ2lsWF9fTXFyS1laQm1kODk4cnY3XzhFNTExSg?oc=5",
+      "published": "2026-11-08T22:18:46+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "ciie-2026",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "时政微观察丨“信赖” 二字，重千钧- 中国日报网",
+      "title_ko": "시정 미시 관찰｜'신뢰' 두 글자의 무게",
+      "summary_ko": "'신뢰'라는 두 글자의 무게를 주제로 한 시정(時政) 해설 기사.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UcGwtMnJ3SmF4NGJETUVVc1FvUFhmclNrLUxqUlQyOHZSVEY5ODdVUlhwUUZaTU1CTC1kN2JmbV9mWmxaOG83ZU5va3lwWl82c05MNVV3cEIyY1l4b1BlMi1fclJwQWpGT0c0XzZKSmFmMFR4QVNrc19DM2pNcE0?oc=5",
+      "published": "2026-11-08T22:17:08+09:00",
+      "tags": [],
+      "event": "cn-politics-trust-commentary",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "斯里兰卡前海军司令: 域外力量不应插手南海问题",
+      "title_ko": "스리랑카 전 해군사령관 \"역외 세력은 남중국해 문제에 개입해선 안 돼\"",
+      "summary_ko": "스리랑카 전 해군사령관이 역외 세력이 남중국해 문제에 개입해서는 안 된다고 말했다.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDSGJGdDhtYmZfYXRLc19pMHFhMlNXbmZkQzhZZ0FPZUFBbHNETUVoZnRFQWJEdExtZTZLNGVKSVpxb1kzRlRlc1BaR21qS24xbmQ5UTNrNUhuU1hGNVpsZnNhLTNYUGRvX0RyeHpEWTJ2bkV5STZJY3B6OW0?oc=5",
+      "published": "2026-11-08T22:00:21+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "south-china-sea-outside-powers",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "“资本市场辟谣平台”正式上线",
+      "title_ko": "'자본시장 루머 반박 플랫폼' 공식 출범",
+      "summary_ko": "'자본시장 루머 반박(벽요) 플랫폼'이 공식 출범했다.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtRm55QkNqN2NYYUtoNUd5bm9YdTFybl9Ra1IzWTgyNnlhV3RrQTZGTjQ3Wm54anZZRUlPR3NBTDZTRWJaUUdFU2FCeGRaaWFSSE00U0dsa29VdlEydkNJbEZvYXlhaGVLaW53U1daR0FtU0k2S3d1VWh4YlY?oc=5",
+      "published": "2026-11-08T21:12:00+09:00",
+      "tags": [
+        "stocks",
+        "legislation"
+      ],
+      "event": "cn-capital-market-rumor-platform",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "山西太原一高层建筑发生火灾 明火已基本扑灭",
+      "title_ko": "산시성 타이위안 고층 건물 화재, 불길 대체로 진화",
+      "summary_ko": "산시성 타이위안의 한 고층 건물에서 화재가 발생했으며 불길은 대체로 잡혔다.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DWURzR0o5Sy15Zkh6LV9IaWVlNGN3aXUtRlg3cHdTOEtNRE84RWQtdGRhaFA4LWVXUUFpWlRUTkVtVGhlSTN3SVpRcEpabGFDODI3RnlVRzdaclpxZEdSMnRNWDR3YmVtMXNnZXBkMmdBOHc5TUJhNS1SVHI?oc=5",
+      "published": "2026-11-08T21:04:07+09:00",
+      "tags": [],
+      "event": "taiyuan-highrise-fire",
+      "state_media": true
+    }
+  ],
+  "events": [
+    {
+      "event": "egypt-train-collision",
+      "title_ko": "이집트 기자 열차 충돌·탈선 사고(7명 사망·112명 부상)",
+      "sources": [
+        "CCTV",
+        "Xinhua",
+        "People's Daily",
+        "SCMP (홍콩)"
+      ],
+      "count": 4
+    },
+    {
+      "event": "trump-iran-strike-unlikely",
+      "title_ko": "트럼프 \"협상 진전 시 이란 재공격 극히 가능성 낮아\"",
+      "sources": [
+        "CCTV",
+        "Xinhua"
+      ],
+      "count": 2
+    },
+    {
+      "event": "ciie-2026",
+      "title_ko": "중국 국제수입박람회(진보회) 9회째",
+      "sources": [
+        "CCTV",
+        "China Daily"
+      ],
+      "count": 2
+    },
+    {
+      "event": "south-africa-local-election",
+      "title_ko": "ANC, 남아공 지방선거서 제1당 지위 유지",
+      "sources": [
+        "CCTV",
+        "Xinhua"
+      ],
+      "count": 2
+    },
+    {
+      "event": "gaza-camp-landslide",
+      "title_ko": "가자 중부 피란민 캠프서 토사 붕괴, 5명 사망",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "cn-snow-cold-response",
+      "title_ko": "강설·한파 대응해 다각적 조치로 민생 보장",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "zaporizhzhia-npp-power",
+      "title_ko": "자포리자 원전 외부 전력 공급 복구",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "hormuz-tanker-mine",
+      "title_ko": "이란 해군 \"호르무즈 해협 동부서 규정 위반 유조선이 기뢰에 닿아 화재\"",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "houthi-drone-intercepted",
+      "title_ko": "사우디 주도 연합군 대변인 \"후티 반군이 남부 지역으로 발사한 드론 요격·파괴\"",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 1
+    },
+    {
+      "event": "saudi-al-ahsa-danger-passed",
+      "title_ko": "사우디 민방위 \"알아흐사 주(州) 위험 상황 종료\"",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 1
+    },
+    {
+      "event": "mid-atlantic-quake",
+      "title_ko": "중앙 대서양 중앙해령에서 규모 5.3 지진",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 1
+    },
+    {
+      "event": "turkey-iraq-pkk-sinjar",
+      "title_ko": "튀르키예·이라크, 신자르 지역 쿠르드노동자당(PKK) 존재 종식 위한 협력 재확인",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "iraq-delegation-iran-us-message",
+      "title_ko": "사우디 매체 \"이라크 대표단, 이란 방문해 미국 측 메시지 전달\"",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "russia-strikes-ukraine-energy",
+      "title_ko": "러시아 국방부 \"우크라이나 에너지 시설과 군 관련 선박 2척 타격\"",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "israel-eisenkot-government-mandate",
+      "title_ko": "이스라엘 대통령, 아이젠코트에 새 정부 구성권 공식 부여",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "peoples-daily-database",
+      "title_ko": "인민일보 도문(圖文) 데이터베이스(1946-2026)",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "uk-remembrance-royals",
+      "title_ko": "찰스 국왕과 해리 왕자, 현충일 각각 따로 기념",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "nc-university-shooting",
+      "title_ko": "노스캐롤라이나 대학 총격 사망 사건 용의자 체포",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "uk-media-sexual-abuse",
+      "title_ko": "영국 문화장관 \"미디어 업계에 여전히 성폭력 문제 있어\"",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "pope-leo-latam-tour",
+      "title_ko": "교황 레오, 우루과이 떠나 순방 중 가장 민감한 방문지인 밀레이의 아르헨티나로",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "iran-protest-executions",
+      "title_ko": "이란, 1월 시위 관련 남성 3명 추가 처형 — 사법부 발표",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "amsterdam-palestine-protest",
+      "title_ko": "암스테르담서 수만 명, 팔레스타인 지지 시위",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "china-us-moon-landing-plans",
+      "title_ko": "느리지만 착실한 중국의 달 착륙 계획, 미국보다 안전한 선택일까",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "cn-q3-economy-consumption",
+      "title_ko": "문화·관광·스포츠·상업 융합 가속으로 소비 잠재력 방출 — 중국 경제 3분기 성적 하이라이트 분석",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "xi-china-canada-community",
+      "title_ko": "【강습소·중국과 세계】시진핑: 신시대 중국-캐나다 운명공동체 함께 구축",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "cn-politics-trust-commentary",
+      "title_ko": "시정 미시 관찰｜'신뢰' 두 글자의 무게",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "south-china-sea-outside-powers",
+      "title_ko": "스리랑카 전 해군사령관 \"역외 세력은 남중국해 문제에 개입해선 안 돼\"",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "cn-capital-market-rumor-platform",
+      "title_ko": "'자본시장 루머 반박 플랫폼' 공식 출범",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "taiyuan-highrise-fire",
+      "title_ko": "산시성 타이위안 고층 건물 화재, 불길 대체로 진화",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    }
+  ],
+  "unavailable_sources": [
+    "Global Times",
+    "Caixin"
+  ]
+}
