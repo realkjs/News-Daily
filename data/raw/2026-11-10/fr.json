@@ -1,0 +1,589 @@
+{
+  "team": "fr",
+  "team_name_ko": "프랑스팀",
+  "collected_at": "2026-11-10T06:13:27.847759+09:00",
+  "headlines": [
+    {
+      "source": "France 24",
+      "title_original": "Le ministre américain de la Défense Pete Hegseth visé par une procédure de destitution",
+      "summary_original": "Un député républicain a lancé lundi une procédure de mise en accusation du controversé ministre américain de la Défense, Pete Hegseth, fragilisé par la percée démocrate aux midterms. Elle devrait être soumise à un vote dans la semaine à la Chambre des représentants.",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20261109-%C3%A9tats-unis-ministre-d%C3%A9fense-pete-hegseth-vis%C3%A9-proc%C3%A9dure-destitution",
+      "published": "2026-11-10T05:28:53+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Gabon : le Bloc des Cinq dénonce le blocage de la réforme des partis politques",
+      "summary_original": "🇬🇦 Au Gabon, le blocage du processus de réforme des partis politiques suscite de vives tensions. Cinq mois après l’échéance du 27 juin, le ministère de l’Intérieur n’a toujours pas rendu ses conclusions sur la conformité des 104 partis politiques concernés. Face à cette situation, le Bloc des Cinq, qui regroupe cinq formations politiques, sollicite la médiation de la Communauté économique des État",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261109-gabon-le-bloc-des-cinq-d%C3%A9nonce-le-blocage-de-la-r%C3%A9forme-des-partis-politques",
+      "published": "2026-11-10T03:47:51+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "COP31 : le monde face au défi climatique",
+      "summary_original": "La COP31 s’est ouverte à Antalya, en Turquie, avec un objectif : accélérer la transition énergétique face à l’urgence climatique. Électrification, sortie des énergies fossiles, financements : quels engagements les pays sont-ils prêts à prendre ? Et comment les mettre en œuvre alors que les tensions géopolitiques pèsent sur les négociations ? Sébastien Treyer, directeur de l’IDDRI, et Audrey Racine",
+      "url": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261109-cop31-le-monde-face-au-d%C3%A9fi-climatique",
+      "published": "2026-11-10T03:44:52+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "COP31: les nations insulaires du Pacifique entre peur et espoir",
+      "summary_original": "La COP31 Climat s'est ouverte ce lundi à Antalya. Elle est co-présidée par la Turquie et l'Australie, qui a voulu s'associer aux nations insulaires du Pacifique, dont la survie est menacée par la montée des eaux. Celles-ci comptent bien jouer un rôle dans ces 2 semaines de négociations, notamment pour réclamer le financement de la transition énergétique pour les pays pauvres. Interview avec Sindra",
+      "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261109-cop31-les-nations-insulaires-du-pacifique-entre-peur-et-espoir",
+      "published": "2026-11-10T03:35:12+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Israël : avec ses sept députés, Avigdor Liberman principal obstacle à un gouvernement Eisenkot ?",
+      "summary_original": "Avec seulement sept députés, Avigdor Liberman tente à nouveau de s'imposer comme le faiseur de roi de la politique israélienne. Le chef d'Israël Beitenou, un parti ultranationaliste membre de la coalition d'opposition, refuse toute inclusion des 19 députés issus des partis arabes dans la formation du prochain gouvernement. Gadi Eisenkot, le leader de l'opposition à Benjamin Netanyahu, parviendra-t",
+      "url": "https://www.france24.com/fr/moyen-orient/20261109-israel-avigdor-liberman-principal-obstacle-gouvernement-eisenkot-netanyahu",
+      "published": "2026-11-10T03:25:37+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Scandale Nvidia : quand le renseignement chinois passe par le \"sexpionage\"",
+      "summary_original": "La révélation d’une liaison entre Jensen Huang, dirigeant de Nvidia, et une ressortissante chinoise soupçonnée de travailler pour les services de renseignement de Pékin a fait l’effet d’une bombe aux États-Unis. Elle rappelle aussi que le \"sexpionage\" est un procédé que Pékin maîtrise et utilise pour peser dans sa guerre technologique contre les États-Unis.",
+      "url": "https://www.france24.com/fr/%C3%A9co-tech/20261109-scandale-nvidia-quand-renseignement-chinois-passe-sexpionage",
+      "published": "2026-11-10T02:37:17+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Comment de fausses vidéos sont utilisées pour décrédibiliser les inondations à Gaza",
+      "summary_original": "Les 6 et 7 novembre, des inondations ont touché des camps de réfugiés dans la bande de Gaza. De nombreuses vidéos, partagées sur les réseaux sociaux montrent la détresse des habitants. Cependant, de fausses vidéos, générées par l’intelligence artificielle, viennent semer le doute et sont instrumentalisées par des comptes pro-israéliens.",
+      "url": "https://www.france24.com/fr/moyen-orient/20261109-comment-de-fausses-vid%C3%A9os-sont-utilis%C3%A9es-pour-d%C3%A9cr%C3%A9dibiliser-les-inondations-%C3%A0-gaza",
+      "published": "2026-11-10T02:30:52+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Gaza : de fortes pluies font quatre morts dans un camp de déplacés palestiniens",
+      "summary_original": "Des pluies torrentielles dans ​la bande de Gaza ont provoqué l'effondrement d'un talus de sable et de pierres sur des tentes de Palestiniens déplacés, tuant une femme et ​trois enfants. Près de 70 000 tentes de camps où vivent des déplacés ont été inondées.",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261109-gaza-de-fortes-pluies-font-quatre-morts-dans-un-camp-de-d%C3%A9plac%C3%A9s-palestiniens",
+      "published": "2026-11-10T02:23:27+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "Manifestations du 9 novembre à Paris : un parcours et un rassemblement statique imposés par la préfecture",
+      "summary_original": "Lundi soir, la préfecture de police a notamment fait savoir que le parcours déposé par le syndicat enseignant FSU était interdit, imposant comme trajet Panthéon - Place d'Italie.",
+      "url": "https://www.franceinfo.fr/economie/greve/manifestations-du-9-novembre-a-paris-un-parcours-et-un-rassemblement-statique-imposes-mardi-par-la-prefecture_8275178.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-10T06:00:47+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "\"Nous sommes devenus des cibles\" : le principal syndicat des proviseurs appelle au rassemblement vendredi 13 novembre",
+      "summary_original": "\"Nous sommes seuls\", déplore Nicolas Bonnet, secrétaire national du SNPDEN-Unsa, lundi sur franceinfo. Ce proviseur d'un lycée à Libourne (Gironde) est confronté à des \"jets de pavés, des poubelles brûlées, des tentatives d'intrusion\".",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/nous-sommes-devenus-des-cibles-le-principal-syndicat-des-proviseurs-appelle-au-rassemblement-vendredi-13-novembre_8275154.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-10T05:39:17+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "Mobilisation des lycéens et étudiants : la réunion du comité de réforme de Parcoursup s'est achevée peu avant 21 heures",
+      "summary_original": "La réception des représentants des lycéens et des étudiants par Sébastien Lecornu était suivie d'une première réunion de travail sur la réforme de la plateforme contestée, autour du Premier ministre et en présence d'élus.",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-representants-du-mouvement-recus-par-le-premier-ministre-lundi-apres-midi_8274272.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-10T05:35:32+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "Domicile d'un policier incendié à Auch : pas de lien avec sa profession à ce stade, selon le parquet",
+      "summary_original": "Le ministre de l'Intérieur avait affirmé samedi soir que \"tout laisse à penser que cet acte criminel intolérable a été commis en raison de la profession de ce policier\"",
+      "url": "https://www.franceinfo.fr/faits-divers/domicile-d-un-policier-incendie-a-auch-pas-de-lien-avec-sa-profession-a-ce-stade-selon-le-parquet_8275139.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-10T05:25:38+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "Le maire d'Evreux, dans l'Eure, a saisi le Conseil d'Etat pour contester l'annulation des deux tours de l'élection municipale",
+      "summary_original": "En cas de confirmation du jugement rendu par le tribunal administratif de Rouen, de nouvelles élections devront être organisées au plus tard début août 2027.",
+      "url": "https://www.franceinfo.fr/elections/municipales/le-maire-d-evreux-dans-l-eure-a-saisi-le-conseil-d-etat-pour-contester-l-annulation-des-deux-tours-de-l-election-municipale_8275130.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-10T05:18:38+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "La situation des nappes phréatiques en France reste \"très préoccupante\", malgré une pluviométrie \"conforme à la normale\" en octobre",
+      "summary_original": "Au 1er novembre, 64% des points d'observation des nappes restaient en dessous des normales, contre 66% un mois plus tôt, précise le Bureau de recherches géologiques et minières.",
+      "url": "https://www.franceinfo.fr/environnement/la-situation-des-nappes-phreatiques-en-france-reste-tres-preoccupante-malgre-une-pluviometrie-conforme-a-la-normale-en-octobre_8274644.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-10T05:06:28+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "Procès des parents \"de la petite martyre de l'A10\" : revivez la journée d'audience dédiée aux expertises psychologiques et psychiatriques des accusés",
+      "summary_original": "Les parents de la fillette, retrouvée morte à 4 ans le 11 août 1987, le long de l'autoroute A10, sont jugés pour \"actes de torture et de barbarie ayant entraîné la mort sans intention de la donner\" et \"complicité\". Ils encourent tous les deux la perpétuité.",
+      "url": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/direct-proces-des-parents-de-la-petite-martyre-de-l-a10-la-personnalite-des-deux-accuses-au-c-ur-du-sixieme-jour-d-audience_8274377.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-10T04:29:33+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "Le nombre d'overdoses mortelles a plus que doublé en 10 ans en France, alerte l'Office antistupéfiants",
+      "summary_original": "Les drogues de synthèse, très accessibles et en plein essor, représentent une menace supplémentaire, pointe l'Ofast dans une note consultée lundi par l'AFP.",
+      "url": "https://www.franceinfo.fr/sante/les-overdoses-ont-plus-que-double-en-10-ans-alerte-l-office-antistupefiants_8275040.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-10T04:19:32+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Grippe aviaire : un foyer \"hautement pathogène\" détecté en Seine-Maritime",
+      "summary_original": "Grippe aviaire : un foyer \"hautement pathogène\" détecté en Seine-Maritime TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObF9UdUVJOC16SXQ1czJHMm5rS0NDRzBUSTJuX1NxWnVhajl0bzZCenlYclFmby1GcS01UDVOZjRsWExscUp1Ymhuc3VaWGc5T1pxQ1hvbGNBZEh4TzdPZld4MkV4OUJSMlB6MG9jWUZrbHdza3VxMGhIbTI5bTlWTzVnMGlGaEltQ2FnRU9xQ1BKcFBCZnpMSC1FUXRfZXAyak11WF8zbnNpLVp6TWowbUdEdzh6NWF6a3dXSUg2TlEtR29VR1hj?oc=5",
+      "published": "2026-11-10T05:51:09+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Présidentielle : \"Je ne me désisterai pas, je ne disparaîtrai pas d'un coup de l'élection présidentielle, par contre Les Écologistes sont prêts à rejoindre une coalition, à nous dépasser pour quelque chose de plus grand que nous\", Marine Tondelier,...",
+      "summary_original": "Présidentielle : \"Je ne me désisterai pas, je ne disparaîtrai pas d'un coup de l'élection présidentielle, par contre Les Écologistes sont prêts à rejoindre une coalition, à nous dépasser pour quelque chose de plus grand que nous\", Marine Tondelier,... TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPa0FNbmhWeGEtbGJWSUtiSlVHRVNycjVzRWhNSmZtNXZMUkZVVEx5MDh1Y3ZDUzhvVWNrUHJnSXFHZHpCVTJlUTV5TEk1UUJCM1NnSFloQk9WdVRteGtZRWluTjF3dUNKY3RMUVhsT2JueXZZdFMzeFBrZzFzTWlCYlB1TWVTeFhpUGN4dUNIbVJYNUl4anltUV9iYThzTWVKR0k3c3JfMWZ3Vm5BZlRRWFFFSnl3bmlwT19rOFRJYk5iY3FnYndXUHNQRWdvMHZlT1RaTGswYUZiR045c2NzUHJYUWh1dUlBVC0yeHNhVWg3X1V0ZVNIekI2SktHWVJ5N3d5dXBRZlY3Ni1jMmlWVnl5d1liNXRqTW1PUVVvMGVQd3hJRjcxR3oxb0c0UTRqcUVrLTl1NElPV0JTNm1xZXdBSkdGSFNiQkNRdTVSRDQ5a1paRzd2dFBOc0xqc3lKTGlJS1pSQTBROUNUcGlEYlpOR2FSMEo4aEU1ZjJLUXpLbkJBXzBBQzJWX1NZMy0tcVY0Tjc0YU13Ui1VekIzWU5xVkI4V2p0TEVyQl9Ma3BpQQ?oc=5",
+      "published": "2026-11-10T05:35:10+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Violences dans les lycées : un proviseur blessé à la tête",
+      "summary_original": "Violences dans les lycées : un proviseur blessé à la tête TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLUlCbllhejVSNkRhc0x2bDd2Slo1dWdwVmR3Z0xUR1BDSk1HeUNuR3NFSGkwRFBMSjUyd2lQZkllTWM4RTdUUHluWlJKQmQ4aHpPUVFMYzVkcUgyQkNpcHREZWdvRXZVbUdWZk1kSThab2ktT0F5WFloaTFBaXFuR0ZDcExxT2I0dE1qNnhtVmYxSzBYX3dJSTdwSzBub2tPOWdhS3FGQ1ppWWNHSm9GRUdXcTRwR3NQM0NoWGdvSnBvWGgwUi1wc0M5WQ?oc=5",
+      "published": "2026-11-10T05:10:21+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "DIRECT VIDÉO - \"La Grande Confrontation\" : les médias sont-ils (vraiment) coupables ? Suivez notre émission spéciale sur LCI",
+      "summary_original": "DIRECT VIDÉO - \"La Grande Confrontation\" : les médias sont-ils (vraiment) coupables ? Suivez notre émission spéciale sur LCI TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOVWJaRVhCY2MtcTRJcnZ6SDUxVjR2WVpxT1ZZVWd1ejg2U1duR0s2b1F2cVM1RGd6eXdaeGFtQ1RqaHVNR1JqdWVvTW5EbGV3cFBGcnFaeC0wLTZkV2tqaThteVk1TFNrVXBMVHUweTVRbWdfMTRQeGRoY1BjeklkWnJFT1MyWDRydGhOc2VMM2J3dUQ0Vm84c2pQVkR1NXlwLTI3QTF1dmpaazRRTHRIbUtpY1Yya1BOQTNaM3Rua0JWeE01SS1wUjQyM29fT0tQeUhXRmtBSkRLM011T2IyTktxOVBJalBJcXJWWW9QaXFOYXFCVkdQY3VwVV9rUjExN3NxNGRqTGNwQ0Uwekg0M21R?oc=5",
+      "published": "2026-11-10T05:09:58+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Agression de Michel Zecler : trois policiers devant la justice",
+      "summary_original": "Agression de Michel Zecler : trois policiers devant la justice TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUzZYalQ3b1hiTHE3N2RLeTlYX0ZmSE16XzNQU1Ztd0JkbGlQQXpUb3pUVXdkMWo5anppeF9EVnh6TW96dE43MGZ5eDRLdGdBU0NFY2dUT2ZEQjYzd3hFT2ZqUW5ramRKUUdjM1RiR2dGdlZSWjRXckV0dzBRdFkycGEtMFBnanlFWlBKU0FkUTRFdXBZbHYyY29lTzRpcTVxNlM0ZXczRlFsSzBoVWg4eTdPeVJKdHNWdmp3SHdEd1R2NXRfdlJRcWxsODd5VTZYZ0E?oc=5",
+      "published": "2026-11-10T05:00:24+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "LCI Direct du lundi 9 novembre 2026",
+      "summary_original": "LCI Direct du lundi 9 novembre 2026 TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZnV4eEtQMEhxTFNRWVE3bzMzTE5kY3RWNjdjZ1Q2SU0zUE5zV3NGeTBmbUFNUVMxd3BEUXRqX1VPdTZYc21qWHpMbVJDTlBnTTVmWG9icEZZTzI4YnNxRjlMT2Y4djBsUkhiVTVvV3pqaGxtZFZndER1X3FOdWVpaGdDVVFyRDhxQmQydGgyYXRCZHhid3pORVE3SQ?oc=5",
+      "published": "2026-11-10T04:55:21+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Teddy Riner candidat à la présidentielle : cela \"ne peut qu'apporter au pays\", réagit Emmanuel Macron",
+      "summary_original": "Teddy Riner candidat à la présidentielle : cela \"ne peut qu'apporter au pays\", réagit Emmanuel Macron TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWTdROGNKVGJ0OE5fdFR0N3RFdUhWUTdsT1Z5anEtTVF5MWhlNjRvVTBlam5USGswU0Q0NEdoX2VEYnhXcGhaa1Y4aWF1b25DSjNFd2NmMXFrZlV2dS1mb1Npc20zWUc4S2hqMWhiWTVkOFVNTWtUd1VESEpxX0pBY0RTMFR1YXY2ckdmVE4xY2lVSi1McDZkckdFdXVVa0I1UThhcTFOZ1FRT0plZkI3WW15ZC05VGxwNWxDZmJ1Nzc0UUl2cHQ4WFJtdWpBZlFwRGFxcTFIdHphWk9ZeGhVRE0zMThrak9iNXpMckNWQWRYcml1T3hidDRtQQ?oc=5",
+      "published": "2026-11-10T04:06:40+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Les petites taches blanches sur les ongles sont-elles le signe d'un manque de calcium ? Ce médecin explique leurs origines",
+      "summary_original": "Les petites taches blanches sur les ongles sont-elles le signe d'un manque de calcium ? Ce médecin explique leurs origines TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVXVTWjFsUWM3cXJLVTI5S3ZoZU1zb1ZhdFZoSXJLaFVWelFrXzJtaS1KWTMxV2h3ZHg5NjAwT0MycXlEMXk0aEE5Ri14V2w5Nl94dnFTcVFzR3M2Ny1YMXNGRE5hVFlyc09OeHQ2aFRZdEQyQW9mYmk2MF9KVFVnZ2JkSE1JaHVHWHplVldVN2ZuVU9kbHBleFVOTzlrd1N4a0VZMl9teFYyVnFKbjhUVVFQUGZNMDNGNGo0S0hCZzFIeGhKS0pQMk9QeWZEY2ZtaUN4WHlYMnZ1djdpUVNLNFIyamswdDk2VlpzbnVSM2w3d2wz?oc=5",
+      "published": "2026-11-10T03:30:59+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Domicile d'un policier incendié dans le Gers: \"aucun élément\" à ce stade ne permet de faire le lien entre les faits et la profession de la victime",
+      "summary_original": "Le procureur par intérim dans le Gers a assuré que l'incendie du domicile d'un policier d'Auch samedi dernier ne permet pas à ce stade de faire le lien entre les faits et la profession de la victime. Le jour de l'incendie, le ministre de l’Intérieur avait affirmé que l'agent a été visé en raison de sa profession.",
+      "url": "https://www.bfmtv.com/police-justice/domicile-d-un-policier-incendie-dans-le-gers-aucun-element-a-ce-stade-ne-permet-de-faire-le-lien-entre-les-faits-et-la-profession-de-la-victime_AD-202611090915.html",
+      "published": "2026-11-10T06:04:08+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "\"L’élection présidentielle, ce n’est pas les Jeux olympiques\": l'ironie de François Hollande sur la candidature de Teddy Riner",
+      "summary_original": "François Hollande a réagi ce lundi à la candidature de Teddy Riner en vue de l'élection présidentielle de 2027. L'ancien chef de l'État a salué l'engagement politique du judoka mais a rappelé que leurs deux mondes n'avaient rien en commun.",
+      "url": "https://rmcsport.bfmtv.com/judo/l-election-presidentielle-ce-n-est-pas-les-jeux-olympiques-l-ironie-de-francois-hollande-sur-la-candidature-de-teddy-riner_AV-202611090910.html",
+      "published": "2026-11-10T05:43:53+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Scandale chez Nvidia: milliardaire, infidélité, soupçon d'espionnage... Le patron du géant de l'IA dans la tourmente",
+      "summary_original": "La confirmation de la liaison extraconjugale de Jensen Huang avec une femme dénommée Alice Huang secoue le secteur de l'IA. Elle est soupçonnée de s'être rapprochée de lui afin de l'espionner pour le compte de la Chine.",
+      "url": "https://www.bfmtv.com/tech/intelligence-artificielle/milliardaire-tromperie-soupcon-d-espionnage-le-patron-de-nvidia-au-c-ur-d-un-scandale-qui-fait-trembler-le-geant-de-l-ia_AV-202611090909.html",
+      "published": "2026-11-10T05:39:35+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Primaire de la droite et du centre: \"Il faut qu'elle ait lieu en janvier\", affirme Hervé Morin",
+      "summary_original": "Hervé Morin, président de la région Normandie, était l'invité de BFMTV ce lundi 9 novembre.",
+      "url": "https://www.bfmtv.com/politique/video-primaire-de-la-droite-et-du-centre-il-faut-qu-elle-ait-lieu-en-janvier-affirme-herve-morin_VN-202611090907.html",
+      "published": "2026-11-10T05:26:59+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "La France ne peut \"s'en porter complice\": Olivier Faure (PS) défend une proposition de loi pour interdire la vente de produits provenant de colonies israéliennes",
+      "summary_original": "La commission des affaires économiques débat sur l'examen de la proposition de loi pour interdire la vente de produits en France provenant de colonies israéliennes, ce lundi 9 novembre.",
+      "url": "https://www.bfmtv.com/economie/video-la-france-ne-peut-s-en-porter-complice-olivier-faure-ps-defend-une-proposition-de-loi-pour-interdire-la-vente-de-produits-provenant-de-colonies-israeliennes_VN-202611090906.html",
+      "published": "2026-11-10T05:25:39+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Smic porté à 1.502 euros dès décembre: \"Ce gouvernement donne des leçons mais ne sait communiquer à personne\", estime Alain Bauer, professeur émérite en criminologie",
+      "summary_original": "Réagissant à l'avancement de la revalorisation du SMIC au 1er décembre, le criminologue Alain Bauer critique sévèrement la méthode exécutive. Interrogé sur la perception et la pédagogie de cette mesure économique, l'analyste dénonce un manque d'efficacité dans la communication politique d'un gouvernement qu'il estime déconnecté des attentes des citoyens et des interlocuteurs sociaux.",
+      "url": "https://www.bfmtv.com/economie/video-smic-porte-a-1-502-euros-des-decembre-ce-gouvernement-donne-des-lecons-mais-ne-sait-communiquer-a-personne-estime-alain-bauer-professeur-emerite-en-criminologie_VN-202611090905.html",
+      "published": "2026-11-10T05:24:39+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Présidentielle 2027: \"Teddy Riner peut incarner des valeurs de travail, de mérite, de respectabilité énorme\", estime Pierre Gattaz, ancien président du Medef",
+      "summary_original": "L'annonce de la candidature de Teddy Riner à la présidentielle 2027 continue de faire réagir le monde économique. Interrogé sur cet engagement, l'ancien président du Medef Pierre Gattaz a salué la démarche du champion olympique, estimant qu'il portait des valeurs fortes d'effort et d'exemplarité qui dépassent le simple cadre sportif pour nourrir le débat public.",
+      "url": "https://www.bfmtv.com/politique/video-presidentielle-2027-teddy-riner-peut-incarner-des-valeurs-de-travail-de-merite-de-respectabilite-enorme-estime-pierre-gattaz-ancien-president-du-medef_VN-202611090886.html",
+      "published": "2026-11-10T04:59:09+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "\"S'il s'engage, c'est pour gagner\", le président de France Judo applaudit la candidature de Teddy Riner à la présidentielle",
+      "summary_original": "Teddy Riner a dévoilé ce lundi sa candidature à la présidence de la République. Du fait de l’aura et du palmarès du quintuple champion olympique, l’annonce a évidemment fait beaucoup réagir. Stéphane Nomis, président de la Fédération française de judo, a accepté de commenter la nouvelle pour RMC Sport.",
+      "url": "https://rmcsport.bfmtv.com/judo/s-il-s-engage-c-est-pour-gagner-le-president-de-france-judo-applaudit-la-candidature-de-teddy-riner-a-la-presidentielle_AV-202611090882.html",
+      "published": "2026-11-10T04:49:12+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "« Je suis un simple exécutant » : les explications chaotiques du « boucher » au procès du triple narchomicide de 2020",
+      "summary_original": "S’il reconnaît avoir démembré une des victimes, Malik Kariba, l’un des cinq coaccusés au procès du triple homicide de décembre 2020, lié au trafic de drogue, assure avoir agi sur ordre, « terrifié ».",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/09/je-suis-un-simple-executant-les-explications-chaotiques-du-boucher-au-proces-du-triple-narchomicide-de-2020_6808700_3224.html",
+      "published": "2026-11-10T05:33:47+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Pete Hegseth, secrétaire à la défense de Donald Trump, visé par une procédure de destitution déclenchée par un élu républicain",
+      "summary_original": "L’impeachment a été lancé par Thomas Massie, qui dénonce la guerre en Iran et la manière dont ce membre du cabinet de Donald Trump l’a menée.",
+      "url": "https://www.lemonde.fr/international/article/2026/11/09/pete-hegseth-secretaire-a-la-defense-de-donald-trump-vise-par-une-procedure-de-destitution-declenchee-par-un-elu-republicain_6808699_3210.html",
+      "published": "2026-11-10T05:33:13+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Solange Alexandre, ancienne résistante et cheffe de maquis, est morte à l’âge de 104 ans",
+      "summary_original": "Sous le nom de code « Corlay », elle avait été agente de liaison et espionne avant de créer en 1944 le maquis « Pas-de-Bœuf » à Ruillé-sur-Loir. Elle avait terminé la guerre avec le grade de lieutenante des Forces françaises de l’intérieur.",
+      "url": "https://www.lemonde.fr/disparitions/article/2026/11/09/solange-alexandre-ancienne-resistante-et-cheffe-de-maquis-est-morte-a-l-age-de-104-ans_6808698_3382.html",
+      "published": "2026-11-10T04:56:55+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "EN DIRECT, mobilisation lycéenne : les discussions avec Sébastien Lecornu tournent court, une grande partie des organisations lycéennes et étudiantes ont quitté Matignon",
+      "summary_original": "Parmi les organisations de jeunesse, seuls Renouveau lycéen, l’Union nationale interuniversitaire et quelques élus du Conseil national de la vie lycéenne ont choisi de rester dans une réunion à laquelle participait le premier ministre, selon un participant auprès de l’Agence France-Presse.",
+      "url": "https://www.lemonde.fr/politique/live/2026/11/09/en-direct-mobilisation-lyceenne-au-lendemain-des-discussions-avec-sebastien-lecornu-lyceens-et-etudiants-sont-appeles-a-manifester-mardi_6808627_823448.html",
+      "published": "2026-11-10T04:29:54+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Les pays nordiques freinent le déploiement des data centers",
+      "summary_original": "Face à l’envol de la consommation d’électricité causé par les centres de données, la Norvège a annoncé, lundi 9 novembre, dans la foulée du Danemark et de la Finlande, des restrictions pour limiter l’implantation de ces immenses infrastructures.",
+      "url": "https://www.lemonde.fr/international/article/2026/11/09/les-pays-nordiques-freinent-le-deploiement-des-data-centers_6808695_3210.html",
+      "published": "2026-11-10T03:52:11+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Lise Boëll, PDG de Fayard, nommée directrice générale déléguée chez Grasset",
+      "summary_original": "Sept mois après le limogeage d’Olivier Nora, Lise Boëll cumulera ses fonctions avec celles de PDG de Fayard, qui édite notamment Jordan Bardella, Nicolas Sarkozy, Philippe de Villiers et Sarah Knafo.",
+      "url": "https://www.lemonde.fr/livres/article/2026/11/09/lise-boell-pdg-de-fayard-nommee-directrice-generale-deleguee-chez-grasset_6808693_3260.html",
+      "published": "2026-11-10T03:40:39+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Quand les citoyens s’associent à la recherche en santé, des protocoles aux résultats : « Ça me plaît de pouvoir participer à quelque chose autour d’Alzheimer»",
+      "summary_original": "La recherche participative, qui consiste à inclure les citoyens dans les projets scientifiques, connaît un essor dans le domaine de la santé. Ouvrant de nouvelles perspectives aux chercheurs, elle répond aussi à des enjeux de démocratie sanitaire.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/11/09/quand-les-citoyens-s-associent-a-la-recherche-en-sante-des-protocoles-aux-resultats-ca-me-plait-de-pouvoir-participer-a-quelque-chose-autour-d-alzheimer_6808692_1650684.html",
+      "published": "2026-11-10T03:30:05+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Grèce : les traversées de migrants depuis la Libye vers la Crète toujours plus nombreuses et périlleuses",
+      "summary_original": "Au moins vingt-deux migrants partis de Libye sont morts après leur traversée pour rejoindre la Crète entre le 8 et le 9 novembre. Face à cette hausse des arrivées sur l’île, Athènes dénonce le manque de coopération des autorités libyennes et dit se préparer à une « crise ».",
+      "url": "https://www.lemonde.fr/international/article/2026/11/09/grece-les-traversees-de-migrants-depuis-la-libye-vers-la-crete-toujours-plus-nombreuses-et-perilleuses_6808689_3210.html",
+      "published": "2026-11-10T03:20:17+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "Incapable de suivre la cadence de production, Boeing réduit ses effectifs",
+      "summary_original": "Incapable de suivre la cadence de production, Boeing réduit ses effectifs Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNU5QLTNfTi1lSnQyUmNDMWI0SVUyV0VNV0JSby1ZRWdaanVJbkc1dS1pNWpTZS0xV1R5VDFjYldOQ2JaNnA4Z29vQnpRV1EwUGd0cmIzeU93ZFNfUXBIMkxsQll4TkZVZ1lJQmNZSGV1ellRY21KU2w5UzBNcmU4RjRUWG1LODlGdGtJLVJJa2pwVjB4S2Z2clVQOW04bjdQMzl0MTRTUl9kS3hZY3pSclV4MVZpYkJMQTBER0R3aFl1NGMyRThMbnVxdHd0MTNq?oc=5",
+      "published": "2026-11-10T06:10:54+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "La directrice des Editions Fayard nommée à la tête de Grasset",
+      "summary_original": "La directrice des Editions Fayard nommée à la tête de Grasset Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHZOdFlTZEFkZ3pXMmVjVlhGX0YxbWFjaWc5aUxvMmptLVBLLWxNbDBuWVVWbFhKMmlYcTFjejhiS2RrSTgycFUzVHZtejZWYzljTVhQeTktWlJpSzlCYnRROEdLSGVfY1l1X3NRWVBDWGJZbHcwc0I0bkV1YlpxWURNaWc5UDV3dG14OTRrN1hGZ2w0UGpNcm52bGdwQ2J3NHJjUFlMdF9JSVFZZEFnWkl3?oc=5",
+      "published": "2026-11-10T05:20:43+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "Emmanuel Macron : « S'il y a un risque pour les enfants avec certains usages de l'IA, alors il faut l'interdire",
+      "summary_original": "Emmanuel Macron : « S'il y a un risque pour les enfants avec certains usages de l'IA, alors il faut l'interdire Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMFJCeXB4ZWRtcnBiZDRubTUtcGl5LUNkR0NSY0hfbTZ3UDVoS0QwaldsdWpfSF9zcmFkUHcyalFkRnprWjNfbkE5RUlSdTgyZEVfdmFzc3pFSUc2RWtpUFFBaS1ENHczTjE1RlIxNFZKcENwYVQzbWZjZk9fUV93Y2pXQnpEb0ZIWDRrYU1UU1FacjI1My1vNmRJd1JfUS1GeDdnUm1veVR2MTN1NkNRUGFwaEpIbnh2OEQzVVBlMDFQNVNzQ3RpRjY2X3lMeFYxNjBYZVhuQkZPcXZXYVhOY1JER2RBbmJHQzlMdVhpRmV2LVU0QjhXNF9nSXlYMmdjdy1F?oc=5",
+      "published": "2026-11-10T04:00:35+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "Crédit Agricole, une proposition bien ciselée en Italie",
+      "summary_original": "Crédit Agricole, une proposition bien ciselée en Italie Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTDV1VFFuUmhoa1BWQjRSbE4zeV8tVWpJdFF0b2NxeFhxM2M2UXhFV2F5RkU3RENQbVRTeVJNWjdZT21oQ2M4dGYtc1VGY0RDUHBoOGZSQlk2b2lsTDB0SXF6SG5MMjFaRG92Mm9fV0t5YTVKZWpKY3NJNEtob0E2QXI2dFVCd3NUQ3hSVk5HaVp0bmgzcGpQaDRZY1JmWG85eXIzZUV3dGxhNGRuMjctbk9UOEFURWd1WkE5M3dHcDg?oc=5",
+      "published": "2026-11-10T03:45:39+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "Avec le Forum de Paris sur la paix, la France veut se replacer au coeur des discussions mondiales sur l'IA",
+      "summary_original": "Avec le Forum de Paris sur la paix, la France veut se replacer au coeur des discussions mondiales sur l'IA Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPal80ZlFpQjlTeERtU3J2M0dZQWsyMGtMVHAzMkliUllBeDBOQkNvaGU1cV9NOWlFZHVEUGY1LTNNLW05N3g1S3pjRVBGOUt5MEN3eUJEUVRmUFAtam1xVW9jbFhOUHVHN1A1dFpLZFYxb0c2b0xaTXhMZmFiMjMxU1NwaldnY2F3alIzblNkSUZpV2FUUFhCM0lBaS1wS3hTa0puTmlMWi1tTWtIdWIyV0ZiMmk5LVF4WXVtMWpEZVBEeHVXN0dadG9ta1BxeUVETWVxMWF2Yms2MHVGcXphQW1zSUVKU1VjTmxfU0V4RzRXWnRJbWdURThtYzhOQmYwN1VyMw?oc=5",
+      "published": "2026-11-10T03:35:54+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "« Crédit Agricole a attendu que le fruit tombe de l'arbre » : comment la banque a avancé ses pions en Italie",
+      "summary_original": "« Crédit Agricole a attendu que le fruit tombe de l'arbre » : comment la banque a avancé ses pions en Italie Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPV1VqU3hOQ1Jvd2x4cjVDeDlKUmNuRjVaRDVMbDNrc056elpBRVpGSTBtQ2lUVl9aMXdrMVFEamkyd25BUnpSNFlWSjBfOHVqeEM1aFRJWnhvcUVnUlZRbzcxWnFHeUQ3eXR5YjVLV05hbVZwZ1pfX3Y0UWlsb3Rqc3l6RUc2c2w4YWV5ZEZwT01uUWU0eGg1V1VoR3NVUkZ1eUlHelp6c3lSVm9PVm1MVkJZQndsRlVYejNWYk95NHlFR1M1TmdsUlJGc29XQ3hrd2FTeVFIcml5SFJYblo4NUo0eEFDTEEyb2RRbjVyLXVQb0dadWtsakhhTQ?oc=5",
+      "published": "2026-11-10T03:21:49+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "SMIC, heures supplémentaires… Ce qui doit changer pour les salariés",
+      "summary_original": "SMIC, heures supplémentaires… Ce qui doit changer pour les salariés Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQjNPcG52RXhNQVJZLUhKNFZQTFJsQVp4VHplWnVpMC0xRTFWdGdSVjU3WHJLOGpheWp6cHA0Uno3QzhnVWtYaU8yX0FORHVnQ2JFVUNRUGxGVGQ3bFRsZEdtQ2FtRnZ5MlM2eXRUclRYVmFYVkpOMV9hSlBUeWtqcjZ3WUg2QVNwYUJRZ3B0cXd0VmZDV0hUZUZZLU10TlFGVEFib3pMNXJsTWlZTXRDWjVPdHREZ1hZNENHcw?oc=5",
+      "published": "2026-11-10T03:13:30+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "Présidentielle 2027 : la candidature de Teddy Riner ajoute un peu plus de confusion au sein de la droite et du centre",
+      "summary_original": "Présidentielle 2027 : la candidature de Teddy Riner ajoute un peu plus de confusion au sein de la droite et du centre Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNUpEcUFYVEFQOHo1N1FDVzRrRzF3SERTX09WMDJQNTJBVTRiTnZEZVEzM25mbDlZVXpSWlBBWXAzSzNINS1BNEdYcXBBWHg4YUltX1p1dmNhbVdLZUF2ZWFtcjdnUnAwS1huaXRraVZfZklxYVRQQmNWMGVPbzh2VUpfcnQxdVA1d3Y2VC1nQXFVUFRJTmxBZ19NbkxaYmhYYTctQVRCX3JONWJNckYxaDVZUjFxcllTYS1ZNEJPQjl0Y1ExZU15cC1sbENuSGlwNVBFYmwtbGhUdFVGUnptTDhqeXdINmtzT0VjLVloZlFWX3Jlcll5WWZR?oc=5",
+      "published": "2026-11-10T03:04:27+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Au procès de l’affaire Zecler, trois policiers aux profils déroutants",
+      "summary_original": "Accusés d’avoir sauvagement tabassé un producteur de rap puis d’avoir rédigé un procès-verbal truqué, ils n’ont pas un profil de brutes. Comment comprendre leur déchaînement de violence ?",
+      "url": "https://www.lefigaro.fr/actualite-france/au-proces-de-l-affaire-zecler-trois-policiers-aux-profils-deroutants-20261109",
+      "published": "2026-11-10T06:13:39+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Emmanuel Macron estime qu'il faut «interdire» l'IA où il y a un «risque» pour les enfants",
+      "summary_original": "Un comité d’experts doit remettre au président de la République mardi des recommandations sur la protection face à l’IA, un champ moins exploré à ce stade que celui de l’impact des réseaux sociaux.",
+      "url": "https://www.lefigaro.fr/flash-actu/emmanuel-macron-estime-qu-il-faut-interdire-l-ia-ou-il-y-a-un-risque-pour-les-enfants-20261109",
+      "published": "2026-11-10T06:02:11+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "«Dubaï Papers» : la «radicalisation» d'un prince belge fiscaliste",
+      "summary_original": "Dans un rare procès sur les coulisses de l’industrie de la fraude fiscale internationale, treize personnes sont jugées pendant un mois à Paris pour avoir animé entre 2007 et 2018 ce que le parquet considère comme une «officine de fraude fiscale et de blanchiment à grande échelle».",
+      "url": "https://www.lefigaro.fr/flash-actu/dubai-papers-la-radicalisation-d-un-prince-belge-fiscaliste-20261109",
+      "published": "2026-11-10T05:57:38+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Décès à 104 ans de la résistante française Solange Alexandre",
+      "summary_original": "Solange Alexandre, décédée dimanche, avait été cheffe de maquis en Touraine à la tête d’une trentaine d’hommes - des réfractaires du STO, des rescapés d’un autre maquis décimé, des évadés du mur de l’Atlantique, un Américain et un Canadien ayant échappé aux Allemands…",
+      "url": "https://www.lefigaro.fr/actualite-france/deces-a-104-ans-de-la-resistante-francaise-solange-alexandre-20261109",
+      "published": "2026-11-10T05:49:14+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Candidature de Teddy Riner à la présidentielle : les Guadeloupéens entre incrédulité et enthousiasme",
+      "summary_original": "Du côté de la jeunesse, les réactions sont plus mitigées, critiquant notamment un investissement peu visible en Guadeloupe et des positions politiques jugées insuffisantes.",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/candidature-de-teddy-riner-a-la-presidentielle-pourquoi-pas-disent-les-guadeloupeens-20261109",
+      "published": "2026-11-10T05:38:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "États-Unis : le ministre américain de la Défense Pete Hegseth visé par une procédure de destitution",
+      "summary_original": "Le député Thomas Massie, fréquent critique du président républicain, a annoncé depuis l’hémicycle lancer cette procédure d’«impeachment».",
+      "url": "https://www.lefigaro.fr/international/etats-unis-le-ministre-americain-de-la-defense-pete-hegseth-vise-par-une-procedure-de-destitution-20261109",
+      "published": "2026-11-10T05:22:32+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "« On a prié pour que la paix arrive enfin… » : après le cessez-le-feu, la reprise des combats à Kherson",
+      "summary_original": "RÉCIT - Après près de six jours de trêve, la Russie a repris des attaques de drones sur Kherson, depuis ses positions renforcées à Olechky, sur la rive opposée du Dniepr.",
+      "url": "https://www.lefigaro.fr/international/on-a-prie-pour-que-la-paix-arrive-enfin-apres-le-cessez-le-feu-la-reprise-des-combats-a-kherson-20261109",
+      "published": "2026-11-10T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Plongée dans les opérations secrètes de Shahid Kaveh, l’armée de l’ombre iranienne suspectée d’avoir saboté les frigos de supermarchés français",
+      "summary_original": "DÉCRYPTAGE - Aussi connus sous le nom de «CyberAv3ngers» et de «Intelligence Team 13», ces hackeurs iraniens, liés au régime de Téhéran, sont considérés par nombre d’observateurs comme l’«une des unités les plus agressives» des Gardiens de la Révolution islamique.",
+      "url": "https://www.lefigaro.fr/secteur/high-tech/plongee-dans-les-operations-secretes-de-shahid-kaveh-l-armee-de-l-ombre-iranienne-suspectee-d-avoir-sabote-les-frigos-de-supermarches-francais-20261109",
+      "published": "2026-11-10T04:42:04+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "Procès de Kevin Escoffier : deux ans de prison avec sursis requis contre le navigateur pour agressions sexuelles",
+      "summary_original": "Alors que le skippeur de 46 ans est poursuivi pour des attouchements sur quatre femmes, la procureure n’a demandé des condamnations que pour les agressions de deux d’entre elles.",
+      "url": "https://www.liberation.fr/societe/police-justice/proces-de-kevin-escoffier-deux-ans-de-prison-avec-sursis-requis-contre-le-navigateur-pour-agressions-sexuelles-20261109_VN2HYKNLAJDHVAWK5RTHYVPE2U/",
+      "published": "2026-11-10T06:00:08+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "Etats-Unis : le ministre de la Défense visé par une procédure de destitution lancée au Congrès par un élu républicain",
+      "summary_original": "Déposée ce lundi 9 novembre par Thomas Massie, la résolution visant Pete Hegseth pourrait être adoptée dans la semaine par la Chambre, où des élus de son camp lui sont hostiles. Sa destitution par le Sénat, à la majorité des deux tiers, reste improbable.",
+      "url": "https://www.liberation.fr/international/amerique/etats-unis-le-ministre-de-la-defense-vise-par-une-procedure-de-destitution-lancee-au-congres-par-un-elu-republicain-20261109_4Z6ELZJHVVCI7JAZBPMZBEGEXE/",
+      "published": "2026-11-10T05:50:06+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "Mobilisation : le parcours de la manifestation parisienne ce mardi imposé par la préfecture, du Panthéon à la place d’Italie",
+      "summary_original": "Sous pression, l’exécutif a proposé ce lundi une hausse du salaire minimum de 23,65 euros par mois pour répondre à la colère sociale exprimée depuis plusieurs semaines, sans convaincre les syndicats. Dans la soirée s’est aussi tenu une réunion de Sébastien Lecornu avec les représentants des lycéens et des étudiants.",
+      "url": "https://www.liberation.fr/economie/social/en-direct-mobilisation-sociale-la-hausse-du-smic-au-menu-de-la-conference-sociale-a-partir-de-9-h-30-20261109_GADMITB3HFBF7B4FVZXIE7INGU/",
+      "published": "2026-11-10T05:43:34+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "Domicile d’un policier incendié dans le Gers : Nuñez affirme qu’il a été visé «en raison de sa profession», le parquet réfute «à ce stade»",
+      "summary_original": "La maison d’un homme a été incendiée samedi matin à Auch. Le procureur du Gers a réagi ce lundi 9 novembre en affirmant n’avoir «absolument aucun élément» reliant l’incendie à l’activité du policier, contredisant les propos du ministre de l’Intérieur.",
+      "url": "https://www.liberation.fr/societe/police-justice/gers-laurent-nunez-soffusque-de-lincendie-criminel-du-domicile-dun-policier-20261108_V5OQHPUZHRDK3LSA5VTHKO5NQE/",
+      "published": "2026-11-10T05:41:27+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "Les principaux syndicats lycéens claquent la porte de la première réunion sur Parcoursup : «La forme change, pas le fond»",
+      "summary_original": "Les organisations de jeunesse ont rencontré le Premier ministre ce lundi puis ont participé à la première réunion consacrée à l’avenir de Parcoursup. Elle a pris fin après quelques minutes, les syndicats dénonçant la présence de membres du RN et du Medef.",
+      "url": "https://www.liberation.fr/societe/education/les-principaux-syndicats-lyceens-claquent-la-porte-de-la-premiere-reunion-sur-parcoursup-la-forme-change-pas-le-fond-20261109_LQE5IP5MRRAC7DBOM24S7AH7LA/",
+      "published": "2026-11-10T05:29:37+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "Au procès de l’agression de Michel Zecler : «Je ne peux pas être raciste, car sinon je n’aurais pas pu être policier»",
+      "summary_original": "Lors de l’étude des personnalités des mis en cause, ce lundi 9 novembre, la circonstance aggravante de racisme, pourtant non retenue lors de l’instruction, s’est placée au cœur des débats.",
+      "url": "https://www.liberation.fr/societe/police-justice/au-proces-de-lagression-de-michel-zecler-je-ne-peux-pas-etre-raciste-car-sinon-je-naurais-pas-pu-etre-policier-20261109_LP3GMSNVJFGJDFI6VA2Z2LTL5M/",
+      "published": "2026-11-10T05:15:54+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "Hiérarchie du vivant : «Le regard que l’on porte sur les animaux est en constante évolution»",
+      "summary_original": "Notre perception du règne animal n’est pas figée, rappelle l’historien Nicolas Baron. Une création culturelle ou une crise peut rapidement faire basculer un animal d’utile à nuisible, et inversement.",
+      "url": "https://www.liberation.fr/environnement/animaux/hierarchie-du-vivant-le-regard-que-lon-porte-sur-les-animaux-est-en-constante-evolution-20261109_MYHXWZCRRJGKDHA47FAQ53MGUA/",
+      "published": "2026-11-10T05:04:19+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "De l’orang-outang chouchouté au cloporte méprisé, les animaux aussi connaissent la lutte des classes",
+      "summary_original": "Adorés et protégés ou opprimés et pourchassés, les animaux sont loin d’être égaux. De nos affinités culturelles à leur utilité supposée, cette hiérarchie très humaine pèse jusque dans la sauvegarde de la biodiversité.",
+      "url": "https://www.liberation.fr/environnement/animaux/de-lorang-outang-chouchoute-au-cloporte-meprise-les-animaux-aussi-connaissent-la-lutte-des-classes-20261109_6GMWWYZM5RA2ZCGEMRDCGVHKWY/",
+      "published": "2026-11-10T05:02:05+09:00",
+      "via": "rss",
+      "state_media": false
+    }
+  ],
+  "unavailable_sources": [],
+  "errors": {
+    "Les Echos": [
+      "rss 실패: HTTPError: HTTP Error 503: Backend fetch failed"
+    ]
+  }
+}
