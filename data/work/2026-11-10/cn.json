@@ -1,0 +1,850 @@
+{
+  "team": "cn",
+  "headlines": [
+    {
+      "source": "CCTV",
+      "title_original": "各地拓展新场景、新业态 持续激发消费活力",
+      "title_ko": "각지, 새로운 소비 장면·업태 확대해 소비 활력 지속 자극",
+      "summary_ko": "각지에서 새로운 소비 장면과 업태를 확대해 소비 활력을 계속 끌어올리고 있다고 CCTV가 보도했다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54MzVaM1FqVzlaUjQ3anpJN25yekozdktTTHZxRDR1T1pmY0RkT3Vya1ZFUEVJQWJobHVkN3BxT2Q2Y0Z4YTlCYnQzTzROWE9iWWxrUmFDcVJDQTRLNGlvQUNiV19qMmllWGVpbUFiTDBjMWplWEdzQg?oc=5",
+      "published": "2026-11-10T04:54:54+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "cn-consumption-new-scenarios",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "逾期未处理，600多条拖欠中小企业账款线索被公示",
+      "title_ko": "기한 내 미처리된 중소기업 대금 체불 단서 600여 건 공개",
+      "summary_ko": "기한 내 처리되지 않은 중소기업 대금 체불 관련 단서 600여 건이 공개됐다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wd3o3TkY1ZXJoalNkbkRjSThaT29PbHJvNGJUZWZScDI3OXpyaEJfQnJXNlVvVGFQVUxDSk9IY3VCd1dIWWNBdk4xaWZaMGJnajFOWHpoM0VHSm9mZjZfS01DNllVSE5NYktocXRyNURmeXhURVVDQg?oc=5",
+      "published": "2026-11-10T03:37:01+09:00",
+      "tags": [
+        "business",
+        "legislation"
+      ],
+      "event": "cn-sme-payment-arrears-disclosure",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "遇到火灾 这些逃生误区需避免",
+      "title_ko": "화재 발생 시 피해야 할 대피 오해들",
+      "summary_ko": "화재를 만났을 때 피해야 할 대피 관련 잘못된 상식을 소개했다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91T3duV0NKTWgwUklyWk9NQ20xY3pxTWEwSGZHeUtHczJCUzJqNWlJeS1uLWhOSksyc1FCSERXeC03LXdwbXN5SjNfRExsbW0zNmxDakhUblZlc0ZuZGR4SHBrNHZQMG5TdzVtWG1pQ1pnaHQxYS1zVQ?oc=5",
+      "published": "2026-11-10T03:19:51+09:00",
+      "tags": [],
+      "event": "fire-escape-tips",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "美国白宫附近发生两起安全事件 两人被捕",
+      "title_ko": "미국 백악관 인근서 보안 사건 2건 발생, 2명 체포",
+      "summary_ko": "미국 백악관 인근에서 두 건의 보안 사건이 발생해 2명이 체포됐다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00QUV5VXpvSmdfbXREam4zTmlCT3g5d1FZajZ0VzVveGpaT0hIVXFvRnprSEF5VWhVb3daajRjX0NLTjVWSmxqN0dzRmtiLWFPdnIxUGY0VmJORmN2b3Nwck9EVVluYzh2TGlRS2pQcExURjFHa2IzRg?oc=5",
+      "published": "2026-11-10T03:05:33+09:00",
+      "tags": [],
+      "event": "white-house-security-incidents",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "以军在约旦河西岸抓捕10名杰哈德组织成员",
+      "title_ko": "이스라엘군, 요르단강 서안에서 이슬라믹 지하드 조직원 10명 체포",
+      "summary_ko": "이스라엘군이 요르단강 서안에서 이슬라믹 지하드 조직원 10명을 체포했다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MNW5fVGdUc1otWXRYNm94YXUtTUZORFkxaEVNUkxzb2JYd241X3l3WkxRUmZwcGxkWjZnUjZpYzdhZVlDSEFKaXNGYy1QRTFhdG8xcUpzbkhRYmJ3SG9OZnJvSE9XNWV0S3E4Y3hZM0NjMzRaVWVNSA?oc=5",
+      "published": "2026-11-10T03:03:37+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "israel-west-bank-arrests",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "法国就网络攻击事件召见伊朗大使 警告将实施制裁",
+      "title_ko": "프랑스, 사이버 공격 관련 이란 대사 초치…제재 경고",
+      "summary_ko": "프랑스가 사이버 공격 사건과 관련해 이란 대사를 초치하고 제재를 실시하겠다고 경고했다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94MERpVFE2aTNrZG9XeEs1MlZZSEZiMWpxYi12QzVTa1dPa3RrM3FwUm5kazdSQ09oMjkxa2pIYUxUTm5peEd1bUtiMlVDQ0ZqaUxCWUFHakRnbjB2eU1NRUl0VFB6Z3ZUVHZuVGJWU0s0dDhCU1A5Tg?oc=5",
+      "published": "2026-11-10T03:01:59+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "france-iran-cyberattack-sanctions",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "以方认定迪拜航空航班遇袭事件乘客为敌对事件受害者",
+      "title_ko": "이스라엘, 두바이항공 항공편 피격 사건 승객을 적대행위 피해자로 인정",
+      "summary_ko": "이스라엘 측이 두바이항공 항공편 피격 사건의 승객들을 적대행위 피해자로 인정했다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pWFdVa001ajVYRnVPVk9rd2Z1dnVSU0FueGpDMEROcmhHdXFiS084VVc3ankxR2JYZEJXclg5Nk5ZbWc5b2stem5MdHkzVUluWE05a0thRXNKLURKNzJmbGNnYWNwakRYSV9rWDg1anhXOVpWSGpnaw?oc=5",
+      "published": "2026-11-10T03:00:08+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "dubai-airline-flight-attack-victims",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "土耳其西部一钢铁厂发生爆炸 死亡人数升至16人",
+      "title_ko": "튀르키예 서부 제철소 폭발, 사망자 16명으로 늘어",
+      "summary_ko": "튀르키예 서부의 한 제철소에서 폭발이 발생해 사망자가 16명으로 늘었다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12V1ZMTnBWZVFUV0NMT2hZLVhBV3YwNkJrczA2N1VGRklTQUcyMXhwRy1teTVuWUltZ2NfNUFuWE9ZVjJVenVIM1RnUTcwcUxKNjUxRTRSVjl4TkR2dVRpcEVNMS1JakhURjVsX0kwZWVWZ29qRFVQdw?oc=5",
+      "published": "2026-11-10T02:57:30+09:00",
+      "tags": [],
+      "event": "turkey-izmir-plant-explosion",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "6 killed in Izmir plant explosion",
+      "title_ko": "이즈미르 공장 폭발로 6명 사망",
+      "summary_ko": "튀르키예 이즈미르의 공장 폭발로 6명이 사망했다(CGTN 보도 시점 기준).",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IdTFCYWk0RllyZmRydVY0a3hTSG1zTnBZOERYdzlNQ2FVWnp1dWFnbjFzZzltNmI1ZHVQWFZRenBvZGtaRkw1VW4wV3J4dW15cU1CZE5BcW1kalY3bDdmVFFDTjM4X1hnMTkzTkxOTWZMdzBaZm1CSg?oc=5",
+      "published": "2026-11-09T20:55:37+09:00",
+      "tags": [],
+      "event": "turkey-izmir-plant-explosion",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "21 killed in Tanzania road accident",
+      "title_ko": "탄자니아 교통사고로 21명 사망",
+      "summary_ko": "탄자니아에서 발생한 교통사고로 21명이 사망했다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tQXJqdVh2ZGd0TTFHOER6R3VyR205c1oxWlVSTXI3eGtQNUNBZGVZVjd1c2psOWZwSmNPalZRb0d6cjl6MXUzU3ltS2pKZ085Y3BYZ1NISHV5OTRRd2tlaWVlNmp1WFhyM21NcGs2cTEzMy1sTndIaA?oc=5",
+      "published": "2026-11-09T19:20:34+09:00",
+      "tags": [],
+      "event": "tanzania-road-accident",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "Making It Together: China's Guangdong Industrial Clusters and APEC",
+      "title_ko": "함께 만들기: 중국 광둥 산업 클러스터와 APEC",
+      "summary_ko": "중국 광둥성 산업 클러스터와 APEC을 다룬 CGTN 콘텐츠다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ITnNaRGVfYTRpNUdueEdjVHZXQkZwZVNvbENhZGptcDVsRGJPZ2drdTJYQml6NVJRUjh0bFJXVGtoN3Q0empuRE94SjhKQTNCT3BCRUpPNndRWW1vS3pwZTdrcE5HQko2djdTX285QkdKWVkwZENabg?oc=5",
+      "published": "2026-11-09T16:04:07+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "guangdong-industrial-clusters-apec",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "SAUDI CIVIL DEFENSE SAYS DANGER HAS PASSED",
+      "title_ko": "사우디 민방위 \"위험 지나갔다\"",
+      "summary_ko": "사우디 민방위 당국이 위험이 지나갔다고 밝혔다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBob0VKV1hMSE9vZWVPSy12ZGZEWDJ2dGh2YTFXdW5kYV9BOWNia09BNXF6aEFreFFIaklXbW95ZC1UYkNFV0JuYlBXSnNDZ21tSUIxQ0JDeHoxQjBtbTQ1c1ZTYzh5NmdKRE12T2pGZUo0dGNRbG5JZA?oc=5",
+      "published": "2026-11-09T15:18:46+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "saudi-riyadh-civil-defense-alert",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "SAUDI CIVIL DEFENSE ISSUES ALERT OF POTENTIAL DANGER IN RIYADH",
+      "title_ko": "사우디 민방위, 리야드에 잠재적 위험 경보 발령",
+      "summary_ko": "사우디 민방위 당국이 리야드에 잠재적 위험 경보를 발령했다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rUmdmMzE2RlRpWXB6c3dSYlgzSDJDaUl5NzZNTWZjQmFNM3prOVZVTHFEV1pESUhSY19VWVRGY2lqdTQwT1RSTjJmdEdJQ1dTZjlQb09vYldMeGo3UE1EVVpaMDN0SXFFY2xQYjBuOVdZc3VHWS1wUA?oc=5",
+      "published": "2026-11-09T15:16:41+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "saudi-riyadh-civil-defense-alert",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "TRUMP: AI RISK CAN BE MANAGED, BUT 'I DON'T MIND GUARDRAILS' -CBS '60 MINUTES' INTERVIEW",
+      "title_ko": "트럼프 \"AI 위험 관리 가능하지만 가드레일도 괜찮다\" — CBS '60분' 인터뷰",
+      "summary_ko": "트럼프 대통령이 CBS '60분' 인터뷰에서 AI 위험은 관리할 수 있지만 가드레일(안전장치)에 반대하지 않는다고 말했다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vN0sxd2c4OWhFUVZlQWtyRFczbjVxZktmTjZFcElfaGItWWVxYk1RZW53WDEzemIxUGdRWHZQT1FQUGxIVzBPRDI0R1ltNG1WQm9kNjRQUC0tT0tOYXd3VlhRZkNvSWNWYXRRRzQxOUtTMzlpOVR6Yw?oc=5",
+      "published": "2026-11-09T09:09:02+09:00",
+      "tags": [
+        "legislation",
+        "industry"
+      ],
+      "event": "trump-ai-guardrails-60-minutes",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "多国媒体人共话智能变革中的媒体使命",
+      "title_ko": "여러 나라 언론인, 지능화 변혁 속 언론의 사명 논의",
+      "summary_ko": "여러 나라 언론인들이 지능화(AI) 변혁 속 언론의 사명에 대해 논의했다.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BWGszLUg5NDZfS1dXU0tlbkNhZXJKVkRaSDRGSXBpSTVEdVR3R3V4QkNUUzlyQmtCcGNsT0gtdmd0SmstTVVNbzB4djZQRFJ3QWZVYVNFQWZDd2VzR1E0RzZmM3Z5QTltd1M0WHVpU3YtbUY5Z09Nc0xTcjA3c0U?oc=5",
+      "published": "2026-11-10T01:20:55+09:00",
+      "tags": [],
+      "event": "world-media-summit",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "洋洋大观 | 世界媒体大咖看AI",
+      "title_ko": "세계 언론계 거물들이 보는 AI",
+      "summary_ko": "세계 주요 언론계 인사들의 AI에 대한 시각을 전했다.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XT0x2Njd0dHpKMEd2TVl6Wl9CV3IxWTZvVmVMdF8yeDFsb01Ub0VFa3JIdHJUQ2FxQnBUUDdmVEdGTUZQR3R4TDhNZy14dEdlWlFPQ1RBcnBxUE5nZ2E0QUlkcGJJMVdLZTVXejRWOG11MHE5OWFlam9yeGZSWnc?oc=5",
+      "published": "2026-11-10T00:13:10+09:00",
+      "tags": [],
+      "event": "world-media-summit",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "第九届进博会丨记者观察：共享发展 增长空间给了他们",
+      "title_ko": "제9회 수입박람회｜기자 관찰: 발전을 공유하니 성장 공간이 그들에게 돌아갔다",
+      "summary_ko": "제9회 중국국제수입박람회 관련 기자 관찰 기사로, 발전 공유를 통해 참가자들이 성장 공간을 얻었다는 내용이다.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTTFBNb0xBOEROYmNMQmlPSTFUd3hpMnV3SHFMZ1M0djloTV9faG1NbW5TMDZyeEhaNlpEZkM2Vl9wQllTbHZ0cGtqYmFlTTFucE8zT2MzYjdBXzRaLW1FbndVMUktUXdJUGlCZHpzZmhzbm96UFdiOG8zMjk5YzQ?oc=5",
+      "published": "2026-11-09T23:11:20+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "ciie-9th",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "记者观察丨媒体变革的时代，谁在塑造新闻的未来？",
+      "title_ko": "기자 관찰｜언론 변혁의 시대, 누가 뉴스의 미래를 만드는가?",
+      "summary_ko": "언론 변혁의 시대에 누가 뉴스의 미래를 만드는지를 다룬 기자 관찰 기사다.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwUGZ4SDg5Y3lLU1kxM2xKQWpFN3hySmh1cDJLanF5YjdIRlgwRVEtYXROd1VDVl96ajJlekhiamlPdHd2MVpIeFNheGZoblo2Q1NLbnE2bmVXaXhubFVTRDRYdlFhMV9NdWNZaEZVcXVMZWpSN1N2NXE4RTJQaUE?oc=5",
+      "published": "2026-11-09T22:59:10+09:00",
+      "tags": [],
+      "event": "world-media-summit",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "听，来自世界媒体峰会的声音",
+      "title_ko": "들어보라, 세계 미디어 정상회의에서 나온 목소리",
+      "summary_ko": "세계 미디어 정상회의에서 나온 목소리를 전했다.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGeUpzdFpTdEl6Yk14eGw3UDlPa1VLQkI3STNKcS1Mb1VWRGROTFByZVJDZHIzNnJfMFpVdU9zOEpLaERfQjFjUG94emxZN1M3SW1PNUJZS3MwNVY1Qk9vMGhyQzg2NjlkOGxxUV95bWhpbmh5bW02Z3dNU2FkVGs?oc=5",
+      "published": "2026-11-09T22:47:28+09:00",
+      "tags": [],
+      "event": "world-media-summit",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "第39届中国电影金鸡奖提名者表彰仪式举行",
+      "title_ko": "제39회 중국 영화 금계상 후보자 시상식 개최",
+      "summary_ko": "제39회 중국 영화 금계상 후보자 표창 행사가 열렸다.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jeUJuRzg4MzJrYzhzX05mQUg5YWNoN3JoM1dGelZBWmdvLVIybDlXSkFFSnF0OEhaNDlhX0dYVGpmeXZQNkxBaW1rSGlRMzJtd3dZc012cXlwVHBZVllWODh6UHkyVGZnTHBqRnRqTmRHdHMxZ29CV20wUQ?oc=5",
+      "published": "2026-11-09T22:41:33+09:00",
+      "tags": [],
+      "event": "golden-rooster-awards",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "德国总理默茨正式提名艾格纳竞选总统",
+      "title_ko": "독일 메르츠 총리, 아이그너를 대통령 후보로 공식 지명",
+      "summary_ko": "독일 메르츠 총리가 아이그너를 대통령 선거 후보로 공식 지명했다.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLRGlDaTZKa3FhQ1BmNGM3MjBmcWhTRWVZRkFmUWRTb2NCQ2Z0TFVuY3p0S3A3QjJDY013TFM1bEJDTkJWU2Y1Q3FJM1RLVnZHa2hhNFZyLW5PUlZlSzRwS05PZGVMSTFCSVlDeFRTcGtXeUUxYXFoNkw5TFhDYWs?oc=5",
+      "published": "2026-11-09T22:38:23+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "germany-presidential-nomination-aigner",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "第九届进博会丨6组关键词，感受进博会万象",
+      "title_ko": "제9회 수입박람회｜6개 키워드로 보는 수입박람회의 다양한 모습",
+      "summary_ko": "제9회 중국국제수입박람회를 6개 키워드로 소개했다.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CbTY0VUhlNzUyQjNCb2Jua0t4NVJiVFEzMC05S29wdF9xd0xHQkgxbEFOeUZZbF9VbjhpZ3AteUZXUXBXTnRiMnNuUlZrdV9PbUV4VFNmRWhBSWJURmNwaU9yWElCUHpDLVQ5cjV2SjU4Ul9jb29KU0ZPYXhscUE?oc=5",
+      "published": "2026-11-09T22:02:31+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "ciie-9th",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "人民日报图文数据库（1946-2026）",
+      "title_ko": "인민일보 도문(圖文) 데이터베이스(1946-2026)",
+      "summary_ko": "인민일보 도문 데이터베이스(1946-2026) 항목이다.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ybUFySDJyNVNpZHk0My1IN0hUczhlOHhHcXpLdFkzeHBpeTFDTjdaNjd3QnJfYjY3bzZ5MDNWMzVQalF6M19FS1NuWnRWQU5QcEYwZkRJNkd4UmJRQWVFLXdCZERsYVBfMGFEcDBKV3l6dTIzOFE?oc=5",
+      "published": "2026-11-10T05:47:20+09:00",
+      "tags": [],
+      "event": "peoples-daily-database",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "人民日报图文数据库（1946-2026）",
+      "title_ko": "인민일보 도문(圖文) 데이터베이스(1946-2026)",
+      "summary_ko": "인민일보 도문 데이터베이스(1946-2026) 항목이다.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LSGRJbS1PdUs4eFdPUmFUQ3l1Yjd2M0NkNU9FSUo4NUl0b0hlRW44QjF3cDFocU5mZ1RlbmstWWNCZXNVZkg3amNxY2dCU3M4WjU2NjZHSDJMaE1ybHY4Y294Vm85LUJHdS1kSTFlaGZhYTRqaHc?oc=5",
+      "published": "2026-11-10T05:47:19+09:00",
+      "tags": [],
+      "event": "peoples-daily-database",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "人民日报图文数据库（1946-2026）",
+      "title_ko": "인민일보 도문(圖文) 데이터베이스(1946-2026)",
+      "summary_ko": "인민일보 도문 데이터베이스(1946-2026) 항목이다.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KbHk4TkZMVVB5N2gzZlhLQWJOLXNlMXlDMm9iU1R3WVNpd19UM2lnaGY2YmJqbVBHUWYzT1NIbmRQcmNGNnA5cUV4WXJFU2VULUw5Sm9ST21YakNiQlJSMVJGTzdmUEVFVTZnR25CZkJ3R3IzTHc?oc=5",
+      "published": "2026-11-10T05:47:19+09:00",
+      "tags": [],
+      "event": "peoples-daily-database",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "何立峰与加拿大财政部长商鹏飞、国际贸易部长西杜共同主持第二次中加经济财金战略对话",
+      "title_ko": "허리펑, 캐나다 재무장관 샹페인·국제무역장관 시두와 제2차 중·캐나다 경제재정 전략대화 공동 주재",
+      "summary_ko": "허리펑 중국 부총리가 캐나다 재무장관 샹페인, 국제무역장관 시두와 함께 제2차 중국-캐나다 경제·재정 전략대화를 공동 주재했다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91Q282bXhZRmVCbFczamU0SHNIMTcyb0VJb2lOWTJ5YmwxU280ZlNrbVJyNEJVWG81QmNQODJSajFpdWMtOUhnMlNQMHE1T19sY2FxTDFVdFdqNVdsR1ZIbEhzcjE5RktjcWtqQkJ4bw?oc=5",
+      "published": "2026-11-10T01:45:00+09:00",
+      "tags": [
+        "geopolitics",
+        "business"
+      ],
+      "event": "china-canada-economic-financial-dialogue",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "夏邑：生态良好 打造宜居栗城",
+      "title_ko": "샤이현: 양호한 생태로 살기 좋은 '밤의 도시' 조성",
+      "summary_ko": "허난성 샤이현이 양호한 생태 환경을 바탕으로 살기 좋은 밤(栗) 도시를 만들고 있다.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtdzJkaEc3YkR3Mmo2Z3VTR1R6bVo0SV9qMnVkNnk1djNXM2l5VVY4S2xYM2xBdE15eVJtYlc1QzZxSHdTdXR3UzBmSkpLS2VqR2R6dnNGWlFfVzZmeHNYbWFKeVRUeDBjTEVsZmt3?oc=5",
+      "published": "2026-11-09T22:42:51+09:00",
+      "tags": [],
+      "event": "xiayi-ecology",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "习主席复信令澳大利亚青年学生和教育界人士深受鼓舞",
+      "title_ko": "시 주석 답신, 호주 청년 학생·교육계 인사들에 큰 고무",
+      "summary_ko": "시진핑 주석의 답신이 호주 청년 학생과 교육계 인사들을 크게 고무시켰다고 보도했다.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Na2Y3Qi15ZzBlQXFKSzVBMWI2bkRZQnRfUGprNGh1WUhxelJTTEtrUWUtVkVWQlFwRFpXYWJoendabGxsRGVvTy01QklrV0RLRGdnZ3lPazZzbENrQWZZSENCSHk1S2RDMGVaWF9iVWZtdw?oc=5",
+      "published": "2026-11-09T21:38:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "xi-reply-australian-students",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "全军学习贯彻党的二十届五中全会精神宣讲首场报告会举行 张升民会见宣讲团成员",
+      "title_ko": "전군 당 20기 5중전회 정신 학습·관철 선전 첫 보고회 개최…장성민, 선전단 접견",
+      "summary_ko": "전군의 당 제20기 5중전회 정신 학습·관철 선전 첫 보고회가 열렸고 장성민이 선전단 구성원을 접견했다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrYW5MQWxxU1Q1cnVONFVsUlNkNnBCNmFqMWMwZGtPSkdUeTZXVDFmSldjb1NWcExvdnhOSW9sRGd4b0lkcUFKYzRieDVtLWdmeXpxbDhtQkJzc2JRQkotcUNyc2tVX055NW9HRDRkVQ?oc=5",
+      "published": "2026-11-09T21:31:00+09:00",
+      "tags": [],
+      "event": "pla-fifth-plenum-study",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "习言道｜永远做党和人民的忠诚卫士",
+      "title_ko": "시언도(習言道)｜영원히 당과 인민의 충성스러운 수호자가 되라",
+      "summary_ko": "시진핑 발언을 소개하는 '시언도' 코너로, 당과 인민의 충성스러운 수호자가 될 것을 강조했다.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xY3NEMVV2a3dHZ0ZieWVoZm96akpaem1acDRqcThxWWlYaDJSNjdMRXltYTM5RFR2RlBPVExqMVJoM2dtZmNlYllmNF9xSTdfYmtla0o4YmpNT0tkTlJfemQ4VWpjU3Jwc255b2FlZU5GUQ?oc=5",
+      "published": "2026-11-09T21:30:00+09:00",
+      "tags": [],
+      "event": "xi-yandao-loyal-guardian",
+      "state_media": true
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "At least 44 people killed in air strike near Yemeni capital, Houthi rebels say",
+      "title_ko": "후티 반군 \"예멘 수도 인근 공습으로 최소 44명 사망\"",
+      "summary_ko": "이란의 지원을 받는 후티 반군 보건당국은 사나 동쪽 알샤리야 마을 공습 사망자가 44명으로 늘었으며 대부분 여성과 어린이라고 밝혔다. 부상자는 40명이다(후티 측 발표).",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3373850/houthi-rebels-say-least-44-people-killed-air-strike-near-yemeni-capital",
+      "published": "2026-11-10T05:49:03+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "yemen-sanaa-airstrike",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Suspect in 1994 Rwandan genocide deported from US",
+      "title_ko": "1994년 르완다 집단학살 용의자, 미국서 추방",
+      "summary_ko": "1994년 르완다 집단학살 관여 사실을 숨긴 혐의로 미국에서 수감됐던 르완다인 장 레오나르 테가냐(55)가 본국으로 추방됐다고 르완다 검찰이 밝혔다.",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3373849/suspect-1994-rwandan-genocide-deported-us",
+      "published": "2026-11-10T05:04:00+09:00",
+      "tags": [],
+      "event": "rwanda-genocide-suspect-deported",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Hegseth calls Iran war necessary and waves off expected impeachment push",
+      "title_ko": "헤그세스, 이란 전쟁은 필요했다며 탄핵 추진 일축",
+      "summary_ko": "의회의 탄핵 결의안이 예상되는 가운데 헤그세스 국방장관은 이란, 후티 반군, 베네수엘라 전 지도부에 대한 군사행동의 정당성을 다툴 의향이 있다고 말했다.",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3373848/hegseth-calls-iran-war-necessary-and-waves-noise-expected-impeachment-push",
+      "published": "2026-11-10T04:34:12+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "hegseth-impeachment-iran-war",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Brazil’s Lula heads to Cop31 on first trip since re-election",
+      "title_ko": "브라질 룰라, 재선 후 첫 해외 순방으로 COP31 참석",
+      "summary_ko": "룰라 브라질 대통령이 재선 후 첫 해외 순방으로 튀르키예 안탈리아에서 11월 9~20일 열리는 COP31 참석차 출국했다.",
+      "url": "https://www.scmp.com/news/world/americas/article/3373847/brazils-lula-heads-cop31-first-trip-re-election",
+      "published": "2026-11-10T03:53:19+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "cop31-antalya",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Meghan Markle pulls out of Brussels speech after dad’s arrest over child sex abuse images",
+      "title_ko": "메건 마클, 부친의 아동 성착취물 혐의 체포 후 브뤼셀 연설 취소",
+      "summary_ko": "서식스 공작부인 메건이 부친 토머스 마클의 체포 후 '감당할 힘이 없다'며 유럽의회 온라인 아동 안전 공동 연설에서 빠졌다. 행사에는 해리 왕자와 함께 참석한다.",
+      "url": "https://www.scmp.com/news/world/europe/article/3373846/meghan-markle-pulls-out-brussels-speech-after-dads-arrest-over-child-sex-abuse-images",
+      "published": "2026-11-10T02:53:50+09:00",
+      "tags": [],
+      "event": "meghan-markle-brussels-speech",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "French officials accuse Iran of being behind fridge cyberattacks",
+      "title_ko": "프랑스 당국, 이란을 냉장고 사이버 공격 배후로 지목",
+      "summary_ko": "프랑스는 지난달 자국 슈퍼마켓 냉장고를 겨냥한 '전례 없는' 사이버 공격의 배후가 이란 혁명수비대라고 밝히고 유럽 차원의 대이란 제재를 공언했다.",
+      "url": "https://www.scmp.com/news/world/europe/article/3373845/french-officials-suspect-iran-behind-fridge-cyberattacks-sources-say",
+      "published": "2026-11-10T01:42:10+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "france-iran-cyberattack-sanctions",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Woman narrowly escapes death as folding table falls from Hong Kong building",
+      "title_ko": "홍콩 건물서 접이식 탁자 추락…여성 가까스로 목숨 건져",
+      "summary_ko": "홍콩 청사완의 한 산업용 건물에서 접이식 탁자가 떨어져 32세 여성이 손에 경상을 입었고, 경찰은 관련 남성 1명을 체포했다.",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373844/woman-narrowly-escapes-death-folding-table-falls-hong-kong-building",
+      "published": "2026-11-10T00:55:14+09:00",
+      "tags": [],
+      "event": "hk-falling-table",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "UK’s Russell Brand sentenced to 10 1/2 years’ jail for rape, sexual assault",
+      "title_ko": "영국 러셀 브랜드, 강간·성폭행 혐의로 징역 10년 6개월",
+      "summary_ko": "영국 코미디언 러셀 브랜드가 약 20년 전 여성 1명 강간과 3명 성폭행 혐의로 유죄 판결을 받고 징역 10년 6개월을 선고받았다.",
+      "url": "https://www.scmp.com/news/world/europe/article/3373841/uks-russell-brand-sentenced-10-1/2-years-jail-rape-sexual-assault",
+      "published": "2026-11-09T23:54:52+09:00",
+      "tags": [],
+      "event": "russell-brand-sentenced",
+      "state_media": false
+    },
+    {
+      "source": "China Daily",
+      "title_original": "红星照耀中国•新长征路上的红色路标 |威海远遥湾区： 一片试验海，长成一座 “蓝色硅谷”",
+      "title_ko": "붉은 별이 중국을 비춘다·신장정 길 위의 붉은 이정표｜웨이하이 위안야오만 지구: 시험 해역이 '블루 실리콘밸리'로 성장",
+      "summary_ko": "산둥성 웨이하이 위안야오만 지구의 시험 해역이 '블루 실리콘밸리'로 성장했다는 기획 기사다.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jRjZXNmJuTEE0bW9KWHlNUVNyZHNEZ25ITXp0Y1VDS1JhWVU2SEo4cFM3QU50VmRhMWxhbjVrMzFZRGhFOTE1ajJuZzg0bDVuMndRbkFJRW9NcWZHM29QVUpRa2kxR0xpTHd5OGFSQmFrS3BSRHVTZGc3c0dCRHM?oc=5",
+      "published": "2026-11-09T22:42:26+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "weihai-blue-silicon-valley",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "学习时节｜记录伟大，见证时代- 中国日报网",
+      "title_ko": "학습 시절｜위대함을 기록하고 시대를 증언하다",
+      "summary_ko": "중국일보망의 '학습 시절' 코너 기사다.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa3JmRmd0QnhEcE5RM1JKVGdzQ2R1QUdJQUx5cldOc0JBQ2I5TXR1QnV4WFFPaXZWTktPSHJLbmdCTEFlWm85OFVtMTYtMWNqNEdKWnBxX0Z1Q1gwa1RTOFFEb2JtTTRYNTFVWXRDdHpKcEw2eVNPT1NtWUYwNVg4Sw?oc=5",
+      "published": "2026-11-09T22:01:04+09:00",
+      "tags": [],
+      "event": "china-daily-xuexi-column",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "习主席复信令澳大利亚青年学生和教育界人士深受鼓舞- 中国日报网",
+      "title_ko": "시 주석 답신, 호주 청년 학생·교육계 인사들에 큰 고무",
+      "summary_ko": "시진핑 주석의 답신이 호주 청년 학생과 교육계 인사들을 크게 고무시켰다고 보도했다.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa0s3YVBWenBKMnpLMGt6SGk2SjhiaEZtLWgzU0o5UWtvNnZLaHFoMGpZVlM2a3prZVl4Q3VUSk1fOWctN3cwNHZxckxPdEd5SFlndmExVVh1VFJ0ZVYxbDAzSzJEMUdFLXloMTZpU3B5aGZZOUoyZWNITThaS2Fnbg?oc=5",
+      "published": "2026-11-09T21:56:43+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "xi-reply-australian-students",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "习言道｜永远做党和人民的忠诚卫士- 中国日报网",
+      "title_ko": "시언도(習言道)｜영원히 당과 인민의 충성스러운 수호자가 되라",
+      "summary_ko": "시진핑 발언을 소개하는 '시언도' 코너로, 당과 인민의 충성스러운 수호자가 될 것을 강조했다.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRy03dFhfODUyZGZIV1czWmdfbTliNDdTUExLbkpxU2FWc29JVHliTXVfb2l2YklIX1NkeG1QdXNJblRvQmZROWE4MjZaZmM4b2tKdGZ3N3NyQkdKSF95U1lWQ1Ruc0pmYUVqUk8ycFJmRUVMZEhhdTh0YUE0Q0ZyNw?oc=5",
+      "published": "2026-11-09T21:55:07+09:00",
+      "tags": [],
+      "event": "xi-yandao-loyal-guardian",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "日本前首相石破茂遭自民党党内处分",
+      "title_ko": "일본 이시바 시게루 전 총리, 자민당 당내 징계 받아",
+      "summary_ko": "일본 이시바 시게루 전 총리가 자민당 당내 처분을 받았다.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80dGU1YTIwU1U5R29ocFFqTUpxY2N6SFVkXzFBUDJ2QVJYWnVUMmhodndBNjZYaE83Uy1URGpjdmYyRjRXZ2dZcHB6eFFNSXZKWjM0dU5DaVMtaWZWZG4zdUFyX3JGY09tQlQ3eHU4dU9oZ0hETHcxajJmajc?oc=5",
+      "published": "2026-11-09T21:05:30+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "japan-ishiba-ldp-discipline",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "重庆中欧班列2026年开行量突破1000列",
+      "title_ko": "충칭 중국-유럽 화물열차, 2026년 운행 1,000편 돌파",
+      "summary_ko": "충칭발 중국-유럽 화물열차(중구반열)의 2026년 운행 횟수가 1,000편을 넘어섰다.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wTXlQLUg1QTdSN3Etd0hxOTVXUm9uYjF5Wmh5N1JNbVZ6cTdfa3ItR3dvWkhsVmVadDAwTHZScERYRXpsVy1nR0VLZW0yc0xfZTdSdzE0aXkxRE9sOUV4a1VPVU5LMTJrWjAwMGFMYVVxZE03LUJ5MjI5ZUw?oc=5",
+      "published": "2026-11-09T21:05:14+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "chongqing-china-europe-railway",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "山西太原豪生国际公寓火灾造成14人遇难9人危重 相关负责人已被控制",
+      "title_ko": "산시 타이위안 하오성국제아파트 화재로 14명 사망·9명 위중…관련 책임자 신병 확보",
+      "summary_ko": "산시성 타이위안 하오성국제아파트 화재로 14명이 숨지고 9명이 위중하며, 관련 책임자들의 신병이 확보됐다.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5iTjR6ZnVxd3lGU19OZmdmVEV1MFJNeWU1OEtuLVRaenVsM3M5TC1IYXZxeC1IRllCZjlVVURscHVKbGFzUTdUM01vQmRSYlpvRl9MTlhSNzhtbVIyaV93M3hfUjlWLWJydW5PQjhLclV4YmZUanZ3c01lRQ?oc=5",
+      "published": "2026-11-09T20:56:52+09:00",
+      "tags": [],
+      "event": "taiyuan-apartment-fire",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "国际友人走进杭州文博会 感受科技与文化创意的交融魅力",
+      "title_ko": "국제 인사들, 항저우 문화박람회서 과학기술과 문화창의의 융합 체험",
+      "summary_ko": "외국인들이 항저우 문화박람회를 찾아 과학기술과 문화창의의 융합을 체험했다.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wZlE5c3JXN3lOZ0JaN1BoM1FJRDBCbGFUdnpkN2pyMGtMQUU4TS1tZlVhM2ZMZUFwVDF0dVpxeFdnQWlCZ3ZnM1NweXpESlE4Z2tZclRhX3BhNkFtVGJHdkFRNmRyd1p3YWJkMjhHYWRRd1dTb1RwbzBIRnI?oc=5",
+      "published": "2026-11-09T20:30:43+09:00",
+      "tags": [],
+      "event": "hangzhou-cultural-expo",
+      "state_media": true
+    }
+  ],
+  "events": [
+    {
+      "event": "france-iran-cyberattack-sanctions",
+      "title_ko": "프랑스, 사이버 공격 관련 이란 대사 초치…제재 경고",
+      "sources": [
+        "CCTV",
+        "SCMP (홍콩)"
+      ],
+      "count": 2
+    },
+    {
+      "event": "turkey-izmir-plant-explosion",
+      "title_ko": "튀르키예 서부 제철소 폭발, 사망자 16명으로 늘어",
+      "sources": [
+        "CCTV",
+        "CGTN"
+      ],
+      "count": 2
+    },
+    {
+      "event": "xi-reply-australian-students",
+      "title_ko": "시 주석 답신, 호주 청년 학생·교육계 인사들에 큰 고무",
+      "sources": [
+        "People's Daily",
+        "China Daily"
+      ],
+      "count": 2
+    },
+    {
+      "event": "xi-yandao-loyal-guardian",
+      "title_ko": "시언도(習言道)｜영원히 당과 인민의 충성스러운 수호자가 되라",
+      "sources": [
+        "People's Daily",
+        "China Daily"
+      ],
+      "count": 2
+    },
+    {
+      "event": "cn-consumption-new-scenarios",
+      "title_ko": "각지, 새로운 소비 장면·업태 확대해 소비 활력 지속 자극",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "cn-sme-payment-arrears-disclosure",
+      "title_ko": "기한 내 미처리된 중소기업 대금 체불 단서 600여 건 공개",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "fire-escape-tips",
+      "title_ko": "화재 발생 시 피해야 할 대피 오해들",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "white-house-security-incidents",
+      "title_ko": "미국 백악관 인근서 보안 사건 2건 발생, 2명 체포",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "israel-west-bank-arrests",
+      "title_ko": "이스라엘군, 요르단강 서안에서 이슬라믹 지하드 조직원 10명 체포",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "dubai-airline-flight-attack-victims",
+      "title_ko": "이스라엘, 두바이항공 항공편 피격 사건 승객을 적대행위 피해자로 인정",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "tanzania-road-accident",
+      "title_ko": "탄자니아 교통사고로 21명 사망",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 1
+    },
+    {
+      "event": "guangdong-industrial-clusters-apec",
+      "title_ko": "함께 만들기: 중국 광둥 산업 클러스터와 APEC",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 1
+    },
+    {
+      "event": "saudi-riyadh-civil-defense-alert",
+      "title_ko": "사우디 민방위 \"위험 지나갔다\"",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 1
+    },
+    {
+      "event": "trump-ai-guardrails-60-minutes",
+      "title_ko": "트럼프 \"AI 위험 관리 가능하지만 가드레일도 괜찮다\" — CBS '60분' 인터뷰",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 1
+    },
+    {
+      "event": "world-media-summit",
+      "title_ko": "여러 나라 언론인, 지능화 변혁 속 언론의 사명 논의",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ciie-9th",
+      "title_ko": "제9회 수입박람회｜기자 관찰: 발전을 공유하니 성장 공간이 그들에게 돌아갔다",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "golden-rooster-awards",
+      "title_ko": "제39회 중국 영화 금계상 후보자 시상식 개최",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "germany-presidential-nomination-aigner",
+      "title_ko": "독일 메르츠 총리, 아이그너를 대통령 후보로 공식 지명",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "peoples-daily-database",
+      "title_ko": "인민일보 도문(圖文) 데이터베이스(1946-2026)",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "china-canada-economic-financial-dialogue",
+      "title_ko": "허리펑, 캐나다 재무장관 샹페인·국제무역장관 시두와 제2차 중·캐나다 경제재정 전략대화 공동 주재",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "xiayi-ecology",
+      "title_ko": "샤이현: 양호한 생태로 살기 좋은 '밤의 도시' 조성",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "pla-fifth-plenum-study",
+      "title_ko": "전군 당 20기 5중전회 정신 학습·관철 선전 첫 보고회 개최…장성민, 선전단 접견",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "yemen-sanaa-airstrike",
+      "title_ko": "후티 반군 \"예멘 수도 인근 공습으로 최소 44명 사망\"",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "rwanda-genocide-suspect-deported",
+      "title_ko": "1994년 르완다 집단학살 용의자, 미국서 추방",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "hegseth-impeachment-iran-war",
+      "title_ko": "헤그세스, 이란 전쟁은 필요했다며 탄핵 추진 일축",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "cop31-antalya",
+      "title_ko": "브라질 룰라, 재선 후 첫 해외 순방으로 COP31 참석",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "meghan-markle-brussels-speech",
+      "title_ko": "메건 마클, 부친의 아동 성착취물 혐의 체포 후 브뤼셀 연설 취소",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "hk-falling-table",
+      "title_ko": "홍콩 건물서 접이식 탁자 추락…여성 가까스로 목숨 건져",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "russell-brand-sentenced",
+      "title_ko": "영국 러셀 브랜드, 강간·성폭행 혐의로 징역 10년 6개월",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "weihai-blue-silicon-valley",
+      "title_ko": "붉은 별이 중국을 비춘다·신장정 길 위의 붉은 이정표｜웨이하이 위안야오만 지구: 시험 해역이 '블루 실리콘밸리'로 성장",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "china-daily-xuexi-column",
+      "title_ko": "학습 시절｜위대함을 기록하고 시대를 증언하다",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "japan-ishiba-ldp-discipline",
+      "title_ko": "일본 이시바 시게루 전 총리, 자민당 당내 징계 받아",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "chongqing-china-europe-railway",
+      "title_ko": "충칭 중국-유럽 화물열차, 2026년 운행 1,000편 돌파",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "taiyuan-apartment-fire",
+      "title_ko": "산시 타이위안 하오성국제아파트 화재로 14명 사망·9명 위중…관련 책임자 신병 확보",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "hangzhou-cultural-expo",
+      "title_ko": "국제 인사들, 항저우 문화박람회서 과학기술과 문화창의의 융합 체험",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    }
+  ],
+  "unavailable_sources": [
+    "Global Times",
+    "Caixin"
+  ]
+}
