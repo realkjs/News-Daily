@@ -1,0 +1,912 @@
+{
+  "team": "il",
+  "headlines": [
+    {
+      "source": "i24NEWS",
+      "title_original": "Qatar Secured ‘at Least Two Weeks’ For Diplomacy To Avert US Strike On Iran",
+      "title_ko": "카타르, 미국의 이란 공습을 막기 위한 외교에 '최소 2주' 확보",
+      "summary_ko": "카타르가 미국의 이란 공습을 피하기 위한 외교 시간으로 '최소 2주'를 확보했다는 제목 보도.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdWtGdDVHMkRaUEkySjczSTQzUlB3b1l5aDRQTFRxUHhWck1VWUpNQzJTT05IcVk3VmI5RnpRMFlXLVRSQUQ3M3pCcExRN2lhZHdacndJSVVYYWtaVjRQdnNOVV9GSlFVTlItcXFtWkRDWkJGaElRVlpqZGZUZFlzZkxCRFdkWDVvdU12ZVVhVTlCeWZMZXQ3QzJFU1BIUzNJd0RYQkxqcG1fZlFvWDJ0b0JCSFZ5dE12SWtnVjVn?oc=5",
+      "published": "2026-11-11T03:48:29+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-iran-war-diplomacy",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "WATCH: Bennett Interrupts Netanyahu’s Knesset Toast: 'What About The Qatari Advisers?'",
+      "title_ko": "[영상] 베네트, 크네세트 축배 중 네타냐후 말 끊어: '카타르 고문들은 어떻게 된 건가?'",
+      "summary_ko": "크네세트 행사에서 베네트가 네타냐후의 건배사를 끊고 '카타르 고문들' 문제를 제기했다는 제목 보도.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOG84Zk90NFNoRkFDOVN0SjBHNVFuZEQ3VU92OVRYNTJhZWpZeFVET2lpZDhuS2tsR290dTJyQkxtXzZybGE0Y1psUDlEWjhLMFpwRnVMTWY0VW53Q1gxcUx3Y0JUYWV1MTEwRzcydERocEFMZXVOd29pNHNJVVdVRDRGbUNZWTdEbzJIMzloY2J6VmJ3RUltRVliSnFlT1BuOGdpeGsta3RCZmdFX1RGV0VZQXZiZzVESXVaMk1tTXN0Qm5tNFZjbjBac0ExUQ?oc=5",
+      "published": "2026-11-11T02:22:00+09:00",
+      "tags": [],
+      "event": "knesset-26-swearing-in",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Meet BeYachad's Lineup: Who’s Who In The 26th Knesset",
+      "title_ko": "베야하드 명단 소개: 제26대 크네세트 인물 정리",
+      "summary_ko": "제26대 크네세트의 베야하드 소속 의원 명단을 소개하는 기사(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaG5VQ0tJSWE1THd6d2toLXBXRzh4YzI5NmlZYVltRW5HVzEzT2tBS2hfRnZOVlAzTkVlOWdYVzRWaVVQWXpxWHB5am43Z1AydHFtYmg5b0dzdnlMLXpHUWZUbzhJeXhyeVk1d2pfRXpoOWdtOFNhVHZVa3luX0dLamxEdGVfU1MxVkJFdExtRm1zcjd2WDdiMTlDOTdlcEVNY0R1bE9sYw?oc=5",
+      "published": "2026-11-10T23:49:25+09:00",
+      "tags": [],
+      "event": "knesset-26-lineups",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Meet United Torah Judaism's Lineup: Who’s Who In The 26th Knesset",
+      "title_ko": "토라유대주의연합(UTJ) 명단 소개: 제26대 크네세트 인물 정리",
+      "summary_ko": "제26대 크네세트의 토라유대주의연합 소속 의원 명단을 소개하는 기사(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNklfY2lSS0xRNEJfd042bUV6djZna1ljSUNxZUZmZjhLZnNUZU1rZ2J1MmVCYXFtdWJocEdhcFJNRDd2clEtZGgtdUZMWTJLWjJnLUZRbjdKYnQzUmFBOUs5dThvY1k3TUg5c2x5T05jMXpQQXQ0V3ktY3hYZlNWcVY1X1hNbmRzQkNSQm1OSy1EZ0JIN1Z1Ml96aDZPcHRvcUJBNFk3T1c4SlNjUEk5UHAwbkxLSkk?oc=5",
+      "published": "2026-11-10T23:47:45+09:00",
+      "tags": [],
+      "event": "knesset-26-lineups",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "‘This Knesset must complete its full term:' Herzog urges new lawmakers to investigate Oct. 7",
+      "title_ko": "'이번 크네세트는 임기를 채워야': 헤르초그, 신임 의원들에게 10·7 조사 촉구",
+      "summary_ko": "헤르초그 대통령이 신임 크네세트 의원들에게 임기 완수와 10월 7일 사태 조사를 촉구했다는 제목 보도.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOUFIWmhiSF9IblFmVGc4MHJQVFAtSDR6cFVnVTlfZWJTejlCSWk0X3JsS29SOWpqZTNVU2JianVzZEpmZnR1UU9rcjltQXQyMUgycm5kVnBzTzhzSG9JcS1TaUpEaWo4TG5YUTdHN1Fkdm5BRzRSb3pyNHdHVUJKZ0dCdzJ1cldjVlIwM0txTFZDcFFqajNCWlVmVWQ1WV9ISlBmSll1Nng5UVdTSkVKSWFkNFgzZWdRSmxkVFdB?oc=5",
+      "published": "2026-11-10T23:40:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "knesset-26-swearing-in",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Youssef Jabareen, News And Latest Headlines",
+      "title_ko": "유세프 자바린 관련 뉴스·최신 헤드라인",
+      "summary_ko": "i24NEWS의 유세프 자바린 관련 뉴스 모음 페이지.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzM2w5NTFGck92Q0pONWJjZzQ2YW9oQXZTdTJWaEJud054bEZGb0lBR0FSR3JBZjR6UFprXzA5bVdubUR4dVE0VjdneHpTanFDVWlNdnFoOTVxUDg?oc=5",
+      "published": "2026-11-10T21:23:15+09:00",
+      "tags": [],
+      "event": "youssef-jabareen",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Mansour Abbas agrees to recognize Hamas as terrorist organization in exchange for coalition partnership - report",
+      "title_ko": "만수르 아바스, 연정 참여 대가로 하마스를 테러조직으로 인정하기로 동의 - 보도",
+      "summary_ko": "라암당 대표 만수르 아바스가 연정 참여 조건으로 하마스를 테러조직으로 인정하는 데 동의했다는 보도(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQX0N3NnI1UnpZc3FIaDE5U19DVGNxdl82WTIyM0QzeDRKcEtLUlJiamNoWlhlY1pnM3p0V1dram9uQ05nZ0VuakY0OVkxWTJMa2V0ZTRrU3lrMWpxUVVmZnpKWkVXRXRnUWd4bm0xd25KT1RyWGpCMUI5NV94aEJEdm5pblZxcGk2UktYUWxUeXlXT0I0ZDc4R09UWnh3c3U4OHpneU1ic0ZZQVhrTnB0LXhBOWdVRTBIT3dERTRkaV81b1hjUTI2aHBndEZHVWJMQ3RGMGRJaklLQUNjMXhQMHo2S0h3T1hLVnRyY1l4TFp0VGFkT19QODhCeDZMdw?oc=5",
+      "published": "2026-11-10T21:18:03+09:00",
+      "tags": [],
+      "event": "raam-coalition-hamas-recognition",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Meet Yisrael Beiteinu's Lineup: Who’s Who In The 26th Knesset",
+      "title_ko": "이스라엘 베이테이누 명단 소개: 제26대 크네세트 인물 정리",
+      "summary_ko": "제26대 크네세트의 이스라엘 베이테이누 소속 의원 명단을 소개하는 기사(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX3E1aXB5WG1oOVVaY3ZYY2hOQWVwQ3VWRWtwNDlnN090U1pSN1dIaDhzcGZLRDdTQ0gwVndHNmIwYnd0cGNpNXBDQlZDYmdjdWRNVjlIaEJQcEhwSWJmLWJxZDVKaXhKVkhaSmJxTjdNbnVMd0toMjlTcjV3bWpJV0h5aW42a0EwdXJhMzNDQ3lfSkNFeUEwd0hfQlVSdTV0S1E1aV8wUVhHVU9wOWloNjVR?oc=5",
+      "published": "2026-11-10T20:13:12+09:00",
+      "tags": [],
+      "event": "knesset-26-lineups",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Blogs: It’s a Great Day for Democracy",
+      "title_ko": "[블로그] 민주주의에 위대한 날",
+      "summary_ko": "Times of Israel 블로그 기고(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KbVFrYWpSY3V0N3gtQnFwdHVFd2tzMmNpdldIYW1BTlpiekx1d1NZZ2VvN1A5LXU5X1h4aWlfY0FLUGc4bVVKY2t4a3pDUTJreThIY3dUM0ZNa0JCM1R4UXVZVjRYc2RRTFZ4NlBlMA?oc=5",
+      "published": "2026-11-11T03:52:00+09:00",
+      "tags": [],
+      "event": "toi-blog-democracy",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "Revolut",
+      "title_ko": "레볼루트",
+      "summary_ko": "Times of Israel의 '레볼루트' 관련 페이지(제목만 있음).",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FZDNkdE13dEZhdW1iTGZOR2YyX1FHd0I3Nm1FZDJFLU9XbG1yVXpVUE5iQTFjTS1RY0c4MzRsRG9PTUVuR2JROXRRQnNUNUptcmtnajFBaw?oc=5",
+      "published": "2026-11-11T03:51:25+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "revolut-israel-bank-license",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Folly of Holocaust Museums at the Expense of Jewish Education",
+      "title_ko": "유대 교육을 희생시킨 홀로코스트 박물관의 어리석음",
+      "summary_ko": "홀로코스트 박물관과 유대 교육을 다룬 Times of Israel 기고(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZExQYUhHZnFNZlF1enFkTWxIQ21LQks4amhHbXNjR3prZm9DMk1fenhGMk95aGczOXUtREYzUi0yLV9ocXRmX0FIc0E5UmVQRVNBWE1CTTg5TkMwRi1qOXROMjYxdERURW0wTmJERl9US2hQcG1ZQko5QXpBVlhCVjJrQWZNMmpTaWtoa1lwS2NHcUo3dXN1dVFBVGhZRTg?oc=5",
+      "published": "2026-11-11T03:27:00+09:00",
+      "tags": [],
+      "event": "toi-holocaust-museums-op",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "Cain and Hevel, Esav and Yaakov: Case studies of Midrashic slander (Toledot)",
+      "title_ko": "카인과 헤벨, 에서와 야곱: 미드라시 속 비방 사례 연구(톨레도트)",
+      "summary_ko": "주간 토라 포션(톨레도트) 관련 Times of Israel 기고(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcDJoNUdTRU9CTkNiUEdPYmtHM2xxYll5VXRXYVVnX1c0Z1ZET3ZpRmVaV1dtcGxEb0hiQTJMMUJJZkhlWlJ0RHlXWnJVaUZkcUFuVnJZc19ZN2NJYWNQNDQ1UzVZU3hvRTllcmxEQWNsVmt0WlFGbksxRU8yQXVUbFFqalhnX2RyUXFrZ19IdVlkLWRvMkN6Y1dzZjZsYmVVZGtseGd1YVQ?oc=5",
+      "published": "2026-11-11T03:21:00+09:00",
+      "tags": [],
+      "event": "toi-torah-toledot",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Blogs: Google and Gilgul Make Very Good Partners",
+      "title_ko": "[블로그] 구글과 길굴은 아주 좋은 파트너",
+      "summary_ko": "Times of Israel 블로그 기고(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TQXVGX19od1ltYVBOYVh0VFNVbUNlRDhXdlVzTGN1Y3dSRDRPY0c5RTJabGRGZTVWN2xnZC16SE9FUmpaYXR0STNqQms3OFpDdVRyR2kwNV9iWHFVcFJzWTdFTWMwZlEwVlNGUFkySlN3clB5UW80bWJ6SDVTMzA?oc=5",
+      "published": "2026-11-11T03:16:00+09:00",
+      "tags": [],
+      "event": "toi-blog-google-gilgul",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "Democratic Control of Congress Could Strengthen Trump’s Gaza Plan",
+      "title_ko": "민주당의 의회 장악이 트럼프의 가자 구상을 강화할 수 있다",
+      "summary_ko": "민주당의 의회 장악이 트럼프의 가자 계획을 오히려 강화할 수 있다는 Times of Israel 기사(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV1R5aXlsV0FGMGZoVk1BNFFPRVRTMDdFcmNVZ1pIYllEUHBtQm05WUFXQXAtTjMwQ25oRlRDeUNBOGItR0h4UkUxVW12OFdEZndpZGNTR0VZRlhkU25QQV9XRjNHeElVTUppU2laYzNUUkZoMzVXa0N4VG40UWpYTWZzbzBqUVZNVEpEM3hNZzQtaC1mekJKZ2ZmT1JBdw?oc=5",
+      "published": "2026-11-11T03:11:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-congress-gaza-plan",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Blogs: You are invited!",
+      "title_ko": "[블로그] 초대합니다!",
+      "summary_ko": "Times of Israel 블로그 기고(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0eGh3bjBKdklQTEI2RmpWNzdDbkREdmlncXduanRWcVFOV21fUnhRWnNCOG5IeTFub3ExYWc1ZzNXdnNZckVwemxSNlBoNXFNUVltTm04emhrUi1I?oc=5",
+      "published": "2026-11-11T02:41:00+09:00",
+      "tags": [],
+      "event": "toi-blog-invitation",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Blogs: Learning Hebrew, with my little friend",
+      "title_ko": "[블로그] 작은 친구와 함께 히브리어 배우기",
+      "summary_ko": "Times of Israel 블로그 기고(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mYnAxTHFEeEtvd2l0b2hYN1RCczFHUEJsMEp2ZVdlczFuZVFfek5nTmQ5LW5TOGtkWU1GSVVJa1hKMUttVU5PVk9MUWFWUm9yX2c2cU5FeXBIQXc4UzRhVUZtdjZ1dmhHZmZIMjZvM1RfbFVBVllMdnRR?oc=5",
+      "published": "2026-11-11T02:02:00+09:00",
+      "tags": [],
+      "event": "toi-blog-learning-hebrew",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Iran unveils underground 'missile city' as expert notes radar-evasion efforts",
+      "title_ko": "이란, 지하 '미사일 도시' 공개…전문가 '레이더 회피 노력' 지적",
+      "summary_ko": "영상에는 탄도미사일·이동식 발사대·드론 저장시설이 담겼다. 이번 공개는 이란의 공격 가능성 우려 속에 미국이 영국 기지에서 항공기를 이동시키는 가운데 나왔다.",
+      "url": "https://www.haaretz.com/middle-east-news/iran/2026-11-10/ty-article/iran-unveils-underground-missile-city-as-expert-notes-radar-evasion-efforts/000001a1-c6c6-dba2-a9f9-d7fe302f0000",
+      "published": "2026-11-11T05:35:34+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "iran-underground-missile-city",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "These Democrats are bringing a Christian case against Israel's war to Congress",
+      "title_ko": "이 민주당 인사들이 이스라엘 전쟁에 반대하는 기독교적 논거를 의회로 가져가고 있다",
+      "summary_ko": "제임스 탈라리코, 애덤 해밀턴, 프레더릭 더글러스 헤인스 3세가 신앙을 근거로 가자 문제에 목소리를 냈다. 오랫동안 친이스라엘 복음주의자가 주도해 온 종교적 논쟁을 민주당 안으로 끌어들이고 있다.",
+      "url": "https://www.haaretz.com/us-news/2026-11-10/ty-article-magazine/.premium/these-democrats-are-bringing-a-christian-case-against-israels-war-to-congress/000001a1-c708-dba2-a9f9-d77cc2290000",
+      "published": "2026-11-11T05:17:21+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-democrats-christian-gaza-critique",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Fake 'Iranian' accounts campaigned for Netanyahu ahead of Israel's election",
+      "title_ko": "가짜 '이란인' 계정들, 이스라엘 총선 앞두고 네타냐후 지지 운동",
+      "summary_ko": "이란인을 사칭한 1,653개 계정 네트워크가 네타냐후 게시물을 증폭했고 일부는 히브리어로 그에게 투표하라고 독려했다. 선거 후 이들은 다시 이란 이야기로 돌아갔으며 운영 주체는 밝혀지지 않았다.",
+      "url": "https://www.haaretz.com/israel-news/security-aviation/2026-11-10/ty-article-magazine/.premium/fake-iranian-accounts-campaigned-for-netanyahu-ahead-of-israels-election/000001a1-ba23-d146-ada9-fa3f8aaa0000",
+      "published": "2026-11-11T04:57:50+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "fake-iranian-accounts-netanyahu",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Why calls for 'coexistence' in Lod ring hollow for Palestinian residents",
+      "title_ko": "로드의 '공존' 요구가 팔레스타인 주민에게 공허하게 들리는 이유",
+      "summary_ko": "로드에서 유대인 주민이 팔레스타인인을 위협으로 보도록 교육받는 상황에서 '공존' 담론은 뒤틀려 있다는 하아레츠 칼럼.",
+      "url": "https://www.haaretz.com/opinion/2026-11-10/ty-article/.premium/why-calls-for-coexistence-in-lod-ring-hollow-for-palestinian-residents/000001a1-c6c7-d9c8-a5f9-eecf14e60000",
+      "published": "2026-11-11T04:49:04+09:00",
+      "tags": [],
+      "event": "lod-coexistence-op",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Let Netanyahu froth at the mouth about Arabs. It helps seal his downfall",
+      "title_ko": "네타냐후가 아랍인에 대해 독설을 퍼붓게 두라. 그것이 그의 몰락을 굳힌다",
+      "summary_ko": "네타냐후가 '축제 같은' 크네세트 취임일에 반아랍 공격으로 분위기를 망쳤다는 하아레츠 칼럼. 그의 방해 능력은 위험하지만 독설은 아이젠코트의 일을 쉽게 만든다고 주장한다.",
+      "url": "https://www.haaretz.com/israel-news/haaretz-today/2026-11-10/ty-article/.highlight/let-netanyahu-froth-at-the-mouth-about-arabs-it-helps-seal-his-downfall/000001a1-c59e-d9c8-a5f9-edde9b930000",
+      "published": "2026-11-11T04:04:47+09:00",
+      "tags": [],
+      "event": "knesset-26-swearing-in",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Arab party leader: Netanyahu told me he and Hamas' Sinwar 'understand each other'",
+      "title_ko": "아랍 정당 대표: 네타냐후가 하마스 신와르와 '서로 이해한다'고 내게 말했다",
+      "summary_ko": "라암(통합아랍리스트) 대표 만수르 아바스는 네타냐후가 하마스 전 지도자 야흐야 신와르의 메시지를 자신에게 보여준 적이 있다고 말했다. 아바스는 이 일을 10월 7일 국가조사위원회에서 진술하고 싶었다고 밝혔다.",
+      "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-10/ty-article/.premium/arab-party-leader-netanyahu-said-he-and-hamas-sinwar-understand-each-other/000001a1-c698-d0f7-adfb-f7b9901f0000",
+      "published": "2026-11-11T03:54:16+09:00",
+      "tags": [],
+      "event": "abbas-netanyahu-sinwar-claim",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Palestinian university president says he was beaten during IDF raid in West Bank",
+      "title_ko": "팔레스타인 대학 총장 '서안 IDF 급습 중 폭행당했다'",
+      "summary_ko": "팔레스타인 저명 교수이자 영국 시민인 디라르 알리얀(59)은 IDF가 수배 중인 조카를 찾으며 그의 아파트를 급습해 폭행했다고 말했다. 조카가 위층에 산다는 사실을 알고 있었음에도 그랬다고 주장했다.",
+      "url": "https://www.haaretz.com/middle-east-news/palestinians/2026-11-10/ty-article/.premium/palestinian-university-president-says-he-was-beaten-during-idf-raid-in-west-bank/000001a1-c4de-db9a-a5bd-dcfe0f180000",
+      "published": "2026-11-11T03:47:36+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "west-bank-university-president-raid",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Iran says Strait of Hormuz will stay closed until U.S. meets demands",
+      "title_ko": "이란 '미국이 요구 수용할 때까지 호르무즈 해협 계속 봉쇄'",
+      "summary_ko": "모흐센 레자이는 진행 중인 협상과 JD 밴스와의 회동 계획 보도를 '순전한 거짓과 날조'라고 일축하며, 테헤란은 여전히 미국의 명확한 답을 기다리고 있다고 말했다.",
+      "url": "https://www.haaretz.com/middle-east-news/iran/2026-11-10/ty-article/iran-says-strait-of-hormuz-will-stay-closed-until-u-s-meets-demands/000001a1-c658-df80-a9e3-e6fc56fb0000",
+      "published": "2026-11-11T03:16:25+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "us-iran-war-diplomacy",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "WATCH: Israel's 26th Knesset sworn in as Eisenkot's bloc moves to assert control",
+      "title_ko": "[영상] 이스라엘 제26대 크네세트 취임…아이젠코트 진영, 주도권 확보 나서",
+      "summary_ko": "이스라엘 제26대 크네세트가 취임했고 아이젠코트 진영이 주도권 확보에 나섰다는 제목 보도.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wYmNtaWg2b2RLcFdHWm9MS1pNTmhGQ0E5T0JiZVlNc05iXzRKdUdUQXVGRHNhcE8yamN1OWlRUUJGVVRISl9iMDNQNDNoQ1FVT3FyeEdNVGM3ZG5CYWxhMjVCWGNHbkhW?oc=5",
+      "published": "2026-11-11T05:03:41+09:00",
+      "tags": [],
+      "event": "knesset-26-swearing-in",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Ra'am leader Abbas alleges Benjamin Netanyahu expressed trust in Hamas chief Sinwar",
+      "title_ko": "라암 대표 아바스 '네타냐후가 하마스 수장 신와르에 대한 신뢰 표명'",
+      "summary_ko": "라암 대표 아바스가 네타냐후가 하마스 지도자 신와르에 대한 신뢰를 표명했다고 주장했다는 제목 보도.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FeTFFR3lMVWhVOXBIaGtIeGp4OEQ2RmVRR05WRWZwWndSXzNVSnN6SUdzZWpIbUZVeFJlTWJHaGhyRFlHTEQ4OTgya3FwUUZxZzlqTVB6TVVKTUNoeVpLcjJFblkwLUdubzBTTXl2Mk1MRTVrc3JSNmFucw?oc=5",
+      "published": "2026-11-11T05:01:45+09:00",
+      "tags": [],
+      "event": "abbas-netanyahu-sinwar-claim",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Benjamin Netanyahu to appoint FM Gideon Sa'ar as interior minister, ending 16-month vacancy",
+      "title_ko": "네타냐후, 사르 외무장관을 내무장관에 임명 예정…16개월 공석 해소",
+      "summary_ko": "네타냐후가 기드온 사르 외무장관을 내무장관으로 임명해 16개월간의 공석을 끝낼 예정이라는 제목 보도.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5SOUpjTFVoTmF2cnplbVF3TXJSbl8wY3Z3cWRGcC15em0zT3JOVlNGZV9CNU00VkZ6V1hIVmVoa1diVDk1QzRXcWNCamZ4dFhlVHBtbHptaUJQSDQzTmlGT0RmaG9yb2FWZzBiMmtvdXE3RTFkLWVPSXdGTQ?oc=5",
+      "published": "2026-11-11T04:26:34+09:00",
+      "tags": [],
+      "event": "saar-interior-minister",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Iran unveils massive underground 'missile city' as IRGC warns of violent global response",
+      "title_ko": "이란, 대규모 지하 '미사일 도시' 공개…IRGC '전 세계적 강력 대응' 경고",
+      "summary_ko": "이란이 대규모 지하 '미사일 도시'를 공개했고 혁명수비대가 전 세계적 강력 대응을 경고했다는 제목 보도.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yZ2hWZFczbk9GU3kycks2NkpVSHBGZlpoMGdVejY4TWphRHJzc25jVG9nMGxIOWN3Q0hScXdFT1gwcEhiTU85ZW9rcm5BZ0hyampSclVJZ3Zjc082SnNWYWtBSm5sQmtUTlE?oc=5",
+      "published": "2026-11-11T04:09:40+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "iran-underground-missile-city",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Maldives moves to enact permanent ban on Israeli passport holders, blocks Israeli investment",
+      "title_ko": "몰디브, 이스라엘 여권 소지자 영구 입국 금지 법제화 추진…이스라엘 투자도 차단",
+      "summary_ko": "몰디브가 이스라엘 여권 소지자의 영구 입국 금지를 법제화하고 이스라엘 투자를 차단하는 조치에 나섰다는 제목 보도.",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QTmFRZHU5NzdYT3FvSlVsM3QyNXdoSFl5VS1uWllOemZVMDFGRzNieElHY1dJdlo4Y3FQT3JtRUM2MjlQLTV4RDZXdU85TWNpTHVsLXUyd0FLMEdSVnh3?oc=5",
+      "published": "2026-11-11T04:01:53+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation",
+        "business"
+      ],
+      "event": "maldives-israeli-ban",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "East Jerusalem man suspected of raping Tel Aviv woman at her home",
+      "title_ko": "동예루살렘 남성, 텔아비브 여성 자택서 성폭행 혐의",
+      "summary_ko": "동예루살렘 남성이 텔아비브 여성의 자택에서 성폭행한 혐의를 받고 있다는 제목 보도.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2T18yVHpqc0ZqLWJ1bm9nb2dCMlg5UXV2TmhObnVQVC05MGNGSFB2b3FoYlBKbm9WWkhtSXZRalpWb1RZeEJLYzNpUDE4ZC00R1VhOTVOVWtFTC1JVGI5dUg5dmFsUFVFdjRfWkVEQ21qUQ?oc=5",
+      "published": "2026-11-11T03:58:00+09:00",
+      "tags": [],
+      "event": "tel-aviv-rape-suspect",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "US, Iran more likely to reach deal to end war than two months ago, ex-Mossad official tells 'Post'",
+      "title_ko": "전 모사드 관계자 'Post'에 '미·이란, 두 달 전보다 종전 합의 가능성 커져'",
+      "summary_ko": "전 모사드 관계자가 미국과 이란이 두 달 전보다 전쟁 종식 합의에 이를 가능성이 높아졌다고 말했다는 제목 보도.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DUUNWTkJZTkJxQllwamZaSGhZZjlXa1BaVzhVWDQyU2hCSklLSUVJNEVIREVxWVlzcFJfVVI4enQtQVdqRmZlQklNTWJJeFU2aU1SY18zVmlsajhLY3kzZjA5SDVOdzBodFE?oc=5",
+      "published": "2026-11-11T03:49:34+09:00",
+      "tags": [
+        "geopolitics",
+        "forecast"
+      ],
+      "event": "us-iran-war-diplomacy",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Defense Ministry advances NIS 5.5 billion barrier along Israel-Jordan border",
+      "title_ko": "국방부, 이스라엘-요르단 국경 55억 셰켈 장벽 사업 추진",
+      "summary_ko": "국방부가 이스라엘-요르단 국경을 따라 55억 셰켈 규모의 장벽 사업을 추진한다는 제목 보도.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GcjNLZWtwWnJULUZaSi0wYkNySzEzTDhCdFhLRm81dUxLMmlZbnRTMGp2RGJrc1g1Q1FyRmY5N3hIQ3NmYzUzejRKYWtxUGoyVHdiMWl5ZTFETmFiNmw2X3JwNHZCUGtpZEx1aFZB?oc=5",
+      "published": "2026-11-11T03:41:30+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "israel-jordan-border-barrier",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "With a ‘king’ and 15 child ‘subjects’: suspected cult’s Galilee ‘kingdom’ dismantled",
+      "title_ko": "'왕'과 15명의 아동 '신민': 갈릴리의 사이비 의심 집단 '왕국' 해체",
+      "summary_ko": "'왕'과 아동 15명으로 이뤄진 갈릴리의 사이비 의심 집단 '왕국'이 해체됐다는 제목 보도.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iUVFYb0YxbWg5TzlFUjBfZUlqcjU0ZGlJUmF5ZjV4VDhXbDRENlFBcl9YNHppcldJdjhtTWdBMGVmRENiczdaRW53Y1RseExQdEJxUjRR?oc=5",
+      "published": "2026-11-11T05:28:09+09:00",
+      "tags": [],
+      "event": "galilee-cult-dismantled",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "PM's Office to Peace Council for Gaza: 'Hamas Has Not Surrendered Even One Weapon'",
+      "title_ko": "총리실, 가자 평화위원회에 '하마스는 무기 하나도 반납하지 않았다'",
+      "summary_ko": "총리실이 가자 평화위원회에 하마스가 무기를 단 하나도 반납하지 않았다고 전했다는 제목 보도.",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uWEVvbkpmQ3RFOHBqSl9KWnBDeUxtOUkwNHBRRENJODVoN2Q5X3BzSFVBS0o0UllWVF8xNnJCZVBfczdwb1lldmFsMmJDMnFCZmFVQg?oc=5",
+      "published": "2026-11-11T05:21:41+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "gaza-hamas-disarmament",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "‘Blow up Tel Aviv,’ Arab crime-clans and Hamas supporters: scandals haunt Die Linke’s Berlin victory",
+      "title_ko": "'텔아비브를 폭파하라', 아랍 범죄 씨족과 하마스 지지자: 디 링케의 베를린 승리를 따라다니는 스캔들",
+      "summary_ko": "독일 좌파당(디 링케)의 베를린 승리에 '텔아비브 폭파' 발언, 아랍 범죄 씨족, 하마스 지지자 관련 스캔들이 뒤따르고 있다는 제목 보도.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zdUs4TnFkcFdPUXZUcDltLTdMMTRzdkh4QXR0aEZ2T0RmSGdfNW1uY2xKMEQ1YXpUZE9hMGJNY1JfT1pUVFFfZmRVRnFQYlNMZS1FMTRn?oc=5",
+      "published": "2026-11-11T04:53:29+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "die-linke-berlin-scandals",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Lebanese Report of Strike in Country's South",
+      "title_ko": "레바논, 남부 지역 공습 보도",
+      "summary_ko": "레바논 측이 자국 남부에서 공습이 있었다고 보도했다는 제목 보도.",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YVXRzM2g1dFFpTVVtNE05bWo5dXZqZUNsTGcycFBvV25zcnA2MkZpOVlzbHBoemhFc1E2cFBpa2hLejlTdmFxMzM2TlU2Rm9rV1EyRQ?oc=5",
+      "published": "2026-11-11T04:29:10+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "south-lebanon-strike",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Doctors and a pacemaker tech: The cost of Netanyahu’s medical entourage",
+      "title_ko": "의사와 심박조율기 기술자: 네타냐후 의료 수행단의 비용",
+      "summary_ko": "네타냐후 의료 수행단(의사·심박조율기 기술자)의 비용을 다룬 기사(제목 기준).",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WRkVHTlFUT0tzU1gtVEN5T1RHQVVoOWZEZzZHSUtHeVRBLU1aLVhrdFJZZ2tPZTE0ZmhGSjZGQ211M0p0ODFaXzBob1Y3RnNBenpRclFLaw?oc=5",
+      "published": "2026-11-11T04:28:13+09:00",
+      "tags": [],
+      "event": "netanyahu-medical-entourage-cost",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Michael Rabello Was Supposed to Represent Likud in Meeting With Yashar!",
+      "title_ko": "미하엘 라벨로, 리쿠드 대표로 야샤르! 측과 회동할 예정이었다",
+      "summary_ko": "미하엘 라벨로가 야샤르! 측과의 회동에 리쿠드를 대표해 나갈 예정이었다는 제목 보도.",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XQXRud19BQjNRLWg3SHlTaGZQS25raWxrV0F6M3V0RFdMdmhXbnhCUURHMGIwOU14R2VRU0JSYXRMdGhyWkZ1UHZJT25PMUNJWDRQeg?oc=5",
+      "published": "2026-11-11T04:03:30+09:00",
+      "tags": [],
+      "event": "likud-yashar-meeting",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Netanyahu and Trump clash over Iran in 'shouting match from hell'",
+      "title_ko": "네타냐후와 트럼프, 이란 문제로 '지옥 같은 고성 언쟁'",
+      "summary_ko": "네타냐후와 트럼프가 이란 문제를 두고 격한 언쟁을 벌였다는 제목 보도.",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WVDBqYy1GMVoxVDk2Ukh1SExLWE5raTBZbC1CSzhGaDVBWmljQWxWNW5RVy1QazdoVnZCUnpsYVNiTTktQWd3SjJrWjkxb0dwcUtZdA?oc=5",
+      "published": "2026-11-11T03:48:26+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "netanyahu-trump-iran-clash",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Israel’s last living Righteous Among the Nations dies at 91",
+      "title_ko": "이스라엘의 마지막 생존 '열방의 의인', 91세로 별세",
+      "summary_ko": "이스라엘에 생존해 있던 마지막 '열방의 의인'이 91세로 별세했다는 제목 보도.",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OQ251T3Bla1RVbTFIX1NGcXJpd3JvSi1ZWnJRcXdLc0lrOS1FdVh4N1JVWjZSX1d0emhtVVpybk82Y2E3LUpzcExDYjZpMHVZMWxxMU1xUHJpdFhzWTNPMHdkVTc1R3M?oc=5",
+      "published": "2026-11-11T03:47:08+09:00",
+      "tags": [],
+      "event": "last-righteous-among-nations-dies",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Ribon given $1.5b valuation in unique investment structure",
+      "title_ko": "리본, 독특한 투자 구조로 15억 달러 기업가치 인정받아",
+      "summary_ko": "Globes는 설립 전부터 이스라엘 사이버보안 기업 리본에 1억5천만~2억 달러를 약정한 주요 벤처캐피털과 투자자를 공개했다.",
+      "url": "https://en.globes.co.il/en/article-1001562902#utm_source=RSS",
+      "published": "2026-11-11T03:46:13+09:00",
+      "tags": [
+        "business",
+        "industry"
+      ],
+      "event": "ribon-valuation",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Tue: Banks fuel big TASE gains",
+      "title_ko": "화요일 TASE: 은행주가 큰 상승 견인",
+      "summary_ko": "이날 은행주가 급등했고 넥스트비전은 2거래일 연속 큰 폭으로 올랐다.",
+      "url": "https://en.globes.co.il/en/article-1001562891#utm_source=RSS",
+      "published": "2026-11-11T02:05:00+09:00",
+      "tags": [
+        "stocks"
+      ],
+      "event": "tase-daily-close",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Arcaffe owner joins race to acquire Arkia",
+      "title_ko": "아르카페 소유주, 아르키아 인수전 합류",
+      "summary_ko": "Globes에 따르면 야론 야르코니가 재정난을 겪는 이스라엘 항공사 아르키아 인수에 관심을 보인 사업가 중 한 명이다.",
+      "url": "https://en.globes.co.il/en/article-1001562886#utm_source=RSS",
+      "published": "2026-11-11T01:27:49+09:00",
+      "tags": [
+        "business",
+        "industry"
+      ],
+      "event": "arkia-acquisition",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Mekorot to upgrade Kazakhstan’s water infrastructure",
+      "title_ko": "메코로트, 카자흐스탄 수도 인프라 개선 맡는다",
+      "summary_ko": "이스라엘 국영 수자원 기업 메코로트가 카자흐스탄 아바이 사막 지역의 수도망을 대규모로 개선하는 협약을 체결했다.",
+      "url": "https://en.globes.co.il/en/article-1001562793#utm_source=RSS",
+      "published": "2026-11-10T23:47:00+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "mekorot-kazakhstan-water",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Israeli cybersecurity co Daylight raises $80m",
+      "title_ko": "이스라엘 사이버보안 기업 데이라이트, 8천만 달러 유치",
+      "summary_ko": "이 회사의 직원은 80명이며 그중 43명이 이스라엘에 있다.",
+      "url": "https://en.globes.co.il/en/article-1001562755#utm_source=RSS",
+      "published": "2026-11-10T22:17:15+09:00",
+      "tags": [
+        "business",
+        "industry"
+      ],
+      "event": "daylight-funding",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Revolut awarded license to set up bank in Israel",
+      "title_ko": "레볼루트, 이스라엘 은행 설립 인가 획득",
+      "summary_ko": "영국 글로벌 핀테크 기업 레볼루트가 원제로, 에쉬에 이어 이스라엘은행으로부터 디지털은행 인가를 받은 세 번째 은행이 됐다.",
+      "url": "https://en.globes.co.il/en/article-1001562752#utm_source=RSS",
+      "published": "2026-11-10T21:44:50+09:00",
+      "tags": [
+        "business",
+        "monetary"
+      ],
+      "event": "revolut-israel-bank-license",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Power curbs for data centers in Norway send Azrieli lower",
+      "title_ko": "노르웨이 데이터센터 전력 제한에 아즈리엘리 주가 하락",
+      "summary_ko": "노르웨이의 데이터센터 전력 공급 제한으로 아즈리엘리 그룹 주가가 하락했다(제목 기준).",
+      "url": "https://en.globes.co.il/en/article-1001562730#utm_source=RSS",
+      "published": "2026-11-10T19:45:00+09:00",
+      "tags": [
+        "stocks",
+        "industry"
+      ],
+      "event": "azrieli-norway-data-centers",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Dreame importer Cristalino plans TASE IPO",
+      "title_ko": "드리미 수입사 크리스탈리노, TASE 상장 추진",
+      "summary_ko": "엘바즈 가문과 사모펀드 라키아 캐피털이 절반씩 소유한 크리스탈리노가 8억~10억 셰켈의 기업가치를 목표로 한다.",
+      "url": "https://en.globes.co.il/en/article-1001562715#utm_source=RSS",
+      "published": "2026-11-10T18:10:00+09:00",
+      "tags": [
+        "stocks",
+        "business"
+      ],
+      "event": "cristalino-ipo",
+      "state_media": false
+    }
+  ],
+  "events": [
+    {
+      "event": "us-iran-war-diplomacy",
+      "title_ko": "미·이란 전쟁 종식 외교와 호르무즈 봉쇄",
+      "sources": [
+        "i24NEWS",
+        "Haaretz",
+        "Jerusalem Post"
+      ],
+      "count": 3
+    },
+    {
+      "event": "knesset-26-swearing-in",
+      "title_ko": "제26대 크네세트 취임",
+      "sources": [
+        "i24NEWS",
+        "Haaretz",
+        "Jerusalem Post"
+      ],
+      "count": 3
+    },
+    {
+      "event": "revolut-israel-bank-license",
+      "title_ko": "레볼루트 이스라엘 은행 인가",
+      "sources": [
+        "Times of Israel",
+        "Globes"
+      ],
+      "count": 2
+    },
+    {
+      "event": "iran-underground-missile-city",
+      "title_ko": "이란 지하 '미사일 도시' 공개",
+      "sources": [
+        "Haaretz",
+        "Jerusalem Post"
+      ],
+      "count": 2
+    },
+    {
+      "event": "abbas-netanyahu-sinwar-claim",
+      "title_ko": "아바스 '네타냐후-신와르 상호 이해' 주장",
+      "sources": [
+        "Haaretz",
+        "Jerusalem Post"
+      ],
+      "count": 2
+    },
+    {
+      "event": "knesset-26-lineups",
+      "title_ko": "제26대 크네세트 정당별 명단",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "youssef-jabareen",
+      "title_ko": "유세프 자바린 관련 뉴스·최신 헤드라인",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "raam-coalition-hamas-recognition",
+      "title_ko": "만수르 아바스, 연정 참여 대가로 하마스를 테러조직으로 인정하기로 동의 - 보도",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "toi-blog-democracy",
+      "title_ko": "[블로그] 민주주의에 위대한 날",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "toi-holocaust-museums-op",
+      "title_ko": "유대 교육을 희생시킨 홀로코스트 박물관의 어리석음",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "toi-torah-toledot",
+      "title_ko": "카인과 헤벨, 에서와 야곱: 미드라시 속 비방 사례 연구(톨레도트)",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "toi-blog-google-gilgul",
+      "title_ko": "[블로그] 구글과 길굴은 아주 좋은 파트너",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "us-congress-gaza-plan",
+      "title_ko": "민주당의 의회 장악이 트럼프의 가자 구상을 강화할 수 있다",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "toi-blog-invitation",
+      "title_ko": "[블로그] 초대합니다!",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "toi-blog-learning-hebrew",
+      "title_ko": "[블로그] 작은 친구와 함께 히브리어 배우기",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "us-democrats-christian-gaza-critique",
+      "title_ko": "이 민주당 인사들이 이스라엘 전쟁에 반대하는 기독교적 논거를 의회로 가져가고 있다",
+      "sources": [
+        "Haaretz"
+      ],
+      "count": 1
+    },
+    {
+      "event": "fake-iranian-accounts-netanyahu",
+      "title_ko": "가짜 '이란인' 계정들, 이스라엘 총선 앞두고 네타냐후 지지 운동",
+      "sources": [
+        "Haaretz"
+      ],
+      "count": 1
+    },
+    {
+      "event": "lod-coexistence-op",
+      "title_ko": "로드의 '공존' 요구가 팔레스타인 주민에게 공허하게 들리는 이유",
+      "sources": [
+        "Haaretz"
+      ],
+      "count": 1
+    },
+    {
+      "event": "west-bank-university-president-raid",
+      "title_ko": "팔레스타인 대학 총장 '서안 IDF 급습 중 폭행당했다'",
+      "sources": [
+        "Haaretz"
+      ],
+      "count": 1
+    },
+    {
+      "event": "saar-interior-minister",
+      "title_ko": "네타냐후, 사르 외무장관을 내무장관에 임명 예정…16개월 공석 해소",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "maldives-israeli-ban",
+      "title_ko": "몰디브, 이스라엘 여권 소지자 영구 입국 금지 법제화 추진…이스라엘 투자도 차단",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "tel-aviv-rape-suspect",
+      "title_ko": "동예루살렘 남성, 텔아비브 여성 자택서 성폭행 혐의",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "israel-jordan-border-barrier",
+      "title_ko": "국방부, 이스라엘-요르단 국경 55억 셰켈 장벽 사업 추진",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "galilee-cult-dismantled",
+      "title_ko": "'왕'과 15명의 아동 '신민': 갈릴리의 사이비 의심 집단 '왕국' 해체",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "gaza-hamas-disarmament",
+      "title_ko": "총리실, 가자 평화위원회에 '하마스는 무기 하나도 반납하지 않았다'",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "die-linke-berlin-scandals",
+      "title_ko": "'텔아비브를 폭파하라', 아랍 범죄 씨족과 하마스 지지자: 디 링케의 베를린 승리를 따라다니는 스캔들",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "south-lebanon-strike",
+      "title_ko": "레바논, 남부 지역 공습 보도",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "netanyahu-medical-entourage-cost",
+      "title_ko": "의사와 심박조율기 기술자: 네타냐후 의료 수행단의 비용",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "likud-yashar-meeting",
+      "title_ko": "미하엘 라벨로, 리쿠드 대표로 야샤르! 측과 회동할 예정이었다",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "netanyahu-trump-iran-clash",
+      "title_ko": "네타냐후와 트럼프, 이란 문제로 '지옥 같은 고성 언쟁'",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "last-righteous-among-nations-dies",
+      "title_ko": "이스라엘의 마지막 생존 '열방의 의인', 91세로 별세",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ribon-valuation",
+      "title_ko": "리본, 독특한 투자 구조로 15억 달러 기업가치 인정받아",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "tase-daily-close",
+      "title_ko": "화요일 TASE: 은행주가 큰 상승 견인",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "arkia-acquisition",
+      "title_ko": "아르카페 소유주, 아르키아 인수전 합류",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "mekorot-kazakhstan-water",
+      "title_ko": "메코로트, 카자흐스탄 수도 인프라 개선 맡는다",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "daylight-funding",
+      "title_ko": "이스라엘 사이버보안 기업 데이라이트, 8천만 달러 유치",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "azrieli-norway-data-centers",
+      "title_ko": "노르웨이 데이터센터 전력 제한에 아즈리엘리 주가 하락",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "cristalino-ipo",
+      "title_ko": "드리미 수입사 크리스탈리노, TASE 상장 추진",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    }
+  ],
+  "unavailable_sources": [
+    "Kan (KAN News)",
+    "N12 (Channel 12)"
+  ]
+}

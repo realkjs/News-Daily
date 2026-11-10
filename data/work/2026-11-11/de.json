@@ -1,0 +1,1496 @@
+{
+  "team": "de",
+  "headlines": [
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Erster Tag der Ukraine-Gespräche: Keine Ergebnisse, aber Hoffnung für Gefangene",
+      "title_ko": "우크라이나 협상 첫날: 성과는 없지만 포로 교환에 희망",
+      "summary_ko": "러시아와 우크라이나의 아부다비 협상 첫날이 공식 성과 없이 끝났다. 언론은 포로 교환이 계획돼 있다고 보도했으나 휴전은 아직 멀어 보인다.",
+      "url": "https://www.tagesschau.de/ausland/asien/ukraine-russland-krieg-gespraeche-abu-dhabi-100.html",
+      "published": "2026-11-11T06:08:29+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-talks-abu-dhabi",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Trauerfeier nach Zugunglück mit 69 Toten in Spanien",
+      "title_ko": "사망자 69명 낸 스페인 열차 사고 추모식",
+      "summary_ko": "약 2주 전 1년 사이 두 번째 대형 열차 사고가 스페인을 뒤흔들었다. 톨레도에서 열린 추모식에서 사망자 69명을 기렸다.",
+      "url": "https://www.tagesschau.de/ausland/europa/trauerfeier-spanien-102.html",
+      "published": "2026-11-11T06:04:36+09:00",
+      "tags": [],
+      "event": "spain-train-crash-memorial",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "tagesschau in 100 Sekunden",
+      "title_ko": "타게스샤우 100초 뉴스",
+      "summary_ko": "타게스샤우 100초 뉴스 (요약 영상, 세부 내용 없음).",
+      "url": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1681698.html",
+      "published": "2026-11-11T05:49:45+09:00",
+      "tags": [],
+      "event": "tagesschau-100-sekunden",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "S. Diettrich, ARD Moskau und R. Barth, ARD Kiew, zu den Ukraine-Gesprächen in Abu Dhabi",
+      "title_ko": "ARD 모스크바·키이우 특파원, 아부다비 우크라이나 협상 전해",
+      "summary_ko": "ARD 모스크바 특파원 S. 디트리히와 키이우 특파원 R. 바르트가 아부다비 우크라이나 협상에 대해 보도했다.",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681678.html",
+      "published": "2026-11-11T04:42:42+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-talks-abu-dhabi",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Bund stock E-Auto-Prämie für 2027 auf",
+      "title_ko": "연방정부, 2027년 전기차 보조금 증액",
+      "summary_ko": "연방정부가 2027년 전기차 보조금을 늘린다.",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681676.html",
+      "published": "2026-11-11T04:41:09+09:00",
+      "tags": [
+        "industry",
+        "legislation"
+      ],
+      "event": "germany-ev-subsidy-2027",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "tagesschau 20:00 Uhr",
+      "title_ko": "타게스샤우 20시 뉴스",
+      "summary_ko": "기계공업협회장의 업계 위기 책임 정부 지목, AI를 기회로 보는 기계공업 기업 증가, 정부의 전기차 보조금 증액 추진, 아부다비 우크라이나 종전 협상, 스페인 열차 사고 추모식, 파비안 살해 사건 판결 등을 다뤘다.",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681672.html",
+      "published": "2026-11-11T04:17:56+09:00",
+      "tags": [
+        "industry",
+        "geopolitics"
+      ],
+      "event": "tagesschau-20-uhr-bulletin",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Prozessauftakt gegen ehemalige rbb-Intendantin Schlesinger",
+      "title_ko": "전 rbb 사장 슐레징어 재판 개시",
+      "summary_ko": "전 rbb(베를린-브란덴부르크 방송) 사장 슐레징어에 대한 재판이 시작됐다.",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681664.html",
+      "published": "2026-11-11T04:17:24+09:00",
+      "tags": [],
+      "event": "rbb-schlesinger-trial",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Angeklagte im Fall Fabian zu lebenslanger Haft verurteilt",
+      "title_ko": "파비안 사건 피고인에 종신형 선고",
+      "summary_ko": "파비안 사건 피고인이 종신형을 선고받았다.",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681666.html",
+      "published": "2026-11-11T04:16:59+09:00",
+      "tags": [],
+      "event": "fabian-murder-verdict",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Linken-Fraktion: Emde soll ausgeschlossen werden",
+      "title_ko": "좌파당 원내교섭단체: 엠데 축출 추진",
+      "summary_ko": "베를린 좌파당 원내 지도부가 반이스라엘 입장을 이유로 바네사 엠데 의원을 교섭단체에서 축출하려 하며, 관련 안건을 마련 중이다.",
+      "url": "https://www.zdfheute.de/video/politik-emde-linke-kritik-partei-ausschluss-video-100.html",
+      "published": "2026-11-11T06:05:00+09:00",
+      "tags": [],
+      "event": "berlin-left-emde-expulsion",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Fußfessel selbst entfernt: Thomas Markle erneut festgenommen",
+      "title_ko": "전자발찌 스스로 제거: 토마스 마클 재체포",
+      "summary_ko": "메건 왕자비의 부친 토마스 마클이 전자발찌를 제거한 혐의로 다시 체포됐다. 한편 메건은 브뤼셀에서 아동 보호 강화를 호소했다.",
+      "url": "https://www.zdfheute.de/panorama/kriminalitaet/thomas-markle-fussfessel-kindesmissbrauch-verdacht-meghan-100.html",
+      "published": "2026-11-11T05:48:00+09:00",
+      "tags": [],
+      "event": "thomas-markle-arrest",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
+      "title_ko": "이란 전쟁·중동 분쟁: 라이브블로그 전체 소식",
+      "summary_ko": "중동 정세가 여전히 긴장 상태로 공격이 반복되고 있으며, 요르단강 서안 상황이 악화되고 있다.",
+      "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+      "published": "2026-11-11T05:32:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "middle-east-iran-war-liveblog",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Prozess gegen frühere RBB-Intendantin Schlesinger begonnen",
+      "title_ko": "전 RBB 사장 슐레징어 재판 시작",
+      "summary_ko": "전 RBB 사장과 다른 간부 3명에 대한 재판이 시작됐다. 검찰은 배임 혐의를 제기하며 피해액을 170만 유로로 산정했다.",
+      "url": "https://www.zdfheute.de/panorama/kriminalitaet/rbb-skandal-vor-gericht-patricia-schlesinger-100.html",
+      "published": "2026-11-11T05:13:00+09:00",
+      "tags": [],
+      "event": "rbb-schlesinger-trial",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "CEUTA: Die Folgen für Europas Asylpolitik",
+      "title_ko": "세우타: 유럽 난민 정책에 미친 여파",
+      "summary_ko": "2026년 여름 세우타로의 대규모 탈출이 스페인·모로코·EU 간 긴장을 낳고 있다. 모로코가 이주를 정치적 압박 수단으로 썼을 수 있다는 의혹이 제기된다.",
+      "url": "https://www.zdfheute.de/video/frontal/ceuta-und-die-folgen-fuer-europas-asylpolitik-100.html",
+      "published": "2026-11-11T05:00:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ceuta-migration",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Wirecard: Lehren aus dem Wirtschaftsskandal",
+      "title_ko": "와이어카드: 경제 스캔들의 교훈",
+      "summary_ko": "스캔들 6년 만에 마르쿠스 브라운 전 CEO에 대한 형사재판이 마무리 단계에 들어섰다. 동료 이사 얀 마르살레크는 여전히 도주 중이다.",
+      "url": "https://www.zdfheute.de/video/frontal/wirecard-prozess-vor-abschluss-lehren-aus-dem-wirtschaftsskandal-100.html",
+      "published": "2026-11-11T05:00:00+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "wirecard-trial",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "AfD-Schlammschlacht in NRW",
+      "title_ko": "NRW 주 AfD 진흙탕 싸움",
+      "summary_ko": "여론조사 지지율 급등 속에서 AfD가 최대 지역조직인 노르트라인베스트팔렌에서 격렬한 권력·계파 다툼을 벌이고 있다.",
+      "url": "https://www.zdfheute.de/video/frontal/afd-schlammschlacht-in-nrw-100.html",
+      "published": "2026-11-11T05:00:00+09:00",
+      "tags": [],
+      "event": "afd-nrw-infighting",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Rüstungsmanager im Visier russischer Agenten",
+      "title_ko": "러시아 요원들의 표적이 된 방산업체 경영진",
+      "summary_ko": "스파이 활동·사보타주·위협 등 러시아의 작전과 요원들이 유럽 방위산업에 대한 압박을 키우고 있다.",
+      "url": "https://www.zdfheute.de/video/frontal/ruestungsunternehmen-im-visier-russischer-agenten-100.html",
+      "published": "2026-11-11T05:00:00+09:00",
+      "tags": [
+        "industry",
+        "geopolitics"
+      ],
+      "event": "russian-agents-defense-industry",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Sudan-Krieg: Immer mehr Menschen in Not - Kürzungen verschärfen die Lage",
+      "title_ko": "수단 전쟁: 곤경에 처한 사람 증가 — 지원 삭감이 상황 악화",
+      "summary_ko": "수단에서 3,370만 명이 원조에 의존하지만 국제 지원은 곳곳에서 삭감됐다. 전쟁과 드론 공격도 주민 지원을 어렵게 하고 있다.",
+      "url": "https://www.dw.com/de/sudan-krieg-immer-mehr-menschen-in-not-kürzungen-verschärfen-die-lage/a-79908319?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-11T01:20:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "sudan-humanitarian-crisis",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Diplomaten und Geheimdienstler: Wer vertritt Russland in Abu Dhabi?",
+      "title_ko": "외교관과 정보요원: 아부다비에서 러시아를 대표하는 이는 누구인가",
+      "summary_ko": "모스크바는 외교관과 군 인사를 아부다비에 보내 우크라이나·미국 대표들과 종전 협상을 벌이고 있다. 기사는 러시아 협상단에 대해 알려진 내용을 다룬다.",
+      "url": "https://www.dw.com/de/diplomaten-und-geheimdienstler-wer-vertritt-russland-in-abu-dhabi/a-79908948?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-11T01:14:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-talks-abu-dhabi",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "KI wirbelt Arbeitsmarkt laut BA-Chefin durcheinander",
+      "title_ko": "연방고용청장 \"AI가 노동시장을 뒤흔든다\"",
+      "summary_ko": "AI가 수많은 일자리를 없앨지, 새 일자리를 만들지를 두고 안드레아 날레스 연방고용청장이 미래 전망을 제시했다.",
+      "url": "https://www.dw.com/de/ki-wirbelt-arbeitsmarkt-laut-ba-chefin-durcheinander/a-79910561?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-10T23:55:00+09:00",
+      "tags": [
+        "industry",
+        "forecast"
+      ],
+      "event": "ai-labor-market-nahles",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "US-Republikaner will Amtsenthebung von Pentagon-Chef Hegseth",
+      "title_ko": "미 공화당 의원, 헤그세스 국방장관 탄핵 요구",
+      "summary_ko": "트럼프 대통령 때문에 재선에 실패한 매시 의원이 의회에 피트 헤그세스 국방장관 해임을 촉구했다. 다만 성공 가능성은 매우 낮다.",
+      "url": "https://www.dw.com/de/us-republikaner-will-amtsenthebung-von-pentagon-chef-hegseth/a-79906935?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-10T23:12:00+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation"
+      ],
+      "event": "hegseth-impeachment",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Frankreich bestellt iranischen Botschafter ein",
+      "title_ko": "프랑스, 이란 대사 초치",
+      "summary_ko": "파리는 10월 냉각 시스템 대상 사이버 공격의 배후로 이란을 지목했으며, 수사관들이 관련 흔적을 찾았다고 전해졌다. 프랑스-이란 관계는 더 냉각되고 있다.",
+      "url": "https://www.dw.com/de/frankreich-bestellt-iranischen-botschafter-ein/a-79907804?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-10T22:57:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "france-iran-ambassador-cyberattack",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Das CAS-Urteil zur Russland-Rückkehr im Eishockey und die Folgen",
+      "title_ko": "아이스하키 러시아 복귀 관련 CAS 판결과 그 여파",
+      "summary_ko": "독일아이스하키연맹은 2027년 자국 개최 세계선수권을 러시아 없이 준비해 왔지만 CAS의 재허용 판결로 준비가 흔들리고 있다. 뮌헨의 올림픽 유치에도 영향이 있을 수 있다.",
+      "url": "https://www.dw.com/de/das-cas-urteil-zur-russland-rückkehr-im-eishockey-und-die-folgen/a-79908790?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-10T22:08:00+09:00",
+      "tags": [],
+      "event": "cas-russia-ice-hockey",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Kalifornier lehnen Milliardärssteuer ab",
+      "title_ko": "캘리포니아 유권자, 억만장자세 거부",
+      "summary_ko": "부유세 추진안에는 막대한 자금으로 광고전을 벌인 강력한 반대 세력이 있었다. 결국 다수 유권자가 반대표를 던졌다.",
+      "url": "https://www.dw.com/de/kalifornier-lehnen-milliardärssteuer-ab/a-79907731?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-10T20:01:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "california-billionaire-tax",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Verletzung Manuel Neuer: Schlecht für FC Bayern, gut für Deutschland?",
+      "title_ko": "마누엘 노이어 부상: 바이에른엔 악재, 독일 대표팀엔 호재?",
+      "summary_ko": "바이에른 뮌헨 골키퍼 노이어가 발 부상으로 장기 이탈해 요나스 우르비히가 골문을 맡는다. 대표팀 주전 골키퍼 경쟁에도 변화가 있을지 주목된다.",
+      "url": "https://www.dw.com/de/verletzung-manuel-neuer-schlecht-für-fc-bayern-gut-für-deutschland/a-79901811?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-10T19:04:00+09:00",
+      "tags": [],
+      "event": "neuer-injury",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "In England festgenommen: US-Militärangehöriger soll für Russland spioniert haben",
+      "title_ko": "영국서 체포: 미군 장병, 러시아 위해 스파이 활동 혐의",
+      "summary_ko": "영국 당국이 영국 내 나토 기지에서 외국 정보기관을 도운 혐의로 미군 장병을 체포했다. 수사가 진행 중인 가운데 파텔 FBI 국장은 중요한 체포라고 밝혔다.",
+      "url": "https://www.n-tv.de/politik/US-Militaerangehoeriger-soll-fuer-Russland-spioniert-haben-id31519051.html",
+      "published": "2026-11-11T05:52:50+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-serviceman-russia-spying-uk",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Trotz laufenden Vertrags: US-Nationaltrainer signalisiert Interesse an Job bei Man United",
+      "title_ko": "계약 중에도: 미국 대표팀 감독, 맨유 감독직에 관심 시사",
+      "summary_ko": "영국·미국 언론은 맨체스터 유나이티드 차기 감독으로 현 미국 대표팀 감독 마우리시오 포체티노를 거론하고 있다. 율리안 나겔스만에게는 나쁜 소식이 될 수 있다.",
+      "url": "https://www.n-tv.de/sport/fussball/US-Nationaltrainer-signalisiert-Interesse-an-Job-bei-Man-United-id31519013.html",
+      "published": "2026-11-11T05:34:14+09:00",
+      "tags": [],
+      "event": "pochettino-man-united",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Perücke liegt schon bereit: Sarah Kuttner will ihre Chemotherapie per Video dokumentieren",
+      "title_ko": "가발도 준비: 사라 쿠트너, 항암 치료 영상으로 기록",
+      "summary_ko": "방송인 사라 쿠트너(47)가 유방암 진단을 받았으며 항암 치료 과정을 영상으로 남길 계획이다. 끝까지 해낼지는 열어 두었다.",
+      "url": "https://www.n-tv.de/leute/Sarah-Kuttner-will-ihre-Chemotherapie-per-Video-dokumentieren-id31518991.html",
+      "published": "2026-11-11T05:08:08+09:00",
+      "tags": [],
+      "event": "sarah-kuttner-chemo",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "DFB-Stars singen Ständchen: Klopp startet mit Doppel-Einheit - nur El Mala fehlt",
+      "title_ko": "DFB 선수들 축가: 클롭, 하루 두 차례 훈련으로 시작 — 엘 말라만 불참",
+      "summary_ko": "독일 대표팀은 네이션스리그 조별리그 마지막 경기에서 승점이 필요하다. 헤르초게나우라흐 소집 첫 훈련에 24명 중 1명만 빠졌다.",
+      "url": "https://www.n-tv.de/sport/fussball/Klopp-startet-mit-Doppel-Einheit-nur-El-Mala-fehlt-id31519002.html",
+      "published": "2026-11-11T05:04:50+09:00",
+      "tags": [],
+      "event": "dfb-nations-league-camp",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Kurz vor Trade Deadline: Minnesota Vikings holen Quarterback Kirk Cousins zurück",
+      "title_ko": "트레이드 마감 직전: 미네소타 바이킹스, 쿼터백 커크 커즌스 재영입",
+      "summary_ko": "NFL 트레이드 마감 몇 시간 전 이적시장이 다시 움직였다. 미네소타 바이킹스가 옛 소속 선수를 다시 데려온다.",
+      "url": "https://www.n-tv.de/sport/nfl/NFL-Minnesota-Vikings-holen-Quarterback-Kirk-Cousins-zurueck-id31519009.html",
+      "published": "2026-11-11T04:55:54+09:00",
+      "tags": [],
+      "event": "nfl-cousins-vikings",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Furcht vor Untersuchungen?: Bericht: US-Regierung zerstört interne Dokumente zu Trumps Bauprojekten",
+      "title_ko": "조사 우려?: \"미 정부, 트럼프 건축 사업 내부 문서 파기\" 보도",
+      "summary_ko": "중간선거 패배 이후 트럼프는 주로 건축 사업을 언급해 왔으나 백악관 연회장과 개선문 완공은 불확실하다. 민주당이 곧 의회 조사에 착수할 것으로 보인다.",
+      "url": "https://www.n-tv.de/politik/Bericht-US-Regierung-zerstoert-interne-Dokumente-zu-Trumps-Bauprojekten-id31518846.html",
+      "published": "2026-11-11T03:56:24+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "trump-building-documents",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Geberkonferenz in Frankreich: Millionenhilfe für Tschernobyl-Schutzhülle nach Drohneneinschlag",
+      "title_ko": "프랑스 공여국 회의: 드론 피격 체르노빌 보호 덮개에 수억 유로 지원",
+      "summary_ko": "1986년 사고 원자로를 덮은 보호 구조물에 누출이 생겼다. 파리 회의에서 수리비 3억 300만 유로가 모였지만 전체 비용에는 상당액이 부족하다.",
+      "url": "https://www.n-tv.de/politik/Millionenhilfe-fuer-Tschernobyl-Schutzhuelle-nach-Drohneneinschlag-id31518493.html",
+      "published": "2026-11-11T03:33:28+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "chernobyl-shelter-donor-conference",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Gefängnisstrafe auf Bewährung: Verdächtiger im Fall Lisa T. ist vorbestraft und war in der Psychiatrie",
+      "title_ko": "집행유예 전력: 리자 T. 사건 용의자, 전과 및 정신병원 입원 이력",
+      "summary_ko": "일요일 브란덴부르크에서 실종된 리자의 시신이 발견됐다. 수사에 따르면 용의자는 교통 범죄와 상해 전력이 있고 한때 정신병원에 입원했다.",
+      "url": "https://www.n-tv.de/panorama/Verdaechtiger-im-Fall-Lisa-T-ist-vorbestraft-und-war-in-der-Psychiatrie-id31518831.html",
+      "published": "2026-11-11T03:31:35+09:00",
+      "tags": [],
+      "event": "lisa-t-murder-case",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Vorwürfe der Spionage“ – US‑Militärangehöriger im Zuge von Anti-Terror-Ermittlungen festgenommen",
+      "title_ko": "\"간첩 혐의\" — 대테러 수사 중 미군 장병 체포",
+      "summary_ko": "수사당국이 러시아 관련 간첩 혐의로 미군 장병을 영국에서 체포했다. 41세인 그는 외국 영향력 대응법을 위반한 혐의를 받는다.",
+      "url": "https://www.welt.de/vermischtes/kriminalitaet/article6af3786f74aa4353f5400849/grossbritannien-vorwuerfe-der-spionage-usmilitaerangehoeriger-im-zuge-von-anti-terror-ermittlungen-festgenommen.html",
+      "published": "2026-11-11T05:51:18+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-serviceman-russia-spying-uk",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Joachim Gauck fordert „stringentes Regieren“, sonst „schwindet Vertrauen“",
+      "title_ko": "요아힘 가우크 \"엄격한 통치 필요, 아니면 신뢰 잃는다\"",
+      "summary_ko": "가우크 전 대통령은 지루한 타협이 신뢰 상실을 부른다고 경고했다. 필요한 개혁이 집권자들의 용기 부족으로 실패하는 경우가 많다고 했다.",
+      "url": "https://www.welt.de/politik/article6af3802b9d3c29f6c6a34797/rede-in-rostock-joachim-gauck-fordert-stringentes-regieren-sonst-schwindet-vertrauen.html",
+      "published": "2026-11-11T05:50:12+09:00",
+      "tags": [],
+      "event": "gauck-governing-speech",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Olaf Scholz’ „ganz klare Botschaft an alle Zyniker, die das Ende der Demokratie vorhergesagt haben“",
+      "title_ko": "올라프 숄츠 \"민주주의 종말 예언한 냉소주의자들에게 주는 분명한 메시지\"",
+      "summary_ko": "숄츠 전 총리는 최근 선거 결과가 민주주의의 안정성을 보여준다고 봤다. 팟캐스트에서 베를린 템펠호프 들판 등에 새 시가지를 조성하자고 했다.",
+      "url": "https://www.welt.de/politik/deutschland/article6af350b3b9cef129a20e178c/elefantenrunde-olaf-scholz-ganz-klare-botschaft-an-alle-zyniker-die-das-ende-der-demokratie-vorhergesagt-haben.html",
+      "published": "2026-11-11T05:49:23+09:00",
+      "tags": [],
+      "event": "scholz-democracy-podcast",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Republikaner Jim Jordan wird Minderheitsführer im Repräsentantenhaus",
+      "title_ko": "공화당 짐 조던, 하원 소수당 원내대표 선출",
+      "summary_ko": "중간선거 패배 후 트럼프 측근 짐 조던이 하원 공화당 소수당 원내대표가 된다. 그는 스티브 스컬리스 현 부대표를 제쳤다.",
+      "url": "https://www.welt.de/politik/article6af37bdff0b67a4b24664ddb/nach-den-midterms-republikaner-jim-jordan-wird-minderheitsfuehrer-im-repraesentantenhaus.html",
+      "published": "2026-11-11T05:47:33+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "jim-jordan-minority-leader",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Sarah Kuttner plant Video-Tagebuch über ihre Chemotherapie",
+      "title_ko": "사라 쿠트너, 항암 치료 영상 일기 계획",
+      "summary_ko": "방송인 사라 쿠트너가 유방암 항암 치료를 앞두고 있으며 치료 과정을 유튜브로 기록하려 한다. 실행 여부는 열어 두었다.",
+      "url": "https://www.welt.de/vermischtes/article6af37b99f0b67a4b24664dd3/brustkrebs-sarah-kuttner-nimmt-ihre-fans-mit-durch-die-schwere-zeit.html",
+      "published": "2026-11-11T05:46:19+09:00",
+      "tags": [],
+      "event": "sarah-kuttner-chemo",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Erstmals seit 1971 unterstützt nur noch eine Minderheit der US-Amerikaner die Todesstrafe",
+      "title_ko": "1971년 이후 처음으로 미국인 중 사형 지지가 소수로",
+      "summary_ko": "갤럽 조사에서 미국 내 사형제 지지가 수십 년 만의 최저치를 기록했다. 조사는 테네시주 사형 집행 실패 직후 실시됐다.",
+      "url": "https://www.welt.de/vermischtes/kriminalitaet/article6af366bd42c2bfde5b99357e/todesstrafe-nach-gescheiterten-hinrichtungen-kippt-die-stimmung-in-den-usa.html",
+      "published": "2026-11-11T05:46:12+09:00",
+      "tags": [],
+      "event": "us-death-penalty-poll",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Die Europäer spielen in Abu Dhabi nur eine Randrolle“",
+      "title_ko": "\"아부다비에서 유럽은 주변 역할에 그쳐\"",
+      "summary_ko": "안보 전문가 사샤 하흐는 유럽이 아부다비 협상에서 대체로 소외돼 있으며, 약한 협상 지위는 \"무엇보다 스스로 자초한 것\"이라고 봤다.",
+      "url": "https://www.welt.de/politik/ausland/video6af3709f42c2bfde5b9935db/verhandlungen-ueber-ukraine-krieg-die-europaeer-spielen-in-abu-dhabi-nur-eine-randrolle.html",
+      "published": "2026-11-11T04:35:31+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-talks-abu-dhabi",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Sie haben Fabian herabgewürdigt, als Ding behandelt und weggeworfen, weil er Ihnen im Weg stand“",
+      "title_ko": "\"당신은 파비안을 깎아내리고 물건처럼 다뤄 버렸다\"",
+      "summary_ko": "지나 H.가 8세 파비안 살해로 최고형을 선고받았다. 재판장은 판결 이유에서 피고인의 심리를 짚었으며, 피고인은 현재 파비안의 아버지와 다시 교제 중이다.",
+      "url": "https://www.welt.de/politik/deutschland/plus6af20d35d0fb1ac9ce0ed0c4/urteil-in-kindermord-prozess-sie-haben-fabian-herabgewuerdigt-als-ding-behandelt-und-weggeworfen-weil-er-ihnen-im-weg-stand.html",
+      "published": "2026-11-11T04:12:41+09:00",
+      "tags": [],
+      "event": "fabian-murder-verdict",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "AT&S: Nach Kurssturz noch 240 Prozent im Plus: Finanzchef verteidigt Österreichs Achterbahn-Aktie",
+      "title_ko": "AT&S: 주가 급락 후에도 240% 상승 — CFO, 오스트리아 '롤러코스터 주' 옹호",
+      "summary_ko": "AT&S는 2026년 빈 증시 대표지수 최고 상승 종목이지만 10월 이후 주가가 반토막 났고 애널리스트들이 전망을 조정하고 있다. CFO 게리트 슈테엔은 반박했다.",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/aktien/boerse-oesterreichs-achterbahn-aktie-nach-kurssturz-noch-240-prozent-im-plus/100267611.html",
+      "published": "2026-11-11T05:47:13+09:00",
+      "tags": [
+        "stocks",
+        "business"
+      ],
+      "event": "ats-stock",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "+++ US-Midterms +++: Hegseth bezeichnet Amtsenthebungsverfahren als „Sabotage“",
+      "title_ko": "+++ 미 중간선거 +++: 헤그세스, 탄핵 절차를 \"사보타주\"로 규정",
+      "summary_ko": "뉴스 블로그: 공화당 조던 하원 소수당 원내대표 선출, 루비오 국무장관 엔비디아 관련 \"미·중은 AI에서 각자의 이익 추구\" 발언 등.",
+      "url": "https://www.handelsblatt.com/politik/international/nach-us-midterms-hegseth-bezeichnet-amtsenthebungsverfahren-als-sabotage/29669594.html",
+      "published": "2026-11-11T05:23:38+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation"
+      ],
+      "event": "hegseth-impeachment",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "CO2-Insolvenzen: „Das wird mich unternehmerisch töten“: Wie der Emissionshandel Industriebetriebe in die Pleite treiben kann",
+      "title_ko": "CO2 파산: \"사업적으로 나를 죽일 것\" — 배출권 거래제가 제조업체를 파산으로 몰 수 있는 이유",
+      "summary_ko": "메르츠 총리는 배출권 거래제를 유지하려 한다. 그러나 경영난을 겪는 제조업체에는 CO2 배출권 비용 상승이 존폐 문제가 될 수 있다.",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/industrie-wie-der-emissionshandel-unternehmen-in-die-pleite-treiben-kann/100261866.html",
+      "published": "2026-11-11T05:01:52+09:00",
+      "tags": [
+        "industry",
+        "legislation"
+      ],
+      "event": "eu-ets-industry-insolvency",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Huang-Affäre: Nvidia verliert binnen einer Woche rund eine Billion Dollar an Börsenwert",
+      "title_ko": "황 사태: 엔비디아, 일주일 새 시가총액 약 1조 달러 증발",
+      "summary_ko": "반도체 기업 엔비디아 주가가 화요일에도 크게 하락했다. 수개월 전 엔비디아의 문제를 경고한 미국 공매도 투자자가 이득을 봤을 것으로 보인다.",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/nvidia-aktie-chipkonzern-verliert-in-einer-woche-eine-billion-dollar-boersenwert/100268874.html",
+      "published": "2026-11-11T04:41:06+09:00",
+      "tags": [
+        "stocks",
+        "industry",
+        "business"
+      ],
+      "event": "nvidia-huang-affair",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Energie: Siemens Energy kündigt weitere Aktienrückkäufe an",
+      "title_ko": "에너지: 지멘스 에너지, 추가 자사주 매입 발표",
+      "summary_ko": "회사는 최대 90억 유로 규모의 자사주를 추가 매입할 계획이다. 지멘스는 수요일 2025/26 회계연도 실적을 발표한다.",
+      "url": "https://www.handelsblatt.com/unternehmen/energie/energie-siemens-energy-kuendigt-weitere-aktienrueckkaeufe-an/100268889.html",
+      "published": "2026-11-11T04:39:51+09:00",
+      "tags": [
+        "stocks",
+        "business",
+        "industry"
+      ],
+      "event": "siemens-energy-buyback",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Wall Street: Überraschend hohe Inflation treibt wichtige US-Anleiherendite über Zwei-Jahres-Hoch",
+      "title_ko": "월가: 예상 밖 고인플레이션에 주요 미 국채금리 2년 만의 최고치 돌파",
+      "summary_ko": "연준의 12월 추가 금리 인상은 기정사실로 여겨진다. 크리스토퍼 월러 이사는 더 큰 폭의 인상 가능성까지 언급했다.",
+      "url": "https://www.handelsblatt.com/finanzen/geldpolitik/usa-hohe-inflation-treibt-wichtige-anleiherendite-ueber-zwei-jahres-hoch/100268295.html",
+      "published": "2026-11-11T04:30:06+09:00",
+      "tags": [
+        "monetary",
+        "stocks",
+        "forecast"
+      ],
+      "event": "us-cpi-october",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Künstliche Intelligenz: Anthropic macht Microsoft Konkurrenz bei Bürosoftware",
+      "title_ko": "인공지능: 앤트로픽, 오피스 소프트웨어로 마이크로소프트에 도전",
+      "summary_ko": "클로드 개발사가 자체 스프레드시트, 화상회의 어시스턴트 등 사무용 앱을 공개했다. 기업공개(IPO) 홍보 투어의 시작이다.",
+      "url": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-anthropic-macht-microsoft-konkurrenz-bei-buerosoftware/100268547.html",
+      "published": "2026-11-11T03:52:19+09:00",
+      "tags": [
+        "industry",
+        "business",
+        "stocks"
+      ],
+      "event": "anthropic-office-software",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Wall Street: Inflationsdaten belasten Wall Street – Nvidia-Aktien verlieren",
+      "title_ko": "월가: 인플레이션 지표에 월가 부담 — 엔비디아 주가 하락",
+      "summary_ko": "10월 미 소비자물가 지표는 연준의 12월 결정에 대한 단서가 된다. 주요 지수가 일제히 하락 출발했다.",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-inflationsdaten-belasten-wall-street-nvidia-aktien-verlieren/100268787.html",
+      "published": "2026-11-11T03:49:06+09:00",
+      "tags": [
+        "stocks",
+        "monetary"
+      ],
+      "event": "us-cpi-october",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Golf-Kooperationsrat: Mehr militärische Zusammenarbeit wegen Irankrieg",
+      "title_ko": "걸프협력회의: 이란 전쟁으로 군사 협력 확대",
+      "summary_ko": "사우디아라비아는 '수니파 나토'를 구상하고 카타르는 방위 협정을 추진했으며, 이제 걸프 국가 모두가 군사동맹을 확대하려 한다.",
+      "url": "https://www.spiegel.de/ausland/golf-kooperationsrat-mehr-militaerische-zusammenarbeit-wegen-irankrieg-a-dae912cd-3ad2-42ea-97d8-c7f6f017e7a5#ref=rss",
+      "published": "2026-11-11T05:57:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "gcc-military-cooperation",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "USA: Republikaner Jim Jordan wird Minderheitsführer im Repräsentantenhaus",
+      "title_ko": "미국: 공화당 짐 조던, 하원 소수당 원내대표로",
+      "summary_ko": "트럼프와 가까운 짐 조던이 하원 공화당의 새 원내대표가 된다. 전임 마이크 존슨은 출마하지 않았다.",
+      "url": "https://www.spiegel.de/ausland/usa-republikaner-jim-jordan-wird-minderheitsfuehrer-im-repraesentantenhaus-a-a9c024db-837a-42ac-9beb-f7c0d0fba244#ref=rss",
+      "published": "2026-11-11T05:45:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "jim-jordan-minority-leader",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Boris Becker im Straßenverkehr: Warum er das Steuer ungern aus der Hand gibt",
+      "title_ko": "도로 위의 보리스 베커: 운전대를 잘 넘기지 않는 이유",
+      "summary_ko": "보리스 베커는 사고를 우려해 다른 사람에게 운전대를 좀처럼 맡기지 않는다.",
+      "url": "https://www.spiegel.de/sport/tennis/boris-becker-im-strassenverkehr-warum-er-das-steuer-ungern-aus-der-hand-gibt-a-f3adf867-eaf8-4fdf-8807-2572f26e3c98#ref=rss",
+      "published": "2026-11-11T05:26:00+09:00",
+      "tags": [],
+      "event": "boris-becker-driving",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Frankreich: Polizei durchsucht wegen Mohamed Al Fayed das Pariser Luxushotel »Ritz«",
+      "title_ko": "프랑스: 경찰, 모하메드 알파예드 관련 파리 리츠 호텔 압수수색",
+      "summary_ko": "수십 명의 여성이 모하메드 알파예드를 성폭행 혐의로 고발했다. 프랑스 경찰이 고인이 된 이집트 사업가 소유였던 부동산들을 수색했다.",
+      "url": "https://www.spiegel.de/panorama/frankreich-polizei-durchsucht-wegen-mohamed-al-fayed-das-pariser-luxushotel-ritz-a-fdf6fba9-d8de-4960-97c5-0f1d32e1f195#ref=rss",
+      "published": "2026-11-11T05:25:00+09:00",
+      "tags": [],
+      "event": "al-fayed-ritz-search",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Honigfallen erklärt: Wie Sex zur historischen Waffe der Geheimdienste wurde",
+      "title_ko": "허니트랩 해설: 섹스는 어떻게 정보기관의 역사적 무기가 됐나",
+      "summary_ko": "'허니트랩'은 현대 정보기관 이전부터 남녀 모두를 겨냥해 쓰였다. 기사는 엔비디아 CEO 황을 언급한다.",
+      "url": "https://www.spiegel.de/geschichte/honigfallen-erklaert-wie-sex-zur-historischen-waffe-der-geheimdienste-wurde-a-8b54f2cb-bf24-4301-b36e-b85b0568af10#ref=rss",
+      "published": "2026-11-11T04:51:00+09:00",
+      "tags": [],
+      "event": "nvidia-huang-affair",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Lori Huang: Welche Rolle die Frau von Nvidia-Chef Jensen Huang im Unternehmen spielt",
+      "title_ko": "로리 황: 엔비디아 CEO 젠슨 황의 아내가 회사에서 맡는 역할",
+      "summary_ko": "엔비디아 창업자를 둘러싼 스파이 스캔들로 그의 아내도 주목받고 있다. 로리 황은 회사 내 공식 직책은 없지만 남편 말로는 영향력이 크다.",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/lori-huang-welche-rolle-die-frau-von-nvidia-chef-jensen-huang-im-unternehmen-spielt-a-cfe58599-a415-4744-b3dd-48a8a64a84f2#ref=rss",
+      "published": "2026-11-11T04:51:00+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "nvidia-huang-affair",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Uni Tübingen: Hacker erbeuten Daten von Beschäftigten",
+      "title_ko": "튀빙겐대: 해커가 교직원 정보 탈취",
+      "summary_ko": "보안 허점을 통해 튀빙겐대 교직원의 이름·생년월일·업무용 이메일 주소가 유출됐다. 최근 다른 대학에서도 비슷한 사례가 있었다.",
+      "url": "https://www.spiegel.de/netzwelt/uni-tuebingen-hacker-erbeuten-daten-von-beschaeftigten-a-92260a50-5657-4fdd-939c-2bbbee61f129#ref=rss",
+      "published": "2026-11-11T04:04:00+09:00",
+      "tags": [],
+      "event": "uni-tuebingen-hack",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Rostocker Prozess gegen Gina H. im Mordfall Fabian: Nach dem Urteil applaudieren die Zuschauer im Saal",
+      "title_ko": "로스토크 파비안 살해 재판: 판결 후 방청객 박수",
+      "summary_ko": "4월부터 로스토크 지방법원에서 8세 파비안 사망 사건이 심리됐다. 재판부는 피고인 지나 H.가 아이를 살해했다고 판단했다.",
+      "url": "https://www.spiegel.de/panorama/justiz/rostocker-prozess-gegen-gina-h-im-mordfall-fabian-nach-dem-urteil-applaudieren-die-zuschauer-im-saal-a-8f1802b1-0b2f-4073-aa83-49b639e90ac0#ref=rss",
+      "published": "2026-11-11T03:59:00+09:00",
+      "tags": [],
+      "event": "fabian-murder-verdict",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Ringen um den Haushalt 2027: Knackpunkt für die Koalition – und den Kanzler",
+      "title_ko": "2027년 예산 공방: 연정과 총리의 관건",
+      "summary_ko": "메르츠 총리는 전 국민 대상 전기세 인하가 바람직하고 재원 마련도 가능하다고 밝혔다. 칼럼은 총리가 그렇게 발표했다면 실현돼야 한다고 주장한다.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/knackpunkt-fuer-die-koalition-und-den-kanzler-201669108.html",
+      "published": "2026-11-11T05:56:16+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "germany-budget-2027-electricity-tax",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Aufruf an Deutsche: Ein Hilferuf für 50.000 Polen, die unter Deutschland litten",
+      "title_ko": "독일인에 호소: 독일로 고통받은 폴란드인 5만 명을 위한 구조 요청",
+      "summary_ko": "독일 점령기 생존 피해자 대표들이 독일인에게 지원을 호소했다. 그러나 정치권은 여전히 머뭇거리고 있다.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/ns-ueberlebende-aus-polen-warten-auf-hilfe-aus-deutschland-201669266.html",
+      "published": "2026-11-11T05:53:28+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "polish-nazi-victims-appeal",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Mammutprozesse: Justitia im Schneckentempo",
+      "title_ko": "매머드 재판: 거북이 걸음의 사법",
+      "summary_ko": "독일 형사재판 기간이 점점 길어져 사법 신뢰를 갉아먹고 있다. 칼럼은 대대적 개혁이 필요하다고 주장한다.",
+      "url": "https://www.faz.net/aktuell/politik/schlesinger-block-etc-warum-dauern-strafprozesse-immer-so-lange-201669212.html",
+      "published": "2026-11-11T05:52:23+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "germany-criminal-trial-length",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Englischer Kriminalroman: Vom Krieg versehrt, sucht er das Glück auf der Rennbahn",
+      "title_ko": "영국 범죄소설: 전쟁 상처 입은 남자, 경마장에서 행운을 찾다",
+      "summary_ko": "알렉산더 배런의 1960년대 고전 소설 '데어 타게디프'(The Lowlife) 서평. 런던 이스트엔드 좀도둑의 헛된 출세 꿈을 다룬다.",
+      "url": "https://www.faz.net/aktuell/feuilleton/buecher/krimi/englischer-krimiklassiker-alexander-barons-der-tagedieb-201635996.html",
+      "published": "2026-11-11T05:51:38+09:00",
+      "tags": [],
+      "event": "baron-novel-review",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "filmfestival cottbus: Eine neue Frühphase des Kinos hat begonnen",
+      "title_ko": "코트부스 영화제: 영화의 새로운 초창기가 시작됐다",
+      "summary_ko": "코트부스 영화제에서 독일 최초로 완전히 AI로 생성된 영화가 경쟁 부문에 상영됐다. 비키 바르도의 'A Woman Asleep'이다.",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/ki-film-auf-filmfest-cottbus-201662729.html",
+      "published": "2026-11-11T05:24:49+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "ai-film-cottbus",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Brief aus dem Irankrieg: Das Gefühl, verboten zu sein",
+      "title_ko": "이란 전쟁에서 온 편지: 금지된 존재라는 느낌",
+      "summary_ko": "이란 출신 필자가 이란에서 처음 만난 지 9년 만에 베를린의 옛 친구를 맞는 이야기. 이번에는 모든 것이 다르다.",
+      "url": "https://www.faz.net/aktuell/feuilleton/kolumnen/unsere-iranische-autorin-schreibt-unter-pseudonym-einen-brief-201668074.html",
+      "published": "2026-11-11T04:39:17+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "iran-war-letter",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Bundesversammlung: Wie das BSW seinen Kritiker Constantin Schreiber nominierte",
+      "title_ko": "연방총회: BSW는 어떻게 자당 비판자 콘스탄틴 슈라이버를 선거인으로 지명했나",
+      "summary_ko": "작센주 BSW 원내교섭단체가 언론인 콘스탄틴 슈라이버를 연방총회 선거인으로 지명했다. 본인과 상의한 사람은 없었고 지금은 거의 아무도 이를 좋게 보지 않는다.",
+      "url": "https://www.faz.net/aktuell/politik/inland/constantin-schreiber-als-bsw-wahlmann-streit-um-umstrittene-nominierung-201668923.html",
+      "published": "2026-11-11T04:35:48+09:00",
+      "tags": [],
+      "event": "bsw-schreiber-nomination",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Leo in Argentinien: Der Papst brauchte keinen Beichtstuhl für Milei",
+      "title_ko": "레오 교황 아르헨티나 방문: 밀레이에게 고해성사실은 필요 없었다",
+      "summary_ko": "교황은 아르헨티나에서 밀레이 대통령을 간접적인 방식으로 비판했다. 칼럼은 이런 화법이 부당하게 비판받아 왔다고 본다.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/leo-xiv-in-argentinien-der-papst-braucht-keinen-beichtstuhl-fuer-milei-201669969.html",
+      "published": "2026-11-11T04:35:06+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "pope-leo-argentina-milei",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Niclas Füllkrug: Zu alt fürs Nationalteam? Da erinnert Füllkrug an Miroslav Klose",
+      "title_ko": "니클라스 퓔크루크: 대표팀엔 너무 늙었다? 미로슬라프 클로제를 떠올리게 해",
+      "summary_ko": "33세 공격수 퓔크루크가 브레멘에서 다재다능한 공격수로 거듭나 대표팀에 복귀한다.",
+      "url": "https://www.sueddeutsche.de/sport/dfb-fuellkrug-klopp-nationalmannschaft-li.3578459",
+      "published": "2026-11-11T02:56:03+09:00",
+      "tags": [],
+      "event": "fuellkrug-national-team",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Debatte: Horrorclowns, Influencer, Thinktankler? Bullshit!",
+      "title_ko": "토론: 호러 광대, 인플루언서, 싱크탱크? 헛소리!",
+      "summary_ko": "테크 독재자, 자유지상주의자, 좌우 분파주의자의 남용으로부터 자유를 지키는 법을 다룬 연설·논평.",
+      "url": "https://www.sueddeutsche.de/kultur/marko-martin-berlin-freedom-conference-freiheit-rede-li.3574895",
+      "published": "2026-11-11T02:32:36+09:00",
+      "tags": [],
+      "event": "freedom-debate-sz",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Wahl der Bundespräsidentin: „Ich möchte Bürgerin unter Bürgern sein“",
+      "title_ko": "연방대통령 선거: \"시민 가운데 한 시민이 되고 싶다\"",
+      "summary_ko": "일제 아이그너가 연방의회에서 연방대통령 후보로서 지지를 호소했다. 전 총리의 칭찬을 받았으나 녹색당은 문을 닫았다.",
+      "url": "https://www.sueddeutsche.de/politik/ilse-aigner-bundespraesidentin-bundespraesidentenwahl-csu-demokratische-mitte-li.3578079",
+      "published": "2026-11-11T02:30:49+09:00",
+      "tags": [],
+      "event": "german-president-election",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Newsblog zur Bundespolitik: Kabarettistin Gruber: Aigner kann „Spaltung unserer Gesellschaft“ überwinden",
+      "title_ko": "연방정치 뉴스 블로그: 코미디언 그루버 \"아이그너는 사회 분열 극복할 수 있어\"",
+      "summary_ko": "첫 여성 연방대통령이 될 가능성이 높은 CSU 정치인 아이그너와 오랜 친구인 그루버는 아이그너가 그 직책에 잘 준비돼 있다고 봤다.",
+      "url": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-monika-gruber-aigner-bundespraesidentin-li.3568524",
+      "published": "2026-11-11T02:02:29+09:00",
+      "tags": [],
+      "event": "german-president-election",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Newsblog zu den Landtagswahlen: Berliner Linken-Fraktion will Emde ausschließen",
+      "title_ko": "주의회 선거 뉴스 블로그: 베를린 좌파당 교섭단체, 엠데 축출 추진",
+      "summary_ko": "교섭단체 지도부가 축출 안건을 마련하기로 결정했다. 배경은 이 의원의 중동 분쟁 관련 발언이다.",
+      "url": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-emde-ausschluss-li.3540501",
+      "published": "2026-11-11T01:47:22+09:00",
+      "tags": [],
+      "event": "berlin-left-emde-expulsion",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "SZ Wirtschaftsgipfel: „Präsident Trump ist einer der besten Verteidigungsminister in Europa“",
+      "title_ko": "SZ 경제정상회의: \"트럼프 대통령은 유럽 최고의 국방장관 중 한 명\"",
+      "summary_ko": "이자르 에어로스페이스 CEO 다니엘 메츨러가 베를린 SZ 경제정상회의 둘째 날 한 말이다. 이날 주제는 우주항공이었다.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/sz-wirtschaftsgipfel-2026-liveblog-li.3575578",
+      "published": "2026-11-11T01:16:47+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "isar-aerospace-sz-summit",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Urteil im „Fabian-Prozess“: „Sie wollten, dass Fabian stirbt, der Junge war für Sie nur ein Objekt“",
+      "title_ko": "'파비안 재판' 판결: \"당신은 파비안이 죽기를 원했다, 아이는 당신에게 물건일 뿐\"",
+      "summary_ko": "재판장은 8세 파비안 살해로 지나 H.에게 종신형을 선고했다. 동기는 아이 아버지와의 집착적 관계였다.",
+      "url": "https://www.sueddeutsche.de/panorama/fabian-prozess-urteil-gina-h-guestrow-mord-urteil-li.3575410",
+      "published": "2026-11-11T00:21:56+09:00",
+      "tags": [],
+      "event": "fabian-murder-verdict",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Organisierte Kriminalität: Online-Betrüger erbeuten in München 30 Millionen Euro mit erfundenen Traumrenditen",
+      "title_ko": "조직범죄: 온라인 사기범, 허위 고수익 내세워 뮌헨서 3천만 유로 편취",
+      "summary_ko": "바이에른 경찰과 소비자센터가 온라인 투자 사기를 경고했다. 범행 수법과 AI의 역할을 다룬다.",
+      "url": "https://www.sueddeutsche.de/muenchen/muenchen-anlagebetrug-rendite-organisierte-kriminalitaet-polizei-online-betrug-li.3577781",
+      "published": "2026-11-11T00:11:08+09:00",
+      "tags": [],
+      "event": "munich-investment-fraud",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Brände: Aussiedlerhof in Flammen - 400 Schweine verendet",
+      "title_ko": "화재: 외딴 농가 불길 — 돼지 400마리 폐사",
+      "summary_ko": "외딴 농가에 화재가 나 돼지 400마리가 폐사했다.",
+      "url": "https://www.zeit.de/news/2026-11/10/aussiedlerhof-in-flammen-400-schweine-verendet",
+      "published": "2026-11-11T05:57:54+09:00",
+      "tags": [],
+      "event": "farm-fire-pigs",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Migration: SPD fordert verlässliches Bleiberecht für arbeitende Geflüchtete",
+      "title_ko": "이민: SPD, 일하는 난민에 확실한 체류권 요구",
+      "summary_ko": "SPD는 독일에서 일하거나 직업훈련을 받는 난민이 체류할 수 있도록 할 계획이며, 일정한 규칙이 적용된다.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/bleiberecht-gefluechtete-spd-bundestag-arbeit-ausbildung-duldung",
+      "published": "2026-11-11T05:52:32+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "spd-residence-right-refugees",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Bundespräsidentin: Habeck hält Aigner für eine sehr gute Wahl",
+      "title_ko": "연방대통령: 하베크 \"아이그너는 매우 좋은 선택\"",
+      "summary_ko": "하베크는 아이그너를 연방대통령으로 매우 좋은 선택이라고 봤다.",
+      "url": "https://www.zeit.de/news/2026-11/10/habeck-haelt-aigner-fuer-eine-sehr-gute-wahl",
+      "published": "2026-11-11T05:42:59+09:00",
+      "tags": [],
+      "event": "german-president-election",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Auto-Industrie: AMZ-Analyse: Warum chinesische Autobauer Deutschland meiden",
+      "title_ko": "자동차 산업: AMZ 분석 — 중국 자동차업체들이 독일을 피하는 이유",
+      "summary_ko": "AMZ 분석이 중국 자동차업체들이 독일을 피하는 이유를 다뤘다.",
+      "url": "https://www.zeit.de/news/2026-11/10/betriebsrat-vw-werk-zwickau-behaelt-den-id-3-laenger",
+      "published": "2026-11-11T05:35:17+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "chinese-automakers-germany",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Künstliche Intelligenz: Philosoph Precht: KI bedroht die Neugier der Kinder",
+      "title_ko": "인공지능: 철학자 프레히트 \"AI가 아이들의 호기심을 위협\"",
+      "summary_ko": "철학자 프레히트는 AI가 아이들의 호기심을 위협한다고 말했다.",
+      "url": "https://www.zeit.de/news/2026-11/10/philosoph-precht-ki-bedroht-die-neugier-der-kinder",
+      "published": "2026-11-11T05:29:44+09:00",
+      "tags": [],
+      "event": "precht-ai-children",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Preisverleihung: Gauck: «stringentes Regieren unbedingt erforderlich»",
+      "title_ko": "시상식: 가우크 \"엄격한 통치가 반드시 필요\"",
+      "summary_ko": "가우크는 시상식에서 엄격한 통치가 반드시 필요하다고 말했다.",
+      "url": "https://www.zeit.de/news/2026-11/10/gauck-stringentes-regieren-unbedingt-erforderlich",
+      "published": "2026-11-11T05:26:59+09:00",
+      "tags": [],
+      "event": "gauck-governing-speech",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Notfälle: Mensch wird von Tram mitgeschleift und schwer verletzt",
+      "title_ko": "사고: 트램에 끌려간 사람 중상",
+      "summary_ko": "한 사람이 트램에 끌려가 중상을 입었다.",
+      "url": "https://www.zeit.de/news/2026-11/10/mensch-wird-von-tram-mitgeschleift-und-schwer-verletzt",
+      "published": "2026-11-11T05:20:28+09:00",
+      "tags": [],
+      "event": "tram-accident",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Notfälle: Aggressives Verhalten - Autofahrer behindert Rettungseinsatz",
+      "title_ko": "사고: 공격적 행동 — 운전자가 구조 활동 방해",
+      "summary_ko": "한 운전자가 공격적 행동으로 구조 활동을 방해했다.",
+      "url": "https://www.zeit.de/news/2026-11/10/aggressives-verhalten-autofahrer-behindert-rettungseinsatz",
+      "published": "2026-11-11T05:18:21+09:00",
+      "tags": [],
+      "event": "driver-obstructs-rescue",
+      "state_media": false
+    }
+  ],
+  "events": [
+    {
+      "event": "fabian-murder-verdict",
+      "title_ko": "파비안(8세) 살해 사건 피고인 종신형 선고",
+      "sources": [
+        "ARD Tagesschau",
+        "WELT",
+        "Der Spiegel",
+        "Süddeutsche Zeitung"
+      ],
+      "count": 4
+    },
+    {
+      "event": "ukraine-talks-abu-dhabi",
+      "title_ko": "아부다비 러시아-우크라이나(미국 참여) 종전 협상",
+      "sources": [
+        "ARD Tagesschau",
+        "Deutsche Welle",
+        "WELT"
+      ],
+      "count": 3
+    },
+    {
+      "event": "rbb-schlesinger-trial",
+      "title_ko": "전 rbb 사장 슐레징어 배임 재판 개시",
+      "sources": [
+        "ARD Tagesschau",
+        "ZDF heute"
+      ],
+      "count": 2
+    },
+    {
+      "event": "berlin-left-emde-expulsion",
+      "title_ko": "베를린 좌파당 교섭단체, 엠데 의원 축출 추진",
+      "sources": [
+        "ZDF heute",
+        "Süddeutsche Zeitung"
+      ],
+      "count": 2
+    },
+    {
+      "event": "hegseth-impeachment",
+      "title_ko": "헤그세스 국방장관 탄핵 추진",
+      "sources": [
+        "Deutsche Welle",
+        "Handelsblatt"
+      ],
+      "count": 2
+    },
+    {
+      "event": "us-serviceman-russia-spying-uk",
+      "title_ko": "영국서 미군 장병 러시아 간첩 혐의 체포",
+      "sources": [
+        "n-tv",
+        "WELT"
+      ],
+      "count": 2
+    },
+    {
+      "event": "sarah-kuttner-chemo",
+      "title_ko": "사라 쿠트너 항암 치료 영상 기록 계획",
+      "sources": [
+        "n-tv",
+        "WELT"
+      ],
+      "count": 2
+    },
+    {
+      "event": "gauck-governing-speech",
+      "title_ko": "가우크 전 대통령 \"엄격한 통치\" 촉구",
+      "sources": [
+        "WELT",
+        "Die Zeit"
+      ],
+      "count": 2
+    },
+    {
+      "event": "jim-jordan-minority-leader",
+      "title_ko": "짐 조던, 미 하원 공화당 소수당 원내대표 선출",
+      "sources": [
+        "WELT",
+        "Der Spiegel"
+      ],
+      "count": 2
+    },
+    {
+      "event": "nvidia-huang-affair",
+      "title_ko": "엔비디아 젠슨 황 스파이 스캔들과 주가 급락",
+      "sources": [
+        "Handelsblatt",
+        "Der Spiegel"
+      ],
+      "count": 2
+    },
+    {
+      "event": "german-president-election",
+      "title_ko": "연방대통령 선거 — 일제 아이그너 후보",
+      "sources": [
+        "Süddeutsche Zeitung",
+        "Die Zeit"
+      ],
+      "count": 2
+    },
+    {
+      "event": "spain-train-crash-memorial",
+      "title_ko": "사망자 69명 낸 스페인 열차 사고 추모식",
+      "sources": [
+        "ARD Tagesschau"
+      ],
+      "count": 1
+    },
+    {
+      "event": "tagesschau-100-sekunden",
+      "title_ko": "타게스샤우 100초 뉴스",
+      "sources": [
+        "ARD Tagesschau"
+      ],
+      "count": 1
+    },
+    {
+      "event": "germany-ev-subsidy-2027",
+      "title_ko": "연방정부, 2027년 전기차 보조금 증액",
+      "sources": [
+        "ARD Tagesschau"
+      ],
+      "count": 1
+    },
+    {
+      "event": "tagesschau-20-uhr-bulletin",
+      "title_ko": "타게스샤우 20시 뉴스",
+      "sources": [
+        "ARD Tagesschau"
+      ],
+      "count": 1
+    },
+    {
+      "event": "thomas-markle-arrest",
+      "title_ko": "전자발찌 스스로 제거: 토마스 마클 재체포",
+      "sources": [
+        "ZDF heute"
+      ],
+      "count": 1
+    },
+    {
+      "event": "middle-east-iran-war-liveblog",
+      "title_ko": "이란 전쟁·중동 분쟁: 라이브블로그 전체 소식",
+      "sources": [
+        "ZDF heute"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ceuta-migration",
+      "title_ko": "세우타: 유럽 난민 정책에 미친 여파",
+      "sources": [
+        "ZDF heute"
+      ],
+      "count": 1
+    },
+    {
+      "event": "wirecard-trial",
+      "title_ko": "와이어카드: 경제 스캔들의 교훈",
+      "sources": [
+        "ZDF heute"
+      ],
+      "count": 1
+    },
+    {
+      "event": "afd-nrw-infighting",
+      "title_ko": "NRW 주 AfD 진흙탕 싸움",
+      "sources": [
+        "ZDF heute"
+      ],
+      "count": 1
+    },
+    {
+      "event": "russian-agents-defense-industry",
+      "title_ko": "러시아 요원들의 표적이 된 방산업체 경영진",
+      "sources": [
+        "ZDF heute"
+      ],
+      "count": 1
+    },
+    {
+      "event": "sudan-humanitarian-crisis",
+      "title_ko": "수단 전쟁: 곤경에 처한 사람 증가 — 지원 삭감이 상황 악화",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ai-labor-market-nahles",
+      "title_ko": "연방고용청장 \"AI가 노동시장을 뒤흔든다\"",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "france-iran-ambassador-cyberattack",
+      "title_ko": "프랑스, 이란 대사 초치",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "cas-russia-ice-hockey",
+      "title_ko": "아이스하키 러시아 복귀 관련 CAS 판결과 그 여파",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "california-billionaire-tax",
+      "title_ko": "캘리포니아 유권자, 억만장자세 거부",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "neuer-injury",
+      "title_ko": "마누엘 노이어 부상: 바이에른엔 악재, 독일 대표팀엔 호재?",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "pochettino-man-united",
+      "title_ko": "계약 중에도: 미국 대표팀 감독, 맨유 감독직에 관심 시사",
+      "sources": [
+        "n-tv"
+      ],
+      "count": 1
+    },
+    {
+      "event": "dfb-nations-league-camp",
+      "title_ko": "DFB 선수들 축가: 클롭, 하루 두 차례 훈련으로 시작 — 엘 말라만 불참",
+      "sources": [
+        "n-tv"
+      ],
+      "count": 1
+    },
+    {
+      "event": "nfl-cousins-vikings",
+      "title_ko": "트레이드 마감 직전: 미네소타 바이킹스, 쿼터백 커크 커즌스 재영입",
+      "sources": [
+        "n-tv"
+      ],
+      "count": 1
+    },
+    {
+      "event": "trump-building-documents",
+      "title_ko": "조사 우려?: \"미 정부, 트럼프 건축 사업 내부 문서 파기\" 보도",
+      "sources": [
+        "n-tv"
+      ],
+      "count": 1
+    },
+    {
+      "event": "chernobyl-shelter-donor-conference",
+      "title_ko": "프랑스 공여국 회의: 드론 피격 체르노빌 보호 덮개에 수억 유로 지원",
+      "sources": [
+        "n-tv"
+      ],
+      "count": 1
+    },
+    {
+      "event": "lisa-t-murder-case",
+      "title_ko": "집행유예 전력: 리자 T. 사건 용의자, 전과 및 정신병원 입원 이력",
+      "sources": [
+        "n-tv"
+      ],
+      "count": 1
+    },
+    {
+      "event": "scholz-democracy-podcast",
+      "title_ko": "올라프 숄츠 \"민주주의 종말 예언한 냉소주의자들에게 주는 분명한 메시지\"",
+      "sources": [
+        "WELT"
+      ],
+      "count": 1
+    },
+    {
+      "event": "us-death-penalty-poll",
+      "title_ko": "1971년 이후 처음으로 미국인 중 사형 지지가 소수로",
+      "sources": [
+        "WELT"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ats-stock",
+      "title_ko": "AT&S: 주가 급락 후에도 240% 상승 — CFO, 오스트리아 '롤러코스터 주' 옹호",
+      "sources": [
+        "Handelsblatt"
+      ],
+      "count": 1
+    },
+    {
+      "event": "eu-ets-industry-insolvency",
+      "title_ko": "CO2 파산: \"사업적으로 나를 죽일 것\" — 배출권 거래제가 제조업체를 파산으로 몰 수 있는 이유",
+      "sources": [
+        "Handelsblatt"
+      ],
+      "count": 1
+    },
+    {
+      "event": "siemens-energy-buyback",
+      "title_ko": "에너지: 지멘스 에너지, 추가 자사주 매입 발표",
+      "sources": [
+        "Handelsblatt"
+      ],
+      "count": 1
+    },
+    {
+      "event": "us-cpi-october",
+      "title_ko": "미 10월 인플레이션 지표와 국채금리·증시",
+      "sources": [
+        "Handelsblatt"
+      ],
+      "count": 1
+    },
+    {
+      "event": "anthropic-office-software",
+      "title_ko": "인공지능: 앤트로픽, 오피스 소프트웨어로 마이크로소프트에 도전",
+      "sources": [
+        "Handelsblatt"
+      ],
+      "count": 1
+    },
+    {
+      "event": "gcc-military-cooperation",
+      "title_ko": "걸프협력회의: 이란 전쟁으로 군사 협력 확대",
+      "sources": [
+        "Der Spiegel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "boris-becker-driving",
+      "title_ko": "도로 위의 보리스 베커: 운전대를 잘 넘기지 않는 이유",
+      "sources": [
+        "Der Spiegel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "al-fayed-ritz-search",
+      "title_ko": "프랑스: 경찰, 모하메드 알파예드 관련 파리 리츠 호텔 압수수색",
+      "sources": [
+        "Der Spiegel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "uni-tuebingen-hack",
+      "title_ko": "튀빙겐대: 해커가 교직원 정보 탈취",
+      "sources": [
+        "Der Spiegel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "germany-budget-2027-electricity-tax",
+      "title_ko": "2027년 예산 공방: 연정과 총리의 관건",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "polish-nazi-victims-appeal",
+      "title_ko": "독일인에 호소: 독일로 고통받은 폴란드인 5만 명을 위한 구조 요청",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "germany-criminal-trial-length",
+      "title_ko": "매머드 재판: 거북이 걸음의 사법",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "baron-novel-review",
+      "title_ko": "영국 범죄소설: 전쟁 상처 입은 남자, 경마장에서 행운을 찾다",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ai-film-cottbus",
+      "title_ko": "코트부스 영화제: 영화의 새로운 초창기가 시작됐다",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "iran-war-letter",
+      "title_ko": "이란 전쟁에서 온 편지: 금지된 존재라는 느낌",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "bsw-schreiber-nomination",
+      "title_ko": "연방총회: BSW는 어떻게 자당 비판자 콘스탄틴 슈라이버를 선거인으로 지명했나",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "pope-leo-argentina-milei",
+      "title_ko": "레오 교황 아르헨티나 방문: 밀레이에게 고해성사실은 필요 없었다",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "fuellkrug-national-team",
+      "title_ko": "니클라스 퓔크루크: 대표팀엔 너무 늙었다? 미로슬라프 클로제를 떠올리게 해",
+      "sources": [
+        "Süddeutsche Zeitung"
+      ],
+      "count": 1
+    },
+    {
+      "event": "freedom-debate-sz",
+      "title_ko": "토론: 호러 광대, 인플루언서, 싱크탱크? 헛소리!",
+      "sources": [
+        "Süddeutsche Zeitung"
+      ],
+      "count": 1
+    },
+    {
+      "event": "isar-aerospace-sz-summit",
+      "title_ko": "SZ 경제정상회의: \"트럼프 대통령은 유럽 최고의 국방장관 중 한 명\"",
+      "sources": [
+        "Süddeutsche Zeitung"
+      ],
+      "count": 1
+    },
+    {
+      "event": "munich-investment-fraud",
+      "title_ko": "조직범죄: 온라인 사기범, 허위 고수익 내세워 뮌헨서 3천만 유로 편취",
+      "sources": [
+        "Süddeutsche Zeitung"
+      ],
+      "count": 1
+    },
+    {
+      "event": "farm-fire-pigs",
+      "title_ko": "화재: 외딴 농가 불길 — 돼지 400마리 폐사",
+      "sources": [
+        "Die Zeit"
+      ],
+      "count": 1
+    },
+    {
+      "event": "spd-residence-right-refugees",
+      "title_ko": "이민: SPD, 일하는 난민에 확실한 체류권 요구",
+      "sources": [
+        "Die Zeit"
+      ],
+      "count": 1
+    },
+    {
+      "event": "chinese-automakers-germany",
+      "title_ko": "자동차 산업: AMZ 분석 — 중국 자동차업체들이 독일을 피하는 이유",
+      "sources": [
+        "Die Zeit"
+      ],
+      "count": 1
+    },
+    {
+      "event": "precht-ai-children",
+      "title_ko": "인공지능: 철학자 프레히트 \"AI가 아이들의 호기심을 위협\"",
+      "sources": [
+        "Die Zeit"
+      ],
+      "count": 1
+    },
+    {
+      "event": "tram-accident",
+      "title_ko": "사고: 트램에 끌려간 사람 중상",
+      "sources": [
+        "Die Zeit"
+      ],
+      "count": 1
+    },
+    {
+      "event": "driver-obstructs-rescue",
+      "title_ko": "사고: 공격적 행동 — 운전자가 구조 활동 방해",
+      "sources": [
+        "Die Zeit"
+      ],
+      "count": 1
+    }
+  ],
+  "unavailable_sources": []
+}

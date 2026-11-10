@@ -1,0 +1,1506 @@
+{
+  "team": "uk",
+  "headlines": [
+    {
+      "source": "BBC",
+      "title_original": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+      "title_ko": "엔비디아, 젠슨 황 불륜 조사 위해 뉴욕 대형 로펌 선임",
+      "summary_ko": "젠슨 황이 중국 스파이로 의심되는 여성과 불륜 관계였다는 사실이 드러난 뒤 이뤄진 선임이다.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T06:06:04+09:00",
+      "tags": [
+        "business",
+        "geopolitics"
+      ],
+      "event": "nvidia-huang-spy-affair",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+      "title_ko": "메건 부친 토머스 마클, 전자발찌 절단 혐의로 구금",
+      "summary_ko": "82세인 그는 아동 성학대물 소지 혐의로 기소된 뒤 지난주 플로리다에서 가택 구금 중이었다고 당국이 밝혔다.",
+      "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T05:53:33+09:00",
+      "tags": [],
+      "event": "thomas-markle-ankle-monitor",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Spain's king and queen attend memorial service for rail crash victims",
+      "title_ko": "스페인 국왕 부부, 열차 충돌 희생자 추도식 참석",
+      "summary_ko": "2주 전 톨레도 인근 충돌 사고로 69명이 숨지고 28명이 아직 입원 중이다.",
+      "url": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T05:46:40+09:00",
+      "tags": [],
+      "event": "spain-toledo-rail-crash-memorial",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "US federal authorities could have prevented Epstein crimes, report finds",
+      "title_ko": "보고서 \"미 연방 당국, 엡스타인 범죄 막을 수 있었다\"",
+      "summary_ko": "공화당 주도 의회 위원회가 고(故) 엡스타인 사건 처리에 대해 15개월간 조사한 뒤 낸 보고서다.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T05:36:58+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "epstein-congress-report",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "David Walliams accused of sexual misconduct after losing injunction bid",
+      "title_ko": "데이비드 월리엄스, 금지명령 신청 패소 후 성비위 의혹 제기돼",
+      "summary_ko": "ITN과 가디언은 이 코미디언이 10대 소녀와 젊은 여성들을 노렸다고 주장했다. 그는 모든 의혹을 부인했다.",
+      "url": "https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T05:20:11+09:00",
+      "tags": [],
+      "event": "david-walliams-allegations",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "US Army soldier suspected of spying for Russia arrested in UK",
+      "title_ko": "러시아 간첩 혐의 미 육군 병사, 영국서 체포",
+      "summary_ko": "41세 고참 병사가 국가안보 관련 범죄 혐의로 런던에서 조사받고 있다.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T05:20:04+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-soldier-russia-espionage-uk",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Watch: What we know about the allegations against Walliams",
+      "title_ko": "영상: 월리엄스 의혹, 지금까지 알려진 것",
+      "summary_ko": "작가 겸 코미디언인 그는 최근 의혹 보도를 막으려던 소송에서 패소했다.",
+      "url": "https://www.bbc.co.uk/news/videos/cmn9r90wyq2lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T04:35:17+09:00",
+      "tags": [],
+      "event": "david-walliams-allegations",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Train attack driver's '10 seconds' to change line",
+      "title_ko": "열차 흉기 난동 당시 기관사, 노선 변경에 '10초'",
+      "summary_ko": "기관사 앤드루 존슨은 인터컴으로 \"칼 든 남자가 사람들을 찌르고 있다\"는 말을 들었다고 배심원단에 진술했다.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynyzje424o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T03:54:35+09:00",
+      "tags": [],
+      "event": "uk-train-stabbing-trial",
+      "state_media": false
+    },
+    {
+      "source": "Sky News",
+      "title_original": "Meghan's father being sent to jail after 'cutting off' ankle bracelet",
+      "title_ko": "메건 부친, 전자발찌 '절단' 후 수감 예정",
+      "summary_ko": "토머스 마클이 가택 연금 중 이동을 감시하는 전자발찌를 끊은 혐의로 수감될 예정이다.",
+      "url": "https://news.sky.com/story/meghans-father-being-sent-to-jail-after-cutting-off-ankle-bracelet-13610764",
+      "published": "2026-11-11T05:18:00+09:00",
+      "tags": [],
+      "event": "thomas-markle-ankle-monitor",
+      "state_media": false
+    },
+    {
+      "source": "Sky News",
+      "title_original": "Senior US soldier arrested in UK on allegations of Russia espionage",
+      "title_ko": "미군 고위 병사, 러시아 간첩 혐의로 영국서 체포",
+      "summary_ko": "영국·미국 당국자들에 따르면 미 육군 장교가 러시아 관련 '간첩 혐의'로 영국에서 체포됐다.",
+      "url": "https://news.sky.com/story/member-of-us-army-arrested-in-uk-over-allegations-of-espionage-involving-russia-13610748",
+      "published": "2026-11-11T03:50:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-soldier-russia-espionage-uk",
+      "state_media": false
+    },
+    {
+      "source": "Sky News",
+      "title_original": "Train driver 'heard someone screaming' about knifeman stabbing people",
+      "title_ko": "기관사 \"흉기 난동 비명 들었다\"",
+      "summary_ko": "10명이 흉기에 찔린 런던행 열차의 기관사가 법정에서 출입문 마이크로 칼 든 남자가 사람들을 공격한다는 비명을 들었다고 진술했다.",
+      "url": "https://news.sky.com/story/huntingdon-train-attack-driver-heard-someone-screaming-about-knifeman-stabbing-people-13610739",
+      "published": "2026-11-11T03:14:00+09:00",
+      "tags": [],
+      "event": "uk-train-stabbing-trial",
+      "state_media": false
+    },
+    {
+      "source": "Sky News",
+      "title_original": "Seven people taken to hospital after car collides with pedestrians",
+      "title_ko": "차량이 보행자 덮쳐 7명 병원 이송",
+      "summary_ko": "경찰에 따르면 글래스고에서 차량이 '여러 명의 보행자'와 충돌해 7명이 병원으로 옮겨졌다.",
+      "url": "https://news.sky.com/story/seven-people-taken-to-hospital-after-car-collides-with-pedestrians-in-glasgow-13610720",
+      "published": "2026-11-11T01:50:00+09:00",
+      "tags": [],
+      "event": "glasgow-car-pedestrians",
+      "state_media": false
+    },
+    {
+      "source": "Sky News",
+      "title_original": "UK court overturns Trinidad and Tobago law criminalising homosexual sex",
+      "title_ko": "영국 법원, 트리니다드토바고 동성 성관계 처벌법 무효화",
+      "summary_ko": "남성 동성 간 합의된 성관계를 처벌하는 트리니다드토바고 법이 영국 법원에서 뒤집혔다.",
+      "url": "https://news.sky.com/story/uk-court-overturns-trinidad-and-tobago-law-criminalising-homosexual-sex-13610702",
+      "published": "2026-11-11T01:26:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "trinidad-tobago-gay-sex-ruling",
+      "state_media": false
+    },
+    {
+      "source": "Sky News",
+      "title_original": "Sophie visits refugee camps on trip to Bangladesh",
+      "title_ko": "소피 공작부인, 방글라데시 난민촌 방문",
+      "summary_ko": "소피 공작부인이 방글라데시 콕스바자르의 로힝야 난민촌을 찾아 미얀마 출신 난민 지원 현황을 살폈다.",
+      "url": "https://news.sky.com/story/sophie-visits-rohingya-refugee-camps-on-trip-to-bangladesh-13610686",
+      "published": "2026-11-11T00:38:00+09:00",
+      "tags": [],
+      "event": "sophie-bangladesh-rohingya",
+      "state_media": false
+    },
+    {
+      "source": "Sky News",
+      "title_original": "New information from 'several people' about Russell Brand being assessed by police",
+      "title_ko": "경찰, 러셀 브랜드 관련 '여러 명'의 새 제보 검토",
+      "summary_ko": "재판 중과 재판 종료 후 여러 사람이 러셀 브랜드에 관한 의혹과 정보를 경찰에 알려왔다.",
+      "url": "https://news.sky.com/story/new-information-from-several-people-about-russell-brand-being-assessed-by-police-13610681",
+      "published": "2026-11-10T23:54:00+09:00",
+      "tags": [],
+      "event": "russell-brand-case",
+      "state_media": false
+    },
+    {
+      "source": "Sky News",
+      "title_original": "Poundland owner releases £10m to retailer hours before MP grilling",
+      "title_ko": "파운드랜드 소유주, 의회 청문 몇 시간 전 1천만 파운드 투입",
+      "summary_ko": "파운드랜드 소유주가 공급업체 대금 지급용 자금 수백만 파운드를 풀었다. 회사와 직원 1만 500명을 살리기 위한 협상의 돌파구다.",
+      "url": "https://news.sky.com/story/poundland-owner-releases-10m-to-retailer-hours-before-mp-grilling-13610590",
+      "published": "2026-11-10T20:47:00+09:00",
+      "tags": [
+        "business",
+        "industry"
+      ],
+      "event": "poundland-rescue",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "Grassroots club in call for more mental health funding",
+      "title_ko": "지역 풀뿌리 클럽, 정신건강 예산 확대 촉구",
+      "summary_ko": "지역 풀뿌리 클럽이 정신건강 지원 예산 확대를 요구했다.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMDRyS2N5RHFFRC1YNktCNWdYWTY4T3d6cXNLd1YzWTlMV1dIR1pyajJzczV1dlhwZkhaWXIyZk5oUEFsN3Y4ejV4eW5raC0yVUV2R0hMSTN4NURRenFCa2JteTVrS1lIWUtsLWF3UWxRSU9SMWM2MkVIeUM5b2FSMkVkX2o4Vkc4blZTNkR3a1MxSG01N3hGXw?oc=5",
+      "published": "2026-11-11T05:23:27+09:00",
+      "tags": [],
+      "event": "grassroots-mental-health-funding",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "US charges 3 men with plotting terror attacks, including planned assault on UK … | ITV News",
+      "title_ko": "미국, 영국 공격 계획 포함 테러 모의 혐의로 3명 기소",
+      "summary_ko": "미국이 영국 공격 계획을 포함한 테러 모의 혐의로 남성 3명을 기소했다.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeUt2MmJQTDZ5VzYtcndpTHVYblR5OTF5Ny1ueUVsYzY5QzdTclVia0NReXhoaDNYT2xuYnRsVVdxa1FXdUlpXzRhclczRmtwN0FaNlJnemNDdW9OcjFBbUppaU43dUpGRnpnNDFmQkZrTmhJVDBPaW4zeVhyMmwxLVRyZnFSakNHTEJxMk9iVWFOdE5GNWo5M3ZPVWVqeUJPdExNbGYzdnNVM2lIeUxFdHU3TW9zdGhKbUFrVHRWTUZQTlo1eHYxeA?oc=5",
+      "published": "2026-11-11T05:17:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-terror-plot-charges",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "ITV Evening News - Series 11 - Episode 224",
+      "title_ko": "ITV 이브닝 뉴스 - 시즌 11 - 224회",
+      "summary_ko": "ITV 이브닝 뉴스 방송 회차 안내.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRnlkeERkYlFJMFZyVmlRanFhUzBHZ0d0WUtiXzlXMWs3dWtMcm1uT04xVkFaSTJMVkIyWjNJeVdmSmRHM0pBejdLNDExYkcwdTFoT0lHNVFvRlhGZFUwT29QajBWU3Z5cHhxRG1xTTZCaWdvamJhY3h3bC1SWDFXSXZjMDRiakpvU1gtNUxlcTRVclpJZmYzbm11QXZxSWxZSWRPQXdYam9HRTlwd0JScGppTENISEstTHFVelY0dw?oc=5",
+      "published": "2026-11-11T05:00:02+09:00",
+      "tags": [],
+      "event": "itv-evening-news-episode",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "Vikings get Kirk Cousins from Raiders for 3rd-rounder, AP sources say | ITV News",
+      "title_ko": "AP 소식통 \"바이킹스, 3라운드 지명권 주고 레이더스서 커크 커즌스 영입\"",
+      "summary_ko": "AP 소식통에 따르면 바이킹스가 3라운드 지명권을 내주고 레이더스에서 커크 커즌스를 데려왔다.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdnlPTXNtRFpXV084Mm00NmFqN2ZWTktVSVc1bkl0Wm5wUjBMRGdBazBZUGREU0RydjRWcHFyQ3NMb3JhaFdHUmRncnZPc1c5ZVAzTk5ibWFSZllxR3I4RU5POExSeXRqeFZyUUJ0eGEyNjNQRFNQVVNrSWNKMWxhVHpQUlg2MlI4MGJkWlZ2QzM0c1lpcmdhYzliYnZfY1pFOWJ3ejZBaw?oc=5",
+      "published": "2026-11-11T05:00:00+09:00",
+      "tags": [],
+      "event": "nfl-kirk-cousins-trade",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "Catch up on ITV News Central (East Midlands) - Tuesday 10th November",
+      "title_ko": "ITV 뉴스 센트럴(이스트미들랜즈) 11월 10일(화) 다시보기",
+      "summary_ko": "ITV 지역 뉴스 방송분 안내.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZEtPSG5PQnRNR29sQ1RQcVIwTlk2eGpNbm5jU0JjeExSeUVsd1RLaV9MOFBWTm92QmVJRjBEWE9oWEpXQW8yQ2FuOE9pb0cxem8xWlBGTFlXNGRadDdUMFNmeV9wRzF4NGRxTFM1OHIxX0J6aUFQTEUtRFZBYVBoYTh0aU81dlR6VEdGY1k5cjFhOWxkb2k5TnR3Y3RiSmJGWUhhd19R?oc=5",
+      "published": "2026-11-11T04:50:00+09:00",
+      "tags": [],
+      "event": "itv-regional-catchup",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "Catch up on ITV News Central (West Midlands) - Tuesday 10th November",
+      "title_ko": "ITV 뉴스 센트럴(웨스트미들랜즈) 11월 10일(화) 다시보기",
+      "summary_ko": "ITV 지역 뉴스 방송분 안내.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdXRwakZSTmtjbTJ1YnFnVGtuYUgxd3JVdTlocklURWdLZS1MNFA1WWJnN2hEdVpyZDJzbFB2dTJFS0VDaHNNQ1NHLXk1RHhLSUtia0V6ZE5hODRIa0s4ZVdBS2Q4N1BxWWhWRzB2RWNReGZ3VktINmpBMS1oa0FXVkJKVXF2dnAtMDFxU2VRYkNBakFhQ1hqUkxZc1A2MDlGMFk0MnlR?oc=5",
+      "published": "2026-11-11T04:50:00+09:00",
+      "tags": [],
+      "event": "itv-regional-catchup",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "Watch in full: Prince Harry gives speech at child safety event after Meghan pulls out of speaking",
+      "title_ko": "전체 영상: 메건 불참 속 해리 왕자, 아동 안전 행사서 연설",
+      "summary_ko": "메건이 연설에서 빠진 뒤 해리 왕자가 아동 안전 행사에서 연설했다.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNN2dtTHRkMUEyTnNkaUMxTWxaSGZxUmlrV2NydmZFSGNsVmVyZUlDM241STl5eDVxOTgxcUhtcFNZaTlUeVlPV3Yya1dZSHhoUmNhb2RXeHphN0ttYWlFQUhTZUZTUUhRZGlWZkhqeHhRamtyWGhRZWhIUlpjZk5jMjcxLXJFcGhnSGJPNmF6MTlyS0YwOUNmZ3ZrRDJWN3d3dnByYWtKbjd3SGIya1NDV01lSjM0R0h6RlZVZGZUUTJ0S3JsQXZWejg3eEZXR0hL?oc=5",
+      "published": "2026-11-11T04:48:00+09:00",
+      "tags": [],
+      "event": "prince-harry-child-safety-speech",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "Catch up on ITV News West Country (West) Tuesday 10th November",
+      "title_ko": "ITV 뉴스 웨스트컨트리(웨스트) 11월 10일(화) 다시보기",
+      "summary_ko": "ITV 지역 뉴스 방송분 안내.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNlo4NTZBTF9RX2xfbkNGTHRVQnhISkZhbnZIS0xQbnZ0TVZaVl9naHlxTXhjVkdwSmZpSV9lUFI4aU44bzhRXzVuY25waWZYODRFUnJLbE5TVUxYcmhFWnZ5Ti1HcU50Wm8ycTYyeElVbnhqR0hycTEzOUJLS3g0VjFqS1JveUVPUzhkd0hjcE8yNW51UFE1WDBaUjVKeTBp?oc=5",
+      "published": "2026-11-11T04:37:00+09:00",
+      "tags": [],
+      "event": "itv-regional-catchup",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "Exclusive: Number of working class in creative industries falls",
+      "title_ko": "단독: 창작 산업 내 노동계층 수 감소",
+      "summary_ko": "창작 산업에 종사하는 노동계층 인원이 줄었다(채널4 단독 보도).",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUlN0bG9ROVAzSGpSRk9WSnZzNWxoNXM3ekR6WEZrMHVta1pkNjdCODFDRXBGYjlMU3poU2FaemNXY1pOQ0YyV3lmR1JPMlladmhWSmZMcmdqTGk3SDlUQ0VTcWpaYXpJY0wyQXBpNi1BaVRTcHdnekcySDRrbUxfcE53WWp0RkJ1eTJTRFZUZXI4RUkteS1j?oc=5",
+      "published": "2026-11-11T04:58:57+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "creative-industries-working-class",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "‘Police don’t have the resources to deal with prison early release’ – Police Superintendent",
+      "title_ko": "경찰 간부 \"경찰엔 수감자 조기 석방 대응할 자원 없다\"",
+      "summary_ko": "한 경찰 총경이 경찰에 수감자 조기 석방에 대응할 자원이 없다고 말했다.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOGw3YXNYa1dTc1B1eFk4UWpWUkVORDBLaVluQUx4M3pJWkp5d1k5NGZMeE5LMnpVdkR0Y3NQV0xJeHRmMUF4TmthSkpEeTlwTlV5NkpYWldla2xpdTFHTFVkVHMySjdGY3FPWXNiM1pOWm1VVS1ITmJ4QUE1UFJqLWstcC1aX0p5Ul94UEtmeHhsSTk3NDdETXl5aTBmZmVFSi1IZzNFQ1h5N0lod2Z5Z05aZ0pIOUE?oc=5",
+      "published": "2026-11-11T04:51:27+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "prison-early-release",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "COP31: Trump’s war with Iran ‘has turned him into unintentional green campaigner’",
+      "title_ko": "COP31: \"트럼프의 이란 전쟁이 그를 '의도치 않은 녹색 운동가'로 만들었다\"",
+      "summary_ko": "COP31 관련, 트럼프의 이란 전쟁이 그를 의도치 않은 녹색 운동가로 만들었다는 주장.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkRTeWhqckl5RlkwLW5DdGtuanVXOURLMDRlR2tSUmp2TmFwUG1DOUFlNWdwRC1KcWdTd2EzRWpsXzNja2pSNVBjMThQeTFNRElCT2NhQm1jbVl6Ymk3MV9QaURLZTVGYzRtN1hwWXNPV1NfWlplN3lxMmlJY0t3VC1obldKRWxXa0ZwTERvWVJpWE9yMU9pU2ZQbVVPWU9FSzN3eHNKT3FGTjQ?oc=5",
+      "published": "2026-11-11T04:51:18+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "cop31-trump-iran-green",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "David Walliams",
+      "title_ko": "데이비드 월리엄스",
+      "summary_ko": "데이비드 월리엄스 관련 보도(제목 외 정보 없음).",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GTUNFdWNjQTFwTk9oV2dCR3lxMlctTmtZdkJVNDZPVG9fcmpBempJRUlEbDdyY1dyVE9LRmJrWjU2SzNtRDJJT1k1MG90Vjliek1zU1UxN05wbFk1aVlr?oc=5",
+      "published": "2026-11-11T04:50:43+09:00",
+      "tags": [],
+      "event": "david-walliams-allegations",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "US Air Force planes leave UK airbase amid claims of Iran-linked threat",
+      "title_ko": "이란 연계 위협 주장 속 미 공군기, 영국 공군기지 떠나",
+      "summary_ko": "이란 연계 위협 주장이 제기된 가운데 미 공군기들이 영국 공군기지를 떠났다.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYkIwaFhTeEMxejFmNTNwaXpsN0F2eWhmcUFIUzJqbWdvSVd4dnJIMEV0eld4UEVDaXYwS1BGLW5fb0NnMXJKRWxIYmVfQ0treHpaTmJZLVZ6a2lBQjZ1VFcxSkQwTWJaUVd3TWlaVV9pRmJkZmVMVTBLQkF6YmZQcnpSUy1lTjRuU0k5aDh6WkJzUzNVR0lOWUZiYlJBc2ItSUE?oc=5",
+      "published": "2026-11-11T04:45:31+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-air-force-uk-iran-threat",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "Abusive father’s early prison release leaves family in fear",
+      "title_ko": "가해 아버지 조기 석방에 가족 공포",
+      "summary_ko": "가정폭력 가해 아버지가 교도소에서 조기 석방되면서 가족이 두려움에 떨고 있다.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX0NNOFEyNXBNUW1kcGJRWXFpajNYcS1hRGI1UkpGdW8xZTNISXY0LWprOFBkYVJNTWZpZ3JNYjhQQUROYmZnTTdGMDdRWXhITFpEQXd1dlB2cmVGWTFKSFVxcHg3c2p2QU5DZXR2ZnFpbmlReXZWQ01xTlJ6TTJ0dzFZX0JTa0tRQzU2MVRaUU1aUQ?oc=5",
+      "published": "2026-11-11T04:43:40+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "prison-early-release",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "David Walliams accused of preying on teenagers and young women for sex",
+      "title_ko": "데이비드 월리엄스, 10대·젊은 여성 성적 착취 의혹",
+      "summary_ko": "데이비드 월리엄스가 10대와 젊은 여성들을 성적으로 노렸다는 의혹이 제기됐다.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdVRrZGZXREdyb01sdnBac1Z2WE9ob2UtLUduQmRZaTJaZmZwbGZKY3JZYm9EdWdKaExOUnVpSFNua3QyWnVkTVZqYlFHc1VJWFJZV1FUWXh3X0E1RVQtZHdUcVphN0REc3pqbUZWaldqemxFanFlWmFoOWVWSU1GeGI2YU44R3VSZWx0N0NwLTllSjVxYzREaUZlRVdhYkNSUkE?oc=5",
+      "published": "2026-11-11T04:37:39+09:00",
+      "tags": [],
+      "event": "david-walliams-allegations",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "2028 election",
+      "title_ko": "2028년 선거",
+      "summary_ko": "2028년 선거 관련 보도(제목 외 정보 없음).",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hV0YwRElJSVkxOERqNm5iekZneXdsMVhMTnE5Y1l4UDVhZGlvZkxCVzg1Z3hOQi1RV1NuQnU5eGNoRDNfcXQtcWYtRkFVeUhUR0pJNFN6ak9GMHNneXc?oc=5",
+      "published": "2026-11-11T04:32:37+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-2028-election",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Fed officials open door to a half-percentage-point rate hike as inflation worsens",
+      "title_ko": "연준 인사들, 인플레 악화에 0.5%p 금리 인상 가능성 열어",
+      "summary_ko": "인플레이션이 악화되면서 연준 인사들이 0.5%포인트 금리 인상 가능성을 열어뒀다.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXo5UzFWVEh5WllQOHNxS1Q2cERxOEM0X1QyN1dPX0R4XzdfT1BpajYxdi0xOEltNWh6cE15Z2ZvZ2dXV0Vwb3NkbWZ1VGQ2M2tvVVVSaWd6clhPcS1XUEU2QXE3c0tlLUhPX0c2emRnWVpwOGtoajlnSS1VRXRNZXFaNEpyVlVwcFVIOUdkT18yQ2t6a1psZGVlOFpiZl90QnVhcmxqQzNxNnlNSEdXcWpjcUdzYUNJSi1hcnl6ZEpUSUU?oc=5",
+      "published": "2026-11-11T05:42:14+09:00",
+      "tags": [
+        "monetary",
+        "forecast"
+      ],
+      "event": "us-inflation-fed-rate-hike",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Nvidia heads for $470 billion two-day wipeout as CEO affair fallout deepens",
+      "title_ko": "엔비디아, CEO 불륜 파문 확산에 이틀간 시총 4,700억 달러 증발 앞둬",
+      "summary_ko": "CEO 불륜 파문이 커지면서 엔비디아 시가총액이 이틀간 4,700억 달러 사라질 상황이다.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
+      "published": "2026-11-11T05:21:46+09:00",
+      "tags": [
+        "stocks",
+        "business"
+      ],
+      "event": "nvidia-huang-spy-affair",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "US House Republicans choose Jim Jordan as their next party leader",
+      "title_ko": "미 하원 공화당, 짐 조던을 차기 당 지도자로 선출",
+      "summary_ko": "미 하원 공화당이 짐 조던을 차기 당 지도자로 뽑았다.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRE5pQkRIY0JYdW1mRGtidndvN2hYcHFRaXRuTVdtTnNLaXNzMGdPcEpWREhMclc0YVdTdk10TGNXR0U2Nml5bkNVdjY4OU90SWdIOXgtLVJwWE9xQ0ttR1MwTkI4SV84VFBlZm9hbXA0d0lFR2dQMW5NR0Q1dmVjRlo4bENFLTJ6NHVGY2NwSGREMzhraXRTQkZZcjNEdkc4TFZZczg1RlZ0V1RNSkdpOEFxV01pWlFPbXc?oc=5",
+      "published": "2026-11-11T05:18:28+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "house-gop-leader-jordan",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "US Army member arrested in UK for suspected 'espionage' for Russia",
+      "title_ko": "러시아 '간첩' 혐의 미 육군 병사, 영국서 체포",
+      "summary_ko": "미 육군 소속 인원이 러시아를 위한 '간첩' 혐의로 영국에서 체포됐다.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT0hNNGY0T0RDZVBLMGZlOW5iREJOMXN2VEt6VGV4aEo4Y2JoejZOa3VJMXJicWRvaUtnNE9pTG5iMzNfbGlpQjZPRVc0SW9zV0xiYjJJLU4wTW9OY25oUE5uMkkwRkxtd2NlOUZrVnJlVUVPX1ozcDdmVlNwbEh2WWxqSmNvRWZvTDF4X25jWURpUzFHUFAxWkNvUUtYbnhuLWdKZFIxMWxLS2tfWUY4?oc=5",
+      "published": "2026-11-11T05:04:39+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-soldier-russia-espionage-uk",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Polish gunman visited websites about Norwegian mass killer Breivik, minister says",
+      "title_ko": "장관 \"폴란드 총격범, 노르웨이 학살범 브레이비크 관련 사이트 방문\"",
+      "summary_ko": "한 장관에 따르면 폴란드 총격범이 노르웨이 대량학살범 브레이비크 관련 웹사이트를 방문했다.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU1g4bkg3aWltVnpoMlRzcGs2YzJVY1lYVzd0VGwxRklfR1RCZDRwdUhwVVYxdmV6a05LYXJyNGdpMmVFeHZmX1FKeXJ3VEdJaUlMTnEyZ2lzY2I2MGoxMWgxci1DSGJZZ0pLeDYxQUx5Qi1pTWxyeUZ5T3dvdU5odnAtb2E0bmhxR3BickZ0QnFLTFJvZEFMZmdtRFA4ZGJWMF9aNDczWmx5NG5XWDI3NTk5Rlppa01zYmNPRC0zS3dFWmdWVkRVSw?oc=5",
+      "published": "2026-11-11T05:03:45+09:00",
+      "tags": [],
+      "event": "poland-gunman-breivik",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor",
+      "title_ko": "단독: 앤트로픽, IPO 기업가치 1조 4천억 달러 검토…월가 AI 열기 시험대",
+      "summary_ko": "앤트로픽이 IPO에서 1조 4천억 달러 기업가치를 노리고 있으며, 이는 월가의 AI 열기를 시험하는 사례가 된다.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUtnS210c1pKNVpEZXJ1V1JpdUdyZ0h5OGh2SzVCXzJaVGRwaDZnb0NQZUxFS0ZFWmxwbU53ZlJtdlBkOWplZHdaNkloU0xwV3hvdlpjNnh0R1FISXdMOExfc09JckJqTWxjSWlZSjZpN0RWR1kyRUF6YUlXN0dqSm5XQU5TUmFmbWpFbGlzT3FZRllaMGU4cld0cDlsaFVYY0IzV2ZNYmwxYW0yd1FDaw?oc=5",
+      "published": "2026-11-11T04:55:19+09:00",
+      "tags": [
+        "stocks",
+        "business",
+        "industry"
+      ],
+      "event": "anthropic-ipo-valuation",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Iraq bars plane carrying Iran's soccer team from landing in Basra over US sanctions, officials say",
+      "title_ko": "관계자 \"이라크, 미 제재 이유로 이란 축구대표팀 탑승기 바스라 착륙 불허\"",
+      "summary_ko": "관계자들에 따르면 이라크가 미국 제재를 이유로 이란 축구대표팀을 태운 항공기의 바스라 착륙을 막았다.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNXZLZlE1TldPUHRna1pNTU91YTJWVHJ5NmxEZERoWGFudjU4WFI1SHlqVXl1TzFmeHBFcjNjZHhOTkNSVTIzcmFsbnktdzR3MDFaY2FYQzVlaHhBc3V5Nm52R3pvZU5vdHJhZndaV3R2LXh1cVZxUkhvcDQ0Z3lMNXA2THdaM05kZVpNOWliNGQ0cHBNOFhYYU44U3hWaVRkYldWNS11ZUtwNUs5YjBJbVdLYjhidklfMnZwYWVwRHpyMGYyMS1Z?oc=5",
+      "published": "2026-11-11T04:53:34+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "iraq-bars-iran-soccer-plane",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Wall St retreats as hot inflation data, Fed comments fuel rate worries",
+      "title_ko": "월가 하락…뜨거운 물가 지표·연준 발언에 금리 우려 확산",
+      "summary_ko": "높은 인플레이션 지표와 연준 인사 발언이 금리 우려를 키우며 뉴욕 증시가 밀렸다.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSEE5eGJXT1lYRVFJMUpWb2VCTENjZ2hBNWk0QWl5QVZBNmJ4TFBodVUtRVRzV0JubVE0NFJYRFlmYkpuc0tlbTBValFhV0ppcGdYNEZERXV4ZnhLZUJKTF9fUzZEeHM3cDRwdmlMdUVIUWlERHprb3lKakQ1S1gzSmI5LVZYWWx2cTBjVC1sVEc1OG8tOS0ta0k5VQ?oc=5",
+      "published": "2026-11-11T04:45:44+09:00",
+      "tags": [
+        "stocks",
+        "monetary"
+      ],
+      "event": "us-inflation-fed-rate-hike",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "US commerce department delays Megaspeed’s inclusion on trade blacklist",
+      "title_ko": "미 상무부, 메가스피드의 무역 블랙리스트 등재 연기",
+      "summary_ko": "엔비디아 CEO 젠슨 황과 불륜 관계였던 중국 스파이 의혹 인물과 연결된 회사가 '수출통제 명단(entity list)'에서 빠졌다.",
+      "url": "https://www.ft.com/content/afb6c960-a910-4d67-9588-73ba3bea5b06?syn-25a6b1a6=1",
+      "published": "2026-11-11T05:05:21+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation",
+        "business"
+      ],
+      "event": "nvidia-huang-spy-affair",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "US regulator postpones Wall Street push to trade AI computing futures",
+      "title_ko": "미 규제당국, 월가의 AI 컴퓨팅 선물 거래 추진 보류",
+      "summary_ko": "거래소들이 새 자산군 창출 경쟁을 벌이는 가운데 상품선물거래위원회(CFTC)가 가격 조작 우려를 제기했다.",
+      "url": "https://www.ft.com/content/269b0245-44c4-4e34-94df-202bef642539?syn-25a6b1a6=1",
+      "published": "2026-11-11T04:58:11+09:00",
+      "tags": [
+        "legislation",
+        "industry",
+        "stocks"
+      ],
+      "event": "cftc-ai-compute-futures",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "Senior US soldier arrested in UK on suspicion of spying for Russia",
+      "title_ko": "미군 고위 병사, 러시아 간첩 혐의로 영국서 체포",
+      "summary_ko": "영국 대테러 경찰의 수사에는 FBI와 미군이 참여하고 있다.",
+      "url": "https://www.ft.com/content/94aa4846-58c6-4c17-b25a-095f122b4809?syn-25a6b1a6=1",
+      "published": "2026-11-11T04:54:37+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-soldier-russia-espionage-uk",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "Weil partners approve plan to shut down law firm",
+      "title_ko": "와일 파트너들, 로펌 해산안 승인",
+      "summary_ko": "잇단 이탈로 위기에 빠진 약 100년 역사의 로펌 해산이 공식화됐다.",
+      "url": "https://www.ft.com/content/7088e087-c688-485a-8e8d-efb6b75bc571?syn-25a6b1a6=1",
+      "published": "2026-11-11T04:52:25+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "weil-law-firm-dissolution",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "Nvidia hires former US prosecutor at Wachtell to lead Jensen Huang probe",
+      "title_ko": "엔비디아, 젠슨 황 조사 책임자로 와크텔 소속 전 미 연방검사 선임",
+      "summary_ko": "뉴욕 남부지검 검사장 대행을 지낸 인물이 CEO와 중국 스파이 의혹 인물 간 불륜 조사를 맡는다.",
+      "url": "https://www.ft.com/content/8d59bf02-960e-4eb1-b5dc-55397e31cea5?syn-25a6b1a6=1",
+      "published": "2026-11-11T04:24:52+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "nvidia-huang-spy-affair",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "Treasuries slide as ‘hot’ inflation sparks bets on Fed rate rise",
+      "title_ko": "'뜨거운' 인플레에 미 국채 하락…연준 금리 인상 베팅",
+      "summary_ko": "10월 소비자물가 상승률이 예상을 웃돌자 2년물 국채금리가 2024년 이후 최대 폭으로 치솟았다.",
+      "url": "https://www.ft.com/content/8b564134-dea6-4272-8ede-e0b12ef5aebd?syn-25a6b1a6=1",
+      "published": "2026-11-11T03:53:50+09:00",
+      "tags": [
+        "monetary",
+        "stocks",
+        "forecast"
+      ],
+      "event": "us-inflation-fed-rate-hike",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "Alice Huang’s tangled web of connections",
+      "title_ko": "앨리스 황의 얽히고설킨 인맥",
+      "summary_ko": "엔비디아 CEO와 불륜 관계였던 중국 스파이 의혹 임원은 앞서 규제당국과 마찰 전력이 있는 남성과 함께 경력을 쌓아왔다.",
+      "url": "https://www.ft.com/content/3238d92b-4074-478d-a7f2-d78b9e154fc7?syn-25a6b1a6=1",
+      "published": "2026-11-11T01:17:20+09:00",
+      "tags": [
+        "business",
+        "geopolitics"
+      ],
+      "event": "nvidia-huang-spy-affair",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "Top Fed official considers largest rate rise since 2022",
+      "title_ko": "연준 고위 인사, 2022년 이후 최대 폭 금리 인상 검토",
+      "summary_ko": "크리스토퍼 월러 연준 이사는 미국 인플레이션이 둔화하지 않으면 50bp 인상을 검토해야 한다고 말했다.",
+      "url": "https://www.ft.com/content/72abed21-6043-4b2b-81b1-f3a2547da5b7?syn-25a6b1a6=1",
+      "published": "2026-11-11T01:03:45+09:00",
+      "tags": [
+        "monetary",
+        "forecast"
+      ],
+      "event": "us-inflation-fed-rate-hike",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Inter v Manchester City: Women’s Champions League – live",
+      "title_ko": "인테르 대 맨체스터 시티: 여자 챔피언스리그 – 실시간",
+      "summary_ko": "여자 챔피언스리그 실시간 중계(그리니치 표준시 오후 8시 킥오프). 앞선 경기 결과는 헤켄 0-0 첼시, 레알 마드리드 3-0 파리FC.",
+      "url": "https://www.theguardian.com/football/live/2026/nov/10/inter-v-manchester-city-womens-champions-league-live",
+      "published": "2026-11-11T06:11:28+09:00",
+      "tags": [],
+      "event": "womens-champions-league-inter-city",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "NFL trade deadline 2026: Vikings reunite with Kirk Cousins; Colts stick with Taylor; 49ers get WR Allen – live updates",
+      "title_ko": "2026 NFL 트레이드 마감: 바이킹스 커크 커즌스 재영입, 콜츠 테일러 잔류, 49ers WR 앨런 영입 – 실시간",
+      "summary_ko": "트레이드 마감 전 소식. 바이킹스가 베이거스와의 거래로 QB 커크 커즌스와 재결합했고, 49ers는 WR 키넌 앨런, 빌스는 S 아마니 후커를 영입했다.",
+      "url": "https://www.theguardian.com/sport/live/2026/nov/10/nfl-trade-deadline-2026-live-updates-deals-rumors-news",
+      "published": "2026-11-11T06:04:22+09:00",
+      "tags": [],
+      "event": "nfl-kirk-cousins-trade",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Trump ally Jim Jordan to lead House Republicans next year, with John Thune to return as Senate minority leader - live",
+      "title_ko": "트럼프 측근 짐 조던, 내년 하원 공화당 이끈다…존 튠은 상원 소수당 대표 복귀 – 실시간",
+      "summary_ko": "오하이오 출신 강경 보수 조던이 스티브 스컬리스를 106대 73으로 꺾었고, 튠은 경쟁자 없이 재선됐다. 공화당은 중간선거 패배 뒤 조던을 하원 소수당 대표로 선출했다.",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
+      "published": "2026-11-11T06:03:19+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "house-gop-leader-jordan",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Stacey & Joe: In Too Deep review – Solomon deserves better than these dismal old misogynistic tropes",
+      "title_ko": "[리뷰] '스테이시 앤 조: 인 투 딥' – 솔로몬은 낡은 여성혐오 클리셰보다 나은 대접을 받아야",
+      "summary_ko": "진행자 스테이시 솔로몬은 다섯 아이와 집안, 바쁜 경력을 책임지는 유능한 여성인데 왜 늘 '보시하다'고 묘사되는지 묻는 리뷰다.",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/10/stacey-joe-in-too-deep-review-solomon-bbc-iplayer",
+      "published": "2026-11-11T06:00:19+09:00",
+      "tags": [],
+      "event": "stacey-solomon-review",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Emmanuel and Brigitte Macron file new defamation lawsuit against Candace Owens",
+      "title_ko": "마크롱 대통령 부부, 캔디스 오언스 상대로 새 명예훼손 소송",
+      "summary_ko": "미국 극우 팟캐스터 오언스가 프랑스 영부인이 남성으로 태어났다는 허위 주장을 계속 퍼뜨리자 마크롱 부부가 오언스의 거주지 테네시주에서 새 소송을 냈다.",
+      "url": "https://www.theguardian.com/world/2026/nov/10/emmanuel-brigitte-macron-defamation-lawsuit-candace-owens",
+      "published": "2026-11-11T05:28:47+09:00",
+      "tags": [],
+      "event": "macron-owens-defamation",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "UK counter-terrorism police arrest senior US soldier with alleged links to Russia",
+      "title_ko": "영국 대테러 경찰, 러시아 연계 의혹 미군 고위 병사 체포",
+      "summary_ko": "FBI 국장에 따르면 41세 남성이 미국 당국과 공조한 경찰에 글로스터 인근에서 '간첩 혐의' 관련 수사로 체포됐다.",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire",
+      "published": "2026-11-11T05:12:11+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-soldier-russia-espionage-uk",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Thomas Markle, Meghan’s father, cut off his ankle monitor, DoJ says",
+      "title_ko": "법무부 \"메건 부친 토머스 마클, 전자발찌 절단\"",
+      "summary_ko": "당국에 따르면 메건의 82세 부친은 캘리포니아 창고에 아동 성학대물을 보관한 혐의로 체포된 지 며칠 만에 전자발찌를 끊었다.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/thomas-markle-ankle-monitor",
+      "published": "2026-11-11T05:08:10+09:00",
+      "tags": [],
+      "event": "thomas-markle-ankle-monitor",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "French police raid Ritz hotel in Mohamed Al Fayed sexual abuse investigation",
+      "title_ko": "프랑스 경찰, 모하메드 알파예드 성학대 수사로 리츠 호텔 압수수색",
+      "summary_ko": "프랑스 경찰이 고(故) 알파예드의 성학대·인신매매 수사와 관련해 파리 리츠 호텔 등 3곳을 수색하고 체포에 나섰다.",
+      "url": "https://www.theguardian.com/world/2026/nov/10/french-police-raid-ritz-hotel-in-mohamed-al-fayed-sexual-abuse-investigation",
+      "published": "2026-11-11T05:00:43+09:00",
+      "tags": [],
+      "event": "al-fayed-ritz-raid",
+      "state_media": false
+    },
+    {
+      "source": "The Telegraph",
+      "title_original": "Too many people are ignoring the signs of diabetes",
+      "title_ko": "너무 많은 사람이 당뇨 징후를 무시한다",
+      "summary_ko": "당뇨 진단은 이미 상당한 손상이 진행된 몇 년 뒤에야 내려지는 경우가 많다.",
+      "url": "https://www.telegraph.co.uk/global-health/science-and-disease/signs-diabetes/",
+      "published": "2026-11-11T01:47:30+09:00",
+      "tags": [],
+      "event": "diabetes-signs",
+      "state_media": false
+    },
+    {
+      "source": "The Telegraph",
+      "title_original": "Gaza floods are an “immediate humanitarian emergency”, warns Trump’s Board of Peace",
+      "title_ko": "트럼프의 평화위원회 \"가자 홍수는 '즉각적 인도주의 비상사태'\"",
+      "summary_ko": "이스라엘에 가자지구로 겨울 물자 반입을 더 허용하라고 촉구했다.",
+      "url": "https://www.telegraph.co.uk/global-health/terror-and-security/gaza-floods-humanitarian-emergency-trump-board-of-peace/",
+      "published": "2026-11-10T23:03:57+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "gaza-floods-humanitarian",
+      "state_media": false
+    },
+    {
+      "source": "The Telegraph",
+      "title_original": "Telegraph Fantasy Football: Team of the Week Game Week 10",
+      "title_ko": "텔레그래프 판타지 풋볼: 10라운드 이주의 팀",
+      "summary_ko": "텔레그래프 판타지 풋볼 포인트 최다 득점 11명으로 꾸린 이주의 팀 안내.",
+      "url": "https://www.telegraph.co.uk/fantasy-sports/fantasy-football/telegraph-fantasy-football-team-of-the-week/",
+      "published": "2026-11-10T18:35:00+09:00",
+      "tags": [],
+      "event": "telegraph-fantasy-football",
+      "state_media": false
+    },
+    {
+      "source": "The Telegraph",
+      "title_original": "Fears over Ebola spread in DRC as patients flee attack on treatment centre",
+      "title_ko": "치료센터 피습에 환자 도주…콩고민주공화국 에볼라 확산 우려",
+      "summary_ko": "IS 무장세력이 보건소를 습격해 수십 명을 살해하면서 의료진과 환자들이 공포에 빠졌다.",
+      "url": "https://www.telegraph.co.uk/global-health/science-and-disease/fears-over-ebola-spread-drc/",
+      "published": "2026-11-10T01:03:17+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "drc-ebola-attack",
+      "state_media": false
+    },
+    {
+      "source": "The Telegraph",
+      "title_original": "Man Utd are in relegation trouble and Carrick must be sacked",
+      "title_ko": "맨유 강등 위기, 캐릭 경질해야",
+      "summary_ko": "맨유가 강등 위기에 있으며 캐릭 감독을 경질해야 한다는 칼럼.",
+      "url": "https://www.telegraph.co.uk/football/2026/11/08/man-utd-vs-aston-villa-live-latest-premier-league-updates/",
+      "published": "2026-11-09T18:24:29+09:00",
+      "tags": [],
+      "event": "man-utd-carrick",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Prince Harry: All children deserve to feel safe",
+      "title_ko": "해리 왕자 \"모든 아이는 안전하다고 느낄 자격이 있다\"",
+      "summary_ko": "해리 왕자가 모든 아이가 안전하다고 느낄 자격이 있다고 말했다.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMjJLamxTOTZNQUphb0tPMWdoMk9uUnBkY21hMWVhazdIZklzTmlzUjhlMVVqWjdVYy02UktVNk5wQ0ZnbnltNjRkeTJWMUhtT3VFSVFDMzBhME1rcHQzYk5FSFExV0VrUF9Td3hjQVhXWHhsVU95dGktU1dROVRCcmEySjg0UjkzS0lVbXBlWQ?oc=5",
+      "published": "2026-11-11T04:46:07+09:00",
+      "tags": [],
+      "event": "prince-harry-child-safety-speech",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Senior US soldier arrested in UK suspected of spying for Russia",
+      "title_ko": "러시아 간첩 혐의 미군 고위 병사, 영국서 체포",
+      "summary_ko": "러시아를 위한 간첩 혐의를 받는 미군 고위 병사가 영국에서 체포됐다.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZjBPc1VPWE9wT0VNS1BrWlRFM0JFOVRzNXJjQnE3Y2lvdm5rRk13X0Fyc05SVkRqeXlya2JwWFFINXRHM1BYblZkNlJpN09kZkk5ODhSOXNwYWtzLUJNRkxlUUwzamlxcDNZZzhRS2dqcy1sR3JyUzNrNXlZcC02SU9PMGNyQQ?oc=5",
+      "published": "2026-11-11T04:30:33+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-soldier-russia-espionage-uk",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Peru puts Pope closer to heaven for monumental welcome home",
+      "title_ko": "페루, 성대한 환영으로 교황 맞이",
+      "summary_ko": "페루가 교황을 성대하게 맞이했다.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcE5oQUJNUWRNRFBLM3h4ZXZSUmhYbTR5bVNMTVotUndpVU53bVhhaTl0eVdJYUVuaUNNTDlCWHFXX1ltNlBWQ255bklFUnF5TVJZMlpNWHVTQlUzbGI3WXNidVdYYnpZXzNwMDhtVU45eXNzWUNfVEdVb3REclJrWTdTZS1TWFVySk1ONVZLMGxIOS0yZUxILXhn?oc=5",
+      "published": "2026-11-11T04:05:00+09:00",
+      "tags": [],
+      "event": "pope-peru-welcome",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Latest news & breaking headlines | The Times and The Sunday Times",
+      "title_ko": "최신 뉴스 및 속보 | 더 타임스·선데이 타임스",
+      "summary_ko": "더 타임스 웹사이트 메인 페이지(기사 아님).",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE1rUkwwNVRWQUpTalMyTmJSWVRxR2VTTHQ2RmV1amVFSzlPXzY3SUdfTzVzM0dNNXVzUzZscWV3?oc=5",
+      "published": "2026-11-11T03:59:49+09:00",
+      "tags": [],
+      "event": "times-homepage",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "John Swinney backs X post on Sikh festival during Remembrance silence",
+      "title_ko": "존 스위니, 현충일 묵념 중 시크교 축제 X 게시물 옹호",
+      "summary_ko": "존 스위니가 현충일 묵념 시간에 올라온 시크교 축제 관련 X 게시물을 지지했다.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObFlLQ0NWeEFvOGVxeXYwUnY3ZGZQVzFzRW01VllNUjF4bUVzUWJjNEp3WVVmNy1NTHBJc3hLbDVMWHR0el9wN3lNZkNSbmlQaW5DaWRsd0k5YThrZTNodjhrMlhxVDJIdTFoNnRJU3A0Vm54UXFWNU9VSkJnczFyRHV1UW9ybG90SDhicjAzUUhmdUhuaVcxMW9aTXFFbENsMkJqMjgyd2FmdlItU3VqTURUQWYwbmpMeDlvNzhCQ3FZQQ?oc=5",
+      "published": "2026-11-11T03:29:37+09:00",
+      "tags": [],
+      "event": "swinney-sikh-post-remembrance",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Penguin closes the book on scathing Mario Vargas Llosa biography",
+      "title_ko": "펭귄, 마리오 바르가스 요사 혹평 전기 출간 접어",
+      "summary_ko": "펭귄이 마리오 바르가스 요사에 대한 혹평성 전기 출간을 중단했다.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVnlwcHZTRU5yVllvUzJ6ZXBjeGRSdjRzdjdWZnB1TEIxRVB1NzdCRkdueFRGNG10cVlGQXZlck1YRkpRRVA2SFBmRHp2N0pERVVZQ1F3aVRZRUFCaXhSOHZSRDNWTDU0S3NWYjFobV9uWGtCWmNZcDJ0RWJZY09yS2dCdThSMkc1LVB1R2lVU2JkWHlKUVMyLU11aTFyN0l6bk1tLVlWenZxeHNvaWV3enUzSGNncVp4NTlvVUR3?oc=5",
+      "published": "2026-11-11T03:15:00+09:00",
+      "tags": [],
+      "event": "vargas-llosa-biography-penguin",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Is Alice Huang a spy? The Chinese public are not so sure",
+      "title_ko": "앨리스 황은 스파이인가? 중국 대중은 확신하지 못한다",
+      "summary_ko": "앨리스 황의 스파이 여부에 대해 중국 대중은 확신하지 못하고 있다.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbnpYZU5Vcy1JbnFFSVVBMjlZZWFJbzhZcFlsMHZDTU5mUmR0ZXUwOWNyQjFFdWY1a2xEeEdxMERTODVlVjEwSkFlOVd4TWZsOXhoZWFuay15Q3o0NHBxWGJlT3hNd3RKNXlDMHFsa3FLcWlnWER3ZWpjU1p3MDhBamN1N2V2ZC1kbjB0SVktQ2FTeWgwSHVhNWJSMzRZaDZVYlZrcVhCSQ?oc=5",
+      "published": "2026-11-11T03:10:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "nvidia-huang-spy-affair",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Login",
+      "title_ko": "로그인",
+      "summary_ko": "더 타임스 로그인 페이지(기사 아님).",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9RZkhSTWx6cXlUN09xWU83NWdKZzhGR0xYSHBjakhaeTFFS29uQzRXMEFWTlAxaEIzV0xlY1dnNmU?oc=5",
+      "published": "2026-11-11T03:07:58+09:00",
+      "tags": [],
+      "event": "times-login-page",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Clutching prayer beads, with only his wife to defend him: How Russell Brand’s defence unravelled before our eyes",
+      "title_ko": "기도 염주 쥐고 아내만이 변호…러셀 브랜드의 변론은 어떻게 무너졌나",
+      "summary_ko": "러셀 브랜드의 변론이 법정에서 무너진 과정을 다룬 기사.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNDRISTcxX2Jja0YxRGRYMUptWDlFa3MzSmVrYkVmNzNsTEV5WEowenpUX0gtYXdualhKSzdRSm8xdjlhMDdFM3Z2RFhDTUlDc0F3OXNJaGNtXzRpM3QtUU00YVdJbXpqR2ludGJWazdpT2VhSkFWUm13bHRISVlpNDg5T1NFTWdFWko1STF3b1hyajJxbGxPZWZqaWR0bEFiQ0JKWXRLb0ZxZmlRanZFUlFJQUVYdl9Dcmg4elJ6b0s?oc=5",
+      "published": "2026-11-11T05:16:07+09:00",
+      "tags": [],
+      "event": "russell-brand-case",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "US soldier accused of espionage linked to Russia arrested by British terror police",
+      "title_ko": "러시아 연계 간첩 혐의 미군 병사, 영국 대테러 경찰에 체포",
+      "summary_ko": "러시아 연계 간첩 혐의를 받는 미군 병사가 영국 대테러 경찰에 체포됐다.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnNaVkFCb3N2cDR3djk0a1NqNkNiakRjVW5jdzBPQktJUUtKYXEyOE5MZHY5QlZXamdMeWFVc0JTd2dRV3ZJTzhoVjJ4YldIX3lGR054ZWFpOGhYQk01LWpIMUpNSU5aX2psUGlOTTVYRGpYNDRBY29YeFctc2x1aENJSFlCOURrT29zb1B3WE5HanRaOTkwUTB1cGYydzFXZFo0cTNwaWVGQVNFRnR5dkdn?oc=5",
+      "published": "2026-11-11T05:13:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-soldier-russia-espionage-uk",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Meghan Markle’s father Thomas cut off his ankle monitor, DOJ says",
+      "title_ko": "법무부 \"메건 마클 부친 토머스, 전자발찌 절단\"",
+      "summary_ko": "미 법무부에 따르면 메건 마클의 부친 토머스가 전자발찌를 끊었다.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZkJHeFhXdzBQLUdQeEdBSEQ3MnNPVEp1WllnRWpGLUhscC04T2VONWRUcUY3cTZwXzVpYUxMVzQ2MUdoZG54bTAzN3puRGZqSzVJVU5ZQU9reFM4aTBaT2RSaEZDX21qU2RqbkltY2FaNldUa1Z1SkZhSGZ4NGdidEtXbzdFalRyQ0t6WHpLRmFQb0lJd1puTEtnT2FmV3pkMElHamNVVHNsdUhHMkE?oc=5",
+      "published": "2026-11-11T04:50:00+09:00",
+      "tags": [],
+      "event": "thomas-markle-ankle-monitor",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Rio Ngumoha on escaping crime, leaving Chelsea and his England dream",
+      "title_ko": "리오 은구모하, 범죄 탈출·첼시 이적·잉글랜드 대표 꿈을 말하다",
+      "summary_ko": "리오 은구모하가 범죄 환경을 벗어난 일, 첼시를 떠난 일, 잉글랜드 대표팀의 꿈에 대해 이야기했다.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMTVzbzhXcjF4M2xfVUhtX29fYlpmZkNpSk1VSlpSN09HM3VkQ2I1Mi1SVVRqT1VpN2drcGRqWXRqWVdHWkJDd0Y2U2Y1d0hnS2xiT0hPazNJYVdKblR1STYtcnR4UnN5Zmd4UmVFQmY3LS1Ndk5WMzJ1QWhYd3N6Yk5TZHF4XzBmaTB3WlZNRkx4Rkh0S2Fxd245YW5OYm8?oc=5",
+      "published": "2026-11-11T04:41:00+09:00",
+      "tags": [],
+      "event": "rio-ngumoha-interview",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "GOP-led Epstein committee clears Trump of wrongdoing - but details government’s failings",
+      "title_ko": "공화당 주도 엡스타인 위원회, 트럼프 혐의 없음 결론…정부 실책은 상세 지적",
+      "summary_ko": "공화당 주도 엡스타인 위원회가 트럼프의 잘못은 없다고 결론 내리면서 정부의 실책을 상세히 기술했다.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSjY5ZzR6dE00V1NnaXZRQkRtaGdiWnpoUlRlY3FTOHBuTTdiaXg2NGFaZ3MxdzZucDR2Y2cxYkNzZl9KQ1UtR2VRc3JTeUZtcnN6MUJMVkE2X2NBWXdRZW5TTnV1N25VWUh2VzMtakhhOFBuQVNsSlpzcHFkdnJRcDh4Smp4TTY2OUpxdVNMRWtXYmlJSEFSSkkxWW5tRFBTcW5IUzcyVGFGUEVnWEE2M0Q5X0FkQmREdGc2QQ?oc=5",
+      "published": "2026-11-11T04:21:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "epstein-congress-report",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Man arrested for murder on cruise ship after housekeeper finds body",
+      "title_ko": "크루즈선서 객실 청소원이 시신 발견…남성 살인 혐의 체포",
+      "summary_ko": "객실 청소원이 시신을 발견한 뒤 크루즈선에서 한 남성이 살인 혐의로 체포됐다.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeC0tZVVsazdnSVFvZll2RmhmaHhxZTJtYWVEaG9mTVpBVDcxQXpmRV81VXZCcmNVck5ERWdHSVpRbnJmX1pBQlVmOHZEaWhqWXRuRmVvRWJKaVZ2VzJMbklOalgtTEcxQWxuMXd2ZExJX0pVdzdaWE54cnUwZXcwTFgyY3Z2QlFIcGN5YkZTYmo2c05GZXZ0b2k0LW4tMjRNaGc?oc=5",
+      "published": "2026-11-11T03:35:00+09:00",
+      "tags": [],
+      "event": "cruise-ship-murder",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Josh Hawley mocked over his plan for a 1-hour ‘fast’ and prayer session at the Capitol",
+      "title_ko": "조시 홀리, 의사당 1시간 '금식'·기도회 계획으로 조롱받아",
+      "summary_ko": "조시 홀리 상원의원이 의사당에서 1시간 '금식'과 기도회를 하겠다는 계획으로 조롱을 받았다.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd3lod3pVZkE3Yi1nbXNpck1IUXJWTEhvNHNkaEZUMk1va3k5RmNmUXVuWGV0Q253NjlESXp5Zl9lSDluV1Vac1FMSE1PbUxrSHZ6cHJoYTQ4cDNxSXNUNlluSU1ZN200U3hXZEhUNjEzTUtyU0UzOXEzX2ROZUZWTEdpZzBQZXJYVFBFWnVFTHJLNHRsYzJXYTdPU3FYZGEzQzBhRVoxTndYdTdZNVhWaHItWDhSX1BwWEhj?oc=5",
+      "published": "2026-11-11T02:52:00+09:00",
+      "tags": [],
+      "event": "hawley-fast-prayer",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "UK court overturns Commonwealth nation's ban on homosexual sex",
+      "title_ko": "영국 법원, 영연방 국가의 동성 성관계 금지법 무효화",
+      "summary_ko": "영국 법원이 한 영연방 국가의 동성 성관계 금지법을 뒤집었다.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMjJyWHkzWTNzTlJJazVKMC1XdWstdmdzb2VXNzdUamVWQkQtSE4zaXI3Z0k5eGtqWHBfM1RrSjExZE1vLTFCV2JNcUdPemNoQV9SYkZRTms2a21SZl9UR0E4SlNNelNrRFF5clB1QjdWSlNlSko3UV9ldGFUZm5wNURDejhaTEc0QnRSNDRRMnBFbDk1MjJITzVFYV9rTFlzekVzdUZJSl9rNkRhYmpEY19vOFZnUWpmVlhHUQ?oc=5",
+      "published": "2026-11-11T02:44:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "trinidad-tobago-gay-sex-ruling",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "Lessons from a miserable month for hedge funds",
+      "title_ko": "헤지펀드의 비참한 한 달이 주는 교훈",
+      "summary_ko": "헤지펀드가 고전한 한 달에서 얻을 교훈을 다룬 기사.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZENGZDNXQkZ4M2lHYmlLWnVWQVFrU3RUc2dvT2luQ3otNXVpck5WVlFtWE1ubUY4NUNtYnNpNTE1Q0dJSGVvb05zemRkOUFpSlBMNS16bzE4eXBHYVA4UGVRajhlSGJob1lpd1ZGRzRETG9maVUzY0VmTGNqLThKSThBWnNhelhLaV95MjhmNl9ocXk3YWc0TFZnaFNwdFZQaU5FUnk2Qzc?oc=5",
+      "published": "2026-11-11T05:47:39+09:00",
+      "tags": [
+        "stocks",
+        "business"
+      ],
+      "event": "hedge-funds-bad-month",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "For boomers, economic boom times are over",
+      "title_ko": "베이비붐 세대의 경제 호황기는 끝났다",
+      "summary_ko": "베이비붐 세대에게 경제 호황기가 끝났다는 분석.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQkZROWI5Z1d2Snl5R2Y5RTFYR2VvZUxzYndDUTF1X2xVNkdBajJkVC1VZWR5MUJvSk5zZVJDbVgtbGlOS1ZvdHJLdTlGSTJnX3BZaDlaTmJIYlZDdVNuWHpfQ3hjb2c0YlZOaFJURnhqT05UWEJXR3pFZkJsNFlKNldRTThmdG5aSHoyMlhvbnd2U0J5cHpzMFFwTU4wcGcw?oc=5",
+      "published": "2026-11-11T05:28:56+09:00",
+      "tags": [
+        "forecast"
+      ],
+      "event": "boomers-economy",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "Our analysis of the leaked Russian death toll in Ukraine",
+      "title_ko": "유출된 러시아군 우크라이나 전사자 수 분석",
+      "summary_ko": "유출된 우크라이나 내 러시아군 사망자 수에 대한 이코노미스트 분석.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNV8yS2g4U3FFOW0xQmFac2xHenFmWlBLazlUZVJPcGxsaTlhdnQtR3IwSGRoSUljRC1wRmpwQzZ2T3dESnMxV1dUc21KM1c2QWR5RUtnb0JFbUV4dG0zWC1nZVJZR3JYYWtlLXBIVWVZcGRxTkhYdVJGR00tMnlEZ212QkVoQUtlc2ZMdGx5aE9mT2prWk0xTWpkSVpERnpYZjY0dERFcUp0d3Bm?oc=5",
+      "published": "2026-11-11T04:46:03+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "russia-ukraine-death-toll-leak",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "American workers face a surge in health costs",
+      "title_ko": "미국 노동자, 의료비 급등 직면",
+      "summary_ko": "미국 노동자들이 의료비 급증에 직면해 있다.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT0UzOU1OZDR0bkR4UWE3bkdCNEE0TWV5dnBWWEI5c3pyQ0Z4OXctdmZuektjU3RNYlFOaF9yVHp2U2RUOGtxVGRiQ1NTem9WWkNpeW1kQkZQTHRNaGZSV1FYenpVcjVweEt4bEJrUWt5WC1ZS1ByS001dUVqZmxFVXZDOUtIZnBKOXF5Qkdua3FZNWV6dE9kVGI2TEQ?oc=5",
+      "published": "2026-11-11T04:08:07+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "us-health-costs-workers",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "Ukraine: what next?",
+      "title_ko": "우크라이나, 다음은?",
+      "summary_ko": "우크라이나의 향후 전망을 다룬 기사.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1VNS0wa0R5S29vbjdSUWdOS1RLVnVyTjREMVdzRlAyX3JRQTJCekFLSXVlc2lQZ2hNT3R6WDVET1pZQlhhUnFZdnFUNjg4NDZnNlpUYUp2YkV3U0UwNklFT1FnOTNtNzIwREsyUmhqc3F1SWxq?oc=5",
+      "published": "2026-11-11T03:00:00+09:00",
+      "tags": [
+        "geopolitics",
+        "forecast"
+      ],
+      "event": "ukraine-outlook",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "Quote of the day: Martin Luther, who was born on this day in 1483.",
+      "title_ko": "오늘의 인용: 1483년 오늘 태어난 마르틴 루터",
+      "summary_ko": "1483년 이날 태어난 마르틴 루터의 인용구 소개.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaExLdmcySl9OeUlFakJvSlo2MzRadDlEYkU3RkNzTGpqTm9VSURMbk1qeXBJUnVuRlBJcklGVnFTVTEtdml1Q3BuNHNaZ3AtcW01SFBJWWlVWmVBcnl1YzQxbG9RdVJpZ3huSTU5LVpvVDhvM2V3RkVOdXUyRXk0cWZ6YjliMkE3LXJzQTZZZlNfLTdwd2lv?oc=5",
+      "published": "2026-11-11T02:36:51+09:00",
+      "tags": [],
+      "event": "economist-quote-luther",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "Blighty newsletter: What I learned interviewing Andy Burnham",
+      "title_ko": "블라이티 뉴스레터: 앤디 버넘 인터뷰에서 배운 것",
+      "summary_ko": "이코노미스트 영국 뉴스레터, 앤디 버넘 인터뷰 소회.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSWdqRkpFaGVlS0MwOUhuS0EyYnJGank5d2c2TWJrYVlMZWhhcHdKVE0tbVl3S3paNkc4LWJOZm1lcGFEc01HODF4MHphOHQtU0ZyU0xvVGM2NUl3d243NFJya25DSlJxT20yeUYtN3BFb1FPOTdJaHhYREdCQ3FPRGVNUm8zU3FvTHZqamx1TC1iVWFPd3p2XzRJbU1JN2VydVdyRkNiSQ?oc=5",
+      "published": "2026-11-11T02:33:07+09:00",
+      "tags": [],
+      "event": "burnham-interview",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "Feed - The Economist",
+      "title_ko": "피드 - 이코노미스트",
+      "summary_ko": "이코노미스트 피드 페이지(기사 아님).",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MeTZucGE3dF9VV3kzdDh2N2U0a2hNLXFTTTdCY3BKWFZfSUlnXzVhcVRvS0dTdngxNGR1U0Y2QUdOYlJ6dGgyOUpLOXNHS2M?oc=5",
+      "published": "2026-11-11T02:24:35+09:00",
+      "tags": [],
+      "event": "economist-feed-page",
+      "state_media": false
+    }
+  ],
+  "events": [
+    {
+      "event": "us-soldier-russia-espionage-uk",
+      "title_ko": "러시아 간첩 혐의 미군 병사 영국서 체포",
+      "sources": [
+        "BBC",
+        "Sky News",
+        "Reuters",
+        "Financial Times",
+        "The Guardian",
+        "The Times",
+        "The Independent"
+      ],
+      "count": 7
+    },
+    {
+      "event": "nvidia-huang-spy-affair",
+      "title_ko": "엔비디아 젠슨 황 '중국 스파이 의혹' 인물 불륜 파문 확산",
+      "sources": [
+        "BBC",
+        "Reuters",
+        "Financial Times",
+        "The Times"
+      ],
+      "count": 4
+    },
+    {
+      "event": "thomas-markle-ankle-monitor",
+      "title_ko": "메건 부친 토머스 마클 전자발찌 절단",
+      "sources": [
+        "BBC",
+        "Sky News",
+        "The Guardian",
+        "The Independent"
+      ],
+      "count": 4
+    },
+    {
+      "event": "epstein-congress-report",
+      "title_ko": "의회 엡스타인 조사 보고서",
+      "sources": [
+        "BBC",
+        "The Independent"
+      ],
+      "count": 2
+    },
+    {
+      "event": "david-walliams-allegations",
+      "title_ko": "데이비드 월리엄스 성비위 의혹",
+      "sources": [
+        "BBC",
+        "Channel 4 News"
+      ],
+      "count": 2
+    },
+    {
+      "event": "uk-train-stabbing-trial",
+      "title_ko": "열차 흉기 난동 재판",
+      "sources": [
+        "BBC",
+        "Sky News"
+      ],
+      "count": 2
+    },
+    {
+      "event": "trinidad-tobago-gay-sex-ruling",
+      "title_ko": "영국 법원, 트리니다드토바고 동성애 처벌법 무효화",
+      "sources": [
+        "Sky News",
+        "The Independent"
+      ],
+      "count": 2
+    },
+    {
+      "event": "russell-brand-case",
+      "title_ko": "러셀 브랜드 사건",
+      "sources": [
+        "Sky News",
+        "The Independent"
+      ],
+      "count": 2
+    },
+    {
+      "event": "nfl-kirk-cousins-trade",
+      "title_ko": "NFL 트레이드 마감·커크 커즌스 이적",
+      "sources": [
+        "ITV News",
+        "The Guardian"
+      ],
+      "count": 2
+    },
+    {
+      "event": "prince-harry-child-safety-speech",
+      "title_ko": "해리 왕자 아동 안전 연설",
+      "sources": [
+        "ITV News",
+        "The Times"
+      ],
+      "count": 2
+    },
+    {
+      "event": "us-inflation-fed-rate-hike",
+      "title_ko": "미 인플레 가속·연준 0.5%p 인상 거론, 시장 흔들",
+      "sources": [
+        "Reuters",
+        "Financial Times"
+      ],
+      "count": 2
+    },
+    {
+      "event": "house-gop-leader-jordan",
+      "title_ko": "짐 조던 하원 공화당 대표 선출",
+      "sources": [
+        "Reuters",
+        "The Guardian"
+      ],
+      "count": 2
+    },
+    {
+      "event": "spain-toledo-rail-crash-memorial",
+      "title_ko": "스페인 국왕 부부, 열차 충돌 희생자 추도식 참석",
+      "sources": [
+        "BBC"
+      ],
+      "count": 1
+    },
+    {
+      "event": "glasgow-car-pedestrians",
+      "title_ko": "차량이 보행자 덮쳐 7명 병원 이송",
+      "sources": [
+        "Sky News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "sophie-bangladesh-rohingya",
+      "title_ko": "소피 공작부인, 방글라데시 난민촌 방문",
+      "sources": [
+        "Sky News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "poundland-rescue",
+      "title_ko": "파운드랜드 소유주, 의회 청문 몇 시간 전 1천만 파운드 투입",
+      "sources": [
+        "Sky News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "grassroots-mental-health-funding",
+      "title_ko": "지역 풀뿌리 클럽, 정신건강 예산 확대 촉구",
+      "sources": [
+        "ITV News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "us-terror-plot-charges",
+      "title_ko": "미국, 영국 공격 계획 포함 테러 모의 혐의로 3명 기소",
+      "sources": [
+        "ITV News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "itv-evening-news-episode",
+      "title_ko": "ITV 이브닝 뉴스 - 시즌 11 - 224회",
+      "sources": [
+        "ITV News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "itv-regional-catchup",
+      "title_ko": "ITV 지역 뉴스 다시보기",
+      "sources": [
+        "ITV News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "creative-industries-working-class",
+      "title_ko": "단독: 창작 산업 내 노동계층 수 감소",
+      "sources": [
+        "Channel 4 News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "prison-early-release",
+      "title_ko": "수감자 조기 석방 논란",
+      "sources": [
+        "Channel 4 News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "cop31-trump-iran-green",
+      "title_ko": "COP31: \"트럼프의 이란 전쟁이 그를 '의도치 않은 녹색 운동가'로 만들었다\"",
+      "sources": [
+        "Channel 4 News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "us-air-force-uk-iran-threat",
+      "title_ko": "이란 연계 위협 주장 속 미 공군기, 영국 공군기지 떠나",
+      "sources": [
+        "Channel 4 News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "us-2028-election",
+      "title_ko": "2028년 선거",
+      "sources": [
+        "Channel 4 News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "poland-gunman-breivik",
+      "title_ko": "장관 \"폴란드 총격범, 노르웨이 학살범 브레이비크 관련 사이트 방문\"",
+      "sources": [
+        "Reuters"
+      ],
+      "count": 1
+    },
+    {
+      "event": "anthropic-ipo-valuation",
+      "title_ko": "단독: 앤트로픽, IPO 기업가치 1조 4천억 달러 검토…월가 AI 열기 시험대",
+      "sources": [
+        "Reuters"
+      ],
+      "count": 1
+    },
+    {
+      "event": "iraq-bars-iran-soccer-plane",
+      "title_ko": "관계자 \"이라크, 미 제재 이유로 이란 축구대표팀 탑승기 바스라 착륙 불허\"",
+      "sources": [
+        "Reuters"
+      ],
+      "count": 1
+    },
+    {
+      "event": "cftc-ai-compute-futures",
+      "title_ko": "미 규제당국, 월가의 AI 컴퓨팅 선물 거래 추진 보류",
+      "sources": [
+        "Financial Times"
+      ],
+      "count": 1
+    },
+    {
+      "event": "weil-law-firm-dissolution",
+      "title_ko": "와일 파트너들, 로펌 해산안 승인",
+      "sources": [
+        "Financial Times"
+      ],
+      "count": 1
+    },
+    {
+      "event": "womens-champions-league-inter-city",
+      "title_ko": "인테르 대 맨체스터 시티: 여자 챔피언스리그 – 실시간",
+      "sources": [
+        "The Guardian"
+      ],
+      "count": 1
+    },
+    {
+      "event": "stacey-solomon-review",
+      "title_ko": "[리뷰] '스테이시 앤 조: 인 투 딥' – 솔로몬은 낡은 여성혐오 클리셰보다 나은 대접을 받아야",
+      "sources": [
+        "The Guardian"
+      ],
+      "count": 1
+    },
+    {
+      "event": "macron-owens-defamation",
+      "title_ko": "마크롱 대통령 부부, 캔디스 오언스 상대로 새 명예훼손 소송",
+      "sources": [
+        "The Guardian"
+      ],
+      "count": 1
+    },
+    {
+      "event": "al-fayed-ritz-raid",
+      "title_ko": "프랑스 경찰, 모하메드 알파예드 성학대 수사로 리츠 호텔 압수수색",
+      "sources": [
+        "The Guardian"
+      ],
+      "count": 1
+    },
+    {
+      "event": "diabetes-signs",
+      "title_ko": "너무 많은 사람이 당뇨 징후를 무시한다",
+      "sources": [
+        "The Telegraph"
+      ],
+      "count": 1
+    },
+    {
+      "event": "gaza-floods-humanitarian",
+      "title_ko": "트럼프의 평화위원회 \"가자 홍수는 '즉각적 인도주의 비상사태'\"",
+      "sources": [
+        "The Telegraph"
+      ],
+      "count": 1
+    },
+    {
+      "event": "telegraph-fantasy-football",
+      "title_ko": "텔레그래프 판타지 풋볼: 10라운드 이주의 팀",
+      "sources": [
+        "The Telegraph"
+      ],
+      "count": 1
+    },
+    {
+      "event": "drc-ebola-attack",
+      "title_ko": "치료센터 피습에 환자 도주…콩고민주공화국 에볼라 확산 우려",
+      "sources": [
+        "The Telegraph"
+      ],
+      "count": 1
+    },
+    {
+      "event": "man-utd-carrick",
+      "title_ko": "맨유 강등 위기, 캐릭 경질해야",
+      "sources": [
+        "The Telegraph"
+      ],
+      "count": 1
+    },
+    {
+      "event": "pope-peru-welcome",
+      "title_ko": "페루, 성대한 환영으로 교황 맞이",
+      "sources": [
+        "The Times"
+      ],
+      "count": 1
+    },
+    {
+      "event": "times-homepage",
+      "title_ko": "최신 뉴스 및 속보 | 더 타임스·선데이 타임스",
+      "sources": [
+        "The Times"
+      ],
+      "count": 1
+    },
+    {
+      "event": "swinney-sikh-post-remembrance",
+      "title_ko": "존 스위니, 현충일 묵념 중 시크교 축제 X 게시물 옹호",
+      "sources": [
+        "The Times"
+      ],
+      "count": 1
+    },
+    {
+      "event": "vargas-llosa-biography-penguin",
+      "title_ko": "펭귄, 마리오 바르가스 요사 혹평 전기 출간 접어",
+      "sources": [
+        "The Times"
+      ],
+      "count": 1
+    },
+    {
+      "event": "times-login-page",
+      "title_ko": "로그인",
+      "sources": [
+        "The Times"
+      ],
+      "count": 1
+    },
+    {
+      "event": "rio-ngumoha-interview",
+      "title_ko": "리오 은구모하, 범죄 탈출·첼시 이적·잉글랜드 대표 꿈을 말하다",
+      "sources": [
+        "The Independent"
+      ],
+      "count": 1
+    },
+    {
+      "event": "cruise-ship-murder",
+      "title_ko": "크루즈선서 객실 청소원이 시신 발견…남성 살인 혐의 체포",
+      "sources": [
+        "The Independent"
+      ],
+      "count": 1
+    },
+    {
+      "event": "hawley-fast-prayer",
+      "title_ko": "조시 홀리, 의사당 1시간 '금식'·기도회 계획으로 조롱받아",
+      "sources": [
+        "The Independent"
+      ],
+      "count": 1
+    },
+    {
+      "event": "hedge-funds-bad-month",
+      "title_ko": "헤지펀드의 비참한 한 달이 주는 교훈",
+      "sources": [
+        "The Economist"
+      ],
+      "count": 1
+    },
+    {
+      "event": "boomers-economy",
+      "title_ko": "베이비붐 세대의 경제 호황기는 끝났다",
+      "sources": [
+        "The Economist"
+      ],
+      "count": 1
+    },
+    {
+      "event": "russia-ukraine-death-toll-leak",
+      "title_ko": "유출된 러시아군 우크라이나 전사자 수 분석",
+      "sources": [
+        "The Economist"
+      ],
+      "count": 1
+    },
+    {
+      "event": "us-health-costs-workers",
+      "title_ko": "미국 노동자, 의료비 급등 직면",
+      "sources": [
+        "The Economist"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ukraine-outlook",
+      "title_ko": "우크라이나, 다음은?",
+      "sources": [
+        "The Economist"
+      ],
+      "count": 1
+    },
+    {
+      "event": "economist-quote-luther",
+      "title_ko": "오늘의 인용: 1483년 오늘 태어난 마르틴 루터",
+      "sources": [
+        "The Economist"
+      ],
+      "count": 1
+    },
+    {
+      "event": "burnham-interview",
+      "title_ko": "블라이티 뉴스레터: 앤디 버넘 인터뷰에서 배운 것",
+      "sources": [
+        "The Economist"
+      ],
+      "count": 1
+    },
+    {
+      "event": "economist-feed-page",
+      "title_ko": "피드 - 이코노미스트",
+      "sources": [
+        "The Economist"
+      ],
+      "count": 1
+    }
+  ],
+  "unavailable_sources": []
+}
