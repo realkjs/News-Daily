@@ -1,23 +1,50 @@
 {
   "team": "de",
   "team_name_ko": "독일팀",
-  "collected_at": "2026-11-12T06:13:28.807967+09:00",
+  "collected_at": "2026-11-12T10:41:46.525807+09:00",
   "headlines": [
     {
       "source": "ARD Tagesschau",
-      "title_original": "Schwarz-Rot verschiebt Zuckersteuer - vorerst keine Stromsteuersenkung für alle",
-      "summary_original": "Im Ringen um den Haushalt hat sich die Koalition nach ARD-Informationen auf einen Kompromiss geeinigt. So soll etwa die Einführung einer Zuckersteuer verschoben werden - zudem wird die Stromsteuer wohl vorerst nicht für alle gesenkt.",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/koalition-haushalt-kompromiss-100.html",
-      "published": "2026-11-12T06:04:41+09:00",
+      "title_original": "tagesschau in 100 Sekunden",
+      "summary_original": "tagesschau in 100 Sekunden",
+      "url": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1682362.html",
+      "published": "2026-11-12T10:30:32+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "ARD Tagesschau",
-      "title_original": "tagesschau in 100 Sekunden",
-      "summary_original": "tagesschau in 100 Sekunden",
-      "url": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1682294.html",
-      "published": "2026-11-12T05:42:55+09:00",
+      "title_original": "Historischer Sieg: Demokrat Colom holt Senatssitz in Mississippi",
+      "summary_original": "Erstmals seit mehr als vier Jahrzehnten hat ein Demokrat im südlichen US-Bundesstaat Mississippi eine Wahl für den US-Senat gewonnen. Colom gelang ein überraschender Sieg - er weitet damit die Mehrheit im Senat ab Januar auf 55 der 100 Sitze aus.",
+      "url": "https://www.tagesschau.de/ausland/amerika/demokrat-mississippi-sieg-100.html",
+      "published": "2026-11-12T10:19:43+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Schwarz-Rot verschiebt Zuckersteuer - keine Senkung der Stromsteuer",
+      "summary_original": "Im Ringen um den Haushalt hat sich die Koalition auf einen Kompromiss geeinigt. So soll etwa die Einführung einer Zuckersteuer verschoben werden - zudem wird die Stromsteuer vorerst nicht gesenkt.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/koalition-haushalt-kompromiss-100.html",
+      "published": "2026-11-12T08:12:02+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Verteidigungsminister Pistorius, SPD, zu den Übergriffen bei der Bundeswehr",
+      "summary_original": "Verteidigungsminister Pistorius, SPD, zu den Übergriffen bei der Bundeswehr",
+      "url": "https://www.tagesschau.de/tagesthemen/video-1682338.html",
+      "published": "2026-11-12T07:12:19+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Nicole Kohnert, ARD Berlin, über die Planungen des Bundeshaushalts 2027",
+      "summary_original": "Nicole Kohnert, ARD Berlin, über die Planungen des Bundeshaushalts 2027",
+      "url": "https://www.tagesschau.de/tagesthemen/video-1682340.html",
+      "published": "2026-11-12T06:35:43+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -32,28 +59,10 @@
     },
     {
       "source": "ARD Tagesschau",
-      "title_original": "Weltklimakonferenz in Antalya: Deutschlands Rolle beim Klimaschutz",
-      "summary_original": "Weltklimakonferenz in Antalya: Deutschlands Rolle beim Klimaschutz",
-      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1682252.html",
-      "published": "2026-11-12T04:39:52+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ARD Tagesschau",
       "title_original": "Polens Rechte ziehen mit \"Unabhängigkeitsmarsch\" durch Warschau",
       "summary_original": "Am polnischen Unabhängigkeitstag findet traditionell eine Großdemonstration von Rechtsnationalisten statt. Der sogenannte Unabhängigkeitsmarsch durch Warschau ist umstritten - und zieht doch Hunderttausende an. Von P. Milling.",
       "url": "https://www.tagesschau.de/ausland/europa/umstrittener-marsch-zu-unabhaengigkeitstag-in-polen-100.html",
       "published": "2026-11-12T04:26:10+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ARD Tagesschau",
-      "title_original": "Die deutsche Wirtschaft entwickelt sich besser als erwartet",
-      "summary_original": "Die deutsche Wirtschaft entwickelt sich besser als erwartet",
-      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1682248.html",
-      "published": "2026-11-12T04:18:47+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -67,11 +76,29 @@
       "state_media": false
     },
     {
-      "source": "ARD Tagesschau",
-      "title_original": "Dunkelfeldstudie deckt mehr Fälle sexualisierter Gewalt in der Bundeswehr auf",
-      "summary_original": "Dunkelfeldstudie deckt mehr Fälle sexualisierter Gewalt in der Bundeswehr auf",
-      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1682246.html",
-      "published": "2026-11-12T04:16:37+09:00",
+      "source": "ZDF heute",
+      "title_original": "Zuckersteuer kommt später, Plastiksteuer vom Tisch",
+      "summary_original": "Die Verhandlungen über den Bundeshaushalt 2027 gehen in die entscheidende Phase. Bei Zucker- und Plastiksteuer gibt es eine Einigung. Über die Stromsteuer wird weiter verhandelt.",
+      "url": "https://www.zdfheute.de/politik/deutschland/haushalt-zuckersteuer-plastiksteuer-stromsteuer-100.html",
+      "published": "2026-11-12T06:27:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
+      "summary_original": "Die Lage in Nahost ist weiter angespannt - es kommt immer wieder zu Angriffen. Im Westjordanland spitzt sich die Situation zu. Alle Entwicklungen im Liveblog.",
+      "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+      "published": "2026-11-12T06:26:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Pistorius: \"Es geht um Sicherheit für alle in der Truppe\"",
+      "summary_original": "Eine Studie zeigt: Drei von vier Bundeswehrsoldatinnen sind in ihrer Dienstzeit schon einmal sexuell belästigt worden. Wie will Verteidigungsminister Pistorius dagegen vorgehen?",
+      "url": "https://www.zdfheute.de/politik/deutschland/pistorius-bundeswehr-sexuelle-belaestigung-studie-100.html",
+      "published": "2026-11-12T06:11:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -81,15 +108,6 @@
       "summary_original": "Bewegende Szenen in einem Gefängnis in Buenos Aires in Argentinien. Auf seiner Reise durch Südamerika hat Papst Leo die Häftlinge dort besucht und ihnen Mut zugesprochen.",
       "url": "https://www.zdfheute.de/video/panorama-papst-leo-umarmt-haeftlinge-buenos-aires-video-102.html",
       "published": "2026-11-12T05:34:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
-      "summary_original": "Die Lage in Nahost ist weiter angespannt - es kommt immer wieder zu Angriffen. Im Westjordanland spitzt sich die Situation zu. Alle Entwicklungen im Liveblog.",
-      "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
-      "published": "2026-11-12T04:08:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -130,20 +148,11 @@
       "state_media": false
     },
     {
-      "source": "ZDF heute",
-      "title_original": "EU will gegen Tricks im Online-Handel vorgehen",
-      "summary_original": "Manipulative Onlineshops, Influencer-Marketing und süchtig machende Designs von sozialen Medien: All das soll nach einem neuen Vorschlag der EU-Kommission besser reguliert werden.",
-      "url": "https://www.zdfheute.de/politik/ausland/online-digital-fairness-act-verbraucherschutz-100.html",
-      "published": "2026-11-12T02:24:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "Aktuelles zum Krieg in der Ukraine",
-      "summary_original": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
-      "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
-      "published": "2026-11-12T02:03:00+09:00",
+      "source": "Deutsche Welle",
+      "title_original": "Die deutsche Wirtschaft erholt sich langsam. Doch hohe Schulden, schwache Produktivität und fehlende Reformen bremsen den Aufschwung",
+      "summary_original": "Die deutsche Wirtschaft wächst wieder leicht. Doch Ökonomen warnen: Ohne Reformen, höhere Produktivität und solide Staatsfinanzen drohen Wohlstandsverluste, steigende Schulden und Belastungen für kommende Generationen.",
+      "url": "https://www.dw.com/de/die-deutsche-wirtschaft-erholt-sich-langsam-doch-hohe-schulden-schwache-produktivität-und-fehlende-reformen-bremsen-den-aufschwung/a-79920472?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-12T08:22:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -211,11 +220,11 @@
       "state_media": false
     },
     {
-      "source": "Deutsche Welle",
-      "title_original": "Drei Verdächtige sollen iranischen Terror unterstützt haben",
-      "summary_original": "Die Männer sollen der irakischen Miliz Kataib Hisbollah und den iranischen Revolutionsgarden zu Diensten gewesen sein - mit Verbindungen bis nach Europa. Die US-Behörden haben nun Anklage gegen sie erhoben.",
-      "url": "https://www.dw.com/de/drei-verdächtige-sollen-iranischen-terror-unterstützt-haben/a-79917360?maca=de-rss-de-all-1119-rdf",
-      "published": "2026-11-11T20:30:00+09:00",
+      "source": "n-tv",
+      "title_original": "Ende der Sorgen?: KI-Aktien feiern fulminantes Comeback an der Wall Street",
+      "summary_original": "Bei dem jüngsten massiven Abverkauf von KI-Aktien muss besonders Coreweave Federn lassen. Nun kann der Cloud-Anbieter einen Teil der Verluste wieder wettmachen. Auch andere Aktien mit Bezug zu Künstlicher Intelligenz liegen deutlich im Plus.",
+      "url": "https://www.n-tv.de/wirtschaft/KI-Aktien-feiern-fulminantes-Comeback-an-der-Wall-Street-id31523701.html",
+      "published": "2026-11-12T06:31:45+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -240,7 +249,7 @@
     {
       "source": "n-tv",
       "title_original": "Stromsteuer-Senkung kommt nicht: Koalition verschiebt Einführung der Zuckersteuer auf 2028",
-      "summary_original": "Die Zuckersteuer wird von der schwarz-roten Koalition um ein halbes Jahr auf Januar 2028 verschoben. Die von Kanzler Merz geforderte Stromsteuer-Senkung für alle kommt dagegen nicht. Die Plastiksteuer soll vorerst vom Tisch sein.",
+      "summary_original": "Die Zuckersteuer wird von der schwarz-roten Koalition um ein halbes Jahr auf Januar 2028 verschoben. Die von Kanzler Merz geforderte Stromsteuer-Senkung für Privathaushalte kommt dagegen vorerst nicht. Bis auf Weiteres soll es keine Einführung der Plastiksteuer geben.",
       "url": "https://www.n-tv.de/politik/Koalition-verschiebt-Einfuehrung-der-Zuckersteuer-auf-2028-id31523676.html",
       "published": "2026-11-12T05:02:22+09:00",
       "via": "rss",
@@ -283,11 +292,65 @@
       "state_media": false
     },
     {
-      "source": "n-tv",
-      "title_original": "Drei Millionen Pilger: Papst feiert in Argentinien größte Messe seines Pontifikats",
-      "summary_original": "Papst Leo XIV. hat am Wochenende eine große Südamerika-Reise angetreten. Zweite Station ist Argentinien. Millionen Menschen kommen zu seinen Messen. In seinen Predigten kritisiert er Staatschef Milei.",
-      "url": "https://www.n-tv.de/panorama/Papst-feiert-in-Argentinien-groesste-Messe-seines-Pontifikats-id31523516.html",
-      "published": "2026-11-12T03:37:04+09:00",
+      "source": "WELT",
+      "title_original": "Barmer-Chef sicher – Abnehmspritze bald Kassenleistung",
+      "summary_original": "Bislang gilt die Abnehmspritze als LIfestyle-Medikament und darf nicht als Kassenleistung verordnet werden. Der Barmer-Chef geht davon aus, dass sich das bald ändert, auch wenn das enorme Kosten verursacht.",
+      "url": "https://www.welt.de/politik/deutschland/article6af51277c45061d752ba6f9b/therapieoption-barmer-chef-sicher-abnehmspritze-bald-kassenleistung.html",
+      "published": "2026-11-12T10:25:20+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Lautes Lachen am Denkmal – Soldat rügt Gruppe um Hegseth",
+      "summary_original": "Am Veteranentag nahmen US-Verteidigungsminister Pete Hegseth und US-Präsident Donald Trump an einer Gedenkfeier teil. Auf dem Nationalfriedhof wurde die Gruppe von einem Wachsoldaten lautstark zurechtgewiesen.",
+      "url": "https://www.welt.de/politik/ausland/article6af50541c45061d752ba6f71/veteranentag-lautes-lachen-am-denkmal-soldat-ruegt-gruppe-um-hegseth.html",
+      "published": "2026-11-12T09:44:59+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Schock für J.D. Vance – Das Demokraten-Wunder von Mississippi",
+      "summary_original": "Acht Tage nach der Wahl ergibt die Auszählung in Mississippi eine Sensation: Die Demokraten erobern den Senatssitz in der republikanischen Hochburg. Für die Präsidentschaftshoffnungen von J.D. Vance ist das ein schlechtes Vorzeichen.",
+      "url": "https://www.welt.de/politik/ausland/plus6af4fde6c45061d752ba6f5e/us-midterms-schock-fuer-j-d-vance-das-demokraten-wunder-von-mississippi.html",
+      "published": "2026-11-12T09:20:46+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Nvidia bereitet nach Affären die Entlassung von Firmenchef Huang vor – Aktie verliert",
+      "summary_original": "Die Aktie von Nvidia gab noch einmal um acht Prozentpunkte nach. Grund ist ein Bericht, dass der KI-Chipkonzern die Entlassung seines CEO Jensen Huang vorbereitet. Er war in zwei Affären verstrickt.",
+      "url": "https://www.welt.de/wirtschaft/article6af5001450175c81de7a23ca/spionagefall-nvidia-bereitet-nach-affaeren-die-entlassung-von-firmenchef-huang-vor-aktie-verliert.html",
+      "published": "2026-11-12T09:00:49+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Keine Steuer auf Zucker und Plastik – aber CDU verliert im Streit um Senkung der Stromsteuer",
+      "summary_original": "Die Plastiksteuer kommt nicht, die Zuckersteuer ist verschoben. Aber die CDU konnte sich gegenüber der SPD auch nicht mit einer Senkung der Stromsteuer durchsetzen. Das ist das Ergebnis.",
+      "url": "https://www.welt.de/politik/deutschland/article6af4f3e450175c81de7a2395/koalitionsgerangel-keine-steuer-auf-zucker-und-plastik-aber-cdu-verliert-im-streit-um-senkung-der-stromsteuer.html",
+      "published": "2026-11-12T08:11:42+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Russlands US-Botschafter in Moskau plötzlich verstorben",
+      "summary_original": "Er sollte eine Annäherung Russlands an die Regierung von US-Präsident Donald Trump vorantreiben. Dafür hatte ihn Putin persönlich zum Botschafter in Washington ernannt. Jetzt ist Alexander Darchiev im Alter von 66 Jahren überraschend gestorben.",
+      "url": "https://www.welt.de/politik/ausland/article6af4f2ccc45061d752ba6f0b/erfahrener-diplomat-russlands-us-botschafter-in-moskau-ploetzlich-verstorben.html",
+      "published": "2026-11-12T08:09:44+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "AfD mehr als doppelt so stark wie die CDU – Kretschmer beliebter als Gegenkandidaten",
+      "summary_original": "Die AfD erreicht in einer Insa-Umfrage in Sachsen 41 Prozent und hätte mit dem BSW eine Mehrheit. CDU-Ministerpräsident Michael Kretschmer würde sich bei Direktwahlen gegen Jörg Urban und Tino Chrupalla durchsetzen.",
+      "url": "https://www.welt.de/politik/deutschland/article6af4cb4853bdf3c35cc4f967/insa-umfrage-fuer-sachsen-afd-mehr-als-doppelt-so-stark-wie-die-cdu-kretschmer-beliebter-als-gegenkandidaten.html",
+      "published": "2026-11-12T06:31:15+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -301,65 +364,29 @@
       "state_media": false
     },
     {
-      "source": "WELT",
-      "title_original": "Eisenkot warnt Ministerpräsident Netanjahu in Brief vor „gefährlichen Schritten“",
-      "summary_original": "Gadi Eisenkot verlangt von Ministerpräsident Benjamin Netanjahu Zurückhaltung bis zur neuen Regierung. Militäraktionen ohne akute Bedrohung gefährdeten Israels Demokratie und Vertrauen.",
-      "url": "https://www.welt.de/politik/article6af4c7bfacd75ff618af6acb/regierungsbildung-in-israel-eisenkot-warnt-ministerpraesident-netanjahu-in-brief-vor-gefaehrlichen-schritten.html",
-      "published": "2026-11-12T05:27:16+09:00",
+      "source": "Handelsblatt",
+      "title_original": "+++ Ukraine-Krieg +++: Russischer Botschafter in den USA gestorben",
+      "summary_original": "Medien: Kushner und Witkoff treffen Putin am Donnerstag +++ Gespräche in Abu Dhabi beendet +++ Austausch von Kriegsgefangenen vereinbart +++ Der Newsblog.",
+      "url": "https://www.handelsblatt.com/politik/international/ukraine-russischer-botschafter-in-den-usa-gestorben/27982126.html",
+      "published": "2026-11-12T09:53:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "WELT",
-      "title_original": "Von Shakespeare bis „Sin City“ – US‑Schauspieler Stacy Keach ist tot",
-      "summary_original": "Mit Stacy Keach ist ein prägender US-Schauspieler für Theater, Serien und Film gestorben. Der 85-Jährige spielte die Titelrolle in „Mike Hammer“ und wirkte bis 2025 in Kinofilmen mit.",
-      "url": "https://www.welt.de/vermischtes/article6af4bde8c45061d752ba6d72/im-alter-von-85-jahren-von-shakespeare-bis-sin-city-usschauspieler-stacy-keach-ist-tot.html",
-      "published": "2026-11-12T05:14:07+09:00",
+      "source": "Handelsblatt",
+      "title_original": "+++ USA unter Trump +++: Erstmals seit 1982: Demokrat holt Senatssitz in Mississippi",
+      "summary_original": "US-Soldat in Großbritannien wegen Spionageverdachts für Russland festgenommen +++ Auch Kennedy-Familie klagt gegen Trumps Triumphbogen +++ Sanders stellt sich gegen Wiederwahl von Schumer als Fraktionsführer +++ Der Newsblog.",
+      "url": "https://www.handelsblatt.com/politik/international/usa-erstmals-seit-1982-demokrat-holt-senatssitz-in-mississippi/29669594.html",
+      "published": "2026-11-12T08:18:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "WELT",
-      "title_original": "„Das zeigt, welche Chaos-Truppe da auf der Rechten ist“",
-      "summary_original": "Nach dem Hackerangriff auf die AfD kritisiert SPD-Politiker Dirk Wiese den Umgang der Partei mit sensiblen Spenderdaten scharf. Zugleich fordert er Aufklärung über mögliche Spendenskandale und sieht gute Aussichten für ein Prüfverfahren gegen die AfD.",
-      "url": "https://www.welt.de/politik/deutschland/video6af4bb4e50175c81de7a21bc/spd-mann-ueber-afd-leak-das-zeigt-welche-chaos-truppe-da-auf-der-rechten-ist.html",
-      "published": "2026-11-12T05:01:11+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "WELT",
-      "title_original": "Deutschlands Umgang mit Russland – „Von Angst und Zögerlichkeit geprägt“",
-      "summary_original": "Militärhistoriker Sönke Neitzel hält die schärfere Sprache gegenüber Russland für richtig, zweifelt aber an der Konsequenz Deutschlands. Bei Cyberabwehr und Drohnenschutz seien die Prozesse zu langsam. Die Bundesregierung müsse ihren Worten nun Taten folgen.",
-      "url": "https://www.welt.de/politik/deutschland/video6af4b6c8c45061d752ba6d34/sicherheitspolitik-deutschlands-umgang-mit-russland-von-angst-und-zoegerlichkeit-gepraegt.html",
-      "published": "2026-11-12T04:51:40+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "WELT",
-      "title_original": "„Enttäuschung und Gefahr für viele Arbeitnehmer“ – Gewerkschaften kritisieren Schweitzers Reformplan",
-      "summary_original": "Arbeitsminister Alexander Schweitzer will Befristungen ausweiten und den Kündigungsschutz lockern. Arbeitgeber begrüßen den Entwurf, Gewerkschaften warnen vor längerer Unsicherheit.",
-      "url": "https://www.welt.de/wirtschaft/article6af4b72050175c81de7a217b/arbeitsmarkt-enttaeuschung-und-gefahr-fuer-viele-arbeitnehmer-gewerkschaften-kritisieren-schweitzers-reformplan.html",
-      "published": "2026-11-12T04:45:42+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "WELT",
-      "title_original": "Auto erfasst Irmelin Krause auf Friedhof – Schauspielerin stirbt mit 88 Jahren",
-      "summary_original": "Die Schauspielerin Irmelin Krause ist bei einem tragischen Unfall auf einem Berliner Friedhof ums Leben gekommen. Die 88-Jährige wurde beim Rangieren von einem Auto erfasst und starb noch am Unfallort.",
-      "url": "https://www.welt.de/kultur/article6af4b1d5c45061d752ba6cfc/tragischer-unfall-auto-erfasst-irmelin-krause-auf-friedhof-schauspielerin-stirbt-mit-88-jahren.html",
-      "published": "2026-11-12T04:42:35+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "WELT",
-      "title_original": "„Die Zeiten von Donald Trump gehen langsam, aber sicher zu Ende“",
-      "summary_original": "Bei „Meine WELT – Meine Meinung“ sieht US-Journalist Eric Kirschbaum Donald Trump nach den Wahlen deutlich geschwächt. Dass der US-Präsident erneut Zweifel am Ergebnis äußert, nennt er „schäbig“.",
-      "url": "https://www.welt.de/videos/video6af4a7f650175c81de7a20e1/nach-den-midterms-die-zeiten-von-donald-trump-gehen-langsam-aber-sicher-zu-ende.html",
-      "published": "2026-11-12T03:48:03+09:00",
+      "source": "Handelsblatt",
+      "title_original": "Nvidia: US-Medien berichten von weiterer Affäre – Nvidia-Vorstand bereitet offenbar Rauswurf von Jensen Huang vor",
+      "summary_original": "Laut der New York Times soll Huang eine weitere Affäre gehabt haben. Der Nvidia-Vorstand könnte schon in Kürze über die Zukunft des CEOs entscheiden. Die Aktie rutscht nachbörslich ab.",
+      "url": "https://www.handelsblatt.com/technik/ki/nvidia-nvidia-vorstand-bereitet-offenbar-rauswurf-von-jensen-huang-vor/100269242.html",
+      "published": "2026-11-12T07:57:22+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -401,24 +428,6 @@
     },
     {
       "source": "Handelsblatt",
-      "title_original": "+++ Ukraine-Krieg +++: Russischer Botschafter in den USA gestorben",
-      "summary_original": "Gespräche in Abu Dhabi beendet +++ Austausch von Kriegsgefangenen vereinbart +++ US-Gesandte Witkoff und Kushner reisen nach Russland +++ Der Newsblog.",
-      "url": "https://www.handelsblatt.com/politik/international/ukraine-russischer-botschafter-in-den-usa-gestorben/27982126.html",
-      "published": "2026-11-12T03:58:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Handelsblatt",
-      "title_original": "Arbeitsmarkt: „Keine Grundlage für ernsthaften Kompromiss“: Metalltarifrunde steht vor weiterer Eskalationsstufe",
-      "summary_original": "Am Donnerstag will der IG-Metall-Vorstand über ganztägige Warnstreiks entscheiden. Die Arbeitgeber haben keinen Zweifel, dass es so kommt – und protestieren schon vorab lautstark.",
-      "url": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-metalltarifrunde-steht-vor-weiterer-eskalationsstufe/100269129.html",
-      "published": "2026-11-12T03:25:07+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Handelsblatt",
       "title_original": "Geldanlage: Nvidia kaufen oder verkaufen? So schätzen Analysten die Aktie ein",
       "summary_original": "Die Wall Street beschäftigt derzeit vor allem eine Frage: Was wäre Nvidia ohne Jensen Huang an der Spitze wert? Selbst Analysten tun sich schwer damit, darauf eine Antwort zu finden.",
       "url": "https://www.handelsblatt.com/finanzen/maerkte/aktien/nvidia-aktie-kaufen-oder-verkaufen-das-sagen-analysten/100268777.html",
@@ -427,11 +436,38 @@
       "state_media": false
     },
     {
-      "source": "Handelsblatt",
-      "title_original": "Verteidigung: Vor dem Hauptbahnhof warten US-Panzer auf die Weiterfahrt: Wie Bremen die Nato-Drehscheibe blockiert",
-      "summary_original": "Für 1,35 Milliarden Euro werden die Häfen zum wichtigsten Logistik-Hub der Nato ausgebaut. Doch die Zugverbindung droht mit Regionalbahnen sowie Zügen mit Seecontainern und Stahl zu verstopfen.",
-      "url": "https://www.handelsblatt.com/unternehmen/dienstleister/verteidigung-wie-bremen-die-milliardenschwere-nato-drehscheibe-blockiert/100266994.html",
-      "published": "2026-11-12T02:56:41+09:00",
+      "source": "Der Spiegel",
+      "title_original": "Israel: Gadi Eisenkot warnt Benjamin Netanyahu vor Alleingängen gegen Iran",
+      "summary_original": "Gadi Eisenkot ist mit der Regierungsbildung in Israel beauftragt. Nun kommt seine Ansage an Ministerpräsident Benjamin Netanyahu: Der soll bis zum Amtsantritt einer neuen Regierung keine riskanten Militärentscheidungen treffen.",
+      "url": "https://www.spiegel.de/ausland/israel-gadi-eisenkot-warnt-benjamin-netanyahu-vor-alleingaengen-gegen-iran-a-e6f48d28-6f33-4543-a133-a7f6874ccff5#ref=rss",
+      "published": "2026-11-12T09:40:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Nvidia: Jensen Huang soll weitere Affäre gehabt haben – Ablösung droht",
+      "summary_original": "Laut mehreren US-Medien droht Jensen Huang beim Chipkonzern Nvidia die Ablösung. Zuvor waren Berichte über eine angebliche weitere Affäre des Firmenchefs bekannt geworden. Bei der Frau soll es sich um eine ihm unterstellte Person handeln.",
+      "url": "https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-soll-weitere-affaere-gehabt-haben-abloesung-droht-a-6b2af3d6-fa09-4f81-bc22-f915c93985f7#ref=rss",
+      "published": "2026-11-12T09:06:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Haushalt 2027: Regierung kann sich vorerst nicht auf Senkung der Stromsteuer einigen",
+      "summary_original": "Die schwarz-rote Koalition ringt um den Haushalt für das kommende Jahr: Die von Kanzler Merz geforderte Senkung der Stromsteuer kommt nach SPIEGEL-Informationen vorerst nicht. Die Zuckersteuer wird auf 2028 verschoben. Auch die Plastiksteuer ist erst mal vom Tisch.",
+      "url": "https://www.spiegel.de/politik/deutschland/haushalt-2027-regierung-kann-sich-vorerst-nicht-auf-senkung-der-stromsteuer-einigen-a-b0f3c1e9-80e2-444f-b5ac-84fb332bf304#ref=rss",
+      "published": "2026-11-12T08:36:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "»Titanic«-Schwesterschiff: »SS United States« vor Florida zum Riff versenkt",
+      "summary_original": "Länger als die »Titanic« war die SS United States früher das weltweit schnellste Passagierschiff. Nun sinkt der Ozeandampfer vor der Küste Floridas. Das Wrack soll Taucher und Angler in die Region locken.",
+      "url": "https://www.spiegel.de/panorama/titanic-schwesterschiff-ss-united-states-vor-florida-zum-riff-versenkt-a-f3ab75f8-7e01-42dc-8045-ab4347541368#ref=rss",
+      "published": "2026-11-12T07:00:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -441,15 +477,6 @@
       "summary_original": "Mit mehreren Milliarden jährlich unterstützen die USA Israels Militär. Premier Netanyahu will das Modell langsam beenden. Trump hatte zuvor einen ganz anderen Zeitplan angekündigt.",
       "url": "https://www.spiegel.de/ausland/israel-benjamin-netanyahu-will-us-militaerhilfe-schrittweise-auslaufen-lassen-a-27598afe-8d8f-44ce-b523-04223f4c6366#ref=rss",
       "published": "2026-11-12T06:00:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Der Spiegel",
-      "title_original": "Haushalt 2027: Regierung kann sich vorerst nicht auf Senkung der Stromsteuer einigen",
-      "summary_original": "Die schwarz-rote Koalition ringt um den Haushalt für das kommende Jahr: Die von Bundeskanzler Merz geforderte Stromsteuer kommt nach SPIEGEL-Informationen vorerst nicht. Die Zuckersteuer wird auf 2028 verschoben. Auch die Plastiksteuer ist erst einmal vom Tisch.",
-      "url": "https://www.spiegel.de/politik/deutschland/haushalt-2027-regierung-kann-sich-vorerst-nicht-auf-senkung-der-stromsteuer-einigen-a-b0f3c1e9-80e2-444f-b5ac-84fb332bf304#ref=rss",
-      "published": "2026-11-12T05:49:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -481,35 +508,35 @@
       "state_media": false
     },
     {
-      "source": "Der Spiegel",
-      "title_original": "Hamburg und Eningen: Mutmaßlicher Schütze stand wegen Betrugs vor Gericht",
-      "summary_original": "Der 68-Jährige, der in Süddeutschland zwei Familienangehörige getötet und dann auf zwei Menschen in Hamburg geschossen haben soll, war justizbekannt. Sein Abschiedsbrief deutet auf einen Streit mit seinem Sohn hin.",
-      "url": "https://www.spiegel.de/panorama/justiz/hamburg-und-eningen-mutmasslicher-schuetze-stand-wegen-betrugs-vor-gericht-a-311d361d-080f-4772-b40f-064210045788#ref=rss",
-      "published": "2026-11-12T03:38:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Der Spiegel",
-      "title_original": "Russland - Ukraine: USA wollen Europäer an den Verhandlungstisch bringen",
-      "summary_original": "Die EU müsse »integraler Bestandteil« der Verhandlungen zwischen Moskau und Kyjiw sein: Kushner und Witkoff wollen Europa bei Gesprächen zu einem Kriegsende dabeihaben – Putin müssten sie aber noch überzeugen.",
-      "url": "https://www.spiegel.de/ausland/russland-ukraine-usa-wollen-europaeer-an-den-verhandlungstisch-bringen-a-2783d7a9-75f1-4d41-9797-2718e209e9d4#ref=rss",
-      "published": "2026-11-12T03:22:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Der Spiegel",
-      "title_original": "Ukraine gewinnt im Krieg Gelände zurück: So gelang »Operation Vivaldi«",
-      "summary_original": "Die Ukraine schafft es, die Front zu stabilisieren und drängt die Russen teilweise sogar zurück. Was das für den weiteren Kriegsverlauf bedeuten kann.",
-      "url": "https://www.spiegel.de/ausland/ukraine-gewinnt-im-krieg-gelaende-zurueck-so-gelang-operation-vivaldi-a-643a381b-1895-41c8-a71e-666723cc1b1b#ref=rss",
-      "published": "2026-11-12T03:14:00+09:00",
+      "source": "FAZ",
+      "title_original": "Bundesregierung: Koalition meldet Kompromisse im Haushaltsstreit, Stromsteuer bleibt offen",
+      "summary_original": "Die Zuckersteuer kommt erst 2028, die Steuer auf Plastikverpackungen gar nicht. Für die von Kanzler Merz versprochene Stromsteuersenkung fehlen 5,4 Milliarden Euro.",
+      "url": "https://www.faz.net/aktuell/politik/inland/koalition-meldet-kompromisse-im-haushaltsstreit-stromsteuer-bleibt-offen-accg-201674937.html",
+      "published": "2026-11-12T10:25:53+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "FAZ",
-      "title_original": "Einwandererkinder: „Die deutsche Bürokratie wurde uns in die Wiege gelegt“",
+      "title_original": "Jensen Huang: Nvidia bereitet offenbar Trennung von Huang vor",
+      "summary_original": "Einem Bericht zufolge will der Nvidia-Verwaltungsrat über die Zukunft des Vorstandschefs beraten. Derweil wurde noch eine weitere Affäre publik.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/zweite-affaere-nvidia-bereitet-offenbar-trennung-von-jensen-huang-vor-201674834.html",
+      "published": "2026-11-12T09:39:31+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "USA unter Trump: Erstmals seit 1982: Demokrat holt Senatssitz in Mississippi",
+      "summary_original": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
+      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-erstmals-seit-1982-demokrat-holt-senatssitz-in-mississippi-faz-19444916.html",
+      "published": "2026-11-12T08:22:04+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Einwandererkinder: „In Sachen Behörden und Formulare kann Migra-Kids niemand das Wasser reichen“",
       "summary_original": "Ständig wird über Migration diskutiert – aber wenig mit denen geredet, die am stärksten damit zu kämpfen haben: den Migranten selbst. Ein erster Schritt zu mehr Verständigung wäre, ihre Bücher und die ihrer Kinder zu lesen.",
       "url": "https://www.faz.net/aktuell/gesellschaft/menschen/buecher-von-einwandererkindern-lesefoerderung-fuer-almans-201339769.html",
       "published": "2026-11-12T05:56:37+09:00",
@@ -536,15 +563,6 @@
     },
     {
       "source": "FAZ",
-      "title_original": "USA unter Trump: Weißes Haus warnt Demokraten wegen geplanter Untersuchungen",
-      "summary_original": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
-      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-weisses-haus-warnt-demokraten-wegen-geplanter-untersuchungen-faz-19444916.html",
-      "published": "2026-11-12T05:35:50+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "FAZ",
       "title_original": "Deutschland Liveblog: Koalition verschiebt Einführung von Zuckersteuer – vorerst keine Stromsteuersenkung für alle",
       "summary_original": "Ringen um Haushalt: Vorerst auch keine Plastiksteuer +++ Bundesinnenminister: Konsequenz, Risiko und Preis muss für hybride Akteure erhöht werden +++ alle Entwicklungen im Liveblog",
       "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-koalition-verschiebt-einfuehrung-von-zuckersteuer-faz-110093143.html",
@@ -562,20 +580,29 @@
       "state_media": false
     },
     {
-      "source": "FAZ",
-      "title_original": "464 Verdächtige: Korruptionsskandale haben in der Türkei eine kurze Halbwertszeit – dieses Mal ist es anders",
-      "summary_original": "Mehr als 450.000 Anleger haben ihr Geld verloren. Warum konnten die Manipulationen so lange weiterlaufen – und wer hat davon profitiert?",
-      "url": "https://www.faz.net/aktuell/politik/ausland/im-boersenskandal-in-der-tuerkei-waechst-der-druck-auf-erdoan-201672260.html",
-      "published": "2026-11-12T04:28:48+09:00",
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Haushalt: Koalition spart sich die Stromsteuer – und soziale Kürzungen",
+      "summary_original": "Kurz vor der entscheidenden Sitzung des Haushaltsausschusses erfahren die Fraktionen noch einmal, worauf sich die Koalition verständigt hat, und worauf nicht. Vor allem die Union hat Klärungsbedarf.",
+      "url": "https://www.sueddeutsche.de/politik/stromsteuer-zuckersteuer-plastiksteuer-spd-cdu-finanzen-reichensteuer-wohngeld-li.3579119",
+      "published": "2026-11-12T09:53:56+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "FAZ",
-      "title_original": "Halbleiterbranche in Europa: „Uns fehlt eine Gesamtstrategie“",
-      "summary_original": "Auf den Märkten für Computerchips will Europa die Lücke zu Asien und Amerika schließen, tut sich aber schwer damit. Nun muss Brüssel ausgerechnet das machen, was es am schlechtesten kann: auf Tempo setzen.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/chips-act-2-0-wie-europa-den-anschluss-in-der-halbleiterindustrie-schaffen-will-201673391.html",
-      "published": "2026-11-12T04:10:52+09:00",
+      "source": "Süddeutsche Zeitung",
+      "title_original": "USA: Demokrat gewinnt Senatssitz in Mississippi",
+      "summary_original": "Der Demokrat Scott Colom hat im Südstaat Mississippi die Wahl für den US-Senat gewonnen. Der Rechtsanwalt siegte im Rennen gegen die Republikanerin Cindy Hyde-Smith.",
+      "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-kennedys-klage-triumphbogen-mississippi-li.3578585",
+      "published": "2026-11-12T08:51:12+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Steuern: Existenzminimum wird angehoben",
+      "summary_original": "Das Finanzamt muss Bürgern im kommenden Jahr mindestens 12 504 Euro an steuerfreiem Einkommen lassen, Minister Klingbeil hat schon Vorsorge getroffen. Dafür schlägt aber die kalte Progression zu.",
+      "url": "https://www.sueddeutsche.de/politik/existenzminimum-kalte-progression-lars-klingbeil-li.3579126",
+      "published": "2026-11-12T07:43:20+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -625,101 +652,74 @@
       "state_media": false
     },
     {
-      "source": "Süddeutsche Zeitung",
-      "title_original": "USA: Wenn das Adorno wüsste",
-      "summary_original": "US-Verteidigungsminister Hegseth zitiert an einer Marine-Hochschule die Frankfurter Schule. Und es läuft einem kalt den Rücken herunter.",
-      "url": "https://www.sueddeutsche.de/kultur/pete-hegseth-usa-adorno-horckheimer-frankfurter-schule-habermas-li.3578746",
-      "published": "2026-11-12T00:30:02+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Süddeutsche Zeitung",
-      "title_original": "Sparkurs im Rathaus: Stadt München streicht 1650 Stellen bis 2030",
-      "summary_original": "Der Stadtrat beschließt harte Einschnitte – nicht nur beim Personal, sondern auch bei Zulagen und Zuschüssen. Was das für die Beschäftigten bedeutet.",
-      "url": "https://www.sueddeutsche.de/muenchen/muenchen-stellenabbau-sparkurs-rathaus-stadtrat-li.3578511",
-      "published": "2026-11-11T23:58:25+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Süddeutsche Zeitung",
-      "title_original": "Koalitionen: Rot-Grün-Rot passt - aber nur in der Provinz",
-      "summary_original": "Was in Schwerin unproblematisch ist, birgt schon im Bundesland Berlin hohe Risiken. Aber gar im Bund? Um die SPD von der Union zu erlösen? Manche im linken Teil der Republik geben sich gefährlichen Tagträumen hin.",
-      "url": "https://www.sueddeutsche.de/meinung/rot-gruen-rot-koalition-spd-gruene-linke-kommentar-li.3566440",
-      "published": "2026-11-11T23:51:08+09:00",
+      "source": "Die Zeit",
+      "title_original": "Sorge vor AfD-Regierung: GEW-Chefin: Wenn AfD ihr Programm umsetzt, wird es schwierig",
+      "summary_original": "",
+      "url": "https://www.zeit.de/news/2026-11/12/gew-chefin-wenn-afd-ihr-programm-umsetzt-wird-es-schwierig",
+      "published": "2026-11-12T10:00:04+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Finanzen: Koalition findet Haushalts-Kompromisse – Zuckersteuer später",
+      "title_original": "Chef von Nvidia: Nvidia will sich wohl von Konzernchef Jensen Huang trennen",
+      "summary_original": "Nach neuen Berichten über eine mutmaßliche Affäre berät der Verwaltungsrat laut US-Medien über die Zukunft von Jensen Huang. Offenbar sucht Nvidia bereits eine Nachfolge.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/nvidia-jensen-huang-unternehmenschef-verwaltungsrat-usa",
+      "published": "2026-11-12T09:52:45+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Finanzen: Koalition findet Kompromisse für Etat – Stromsteuer ungelöst",
       "summary_original": "",
       "url": "https://www.zeit.de/news/2026-11/11/koalition-verschiebt-start-der-zuckersteuer-auf-2028",
-      "published": "2026-11-12T06:02:05+09:00",
+      "published": "2026-11-12T09:34:43+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Landkreis Ludwigslust-Parchim: Leiche aus Barniner See geborgen",
+      "title_original": "Börse: Nvidia-Aktie fällt nach Berichten über möglichen Chefwechsel",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/11/leiche-aus-barniner-see-geborgen",
-      "published": "2026-11-12T06:01:03+09:00",
+      "url": "https://www.zeit.de/news/2026-11/12/nvidia-aktie-faellt-nach-berichten-ueber-moeglichen-chefwechsel",
+      "published": "2026-11-12T09:16:27+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Neu im Kino: «Humbug!» – Johnny Depp als kauziger Ebenezer Scrooge",
+      "title_original": "Midterms: Demokrat Scott Colom gewinnt Senatssitz in Mississippi",
+      "summary_original": "Zum ersten Mal in vier Jahrzehnten gewinnt ein Demokrat eine Senatswahl in Mississippi. Scott Colom hat sich knapp gegen Amtsinhaberin Cindy Hyde-Smith durchgesetzt.",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/senatswahl-mississippi-scott-colom-demokraten",
+      "published": "2026-11-12T09:13:44+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Bundeshaushalt 2027: Friedrich Merz läuft wieder einmal gegen die Wand",
+      "summary_original": "Der Kanzler hat eine Senkung der Stromsteuer in Aussicht gestellt, nun kommt sie vermutlich nicht. Es ist nicht das erste Mal, dass die Union an der Realität scheitert.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/bundeshaushalt-2027-bundesregierung-koalition-stromsteuer-einigung",
+      "published": "2026-11-12T09:08:12+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Konferenz in Göttingen: Meyer kritisiert Reiches Absage bei Energieministertreffen",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/11/humbug-johnny-depp-als-kauziger-ebenezer-scrooge",
-      "published": "2026-11-12T06:00:04+09:00",
+      "url": "https://www.zeit.de/news/2026-11/12/meyer-kritisiert-reiches-absage-bei-energieministertreffen",
+      "published": "2026-11-12T09:01:04+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Brände: Sieben Linienbusse brennen auf Firmengelände",
+      "title_original": "Warnung an USA: Iran droht mit Angriffen auf US-Stützpunkte auch in Europa",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/11/mehrere-fahrzeuge-brennen-auf-firmengelaende",
-      "published": "2026-11-12T05:39:29+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "Haushalt: Koalition findet bisher kein Geld für Stromsteuer-Senkung",
-      "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/11/koalition-findet-bisher-kein-geld-fuer-stromsteuer-senkung",
-      "published": "2026-11-12T05:34:39+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "Haushalt 2027: Keine Senkung der Stromsteuer, Zuckersteuer verschoben",
-      "summary_original": "Die umstrittene Zuckersteuer soll erst Anfang 2028 greifen. Darauf haben sich die Fraktionen von CDU und SPD geeinigt. Eine Plastiksteuer ist zudem vorerst vom Tisch.",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/haushalt-2027-keine-senkung-stromsteuer-zuckersteuer-verschoben",
-      "published": "2026-11-12T05:31:15+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "Feuerwehreinsatz: Jugendlicher von Steilhang an der Wupper gerettet",
-      "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/11/jugendlicher-von-steilhang-an-der-wupper-gerettet",
-      "published": "2026-11-12T05:26:32+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "Tischtennis: Eastside unterliegt Metz beim Champions League-Auftakt",
-      "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/11/eastside-unterliegt-metz-beim-champions-league-auftakt",
-      "published": "2026-11-12T05:19:30+09:00",
+      "url": "https://www.zeit.de/news/2026-11/12/iran-droht-mit-angriffen-auf-us-stuetzpunkte-auch-in-europa",
+      "published": "2026-11-12T08:41:53+09:00",
       "via": "rss",
       "state_media": false
     }
