@@ -1,0 +1,472 @@
+{
+  "team": "il",
+  "team_name_ko": "이스라엘팀",
+  "collected_at": "2026-11-13T06:12:56.484174+09:00",
+  "headlines": [
+    {
+      "source": "Kan (KAN News)",
+      "title_original": "The makeup of the 26th Knesset",
+      "summary_original": "The makeup of the 26th Knesset כאן 11",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5R3NvdTVMT2NJM2FZX2V3TXZxRU00b09Za0V4Sll1cmlVZDJyQWtzTFBWZk5DY3NXbWg3TzBCcmZEMk5xb3k2RmFFYWFIRmZ0ODU2SjdfX1JzbEx3SXg2V1c1OHh3TDJGNlBzZQ?oc=5",
+      "published": "2026-11-13T05:35:16+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "N12 (Channel 12)",
+      "title_original": "מילים לשיר Love's a Monster - סתיו בגר",
+      "summary_original": "מילים לשיר Love's a Monster - סתיו בגר שירונט",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcUlCdnBiQ3laeWZWTkQ5RjN0UEtPeExaNUtnZm1fMDBCNzZ3elg2N290OEFwRWNTeVFfUWRTbFFhX3lERUNaaG9MZW9KUmhHVk9SYVBxNVFkSjZ1S2dVUjNzdTMtcGZHQ0VYNkJIRGJJcHpnMjd0bXQtVWp6bTdRQ041RQ?oc=5",
+      "published": "2026-11-13T02:07:40+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "N12 (Channel 12)",
+      "title_original": "מילים לשיר Roses - סתיו בגר",
+      "summary_original": "מילים לשיר Roses - סתיו בגר שירונט",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU3lfX2Nxd1B2aWhBQzQ3SWlBMUttRXA0OW1oSUhRWndhRWxVcHdzSVA3WUNZWktIRU9pS0tJTmxoZ1JkYU5tejRZNUVmOFo5ZHNoYTdKbTl5TTZWR1hDUUVQMGxnUFowazEyTlplZU9Gd0g2T2N0ZFctSFhSbjc4QkgxYw?oc=5",
+      "published": "2026-11-12T22:11:05+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "BoP Deplores The Death Of Any Civilians And Condemns Hamas Exploitation Of Hospitals",
+      "summary_original": "BoP Deplores The Death Of Any Civilians And Condemns Hamas Exploitation Of Hospitals i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRGNqTHFnUFNCS0U4MjN6Vy14aUhzTlFCOGZJVTB2b1NNMzk2d085T2dMa2F1SHRjQlFwTlo3MFRCenBWa0VWRFdjTFFJcWtTMGI4Z3lrUy1BdWVzY1g1bGxPOUY4ejJ6cW9KeHUzVktGRm1jbURYM2puTkFrXzk2QXlCUnNKSUFkQUktYndjSXgzLXRYWDd2RlVrcFhIaDlMYm1Zd0JxbU1IV2psM2ZjZEFtR1Raa2FiTGluSEJxdkZBUlNla2tXTmhma3NJRDNMeV9ydExYMXV0c0JDcGtqNGVBWU5EOUdKaXFpLQ?oc=5",
+      "published": "2026-11-13T03:25:46+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Israeli Company MIA Dynamics Bets On The Future Of Ground Robotics",
+      "summary_original": "Israeli Company MIA Dynamics Bets On The Future Of Ground Robotics i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVnJxMDNmOUJoNHlyUUc5R0E2UU1FdFRObWZ6Y3ZxNDNkOUhTX1B3Mk9EZmQ1bm55UVl3X0VDbkVTak53N3ZTMGplS01vcFI3dFJKckhQSEx5MERuaDFXUldwVUp3QV9VMVRiUWRsTmhKcl9mYmE2bGxhWkdKX0VDRnBRelRTMWk1OVdsbDQwVEV3dFF4VFJpTkNsNTFGajVwUDgtSS1Ed3hTbVg4S1Y2RXJaNXhSQQ?oc=5",
+      "published": "2026-11-13T02:48:29+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Israel’s Liberal Camp Needs A New Strategy, And A Willingness To Compromise - Opinion",
+      "summary_original": "Israel’s Liberal Camp Needs A New Strategy, And A Willingness To Compromise - Opinion i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRXdRSF9HY2tIQkJXOUJNRXVOdExtTFFNbGNlR205NHV0NjJ5b3pBVmpMN2NPQzZrZ0p2MlJTLXQ1cVIwVVh3eEh5UloxeVc1aWJLc0ZNbHBQRzFlbi1na3dSWV9tMHhUUWl2RlJBbW5neHVIZ2Z0RXVaNTRMUG1zRm5SQWZleDhBQVhkUzZaQlBLWG5qX00tcVZiTGo4emVUS29XRVZuS1F2RUZScTR5TVd2dzVjaDNuNkFMbmZIdHJQdFdSd0plRXUyc2gzblk?oc=5",
+      "published": "2026-11-13T01:34:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Israel’s Housing Sales Fall As Unsold New Homes Reach 85,000",
+      "summary_original": "Israel’s Housing Sales Fall As Unsold New Homes Reach 85,000 i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNemUtTHpra1FkOWtXdmJuMjJiam1sdFEwOEszd25oeXpjRjBiWm81bnl4VVYzdUptaW13V1hOSXBlTTFBb2t1SXlGYjh1ek5WX0RtX3hFMlJnSzREYm84R1lXaGFqMS1DQTlMTF84RGlGQjlvclNqQXhENlZ5N21LM0Npd3liTlpKWFZNUEtWbEU3N2sxQ3lwTFZYTU9NU0MxNW9DMk1wTWc2S2dXOHRWeg?oc=5",
+      "published": "2026-11-13T01:02:58+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Abbas Should Be Judged By His Actions, Not One Missing Statement - Opinion",
+      "summary_original": "Abbas Should Be Judged By His Actions, Not One Missing Statement - Opinion i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQmN4Mm9Xb1FUYzZlYWhnbWJJU0dpem12Zjh5ZTRtREFpc0RKMzhwSGhsbmJjLTNJenlpQjlGWmtCMzdZX1UxN3hsRm5GSGRvTmxSTldiWFZsTlM3MF9ad25SNEJCSzFMazNSXzZlZWd1dW13eURjbGJvSkFXUGF4MEJHUnVUVTBGSDd5MmZxb09KRENiVVlQVnBFdWZXRS00V2RvcVl6cmJpZTRtQjI2YktGc3ZYOVlvV0xGdllzNlE?oc=5",
+      "published": "2026-11-13T00:48:48+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Pete Hegseth reprimanded for laughing at Tomb of the Unknown Soldier days after impeachment proceedings",
+      "summary_original": "Pete Hegseth reprimanded for laughing at Tomb of the Unknown Soldier days after impeachment proceedings i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRW1JSXVpVGhBQlpnMUxHdUJRSUJGMWlXMkU3OElkaVJYTDl3amlWbm5QRERIbW51X0EwWkxPY3FSSUtFbEVfbmVBbHJ4NGt2OFIxYXE3am93VWtlUW0tS3Vnb01wYUFuaXl5TnFYYV9Sem1xZDRoempOczhxTHpyNi14cmljMjJnZ21WUmRSVWdad1g0ZmR3Sm1wNlVmVTM0MXExa0xjVHpXV1NENXRMZ3M5cUxRSVcycVB1S2pwNmJickhfMkVELTFUYnRaN1hnTXFpbEhfZkJBblZBSTZ5WjRlVmhSeXdHZEl4bnU1VndTVS1z?oc=5",
+      "published": "2026-11-12T19:03:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Israel Katz, Avigdor Lieberman Clash Over Authority To Launch Military Operations",
+      "summary_original": "Israel Katz, Avigdor Lieberman Clash Over Authority To Launch Military Operations i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUTkwYVJEbXZMal9pcHV6TFp2dnlOOFp5QTdlaXE1UHV5T2J3ZW94MUNLUjA1VlBOeVplMGpEa0psdnYwRWdhVUJJNGxWSUl3QTJLbnVBc0hOeVplRHJGRGNlNFN1S3VYdEYyN3JiaGlfRTZMMGMxYUMxdnR3b3ZmNndpSk1Oc0xVTlQ1ZDVDVHlfaFFyVEN6b0xuSmJvek5OUGF0Q0EzSGxLQkV3TVBfb1FrOWxLNTJLb29tMVhYT1NLVE5vbGotY2pBOA?oc=5",
+      "published": "2026-11-12T18:43:59+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Israel Helps Shape New UN Guide On Documenting Sexual Violence",
+      "summary_original": "Israel Helps Shape New UN Guide On Documenting Sexual Violence i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQamJYeFNUQ2stWktyNWFaODZsWHVsc1d1Umd0TENZb1FHNzdJUm13NWZsUHo0cEIwNk9hUHRKZFJSaHRnWUl0YXNMOFpZalJyOUEzLUxCeF91SEJOdnZKelRBdDh6UEd1WlJCVHo4OW0tTkY1WHNtN0RlTlhERkxBWDZhNlFnLVNhcDQwWUlEODNncTA0OGtqaWk5dm9zN0VkQ0x0cXV0SXVnck16bFREQ1NGZHNodw?oc=5",
+      "published": "2026-11-12T17:24:59+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "Elections, Meat, and Other Things That Won’t Change My Shabbat",
+      "summary_original": "Elections, Meat, and Other Things That Won’t Change My Shabbat The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZnNoRHczbGF5ckpVYnM4RmpMZk5EQzdwUVhnZFJkYnVacld5Q2dIRHFoSTAzLTBKdWxFMGxuc19vQ19VWlFCYWlwU3Z2X1NYWlJNYUItNS1PUm1UQlVaSUtvWjMwd3hKWUhUZXlfM0pHTVV5VHQ2Z1BHUzMwZTVLdmIwQjB4TDR4SXctMU1yLVFxUi1WTFJ3?oc=5",
+      "published": "2026-11-13T05:53:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Blogs: Parshas Toledos: Ready To Wear",
+      "summary_original": "The Blogs: Parshas Toledos: Ready To Wear The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BTlE5aElQNFljdTBoMW5mNHdHVm5aQkNETzFkRTBvZ0RJY0JsSGZ1NE81QkpZZ20wc1pJV3BTbDR0VHYzVTZBTEViWVZwZzFtUmttRlpFMGw1S3NDT1VFeVdQbkxGeVZGNnA4SGVFUQ?oc=5",
+      "published": "2026-11-13T05:49:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "El-Sayed Isn’t Denying Our Connection to Israel. He’s Saying Something Else.",
+      "summary_original": "El-Sayed Isn’t Denying Our Connection to Israel. He’s Saying Something Else. The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSnRtNFlDcGE1bDkwQ3ZyOXh3MG1Hb0VoS2E5bEptOVo2MUEyTllQWlRESEJsMFhTc1ZnSzBKMkFQWm4xZkF2cmY0YUM5ZXUwcERhX0Z0c0x4VE94QzZ0NW1MOHZXazBOR2lDSHV6c2dqdW0xME9EVDBWWG81R3JzTkphTG54c1M5Y2dFeTlpTFZ0TFpYSEtaRmROUGVnZnFPNUJJUUY1cnQ?oc=5",
+      "published": "2026-11-13T05:30:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "Let’s Rethink the Law of Return",
+      "summary_original": "Let’s Rethink the Law of Return The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Cbi1OY0htLXJ4OEtOeFpmNWUyRllDMDVzZG9xdUNvZWwtNGRITVFXY2J2bVJLTGlIR2xaNU8yek1nRnhXVnJPdTkyWFBUem13aDNXS29JOXktdmZ4R3puUEgyZGRkS1c3aGpSR2c1MXU?oc=5",
+      "published": "2026-11-13T05:27:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "3 lines to check on your first Israeli payslip",
+      "summary_original": "3 lines to check on your first Israeli payslip The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY3YzTEFqTDZmejZiRTJTUHBLM2t0MTNZVmw2aVZGVjFwR1FzaXpJTFdJRGxaX0JyM0RCZnFVQmVGczhheVJ3N2xWUHhBd2l6VUN1QmM5eDlzVHJTN09BX0x6amZ0cXFRQTI0YkpIc0lMcnVxb3hYQVRYOHVhUmhzZkhSNU10UQ?oc=5",
+      "published": "2026-11-13T05:26:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Forgotten Poet of the Immortal Anthem",
+      "summary_original": "The Forgotten Poet of the Immortal Anthem The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5neEVWekNDZ0dtYVFkX3lPQzFHU051bjZBSzRERVJHdksxMUNKT3dNRk5HeVNqN3g4cVdFd09kaGZfaUFON3ZfVWxPVU84RngxX1EtVkE4RE1DOGxXY1o3QzJHZWczU2F4YW9Zb2puQk5PRW14X3lYMXZwSUNpd0E?oc=5",
+      "published": "2026-11-13T05:24:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Blogs: Guilty as Charged",
+      "summary_original": "The Blogs: Guilty as Charged The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1INTRZQkZiTUhxUU1GUTZJbV9CU3JiY2JwaDJvTnVTWmNXNGx4MWtlcExHLVlEUWhaOFlRbE5qcUltV0p3dGJaRVRNS21icHdGSjd4TG1nSmFhMlJteEl6MThn?oc=5",
+      "published": "2026-11-13T05:24:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "Bibi and Eisenkot and the world — cloudy skies bring rain",
+      "summary_original": "Bibi and Eisenkot and the world — cloudy skies bring rain The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTkNOeGt4dV9abTdKb29vTnluNjRCMmZUcUhKYXJOTXZkWFBnRW5yS1lZcTNZUmF5a0hodFhlYlljbjItV21yaXBicGdCeDFjTDVQTXcwRmFTQWFSYTQydzNBU1pJLVE4TkFxeUFWUFJHUDF6cEdxZ1BNLU9qMWt4dWRsU2pUbWk2SDZnQW5qaTNMdw?oc=5",
+      "published": "2026-11-13T05:21:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Investment group buys control of cash-strapped Israeli airline Arkia",
+      "summary_original": "The deal follows cash-flow difficulties and a labor dispute over planned cutbacks, with the new investors pledging to stabilize the company and strengthen its operations",
+      "url": "https://www.haaretz.com/israel-news/business/economy-finance/2026-11-12/ty-article/.premium/investment-group-buys-control-of-cash-strapped-israeli-airline-arkia/000001a1-d042-da0a-afbd-d04e77d30000",
+      "published": "2026-11-13T05:40:08+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Tyrian purple made kings rich. But did this industrial powerhouse begin in ancient Israel?",
+      "summary_original": "Tyre gave the ancient world's most coveted dye its name. But new research points to a factory near Haifa, where Phoenician expertise and Israelite royal power transformed purple-dye production centuries earlier",
+      "url": "https://www.haaretz.com/archaeology/2026-11-12/ty-article-magazine/tyrian-purple-made-kings-rich-did-this-vast-industry-begin-in-ancient-israel/000001a1-d148-d15e-adb1-f3ed4c700000",
+      "published": "2026-11-13T05:27:29+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Israeli officials knew Netanyahu trial witness was sending funds to firm of PM's lawyer's",
+      "summary_original": "The firm of attorney Amit Hadad has reportedly received $1.25 million from Australian billionaire James Packer, but Israeli law enforcement hasn't launched an investigation",
+      "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-12/ty-article/.premium/officials-knew-netanyahu-trial-witness-was-sending-funds-to-firm-of-pms-lawyer/000001a1-d109-da30-a7fb-d9bd38070000",
+      "published": "2026-11-13T05:18:04+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Israel bars France's Mélenchon over call for French ships to escort Gaza flotillas",
+      "summary_original": "Israel accused Mélenchon of spreading 'blood libels against Israel.' The move comes a day after France banned a senior settler leader, and follows Israel's September decision to bar several U.K. left-wing politicians, including Jeremy Corbyn",
+      "url": "https://www.haaretz.com/world-news/europe/2026-11-12/ty-article/.premium/israel-bars-far-left-french-leader-over-call-for-ships-to-escort-gaza-flotillas/000001a1-d0da-ddc9-abb7-ddda2a3f0000",
+      "published": "2026-11-13T04:05:30+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Oldest use of poison detected at Homo sapiens site in Saudi Arabia",
+      "summary_original": "Early modern humans living in the Arabian interior 125,000 years ago dipped their spears in deadly chemicals to better bring down hippos",
+      "url": "https://www.haaretz.com/archaeology/2026-11-12/ty-article-magazine/oldest-use-of-poison-detected-at-homo-sapiens-site-in-saudi-arabia/000001a1-cfbc-d292-abf9-fffd3f180000",
+      "published": "2026-11-13T04:00:24+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Leading Chabad rabbi legitimizes killing Jewish politicians cooperating with Arab parties",
+      "summary_original": "Former security chiefs urged police to investigate incitement to murder after a rabbi invoked a doctrine used to justify Rabin's assassination against Jewish leaders who cooperated with Arab parties",
+      "url": "https://www.haaretz.com/jewish/2026-11-12/ty-article/.premium/chabad-rabbi-endorses-killing-jewish-politicians-cooperating-with-arab-parties/000001a1-d0de-d5bd-abe9-d8df53920000",
+      "published": "2026-11-13T03:39:02+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Israel demands social media platforms censor 186,000 posts in Arabic – 5 in Hebrew",
+      "summary_original": "The Justice Ministry's cyber department said 99 percent of posts were linked to suspected incitement to terror. However, a rights group says posts containing racism, violence, or criminal activities in any language other than Arabic remain online",
+      "url": "https://www.haaretz.com/israel-news/israel-crime/2026-11-12/ty-article/.premium/israel-demands-186-000-social-media-posts-in-arabic-deleted-and-five-in-hebrew/000001a1-cf30-d9c6-a5f7-cfb632b10000",
+      "published": "2026-11-13T03:32:57+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Even the Met Gala can't escape New York's antisemitism wars. So now we're celebrating jeans",
+      "summary_original": "After scrapping a John Galliano tribute amid protests over past antisemitic remarks, the Met is embracing jeans and t-shirts. Can New York's most extravagant night pull off being inoffensive?",
+      "url": "https://www.haaretz.com/israel-news/haaretz-today/2026-11-12/ty-article/.highlight/after-galliano-uproar-the-met-gala-tries-on-something-new-being-inoffensive/000001a1-d03c-ddc9-abb7-ddfe89300000",
+      "published": "2026-11-13T03:10:56+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Former CEO Jensen Huang conducted extramarital affair with second Nvidia employee, sources say",
+      "summary_original": "Former CEO Jensen Huang conducted extramarital affair with second Nvidia employee, sources say The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MUUQtLTI0NGtaRS1yNFQzZmpmOXZqcVJhRGx1VkVkX3V6Q2JRUkVhSWFENXlaOGR4SmxGbllWZ1Rwb1FYdjRpa1pDZWpVSkxIb01rWWxZWUJOcFNqYnFF?oc=5",
+      "published": "2026-11-13T05:27:59+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Bnei Brak man indicted for physically abusing wife",
+      "summary_original": "Bnei Brak man indicted for physically abusing wife The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpRW9QdzJjOGcxbjBYWENRd01uMl9IcHhzbUljbkNYZVFpdVRsMnk2eURTRS15ZVNKVzQ2bTc2WG91bS15YjJ4NzR3eXNoTlZvY1NYN0NJWXhaLXpQYUxmME9SWXlYeFJFMkhIdUFMX2ZjUQ?oc=5",
+      "published": "2026-11-13T05:25:09+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "UTJ leads talks with Eisenkot-led bloc due to deep Shas-Likud ties, ex-Shas spokesperson says",
+      "summary_original": "UTJ leads talks with Eisenkot-led bloc due to deep Shas-Likud ties, ex-Shas spokesperson says The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hRG9FVEozQXFSTGJBckw5cjdZUHphcDNCOGxqYjdPNzJzUFNFTXEyT0tVRVpwWklsajZ4ZTg3NXVPbE1fTGNwWDZjcDM3ZVBKZk1rU3NXNFRDbkhfaFZWYWo3WTF5enhtcFQ4T1c3YVByamxDbGJLVENZOA?oc=5",
+      "published": "2026-11-13T05:19:18+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Arab parties in contact with senior UTJ officials over negotiations with Yashar-led bloc - report",
+      "summary_original": "Arab parties in contact with senior UTJ officials over negotiations with Yashar-led bloc - report The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZMVRDU1JYY2ZSdDBKYmFrNW9GVEg3ZF9mcnhZdEhxZTRJZXJYem5EWVdJY0NBZXp1Q3U3MUFHRUxHTmJ1a3NnanJMZ0RMSG0tY1h0VHBiZVhHVk5fRWNMRUVDcjBKYWQ0N2tQbENFQXBJUERwYUs2VDBaZw?oc=5",
+      "published": "2026-11-13T05:01:32+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Liberman warns Netanyahu against 'dragging Israel into war' as Eisenkot gets security briefing",
+      "summary_original": "Liberman warns Netanyahu against 'dragging Israel into war' as Eisenkot gets security briefing The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DUUQyZ2VQa1I4ZXVLZkdyV1RLbE1lNWRmNGtGaURPRjFmV2hENlZBa1ZzYjJZcEZCdUMxMENfd0R1TDhPRVJvTmJrdHU2Y1JEcVRDTEVJX1RMdExYcWM1aU1VTGhNcUlrNnMtdjRn?oc=5",
+      "published": "2026-11-13T04:51:29+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Southern Iranian province Hormozgan hit by 'enemy' military strike, Iran claims",
+      "summary_original": "Southern Iranian province Hormozgan hit by 'enemy' military strike, Iran claims The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EeUNCcU1TQ1lPOUdVbjYxeUNSbWlyYVk5aUFILXE3anZEa3E5eTZKa3dfWWllam9Gam54QUx4UHBFSGNMQWZVbDYtRFZMaWt6U0VxcFFxbF90QlJWUWNLQ2VjSEtmd3BTNlE?oc=5",
+      "published": "2026-11-13T04:40:28+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "IDF forms new 'attack battalions' ahead of next stages of war in Gaza, Lebanon",
+      "summary_original": "IDF forms new 'attack battalions' ahead of next stages of war in Gaza, Lebanon The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81b0I1UzAwenhTejhnSzBKbmJ5bWctSW12cWRnWTRTVjZKN0gteHlmdi0tVDNJOTdhbzMzb1Q5X043T25LbDVJMGFEeDloOUU3Y0MtSEZzTDdCdjZUNVdtaUVjaXZMMmtZRTVUWE9n?oc=5",
+      "published": "2026-11-13T04:24:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Benjamin Netanyahu, Gadi Eisenkot hold briefing amid Iran tensions, coalition negotiations",
+      "summary_original": "Benjamin Netanyahu, Gadi Eisenkot hold briefing amid Iran tensions, coalition negotiations The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrTU5meG1aTDlKVTZwSUdyZkNxZ1RCTFU1Y2lHUDBTU1R4cUJRdVpxNzdHVTNIY013ZWhOWlB2Z2k2eDg1UENpend1Q2hSaHVPalJESms0R19FZGxnd2N4SkNVTlFlcnF5?oc=5",
+      "published": "2026-11-13T04:15:21+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Knesset changes hands, but Netanyahu remains in power. Who controls what?",
+      "summary_original": "Knesset changes hands, but Netanyahu remains in power. Who controls what? Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ub0VyU2RQaUYxQ0pGamtnem9pUHctdHRWdlp4N3RiMmNxTURaTEFpSjNTQ0ZxWU9qUnpSeVA3dUJqRUJmNjNnRXlpZHl6ZUptbHVFNnJR?oc=5",
+      "published": "2026-11-13T06:02:01+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Netanyahu Trial: Journalists Petition for Open Hearing on Attorney General's Participation",
+      "summary_original": "Netanyahu Trial: Journalists Petition for Open Hearing on Attorney General's Participation Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDbU5TcnItOXFtUHBrYnJobmp0NjY2VTRxRXFBa051UE1DSXJvaXpOcG9ORFV2MkNydjZBZU5vMXpOZzdxNTFYamNHb2ZmWDhOY2s1cA?oc=5",
+      "published": "2026-11-13T05:39:15+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "French Foreign Minister on Israeli Response to Sanctions on Yossi Dagan: 'Demagoguery'",
+      "summary_original": "French Foreign Minister on Israeli Response to Sanctions on Yossi Dagan: 'Demagoguery' Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZTXB3SGotYi1SV2o1SGxMektsZTE0NWw1NWdYbXRkbkc2QlZDZzB3X3JYTmlNdXdjRTR2c0kxc21iMWpUYkVoMGprWXN1bjIzMnlBYg?oc=5",
+      "published": "2026-11-13T05:35:58+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Shawn Mendes declares ‘Free Palestine,’ accuses Israel of genocide",
+      "summary_original": "Shawn Mendes declares ‘Free Palestine,’ accuses Israel of genocide Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mZWlCRnlrdFpMcXFzM2pBem5NYlc2RXJ3ek1PME42Zldhb3hZMlFENWREMnZxaElGNzZ6RHpGOThmR2JXaHdxUWpaLW04TUNuSW9OREJiaFF0NElpVmZxRA?oc=5",
+      "published": "2026-11-13T05:02:52+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Third affair emerges in scandal that toppled Nvidia CEO Jensen Huang",
+      "summary_original": "Third affair emerges in scandal that toppled Nvidia CEO Jensen Huang Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82ZS1LUVo1czFOLVFRVUh2cXB5YTJka1BhRDFXcmYtc0hnQWFlTndsNzNNLWFUX1FSSXZadzh5X09Va0VJZzh3NUMwZmxNWTMwRkNxcVhzcmNjbVhLM21vcXRR?oc=5",
+      "published": "2026-11-13T04:43:20+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Report: Nvidia CEO Had Relationship With Another Company Employee",
+      "summary_original": "Report: Nvidia CEO Had Relationship With Another Company Employee Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GZ3A1NWJfT1FjRFBUeG44R2JHblh4SnJRUlg4N3NFY195UlpFNEctT2JCNjY4Z1NTZ3NhdDZKLWRqdlhSbFJ2dHdoaTBUSHNRRV9Tdw?oc=5",
+      "published": "2026-11-13T04:38:10+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "EU to review Israel ties after trade petition gains 1.1 million signatures",
+      "summary_original": "EU to review Israel ties after trade petition gains 1.1 million signatures Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LNzEtWmptSEt1LTAydE1OckVsR1E2MUVVUUtZNGozM21JQ2duamhWODNueGVQZF9TRUFxT1JIUzRwOXp2TDBxQTdnR01tMjE3Smhack5R?oc=5",
+      "published": "2026-11-13T04:27:07+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Saudi Arabia: Drone Intercepted in Riyadh Area",
+      "summary_original": "Saudi Arabia: Drone Intercepted in Riyadh Area Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0VE5walJkNDNxSkNzRG9CVmFqN0VoVldqREFlbndpcWRmRjJ2QjhrT0VpbDRDbElLd3BkbWlKUGlITXFmeGwyTGxtdmxsQ08wZlRJVw?oc=5",
+      "published": "2026-11-13T04:21:22+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Thu: Teva leads as main indices edge ahead",
+      "summary_original": "The indices fell into negative territory after Jensen Huang’s resignation as CEO of Nvidia and remarks by US President Trump to the effect that there was no need for an agreement with Iran, but rallied towards the close.",
+      "url": "https://en.globes.co.il/en/article-1001563311#utm_source=RSS",
+      "published": "2026-11-13T01:27:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Investor group buys controlling stake in Arkia",
+      "summary_original": "After twenty years, the Nakash family is selling its stake in the airline. Details have not been disclosed, but the deal is estimated to be worth NIS 40-50 million.",
+      "url": "https://en.globes.co.il/en/article-1001563306#utm_source=RSS",
+      "published": "2026-11-13T00:40:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Nvidia founder and CEO Jensen Huang steps down",
+      "summary_original": "Huang became embroiled in scandal over extramarital affairs. The company is deeply invested in Israel.",
+      "url": "https://en.globes.co.il/en/article-1001563256#utm_source=RSS",
+      "published": "2026-11-12T23:40:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "New home sales plunge in Tel Aviv",
+      "summary_original": "The second-hand market in Tel Aviv is also experiencing a slowdown, the Central Bureau of Statistics reports.",
+      "url": "https://en.globes.co.il/en/article-1001563213#utm_source=RSS",
+      "published": "2026-11-12T22:56:41+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Taiwan eyes public transport tenders in Israel",
+      "summary_original": "Taiwan may enter a sector in Israel that is highly significant for China",
+      "url": "https://en.globes.co.il/en/article-1001563184#utm_source=RSS",
+      "published": "2026-11-12T22:02:28+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Infrastructure construction co Barazani completes TASE IPO",
+      "summary_original": "The company, which sees major growth in the coming years, raised NIS 1 billion at a valuation of NIS 2.25 billion, before money.",
+      "url": "https://en.globes.co.il/en/article-1001563156#utm_source=RSS",
+      "published": "2026-11-12T17:05:23+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Teva CEO: We have evolved into a biopharma company",
+      "summary_original": "Richard Francis sees branded drugs accounting for 25% of revenue in 2030 compared with 9% in 2022.",
+      "url": "https://en.globes.co.il/en/article-1001563136#utm_source=RSS",
+      "published": "2026-11-12T14:08:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Discount Bank to offer cryptocurrency trading",
+      "summary_original": "Customers will be able to trade in Bitcoin and Ethereum via the bank's mobile app without having to manage a separate digital wallet.",
+      "url": "https://en.globes.co.il/en/article-1001562928#utm_source=RSS",
+      "published": "2026-11-11T18:28:00+09:00",
+      "via": "rss",
+      "state_media": false
+    }
+  ],
+  "unavailable_sources": [],
+  "errors": {
+    "Times of Israel": [
+      "rss 실패: HTTPError: HTTP Error 403: Forbidden"
+    ]
+  }
+}

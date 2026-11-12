@@ -1,0 +1,729 @@
+{
+  "team": "de",
+  "team_name_ko": "독일팀",
+  "collected_at": "2026-11-13T06:12:56.484174+09:00",
+  "headlines": [
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Bayerischer Drohnenhersteller Quantum Systems meldet Cyberangriff",
+      "summary_original": "Der bayerische Rüstungskonzern Quantum Systems ist nach eigenen Angaben Opfer eines Cyberangriffs geworden. Der Vorfall fand im Oktober statt. Laut einem Medienbericht hat die Bundeswehr bereits reagiert.",
+      "url": "https://www.tagesschau.de/inland/quantum-systems-cyberangriff-100.html",
+      "published": "2026-11-13T06:09:07+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "tagesschau in 100 Sekunden",
+      "summary_original": "tagesschau in 100 Sekunden",
+      "url": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1682924.html",
+      "published": "2026-11-13T06:06:27+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "tagesschau 20:00 Uhr",
+      "summary_original": "Union und SPD ringen über den Bundeshaushalt 2027, Gipfel der Europäischen Politischen Gemeinschaft in Dublin, Nvidia-Chef Huang tritt nach Spionageaffäre zurück, Mercedes-Benz will Investitionen in deutsche Standorte stoppen, In Deutschland verschulden sich laut Schuldneratlas 2026 immer mehr Menschen, Die Nations League, Das Wetter",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1682890.html",
+      "published": "2026-11-13T04:50:06+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Finale Verhandlungen um Bundeshaushalt 2027",
+      "summary_original": "Finale Verhandlungen um Bundeshaushalt 2027",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1682874.html",
+      "published": "2026-11-13T04:29:39+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Welche Rolle spielt Europa bei den Verhandlungen um ein Ende des Ukraine-Krieges?",
+      "summary_original": "Welche Rolle spielt Europa bei den Verhandlungen um ein Ende des Ukraine-Krieges?",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1682876.html",
+      "published": "2026-11-13T04:29:38+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Nvidia-Chef Huang tritt wegen brisanter Liebesaffäre zurück",
+      "summary_original": "Nvidia-Chef Huang tritt wegen brisanter Liebesaffäre zurück",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1682878.html",
+      "published": "2026-11-13T04:29:20+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Im Stadtteil Brooklyn: Tote und Verletzte nach Gebäudeeinsturz in New York",
+      "summary_original": "Nach dem Einsturz eines mehrstöckigen Gebäudes in New York ist die Zahl der Toten auf mindestens acht gestiegen. Mehrere weitere Menschen wurden unter den Trümmern eingeschlossen. Bürgermeister Mamdani sprach den Betroffenen sein Mitgefühl aus.",
+      "url": "https://www.tagesschau.de/ausland/amerika/new-york-gebaeude-einsturz-104.html",
+      "published": "2026-11-13T03:54:49+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Mercedes stoppt Investitionen in Deutschland - und prüft Schließungen",
+      "summary_original": "In den Verhandlungen um Kostensenkungen bei Mercedes ist keine Lösung in Sicht. Jetzt erhöht der Konzern den Druck: Der Vorstand legt alle Investitionen in deutsche Standorte auf Eis - und will Werksschließungen prüfen.",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html",
+      "published": "2026-11-13T03:44:38+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Mercedes stoppt alle neuen Investitionen in Deutschland",
+      "summary_original": "Mercedes Benz stoppt alle neuen Investitionen in Deutschland. Wegen hoher Kosten und stockender Spar-Gespräche bringt der Vorstand sogar Werksschließungen ins Spiel.",
+      "url": "https://www.zdfheute.de/wirtschaft/unternehmen/mercedes-sparmassnahmen-100.html",
+      "published": "2026-11-13T06:10:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Jürgen Klopps Devise: Siegen vor Kindergeschrei",
+      "summary_original": "Der ungewöhnliche Rahmen beim Nations-League-Spiel gegen Serbien spornt den Bundestrainer nur noch mehr an. Klopp möchte gegen die Niederlande danach eine Art Endspiel bestreiten.",
+      "url": "https://www.zdfheute.de/sport/fussball-nations-league-deutschland-serbien-juergen-klopp-pressekonferenz-100.html",
+      "published": "2026-11-13T06:05:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Lucke: Auf \"eigene Rechnung gekämpft\"",
+      "summary_original": "Die schwarz-rote Koalition blockiere die Vorschläge der jeweils anderen Partei. Die eigenen Parteiinteressen stünden über denen der Koalition, so Politikexperte Albrecht von Lucke.",
+      "url": "https://www.zdfheute.de/video/heute-journal-update/sgs-lucke-goekdemir-100.html",
+      "published": "2026-11-13T05:45:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Lautes Lachen am Denkmal: Pete Hegseth zurechtgewiesen",
+      "summary_original": "Ein Wachposten hat US-Verteidigungsminister Hegseth und seine Begleiter in Arlington wegen Gelächters zurechtgewiesen. Nun zeichnet der Minister den Soldaten aus.",
+      "url": "https://www.zdfheute.de/politik/ausland/usa-veteranentag-pete-hegseth-lachen-100.html",
+      "published": "2026-11-13T05:44:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Hodges: \"Unterhändler verstehen nicht, worum es geht\"",
+      "summary_original": "Trumps Unterhändler waren bei Putin, jetzt reisen sie zu Selenskyj. Ex-US-General Hodges erwartet davon wenig: Die USA hätten in den Gesprächen längst Russlands Sicht übernommen.",
+      "url": "https://www.zdfheute.de/politik/ausland/ukraine-krieg-putin-verhandlungen-usa-trump-100.html",
+      "published": "2026-11-13T05:35:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Wie es nach dem Rückzug Huangs weitergehen könnte",
+      "summary_original": "Eine mutmaßliche Spionage-Affäre, ein gestürzter Tech-Star und ein Konzern im Ausnahmezustand: Was der Abgang von Jensen Huang für Nvidia, die KI-Branche und Deutschland bedeutet.",
+      "url": "https://www.zdfheute.de/wirtschaft/unternehmen/nvidia-zukunft-ruecktritt-jensen-huang-100.html",
+      "published": "2026-11-13T05:26:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Spionage-Affäre: Nvidia-Chef Huang tritt zurück",
+      "summary_original": "Nvidia-Chef Huang gibt nach einer Affäre mit einer möglichen chinesischen Spionin seinen Posten auf. Finanzchefin Kress übernimmt vorübergehend.",
+      "url": "https://www.zdfheute.de/wirtschaft/unternehmen/nvidia-chef-huang-ruecktritt-100.html",
+      "published": "2026-11-13T04:56:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Aktuelles zum Krieg in der Ukraine",
+      "summary_original": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
+      "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
+      "published": "2026-11-13T04:47:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Zeitenwende bei Polizei und Geheimdiensten - aber wie?",
+      "summary_original": "Drohnen auf Flughäfen, Cyber-Angriffe im Internet - die Sicherheitslage ist angespannt. Wie wappnet sich Deutschlands Polizei? Und wie wollen Geheimdienste Gefahren aus dem In- und Ausland abwehren?",
+      "url": "https://www.dw.com/de/zeitenwende-bei-polizei-und-geheimdiensten-aber-wie/a-79934681?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-13T05:11:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Jensen Huang: Spionageaffäre und Affären: Nvidia verliert seinen Star-CEO",
+      "summary_original": "Jensen Huang, der Nvidia zum Weltmarktführer bei KI-Chips gemacht hat, tritt als CEO zurück. Wie wirkt sich der Abgang dieser Leitfigur auf das Unternehmen und den KI-Wettlauf der USA mit China aus?",
+      "url": "https://www.dw.com/de/jensen-huang-spionageaffäre-und-affären-nvidia-verliert-seinen-star-ceo/a-79933045?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-13T01:26:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "UN-Klimakonferenz: In Antalya kämpft die Weltgemeinschaft um Aufmerksamkeit für die Klimakrise - der deutsche Bundeskanzler fährt nicht in die Türkei",
+      "summary_original": "Trotz Nationalismus und Populismus: In der Türkei hat diese Woche die UN-Klimakonferenz COP31 begonnen. Bundeskanzler Friedrich Merz nimmt nicht daran teil.",
+      "url": "https://www.dw.com/de/un-klimakonferenz-in-antalya-kämpft-die-weltgemeinschaft-um-aufmerksamkeit-für-die-klimakrise-der-deutsche-bundeskanzler-fährt-nicht-in-die-türkei/a-79926186?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-13T01:12:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Gen-Z-Proteste: Ist die ältere Generation wirklich besser dran als junge Leute?",
+      "summary_original": "Mieten, Bildung, Klimawandel: Junge Deutsche geht wegen düsterer Zukunftsaussichten auf die Straße. Die Babyboomer gelten ihnen oft als Bremser von Lösungen. Doch Daten zeigen: Auch Ältere leiden unter den Krisen.",
+      "url": "https://www.dw.com/de/gen-z-proteste-ist-die-ältere-generation-wirklich-besser-dran-als-junge-leute/a-79874373?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-13T01:10:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Nvidia-Chef Jensen Huang tritt nach Affären zurück",
+      "summary_original": "Der CEO des wichtigsten Herstellers für KI-Prozessoren räumt seinen Stuhl. Auch wenn das US-Unternehmen offiziell keine Gründe nennt, ist die Sachlage klar. Im Kongress in Washington dürfte ein Nachspiel folgen.",
+      "url": "https://www.dw.com/de/nvidia-chef-jensen-huang-tritt-nach-affären-zurück/a-79932950?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-13T00:35:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Iran: Repressionen reichen bis ins Exil",
+      "summary_original": "Beschlagnahmtes Vermögen, gesperrte Bankkonten und Drohungen gegenüber Familienangehörigen: Iranische Journalistinnen und Journalisten stehen unter Druck, auch wenn sie im Ausland leben.",
+      "url": "https://www.dw.com/de/iran-repressionen-reichen-bis-ins-exil/a-79930661?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-12T23:05:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Serbien gegen Deutschland: Spiel im fast leeren \"Marakana\" von Belgrad",
+      "summary_original": "Wegen rassistischer Vorfälle und einer UEFA-Strafe empfängt Serbien Deutschland in der Nations League zu einem \"Geisterspiel\". Nun muss sich zeigen, ob der Mythos vom Heimvorteil im Belgrader Hexenkessel trägt.",
+      "url": "https://www.dw.com/de/serbien-gegen-deutschland-spiel-im-fast-leeren-marakana-von-belgrad/a-79928801?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-12T22:38:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Gespräche in Abu Dhabi: Was haben sie der Ukraine gebracht?",
+      "summary_original": "Die ersten trilateralen Gespräche zwischen der Ukraine, den USA und Russland seit neun Monaten endeten mit einer Einigung über einen Gefangenenaustausch. Ist das Ergebnis ein echter Erfolg und ein Schritt zum Frieden?",
+      "url": "https://www.dw.com/de/gespräche-in-abu-dhabi-was-haben-sie-der-ukraine-gebracht/a-79927783?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-12T21:07:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Zidane nach WM-Eklat am Pranger: Materazzi erhebt schwere Vorwürfe und zieht tragische Parallele",
+      "summary_original": "Vor dem Nations-League-Spiel zwischen Frankreich und Italien blickt Marco Materazzi auf den Eklat von 2006 zurück. Über Zidane findet er heute aber auch anerkennende Worte.",
+      "url": "https://www.n-tv.de/sport/fussball/Materazzi-erhebt-schwere-Vorwuerfe-und-zieht-tragische-Parallele-id31527515.html",
+      "published": "2026-11-13T05:48:03+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Bundeswehr zieht Konsequenzen: Cyberangriff durch \"feindliche Akteure\" auf deutsche Rüstungsfirma Quantum Systems",
+      "summary_original": "Immer wieder haben in den vergangenen Wochen größere Hackerangriffe für Aufsehen gesorgt. Nun kommt heraus, dass es auch eine Rüstungsfirma aus Deutschland getroffen hat. Die Bundeswehr sieht sich offenbar zum Handeln gezwungen.",
+      "url": "https://www.n-tv.de/politik/Cyberangriff-durch-feindliche-Akteure-auf-deutsche-Ruestungsfirma-id31528383.html",
+      "published": "2026-11-13T05:44:37+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "\"Völlig am Thema vorbei\": Jürgen Klopp ärgert sich über Mohya-Schlagzeile",
+      "summary_original": "Bundestrainer Jürgen Klopp nominiert das Gladbacher Ausnahmetalent Wael Mohya. Für einen Platz im Kader reicht es aber, wie abgesprochen, noch nicht. Klopp beklagt sich über die Schlagzeile zum Verzicht auf Mohya.",
+      "url": "https://www.n-tv.de/sport/fussball/Juergen-Klopp-aergert-sich-ueber-Mohya-Schlagzeile-id31528252.html",
+      "published": "2026-11-13T05:20:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Kampf gegen die Mullahs: Zum Tode verurteilter iranischer Boxer mit Menschenrechtspreis geehrt",
+      "summary_original": "Wie so viele Iraner protestiert Javad Vafaei-Sani gegen das klerikale Unrechts-Regime, das das Land im Würgegriff hält. Dafür wird der Boxer zum Tode verurteilt. Jetzt erhält er einen Menschenrechtspreis.",
+      "url": "https://www.n-tv.de/sport/Zum-Tode-verurteilter-iranischer-Boxer-mit-Menschenrechtspreis-geehrt-id31528334.html",
+      "published": "2026-11-13T04:56:58+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Kampf der (zu) alten Giganten: Teddy Atlas fürchtet \"brutale\" Box-Orgie",
+      "summary_original": "Wenn die Box-Superstars Tyson Fury und Anthony Joshua in einem Monat endlich kämpfen, sind beide nicht mehr im Zenit. Doch genau deshalb könnte die Battle of Britain ein Spektakel à la Muhammadl Ali und Joe Frazier werden.",
+      "url": "https://www.n-tv.de/sport/Teddy-Atlas-fuerchtet-brutale-Box-Orgie-id31527796.html",
+      "published": "2026-11-13T04:56:23+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Schlechtes Benehmen auf Friedhof: Hegseth zeichnet Soldaten aus, der ihn angeschnauzt hat",
+      "summary_original": "Ausgerechnet Pete Hegseth und seine Begleiter werden auf dem Nationalfriedhof in Arlington von einem Soldaten zurechtgewiesen. Für den US-Verteidigungsminister ein peinlicher Moment. Der Wachmann wird anschließend von ihm ausgezeichnet.",
+      "url": "https://www.n-tv.de/politik/Hegseth-zeichnet-Soldaten-aus-der-ihn-angeschnauzt-hat-id31528221.html",
+      "published": "2026-11-13T04:55:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Zocken statt Arbeit: Personaldisponenten melden zum GTA-VI-Start auffällig viele Urlaubsanträge",
+      "summary_original": "Der trübe November zählt nicht zu den klassischen Urlaubsmonaten. Doch pünktlich zur Veröffentlichung des Videospiels Grand Theft Auto VI geht bei vielen Arbeitgebern offenbar eine auffällig hohe Zahl an Urlaubsanträgen ein. Das zeigen Daten von Personalsoftware-Anbietern.",
+      "url": "https://www.n-tv.de/wirtschaft/Personaldisponenten-melden-zum-GTA-VI-Start-auffaellig-viele-Urlaubsantraege-id31528105.html",
+      "published": "2026-11-13T04:23:41+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "\"Hab mir nichts dabei gedacht\": Polarisierender DFB-Star: Jürgen Klopp einigt sich mit Felix Nmecha",
+      "summary_original": "Felix Nmecha und sein umstrittener Jubel beherrschen seit Tagen die Medien. Auch beim DFB ist die \"Kronen\"-Geste des BVB-Stars Thema. Jürgen Klopp erklärt, wie das Gespräch mit Nmecha gelaufen ist und welche Konsequenzen es gibt.",
+      "url": "https://www.n-tv.de/sport/fussball/Polarisierender-DFB-Star-Juergen-Klopp-einigt-sich-mit-Felix-Nmecha-id31528152.html",
+      "published": "2026-11-13T03:54:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Ich kenne Proleten, die sich besser benehmen als Sie“, sagt Jörg Thadeusz über Alice Weidel",
+      "summary_original": "RBB-Journalist Thadeusz kritisiert den öffentlich-rechtlichen Rundfunk für seine Haltung zum Publikum. Für Interviews mit Politikern fordert er klarere Grenzen. Alice Weidel hätte er aus dem ZDF-Sommerinterview geschickt.",
+      "url": "https://www.welt.de/vermischtes/article6af6097fa71f2d009ec9c4d2/nzz-machtspiel-ich-kenne-proleten-die-sich-besser-benehmen-als-sie-sagt-joerg-thadeusz-ueber-alice-weidel.html",
+      "published": "2026-11-13T05:42:30+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Deutscher Drohnenhersteller meldet Hackerangriff durch „feindliche Akteure“",
+      "summary_original": "Der Cyberangriff auf Quantum Systems betrifft einen wichtigen Lieferanten für die Ukraine. Die Bundeswehr zog laut „Financial Times“ Drohnen des Unternehmens vorsorglich aus dem Verkehr.",
+      "url": "https://www.welt.de/politik/ausland/article6af61e5dd03b96b78bace121/quantum-systems-deutscher-drohnenhersteller-meldet-hackerangriff-durch-feindliche-akteure.html",
+      "published": "2026-11-13T05:36:06+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "In einer Frage sieht Merz jetzt Putin am Zug – Kreml vergleicht Europäer mit „Spinnen in einem Glas“",
+      "summary_original": "Nach seinem Treffen mit Putin spricht US-Gesandter Witkoff von Fortschritten und einem neuen Termin. Innerhalb Europas entfacht sich ein Streit um einen gemeinsamen Ukraine-Unterhändler.",
+      "url": "https://www.welt.de/politik/ausland/article6af61a9450175c81de7a45e2/ukraine-gespraeche-in-einer-frage-sieht-merz-jetzt-putin-am-zug-kreml-vergleicht-europaeer-mit-spinnen-in-einem-glas.html",
+      "published": "2026-11-13T05:17:59+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Er ist zutiefst betroffen“, sagt der Trainer nach dem tödlichen Zusammenstoß seines Keepers",
+      "summary_original": "Der spanische Fußballer Jesús de Miguel ist nach einem Foul von Torwart Jesús Owono gestorben. Nun gibt der Trainer Einblicke in die Gefühle seines Keepers. Der Zeitpunkt von Owonos Rückkehr zum Team ist ungewiss.",
+      "url": "https://www.welt.de/sport/fussball/article6af5ef2050175c81de7a417a/jesus-de-miguel-30-zutiefst-betroffen-trainer-spricht-ueber-gefuehle-von-torwart-owono.html",
+      "published": "2026-11-13T05:02:46+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Gegenkandidat zu Infantino? Macron springt Wenger zur Seite, doch es gibt Bedenken",
+      "summary_original": "Emmanuel Macron macht sich für eine Kandidatur von Arsène Wenger auf das Amt des Fifa-Präsidenten stark. Der französische Präsident hat seine Unterstützung angeboten – doch es gibt Vorbehalte.",
+      "url": "https://www.welt.de/sport/fussball/article6af60f6450175c81de7a456b/fifa-gegenkandidat-zu-infantino-macron-springt-wenger-zur-seite-doch-es-gibt-bedenken.html",
+      "published": "2026-11-13T04:59:25+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Urlaubsanträge schießen zum GTA-VI-Start in die Höhe – Konsolen-Traffic zeitweise verzehnfacht",
+      "summary_original": "Personalsoftware-Anbieter melden zum Spielstart am 19. November deutlich mehr Urlaubsanträge, in Deutschland ein Plus von 38 Prozent. Am häufigsten nimmt sich eine bestimmte Gruppe frei.",
+      "url": "https://www.welt.de/wirtschaft/article6af60fe7c45061d752ba8f97/weltweite-auswertung-urlaubsantraege-schiessen-zum-gta-vi-start-in-die-hoehe-konsolen-traffic-zeitweise-verzehnfacht.html",
+      "published": "2026-11-13T04:32:49+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Vor Monaten bereits gewarnt“ – Skandal um Jensen Huang erreicht ein neues Level",
+      "summary_original": "Transatlantik-Expertin Sandra Navidi sieht bei Nvidia nach dem Rücktritt von Jensen Huang neben möglichen Folgen für den Wachstumskurs vor allem juristische und sicherheitspolitische Risiken. „Die New York Times und Bloomberg haben es schon vor einem Jahr ausgegraben.“",
+      "url": "https://www.welt.de/videos/video6af60e28c45061d752ba8f71/nvidia-chef-tritt-zurueck-vor-monaten-bereits-gewarnt-skandal-um-jensen-huang-erreicht-ein-neues-level.html",
+      "published": "2026-11-13T04:22:09+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Er will so nicht mehr jubeln“ – Klopp enthüllt Nmecha-Entscheidung",
+      "summary_original": "Vor dem Spiel in Serbien wird Jürgen Klopp zum Wirbel um Felix Nmechas Torjubel befragt. Er habe den BVB-Spieler konfrontiert, sagt der Bundestrainer. Ergebnis: Nmecha wird auf seine umstrittene Geste in Zukunft wohl verzichten.",
+      "url": "https://www.welt.de/sport/fussball/article6af606c450175c81de7a44f3/juergen-klopp-enthuellt-entscheidung-bei-felix-nmecha-er-will-so-nicht-mehr-jubeln.html",
+      "published": "2026-11-13T04:07:24+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Wohnungsbau: „Mieten deutlich günstiger“ – Bundesbaugesellschaft soll rasch starten",
+      "summary_original": "Die Regierung macht Ernst mit einer Entlastung deutscher Ballungsräume beim Bau bezahlbarer Mietwohnungen. Mit ihr soll auch ein Standortproblem für die Wirtschaft verhindert werden.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/immobilien-bundesbaugesellschaft-fuer-guenstigen-wohnraum-soll-rasch-starten/100269519.html",
+      "published": "2026-11-13T05:55:54+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Rüstungs-Start-up: Drohnenhersteller Quantum Systems meldet massiven Cyberangriff",
+      "summary_original": "Der Drohnenhersteller aus Bayern meldet einen Angriff durch „feindliche Akteure“. Laut einem Medienbericht hat die Bundeswehr Drohnen des Unternehmens vorsorglich aus dem Verkehr gezogen.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/quantum-systems-drohnenhersteller-meldet-massiven-cyberangriff/100269533.html",
+      "published": "2026-11-13T05:46:19+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Börse: Weniger Fasern, mehr Marge: Das spricht für die Aktie des Faserherstellers Lenzing",
+      "summary_original": "Im Oktober musste das Unternehmen erneut Geld einsammeln. Dabei verdient Lenzing besser und könnte Millionen aus Lager und offenen Rechnungen heben. Analysten sehen Aufwärtspotenzial.",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/aktien/boerse-weniger-fasern-mehr-marge-das-spricht-fuer-die-lenzing-aktie/100269243.html",
+      "published": "2026-11-13T04:43:46+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Kommentar: Der Megastreik der IG Metall bringt nur Vertrauensverlust",
+      "summary_original": "Die Gewerkschaft setzt auf Eskalation und fordert Garantien für Werke am Standort Deutschland. Doch Firmen, die um ihre Existenz kämpfen, kann man nicht erpressen – dafür weiter schädigen.",
+      "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-der-megastreik-der-ig-metall-bringt-nur-vertrauensverlust/100269353.html",
+      "published": "2026-11-13T04:03:47+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Wall Street: Nvidia-Aktie im Minus – US-Börsen erholen sich",
+      "summary_original": "Die neuen Enthüllungen über Nvidia-Chef Jensen Huang und sein Abgang kosten Aktionäre des Chipherstellers Milliarden. Doch die Verluste fallen geringer aus als in der Vorwoche.",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nvidia-aktie-im-minus-us-boersen-erholen-sich/100269457.html",
+      "published": "2026-11-13T03:51:14+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Nvidia: Huang und Huang: Eine Liebesaffäre von geopolitischer Dimension",
+      "summary_original": "Der Rücktritt von Jensen Huang markiert eine Wende im Kampf um Amerikas Chinapolitik: Die Ära der freigiebigen Chip-Exporte könnte enden. Wie eine Liaison zur Staatsaffäre wurde.",
+      "url": "https://www.handelsblatt.com/politik/international/nvidia-eine-liebesaffaere-von-geopolitischer-dimension/100269408.html",
+      "published": "2026-11-13T03:34:16+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Geldpolitik: Merz will das zweitwichtigste Amt bei der EZB – und Macron könnte mitspielen",
+      "summary_original": "Unter Zeitdruck verhandeln die Euro-Staaten über die Neubesetzung der EZB‑Spitze. Nun deutet sich ein möglicher Deal zwischen dem Bundeskanzler und Frankreichs Staatschef an.",
+      "url": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-merz-will-das-zweitwichtigste-amt-macron-koennte-mitspielen/100269428.html",
+      "published": "2026-11-13T02:31:10+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "KI-Aktien: „Ein dunkles Kapitel für Nvidia“ – Analysten bewerten Aktie neu",
+      "summary_original": "Nach dem Rücktritt von Nvidia-Chef Huang bricht die Aktie ein. Analysten müssen sich nun auf eine neue Ära beim größten Chipkonzern einstellen.",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/geldanlage-dunkles-kapitel-fuer-nvidia-analysten-bewerten-aktie-neu/100269354.html",
+      "published": "2026-11-13T02:23:52+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Werke von Sexualstraftäter ausgestellt – Wiener Aktionismus Museum schließt",
+      "summary_original": "Otto Muehl war drastischer Aktionskünstler – und verurteilt wegen Missbrauch und Vergewaltigung. Ein Wiener Museum, das Werke von Muehl zeigt, kündigte nun die Schließung an. Die Präsentation sei »nicht mehr tragfähig«.",
+      "url": "https://www.spiegel.de/kultur/werke-von-sexualstraftaeter-ausgestellt-wiener-aktionismus-museum-schliesst-a-5348639d-9deb-47bb-bfc1-96298f8d7a7e#ref=rss",
+      "published": "2026-11-13T06:04:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Israel verbietet Jean-Luc Mélenchon wegen antiisraelischer Haltung Einreise",
+      "summary_original": "Wegen »Ritualmordlegenden gegen Israel« hat Außenminister Gideon Sa’ar dem französischen Präsidentschaftskandidaten Jean-Luc Mélenchon die Einreise verboten. Der reagiert trotzig.",
+      "url": "https://www.spiegel.de/ausland/israel-verbietet-jean-luc-melenchon-wegen-antiisraelischer-haltung-einreise-a-61502964-7e0f-412a-9b40-b41a9754bf01#ref=rss",
+      "published": "2026-11-13T05:54:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Bundeswehr startet Onlineshop – und verkauft Badeenten mit Sturmgewehr",
+      "summary_original": "Im Angebot sind Vollmilchschokolade, Hoodies und Federtiere in Flecktarn: Die Bundeswehr verkauft nun Merch im eigenen Onlineshop. Zum Start gab es Kritik von der Linken. Und Server, die dem Ansturm nicht standhielten.",
+      "url": "https://www.spiegel.de/wirtschaft/bundeswehr-startet-onlineshop-und-verkauft-badeenten-mit-sturmgewehr-a-3435b089-f352-422c-b8eb-dbaa414a0211#ref=rss",
+      "published": "2026-11-13T05:41:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Massiver Cyberangriff auf deutschen Drohnenhersteller Quantum Systems",
+      "summary_original": "Unbekannten ist es gelungen, ein Schadprogramm auf einem internen Updateserver des Drohnenherstellers Quantum Systems zu deponieren, einem Lieferanten der Bundeswehr. Dort nimmt man den Vorfall sehr ernst.",
+      "url": "https://www.spiegel.de/politik/massiver-cyberangriff-auf-drohnenhersteller-quantum-systems-a-354b0289-2281-4af6-a532-ee03b45d8b30#ref=rss",
+      "published": "2026-11-13T05:05:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Uno-Klimagipfel in der Türkei: Elektrifizierung als Schlüssel zum Klimaschutz",
+      "summary_original": "Autos, Heizungen, Industrie: Die Welt soll elektrischer werden, so will es die türkische Präsidentschaft der Weltklimakonferenz. Das ist nicht nur eine technische Frage, sondern vor allem auch eine politische – besonders in Deutschland.",
+      "url": "https://www.spiegel.de/wissenschaft/uno-klimagipfel-in-der-tuerkei-elektrifizierung-als-schluessel-zum-klimaschutz-a-e1471386-d2ab-489f-8a42-563fa7a67075#ref=rss",
+      "published": "2026-11-13T04:51:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "»Königreich Deutschland«: Prozess gegen Fantasiekönig Peter Fitzek beginnt - SPIEGEL TV",
+      "summary_original": "»König Peter« verachtet die Bundesrepublik, jetzt muss er sich vor Gericht verantworten. Es geht um illegale Bankgeschäfte, Betrug und Steuerhinterziehung. Was sagt er zu den Vorwürfen der Anklage?",
+      "url": "https://www.spiegel.de/panorama/justiz/koenigreich-deutschland-prozess-gegen-fantasiekoenig-peter-fitzek-beginnt-spiegel-tv-a-dcda6945-936d-4afe-bb1a-8cf923c2e361#ref=rss",
+      "published": "2026-11-13T04:50:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Gaza: Mehrere Tote nach israelischem Angriff auf Nasser-Krankenhaus",
+      "summary_original": "Israels Armee hat einen Angriff auf das Nasser-Krankenhaus im südlichen Gazastreifen ausgeführt, man habe einen Hamas-Anführer treffen wollen. Die Hamas spricht ihrerseits von einem »Kriegsverbrechen«. Sechs Menschen wurden demnach getötet, Dutzende verletzt.",
+      "url": "https://www.spiegel.de/ausland/gaza-mehrere-tote-nach-israelischem-angriff-auf-nasser-krankenhaus-a-38b81b5b-b4ea-4d0b-978c-b50bf1a43084#ref=rss",
+      "published": "2026-11-13T04:49:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Friedrich Merz: Kann ihr Kanzler gut verhandeln? Eher nicht, finden sie in der CDU",
+      "summary_original": "Friedrich Merz hat sich festgelegt: Die Senkung der Stromsteuer für alle soll kommen. Doch es fehlt die Finanzierung, die SPD lässt den Kanzler auflaufen. In der eigenen Partei wachsen schon wieder Wut und Frust über den Chef.",
+      "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-kann-ihr-kanzler-gut-verhandeln-eher-nicht-finden-sie-in-der-cdu-a-30ef26a9-93f9-4714-84ad-8f353e28d4fc#ref=rss",
+      "published": "2026-11-13T04:02:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Nmechas Jubelgeste: Klopp und der Belgrader Religionsfriede",
+      "summary_original": "Über die Woche mit der Nationalmannschaft gibt es für Jürgen Klopp zwei Geschichten zu erzählen. Die erste handelt er geschäftsmäßig ab. Bei der zweiten, über Felix Nmecha, holt er weiter aus.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/fall-felix-nmecha-juergen-klopp-und-der-religionsfriede-von-belgrad-201678752.html",
+      "published": "2026-11-13T05:58:02+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Drohnenhersteller: Cyberangriff auf Quantum Systems",
+      "summary_original": "Der deutsche Drohnenhersteller Quantum Systems ist Opfer eines Cyberangriffs geworden. Die Bundeswehr soll umgehend reagiert haben.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/quantum-systems-cyberangriff-auf-deutschen-drohnenhersteller-201678896.html",
+      "published": "2026-11-13T05:38:43+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Streit über Ukraine: Mit Fäkalsprache gegen Merz",
+      "summary_original": "Der Kanzler fordert Unterstützung für Kiew. Der slowakische Ministerpräsident wettert dagegen. Prag und Budapest dagegen punkten mit diskreter Diplomatie.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/robert-fico-attackiert-friedrich-merz-wir-werden-uns-nicht-einkacken-201676422.html",
+      "published": "2026-11-13T05:07:39+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Götz Aly in Schule: Die Zwischenwelt des Nationalsozialismus ausleuchten",
+      "summary_original": "Götz Aly diskutiert in Kronberg mit Schülern über die richtige Form der Erinnerung. Pflichtbesuche in Konzentrationslagern genügten nicht, sagt der Historiker. Er fordert, den Blick auf die breite Masse zu lenken.",
+      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/distanzierte-erinnerung-historiker-goetz-aly-zu-kz-besuchen-von-schulklassen-201675580.html",
+      "published": "2026-11-13T05:04:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Thüringen: Und jetzt: Fünfzehn Minuten für die Verfassung",
+      "summary_original": "In Thüringen sollen Schüler aktuelle Themen im Licht des Grundgesetzes diskutieren. Wie die „Verfassungsviertelstunde“ funktioniert, zeigt eine Klasse in Erfurt.",
+      "url": "https://www.faz.net/aktuell/politik/inland/verfassungsviertelstunde-christian-tischners-idee-fuer-thueringens-schulen-201676423.html",
+      "published": "2026-11-13T04:37:33+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Nervenkitzel: Wenn aus Krawallen ein Event wird",
+      "summary_original": "Die Krawalle im Zuge der Gen-Z-Demonstration zogen nicht nur Randalierer, sondern auch Schaulustige an. Eine forensische Psychologin ordnet ein.",
+      "url": "https://www.faz.net/aktuell/politik/inland/krawalle-als-event-eine-psychologin-ueber-das-sensation-seeking-201659488.html",
+      "published": "2026-11-13T04:36:17+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Koalition: Die CDU sieht ihrem Niedergang tatenlos zu",
+      "summary_original": "Die SPD lässt den Kanzler auflaufen. Das ist eine Antwort auf die Vertrauensfrage, ohne dass sie gestellt werden müsste.",
+      "url": "https://www.faz.net/aktuell/politik/inland/cdu-kann-stromsteuer-nicht-senken-wie-lange-laesst-sich-merz-von-der-spd-vorfuehren-201676923.html",
+      "published": "2026-11-13T04:22:26+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Haushaltsstreit: „Wir kommen in die Hitzezone der Koalition“",
+      "summary_original": "Die Einigung auf den nächsten Haushalt rückt näher. Doch vor allem der CDU fehlen große Reformschritte. Das sorgt für eine wilde Sitzung der Unionsfraktion.",
+      "url": "https://www.faz.net/aktuell/politik/inland/haushaltskrach-in-der-unionsfraktion-kommt-die-stromsteuer-doch-noch-201676500.html",
+      "published": "2026-11-13T04:18:32+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Jürgen Klopp zu Felix Nmecha: „Deswegen wird er so nicht mehr jubeln“",
+      "summary_original": "Am Abend vor dem Nationsleague-Spiel in Belgrad gibt Bundestrainer Jürgen Klopp Einblicke in die Hintergründe zu Felix Nmechas umstrittener Kronen-Geste – und ein offenbar klärendes Gespräch.",
+      "url": "https://www.sueddeutsche.de/sport/klopp-nmecha-gespraech-serbien-deutschland-li.3579648",
+      "published": "2026-11-13T05:59:03+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Chip-Konzern: Colette Kress: Was über die neue Nvidia-Chefin bekannt ist",
+      "summary_original": "Einst ging sie auf Anraten ihrer Söhne zu der damals noch vor allem bei Gamern beliebten Firma. Jetzt leitet sie den Chip-Konzern interimistisch.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/colette-kress-nvidia-jensen-huang-portraet-chip-konzern-donald-trump-li.3579740",
+      "published": "2026-11-13T05:03:08+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Autoindustrie: Mercedes stoppt alle Investitionen in Deutschland und droht mit Werkschließungen",
+      "summary_original": "Als Grund nennt der Vorstand, dass bisher keine Einigung mit dem Betriebsrat über längere Arbeitszeiten und weniger Gehalt erzielt werden konnte.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/mercedes-investitionsstopp-werkschliessungen-ig-metall-betriebsrat-li.3579730",
+      "published": "2026-11-13T03:20:47+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Atmosphärenphysik: Polarwirbel jetzt schon zusammengebrochen: Was ist da los?",
+      "summary_original": "Die Luftzirkulation über dem Nordpol ist zeitweise zum Erliegen gekommen – so früh in der Saison wie noch nie. Wie es dazu kam und ob es etwas für den Winter bedeutet.",
+      "url": "https://www.sueddeutsche.de/wissen/polarwirbel-nordpol-stratosphaere-kaelteeinbruch-atmosphaerenphysik-winter-li.3578700",
+      "published": "2026-11-13T00:46:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Russland und die Eishockey-WM: Bundesregierung knickt in der Visa-Frage ein",
+      "summary_original": "Während Kanada russischen Sportlern die Einreise untersagt, positioniert sich die deutsche Bundesregierung mit Blick auf die Heim-WM deutlich anders. Die Verweigerung von Visa sei „keine Lösung“.",
+      "url": "https://www.sueddeutsche.de/sport/eishockey-wm-russland-kanada-visa-boykott-li.3579408",
+      "published": "2026-11-13T00:24:58+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Altern: Ohne Kollagen-Abo bist du verloren",
+      "summary_original": "Vierzigjährige gehen in Serien als Mittzwanziger durch, Teenager werden von Erwachsenen gespielt: Über eine Kultur, die von Frauen offenbar vor allem eines will – sie weiterhin mit ihrem Äußeren beschäftigt halten.",
+      "url": "https://www.sueddeutsche.de/kultur/altern-film-serien-frauen-pro-aging-li.3553208",
+      "published": "2026-11-13T00:10:32+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Newsblog zur Bundespolitik: Bundestag beschließt Kita-Startchancengesetz mit Sprachtests",
+      "summary_original": "Es soll auch mehr Personal für Kitas in schwierigen Lagen geben. Kritiker fordern dafür mehr Geld. Die zuständigen Länder wollen dem Gesetz so offenbar nicht zustimmen.",
+      "url": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-kitas-startchancengesetz-sprachtests-personal-bundestag-li.3568524",
+      "published": "2026-11-12T23:53:09+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Chip-Konzern: Nvidia-Chef Huang tritt zurück",
+      "summary_original": "Nach einer Affäre mit einer mutmaßlichen Spionin und Berichten über eine weitere Beziehung muss der Konzernchef gehen. Übergangsweise soll die bisherige Finanzchefin Colette Kress die Geschäfte führen. Der Aktienkurs sackt ab.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/nvidia-huang-affaere-aktie-absturz-nachfolgerin-li.3579215",
+      "published": "2026-11-12T23:47:25+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Auszeichnungen: Söder über Spider Murphy Gang: Münchner Lebensgefühl",
+      "summary_original": "",
+      "url": "https://www.zeit.de/news/2026-11/12/soeder-ueber-spider-murphy-gang-muenchner-lebensgefuehl",
+      "published": "2026-11-13T05:56:48+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Fotografie: Bilder des Tages",
+      "summary_original": "",
+      "url": "https://www.zeit.de/news/2026-11/12/bilder-des-tages",
+      "published": "2026-11-13T05:40:20+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Regierung in der Krise: Niederlande: Regierungskrise eskaliert",
+      "summary_original": "",
+      "url": "https://www.zeit.de/news/2026-11/12/niederlande-regierungskrise-eskaliert",
+      "published": "2026-11-13T05:39:22+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Gipfel in Dublin: Europäer benennen vorerst keinen Ukraine-Chefverhandler",
+      "summary_original": "",
+      "url": "https://www.zeit.de/news/2026-11/12/trumps-abgesandte-mit-heikler-botschaft-bei-putin",
+      "published": "2026-11-13T05:34:33+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Felix Nmecha: Klopp einigt sich mit Nmecha auf Verzicht auf umstrittenen Torjubel",
+      "summary_original": "Nach Kritik am Torjubel von Felix Nmecha sieht der Bundestrainer die Sache geklärt. Im Spiel gegen Serbien werde der Fußballer die umstrittene Geste nicht zeigen.",
+      "url": "https://www.zeit.de/sport/2026-11/felix-nmecha-kronen-torjubel-juergen-klopp-ballers-in-god",
+      "published": "2026-11-13T05:24:44+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Mehrere Fahrzeuge beteiligt: B31 am Bodensee nach Unfall mit Verletzten gesperrt",
+      "summary_original": "",
+      "url": "https://www.zeit.de/news/2026-11/12/b31-am-bodensee-nach-unfall-mit-verletzten-gesperrt",
+      "published": "2026-11-13T05:20:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "DHB-Pokal: Flensburgs Handballer drehen Pokalspiel nach der Pause",
+      "summary_original": "",
+      "url": "https://www.zeit.de/news/2026-11/12/flensburgs-handballer-drehen-pokalspiel-nach-der-pause",
+      "published": "2026-11-13T05:15:29+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "«Cybersicherheitsvorfall»: Drohnenhersteller Quantum Systems meldet Cyberangriff",
+      "summary_original": "",
+      "url": "https://www.zeit.de/news/2026-11/12/drohnenhersteller-quantum-systems-meldet-cyberangriff",
+      "published": "2026-11-13T05:03:57+09:00",
+      "via": "rss",
+      "state_media": false
+    }
+  ],
+  "unavailable_sources": [],
+  "errors": {}
+}
