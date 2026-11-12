@@ -1,0 +1,1395 @@
+{
+  "team": "de",
+  "headlines": [
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Bayerischer Drohnenhersteller Quantum Systems meldet Cyberangriff",
+      "title_ko": "바이에른 드론업체 퀀텀 시스템즈, 사이버 공격 피해 신고",
+      "summary_ko": "바이에른의 방산업체 퀀텀 시스템즈가 자사 발표에 따르면 사이버 공격을 당했다. 사건은 10월에 발생했으며, 한 언론 보도에 따르면 연방군이 이미 대응에 나섰다.",
+      "url": "https://www.tagesschau.de/inland/quantum-systems-cyberangriff-100.html",
+      "published": "2026-11-13T06:09:07+09:00",
+      "tags": [
+        "industry",
+        "geopolitics"
+      ],
+      "event": "quantum-systems-cyberattack",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "tagesschau in 100 Sekunden",
+      "title_ko": "타게스샤우 100초 뉴스",
+      "summary_ko": "타게스샤우 100초 뉴스 (제목 외 세부 내용 없음).",
+      "url": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1682924.html",
+      "published": "2026-11-13T06:06:27+09:00",
+      "tags": [],
+      "event": "tagesschau-100-sekunden",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "tagesschau 20:00 Uhr",
+      "title_ko": "타게스샤우 20시 뉴스",
+      "summary_ko": "기민·기사연합과 사민당의 2027년 연방예산 공방, 더블린 유럽정치공동체 정상회의, 엔비디아 CEO 황의 스파이 사건 후 사임, 메르세데스-벤츠의 독일 사업장 투자 중단 방침, 2026년 채무자 지도상 독일 내 채무자 증가, 네이션스리그, 날씨를 다뤘다.",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1682890.html",
+      "published": "2026-11-13T04:50:06+09:00",
+      "tags": [
+        "legislation",
+        "business",
+        "geopolitics"
+      ],
+      "event": "tagesschau-20-uhr-bulletin",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Finale Verhandlungen um Bundeshaushalt 2027",
+      "title_ko": "2027년 연방예산 최종 협상",
+      "summary_ko": "2027년 연방예산 최종 협상 (제목 외 세부 내용 없음).",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1682874.html",
+      "published": "2026-11-13T04:29:39+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "germany-budget-2027-coalition-dispute",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Welche Rolle spielt Europa bei den Verhandlungen um ein Ende des Ukraine-Krieges?",
+      "title_ko": "우크라이나 전쟁 종식 협상에서 유럽의 역할은?",
+      "summary_ko": "우크라이나 전쟁 종식 협상에서 유럽이 어떤 역할을 하는지에 관한 보도 (제목 외 세부 내용 없음).",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1682876.html",
+      "published": "2026-11-13T04:29:38+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-peace-talks",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Nvidia-Chef Huang tritt wegen brisanter Liebesaffäre zurück",
+      "title_ko": "엔비디아 CEO 황, 파문 일으킨 연애 사건으로 사임",
+      "summary_ko": "엔비디아 CEO 황이 파문을 일으킨 연애 사건으로 사임했다 (제목 외 세부 내용 없음).",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1682878.html",
+      "published": "2026-11-13T04:29:20+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "nvidia-huang-resignation",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Im Stadtteil Brooklyn: Tote und Verletzte nach Gebäudeeinsturz in New York",
+      "title_ko": "뉴욕 브루클린서 건물 붕괴로 사상자 발생",
+      "summary_ko": "뉴욕에서 여러 층 건물이 무너져 사망자가 최소 8명으로 늘었다. 여러 명이 잔해 속에 갇혀 있으며, 맘다니 시장은 피해자들에게 위로를 전했다.",
+      "url": "https://www.tagesschau.de/ausland/amerika/new-york-gebaeude-einsturz-104.html",
+      "published": "2026-11-13T03:54:49+09:00",
+      "tags": [],
+      "event": "new-york-building-collapse",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Mercedes stoppt Investitionen in Deutschland - und prüft Schließungen",
+      "title_ko": "메르세데스, 독일 내 투자 중단…공장 폐쇄 검토",
+      "summary_ko": "메르세데스의 비용 절감 협상에서 해법이 보이지 않자 경영진이 독일 사업장에 대한 모든 투자를 동결하고 공장 폐쇄 검토에 나서며 압박을 높였다.",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html",
+      "published": "2026-11-13T03:44:38+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "mercedes-germany-investment-freeze",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Mercedes stoppt alle neuen Investitionen in Deutschland",
+      "title_ko": "메르세데스, 독일 내 모든 신규 투자 중단",
+      "summary_ko": "메르세데스-벤츠가 독일 내 모든 신규 투자를 중단했다. 높은 비용과 지지부진한 절감 협상을 이유로 경영진은 공장 폐쇄 가능성까지 거론했다.",
+      "url": "https://www.zdfheute.de/wirtschaft/unternehmen/mercedes-sparmassnahmen-100.html",
+      "published": "2026-11-13T06:10:00+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "mercedes-germany-investment-freeze",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Jürgen Klopps Devise: Siegen vor Kindergeschrei",
+      "title_ko": "위르겐 클롭의 원칙: 아이들 함성보다 승리",
+      "summary_ko": "네이션스리그 세르비아전의 이례적 환경이 대표팀 감독을 더 자극하고 있다. 클롭은 이어지는 네덜란드전을 일종의 결승전으로 치르고 싶어 한다.",
+      "url": "https://www.zdfheute.de/sport/fussball-nations-league-deutschland-serbien-juergen-klopp-pressekonferenz-100.html",
+      "published": "2026-11-13T06:05:00+09:00",
+      "tags": [],
+      "event": "nations-league-serbia-germany",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Lucke: Auf \"eigene Rechnung gekämpft\"",
+      "title_ko": "루케: 각자 '자기 계산으로 싸웠다'",
+      "summary_ko": "정치 전문가 알브레히트 폰 루케는 흑적 연정의 양당이 서로의 제안을 막고 있으며 당의 이익을 연정의 이익보다 앞세우고 있다고 말했다.",
+      "url": "https://www.zdfheute.de/video/heute-journal-update/sgs-lucke-goekdemir-100.html",
+      "published": "2026-11-13T05:45:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "germany-budget-2027-coalition-dispute",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Lautes Lachen am Denkmal: Pete Hegseth zurechtgewiesen",
+      "title_ko": "기념묘지서 큰 웃음: 피트 헤그세스, 지적받아",
+      "summary_ko": "알링턴에서 한 경비병이 미 국방장관 헤그세스 일행의 웃음소리를 지적했다. 이후 장관은 그 병사에게 표창을 수여했다.",
+      "url": "https://www.zdfheute.de/politik/ausland/usa-veteranentag-pete-hegseth-lachen-100.html",
+      "published": "2026-11-13T05:44:00+09:00",
+      "tags": [],
+      "event": "hegseth-arlington-reprimand",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Hodges: \"Unterhändler verstehen nicht, worum es geht\"",
+      "title_ko": "호지스: \"협상가들은 무엇이 핵심인지 모른다\"",
+      "summary_ko": "트럼프의 협상단이 푸틴을 만난 뒤 젤렌스키에게 간다. 전 미군 장성 호지스는 미국이 이미 회담에서 러시아의 시각을 받아들였다며 큰 기대를 하지 않는다.",
+      "url": "https://www.zdfheute.de/politik/ausland/ukraine-krieg-putin-verhandlungen-usa-trump-100.html",
+      "published": "2026-11-13T05:35:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-peace-talks",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Wie es nach dem Rückzug Huangs weitergehen könnte",
+      "title_ko": "황 퇴진 이후 전망",
+      "summary_ko": "스파이 의혹 사건, 몰락한 테크 스타, 비상 상황의 기업: 젠슨 황의 퇴진이 엔비디아와 AI 업계, 독일에 무엇을 의미하는지 짚었다.",
+      "url": "https://www.zdfheute.de/wirtschaft/unternehmen/nvidia-zukunft-ruecktritt-jensen-huang-100.html",
+      "published": "2026-11-13T05:26:00+09:00",
+      "tags": [
+        "business",
+        "industry"
+      ],
+      "event": "nvidia-huang-resignation",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Spionage-Affäre: Nvidia-Chef Huang tritt zurück",
+      "title_ko": "스파이 사건: 엔비디아 CEO 황 사임",
+      "summary_ko": "엔비디아 CEO 황이 중국 스파이 가능성이 있는 인물과의 연애 사건 후 자리에서 물러난다. 크레스 최고재무책임자가 임시로 맡는다.",
+      "url": "https://www.zdfheute.de/wirtschaft/unternehmen/nvidia-chef-huang-ruecktritt-100.html",
+      "published": "2026-11-13T04:56:00+09:00",
+      "tags": [
+        "business",
+        "industry"
+      ],
+      "event": "nvidia-huang-resignation",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Aktuelles zum Krieg in der Ukraine",
+      "title_ko": "우크라이나 전쟁 최신 소식",
+      "summary_ko": "러시아가 2022년 2월부터 우크라이나에 대한 침략 전쟁을 벌이고 있으며 전투가 계속되고 있다. 모든 전개를 라이브 티커로 전한다.",
+      "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
+      "published": "2026-11-13T04:47:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-war-liveblog",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Zeitenwende bei Polizei und Geheimdiensten - aber wie?",
+      "title_ko": "경찰·정보기관의 '시대전환', 어떻게?",
+      "summary_ko": "공항 드론, 인터넷 사이버 공격 등 안보 상황이 긴장돼 있다. 독일 경찰이 어떻게 대비하고 정보기관이 국내외 위협을 어떻게 막으려 하는지 다뤘다.",
+      "url": "https://www.dw.com/de/zeitenwende-bei-polizei-und-geheimdiensten-aber-wie/a-79934681?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-13T05:11:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "germany-security-agencies-overhaul",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Jensen Huang: Spionageaffäre und Affären: Nvidia verliert seinen Star-CEO",
+      "title_ko": "젠슨 황: 스파이 사건과 연애 사건…엔비디아, 스타 CEO 잃어",
+      "summary_ko": "엔비디아를 AI 칩 세계 선두로 만든 젠슨 황이 CEO에서 물러난다. 이 상징적 인물의 퇴진이 회사와 미중 AI 경쟁에 미칠 영향을 짚었다.",
+      "url": "https://www.dw.com/de/jensen-huang-spionageaffäre-und-affären-nvidia-verliert-seinen-star-ceo/a-79933045?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-13T01:26:00+09:00",
+      "tags": [
+        "business",
+        "industry",
+        "geopolitics"
+      ],
+      "event": "nvidia-huang-resignation",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "UN-Klimakonferenz: In Antalya kämpft die Weltgemeinschaft um Aufmerksamkeit für die Klimakrise - der deutsche Bundeskanzler fährt nicht in die Türkei",
+      "title_ko": "유엔 기후총회: 안탈리아서 국제사회가 기후위기 관심 확보 안간힘…독일 총리는 불참",
+      "summary_ko": "민족주의와 포퓰리즘 속에서도 이번 주 튀르키예에서 유엔 기후총회 COP31이 시작됐다. 프리드리히 메르츠 총리는 참석하지 않는다.",
+      "url": "https://www.dw.com/de/un-klimakonferenz-in-antalya-kämpft-die-weltgemeinschaft-um-aufmerksamkeit-für-die-klimakrise-der-deutsche-bundeskanzler-fährt-nicht-in-die-türkei/a-79926186?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-13T01:12:00+09:00",
+      "tags": [],
+      "event": "cop31-antalya",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Gen-Z-Proteste: Ist die ältere Generation wirklich besser dran als junge Leute?",
+      "title_ko": "Z세대 시위: 기성세대가 정말 젊은이보다 나은가?",
+      "summary_ko": "임대료, 교육, 기후변화 등 어두운 미래 전망 때문에 독일 젊은이들이 거리로 나섰다. 이들은 베이비붐 세대를 해결의 걸림돌로 보지만, 데이터는 노년층도 위기로 고통받고 있음을 보여준다.",
+      "url": "https://www.dw.com/de/gen-z-proteste-ist-die-ältere-generation-wirklich-besser-dran-als-junge-leute/a-79874373?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-13T01:10:00+09:00",
+      "tags": [],
+      "event": "gen-z-protests-germany",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Nvidia-Chef Jensen Huang tritt nach Affären zurück",
+      "title_ko": "엔비디아 CEO 젠슨 황, 연애 사건 후 사임",
+      "summary_ko": "AI 프로세서 최대 제조사의 CEO가 물러난다. 회사가 공식적으로 이유를 밝히지 않았지만 사정은 분명하며, 워싱턴 의회에서 후속 논란이 예상된다.",
+      "url": "https://www.dw.com/de/nvidia-chef-jensen-huang-tritt-nach-affären-zurück/a-79932950?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-13T00:35:00+09:00",
+      "tags": [
+        "business",
+        "industry"
+      ],
+      "event": "nvidia-huang-resignation",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Iran: Repressionen reichen bis ins Exil",
+      "title_ko": "이란: 망명지까지 미치는 탄압",
+      "summary_ko": "재산 압류, 은행 계좌 동결, 가족에 대한 위협 등 이란 언론인들은 해외에 살아도 압박을 받고 있다.",
+      "url": "https://www.dw.com/de/iran-repressionen-reichen-bis-ins-exil/a-79930661?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-12T23:05:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "iran-exiled-journalists-repression",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Serbien gegen Deutschland: Spiel im fast leeren \"Marakana\" von Belgrad",
+      "title_ko": "세르비아 대 독일: 거의 빈 베오그라드 '마라카나'서 경기",
+      "summary_ko": "인종차별 사건과 UEFA 징계로 세르비아는 네이션스리그에서 독일을 무관중 경기로 맞는다. 베오그라드 홈 이점 신화가 통할지 주목된다.",
+      "url": "https://www.dw.com/de/serbien-gegen-deutschland-spiel-im-fast-leeren-marakana-von-belgrad/a-79928801?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-12T22:38:00+09:00",
+      "tags": [],
+      "event": "nations-league-serbia-germany",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Gespräche in Abu Dhabi: Was haben sie der Ukraine gebracht?",
+      "title_ko": "아부다비 회담: 우크라이나에 무엇을 가져다줬나?",
+      "summary_ko": "9개월 만의 우크라이나·미국·러시아 첫 3자 회담이 포로 교환 합의로 끝났다. 이 결과가 진정한 성공이자 평화로의 한 걸음인지 짚었다.",
+      "url": "https://www.dw.com/de/gespräche-in-abu-dhabi-was-haben-sie-der-ukraine-gebracht/a-79927783?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-12T21:07:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-peace-talks",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Zidane nach WM-Eklat am Pranger: Materazzi erhebt schwere Vorwürfe und zieht tragische Parallele",
+      "title_ko": "월드컵 사건 후 비난받는 지단: 마테라치, 심각한 비난과 비극적 비유",
+      "summary_ko": "네이션스리그 프랑스-이탈리아전을 앞두고 마르코 마테라치가 2006년 사건을 회고했다. 그는 지단에 대해 인정하는 말도 했다.",
+      "url": "https://www.n-tv.de/sport/fussball/Materazzi-erhebt-schwere-Vorwuerfe-und-zieht-tragische-Parallele-id31527515.html",
+      "published": "2026-11-13T05:48:03+09:00",
+      "tags": [],
+      "event": "materazzi-zidane",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Bundeswehr zieht Konsequenzen: Cyberangriff durch \"feindliche Akteure\" auf deutsche Rüstungsfirma Quantum Systems",
+      "title_ko": "연방군 대응: 독일 방산업체 퀀텀 시스템즈에 '적대 세력' 사이버 공격",
+      "summary_ko": "최근 몇 주 대형 해킹 공격이 잇따른 가운데 독일 방산업체도 피해를 본 사실이 드러났다. 연방군은 조치에 나설 수밖에 없었던 것으로 보인다.",
+      "url": "https://www.n-tv.de/politik/Cyberangriff-durch-feindliche-Akteure-auf-deutsche-Ruestungsfirma-id31528383.html",
+      "published": "2026-11-13T05:44:37+09:00",
+      "tags": [
+        "industry",
+        "geopolitics"
+      ],
+      "event": "quantum-systems-cyberattack",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "\"Völlig am Thema vorbei\": Jürgen Klopp ärgert sich über Mohya-Schlagzeile",
+      "title_ko": "\"완전히 핵심을 벗어났다\": 클롭, 모햐 관련 헤드라인에 불쾌감",
+      "summary_ko": "클롭 대표팀 감독이 글라트바흐의 유망주 와엘 모햐를 소집했지만 합의대로 아직 최종 명단에는 들지 못했다. 클롭은 모햐 제외를 다룬 헤드라인에 불만을 표했다.",
+      "url": "https://www.n-tv.de/sport/fussball/Juergen-Klopp-aergert-sich-ueber-Mohya-Schlagzeile-id31528252.html",
+      "published": "2026-11-13T05:20:00+09:00",
+      "tags": [],
+      "event": "klopp-mohya",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Kampf gegen die Mullahs: Zum Tode verurteilter iranischer Boxer mit Menschenrechtspreis geehrt",
+      "title_ko": "신정 정권에 맞선 싸움: 사형 선고받은 이란 복서, 인권상 수상",
+      "summary_ko": "자바드 바파에이-사니는 이란 정권에 항의했다가 사형을 선고받았다. 그가 인권상을 받는다.",
+      "url": "https://www.n-tv.de/sport/Zum-Tode-verurteilter-iranischer-Boxer-mit-Menschenrechtspreis-geehrt-id31528334.html",
+      "published": "2026-11-13T04:56:58+09:00",
+      "tags": [],
+      "event": "iran-boxer-human-rights-award",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Kampf der (zu) alten Giganten: Teddy Atlas fürchtet \"brutale\" Box-Orgie",
+      "title_ko": "너무 늙은 거인들의 대결: 테디 아틀라스, '잔혹한' 경기 우려",
+      "summary_ko": "타이슨 퓨리와 앤서니 조슈아가 한 달 뒤 맞붙지만 둘 다 전성기가 지났다. 그 때문에 오히려 알리-프레이저 같은 명승부가 될 수 있다는 관측이다.",
+      "url": "https://www.n-tv.de/sport/Teddy-Atlas-fuerchtet-brutale-Box-Orgie-id31527796.html",
+      "published": "2026-11-13T04:56:23+09:00",
+      "tags": [],
+      "event": "fury-joshua-fight",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Schlechtes Benehmen auf Friedhof: Hegseth zeichnet Soldaten aus, der ihn angeschnauzt hat",
+      "title_ko": "묘지서 무례한 행동: 헤그세스, 자신을 꾸짖은 병사에 표창",
+      "summary_ko": "피트 헤그세스 일행이 알링턴 국립묘지에서 한 병사에게 지적을 받았다. 미 국방장관에게 민망한 순간이었으며, 이후 그 경비병은 장관에게 표창을 받았다.",
+      "url": "https://www.n-tv.de/politik/Hegseth-zeichnet-Soldaten-aus-der-ihn-angeschnauzt-hat-id31528221.html",
+      "published": "2026-11-13T04:55:01+09:00",
+      "tags": [],
+      "event": "hegseth-arlington-reprimand",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Zocken statt Arbeit: Personaldisponenten melden zum GTA-VI-Start auffällig viele Urlaubsanträge",
+      "title_ko": "일 대신 게임: GTA VI 출시 맞춰 휴가 신청 눈에 띄게 급증",
+      "summary_ko": "11월은 전통적 휴가철이 아니지만 GTA VI 출시에 맞춰 많은 고용주에게 휴가 신청이 이례적으로 많이 들어오고 있다. 인사 소프트웨어 업체 데이터에 따른 것이다.",
+      "url": "https://www.n-tv.de/wirtschaft/Personaldisponenten-melden-zum-GTA-VI-Start-auffaellig-viele-Urlaubsantraege-id31528105.html",
+      "published": "2026-11-13T04:23:41+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "gta-vi-vacation-requests",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "\"Hab mir nichts dabei gedacht\": Polarisierender DFB-Star: Jürgen Klopp einigt sich mit Felix Nmecha",
+      "title_ko": "\"아무 생각 없었다\": 논란의 대표팀 선수, 클롭과 펠릭스 은메차 합의",
+      "summary_ko": "펠릭스 은메차와 논란의 세리머니가 며칠째 언론을 장식했다. 클롭은 BVB 선수의 '왕관' 제스처에 관한 대화 내용과 그 결과를 설명했다.",
+      "url": "https://www.n-tv.de/sport/fussball/Polarisierender-DFB-Star-Juergen-Klopp-einigt-sich-mit-Felix-Nmecha-id31528152.html",
+      "published": "2026-11-13T03:54:00+09:00",
+      "tags": [],
+      "event": "nmecha-celebration-klopp",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Ich kenne Proleten, die sich besser benehmen als Sie“, sagt Jörg Thadeusz über Alice Weidel",
+      "title_ko": "\"이보다 예의 바른 상놈도 안다\": 외르크 타데우스, 알리체 바이델 비판",
+      "summary_ko": "RBB 기자 타데우스가 공영방송의 시청자 대하는 태도를 비판하고 정치인 인터뷰에 더 명확한 선을 요구했다. 그는 자신이라면 바이델을 ZDF 여름 인터뷰에서 내보냈을 것이라고 말했다.",
+      "url": "https://www.welt.de/vermischtes/article6af6097fa71f2d009ec9c4d2/nzz-machtspiel-ich-kenne-proleten-die-sich-besser-benehmen-als-sie-sagt-joerg-thadeusz-ueber-alice-weidel.html",
+      "published": "2026-11-13T05:42:30+09:00",
+      "tags": [],
+      "event": "thadeusz-weidel",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Deutscher Drohnenhersteller meldet Hackerangriff durch „feindliche Akteure“",
+      "title_ko": "독일 드론업체, '적대 세력' 해킹 공격 신고",
+      "summary_ko": "퀀텀 시스템즈에 대한 사이버 공격은 우크라이나의 주요 공급업체가 피해를 본 것이다. 파이낸셜타임스에 따르면 연방군은 예방 차원에서 이 회사 드론의 운용을 중단했다.",
+      "url": "https://www.welt.de/politik/ausland/article6af61e5dd03b96b78bace121/quantum-systems-deutscher-drohnenhersteller-meldet-hackerangriff-durch-feindliche-akteure.html",
+      "published": "2026-11-13T05:36:06+09:00",
+      "tags": [
+        "industry",
+        "geopolitics"
+      ],
+      "event": "quantum-systems-cyberattack",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "In einer Frage sieht Merz jetzt Putin am Zug – Kreml vergleicht Europäer mit „Spinnen in einem Glas“",
+      "title_ko": "메르츠 \"한 문제에선 이제 푸틴 차례\"…크렘린은 유럽을 '유리병 속 거미'에 비유",
+      "summary_ko": "위트코프 미 특사가 푸틴과의 회동 후 진전과 새 일정을 언급했다. 유럽 내부에서는 공동 우크라이나 협상 대표를 두고 논쟁이 붙었다.",
+      "url": "https://www.welt.de/politik/ausland/article6af61a9450175c81de7a45e2/ukraine-gespraeche-in-einer-frage-sieht-merz-jetzt-putin-am-zug-kreml-vergleicht-europaeer-mit-spinnen-in-einem-glas.html",
+      "published": "2026-11-13T05:17:59+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-peace-talks",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Er ist zutiefst betroffen“, sagt der Trainer nach dem tödlichen Zusammenstoß seines Keepers",
+      "title_ko": "\"깊이 충격받았다\": 치명적 충돌 후 감독이 골키퍼 심경 전해",
+      "summary_ko": "스페인 축구선수 헤수스 데 미겔이 골키퍼 헤수스 오워노의 반칙 후 숨졌다. 감독이 골키퍼의 심경을 전했으며 오워노의 팀 복귀 시점은 불확실하다.",
+      "url": "https://www.welt.de/sport/fussball/article6af5ef2050175c81de7a417a/jesus-de-miguel-30-zutiefst-betroffen-trainer-spricht-ueber-gefuehle-von-torwart-owono.html",
+      "published": "2026-11-13T05:02:46+09:00",
+      "tags": [],
+      "event": "de-miguel-death",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Gegenkandidat zu Infantino? Macron springt Wenger zur Seite, doch es gibt Bedenken",
+      "title_ko": "인판티노 대항마? 마크롱, 벵거 지지…우려도",
+      "summary_ko": "에마뉘엘 마크롱이 아르센 벵거의 FIFA 회장 출마를 지지하며 도움을 제안했지만 유보적 시각도 있다.",
+      "url": "https://www.welt.de/sport/fussball/article6af60f6450175c81de7a456b/fifa-gegenkandidat-zu-infantino-macron-springt-wenger-zur-seite-doch-es-gibt-bedenken.html",
+      "published": "2026-11-13T04:59:25+09:00",
+      "tags": [],
+      "event": "fifa-presidency-wenger",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Urlaubsanträge schießen zum GTA-VI-Start in die Höhe – Konsolen-Traffic zeitweise verzehnfacht",
+      "title_ko": "GTA VI 출시에 휴가 신청 급증…콘솔 트래픽 한때 10배",
+      "summary_ko": "인사 소프트웨어 업체들에 따르면 11월 19일 게임 출시에 맞춰 휴가 신청이 크게 늘었으며 독일에서는 38% 증가했다. 특정 집단이 가장 많이 휴가를 냈다.",
+      "url": "https://www.welt.de/wirtschaft/article6af60fe7c45061d752ba8f97/weltweite-auswertung-urlaubsantraege-schiessen-zum-gta-vi-start-in-die-hoehe-konsolen-traffic-zeitweise-verzehnfacht.html",
+      "published": "2026-11-13T04:32:49+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "gta-vi-vacation-requests",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Vor Monaten bereits gewarnt“ – Skandal um Jensen Huang erreicht ein neues Level",
+      "title_ko": "\"수개월 전 이미 경고\"…젠슨 황 스캔들 새 국면",
+      "summary_ko": "대서양 관계 전문가 잔드라 나비디는 황 사임 후 엔비디아에 성장 경로 영향 외에 법적·안보적 위험이 크다고 본다. 그는 뉴욕타임스와 블룸버그가 이미 1년 전 이를 보도했다고 말했다.",
+      "url": "https://www.welt.de/videos/video6af60e28c45061d752ba8f71/nvidia-chef-tritt-zurueck-vor-monaten-bereits-gewarnt-skandal-um-jensen-huang-erreicht-ein-neues-level.html",
+      "published": "2026-11-13T04:22:09+09:00",
+      "tags": [
+        "business",
+        "geopolitics"
+      ],
+      "event": "nvidia-huang-resignation",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Er will so nicht mehr jubeln“ – Klopp enthüllt Nmecha-Entscheidung",
+      "title_ko": "\"그렇게 다시 세리머니하지 않을 것\"…클롭, 은메차 결정 공개",
+      "summary_ko": "세르비아전을 앞두고 클롭은 은메차의 세리머니 논란에 대해 질문받고 그와 직접 대화했다고 밝혔다. 은메차는 앞으로 논란의 제스처를 하지 않을 것으로 보인다.",
+      "url": "https://www.welt.de/sport/fussball/article6af606c450175c81de7a44f3/juergen-klopp-enthuellt-entscheidung-bei-felix-nmecha-er-will-so-nicht-mehr-jubeln.html",
+      "published": "2026-11-13T04:07:24+09:00",
+      "tags": [],
+      "event": "nmecha-celebration-klopp",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Wohnungsbau: „Mieten deutlich günstiger“ – Bundesbaugesellschaft soll rasch starten",
+      "title_ko": "주택 건설: \"임대료 훨씬 저렴\"…연방건설회사 조속 출범 추진",
+      "summary_ko": "정부가 독일 대도시권의 저렴한 임대주택 건설 부담 완화에 본격 나선다. 이를 통해 경제의 입지 문제도 막으려 한다.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/immobilien-bundesbaugesellschaft-fuer-guenstigen-wohnraum-soll-rasch-starten/100269519.html",
+      "published": "2026-11-13T05:55:54+09:00",
+      "tags": [
+        "legislation",
+        "industry"
+      ],
+      "event": "federal-housing-company",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Rüstungs-Start-up: Drohnenhersteller Quantum Systems meldet massiven Cyberangriff",
+      "title_ko": "방산 스타트업: 드론업체 퀀텀 시스템즈, 대규모 사이버 공격 신고",
+      "summary_ko": "바이에른 드론업체가 '적대 세력'의 공격을 신고했다. 한 언론 보도에 따르면 연방군은 이 회사 드론의 운용을 예방적으로 중단했다.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/quantum-systems-drohnenhersteller-meldet-massiven-cyberangriff/100269533.html",
+      "published": "2026-11-13T05:46:19+09:00",
+      "tags": [
+        "industry",
+        "geopolitics"
+      ],
+      "event": "quantum-systems-cyberattack",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Börse: Weniger Fasern, mehr Marge: Das spricht für die Aktie des Faserherstellers Lenzing",
+      "title_ko": "증시: 섬유 줄이고 마진 늘린다…렌칭 주식의 매력",
+      "summary_ko": "렌칭은 10월 다시 자금을 조달해야 했다. 그러나 수익성이 개선되고 재고·미수금에서 수백만을 확보할 수 있으며, 애널리스트들은 상승 여력을 본다.",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/aktien/boerse-weniger-fasern-mehr-marge-das-spricht-fuer-die-lenzing-aktie/100269243.html",
+      "published": "2026-11-13T04:43:46+09:00",
+      "tags": [
+        "stocks"
+      ],
+      "event": "lenzing-stock",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Kommentar: Der Megastreik der IG Metall bringt nur Vertrauensverlust",
+      "title_ko": "논평: IG 금속노조 대규모 파업은 신뢰만 잃는다",
+      "summary_ko": "노조는 확전을 택하고 독일 내 공장 유지 보장을 요구하고 있다. 그러나 생존을 위해 싸우는 기업을 협박할 수는 없고 더 큰 피해만 준다는 논평이다.",
+      "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-der-megastreik-der-ig-metall-bringt-nur-vertrauensverlust/100269353.html",
+      "published": "2026-11-13T04:03:47+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "ig-metall-strike",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Wall Street: Nvidia-Aktie im Minus – US-Börsen erholen sich",
+      "title_ko": "월가: 엔비디아 주가 하락…미 증시는 반등",
+      "summary_ko": "젠슨 황에 대한 새 폭로와 퇴진으로 엔비디아 주주들이 수십억 달러 손실을 봤다. 다만 손실 폭은 지난주보다 작았다.",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nvidia-aktie-im-minus-us-boersen-erholen-sich/100269457.html",
+      "published": "2026-11-13T03:51:14+09:00",
+      "tags": [
+        "stocks"
+      ],
+      "event": "nvidia-huang-resignation",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Nvidia: Huang und Huang: Eine Liebesaffäre von geopolitischer Dimension",
+      "title_ko": "엔비디아: 황과 황, 지정학적 차원의 연애 사건",
+      "summary_ko": "젠슨 황의 사임은 미국 대중국 정책을 둘러싼 싸움의 전환점이며, 관대한 칩 수출의 시대가 끝날 수 있다. 연애가 어떻게 국가적 사건이 됐는지 다룬다.",
+      "url": "https://www.handelsblatt.com/politik/international/nvidia-eine-liebesaffaere-von-geopolitischer-dimension/100269408.html",
+      "published": "2026-11-13T03:34:16+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "nvidia-huang-resignation",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Geldpolitik: Merz will das zweitwichtigste Amt bei der EZB – und Macron könnte mitspielen",
+      "title_ko": "통화정책: 메르츠, ECB 2인자 자리 노려…마크롱 호응 가능성",
+      "summary_ko": "유로존 국가들이 시간에 쫓기며 ECB 수뇌부 교체를 협상 중이다. 독일 총리와 프랑스 대통령 간 거래 가능성이 감지된다.",
+      "url": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-merz-will-das-zweitwichtigste-amt-macron-koennte-mitspielen/100269428.html",
+      "published": "2026-11-13T02:31:10+09:00",
+      "tags": [
+        "monetary"
+      ],
+      "event": "ecb-leadership-succession",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "KI-Aktien: „Ein dunkles Kapitel für Nvidia“ – Analysten bewerten Aktie neu",
+      "title_ko": "AI 주식: \"엔비디아의 어두운 장\"…애널리스트, 주식 재평가",
+      "summary_ko": "황 CEO 사임 후 엔비디아 주가가 급락했다. 애널리스트들은 최대 칩 기업의 새 시대에 대비해야 한다.",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/geldanlage-dunkles-kapitel-fuer-nvidia-analysten-bewerten-aktie-neu/100269354.html",
+      "published": "2026-11-13T02:23:52+09:00",
+      "tags": [
+        "stocks"
+      ],
+      "event": "nvidia-huang-resignation",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Werke von Sexualstraftäter ausgestellt – Wiener Aktionismus Museum schließt",
+      "title_ko": "성범죄자 작품 전시…빈 행동주의 미술관 폐관",
+      "summary_ko": "오토 뮐은 과격한 행위예술가이자 성적 학대·강간으로 유죄 판결을 받은 인물이다. 그의 작품을 전시하는 빈 미술관이 전시가 '더 이상 지속 불가능하다'며 폐관을 발표했다.",
+      "url": "https://www.spiegel.de/kultur/werke-von-sexualstraftaeter-ausgestellt-wiener-aktionismus-museum-schliesst-a-5348639d-9deb-47bb-bfc1-96298f8d7a7e#ref=rss",
+      "published": "2026-11-13T06:04:00+09:00",
+      "tags": [],
+      "event": "vienna-actionism-museum-closure",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Israel verbietet Jean-Luc Mélenchon wegen antiisraelischer Haltung Einreise",
+      "title_ko": "이스라엘, 반이스라엘 성향 이유로 장뤼크 멜랑숑 입국 금지",
+      "summary_ko": "기드온 사르 외무장관이 '이스라엘에 대한 의식살인 전설'을 이유로 프랑스 대선 후보 장뤼크 멜랑숑의 입국을 금지했다. 멜랑숑은 반발했다.",
+      "url": "https://www.spiegel.de/ausland/israel-verbietet-jean-luc-melenchon-wegen-antiisraelischer-haltung-einreise-a-61502964-7e0f-412a-9b40-b41a9754bf01#ref=rss",
+      "published": "2026-11-13T05:54:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "israel-bans-melenchon",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Bundeswehr startet Onlineshop – und verkauft Badeenten mit Sturmgewehr",
+      "title_ko": "연방군, 온라인숍 개설…돌격소총 든 고무오리 판매",
+      "summary_ko": "밀크초콜릿, 후드티, 위장무늬 깃털인형 등 연방군이 자체 온라인숍에서 기념품을 판매한다. 개장 때 좌파당의 비판이 있었고 서버는 몰려든 접속을 감당하지 못했다.",
+      "url": "https://www.spiegel.de/wirtschaft/bundeswehr-startet-onlineshop-und-verkauft-badeenten-mit-sturmgewehr-a-3435b089-f352-422c-b8eb-dbaa414a0211#ref=rss",
+      "published": "2026-11-13T05:41:00+09:00",
+      "tags": [],
+      "event": "bundeswehr-online-shop",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Massiver Cyberangriff auf deutschen Drohnenhersteller Quantum Systems",
+      "title_ko": "독일 드론업체 퀀텀 시스템즈에 대규모 사이버 공격",
+      "summary_ko": "신원 미상의 공격자가 연방군 납품업체 퀀텀 시스템즈의 내부 업데이트 서버에 악성 프로그램을 심는 데 성공했다. 연방군은 이 사건을 매우 심각하게 보고 있다.",
+      "url": "https://www.spiegel.de/politik/massiver-cyberangriff-auf-drohnenhersteller-quantum-systems-a-354b0289-2281-4af6-a532-ee03b45d8b30#ref=rss",
+      "published": "2026-11-13T05:05:00+09:00",
+      "tags": [
+        "industry",
+        "geopolitics"
+      ],
+      "event": "quantum-systems-cyberattack",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Uno-Klimagipfel in der Türkei: Elektrifizierung als Schlüssel zum Klimaschutz",
+      "title_ko": "튀르키예 유엔 기후총회: 기후 보호의 열쇠는 전기화",
+      "summary_ko": "자동차, 난방, 산업 등 세계를 더 전기화하자는 것이 튀르키예 의장국의 방향이다. 이는 기술 문제를 넘어 특히 독일에서 정치적 문제이기도 하다.",
+      "url": "https://www.spiegel.de/wissenschaft/uno-klimagipfel-in-der-tuerkei-elektrifizierung-als-schluessel-zum-klimaschutz-a-e1471386-d2ab-489f-8a42-563fa7a67075#ref=rss",
+      "published": "2026-11-13T04:51:00+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "cop31-antalya",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "»Königreich Deutschland«: Prozess gegen Fantasiekönig Peter Fitzek beginnt - SPIEGEL TV",
+      "title_ko": "'독일 왕국': 가상 국왕 페터 피츠체크 재판 시작 - 슈피겔 TV",
+      "summary_ko": "연방공화국을 경멸하는 '페터 왕'이 법정에 선다. 불법 은행업, 사기, 탈세 혐의이며 그가 기소 내용에 어떻게 답하는지 다룬다.",
+      "url": "https://www.spiegel.de/panorama/justiz/koenigreich-deutschland-prozess-gegen-fantasiekoenig-peter-fitzek-beginnt-spiegel-tv-a-dcda6945-936d-4afe-bb1a-8cf923c2e361#ref=rss",
+      "published": "2026-11-13T04:50:00+09:00",
+      "tags": [],
+      "event": "reichsbuerger-fitzek-trial",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Gaza: Mehrere Tote nach israelischem Angriff auf Nasser-Krankenhaus",
+      "title_ko": "가자: 이스라엘의 나세르 병원 공격으로 여러 명 사망",
+      "summary_ko": "이스라엘군이 하마스 지도자를 노렸다며 가자지구 남부 나세르 병원을 공격했다. 하마스는 '전쟁 범죄'라고 했으며, 하마스 측에 따르면 6명이 숨지고 수십 명이 다쳤다.",
+      "url": "https://www.spiegel.de/ausland/gaza-mehrere-tote-nach-israelischem-angriff-auf-nasser-krankenhaus-a-38b81b5b-b4ea-4d0b-978c-b50bf1a43084#ref=rss",
+      "published": "2026-11-13T04:49:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "gaza-nasser-hospital-strike",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Friedrich Merz: Kann ihr Kanzler gut verhandeln? Eher nicht, finden sie in der CDU",
+      "title_ko": "프리드리히 메르츠: 총리는 협상을 잘하나? 기민당 내 평가는 '별로'",
+      "summary_ko": "메르츠는 전기세 일괄 인하를 관철하겠다고 못 박았지만 재원이 없고 사민당이 총리를 막아섰다. 당내에서 대표에 대한 분노와 좌절이 다시 커지고 있다.",
+      "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-kann-ihr-kanzler-gut-verhandeln-eher-nicht-finden-sie-in-der-cdu-a-30ef26a9-93f9-4714-84ad-8f353e28d4fc#ref=rss",
+      "published": "2026-11-13T04:02:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "germany-budget-2027-coalition-dispute",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Nmechas Jubelgeste: Klopp und der Belgrader Religionsfriede",
+      "title_ko": "은메차의 세리머니: 클롭과 베오그라드의 종교적 평화",
+      "summary_ko": "대표팀의 한 주에 대해 클롭이 할 이야기는 두 가지다. 첫째는 사무적으로 처리했고, 은메차에 관한 둘째 이야기는 길게 풀어냈다.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/fall-felix-nmecha-juergen-klopp-und-der-religionsfriede-von-belgrad-201678752.html",
+      "published": "2026-11-13T05:58:02+09:00",
+      "tags": [],
+      "event": "nmecha-celebration-klopp",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Drohnenhersteller: Cyberangriff auf Quantum Systems",
+      "title_ko": "드론업체: 퀀텀 시스템즈에 사이버 공격",
+      "summary_ko": "독일 드론업체 퀀텀 시스템즈가 사이버 공격을 당했다. 연방군은 즉시 대응한 것으로 전해졌다.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/quantum-systems-cyberangriff-auf-deutschen-drohnenhersteller-201678896.html",
+      "published": "2026-11-13T05:38:43+09:00",
+      "tags": [
+        "industry",
+        "geopolitics"
+      ],
+      "event": "quantum-systems-cyberattack",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Streit über Ukraine: Mit Fäkalsprache gegen Merz",
+      "title_ko": "우크라이나 둘러싼 갈등: 메르츠에 막말 공세",
+      "summary_ko": "총리는 키이우 지원을 촉구하고 있고 슬로바키아 총리는 이에 반발하며 맹비난했다. 반면 프라하와 부다페스트는 조용한 외교로 점수를 얻고 있다.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/robert-fico-attackiert-friedrich-merz-wir-werden-uns-nicht-einkacken-201676422.html",
+      "published": "2026-11-13T05:07:39+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "fico-attacks-merz-ukraine",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Götz Aly in Schule: Die Zwischenwelt des Nationalsozialismus ausleuchten",
+      "title_ko": "괴츠 알리 학교 방문: 나치즘의 중간지대를 비추다",
+      "summary_ko": "역사학자 괴츠 알리가 크론베르크에서 학생들과 올바른 기억의 방식을 토론했다. 그는 강제수용소 의무 방문만으로는 부족하며 대중 전반을 봐야 한다고 말했다.",
+      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/distanzierte-erinnerung-historiker-goetz-aly-zu-kz-besuchen-von-schulklassen-201675580.html",
+      "published": "2026-11-13T05:04:00+09:00",
+      "tags": [],
+      "event": "goetz-aly-school-visit",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Thüringen: Und jetzt: Fünfzehn Minuten für die Verfassung",
+      "title_ko": "튀링겐: 이제 '헌법을 위한 15분'",
+      "summary_ko": "튀링겐에서 학생들이 기본법에 비춰 시사 문제를 토론하도록 한다. 에르푸르트의 한 학급에서 '헌법 15분' 수업이 어떻게 운영되는지 보여준다.",
+      "url": "https://www.faz.net/aktuell/politik/inland/verfassungsviertelstunde-christian-tischners-idee-fuer-thueringens-schulen-201676423.html",
+      "published": "2026-11-13T04:37:33+09:00",
+      "tags": [],
+      "event": "thuringia-constitution-lesson",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Nervenkitzel: Wenn aus Krawallen ein Event wird",
+      "title_ko": "스릴: 폭동이 이벤트가 될 때",
+      "summary_ko": "Z세대 시위 과정의 폭동에는 폭도뿐 아니라 구경꾼도 몰렸다. 한 법정신의학 심리학자가 이를 분석했다.",
+      "url": "https://www.faz.net/aktuell/politik/inland/krawalle-als-event-eine-psychologin-ueber-das-sensation-seeking-201659488.html",
+      "published": "2026-11-13T04:36:17+09:00",
+      "tags": [],
+      "event": "gen-z-protests-germany",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Koalition: Die CDU sieht ihrem Niedergang tatenlos zu",
+      "title_ko": "연정: 기민당은 자신의 몰락을 손 놓고 바라본다",
+      "summary_ko": "사민당이 총리를 막아섰다. 이는 신임 투표를 묻지 않고도 나온 답이라는 논평이다.",
+      "url": "https://www.faz.net/aktuell/politik/inland/cdu-kann-stromsteuer-nicht-senken-wie-lange-laesst-sich-merz-von-der-spd-vorfuehren-201676923.html",
+      "published": "2026-11-13T04:22:26+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "germany-budget-2027-coalition-dispute",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Haushaltsstreit: „Wir kommen in die Hitzezone der Koalition“",
+      "title_ko": "예산 갈등: \"연정의 고열 구간에 들어선다\"",
+      "summary_ko": "다음 예산에 대한 합의가 가까워지고 있지만 특히 기민당은 큰 개혁이 빠졌다고 본다. 이 때문에 연방의회 기민·기사연합 교섭단체 회의가 격렬했다.",
+      "url": "https://www.faz.net/aktuell/politik/inland/haushaltskrach-in-der-unionsfraktion-kommt-die-stromsteuer-doch-noch-201676500.html",
+      "published": "2026-11-13T04:18:32+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "germany-budget-2027-coalition-dispute",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Jürgen Klopp zu Felix Nmecha: „Deswegen wird er so nicht mehr jubeln“",
+      "title_ko": "위르겐 클롭, 펠릭스 은메차에 대해: \"그래서 그렇게 다시 세리머니하지 않을 것\"",
+      "summary_ko": "베오그라드 네이션스리그 경기 전날 밤 클롭은 은메차의 논란의 왕관 제스처의 배경과 정리된 것으로 보이는 대화를 공개했다.",
+      "url": "https://www.sueddeutsche.de/sport/klopp-nmecha-gespraech-serbien-deutschland-li.3579648",
+      "published": "2026-11-13T05:59:03+09:00",
+      "tags": [],
+      "event": "nmecha-celebration-klopp",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Chip-Konzern: Colette Kress: Was über die neue Nvidia-Chefin bekannt ist",
+      "title_ko": "칩 기업: 콜레트 크레스, 엔비디아 새 수장에 대해 알려진 것",
+      "summary_ko": "그녀는 아들들의 권유로 당시 주로 게이머에게 인기 있던 회사에 들어갔다. 이제 칩 기업을 임시로 이끈다.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/colette-kress-nvidia-jensen-huang-portraet-chip-konzern-donald-trump-li.3579740",
+      "published": "2026-11-13T05:03:08+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "nvidia-huang-resignation",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Autoindustrie: Mercedes stoppt alle Investitionen in Deutschland und droht mit Werkschließungen",
+      "title_ko": "자동차산업: 메르세데스, 독일 내 모든 투자 중단하고 공장 폐쇄 경고",
+      "summary_ko": "경영진은 이유로 근로시간 연장과 임금 삭감에 대해 직원평의회와 지금까지 합의하지 못한 점을 들었다.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/mercedes-investitionsstopp-werkschliessungen-ig-metall-betriebsrat-li.3579730",
+      "published": "2026-11-13T03:20:47+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "mercedes-germany-investment-freeze",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Atmosphärenphysik: Polarwirbel jetzt schon zusammengebrochen: Was ist da los?",
+      "title_ko": "대기물리학: 극소용돌이 벌써 붕괴…무슨 일인가?",
+      "summary_ko": "북극 상공의 대기 순환이 일시적으로 멈췄으며 시즌상 역대 가장 이른 시기다. 원인과 이번 겨울에 대한 의미를 다룬다.",
+      "url": "https://www.sueddeutsche.de/wissen/polarwirbel-nordpol-stratosphaere-kaelteeinbruch-atmosphaerenphysik-winter-li.3578700",
+      "published": "2026-11-13T00:46:01+09:00",
+      "tags": [],
+      "event": "polar-vortex-collapse",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Russland und die Eishockey-WM: Bundesregierung knickt in der Visa-Frage ein",
+      "title_ko": "러시아와 아이스하키 세계선수권: 연방정부, 비자 문제서 물러서",
+      "summary_ko": "캐나다가 러시아 선수 입국을 금지한 반면 독일 정부는 자국 개최 세계선수권을 앞두고 다른 입장을 취했다. 비자 거부는 '해법이 아니다'라는 것이다.",
+      "url": "https://www.sueddeutsche.de/sport/eishockey-wm-russland-kanada-visa-boykott-li.3579408",
+      "published": "2026-11-13T00:24:58+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ice-hockey-wc-russia-visas",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Altern: Ohne Kollagen-Abo bist du verloren",
+      "title_ko": "노화: 콜라겐 구독 없으면 끝장",
+      "summary_ko": "40대가 드라마에서 20대 중반으로, 10대를 성인이 연기한다. 여성들이 외모에 계속 매달리게 만드는 문화에 관한 글이다.",
+      "url": "https://www.sueddeutsche.de/kultur/altern-film-serien-frauen-pro-aging-li.3553208",
+      "published": "2026-11-13T00:10:32+09:00",
+      "tags": [],
+      "event": "pro-aging-culture",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Newsblog zur Bundespolitik: Bundestag beschließt Kita-Startchancengesetz mit Sprachtests",
+      "title_ko": "연방정치 뉴스블로그: 연방의회, 언어 테스트 담은 '어린이집 출발기회법' 의결",
+      "summary_ko": "어려운 지역의 어린이집에 인력도 늘린다. 비판자들은 더 많은 재정을 요구하며, 관할 주들은 이대로는 법에 동의하지 않을 것으로 보인다.",
+      "url": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-kitas-startchancengesetz-sprachtests-personal-bundestag-li.3568524",
+      "published": "2026-11-12T23:53:09+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "kita-startchancen-law",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Chip-Konzern: Nvidia-Chef Huang tritt zurück",
+      "title_ko": "칩 기업: 엔비디아 CEO 황 사임",
+      "summary_ko": "추정 스파이와의 연애 및 또 다른 관계 보도 이후 CEO가 물러난다. 콜레트 크레스 최고재무책임자가 임시로 경영을 맡으며 주가는 하락했다.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/nvidia-huang-affaere-aktie-absturz-nachfolgerin-li.3579215",
+      "published": "2026-11-12T23:47:25+09:00",
+      "tags": [
+        "business",
+        "industry"
+      ],
+      "event": "nvidia-huang-resignation",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Auszeichnungen: Söder über Spider Murphy Gang: Münchner Lebensgefühl",
+      "title_ko": "시상: 죄더, 스파이더 머피 갱에 대해 \"뮌헨의 삶의 감각\"",
+      "summary_ko": "죄더가 스파이더 머피 갱에 대해 '뮌헨의 삶의 감각'이라고 말했다 (제목 외 세부 내용 없음).",
+      "url": "https://www.zeit.de/news/2026-11/12/soeder-ueber-spider-murphy-gang-muenchner-lebensgefuehl",
+      "published": "2026-11-13T05:56:48+09:00",
+      "tags": [],
+      "event": "spider-murphy-gang-award",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Fotografie: Bilder des Tages",
+      "title_ko": "사진: 오늘의 사진",
+      "summary_ko": "오늘의 사진 (제목 외 세부 내용 없음).",
+      "url": "https://www.zeit.de/news/2026-11/12/bilder-des-tages",
+      "published": "2026-11-13T05:40:20+09:00",
+      "tags": [],
+      "event": "zeit-pictures-of-the-day",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Regierung in der Krise: Niederlande: Regierungskrise eskaliert",
+      "title_ko": "위기의 정부: 네덜란드 정부 위기 격화",
+      "summary_ko": "네덜란드 정부 위기가 격화됐다 (제목 외 세부 내용 없음).",
+      "url": "https://www.zeit.de/news/2026-11/12/niederlande-regierungskrise-eskaliert",
+      "published": "2026-11-13T05:39:22+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "netherlands-government-crisis",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Gipfel in Dublin: Europäer benennen vorerst keinen Ukraine-Chefverhandler",
+      "title_ko": "더블린 정상회의: 유럽, 우크라이나 수석협상가 당분간 지명 안 해",
+      "summary_ko": "더블린 정상회의에서 유럽 국가들이 우크라이나 수석협상가를 당분간 지명하지 않았다 (제목 외 세부 내용 없음).",
+      "url": "https://www.zeit.de/news/2026-11/12/trumps-abgesandte-mit-heikler-botschaft-bei-putin",
+      "published": "2026-11-13T05:34:33+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-peace-talks",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Felix Nmecha: Klopp einigt sich mit Nmecha auf Verzicht auf umstrittenen Torjubel",
+      "title_ko": "펠릭스 은메차: 클롭, 은메차와 논란의 세리머니 중단 합의",
+      "summary_ko": "은메차의 세리머니에 대한 비판 이후 대표팀 감독은 문제가 정리됐다고 본다. 세르비아전에서 그는 논란의 제스처를 하지 않을 것이다.",
+      "url": "https://www.zeit.de/sport/2026-11/felix-nmecha-kronen-torjubel-juergen-klopp-ballers-in-god",
+      "published": "2026-11-13T05:24:44+09:00",
+      "tags": [],
+      "event": "nmecha-celebration-klopp",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Mehrere Fahrzeuge beteiligt: B31 am Bodensee nach Unfall mit Verletzten gesperrt",
+      "title_ko": "여러 차량 연루: 보덴호 B31 도로, 부상자 낸 사고로 통제",
+      "summary_ko": "보덴호 인근 B31 도로가 여러 차량이 연루돼 부상자가 발생한 사고로 통제됐다 (제목 외 세부 내용 없음).",
+      "url": "https://www.zeit.de/news/2026-11/12/b31-am-bodensee-nach-unfall-mit-verletzten-gesperrt",
+      "published": "2026-11-13T05:20:01+09:00",
+      "tags": [],
+      "event": "b31-bodensee-accident",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "DHB-Pokal: Flensburgs Handballer drehen Pokalspiel nach der Pause",
+      "title_ko": "DHB 컵: 플렌스부르크 핸드볼팀, 후반 역전승",
+      "summary_ko": "DHB 컵에서 플렌스부르크 핸드볼팀이 후반에 경기를 뒤집었다 (제목 외 세부 내용 없음).",
+      "url": "https://www.zeit.de/news/2026-11/12/flensburgs-handballer-drehen-pokalspiel-nach-der-pause",
+      "published": "2026-11-13T05:15:29+09:00",
+      "tags": [],
+      "event": "dhb-cup-flensburg",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "«Cybersicherheitsvorfall»: Drohnenhersteller Quantum Systems meldet Cyberangriff",
+      "title_ko": "'사이버 보안 사고': 드론업체 퀀텀 시스템즈, 사이버 공격 신고",
+      "summary_ko": "드론업체 퀀텀 시스템즈가 사이버 공격을 신고했다 (제목 외 세부 내용 없음).",
+      "url": "https://www.zeit.de/news/2026-11/12/drohnenhersteller-quantum-systems-meldet-cyberangriff",
+      "published": "2026-11-13T05:03:57+09:00",
+      "tags": [
+        "industry",
+        "geopolitics"
+      ],
+      "event": "quantum-systems-cyberattack",
+      "state_media": false
+    }
+  ],
+  "events": [
+    {
+      "event": "nvidia-huang-resignation",
+      "title_ko": "엔비디아 CEO 젠슨 황, 스파이 의혹 연애 사건으로 사임…크레스 임시 CEO, 주가 하락",
+      "sources": [
+        "ARD Tagesschau",
+        "ZDF heute",
+        "Deutsche Welle",
+        "WELT",
+        "Handelsblatt",
+        "Süddeutsche Zeitung"
+      ],
+      "count": 11
+    },
+    {
+      "event": "quantum-systems-cyberattack",
+      "title_ko": "독일 방산 드론업체 퀀텀 시스템즈 사이버 공격, 연방군 예방 조치",
+      "sources": [
+        "ARD Tagesschau",
+        "n-tv",
+        "WELT",
+        "Handelsblatt",
+        "Der Spiegel",
+        "FAZ",
+        "Die Zeit"
+      ],
+      "count": 7
+    },
+    {
+      "event": "germany-budget-2027-coalition-dispute",
+      "title_ko": "2027년 예산·전기세 인하 둘러싼 흑적 연정 갈등",
+      "sources": [
+        "ARD Tagesschau",
+        "ZDF heute",
+        "Der Spiegel",
+        "FAZ"
+      ],
+      "count": 5
+    },
+    {
+      "event": "ukraine-peace-talks",
+      "title_ko": "우크라이나 평화협상(미국 특사 행보, 유럽 협상대표 논란, 아부다비 회담)",
+      "sources": [
+        "ARD Tagesschau",
+        "ZDF heute",
+        "Deutsche Welle",
+        "WELT",
+        "Die Zeit"
+      ],
+      "count": 5
+    },
+    {
+      "event": "nmecha-celebration-klopp",
+      "title_ko": "클롭, 은메차 논란의 세리머니 중단 합의",
+      "sources": [
+        "n-tv",
+        "WELT",
+        "FAZ",
+        "Süddeutsche Zeitung",
+        "Die Zeit"
+      ],
+      "count": 5
+    },
+    {
+      "event": "mercedes-germany-investment-freeze",
+      "title_ko": "메르세데스, 독일 내 투자 전면 중단·공장 폐쇄 검토",
+      "sources": [
+        "ARD Tagesschau",
+        "ZDF heute",
+        "Süddeutsche Zeitung"
+      ],
+      "count": 3
+    },
+    {
+      "event": "nations-league-serbia-germany",
+      "title_ko": "네이션스리그 세르비아-독일 무관중 경기",
+      "sources": [
+        "ZDF heute",
+        "Deutsche Welle"
+      ],
+      "count": 2
+    },
+    {
+      "event": "hegseth-arlington-reprimand",
+      "title_ko": "헤그세스 미 국방장관, 알링턴서 지적한 경비병에 표창",
+      "sources": [
+        "ZDF heute",
+        "n-tv"
+      ],
+      "count": 2
+    },
+    {
+      "event": "cop31-antalya",
+      "title_ko": "안탈리아 유엔 기후총회 COP31",
+      "sources": [
+        "Deutsche Welle",
+        "Der Spiegel"
+      ],
+      "count": 2
+    },
+    {
+      "event": "gen-z-protests-germany",
+      "title_ko": "독일 Z세대 시위",
+      "sources": [
+        "Deutsche Welle",
+        "FAZ"
+      ],
+      "count": 2
+    },
+    {
+      "event": "gta-vi-vacation-requests",
+      "title_ko": "GTA VI 출시 맞춰 휴가 신청 급증",
+      "sources": [
+        "n-tv",
+        "WELT"
+      ],
+      "count": 2
+    },
+    {
+      "event": "tagesschau-100-sekunden",
+      "title_ko": "타게스샤우 100초 뉴스",
+      "sources": [
+        "ARD Tagesschau"
+      ],
+      "count": 1
+    },
+    {
+      "event": "tagesschau-20-uhr-bulletin",
+      "title_ko": "타게스샤우 20시 뉴스",
+      "sources": [
+        "ARD Tagesschau"
+      ],
+      "count": 1
+    },
+    {
+      "event": "new-york-building-collapse",
+      "title_ko": "뉴욕 브루클린서 건물 붕괴로 사상자 발생",
+      "sources": [
+        "ARD Tagesschau"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ukraine-war-liveblog",
+      "title_ko": "우크라이나 전쟁 최신 소식",
+      "sources": [
+        "ZDF heute"
+      ],
+      "count": 1
+    },
+    {
+      "event": "germany-security-agencies-overhaul",
+      "title_ko": "경찰·정보기관의 '시대전환', 어떻게?",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "iran-exiled-journalists-repression",
+      "title_ko": "이란: 망명지까지 미치는 탄압",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "materazzi-zidane",
+      "title_ko": "월드컵 사건 후 비난받는 지단: 마테라치, 심각한 비난과 비극적 비유",
+      "sources": [
+        "n-tv"
+      ],
+      "count": 1
+    },
+    {
+      "event": "klopp-mohya",
+      "title_ko": "\"완전히 핵심을 벗어났다\": 클롭, 모햐 관련 헤드라인에 불쾌감",
+      "sources": [
+        "n-tv"
+      ],
+      "count": 1
+    },
+    {
+      "event": "iran-boxer-human-rights-award",
+      "title_ko": "신정 정권에 맞선 싸움: 사형 선고받은 이란 복서, 인권상 수상",
+      "sources": [
+        "n-tv"
+      ],
+      "count": 1
+    },
+    {
+      "event": "fury-joshua-fight",
+      "title_ko": "너무 늙은 거인들의 대결: 테디 아틀라스, '잔혹한' 경기 우려",
+      "sources": [
+        "n-tv"
+      ],
+      "count": 1
+    },
+    {
+      "event": "thadeusz-weidel",
+      "title_ko": "\"이보다 예의 바른 상놈도 안다\": 외르크 타데우스, 알리체 바이델 비판",
+      "sources": [
+        "WELT"
+      ],
+      "count": 1
+    },
+    {
+      "event": "de-miguel-death",
+      "title_ko": "\"깊이 충격받았다\": 치명적 충돌 후 감독이 골키퍼 심경 전해",
+      "sources": [
+        "WELT"
+      ],
+      "count": 1
+    },
+    {
+      "event": "fifa-presidency-wenger",
+      "title_ko": "인판티노 대항마? 마크롱, 벵거 지지…우려도",
+      "sources": [
+        "WELT"
+      ],
+      "count": 1
+    },
+    {
+      "event": "federal-housing-company",
+      "title_ko": "주택 건설: \"임대료 훨씬 저렴\"…연방건설회사 조속 출범 추진",
+      "sources": [
+        "Handelsblatt"
+      ],
+      "count": 1
+    },
+    {
+      "event": "lenzing-stock",
+      "title_ko": "증시: 섬유 줄이고 마진 늘린다…렌칭 주식의 매력",
+      "sources": [
+        "Handelsblatt"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ig-metall-strike",
+      "title_ko": "논평: IG 금속노조 대규모 파업은 신뢰만 잃는다",
+      "sources": [
+        "Handelsblatt"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ecb-leadership-succession",
+      "title_ko": "통화정책: 메르츠, ECB 2인자 자리 노려…마크롱 호응 가능성",
+      "sources": [
+        "Handelsblatt"
+      ],
+      "count": 1
+    },
+    {
+      "event": "vienna-actionism-museum-closure",
+      "title_ko": "성범죄자 작품 전시…빈 행동주의 미술관 폐관",
+      "sources": [
+        "Der Spiegel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "israel-bans-melenchon",
+      "title_ko": "이스라엘, 반이스라엘 성향 이유로 장뤼크 멜랑숑 입국 금지",
+      "sources": [
+        "Der Spiegel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "bundeswehr-online-shop",
+      "title_ko": "연방군, 온라인숍 개설…돌격소총 든 고무오리 판매",
+      "sources": [
+        "Der Spiegel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "reichsbuerger-fitzek-trial",
+      "title_ko": "'독일 왕국': 가상 국왕 페터 피츠체크 재판 시작 - 슈피겔 TV",
+      "sources": [
+        "Der Spiegel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "gaza-nasser-hospital-strike",
+      "title_ko": "가자: 이스라엘의 나세르 병원 공격으로 여러 명 사망",
+      "sources": [
+        "Der Spiegel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "fico-attacks-merz-ukraine",
+      "title_ko": "우크라이나 둘러싼 갈등: 메르츠에 막말 공세",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "goetz-aly-school-visit",
+      "title_ko": "괴츠 알리 학교 방문: 나치즘의 중간지대를 비추다",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "thuringia-constitution-lesson",
+      "title_ko": "튀링겐: 이제 '헌법을 위한 15분'",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "polar-vortex-collapse",
+      "title_ko": "대기물리학: 극소용돌이 벌써 붕괴…무슨 일인가?",
+      "sources": [
+        "Süddeutsche Zeitung"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ice-hockey-wc-russia-visas",
+      "title_ko": "러시아와 아이스하키 세계선수권: 연방정부, 비자 문제서 물러서",
+      "sources": [
+        "Süddeutsche Zeitung"
+      ],
+      "count": 1
+    },
+    {
+      "event": "pro-aging-culture",
+      "title_ko": "노화: 콜라겐 구독 없으면 끝장",
+      "sources": [
+        "Süddeutsche Zeitung"
+      ],
+      "count": 1
+    },
+    {
+      "event": "kita-startchancen-law",
+      "title_ko": "연방정치 뉴스블로그: 연방의회, 언어 테스트 담은 '어린이집 출발기회법' 의결",
+      "sources": [
+        "Süddeutsche Zeitung"
+      ],
+      "count": 1
+    },
+    {
+      "event": "spider-murphy-gang-award",
+      "title_ko": "시상: 죄더, 스파이더 머피 갱에 대해 \"뮌헨의 삶의 감각\"",
+      "sources": [
+        "Die Zeit"
+      ],
+      "count": 1
+    },
+    {
+      "event": "zeit-pictures-of-the-day",
+      "title_ko": "사진: 오늘의 사진",
+      "sources": [
+        "Die Zeit"
+      ],
+      "count": 1
+    },
+    {
+      "event": "netherlands-government-crisis",
+      "title_ko": "위기의 정부: 네덜란드 정부 위기 격화",
+      "sources": [
+        "Die Zeit"
+      ],
+      "count": 1
+    },
+    {
+      "event": "b31-bodensee-accident",
+      "title_ko": "여러 차량 연루: 보덴호 B31 도로, 부상자 낸 사고로 통제",
+      "sources": [
+        "Die Zeit"
+      ],
+      "count": 1
+    },
+    {
+      "event": "dhb-cup-flensburg",
+      "title_ko": "DHB 컵: 플렌스부르크 핸드볼팀, 후반 역전승",
+      "sources": [
+        "Die Zeit"
+      ],
+      "count": 1
+    }
+  ],
+  "unavailable_sources": []
+}
