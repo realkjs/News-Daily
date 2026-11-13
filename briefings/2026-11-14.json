@@ -1,0 +1,2085 @@
+{
+ "date": "2026-11-14",
+ "generated_at": "2026-11-14 06:25 KST",
+ "essence": {
+  "headline": "마이크로소프트 서비스가 약 24시간(BBC) 동안 74개 국가·지역(요미우리·테레비아사히)에서 멈췄고 원인은 공격이 아닌 자체 '네트워크 용량 업그레이드'였다(NBC·Die Zeit). 같은 날 엔비디아 사태는 베선트 재무장관이 러트닉 상무부를 공개 비판하는 정권 내부의 책임 공방으로 번졌고(FT·Guardian·SCMP·MBC), 이란 전선에선 미군의 이란 드론 격추(AP·Haaretz)와 모사드 국장의 방미(Haaretz·JPost·i24)가 나왔다. 유럽은 5개국+EU 협상팀을 꾸렸지만 단일 대변인은 정하지 못했다(Libération) — 기술·행정·안보 모두에서 '한 곳이 막히면 전체가 멈추는' 집중의 비용과, 책임을 누가 지느냐는 다툼이 드러난 하루다(해석).",
+  "derivation": {
+   "assumptions": "통념 1: MS 장애는 기술 사고일 뿐이다(🔎 독일 디지털부는 '단일 공급자에 의존하지 말라'고 권고했고(ZDF), AP·WELT·닛케이는 집중 위험을 짚었다 — 유럽에선 디지털 주권 문제로 읽힌다). 통념 2: 황의 사임으로 엔비디아 사태는 일단락됐다(🔎 재무장관이 상무부를 공개 저격했고(FT 외 4개 매체), 상원 은행위가 러트닉을 조사한다(동아일보·요미우리) — 사건이 수출통제 책임 소재로 옮겨 갔다). 통념 3: 트럼프가 '승리'를 선언했으니 이란전은 끝났다(🔎 미군이 이란 공격 드론을 격추했고(AP·Haaretz), 모사드 국장이 전쟁 재개를 촉구하러 워싱턴에 갔다(JPost) — WaPo는 '5개월간 아무도 안 죽었다'는 트럼프 주장이 허위라고 썼다). 통념 4: 유럽이 팀을 꾸렸으니 한목소리를 낸다(🔎 단일 대변인은 없고(Libération), 러 외무부는 유럽 참여를 논의하지 않았다고 했다([관영] CCTV)). 왜 다들 이렇게 보도하는가 — 장애·스캔들·교전이 각각 '사건'으로 처리돼, 같은 날 여러 체계에서 단일 실패점과 책임 공백이 함께 드러났다는 점이 흐려진다.",
+   "decomposition": "기술 체계: MS 약 24시간 장애·74개 국가·지역(요미우리·테레비아사히·BBC), 원인 '네트워크 용량 업그레이드'(NBC·Die Zeit), 사이버 공격 아님(DW·Independent·SCMP·franceinfo·Libération), 단일 공급자 의존 경고(AP·ZDF·WELT·닛케이), '역사상 최대 경제 피해 중 하나'(Independent 인용 전문가 — 단일), FAA 전국 그라운드 스톱(NBC·ABC·CNBC·Ynet·RBC — 원인 미공개). 엔비디아·정권: 베선트 vs 러트닉(FT·Guardian·SCMP·MBC·테레비아사히), 상원 은행위 조사·러트닉 증언 동의(동아일보·요미우리), 트럼프 사임 이틀 전 전화(매일경제의 NYT 인용), Arm 하스 접촉(FT·Reuters·닛케이·MBC·YTN) vs 엔비디아 부인(Vedomosti·[관영] RIA), 헤드헌터 미선정(CNBC), 싱가포르 매출 소멸(WSJ), 메가스피드 모회사 허위 등기 의혹(산케이 — 의문형). 이란: 드론 2대 격추·레이더 타격 주장(AP·Haaretz), AI 조작 위성사진·미국 부인(France 24), 모사드 국장-CIA 국장(Haaretz·JPost·i24·한국경제TV), IAEA 사찰 차단(DW·i24), 호르무즈 유조선 기뢰(Ynet·[관영] RIA — 혁명수비대 주장), 후티 리야드 공항(Interfax·[관영] RIA — 후티 주장), 튀르키예·카타르 방위협정(Reuters·요미우리·JPost·Haaretz·[관영] 신화). 우크라이나: 5개국+EU 팀(WaPo·Spiegel·SZ·Reuters·Sky·BFMTV·Les Echos·YTN), 단일 대변인 없음(Libération), 러 외무부 '논의 안 해'([관영] CCTV), NATO 후퇴 요구(NYT 단일), 칼라스 '덫'(Guardian), 스타링크 제한(WaPo·산케이·FAZ), 폴란드 PURL 중단(Interfax 단일). 유럽 안보: 레이컨히스 드론(BBC·Sky·Guardian), 독일 정보기관법(DW·ARD·Meduza), 베를린 공항 러시아인 조사(Meduza), 로스스타트 유출(Spiegel). 금리: 10년물 5.17%(CNBC), 골드만 3월 인상(테레비도쿄), PPI([관영] 신화), 물가 예상보다 약간 낮음(CNBC), 워시 개편(WSJ), 메가뱅크 최고 이익(요미우리·아사히·Japan Times). 자본: 앤트로픽 IPO(Bloomberg·Handelsblatt·FT — 수치 엇갈림), JP모건 IG 사상 최대(Bloomberg), EU AI 5천억 유로(WELT·FAZ). 미·중: 무역위원회 첫 회의·팍스 실리카(SCMP), 왕이-조현(인민일보·매일경제). 정치: 민주당 하원 40석+ 탈환(CBS), 보버트 낙선(4개 매체). 코인: 스트래티지 MSCI 편출(WSJ 단일).",
+   "rebuild": "🔎 재조립: 복수 출처로 단단한 사실은 ① MS 세계 장애(지속 시간은 BBC '약 24시간' 등 매체마다 다름)와 '공격 아닌 내부 원인'(10여 개 매체), ② FAA 전국 그라운드 스톱(5개 매체, 원인 미공개), ③ 베선트의 러트닉 상무부 비판(5개 매체)과 상원 조사(2개 매체), ④ 미군의 이란 드론 격추(AP·Haaretz), ⑤ 모사드 국장 방미(4개 매체), ⑥ EU 5개국+EU 협상팀(8개 매체 이상), ⑦ 레이컨히스 드론 대응(3개 매체), ⑧ 민주당 하원 탈환(CBS 외)이다. 단일·일방·관영은 핵심 근거에서 뺀다: 레이더 타격·유조선 기뢰(이란 측 주장), 후티 리야드 타격(후티 주장), NATO 후퇴 요구(NYT 단일), 폴란드 PURL 중단(Interfax 단일), 팍스 실리카·무역위원회(SCMP 단일), PPI 최고(신화 관영), 경제 피해 '역사상 최대'(Independent 인용), 스트래티지 편출(WSJ 단일), 앤트로픽 수치(매체마다 다름). 근본 요소로 다시 쌓으면 — 세계의 업무는 한 회사의 클라우드에, 미국의 대중 칩 통제는 부처 사이의 틈에, 이란전의 출구는 미·이스라엘 사이의 줄다리기에 걸려 있다. 오늘은 그 연결점들이 동시에 시험받았다. 즉 오늘의 실체는 '집중된 체계의 단일 실패점과 책임 공백이 드러난 하루'다(해석). 반론: MS는 하루 만에 대부분 복구됐고 공격도 아니었다. 나스닥은 8월 이후 최고의 한 주를 보냈다(CNBC). 유럽은 몇 달 만에 협상팀을 정했다(Sky) — 체계는 흔들렸지만 버텼다."
+  }
+ },
+ "fishbone": {
+  "head": "집중된 체계가 멈추고 책임 공방이 시작됐다 — MS 24시간 장애·FAA 전국 이륙 중단, 베선트 대 러트닉, 이란 드론 격추·모사드 방미, 유럽 5개국 협상팀",
+  "bones": [
+   {
+    "field": "industry",
+    "items": [
+     {
+      "id": "n1",
+      "label": "MS 세계 장애 약 24시간·74개국",
+      "country": "uk"
+     },
+     {
+      "id": "n2",
+      "label": "MS '공격 아닌 네트워크 업그레이드'",
+      "country": "us"
+     },
+     {
+      "id": "n3",
+      "label": "FAA 전국 그라운드 스톱(원인 미공개)",
+      "country": "us"
+     },
+     {
+      "id": "n4",
+      "label": "FT 'Arm 하스 접촉' vs 엔비디아 부인",
+      "country": "uk"
+     },
+     {
+      "id": "n5",
+      "label": "WSJ '엔비디아 싱가포르 매출 사라져'",
+      "country": "us"
+     }
+    ]
+   },
+   {
+    "field": "business",
+    "items": [
+     {
+      "id": "n6",
+      "label": "앤트로픽 IPO 11/18 공모가·11/19 상장",
+      "country": "us"
+     },
+     {
+      "id": "n7",
+      "label": "JP모건 '2027 IG 회사채 사상 최대'",
+      "country": "us"
+     },
+     {
+      "id": "n8",
+      "label": "EU 'AI 투자 5천억 유로 필요'",
+      "country": "de"
+     }
+    ]
+   },
+   {
+    "field": "stocks",
+    "items": [
+     {
+      "id": "n9",
+      "label": "나스닥, 8월 이후 최고의 한 주",
+      "country": "us"
+     },
+     {
+      "id": "n10",
+      "label": "일 3대 메가뱅크 사상 최고 이익",
+      "country": "jp"
+     }
+    ]
+   },
+   {
+    "field": "crypto",
+    "items": [
+     {
+      "id": "n11",
+      "label": "스트래티지, MSCI 지수서 편출(단일)",
+      "country": "us"
+     }
+    ]
+   },
+   {
+    "field": "monetary",
+    "items": [
+     {
+      "id": "n12",
+      "label": "미 10년물 5.17%·12월 인상 기대",
+      "country": "us"
+     },
+     {
+      "id": "n13",
+      "label": "골드만 '내년 3월 추가 인상'",
+      "country": "jp"
+     },
+     {
+      "id": "n14",
+      "label": "워시 '연준 개편 구상'",
+      "country": "us"
+     }
+    ]
+   },
+   {
+    "field": "legislation",
+    "items": [
+     {
+      "id": "n15",
+      "label": "베선트 '메가스피드 지연은 상무부 탓'",
+      "country": "uk"
+     },
+     {
+      "id": "n16",
+      "label": "상원 은행위 러트닉 조사·증언 동의",
+      "country": "kr"
+     },
+     {
+      "id": "n17",
+      "label": "민주당 하원 40석+ 탈환·보버트 낙선",
+      "country": "us"
+     },
+     {
+      "id": "n18",
+      "label": "독일 정보기관 권한 확대법",
+      "country": "de"
+     }
+    ]
+   },
+   {
+    "field": "forecast",
+    "items": [
+     {
+      "id": "n19",
+      "label": "미·중 무역위 첫 회의 — 정상회담 앞",
+      "country": "cn"
+     },
+     {
+      "id": "n20",
+      "label": "트럼프, 아세안서 '팍스 실리카' 압박 예정",
+      "country": "cn"
+     }
+    ]
+   },
+   {
+    "field": "geopolitics",
+    "items": [
+     {
+      "id": "n21",
+      "label": "미군, 이란 드론 2대 격추",
+      "country": "us"
+     },
+     {
+      "id": "n22",
+      "label": "이란 '바레인 레이더 타격'(미국 부인)",
+      "country": "fr"
+     },
+     {
+      "id": "n23",
+      "label": "모사드 국장 방미 — 전쟁 재개 촉구",
+      "country": "il"
+     },
+     {
+      "id": "n24",
+      "label": "IAEA, 이스파한 접근 불가 경고",
+      "country": "de"
+     },
+     {
+      "id": "n25",
+      "label": "튀르키예·카타르 상호방위협정",
+      "country": "uk"
+     },
+     {
+      "id": "n26",
+      "label": "EU 5개국+EU 협상팀 — 대변인 미정",
+      "country": "fr"
+     },
+     {
+      "id": "n27",
+      "label": "러 외무부 '유럽 참여 논의 안 해'(관영)",
+      "country": "cn"
+     },
+     {
+      "id": "n28",
+      "label": "RAF 레이컨히스 '무단 드론' 대응",
+      "country": "uk"
+     }
+    ]
+   }
+  ],
+  "links": [
+   {
+    "from": "n2",
+    "to": "n1",
+    "from_label": "MS '공격 아닌 네트워크 업그레이드'",
+    "to_label": "MS 세계 장애 약 24시간·74개국",
+    "logic": "MS는 아직 복구 중인 광범위한 장애가 사이버 공격이 아니라 '네트워크 용량 업그레이드' 때문이라고 밝혔다(NBC·Die Zeit) — 원문이 직접 잇는 연결."
+   },
+   {
+    "from": "n1",
+    "to": "n18",
+    "from_label": "MS 세계 장애 약 24시간·74개국",
+    "to_label": "독일 정보기관 권한 확대법",
+    "logic": "🔎 병치: MS 장애 뒤 독일 디지털부는 단일 공급자에 의존하지 말라고 권고했고(ZDF), 같은 날 연방의회는 정보기관 권한 확대법을 의결했다(DW). 두 사안 모두 독일이 디지털·안보 주권을 스스로 챙기려는 흐름으로 읽힌다(해석)."
+   },
+   {
+    "from": "n1",
+    "to": "n3",
+    "from_label": "MS 세계 장애 약 24시간·74개국",
+    "to_label": "FAA 전국 그라운드 스톱(원인 미공개)",
+    "logic": "🔎 병치일 뿐: 같은 날 FAA가 전국 그라운드 스톱을 명령했지만, 원자료에는 두 사건을 잇는 근거가 없다. FAA는 '특별한 상황과 안전상의 이유'만 밝혔다(NBC·ABC). 인과로 읽지 않는다."
+   },
+   {
+    "from": "n15",
+    "to": "n16",
+    "from_label": "베선트 '메가스피드 지연은 상무부 탓'",
+    "to_label": "상원 은행위 러트닉 조사·증언 동의",
+    "logic": "FT는 베선트의 공세가 엔비디아 스캔들을 둘러싼 행정부 내부 갈등을 부추길 위험이 있다고 썼고, 상원 은행위는 러트닉을 불러 대중 수출 규제 완화 배경을 조사하기로 했다(동아일보) — 원문들이 같은 '러트닉 책임' 흐름으로 다룬 연결."
+   },
+   {
+    "from": "n5",
+    "to": "n15",
+    "from_label": "WSJ '엔비디아 싱가포르 매출 사라져'",
+    "to_label": "베선트 '메가스피드 지연은 상무부 탓'",
+    "logic": "WSJ는 엔비디아 싱가포르 매출이 사라지며 메가스피드를 둘러싼 의문이 커진다고 썼고, 베선트는 메가스피드의 블랙리스트 등재 지연을 상무부 탓으로 돌렸다(FT·SCMP) — 메가스피드가 두 기사를 잇는다."
+   },
+   {
+    "from": "n4",
+    "to": "n9",
+    "from_label": "FT 'Arm 하스 접촉' vs 엔비디아 부인",
+    "to_label": "나스닥, 8월 이후 최고의 한 주",
+    "logic": "🔎 엇갈림: 후임 CEO 보도(FT)와 엔비디아의 부인(Vedomosti)이 엇갈렸지만, 나스닥은 금요일 엔비디아 매도에 하락하고도 8월 이후 최고의 한 주를 보냈다(CNBC). 시장은 후계 불확실성을 아직 크게 값에 넣지 않았다(해석)."
+   },
+   {
+    "from": "n12",
+    "to": "n13",
+    "from_label": "미 10년물 5.17%·12월 인상 기대",
+    "to_label": "골드만 '내년 3월 추가 인상'",
+    "logic": "🔎 병치: 연준의 12월 인상 기대가 커지며 10년물이 5.17%로 올랐고(CNBC), 골드만은 내년 3월 추가 인상을 예상했다(테레비도쿄) — 시장의 인상 경로가 길어진다(해석). 반론: 최신 물가 지표는 예상보다 약간 낮았다(CNBC)."
+   },
+   {
+    "from": "n12",
+    "to": "n7",
+    "from_label": "미 10년물 5.17%·12월 인상 기대",
+    "to_label": "JP모건 '2027 IG 회사채 사상 최대'",
+    "logic": "🔎 병치: 금리가 오르는 가운데 JP모건은 AI 인프라 투자와 차환 수요로 내년 IG 회사채 발행이 사상 최대일 것으로 봤다(Bloomberg) — AI 투자가 더 비싼 빚으로 이어진다(해석)."
+   },
+   {
+    "from": "n6",
+    "to": "n8",
+    "from_label": "앤트로픽 IPO 11/18 공모가·11/19 상장",
+    "to_label": "EU 'AI 투자 5천억 유로 필요'",
+    "logic": "🔎 대비: 미국에선 앤트로픽이 사상 최대급 상장을 앞두고(Bloomberg·Handelsblatt), 유럽에선 EU 집행위가 AI 투자 5천억 유로가 필요하다고 추산했다(WELT). Les Echos '모두가 우리의 의존성을 깨달았다'(해석: 자본의 격차가 의존을 만든다)."
+   },
+   {
+    "from": "n21",
+    "to": "n22",
+    "from_label": "미군, 이란 드론 2대 격추",
+    "to_label": "이란 '바레인 레이더 타격'(미국 부인)",
+    "logic": "미군이 이란 공격 드론 2대를 격추했고 이란은 바레인의 미군 레이더를 타격했다고 주장했다(AP·Haaretz). France 24는 이를 입증한다며 퍼진 위성사진이 AI로 조작된 것이며 미국은 부인했다고 확인했다 — 원문이 직접 잇는 연결."
+   },
+   {
+    "from": "n23",
+    "to": "n21",
+    "from_label": "모사드 국장 방미 — 전쟁 재개 촉구",
+    "to_label": "미군, 이란 드론 2대 격추",
+    "logic": "🔎 병치: 교전이 이어진 같은 날 모사드 국장은 CIA 국장을 만나 이란 전쟁 재개를 촉구했다(JPost; Haaretz의 악시오스 인용). Haaretz는 이스라엘이 미국의 이란 공격 참여를 설득하려 한다는 보도를 전했다."
+   },
+   {
+    "from": "n24",
+    "to": "n23",
+    "from_label": "IAEA, 이스파한 접근 불가 경고",
+    "to_label": "모사드 국장 방미 — 전쟁 재개 촉구",
+    "logic": "🔎 병치: IAEA가 이스파한 농축시설 접근 불가를 경고했고(i24·DW), Haaretz 분석은 이란이 우라늄과 호르무즈 통제권을 유지한다고 썼다 — 이스라엘이 재개를 요구하는 근거로 읽힌다(해석)."
+   },
+   {
+    "from": "n26",
+    "to": "n27",
+    "from_label": "EU 5개국+EU 협상팀 — 대변인 미정",
+    "to_label": "러 외무부 '유럽 참여 논의 안 해'(관영)",
+    "logic": "🔎 엇갈림: EU는 5개국+EU 팀을 정했지만(8개 매체 이상), 러 외무부는 러-미 회담에서 유럽 참여를 논의하지 않았다고 했다([관영] CCTV — 메시지). 칼라스는 러시아가 '덫'을 놓았다고 경고했다(Guardian)."
+   },
+   {
+    "from": "n28",
+    "to": "n18",
+    "from_label": "RAF 레이컨히스 '무단 드론' 대응",
+    "to_label": "독일 정보기관 권한 확대법",
+    "logic": "🔎 병치: 미군 주둔 영국 기지 상공의 '무단 드론' 대응(BBC·Guardian)과 독일 헌법수호청의 베를린 공항 러시아인 조사(Meduza)가 같은 날 나왔다. 원자료에 드론의 주체는 없다 — 러시아 소행으로 단정하지 않는다."
+   },
+   {
+    "from": "n19",
+    "to": "n20",
+    "from_label": "미·중 무역위 첫 회의 — 정상회담 앞",
+    "to_label": "트럼프, 아세안서 '팍스 실리카' 압박 예정",
+    "logic": "🔎 병치(둘 다 SCMP): 정상회담 며칠 앞 첫 무역위원회 회의로 대화 채널을 열면서, 다음 주 아세안에선 중국 의존을 끊는 '팍스 실리카' 동참을 압박할 예정이다(소식통) — 대화와 봉쇄를 동시에 쓴다(해석, 단일 출처)."
+   }
+  ]
+ },
+ "fields": [
+  {
+   "id": "industry",
+   "phenomenon": "MS: 아웃룩·팀즈 등 서비스 장애가 약 24시간 이어졌다(BBC). RBC는 11월 12일 저녁부터 장애가 보고됐다고 썼고, 닛케이 제목은 '인터넷이 멈춘 3일간'이다 — 지속 시간은 매체마다 다르다. MS는 '깊이 사과'했다(BBC·Channel 4·SCMP). 미·일 포함 74개 국가·지역에서 불량 보고(요미우리·테레비아사히), 메일 불통으로 물류 영향(테레비아사히). 원인은 '네트워크 용량 업그레이드'이며 사이버 공격·AI 활동은 아니라고 했다(NBC·Die Zeit·DW·Independent·SCMP·franceinfo·Libération). 북미·유럽 '뚜렷한 개선'(ARD·FAZ). AP '단일 기술 업체 의존 위험', ZDF(디지털부 '단일 공급자 의존 말라'), WELT '집중 위험', 닛케이 '사이버 리세션 대비는'. FAA: '특별한 상황과 안전상의 이유'로 전국 모든 출발편 그라운드 스톱(NBC·ABC·CNBC·Ynet·RBC) — 원인 미공개. 엔비디아: FT 'Arm 하스 접촉'(Reuters·닛케이·MBC·YTN 인용) vs 엔비디아 '후보 협상 보도 부인'(Vedomosti·[관영] RIA), 이사회 헤드헌터 미선정(CNBC), WSJ '싱가포르 매출 사라져 메가스피드 의문', 산케이 '메가스피드 모회사 허위 등기?'(의문형·단일), Reuters '크레스, 황의 베팅에 이의 제기했던 CFO'.",
+   "precedent": "🔎 2024년 7월 크라우드스트라이크 업데이트 오류로 윈도 PC가 세계적으로 멈춘 사태 — 공격이 아닌 한 회사의 변경 작업이 항공·병원·은행을 마비시킨 선례.",
+   "cause": "원자료가 적은 원인: 내부 네트워크 작업(NBC·Die Zeit). 🔎 해석: 업무 도구·메일·인증이 한 공급자에 몰려 있어, 내부 변경 하나가 74개 국가·지역의 업무를 세웠다.",
+   "essence": "🔎 공격이 없어도 체계는 멈춘다 — 집중 그 자체가 위험이다.",
+   "counter": "이 해석이 틀렸다면: MS는 하루 만에 '광범위하게 복구'했다(SCMP). 단일 공급자 의존은 비용 효율의 대가이며, 분산은 더 비싸고 느릴 수 있다.",
+   "scenarios": [
+    {
+     "name": "기본",
+     "desc": "완전 복구 뒤 원인 보고서, 유럽에서 공급자 분산 논의.",
+     "signal": "MS 사후 보고서, EU 디지털 주권 의제"
+    },
+    {
+     "name": "상방",
+     "desc": "재발 방지 체계 공개로 신뢰 회복.",
+     "signal": "SLA 보상, 단계적 배포 개편"
+    },
+    {
+     "name": "하방",
+     "desc": "재발 또는 규제·소송 확산.",
+     "signal": "추가 장애, 정부 조사·집단소송"
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "phenomenon": "앤트로픽 IPO: 11월 18일 공모가 확정 시 최대 904억 달러 조달 가능, 19일 정오 무렵 나스닥 거래 시작(Bloomberg). Handelsblatt '640억 달러 베팅', 6배 초과 청약; FT '1.5조 달러 규모 상장' — 🔎 매체마다 수치가 달라 확정하지 않는다. 아모데이 '시장 혼란에 크게 개의치 않아'(FT). 테레비도쿄 '기업가치는 타당한가'. 부채: JP모건 '2027년 미국 IG 회사채 발행 또 사상 최대'(Bloomberg). 인프라: 디지털 리얼티 일본 1.6조 엔·데이터센터 4배(닛케이), 아마존이 페르미 데이터센터 핵심 임차인으로 복귀(FT), 러시아 기업 서버 구매 16.7% 증가(Kommersant). 유럽: EU 집행위 'AI 투자 5천억 유로 필요'(WELT·FAZ), 미스트랄 멘슈 '지금 행동하라'(franceinfo·SCMP), Les Echos '의존성을 깨달았다', 첨단 AI 통제 논의(Interfax).",
+   "precedent": "🔎 2019년 사우디 아람코 IPO — 사상 최대 공모가 국가·자본의 기대를 한데 모은 선례. 상장 뒤 가치 논쟁이 이어졌다.",
+   "cause": "원자료가 적은 원인: AI 인프라 투자 수요(Bloomberg). 🔎 해석: AI의 자본 수요가 주식(IPO)과 채권(IG)을 동시에 끌어간다.",
+   "essence": "🔎 AI는 이제 주식시장과 회사채 시장 모두의 최대 차입자다.",
+   "counter": "이 해석이 틀렸다면: 앤트로픽 수치는 매체마다 달라 수요 규모가 과장됐을 수 있고, 테레비도쿄처럼 가치 타당성을 묻는 시각도 있다.",
+   "scenarios": [
+    {
+     "name": "기본",
+     "desc": "앤트로픽 예정대로 상장, AI 채권 발행 지속.",
+     "signal": "11/18 공모가, 11/19 첫 거래"
+    },
+    {
+     "name": "상방",
+     "desc": "공모가 상향·첫날 강세로 AI 자금 순환.",
+     "signal": "공모가 범위 상향"
+    },
+    {
+     "name": "하방",
+     "desc": "금리 상승 속 공모 부진·연기.",
+     "signal": "공모가 하향, 상장 연기"
+    }
+   ]
+  },
+  {
+   "id": "stocks",
+   "phenomenon": "나스닥은 금요일 엔비디아 매도에 하락했지만 8월 이후 최고의 한 주를 기록했다 — 엔비디아는 최근 압박에서 반등했고 물가 지표는 예상보다 약간 낮았다(CNBC). Reuters '엔비디아 불확실성에 S&P·나스닥 하락 마감'. 바클레이스 트레이딩 데스크 3월 이후 첫 미국 주식 강세 전환(Bloomberg). FT '엔비디아 파동 이후에도 버티는 AI 신봉자들'. 서학개미 한 주간 엔비디아 1천억 원 순매수(연합뉴스). 일본 3대 메가뱅크 중간 최종이익 합계 3.5조 엔 사상 최고(요미우리·아사히), 스미토모미쓰이·미즈호 자사주 매입(Japan Times). 한국: 이 대통령 'M&A 활성화'·의무공개매수 즉석 투표(SBS·매일경제).",
+   "precedent": "🔎 2024년 8월 엔 캐리 청산 급락 뒤 빠른 반등 — 충격이 하루 만에 흡수되고 강세론이 유지된 국면.",
+   "cause": "원자료가 적은 원인: 포지션 축소·변동성 완화(Bloomberg의 바클레이스), 물가 지표(CNBC). 🔎 해석: 시장은 엔비디아의 인물 리스크보다 AI 수요를 더 믿는다.",
+   "essence": "🔎 엔비디아 수장이 바뀐 주에 나스닥은 오히려 석 달 만의 최고 주간을 보냈다.",
+   "counter": "이 해석이 틀렸다면: 10년물 5.17%(CNBC)는 밸류에이션의 상한을 낮추고, FT는 강세론자들이 위험 집중을 무시한다고 경고했다.",
+   "scenarios": [
+    {
+     "name": "기본",
+     "desc": "앤트로픽 상장·연준 발언에 따라 등락.",
+     "signal": "11/19 상장, PPI·연준 발언"
+    },
+    {
+     "name": "상방",
+     "desc": "후임 CEO 확정·앤트로픽 흥행.",
+     "signal": "엔비디아 CEO 선임"
+    },
+    {
+     "name": "하방",
+     "desc": "금리 추가 상승으로 AI주 조정.",
+     "signal": "10년물 5.3% 돌파"
+    }
+   ]
+  },
+  {
+   "id": "crypto",
+   "phenomenon": "세계 최대 기업 비트코인 보유사 스트래티지가 MSCI 지수에서 편출된다(WSJ — 제목 기준, 단일). 스테이블코인 관련 헤드라인은 원자료에 없다.",
+   "precedent": "🔎 2022년 테라·루나 붕괴 뒤 코인 관련 기업이 전통 금융 지수·상품에서 밀려난 국면.",
+   "cause": "원자료가 적은 원인: 원자료는 편출 사유를 밝히지 않는다(제목만). 🔎 해석: 비트코인 보유 기업을 '운영 회사'로 볼지 '투자 펀드'로 볼지에 대한 지수 기준의 문제일 수 있다(추정).",
+   "essence": "🔎 코인은 오늘 전통 지수의 문턱에서 한 발 밀려났다 — 스테이블코인 경로의 근거는 오늘도 없다.",
+   "counter": "이 해석이 틀렸다면: 지수 편출은 기술적 분류 문제일 뿐 코인 수요와 무관할 수 있다(WSJ 단일 제목).",
+   "scenarios": [
+    {
+     "name": "기본",
+     "desc": "편출에 따른 패시브 자금 유출, 코인 가격 영향 제한.",
+     "signal": "편출 시행일, 스트래티지 주가"
+    },
+    {
+     "name": "상방",
+     "desc": "스테이블코인 법·결제 확대 뉴스.",
+     "signal": "규제 당국 발표"
+    },
+    {
+     "name": "하방",
+     "desc": "다른 지수도 코인 보유사 배제.",
+     "signal": "S&P·FTSE 결정"
+    }
+   ]
+  },
+  {
+   "id": "monetary",
+   "phenomenon": "연준의 12월 인상 기대가 강해지며 10년물 국채 금리가 5.17%로 올랐다(CNBC). CBS '인플레이션이 깊이 스며들어 인상 속도를 높여야 할 수도'. 골드만 '내년 3월 추가 인상'(테레비도쿄). 신화 '미 10월 PPI 상승폭 다시 사상 최고'([관영] — 메시지·미국 공식 수치 미확인). 🔎 CNBC: 최신 물가 지표는 예상보다 약간 낮았다. 워시 '금리 결정 투표는 줄이고 숙의는 늘리는' 연준 개편 구상(WSJ). 파급: 일본 메가뱅크 최고 이익(요미우리·아사히·Japan Times), 닛산 금리 상승 등으로 2년 연속 적자(테레비도쿄), 프랑스 대출 금리 급등에 부동산 거래 급감(Le Figaro). 유가: IEA '4분기 공급 과잉 전환'([관영] CCTV), WTI 0.2% 하락(연합뉴스). 혁명수비대 '호르무즈 유조선 2척 기뢰 피격' 주장(Ynet·[관영] RIA — 미확인)에도 원자료상 유가 급등 보도는 없다(수집 시점 기준).",
+   "precedent": "🔎 2023년 10월 미 10년물 5% 돌파 — 인플레이션 재가속 우려와 공급 부담으로 장기 금리가 치솟은 국면.",
+   "cause": "원자료가 적은 원인: 인플레이션 고착(CBS), 12월 인상 기대(CNBC). 🔎 해석: 금리 인상 국면에서 미국 금리가 세계의 자금 비용을 정한다 — 일본 은행은 벌고, 프랑스 주택은 식는다.",
+   "essence": "🔎 달러 금리는 '전쟁'보다 '물가' 때문에 오르고 있다.",
+   "counter": "이 해석이 틀렸다면: 물가가 예상보다 낮게 나왔고(CNBC) IEA는 공급 과잉을 전망했다 — 인상 기대는 과장일 수 있다.",
+   "scenarios": [
+    {
+     "name": "기본",
+     "desc": "12월 인상 기대 유지, 10년물 5%대.",
+     "signal": "PPI, 연준 위원 발언"
+    },
+    {
+     "name": "상방",
+     "desc": "물가 둔화 확인으로 인상 기대 후퇴.",
+     "signal": "CPI·PCE 둔화"
+    },
+    {
+     "name": "하방",
+     "desc": "호르무즈 공급 차질로 유가·금리 동반 상승.",
+     "signal": "유조선 피해 확인, 유가 급등"
+    }
+   ]
+  },
+  {
+   "id": "legislation",
+   "phenomenon": "미 행정부: 베선트 재무장관, 메가스피드 블랙리스트 등재 지연을 러트닉의 상무부 탓으로 돌림(FT·Guardian·SCMP·MBC·테레비아사히). 상원 은행위(팀 스콧) 러트닉 조사(동아일보), 러트닉 증언 동의(요미우리). Guardian '러트닉 경질 압박'. NYT: 트럼프가 사임 이틀 전 황에게 '싸워라' 전화(매일경제 인용·2차). 의회: 민주당 하원 40석 이상 탈환(CBS), 보버트 낙선(Fox·NBC·CBS·NYT), 미시시피 상원 44년 만의 민주당 승리(테레비도쿄), 제프리스 하원의장 굳히기(NYT), 밴 홀런의 슈머 도전·필리버스터 폐지 주장(Fox·ABC·Haaretz), 헤그세스 탄핵 무산(Fox 단일), 밴스 2028 출마 포기 검토 보도(MBC 단일). 사법: 대법원, 트럼프 망명 중단 명령 심리(AP·Guardian). 각국: 독일 정보기관 권한 확대법(DW·ARD·Meduza·[관영] CGTN), 2027 예산 대규모 차입(DW), 일본 5년 방위비 60조 엔(TBS·[관영] CCTV)·안보 3문서 조기 개정(TBS), 프랑스 사이버 '회복력 법'(France 24).",
+   "precedent": "🔎 1974년 중간선거로 의석을 크게 늘린 민주당 의회가 1975년 처치위원회로 정보기관을 조사한 선례 — 의회 권력이 커진 뒤 행정부 안보 관행을 파고들었다.",
+   "cause": "원자료가 적은 원인: 엔비디아 스캔들의 수출통제 책임(FT·동아일보), 중간선거 결과(CBS). 🔎 해석: 행정부 내부의 책임 회피와 의회 권력 교체가 겹치며 러트닉이 첫 표적이 됐다.",
+   "essence": "🔎 수출통제의 실패는 이제 '누가 책임지나'의 정치 문제가 됐다 — 재무부가 상무부를, 의회가 행정부를 겨눈다.",
+   "counter": "이 해석이 틀렸다면: 러트닉이 증언에 동의했고(요미우리) 트럼프가 공개적으로 경질하지 않았다 — 공방은 정권의 통상적 부처 갈등에 그칠 수 있다.",
+   "scenarios": [
+    {
+     "name": "기본",
+     "desc": "러트닉 증언, 수출통제 절차 점검.",
+     "signal": "청문회 일정, 상무부 신규 지정"
+    },
+    {
+     "name": "상방",
+     "desc": "메가스피드 신속 지정으로 공방 수습.",
+     "signal": "엔티티 리스트 추가"
+    },
+    {
+     "name": "하방",
+     "desc": "러트닉 경질·추가 인사 파동.",
+     "signal": "백악관 발표, 추가 조사 대상"
+    }
+   ]
+  },
+  {
+   "id": "forecast",
+   "phenomenon": "미·중: 트럼프-시진핑 정상회담을 며칠 앞두고 양자 무역위원회(Board of Trade) 첫 공식 회의(SCMP 단일). 트럼프, 다음 주 마닐라 아세안에서 '팍스 실리카'(AI·반도체 공급망의 중국 의존 차단) 동참 압박 예정(SCMP 소식통 — 단일·미확인). 중국의 메시지: 왕이-조현, 왕이-미 정당 대화 대표 회담([관영] 인민일보), '확고히 문을 열겠다'([관영] CCTV). 조현 '한반도 평화는 양국 공동 이익'(매일경제). 미국, 인도에 경쟁국 대비 관세 우위 보장([관영] CGTN). DW '시진핑-푸틴-트럼프 정상회담 추측 속 중국 신중'. 대만 당국자 '중국 예고 없는 태평양 훈련은 침묵의 위협'(Japan Times). 한국: 미 전문가들 '트럼프, 전작권 전환을 주한미군 철수 수단으로 봐'(MBC — 전문가 주장).",
+   "precedent": "🔎 2019년 12월 미·중 1단계 무역합의 직전 — 협상 채널을 열면서 화웨이 제재 등 기술 압박을 동시에 강화한 선례.",
+   "cause": "원자료가 적은 원인: 정상회담 준비(SCMP), 공급망 재편(SCMP 소식통). 🔎 해석: 미국은 대화(무역위원회)와 기술 블록(팍스 실리카)을 동시에 쓴다.",
+   "essence": "🔎 다음 주는 '대화 채널'과 '공급망 블록'이 같은 주에 시험된다 — 둘 다 단일 출처라 방향만 본다.",
+   "counter": "이 해석이 틀렸다면: 두 소식 모두 SCMP 단일이고, 무역위원회는 관세 휴전 관리용일 뿐 큰 합의로 가지 않을 수 있다. 아세안 국가들은 동참을 미룰 수 있다.",
+   "scenarios": [
+    {
+     "name": "기본",
+     "desc": "정상회담서 관세 휴전 연장, 기술 통제는 유지.",
+     "signal": "정상회담 공동 발표"
+    },
+    {
+     "name": "상방",
+     "desc": "무역위원회 정례화·관세 인하.",
+     "signal": "후속 회의 일정"
+    },
+    {
+     "name": "하방",
+     "desc": "팍스 실리카 압박에 중국 보복.",
+     "signal": "중국 희토류·수출 통제"
+    }
+   ]
+  },
+  {
+   "id": "geopolitics",
+   "phenomenon": "이란: 미군 이란 공격 드론 2대 격추·이란 '바레인 미군 레이더 타격' 주장(AP·Haaretz) — CENTCOM '피해 없음'(Haaretz), France 24 '입증 사진은 AI 조작, 미국 부인'. 모사드 국장, CIA 국장 면담·위트코프 면담 예정(Haaretz의 악시오스 인용·i24·한국경제TV), '전쟁 재개 촉구'(JPost). IAEA 사찰 차단·이스파한 접근 불가(DW·i24). 혁명수비대 '호르무즈 유조선 2척 기뢰 화재'(Ynet·[관영] RIA — 이란 측 주장). 후티 '리야드 공항 추가 타격'(Interfax·[관영] RIA — 후티 주장). 튀르키예·카타르 상호방위협정(Reuters·요미우리·JPost·Haaretz·[관영] 신화). 트럼프 '5개월간 아무도 안 죽었다'는 허위(WaPo), '퇴임 때 이란 정권 남으면 패배'(i24), 베선트 이란 위협 맹비난(ABC), 이란 청해부대 겨냥 메시지(SBS). 우크라이나: EU 5개국+EU 협상팀(WaPo·Spiegel·SZ·Reuters·Sky·BFMTV·Les Echos·YTN·Meduza), 단일 대변인 없음(Libération), Handelsblatt 논평 '분열된 유럽', 러 외무부 '유럽 참여 논의 안 해'([관영] CCTV), 러 NATO 후퇴 요구 재개(NYT 단일), 칼라스 '덫'(Guardian), 라트비아 총리 '진짜 협상 없다'(Channel 4), 스타링크·스타실드 제한(WaPo·산케이·FAZ), 폴란드 PURL 분담금 중단(Interfax 단일). 유럽 안보: 레이컨히스 '무단 드론'(BBC·Sky·Guardian), 독일 헌법수호청 베를린 공항 러시아인 조사(Meduza), 로스스타트 유출·전사자 50만~60만 추정(Spiegel 전문가), 영국 정찰 비행 4배(Interfax의 데일리메일 인용), TASS 유럽통신사연합 제명(RBC), 더블린 의심 장치 무력화(Le Figaro 단일).",
+   "precedent": "🔎 2019년 6월 이란의 미 무인기 격추와 호르무즈 유조선 피격 — 공식 전쟁 없이 드론·기뢰·주장이 오가며 긴장이 길게 이어진 국면.",
+   "cause": "원자료가 적은 원인: 이스라엘의 재개 압박(JPost·Haaretz), 이란의 핵 접근 차단(DW). 🔎 해석: 트럼프는 '승리'를 말하지만(i24), 이란은 우라늄과 호르무즈를 쥐고 있고(Haaretz 분석) 이스라엘은 끝내자고 한다 — 출구 없는 저강도 교전이 굳는다.",
+   "essence": "🔎 '끝난 전쟁'에서 드론이 격추되고 모사드가 재개를 요청한다 — 이란전은 끝나지 않고 형태만 바뀌었다.",
+   "counter": "이 해석이 틀렸다면: CENTCOM은 피해가 없다고 했고 이란의 레이더 타격은 조작 사진으로 반박됐다(France 24). 트럼프 행정부가 실제로 재개에 나선다는 근거는 원자료에 없다. 우크라이나에선 유럽이 몇 달 만에 협상팀을 정했다(Sky) — 협상의 틀은 넓어지고 있다.",
+   "scenarios": [
+    {
+     "name": "기본",
+     "desc": "이란과 저강도 교전 지속, 우크라이나 협상 준비 단계.",
+     "signal": "CENTCOM 발표, 유럽팀 첫 회의"
+    },
+    {
+     "name": "상방",
+     "desc": "중재국 통한 이란 협상 재개, 유럽팀 포함 회담 일정.",
+     "signal": "카타르·튀르키예 중재 발표, 회담 날짜"
+    },
+    {
+     "name": "하방",
+     "desc": "미·이스라엘 공습 재개, 호르무즈 기뢰 피해 확인.",
+     "signal": "공습 보도(복수), 유조선 피해 확인"
+    }
+   ]
+  }
+ ],
+ "hypothesis_check": {
+  "support": [
+   "이란 축(복수, 새 사건): 미군이 이란 공격 드론 2대를 격추했다(AP·Haaretz) — 트럼프의 '승리 선언' 뒤에도 교전이 이어진다. 모사드 국장이 방미해 CIA 국장을 만났다(Haaretz·JPost·i24·한국경제TV). '전쟁 재개 촉구'라는 표현은 JPost다. IAEA는 이스파한 접근 불가를 경고했다(DW·i24)",
+   "역내 블록화(복수): 튀르키예·카타르 상호방위협정(Reuters·요미우리·JPost·Haaretz·[관영] 신화) — 분쟁이 장기 동맹 구조로 굳어진다(해석)",
+   "단일·일방·관영(판정 근거 제외): 이란 '바레인 레이더 타격'(이란 측 주장, 미국 부인·France 24 'AI 조작 사진'), 혁명수비대 '호르무즈 유조선 기뢰'(이란 측 주장), 후티 '리야드 공항 타격'(후티 주장), 러 'NATO 후퇴 요구 재개'(NYT 단일), 폴란드 PURL 중단(Interfax 단일), 팍스 실리카 압박(SCMP 소식통 단일)"
+  ],
+  "against": [
+   "가설 균열 — 우크라이나 축(복수, 새 사건): EU가 몇 달 만에 5개국+EU 협상팀을 정했다(WaPo·Spiegel·Reuters·Sky·BFMTV 등) — 협상 틀이 넓어진다. 🔎 다만 단일 대변인은 없고(Libération), 러 외무부는 유럽 참여를 논의하지 않았다고 했다([관영] CCTV — 메시지)",
+   "이란 축 반대 신호(복수): CENTCOM은 인명·재산 피해가 없다고 했고(Haaretz), 이란의 레이더 타격 주장은 조작 사진으로 반박됐다(France 24) — 실제 공습 재개는 확인되지 않았다",
+   "가설 균열 — 코인 경로: 스테이블코인 헤드라인 없음(판정 근거). 스트래티지의 MSCI 편출(WSJ 단일)은 코인이 전통 지수에서 밀려나는 신호이지 달러 스테이블코인 확산이 아니다",
+   "🔎 통화 축(판정 중립): 10년물 5.17%·12월 인상 기대(CNBC)는 물가 탓이지 분쟁 탓이 아니다. 유가는 IEA 공급 과잉 전망([관영] CCTV)·WTI 하락(연합뉴스)으로 오히려 약했다",
+   "🔎 AI 축(판정 중립): 앤트로픽 IPO·JP모건 IG 전망은 AI 자본의 달러 시장 집중을 보여주지만 'AI 결제의 달러화'를 직접 보여주지는 않는다"
+  ],
+  "verdict": "유지",
+  "note": "🔎 판정 '유지'(11-08부터 7회 연속). ① 이란 축: 지지 쪽 유지. 드론 격추(복수, 새 사건)와 모사드의 재개 촉구(복수)는 '승리 선언' 뒤에도 분쟁이 끝나지 않았다는 신호다. 다만 11-13 기준인 '미·이스라엘 공습 재개의 복수 출처 확인'은 오늘도 없다(CENTCOM '피해 없음'). ② 우크라이나 축: 반박 쪽. 유럽 협상팀 확정(복수)은 협상 틀 확대이고, NATO 후퇴 요구는 NYT 단일이라 판정 근거에서 뺀다. ③ 통화·AI 축: 중립. ④ 코인 축: 반박(스테이블코인 근거 없음, 스트래티지 편출은 단일). 지지(①)와 반박(②·④)이 맞서 '유지'다. 반례: 유럽팀이 참여하는 협상 일정이 잡히고 이란 중재(카타르·튀르키예)가 재개되면 '약화'. 미·이스라엘 공습 재개나 호르무즈 유조선 피해가 복수 출처로 확인되면 '강화'를 검토한다."
+ },
+ "top10": [
+  {
+   "headline_ko": "엔비디아 후폭풍, 정권 내부로 — 베선트 '메가스피드 제재 지연은 러트닉 상무부 책임' 공개 비판; 상원 은행위 러트닉 조사·증언 동의; FT '후임으로 Arm 하스 접촉' vs 엔비디아 부인; WSJ '싱가포르 매출 사라져'",
+   "importance": 5,
+   "why": "정권 내 균열: 베선트 재무장관이 엔비디아 고객사 메가스피드의 블랙리스트 등재가 늦어진 책임을 러트닉의 상무부에 돌렸다(FT·Guardian·SCMP·MBC·테레비아사히). FT는 이 공세가 행정부 내부 갈등을 키울 위험이 있다고 썼다. 의회: 팀 스콧 상원 은행위원장이 러트닉을 불러 대중 수출 규제 완화 배경을 조사하기로 했고(동아일보), 러트닉은 증언에 동의했다(요미우리). Guardian은 러트닉이 경질 압박을 받고 있다고 썼다. 트럼프: NYT에 따르면 트럼프가 사임 이틀 전 황에게 전화해 '자리를 지키려면 싸워라'고 했다(매일경제의 NYT 인용·2차 인용). 후임: FT는 엔비디아가 Arm의 르네 하스에게 의향을 타진했다고 보도했다(FT; Reuters·닛케이·MBC·YTN 인용). 엔비디아는 후보와의 협상 보도를 부인했다(Vedomosti; [관영] RIA). CNBC는 이사회가 아직 헤드헌팅 업체도 고르지 않았다고 썼다. 메가스피드: WSJ '엔비디아 싱가포르 매출이 사라지며 의문 증폭'; 산케이는 모회사 허위 등기 의혹을 의문형으로 제기했다(단일·미확인). 🔎 시장은 흡수 중: 나스닥은 금요일 하락했지만 8월 이후 최고의 한 주(CNBC); Reuters '엔비디아 불확실성에 S&P·나스닥 하락 마감'. 서학개미는 한 주간 1천억 원 순매수(연합뉴스).",
+   "sources": [
+    {
+     "name": "Financial Times",
+     "url": "https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d?syn-25a6b1a6=1"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
+    },
+    {
+     "name": "SCMP (홍콩)",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3374409/bessent-blames-us-commerce-department-not-restricting-nvidia-chip-exports-china"
+    },
+    {
+     "name": "MBC",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53SlZLLXM3bzZHUnJic0lBVnpMalRPN2xNcnprR0xtQ0lZeUQ0bEwtT25qdEE0Zk5uRjZIek5MSXdIT3ZPcXplb0M3OGtIYmFYbzAtdWtMU2Q0UnRBTTZNMnBscExsZHB5bDRmRUdjUHlFSWtq0gF0QVVfeXFMUFlRbU5raUJtNnlfQ2VWUDdla0E4RVpLZk1POS1FU1lLTTcyckZQWTR6NGtRV1JzRlc5WlktdDJsUUNEOGdEOFBDTlhXdzdPRC1mOFFoTXV4T2tPbFFlSFBRY0Jsd3cyNEJIak9nV2Z4ajBxYno?oc=5"
+    },
+    {
+     "name": "テレビ朝日",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBScVZ3VmFGOEg2MzF6ajNPTUc0aURSeEdJczZYeTJKSVRnN1A3eEV4Q0ZudUVJMlk4WngxTnV3Vm5VRHlIaE1hWEZHSktad2N2UmhWclJsRjBQR2ZGQk9TcEdBQUszQ0pzN2tpbVdOVWdySTN6MTVRX2t3?oc=5"
+    },
+    {
+     "name": "동아일보",
+     "url": "https://www.donga.com/news/Inter/article/all/20261114/135023349/2"
+    },
+    {
+     "name": "読売新聞",
+     "url": "https://www.yomiuri.co.jp/economy/20261114-GYT1T00090/"
+    },
+    {
+     "name": "매일경제",
+     "url": "https://www.mk.co.kr/news/world/12208448"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMW5kZ01Wbk9TVFVaV1BrRXYwZEs0RmNORjJySnlqTDR5V2E2dlcwcVFFdHBVbG9nQjBPaXFWUjFpX2ZpR0gwUWE0N1ZBODl0VjFWdVBYLUJUYkFWZThNRmJEenhjbnVKTzA4Tkt6T1lPN1NzcTJPTFVDRFV2VFNrWWJ3ei14Q2JPQmZKd19jSUo2MHlIdVZhR3plaWtnNERYdG0yTi1XZThxLTZoZ0xzZUJ0dmN3OHJERlRuN0ZXSQ?oc=5"
+    },
+    {
+     "name": "日本経済新聞",
+     "url": "https://www.nikkei.com/article/DGXZQOGN13D8S0T11C26A1000000/"
+    },
+    {
+     "name": "MBC",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42QXUtbWZNLTZJbUZiZGNiczdGZzh2WDduRVdQZ2V6RFVvellBVkRkM1VHMHR5MEoyamc5emZBY2pwaUNnZmZFZEpBcXZfRmMwOVpGMC1IdjFzMjFSd0I0SUc3d1M1T1NRNTh4dnNFUF9LTjRU0gF0QVVfeXFMUEIxeVcxQTBOSlEzWmlLOG1LUDBpUVdBWUtJX2VyRzR1cjk3YWpQbVFPd25taF9vLXptSUtLZmdmalNiMjNMNHNOWU5KOHJCMlNfN3p3TWNCNU8xSXE2cmdDR3pIRWk2RGtMUF9DUlc4cV9GSjA?oc=5"
+    },
+    {
+     "name": "Vedomosti",
+     "url": "https://www.vedomosti.ru/politics/news/2026/11/13/1245326-v-nvidia-oprovergli-dannie"
+    },
+    {
+     "name": "RIA Novosti [관영]",
+     "url": "https://ria.ru/20261113/nvidia-2131473432.html"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html"
+    },
+    {
+     "name": "Wall Street Journal",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTVMxMWYtSHpfTEN1dUVzcTRpZDBkRUR4ZVBENFJxODZHaEg5WHp0ekZFdENtZEZrNDl5eENKWW11LVJFSGd4T0Y0TVNEQU0wRUhoMW5HMVdsUmZmQThZVV9WdmVXc3ZGM0F5Wk1kRlM0TEFXbG51WUNyWGt3WXlRU1I2cmNoNmNocEtkdkktdU9NTVA1dUhiWHlYRG44aUxTM3VlVmdzOU41T3Z4aGxKbkw4VG5RZw?oc=5"
+    },
+    {
+     "name": "産経新聞",
+     "url": "https://www.sankei.com/article/20261114-JKYTXYZAXRLRLC2SON3YL7EKSI/"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0xIRkJ1T2xEOU9abUNDYi1vTlpmRWJzd0MyQkFqa2NSb1BkMEdUNDROMmVmaXo3bDVRdThuRDFRaWZySXAyRjN5d1NDNjhCclFJUDVxdG9CQ1dyWWpDbUEwVHVRaHpNWUg5SjdreUtMeHNHXy1feGNBVkFLN3Z4cGNTcGtyYXg2bXFHdlpZQWtneFJDSWVreFROZ09oamc?oc=5"
+    },
+    {
+     "name": "연합뉴스",
+     "url": "https://www.yna.co.kr/view/AKR20261113140200008"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnRLUFljeVFkcXJzT2xiV3lQWnlaMENnaUNHVlZNdWtscEZSVnRIaWZYSERpb0hTVEc2cmVZaEw4Q1FBX3B6VmNvMnhaSm5GV1RvQ2pwNExEazBSNWRRejMyTU5NZU5RXzdhdU5xMDZZUHFWekdwZG9wWEJOeV9HQnVwLTR4b2FXc1FfWDRPVTd2Tm1JVkRCYk5aUjFROWhqR1pRay1oWVFjdnpnSTRHdzd3?oc=5"
+    }
+   ],
+   "fields": [
+    "industry",
+    "legislation",
+    "geopolitics"
+   ],
+   "hypothesis": "무관"
+  },
+  {
+   "headline_ko": "마이크로소프트 세계 장애(BBC '약 24시간') — 74개 국가·지역, '사이버 공격 아닌 네트워크 용량 업그레이드' 원인; MS '깊이 사과'; 유럽 '단일 공급자 의존' 경고",
+   "importance": 5,
+   "why": "규모: 아웃룩·팀즈 등 MS 서비스 장애가 약 24시간 이어졌고 MS는 '깊이 사과'했다(BBC·Channel 4·SCMP). 미·일 포함 74개 국가·지역에서 불량이 보고됐다(요미우리·테레비아사히). 메일 송수신이 막혀 물류에도 영향이 있었다(테레비아사히). 원인: MS는 사이버 공격이 아니라 '네트워크 용량 업그레이드' 때문이라고 밝혔다(NBC·Die Zeit; DW·Independent·franceinfo·Libération '사이버 공격 아님'). SCMP·Die Zeit는 AI 에이전트·AI 활동도 원인에서 배제됐다고 썼다. 복구: 북미·유럽에서 '뚜렷한 개선'(ARD·FAZ), 일본은 '비교적 안정'(NTV). 의존 위험: AP '필수 서비스를 단일 기술 업체에 맡기는 위험', 독일 디지털부 '단일 공급자에 의존하지 말라'(ZDF), WELT '집중 위험', 닛케이 '사이버 리세션 대비는 있나'. Independent가 인용한 전문가는 '역사상 경제적 피해가 가장 큰 사례 중 하나'라고 했다(단일·미확인). 지속 시간: BBC '약 24시간', RBC '11월 12일 저녁부터'.",
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "Channel 4 News",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV3JpUG14aFJZUlI4WFBpaUI0bTVndW1SS3p2ZFVvRGxBMUFmOTFhR3VPRThyaVJiTnpDTjUyX0tmUnNDNTY1eXpZY1J5WW9xUjFEUHc1SThPeXBmdm5BVE9tYTB1QTNpdHFJWFFNYkt3RTdUSzlKTzI2OFZ6a005NmlQdW85aGhXQ08tdlZLZlc?oc=5"
+    },
+    {
+     "name": "SCMP (홍콩)",
+     "url": "https://www.scmp.com/news/world/article/3374408/microsoft-deeply-sorry-global-outage-says-issue-not-caused-cyber-or-ai-agents"
+    },
+    {
+     "name": "読売新聞",
+     "url": "https://www.yomiuri.co.jp/economy/20261113-GYT1T00380/"
+    },
+    {
+     "name": "テレビ朝日",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84aXBWQ3J6aElNbWZ2YV9idjVPc2QyQ1Nhc2M0SHVLLUlqM0FBVUdlbmRLZXpFZ253bGQ1ZVlWRlhiSGVuNG4zVFlrdHZqS3k1YVhOZnIwajBSUV9tQVYwSTZ2OE5nSHJDWWdWRlV3YUoyZw?oc=5"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/now/video/microsoft-says-major-outage-was-due-to-a-network-capacity-upgrade-273461829847"
+    },
+    {
+     "name": "Die Zeit",
+     "url": "https://www.zeit.de/digital/2026-11/microsoft-stoerung-online-dienste-outlook-365-teams"
+    },
+    {
+     "name": "Deutsche Welle",
+     "url": "https://www.dw.com/de/microsoft-sieht-nach-panne-keinen-hinweis-auf-cyber-angriff/a-79940856?maca=de-rss-de-all-1119-rdf"
+    },
+    {
+     "name": "The Independent",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbU12c0NPakt5Z1dZSER2dDA3TURhem10SkNRcFlNUEhTOEZCbHU3MHBtMlRsTEczN3RFOUR4azRhVTZ1TlpzczBVUXl2MGNJeU9IODR1aXJQN3lkeVI4ekhjalpndzVDQ3ozNFZQaS1uT0ZlRVVqbFJ6TkhHNTVSdmh4R0Z2QTRNNWlBSzFYY2NvakR3Y1ptNFFYRXU?oc=5"
+    },
+    {
+     "name": "franceinfo (France 2)",
+     "url": "https://www.franceinfo.fr/internet/panne-informatique-mondiale/outlook-et-teams-perturbes-pas-de-cyberattaque-d-apres-microsoft-ce-que-l-on-sait-de-la-panne-mondiale-qui-touche-le-geant-americain-depuis-jeudi_8280671.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+     "name": "Libération",
+     "url": "https://www.liberation.fr/economie/economie-numerique/outlook-vous-navez-plus-de-message-20261113_O6IJNBBOCVA4HJWJVKQGH7WZXY/"
+    },
+    {
+     "name": "ARD Tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-stoerung-100.html"
+    },
+    {
+     "name": "FAZ",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/microsoft-gibt-vorsichtige-entwarnung-nachhaltige-verbesserung-in-europa-accg-201679156.html"
+    },
+    {
+     "name": "日本テレビ(NTV)",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd0VxNGptaTA0S3lLb2VQZDR4M0Q0YnppYk5RaGxvV18wcDcyLXdVbWlBVHExelYxaG94VTNMS3JWajVodG1FeUlxcEluNDBLbDVNR1M2eXNYZk13R2dXd1pPZjB1LWthZmtHRmZzMU16MnVYd2ZvNGFEMWUzTldUN1dDS3g?oc=5"
+    },
+    {
+     "name": "AP",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYWY5MnRXdTRCaHJZT3BKRWs4TzQxdUR3NEZzQ3ZsTmxCLW9wcFJJMzFaLS1pVGhtb3BabWdhN3pvQUhPU0FNbDJMV2I0a3BWaGtuQWpxVVNxRTZIUGhNS3c5RG5oVHNGaGg3XzJDdkE1V0RBWFJKVzMzTFVnN3otc0xZNWhCWWducmlfS2dXZ3lGcUtWcFJQWkxnejVqWjFxTlZKbENDamJfUQ?oc=5"
+    },
+    {
+     "name": "ZDF heute",
+     "url": "https://www.zdfheute.de/politik/microsoft-digitalministerium-digitale-unabhaengigkeit-100.html"
+    },
+    {
+     "name": "WELT",
+     "url": "https://www.welt.de/videos/video6af74ef027adfb0b7bb2d81e/nach-globalem-cloud-chaos-wir-haben-arbeitsfaehigkeit-in-die-hand-eines-einzelnen-anbieters-gelegt.html"
+    },
+    {
+     "name": "日本経済新聞",
+     "url": "https://www.nikkei.com/article/DGXZQOCD12BC10S6A111C2000000/"
+    },
+    {
+     "name": "The Independent",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLTRpMXh4cC1hc252Y25GWmRtc2tGUWM5Vlc1ekxwMTRWbnNvUTR1Wmk4VnVwODlLdXo4M0tTSTFyNm1sME8tT05hV2NMVUQwZ2JDc0Q5Nm52dkk3cVMtWDJqcnJTNTIzbkdXNzVXZkMwRUFaRElBNk5OUUJUMjd4T3IzOTF2clpPNkljeWRJRQ?oc=5"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/microsoft-battling-major-outage/"
+    },
+    {
+     "name": "RBC",
+     "url": "https://www.rbc.ru/technology_and_media/13/11/2026/6af6d9cd6e6bd5856c94e4ed"
+    }
+   ],
+   "fields": [
+    "industry",
+    "geopolitics"
+   ],
+   "hypothesis": "무관"
+  },
+  {
+   "headline_ko": "이란 전선 재가열 — 미군, 이란 공격 드론 2대 격추·이란 '바레인 미군 레이더 타격' 주장(미국 부인); 모사드 국장 방미해 CIA 국장 면담 '전쟁 재개 촉구'; IAEA 사찰 차단; 혁명수비대 '호르무즈 유조선 2척 기뢰 피격'",
+   "importance": 5,
+   "why": "교전: 미군이 이란 공격 드론 2대를 격추했고 이란은 바레인의 미군 레이더를 타격했다고 주장했다(AP·Haaretz). CENTCOM은 인명·재산 피해가 없다고 밝혔다(Haaretz). France 24는 '레이더 파괴'를 입증한다며 퍼진 위성사진이 AI로 조작된 과거 현장 사진이라고 확인했고 미국은 타격을 부인했다. 이스라엘: 고프만 모사드 국장이 워싱턴에서 CIA 국장을 만났고 위트코프 특사도 만날 예정이다(Haaretz의 악시오스 인용·i24). JPost는 그가 이란 전쟁 재개를 촉구했다고 썼다. Haaretz '이스라엘이 미 행정부의 이란 공격 참여를 설득하려 한다는 보도'. 핵: IAEA가 사찰 재허용을 촉구했다 — 이스파한 농축시설 접근 불가(DW·i24). 해상: 혁명수비대는 호르무즈에서 유조선 2척이 기뢰에 부딪혀 불이 났다고 주장했다(Ynet; [관영] RIA — 이란 측 주장·미확인). 트럼프: '최근 5개월간 아무도 안 죽었다'는 주장은 허위 — 7월 요르단 기지 공격 3명 등 사망자가 있었다(WaPo). i24: 트럼프 '퇴임 때 이란 정권이 남아 있으면 패배'. 역내: 튀르키예·카타르 상호방위협정 서명(Reuters·요미우리·JPost·Haaretz; [관영] 신화). 후티 '리야드 공항 추가 타격' 주장(Interfax; [관영] RIA — 후티 주장). 미국: 베선트가 이란 위협을 맹비난했다(ABC). 한국: 이란이 청해부대를 겨냥해 '뱁새가 황새 따라가면' 메시지를 냈다(SBS).",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXJTcEdfVGdOV1VrbGpYTy1hMlkybS1IbjZGS0piS01yNWY5RnVsMi16ZHBMTFVIajNzcFoydFZXWmhEQXJuVXBHNFBic2JSRlJLZ05TNGlmclRmMlppOExmc2ttem1zVnhQV0ppcnVaUkd2Q29fVVNXUzJpUFEwUE1WSHVkc0tZQXpmaHBSZ0YxVWpoOGNkMmZnbw?oc=5"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://www.haaretz.com/middle-east-news/iran/2026-11-13/ty-article/u-s-downs-two-iranian-drones-as-iran-says-it-struck-u-s-radar-in-bahrain/000001a1-d63d-d1ce-a9a3-f63f97d80000"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/fr/moyen-orient/20261113-un-radar-am%C3%A9ricain-d%C3%A9truit-par-l-iran-cette-image-modifi%C3%A9e-par-ia-montre-une-destruction-ancienne"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://www.haaretz.com/middle-east-news/iran/2026-11-13/ty-article/.premium/mossad-chief-meets-u-s-officials-to-discuss-iran-as-netanyahu-pushes-for-war/000001a1-d57c-da30-a7fb-ddfd4a810000"
+    },
+    {
+     "name": "Jerusalem Post",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxZWZSRzZ2dktlYU1HMXRSWjdDSkNJRnhnbzdhX3ZRemExUUNrVXZmOXBKU0RfV1h1U1QyaHdhbmQ5MkVRbzhxNDBGdHBDNFI1U0ZENXpCX0VzYmE4Q3Rn?oc=5"
+    },
+    {
+     "name": "i24NEWS",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTnpiVmJQTWhlU1ppdE5IOVh6eXp6cGJETDNZTGk3d19yQ1RnR011UDNNQjBCUDBwU0h5X3V6LUE2MnJocE0yaWhxYmdkMk9KLXRmQnpEd09QMjZCZFJ6eXltZ2cyU1FNNGRMUUQxRGNvOGNOMFNidUQ0YVhYU3RpM21IWnNuTHl5a01nSTlpaUtfYllzdEN5UkRSaHc0anBWVDNTSXJfVVVLM2h2NzBscmVfOGhFYUVISGxJazllMEFzSEd6?oc=5"
+    },
+    {
+     "name": "한국경제TV",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZGhqbU5HckQ1WEtBWVo4Zk5maWNtZlNPT2FQOFlNVWZiRDg5YWlya3Jhb1hSMFZBXzlwWFg5dlhxbFZjRExwb3d4c0NoZmJvX0RGQ05HVjRKMzJab0lYUXJSUURtbmNnOWplTVBKVm9KSWZSYnFCVXUxTmVSTDM5Ug?oc=5"
+    },
+    {
+     "name": "Deutsche Welle",
+     "url": "https://www.dw.com/de/iran-blockiert-inspektion-von-atomanlagen-iaea-besorgt/a-79938196?maca=de-rss-de-all-1119-rdf"
+    },
+    {
+     "name": "i24NEWS",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORmktMVNrWExDT1IwUnh1amtyaWdMUGh3a3IxNkNvOFl1aWtkUzJHd0FRdFJjdWt2SFBfLVJYQldmWkl4ejhCd2pkQ3RycmVScTdoOXZza25WSU5tTWpJa2hvcGxxMVN6TjZTX1JqYVZ0YkJXYUFKTjdPR2hWQzJZbkEyRUdXRXdUcXlTSnVEa0xfTGp2TmZzQ2VDSGVSQjQtVllNX1ZSbWJxeHEyLW0zZTVqX3lmY3ExQjhJRmRtaHFLTFdKN2RXZWdrQnhqUHVoeVRnSmV2OA?oc=5"
+    },
+    {
+     "name": "Ynet News",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDV1NKZHM5X0xlcTQtbVpyYW03MEM2TzZ3Y20yNkZOYVFNS2h5N1JGY0Rqa053UWJqTU91SDF1Y3ZIOTZ0WVZzdWJheHJYUWVwU1BaSQ?oc=5"
+    },
+    {
+     "name": "RIA Novosti [관영]",
+     "url": "https://ria.ru/20261113/ormuz-2131473916.html"
+    },
+    {
+     "name": "Washington Post",
+     "url": "https://www.washingtonpost.com/politics/2026/11/13/trump-falsely-claims-nobodys-been-killed-iran-war-last-five-months/"
+    },
+    {
+     "name": "i24NEWS",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSjl3QnFwUFZMVWtuNjFhSS1Gd1dBbzdNWDhBRFp0cE4tRUVOTWhKdWV0a25kOC1QQjU3TlZkQU1Nd0dWYWlRd1EzaTNER1BobHRhcVZhclVPdE4tZDV2WHRKb1VVRXVYV2t1R0FOSUJJeWFlUDVWbldPVVdmZ2hORTcyeFE4Rkk4WkZ4LWt5Z3ZBRWpmR253MUF2RlR3YVdscjk2TUg5ekNUalF2NVhhTHY0MTJWS1VCVDNUdVh1c0t5MWFYSEpYWml0MXRsdFYtOEVRM2s4Q1Jmb1IzNjVHMHlUQnJmT0FZRldpeHBVWUZsUE1L?oc=5"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTGE3d2YwNy1ONlliXzNCVDNiZU01WlB3YUdPMEZwOHJpNS1UWEtvZ3hhM1hWOGN2REsxbEw1SzNERlk3eTVfUTdlOEFJYVAwNXVjT25jczJDRE9iTE5DYjlxNnQ3UlJRVDlRdU1UeHhNZ1NUWnBVU2w2TjZLWTg5emhUZ2RVVXowVWZuMnBiTlhtWlhxUDkxODkzNVlfeGlGbVlYV0todlRQc1JZSXIyVXpsVU1WRDFFU2QxTA?oc=5"
+    },
+    {
+     "name": "読売新聞",
+     "url": "https://www.yomiuri.co.jp/world/20261114-GYT1T00094/"
+    },
+    {
+     "name": "Jerusalem Post",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80dFZza1laTTNNNWppMXhhbFZiXzFFWmt4S3I4OWd4RHA4aWtIZ29vX3lsMThhUUlaYnIwQjJ3ampOY0VHYWY4OVBTVzVOTWpDTkItWEtoNFI3VFlH?oc=5"
+    },
+    {
+     "name": "Xinhua [관영]",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11NTQ0VWpLTnpYdkxJb0xud1BtVUIwVVNvaVMtU19zSFlKcTdiTmVwTHBPWnJNWVhEZHdYU0dUNTh5RWFKa2VRcHJlWVo2Q0xCR1pmZnd6NUd4WGR6cHBDTDEyWEZ0VkhNRUU5V2xaUC1sMGFYSFljSTg1R2tMNnc?oc=5"
+    },
+    {
+     "name": "Interfax",
+     "url": "https://www.interfax.ru/world/1128944"
+    },
+    {
+     "name": "RIA Novosti [관영]",
+     "url": "https://ria.ru/20261113/husity-2131473571.html"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://abcnews.com/International/live-updates/iran-live-updates-americans-tired-forever-wars-araghchi/?id=137967256"
+    },
+    {
+     "name": "SBS",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845250"
+    }
+   ],
+   "fields": [
+    "geopolitics",
+    "monetary"
+   ],
+   "hypothesis": "지지"
+  },
+  {
+   "headline_ko": "EU, 우크라이나 협상 대표로 '독·프·영·이·폴 5개국+EU 기관' 팀 확정 — 단일 대변인은 합의 못 해; 러 외무부 '유럽 참여 논의 안 했다'(관영), NYT '러, NATO 후퇴 요구 재개', 칼라스 '러시아의 덫'",
+   "importance": 5,
+   "why": "결정: EU 정상들이 더블린 비공식 회의에서 독일·프랑스·영국·이탈리아·폴란드와 EU 기관으로 구성된 팀이 대러 협상에서 유럽을 대표하기로 했다(WaPo·Spiegel·SZ·Reuters·Sky·BFMTV·Les Echos·YTN). Meduza는 블룸버그를 인용해 각국 국가안보보좌관이 대표한다고 썼다. 한계: Libération '단일 대변인에는 합의 못 해'; Handelsblatt 논평 '푸틴이 가장 좋아하는 상대는 분열된 유럽'; ZDF '더블린 회의가 약점을 드러냈다'. 러시아: 러 외무부는 러-미 회담에서 유럽의 협상 참여는 논의되지 않았다고 밝혔다([관영] CCTV). NYT는 러시아가 비공개 협상에서 NATO 후퇴를 합의 조건으로 다시 요구했다고 썼다. 칼라스 EU 외교안보 고위대표 '러시아가 유럽 안보 의제로 덫을 놓고 있다'(Guardian), 라트비아 총리 '진짜 협상은 없다'(Channel 4). 전장·지원: 젤렌스키 '협상 도중 스타링크 제한 계속'(WaPo; 산케이·FAZ '스타실드 제한'). 폴란드는 우크라이나용 미국 무기 구매(PURL) 분담금 납부 중단을 밝혔다(Interfax 단일·미확인).",
+   "sources": [
+    {
+     "name": "Washington Post",
+     "url": "https://www.washingtonpost.com/world/2026/11/13/europeans-decide-thorny-question-who-will-speak-bloc-ukraine-talks/"
+    },
+    {
+     "name": "Der Spiegel",
+     "url": "https://www.spiegel.de/ausland/krieg-in-der-ukraine-europaeer-einigen-sich-auf-verhandlungsteam-fuer-gespraeche-mit-russland-a-33f42a19-3d6f-4708-8372-a55f8583040a#ref=rss"
+    },
+    {
+     "name": "Süddeutsche Zeitung",
+     "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-usa-russland-europa-verhandlungen-putin-europaeische-union-li.3571967"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdzdxUzRIeEdma0VrYkQtMXpkaF9WWXNCem5wcGRNMkhtZHBUd0MtWnhjdlZmcEd0dmZLRXBwRTRLMm53bnVLanZ5d01RRldxMUlJeDRaeWtWMVVBc2Jmbk41Uzg4RjBVbHE1WDFKRlRvMUFkU2szUXFPWHQzSjhmbHAyR3BWQk9FNDgxOWNfSlMxRFZXLU5jYjlaNzZoWlAxRllCUHBKNmtpZHF2?oc=5"
+    },
+    {
+     "name": "Sky News",
+     "url": "https://news.sky.com/story/eu-leaders-choose-team-for-ukraine-peace-talks-after-months-of-wavering-13612008"
+    },
+    {
+     "name": "BFMTV",
+     "url": "https://www.bfmtv.com/international/europe/ukraine/video-ukraine-les-dirigeants-ont-convenu-que-notre-equipe-europeenne-chargee-des-negociations-de-paix-etait-composee-de-l-allemagne-la-france-l-italie-la-pologne-et-le-royaume-uni-declare-antonio-costa-president-du-conseil-europeen_VN-202611130863.html"
+    },
+    {
+     "name": "Les Echos",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNSmNma0h1ZnlqMzZ1LTZoaC12YWFxbm5TMldVY0hTZDR3RDNpT2xaWFl2Mm1WREduY2g2Z2pvVnhHUlZBTjlCOFRaV1BydXg3blhvcXk1ZjhiMlF3Y1NBdTNIQXFsOXVCVzFaSE5UbFVXempPNi0ybUJiSG0wYjhpSTlYSEF1YmEwQmo0OWprZzhWYkJKYnpGRWdnYVhiSm5ENWJtSXVnb2JscHp0bWlxZ25xcDRlMGlsX25TVDdPQ25ORlpldW55NXFwUmxqQ0NJd1BFZDFQSFhMckQyalZoTEp0NUc5T0UwTzBOdHBmOUxvZnVPbzBJVWhKcWVwdTFuZ1JFUG1ISVJVUm1L?oc=5"
+    },
+    {
+     "name": "YTN",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EMHE1eWFCVF9PY2hZTndMUk43eWZCbEdramZETDZCWGl4WnJCeHpsTzI2c2c2QkYyWVRNZlY3dHZjME1CTEpiNGdrdWFGVFpSaEg1MTBDZC13SzAtOWc?oc=5"
+    },
+    {
+     "name": "Meduza (독립·망명)",
+     "url": "https://meduza.io/news/2026/11/13/evropu-na-peregovorah-rossii-i-ukrainy-predstavyat-sovetniki-po-natsbezopasnosti-pyati-stran"
+    },
+    {
+     "name": "Libération",
+     "url": "https://www.liberation.fr/international/europe/negociations-de-paix-sur-lukraine-leurope-saccorde-sur-une-equipe-pour-trouver-une-voix-20261113_KQIDEFCBAVEEHEYFZBCPDKUQ64/"
+    },
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-putins-lieblingsgegner-ist-ein-zerstrittenes-europa/100269399.html"
+    },
+    {
+     "name": "ZDF heute",
+     "url": "https://www.zdfheute.de/politik/ausland/eu-ukraine-selenskyj-costa-verhandlungen-dublin-100.html"
+    },
+    {
+     "name": "CCTV [관영]",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XdnN2M0lkbUhObWp3aElvY01JbFlrOVVrelhXeGdHaVZfdS1XVXRYUkRNUTJvcUhfNjFsWkpQdzE3MlVldFQ0QkFrRnMzV3FCeG9VOE9vdXIxTGE1UVdhOUdpajZHck9YNmRzWWZBWC0zWF9FUENIeQ?oc=5"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2026/11/13/us/politics/russia-demand-nato-ukraine.html"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit"
+    },
+    {
+     "name": "Channel 4 News",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRWVKVG1qYjY3UTlKRmZTWm9JX3JXblFPQk92ZW80bk1sZEtGejFWdUVYeFhfOW9RV0ZIZTZ3WkFiQXhvT2YxaTZFM3c4QUZpZWhlUWQzNXVyb3FseG5NRjhDd3VvY2xVNlNhZjh0eE53c2p0XzA1MjNGVmcxamZaYklVM3JkZmUxUVhKX3BWemMzc0RwTDdNc2xwMVhjQjBIYkJF?oc=5"
+    },
+    {
+     "name": "Washington Post",
+     "url": "https://www.washingtonpost.com/world/2026/11/13/zelensky-says-starlink-limits-continued-ukraine/"
+    },
+    {
+     "name": "産経新聞",
+     "url": "https://www.sankei.com/article/20261113-U77DHKAQERJWHIZLAUIKIEXCQM/"
+    },
+    {
+     "name": "FAZ",
+     "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-merz-costa-fuenf-staaten-sollen-europa-bei-kuenftigen-ukraine-gespraechen-vertreten-faz-110683325.html"
+    },
+    {
+     "name": "Interfax",
+     "url": "https://www.interfax.ru/world/1128939"
+    }
+   ],
+   "fields": [
+    "geopolitics"
+   ],
+   "hypothesis": "무관"
+  },
+  {
+   "headline_ko": "미국 금리 상승 압력 — 10년물 5.17%·12월 인상 기대(CNBC), 골드만 '내년 3월 추가 인상' 예상, PPI 상승폭 다시 최고(신화); 워시 '연준 개편 구상'; 반면 물가 지표는 예상보다 약간 낮아",
+   "importance": 4,
+   "why": "채권: 연준의 12월 금리 인상 기대가 강해지며 10년물 국채 금리가 5.17%로 올랐다(CNBC). CBS '인플레이션이 미국 경제에 깊이 스며들어 연준이 인상 속도를 높여야 할 수도'. 골드만삭스는 내년 3월 추가 인상을 예상했다(테레비도쿄). 신화는 10월 PPI 상승폭이 다시 사상 최고라고 썼다([관영] 신화 — 메시지·미국 공식 수치 미확인). 🔎 반대 신호: CNBC는 최신 인플레이션 지표가 예상보다 약간 낮게 나왔다고 썼다. 제도: WSJ '케빈 워시, 금리 결정 투표는 줄이고 숙의는 늘리는 연준 개편 구상'. 파급: 일본 3대 메가뱅크는 일본은행 인상 덕에 중간 최종이익 합계 3.5조 엔으로 사상 최고(요미우리·아사히·Japan Times), 닛산은 금리 상승 등으로 2년 연속 적자(테레비도쿄), 프랑스는 대출 금리 급등으로 부동산 거래 급감(Le Figaro). 유가: IEA는 4분기 공급 과잉 전환을 전망했고([관영] CCTV), WTI는 0.2% 하락했다(연합뉴스).",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/interest-rates-federal-reserve-inflation/"
+    },
+    {
+     "name": "テレビ東京(日経)",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93R1NQYjRVRHM4ZXdqZ21ZNUp3V2VHTURvc3hrbjNiM2hVaHB1YlFiNU9zd1FSMU4wZHA1VWk1dUpoUW41blEwRDFsaFJZSGdSWEFpQ1F5c3ZBX1J1UHF3R3NnMA?oc=5"
+    },
+    {
+     "name": "Xinhua [관영]",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xaG9NVzl1Z3JqZHNOWWF1ZDZOT2VTQ2I2UldhSC1FbHhWQ3B1VWx6eWpEcDEwXzVlQlJyeHVRdVRCODJ2VHJqbHBwZ3FzbGdrOThaekpMNHpqcEJZcVk2REM5d2V2N1JreHBjVnFLZFg0NWQxXzlB?oc=5"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html"
+    },
+    {
+     "name": "Wall Street Journal",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWWREYWtpWllac2NUdW9FOW1tdXZrTS1FclFzZnA4TEhkOEFJQ0liTEZZdElXbU5BUHMtTnNVME1zYUVpWHY5VXZmM0Z4YWRMY0U4YzVFdldTOEhEQUpSSnluaXNNM2VVVlQ0YnNXR0hUNHRhM1gwSWhtZXl3QlB2QXR5aUVXajZBTTlRdDhB?oc=5"
+    },
+    {
+     "name": "読売新聞",
+     "url": "https://www.yomiuri.co.jp/economy/20261114-GYT1T00079/"
+    },
+    {
+     "name": "朝日新聞",
+     "url": "http://www.asahi.com/articles/ASVCF3QYTVCFULFA003M.html?ref=rss"
+    },
+    {
+     "name": "Japan Times",
+     "url": "https://www.japantimes.co.jp/business/2026/11/13/companies/sumitomo-mitsui-mizuho-profit-forecast/"
+    },
+    {
+     "name": "テレビ東京(日経)",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sMWxsNEh0a2htQTFxS0Zzcm9qVDVTQk1WUkJBcy1OUFVXM1ZsZnRHMXhyX3VnRl95azZrSHhZVXJmbkpJVzFhY0VWenpPQjIzZzQ5eFlXWm9VVVRzRXc?oc=5"
+    },
+    {
+     "name": "Le Figaro",
+     "url": "https://www.lefigaro.fr/economie/chute-des-ventes-prix-en-baisse-la-grande-panne-de-l-immobilier-20261113"
+    },
+    {
+     "name": "CCTV [관영]",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQcHlJdHBWWmVpN2hSRmlYbGZZb1lNdEJGTHAyckd0Z3htWkMxMnFzN2pTcVZzWnFuUGlvaUlfWUpTc1kxZmladGtZUWVCWWFKaEsxU2tfaEI3Q1VXMXhEZVdBWlZZRXhWcGJ2SWZ6U0lhMUxVVEFQaw?oc=5"
+    },
+    {
+     "name": "연합뉴스",
+     "url": "https://www.yna.co.kr/view/AKR20261114008200072"
+    }
+   ],
+   "fields": [
+    "monetary",
+    "stocks"
+   ],
+   "hypothesis": "무관"
+  },
+  {
+   "headline_ko": "AI 자본 — 앤트로픽 IPO 11/18 공모가·11/19 나스닥 상장, '최대 904억 달러 조달'(Bloomberg)·'6배 초과 청약'(Handelsblatt); JP모건 '2027년 IG 회사채 사상 최대'; EU 더블린 AI 정상회의 '5천억 유로 필요'",
+   "importance": 4,
+   "why": "앤트로픽: 11월 18일 공모가 확정 시 회사와 공동창업자들이 최대 904억 달러를 조달할 수 있고 19일 정오 무렵 나스닥 거래가 시작된다(Bloomberg). Handelsblatt는 '640억 달러 베팅'이라 쓰고 이미 6배 초과 청약됐다고 했다. FT는 '1.5조 달러 규모 상장'으로 썼다. 🔎 매체마다 수치가 달라(조달액·기업가치 혼용 가능) 수치는 확정하지 않는다. 아모데이는 시장 혼란에 크게 개의치 않는다고 했다(FT). 부채: JP모건은 빅테크 AI 인프라 투자로 내년 미국 IG 회사채 발행이 또 사상 최대일 것으로 봤다(Bloomberg). 인프라: 디지털 리얼티 일본 1.6조 엔 투자·데이터센터 4배(닛케이), 아마존이 페르미 데이터센터 핵심 임차인으로 복귀(FT), 러시아 기업 서버 구매 16.7% 증가(Kommersant). 유럽: EU 집행위 'AI 투자 5천억 유로 필요'(WELT·FAZ), 미스트랄 멘슈 '지금 행동하라'(franceinfo·SCMP), Les Echos '모두가 우리의 의존성을 깨달았다', 첨단 AI 통제도 논의(Interfax). 🔎 낙관 지속: FT '엔비디아 파동 이후에도 버티는 AI 신봉자들', 바클레이스 3월 이후 첫 미국 주식 강세 전환(Bloomberg). 테레비도쿄는 '기업가치가 타당한가'를 물었다.",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-13/retail-investors-get-ready-for-anthropic-ipo-video"
+    },
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/technik/it-internet/anthropic-chef-dario-amodei-spricht-ueber-chancen-profit-und-ki-sicherheit/100269790.html"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://www.ft.com/content/4b7b83d7-7fea-4ce2-bfe3-4f2cf75b1d82?syn-25a6b1a6=1"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-13/jpmorgan-sees-ai-spree-driving-record-2027-us-high-grade-supply"
+    },
+    {
+     "name": "日本経済新聞",
+     "url": "https://www.nikkei.com/article/DGXZQOUC16B6M0W6A011C2000000/"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://www.ft.com/content/692fbfe8-da52-42c0-b436-9c4aff21fbdb?syn-25a6b1a6=1"
+    },
+    {
+     "name": "Kommersant",
+     "url": "https://www.kommersant.ru/doc/9095779"
+    },
+    {
+     "name": "WELT",
+     "url": "https://www.welt.de/wirtschaft/article6af76f157f8bbad09ea62d26/gipfeltreffen-in-dublin-haben-keine-zeit-zu-verlieren-eukommission-veranschlagt-halbe-billion-euro-fuer-ki-investitionen.html"
+    },
+    {
+     "name": "FAZ",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-von-der-leyen-europa-braucht-500-milliarden-euro-investitionen-fuer-ki-faz-200452404.html"
+    },
+    {
+     "name": "franceinfo (France 2)",
+     "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/le-patron-de-mistral-ai-arthur-mensch-appelle-l-europe-a-agir-maintenant-pour-rester-dans-la-course-en-matiere-d-intelligence-artificielle_8281193.html#xtor=RSS-3-[lestitres]"
+    },
+    {
+     "name": "SCMP (홍콩)",
+     "url": "https://www.scmp.com/news/world/europe/article/3374405/eu-leaders-told-act-now-stay-ai-race-us-and-china"
+    },
+    {
+     "name": "Les Echos",
+     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPVF9uOEJYdVVad25fUVRtRm1xZzJCZnVOWWFqd3QzdXRSZkROYmhTbHNqVExTTHZLNzhJTm03V09aZnRWcUthVGZicENkLVE0QVZnWEVWVTlEVlMyYm5MNG5DXzZ6QmUwbWR5WWNqeXNqZFJHWjhGR3NvbXVuZ1RuZ3gwZHRGODNTR21ucDJQSEdNQnc3Q2V6UkV5RVdJTXpQbFFvLTVHQ3l2RjJ2RHFyaDJKY1MzWVNYLUJiMTJGeGpaclZvaHBRTFFGQ25tTWNpdDA3RWxhaWhhY1ZCMnBfTTNSSzV6bVF5ckVTTFFtV2Y0cno3S01jZ2lUeDZQWWtuOEQ5Y2NERGdRWjFmcEo1UWRfRm9hUVd0czY4?oc=5"
+    },
+    {
+     "name": "Interfax",
+     "url": "https://www.interfax.ru/world/1128940"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://www.ft.com/content/750e4304-7287-432a-8ac1-36db40d0d968?syn-25a6b1a6=1"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-13/barclays-trading-desk-turns-bullish-for-first-time-since-march"
+    },
+    {
+     "name": "テレビ東京(日経)",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rTXp4VEVrM1J3eHN0bU1GeTFnc3E2cXNVV09meWM0QkI2ZXJYQTJkZUdlaVRFYTBhdUxEWDZ5T3dCZXRMaW53YlBGdWF4Wk5jTGFGMzJvaGdmblVEbE5EOA?oc=5"
+    }
+   ],
+   "fields": [
+    "business",
+    "stocks",
+    "industry"
+   ],
+   "hypothesis": "무관"
+  },
+  {
+   "headline_ko": "FAA, '특별한 상황과 안전상의 이유'로 전국 모든 공항 출발편 그라운드 스톱 — 원인 미공개",
+   "importance": 4,
+   "why": "미 연방항공청(FAA)이 금요일 '특별한 상황과 안전상의 이유'로 전국 모든 출발 항공편에 그라운드 스톱을 명령했다(NBC·ABC·CNBC). Ynet은 '안전 관련 비정상적 상황'이라는 표현을 전했고, RBC는 악시오스를 인용했다([관영] RIA도 보도). 🔎 원자료 수집 시점(06:09~06:12 KST)까지 구체적 원인은 나오지 않았다. MS 장애와의 관련을 언급한 원자료는 없다 — 연결하지 않는다.",
+   "sources": [
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html"
+    },
+    {
+     "name": "Ynet News",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjZ251Rk5FbUtHRUdBVHdPamk0Q3RadDhfOHR5bWdST2hVa2lERGxSSFdqRjR6cUpPb0VEVjJLbXl2NlRYcXZySVNNTTkxWFRBYTN1ZA?oc=5"
+    },
+    {
+     "name": "RBC",
+     "url": "https://www.rbc.ru/politics/14/11/2026/6af77cf540887869aaf286eb"
+    },
+    {
+     "name": "RIA Novosti [관영]",
+     "url": "https://ria.ru/20261114/ssha-2131474850.html"
+    }
+   ],
+   "fields": [
+    "industry"
+   ],
+   "hypothesis": "무관"
+  },
+  {
+   "headline_ko": "미 중간선거 후속 — 민주당 하원 40석 이상 탈환·보버트 낙선·미시시피 상원 44년 만의 민주당 승리; 슈머 대 밴 홀런 원내대표 경선, 헤그세스 탄핵 하원서 무산",
+   "importance": 4,
+   "why": "결과: 민주당이 공화당 의석 40여 개를 뒤집어 하원 다수당이 됐다(CBS). 콜로라도의 로런 보버트가 민주당 라우바허에게 졌다(Fox·NBC·CBS·NYT). 미시시피 상원에서 44년 만에 민주당이 이겼고 흑인 의원은 145년 만이다(테레비도쿄). 민주당: 제프리스가 도전자 없이 하원의장직을 굳히고 있다(NYT). 밴 홀런이 슈머에 도전하며 필리버스터 폐지를 주장했다(Fox·ABC). Haaretz는 이스라엘·이란 전쟁을 둘러싼 논쟁이 지도부 경선으로 번졌다고 썼다. 공화당: 헤그세스 국방장관 탄핵이 하원에서 무산됐다 — Fox는 민주당 의원 11명이 교통체증으로 도착하지 못했다고 썼다(단일). MBC는 밴스 부통령이 2028년 출마 포기를 검토한다는 보도를 전했다(단일·미확인). 사법: 대법원이 트럼프의 남부 국경 망명 중단 행정명령을 심리한다(AP·Guardian).",
+   "sources": [
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/house-districts-flipped-2026-midterm-elections/"
+    },
+    {
+     "name": "Fox News",
+     "url": "https://www.foxnews.com/politics/rep-lauren-boebert-projected-lose-house-seat-another-democratic-flip"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/politics/2026-election/rep-lauren-boebert-conservative-firebrand-colorado-loses-race-re-elect-rcna607652"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/colorado/news/election-lauren-boebert-eileen-laubacher-colorado-congressional-district-4/"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2026/11/09/us/lauren-boebert-colorado-house-election.html"
+    },
+    {
+     "name": "テレビ東京(日経)",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04czMteXlLbktHTDFFNXdzLW1fTmhSY1duSHBBVUtjeEE4VTQ3QWVQTUpWUVhxaG9xTjZTYlctcF84MUtNd1ZWQVdicllaSkFDcEd5d0NSaU1MU2xlN0ow?oc=5"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2026/11/13/us/politics/jeffries-house-speaker-democrats.html"
+    },
+    {
+     "name": "Fox News",
+     "url": "https://www.foxnews.com/politics/schumers-leadership-rival-reveals-major-senate-rule-change-hed-pursue-if-elected"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://abcnews.com/Politics/schumer-van-hollen-facing-off-senate-majority-leader/story?id=138111386"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://www.haaretz.com/us-news/2026-11-13/ty-article/.premium/van-hollen-takes-on-schumer-as-democrats-split-over-israel/000001a1-d5d9-d59b-a1f3-dddd1c600000"
+    },
+    {
+     "name": "Fox News",
+     "url": "https://www.foxnews.com/politics/pete-hegseth-impeachment-effort-dies-house-absent-democrats-couldnt-beat-traffic"
+    },
+    {
+     "name": "MBC",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzcDJ0TVRzRHV5Q1Z4XzVOYTdlRHJONFpIWF9YTk11d2RrdkFteG5oY1JLeVhEVi1mSjd0b0lIbS1qZWtWS3RWT2lodHdqUGpGNmhueDd0WW9lbjFYaGJlaXJvLXNJeUJRR2YtaTh1WHYwajVE0gF0QVVfeXFMUFNuTjFZclMwZWxZV1ZvVTJTM216Z1VRY3lMUFItY0dsYV9BVlNfc0paYWFMRjlIQUd6MmNZUHV0NWxFejAwRlZZRmV4aml5b21BcTZQRUtKM25yVThYWi1vTEsxWVFiLS1vNDJSTFozZ2VYY1Q?oc=5"
+    },
+    {
+     "name": "AP",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdExwdTBia3RDdGYzWFRuYUkxaERSQkpTVmY0Ymp5S05jR0ZLSC10ekFMcjQ0Rkg5NFVmOFR3MENlTm04ajFoemlGclMtX09RZVBtd3VTUVpXd0hiNFlVLVZBME9wUU1UdDFWYzVXQl8yTno3Z1M3WlZnTjZnaTJKQlVCS3g0WmZaUVJ2UnVlaw?oc=5"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/us-news/2026/nov/13/supreme-court-us-mexico-border-asylum"
+    }
+   ],
+   "fields": [
+    "legislation"
+   ],
+   "hypothesis": "무관"
+  },
+  {
+   "headline_ko": "유럽 안보 긴장 — RAF 레이컨히스 상공 '무단 드론 의심 활동'에 미 공군 대응; 독일 정보기관 권한 대폭 확대법 통과·베를린 공항 러시아인 조사; 로스스타트 해킹 유출로 '러 전사자 50만~60만 추정'",
+   "importance": 4,
+   "why": "영국: 미군 주요 주둔 기지인 RAF 레이컨히스에서 '무단 드론 활동 의심' 뒤 미 공군이 대응했다 — 부상·피해 없음(BBC·Guardian). Sky는 미군 인력 대피 지시가 있었다고 썼다. Le Figaro는 9월 페어퍼드 인근 '의심 차량' 출동을 함께 상기시켰다. ([관영] TASS·RBC도 Sky 인용 보도.) 독일: 연방의회가 BND·헌법수호청 권한을 크게 넓히는 법을 의결했다(DW·ARD; Meduza; [관영] CGTN). 헌법수호청은 '높은 위협 수준' 때문에 베를린 공항에서 러시아인을 조사하고 있다고 확인했다(Meduza). 러시아: 해커들이 로스스타트에서 비밀 사망 통계를 탈취했고, 전문가 클루게는 러시아 측 전사자를 50만~60만 명으로 추정했다(Spiegel — 전문가 추정). 더블린: EU 회의 기간 '조잡하지만 작동 가능한' 의심 장치를 경찰이 무력화했다(Le Figaro 단일). 정보전: Interfax는 데일리메일을 인용해 영국 전자정찰기의 러 국경 인근 비행이 4배로 늘었다고 썼다(2차 인용·미확인). 유럽통신사연합은 TASS를 제명했다(RBC).",
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/13/us-air-force-responds-to-suspected-drone-activity-at-raf-lakenheath"
+    },
+    {
+     "name": "Sky News",
+     "url": "https://news.sky.com/story/us-personnel-forced-to-shelter-at-uk-air-base-after-suspected-unauthorised-drone-activity-13611986"
+    },
+    {
+     "name": "Le Figaro",
+     "url": "https://www.lefigaro.fr/international/un-drone-suspect-detecte-au-dessus-d-une-base-de-la-royal-air-force-en-angleterre-20261113"
+    },
+    {
+     "name": "TASS [관영]",
+     "url": "https://tass.ru/mezhdunarodnaya-panorama/28316903"
+    },
+    {
+     "name": "RBC",
+     "url": "https://www.rbc.ru/politics/13/11/2026/6af778d90189ce094ad0b0a1"
+    },
+    {
+     "name": "Deutsche Welle",
+     "url": "https://www.dw.com/de/bnd-und-verfassungsschutz-sind-sie-nach-der-gesetzesreform-echte-geheimdienste-oder-bleiben-sie-zahnlose-tiger/a-79936888?maca=de-rss-de-all-1119-rdf"
+    },
+    {
+     "name": "ARD Tagesschau",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1683510.html"
+    },
+    {
+     "name": "Meduza (독립·망명)",
+     "url": "https://meduza.io/news/2026/11/13/germaniya-suschestvenno-rasshirila-polnomochiya-spetssluzhb-teper-oni-smogut-verbovat-podrostkov-i-provodit-sobstvennye-hakerskie-ataki"
+    },
+    {
+     "name": "CGTN [관영]",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tdWhMX20yV09FTExBTkRaT2FUNV80emNOeVBaWm9OUXpoWlBfNmQ1TXVtQjhhOWM1QlVHMUlFakFEaEVEeDlILVhlTVJzY25wUjZCbGlDVGdVNWdIOUpVemc4ZkJtVzZKaUlBUS1QRE1CTnZvS2hFNw?oc=5"
+    },
+    {
+     "name": "Meduza (독립·망명)",
+     "url": "https://meduza.io/news/2026/11/13/v-kontrrazvedke-germanii-podtverdili-chto-doprashivayut-rossiyan-v-aeroportu-berlina-eto-ob-yasnili-vysokim-urovnem-ugroz"
+    },
+    {
+     "name": "Der Spiegel",
+     "url": "https://www.spiegel.de/ausland/ukraine-krieg-experte-schaetzt-500-000-bis-600-000-kriegstote-auf-russischer-seite-a-39dc975f-4db8-420b-9fdf-046130291bb9#ref=rss"
+    },
+    {
+     "name": "Le Figaro",
+     "url": "https://www.lefigaro.fr/international/dublin-la-police-annonce-avoir-neutralise-un-engin-suspect-rudimentaire-mais-operationnel-20261113"
+    },
+    {
+     "name": "Interfax",
+     "url": "https://www.interfax.ru/world/1128943"
+    },
+    {
+     "name": "RBC",
+     "url": "https://www.rbc.ru/rbcfreenews/6af77679d6b480b5a65a6353"
+    }
+   ],
+   "fields": [
+    "geopolitics",
+    "legislation"
+   ],
+   "hypothesis": "무관"
+  },
+  {
+   "headline_ko": "미·중 — 정상회담 며칠 앞두고 양자 무역위원회 첫 회의(SCMP); 트럼프, 마닐라 아세안서 '팍스 실리카' 동참 압박 예정(SCMP 소식통); 왕이, 조현 외교장관·미 정당 대화 대표 회담",
+   "importance": 4,
+   "why": "무역: 미국(USTR·재무부)과 중국이 트럼프-시진핑 정상회담을 며칠 앞두고 양자 무역위원회(Board of Trade) 첫 공식 회의를 열었다(SCMP 단일). 기술 블록: 트럼프가 다음 주 마닐라 아세안 정상회의에서 AI·반도체 공급망의 중국 의존을 끊는 '팍스 실리카'에 동참하라고 압박할 예정이다(SCMP 소식통 — 단일·미확인). 중국의 메시지: 왕이 외교부장이 조현 한국 외교장관, 2026 중미 정당 대화 미국 대표와 각각 만났고([관영] 인민일보), 외교부는 '확고히 문을 열겠다'고 했다([관영] CCTV). 조현 장관은 '한반도 평화는 양국 공동 이익'이라고 말했다(매일경제). 미국은 무역협정에서 인도에 경쟁국 대비 관세 우위를 보장했다([관영] CGTN). 🔎 DW: 시진핑-푸틴-트럼프 정상회담 추측 속에 중국은 신중하다. 대만 당국자는 중국의 예고 없는 태평양 훈련을 '침묵의 위협'이라 했다(Japan Times).",
+   "sources": [
+    {
+     "name": "SCMP (홍콩)",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3374407/us-china-board-trade-holds-first-meeting-days-trump-xi-summit"
+    },
+    {
+     "name": "SCMP (홍콩)",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3374393/trump-press-southeast-asia-nations-join-pax-silica-asean-summit-manila"
+    },
+    {
+     "name": "People's Daily [관영]",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3NXlhVWRWUzdGM1hlN19oc1hmU2JielhMWXA2RllyLTR6elptNDNOQkxMQkZxbnpBWFdXWWQyY3Q2NGxNQ0xqNUpySFAtOVV6RTM2YWZHa291TDA1NmI5blc3b0MxeWt5dWVxel9sTQ?oc=5"
+    },
+    {
+     "name": "CCTV [관영]",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2TWl6UVRBVEh3WERINS11SS1HU1Y2aFdaUGhGMzloUWNfbWoyS25aTy1KOXVrYmR5c1R5TWNfOWVXRzAtN09BWTY1QVI4Z044dUN2dFRsMGxvSDdlcjlDc1JDSjVtYVljUDRhWnhhcGFrQktpay1yQw?oc=5"
+    },
+    {
+     "name": "매일경제",
+     "url": "https://www.mk.co.kr/news/world/12208476"
+    },
+    {
+     "name": "CGTN [관영]",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6WU16TXVLM0w0VlRpZThLT0cySVF0LWZvcG5NRFFoOWx3VjRzY2lhU3VlakVNOEpTc3FEaGpzSnpIR1hIaC11dTFFZ0w1bE1mRklDQ01XME00bDdEU0FUVVFJTTJDNm9qc3BPdS1iWnkzWXlBZDI3SA?oc=5"
+    },
+    {
+     "name": "Deutsche Welle",
+     "url": "https://www.dw.com/de/xi-putin-trump-gipfel-in-china/a-79941737?maca=de-rss-de-all-1119-rdf"
+    },
+    {
+     "name": "Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/11/13/asia-pacific/politics/china-silent-intimidation/"
+    },
+    {
+     "name": "Xinhua [관영]",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uUld1TUFDTVRpQUlSeDdDYmUzbUpsLXBzcGJ2cmpuZ0xIcE5JYmlGSldVYmF3MVMtdm50a3k3RVhSckxmZnJGZldDMzloem5fMlBGZXJaZTBZTm1yalBsWU9IWHJqSXI4NlQtZmlaSFFXQncxa2hYN1UyX2lmMjg?oc=5"
+    }
+   ],
+   "fields": [
+    "geopolitics",
+    "industry"
+   ],
+   "hypothesis": "무관"
+  }
+ ],
+ "by_country": {
+  "us": [
+   {
+    "headline_ko": "WSJ '사라진 엔비디아 싱가포르 매출, 메가스피드 의문 증폭'",
+    "importance": 5,
+    "why": "WSJ.",
+    "sources": [
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTVMxMWYtSHpfTEN1dUVzcTRpZDBkRUR4ZVBENFJxODZHaEg5WHp0ekZFdENtZEZrNDl5eENKWW11LVJFSGd4T0Y0TVNEQU0wRUhoMW5HMVdsUmZmQThZVV9WdmVXc3ZGM0F5Wk1kRlM0TEFXbG51WUNyWGt3WXlRU1I2cmNoNmNocEtkdkktdU9NTVA1dUhiWHlYRG44aUxTM3VlVmdzOU41T3Z4aGxKbkw4VG5RZw?oc=5"
+     }
+    ],
+    "fields": [
+     "industry",
+     "geopolitics"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "FAA 전국 그라운드 스톱 — '특별한 상황·안전상 이유'",
+    "importance": 5,
+    "why": "NBC·ABC·CNBC.",
+    "sources": [
+     {
+      "name": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247"
+     },
+     {
+      "name": "ABC News",
+      "url": "https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848"
+     },
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html"
+     }
+    ],
+    "fields": [
+     "industry"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "10년물 5.17% — 12월 인상 기대",
+    "importance": 4,
+    "why": "CNBC.",
+    "sources": [
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html"
+     }
+    ],
+    "fields": [
+     "monetary"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "미군, 이란 공격 드론 2대 격추·이란 '바레인 레이더 타격' 주장",
+    "importance": 4,
+    "why": "AP.",
+    "sources": [
+     {
+      "name": "AP",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXJTcEdfVGdOV1VrbGpYTy1hMlkybS1IbjZGS0piS01yNWY5RnVsMi16ZHBMTFVIajNzcFoydFZXWmhEQXJuVXBHNFBic2JSRlJLZ05TNGlmclRmMlppOExmc2ttem1zVnhQV0ppcnVaUkd2Q29fVVNXUzJpUFEwUE1WSHVkc0tZQXpmaHBSZ0YxVWpoOGNkMmZnbw?oc=5"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "지지"
+   },
+   {
+    "headline_ko": "스트래티지(최대 기업 비트코인 보유사), MSCI 지수서 편출",
+    "importance": 4,
+    "why": "WSJ.",
+    "sources": [
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZHV1TFRnVmtTRlJ0LWlRcXZKQTQtSWJiMWhGVmpkZ2NmRFNhQ2tKSWdldjZFRk12eUMzc0Vhb3JYRlpjaktiWk9MZTVEanVRdjRETmdLNUtUem5SZjl3VHA2N3BDRkUyQUkwR1hlTzVhQzR1ZEQwT3dOaExSNHN3RmxXczdXNzRMcnVpU195cEFQc3k1eUFmSnQtR3g2bzgtQ1JCUTgwS0RhRUduWmUycHcteEFYUEVKZDNOTkRGYm5xZ3dNOXFpOGtCVQ?oc=5"
+     }
+    ],
+    "fields": [
+     "crypto",
+     "stocks"
+    ],
+    "hypothesis": "무관"
+   }
+  ],
+  "kr": [
+   {
+    "headline_ko": "베선트 '메가스피드 제재 권한은 상무부'… 러트닉 공개 저격",
+    "importance": 5,
+    "why": "MBC.",
+    "sources": [
+     {
+      "name": "MBC",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53SlZLLXM3bzZHUnJic0lBVnpMalRPN2xNcnprR0xtQ0lZeUQ0bEwtT25qdEE0Zk5uRjZIek5MSXdIT3ZPcXplb0M3OGtIYmFYbzAtdWtMU2Q0UnRBTTZNMnBscExsZHB5bDRmRUdjUHlFSWtq0gF0QVVfeXFMUFlRbU5raUJtNnlfQ2VWUDdla0E4RVpLZk1POS1FU1lLTTcyckZQWTR6NGtRV1JzRlc5WlktdDJsUUNEOGdEOFBDTlhXdzdPRC1mOFFoTXV4T2tPbFFlSFBRY0Jsd3cyNEJIak9nV2Z4ajBxYno?oc=5"
+     }
+    ],
+    "fields": [
+     "industry",
+     "legislation"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "미 의회, 러트닉 조사 — 대중 수출 규제 완화 배경",
+    "importance": 5,
+    "why": "동아일보.",
+    "sources": [
+     {
+      "name": "동아일보",
+      "url": "https://www.donga.com/news/Inter/article/all/20261114/135023349/2"
+     }
+    ],
+    "fields": [
+     "legislation"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "미 전문가들 '트럼프, 전작권 전환을 주한미군 철수 수단으로 봐'",
+    "importance": 4,
+    "why": "MBC(전문가 주장).",
+    "sources": [
+     {
+      "name": "MBC",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BV0JXdHpJb21JVURyaE5Ya3hpQ3lMWFBPelROVFkwTE9HcnRSdUdDcDJBUkEtZVV2Z1VjaFVPOHJFOGI0OTc3SURTdzNndnVuTkZfX1ZEcnotRXpXTVBqYzl5cTZwTkpRRVBnbGtoUUJMb2140gF0QVVfeXFMT3JqMExOOVJjelgyRFlWX2gyZDJWcHhSZnhMQlNDbXd2djlMME04VElmX0Npb2xIazBWVzFYbXQ1NTg5YTlVXzNLQWQ0Nk1QUXBjcDRSMWJSVFhNYkJFUVp5SU5iSm1paVVTdGFmLXpBTTg0bkg?oc=5"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "이 대통령 자본시장 간담회 — 'M&A 활성화', 의무공개매수 즉석 투표",
+    "importance": 4,
+    "why": "SBS·매일경제.",
+    "sources": [
+     {
+      "name": "SBS",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845377"
+     },
+     {
+      "name": "매일경제",
+      "url": "https://www.mk.co.kr/news/stock/12208451"
+     }
+    ],
+    "fields": [
+     "stocks",
+     "legislation"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "조현-왕이 회담 — '한반도 평화는 양국 공동 이익'",
+    "importance": 4,
+    "why": "매일경제.",
+    "sources": [
+     {
+      "name": "매일경제",
+      "url": "https://www.mk.co.kr/news/world/12208476"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "무관"
+   }
+  ],
+  "jp": [
+   {
+    "headline_ko": "정부, 5년간 방위비 60조 엔 규모로 조정 — 대폭 증세는 피해",
+    "importance": 5,
+    "why": "TBS.",
+    "sources": [
+     {
+      "name": "TBS",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkRnNkaXdKSEJXM2htanp6SWNhQWdQQmV0cnZEX3FpSkppR1NNa2lpanowWkVlbnJEeTFvQ0c2amRNNk1BNWlLMTZrRFpUU0pmcUp5VTQ0QldxU0FRTl9WQWhvTlU?oc=5"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "안보 3문서 조기 개정 — 비핵 3원칙·원자력 잠수함 논의 여부",
+    "importance": 4,
+    "why": "TBS.",
+    "sources": [
+     {
+      "name": "TBS",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zU2d0VnFnczhmbEN5SDdOVVdQUlR3eGlFTzdWb3BHZTh1cWZHMHUyUE5memNIVm9zblN2VEN5S3V5d0dCUXN1cE84bDk1clZMMEY2d1U4NA?oc=5"
+     }
+    ],
+    "fields": [
+     "geopolitics",
+     "legislation"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "3대 메가뱅크 중간 최종이익 3.5조 엔 사상 최고 — 금리 상승",
+    "importance": 4,
+    "why": "요미우리·아사히.",
+    "sources": [
+     {
+      "name": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/economy/20261114-GYT1T00079/"
+     },
+     {
+      "name": "朝日新聞",
+      "url": "http://www.asahi.com/articles/ASVCF3QYTVCFULFA003M.html?ref=rss"
+     }
+    ],
+    "fields": [
+     "monetary",
+     "stocks"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "디지털 리얼티, 일본에 1.6조 엔 투자 — 데이터센터 4배",
+    "importance": 4,
+    "why": "닛케이.",
+    "sources": [
+     {
+      "name": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC16B6M0W6A011C2000000/"
+     }
+    ],
+    "fields": [
+     "industry"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "소비세 감세 지원금 '근로자 50% 이상'으로 확대",
+    "importance": 3,
+    "why": "테레비아사히·FNN.",
+    "sources": [
+     {
+      "name": "テレビ朝日",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UTUdyYlc4YTlJQ1V3UHZyU1FLTlI3UW1RQzB0OGFtRUlFTEZHcU90UHJNTHBlMy1xZkhIeUlHZldhSEp1UjhraE1VbURxM2Zud1J5bHBmT3k5MXZiWENudWUwSWRRREFXaDdXZ1ZFX2Y1SVE?oc=5"
+     },
+     {
+      "name": "フジテレビ(FNN)",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jZFRGU0tzUmc4TlcwOUltYURNVnhTYXROMUNuQThnaFBpUVo2VjN1aTBtUmQ3bHBGZDcyQVFkZ21aeHZTcV9LX0ZhOFBBZw?oc=5"
+     }
+    ],
+    "fields": [
+     "legislation"
+    ],
+    "hypothesis": "무관"
+   }
+  ],
+  "de": [
+   {
+    "headline_ko": "2027년 연방예산 — 국방·복지 확대, 대규모 차입",
+    "importance": 5,
+    "why": "DW·ARD.",
+    "sources": [
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/de/bundeshaushalt-2027-mehr-geld-für-bundeswehr-und-soziales-hohe-kredite-und-streit-um-die-stromsteuer-was-der-etat-für-deutschland-konkret-bedeutet/a-79939318?maca=de-rss-de-all-1119-rdf"
+     },
+     {
+      "name": "ARD Tagesschau",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1683510.html"
+     }
+    ],
+    "fields": [
+     "legislation",
+     "monetary"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "정보기관 권한 확대법 — '진짜 정보기관'인가",
+    "importance": 4,
+    "why": "DW.",
+    "sources": [
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/de/bnd-und-verfassungsschutz-sind-sie-nach-der-gesetzesreform-echte-geheimdienste-oder-bleiben-sie-zahnlose-tiger/a-79936888?maca=de-rss-de-all-1119-rdf"
+     }
+    ],
+    "fields": [
+     "legislation",
+     "geopolitics"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "'역사적으로 낮은 가스 저장량' — 최선의 시나리오에 의존",
+    "importance": 4,
+    "why": "WELT(전문가 견해).",
+    "sources": [
+     {
+      "name": "WELT",
+      "url": "https://www.welt.de/wirtschaft/video6af75ab29849eea0701e2114/experte-warnt-diese-gasstaende-die-historisch-niedrig-sind-fuer-alles-andere-als-unproblematisch.html"
+     }
+    ],
+    "fields": [
+     "monetary"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "MS 장애 — 디지털부 '단일 공급자 의존 말라', 디지털 주권 문제",
+    "importance": 4,
+    "why": "ZDF.",
+    "sources": [
+     {
+      "name": "ZDF heute",
+      "url": "https://www.zdfheute.de/politik/microsoft-digitalministerium-digitale-unabhaengigkeit-100.html"
+     }
+    ],
+    "fields": [
+     "industry"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "로스스타트 해킹 유출 — 전문가 '러 전사자 50만~60만' 추정",
+    "importance": 4,
+    "why": "Spiegel(전문가 추정).",
+    "sources": [
+     {
+      "name": "Der Spiegel",
+      "url": "https://www.spiegel.de/ausland/ukraine-krieg-experte-schaetzt-500-000-bis-600-000-kriegstote-auf-russischer-seite-a-39dc975f-4db8-420b-9fdf-046130291bb9#ref=rss"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "무관"
+   }
+  ],
+  "uk": [
+   {
+    "headline_ko": "RAF 레이컨히스 '무단 드론 의심 활동' — 미 공군 대응",
+    "importance": 5,
+    "why": "BBC·Guardian·Sky.",
+    "sources": [
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/13/us-air-force-responds-to-suspected-drone-activity-at-raf-lakenheath"
+     },
+     {
+      "name": "Sky News",
+      "url": "https://news.sky.com/story/us-personnel-forced-to-shelter-at-uk-air-base-after-suspected-unauthorised-drone-activity-13611986"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "베선트, 메가스피드 등재 실패를 러트닉 탓으로",
+    "importance": 5,
+    "why": "FT.",
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d?syn-25a6b1a6=1"
+     }
+    ],
+    "fields": [
+     "industry",
+     "legislation"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "FT 'Arm 하스, 엔비디아 CEO 후보로 접촉받아'",
+    "importance": 4,
+    "why": "FT.",
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1"
+     }
+    ],
+    "fields": [
+     "industry"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "MS '약 24시간 세계 장애에 깊이 사과'",
+    "importance": 4,
+    "why": "BBC.",
+    "sources": [
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+     }
+    ],
+    "fields": [
+     "industry"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "칼라스 '러시아가 협상서 덫을 놓고 있다'",
+    "importance": 4,
+    "why": "Guardian.",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "무관"
+   }
+  ],
+  "fr": [
+   {
+    "headline_ko": "유럽 5개국 협상팀 — 단일 대변인은 합의 못 해",
+    "importance": 5,
+    "why": "Libération·BFMTV.",
+    "sources": [
+     {
+      "name": "Libération",
+      "url": "https://www.liberation.fr/international/europe/negociations-de-paix-sur-lukraine-leurope-saccorde-sur-une-equipe-pour-trouver-une-voix-20261113_KQIDEFCBAVEEHEYFZBCPDKUQ64/"
+     },
+     {
+      "name": "BFMTV",
+      "url": "https://www.bfmtv.com/international/europe/ukraine/video-ukraine-les-dirigeants-ont-convenu-que-notre-equipe-europeenne-chargee-des-negociations-de-paix-etait-composee-de-l-allemagne-la-france-l-italie-la-pologne-et-le-royaume-uni-declare-antonio-costa-president-du-conseil-europeen_VN-202611130863.html"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "'이란이 미 레이더 파괴?' AI 조작 위성사진 — 미국 부인",
+    "importance": 4,
+    "why": "France 24.",
+    "sources": [
+     {
+      "name": "France 24",
+      "url": "https://www.france24.com/fr/moyen-orient/20261113-un-radar-am%C3%A9ricain-d%C3%A9truit-par-l-iran-cette-image-modifi%C3%A9e-par-ia-montre-une-destruction-ancienne"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "더블린 EU AI 정상회의 — 멘슈 '지금 행동하라'",
+    "importance": 4,
+    "why": "franceinfo·Le Monde.",
+    "sources": [
+     {
+      "name": "franceinfo (France 2)",
+      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/le-patron-de-mistral-ai-arthur-mensch-appelle-l-europe-a-agir-maintenant-pour-rester-dans-la-course-en-matiere-d-intelligence-artificielle_8281193.html#xtor=RSS-3-[lestitres]"
+     },
+     {
+      "name": "Le Monde",
+      "url": "https://www.lemonde.fr/international/article/2026/11/13/ia-les-europeens-au-defi-de-s-entendre-pour-rester-dans-la-course-et-mieux-la-reguler_6809387_3210.html"
+     }
+    ],
+    "fields": [
+     "industry"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "대출 금리 급등에 부동산 거래 급감·가격 하락",
+    "importance": 4,
+    "why": "Le Figaro.",
+    "sources": [
+     {
+      "name": "Le Figaro",
+      "url": "https://www.lefigaro.fr/economie/chute-des-ventes-prix-en-baisse-la-grande-panne-de-l-immobilier-20261113"
+     }
+    ],
+    "fields": [
+     "monetary"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "사이버 '회복력 법' — 규제 대상 기관 10배",
+    "importance": 3,
+    "why": "France 24.",
+    "sources": [
+     {
+      "name": "France 24",
+      "url": "https://www.france24.com/fr/france/20261113-projet-de-loi-r%C3%A9silience-comment-la-france-veut-rattraper-son-retard-en-cybers%C3%A9curit%C3%A9"
+     }
+    ],
+    "fields": [
+     "legislation"
+    ],
+    "hypothesis": "무관"
+   }
+  ],
+  "il": [
+   {
+    "headline_ko": "모사드 국장 방미 — CIA 국장 면담, 이란 전쟁 재개 촉구",
+    "importance": 5,
+    "why": "Haaretz(악시오스 인용)·JPost·i24.",
+    "sources": [
+     {
+      "name": "Haaretz",
+      "url": "https://www.haaretz.com/middle-east-news/iran/2026-11-13/ty-article/.premium/mossad-chief-meets-u-s-officials-to-discuss-iran-as-netanyahu-pushes-for-war/000001a1-d57c-da30-a7fb-ddfd4a810000"
+     },
+     {
+      "name": "Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxZWZSRzZ2dktlYU1HMXRSWjdDSkNJRnhnbzdhX3ZRemExUUNrVXZmOXBKU0RfV1h1U1QyaHdhbmQ5MkVRbzhxNDBGdHBDNFI1U0ZENXpCX0VzYmE4Q3Rn?oc=5"
+     },
+     {
+      "name": "i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTnpiVmJQTWhlU1ppdE5IOVh6eXp6cGJETDNZTGk3d19yQ1RnR011UDNNQjBCUDBwU0h5X3V6LUE2MnJocE0yaWhxYmdkMk9KLXRmQnpEd09QMjZCZFJ6eXltZ2cyU1FNNGRMUUQxRGNvOGNOMFNidUQ0YVhYU3RpM21IWnNuTHl5a01nSTlpaUtfYllzdEN5UkRSaHc0anBWVDNTSXJfVVVLM2h2NzBscmVfOGhFYUVISGxJazllMEFzSEd6?oc=5"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "지지"
+   },
+   {
+    "headline_ko": "혁명수비대 '호르무즈 유조선 2척 기뢰 피격'",
+    "importance": 4,
+    "why": "Ynet(혁명수비대 주장·미확인).",
+    "sources": [
+     {
+      "name": "Ynet News",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDV1NKZHM5X0xlcTQtbVpyYW03MEM2TzZ3Y20yNkZOYVFNS2h5N1JGY0Rqa053UWJqTU91SDF1Y3ZIOTZ0WVZzdWJheHJYUWVwU1BaSQ?oc=5"
+     }
+    ],
+    "fields": [
+     "monetary",
+     "geopolitics"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "튀르키예·카타르 방위협정 — '이스라엘이 가자 평화안 위반'",
+    "importance": 4,
+    "why": "JPost·Haaretz.",
+    "sources": [
+     {
+      "name": "Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80dFZza1laTTNNNWppMXhhbFZiXzFFWmt4S3I4OWd4RHA4aWtIZ29vX3lsMThhUUlaYnIwQjJ3ampOY0VHYWY4OVBTVzVOTWpDTkItWEtoNFI3VFlH?oc=5"
+     },
+     {
+      "name": "Haaretz",
+      "url": "https://www.haaretz.com/middle-east-news/iran/2026-11-13/ty-article/u-s-downs-two-iranian-drones-as-iran-says-it-struck-u-s-radar-in-bahrain/000001a1-d63d-d1ce-a9a3-f63f97d80000"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "[분석] 트럼프는 현상 유지를 즐겨도 역내 파트너는 해결 필요",
+    "importance": 4,
+    "why": "Haaretz(분석).",
+    "sources": [
+     {
+      "name": "Haaretz",
+      "url": "https://www.haaretz.com/middle-east-news/iran/2026-11-13/ty-article/.premium/trump-may-relish-the-iran-status-quo-but-his-regional-partners-need-closure/000001a1-d4df-ddc9-abb7-dddfa6cd0000"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "아이젠코트, 하레디 정당과의 연정 우선 추진 보도",
+    "importance": 3,
+    "why": "Times of Israel.",
+    "sources": [
+     {
+      "name": "Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaDVJUWVuUGFtZkk5OXRUSWdIMjNaYVdsM2d4bFhFY0g4UjlKTHQ2UXNEejJpZDBydzJOVktld2dLZDd5LUsxV281cW9CODk2STZYNW9Na1FuczhNMHNyNzF0T294aDJTYl9HaExuTDJrOTA0c0VWRzJhOExMQ0l4bndxdDRIblFJSk1qWkFQc1JPeHl0ZGJWYnVsSG9DaU1Bb0FoYlAxMXFkelNuQ09XVzBtN2VyRmo3RkxZYW1QbG9lWXFsSms4cw?oc=5"
+     }
+    ],
+    "fields": [
+     "legislation"
+    ],
+    "hypothesis": "무관"
+   }
+  ],
+  "ru": [
+   {
+    "headline_ko": "폴란드, 우크라이나용 미국 무기 구매(PURL) 분담금 중단",
+    "importance": 4,
+    "why": "Interfax(단일).",
+    "sources": [
+     {
+      "name": "Interfax",
+      "url": "https://www.interfax.ru/world/1128939"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "영국 전자정찰기, 러 서부 국경 인근 비행 4배",
+    "importance": 3,
+    "why": "Interfax(데일리메일 인용).",
+    "sources": [
+     {
+      "name": "Interfax",
+      "url": "https://www.interfax.ru/world/1128943"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "후티 '리야드 공항 추가 타격' 주장",
+    "importance": 4,
+    "why": "Interfax(후티 주장).",
+    "sources": [
+     {
+      "name": "Interfax",
+      "url": "https://www.interfax.ru/world/1128944"
+     }
+    ],
+    "fields": [
+     "geopolitics",
+     "monetary"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "[메시지] 엔비디아, 후임 후보 협상 보도 부인",
+    "importance": 3,
+    "why": "RIA(관영)·Vedomosti.",
+    "sources": [
+     {
+      "name": "RIA Novosti [관영]",
+      "url": "https://ria.ru/20261113/nvidia-2131473432.html"
+     },
+     {
+      "name": "Vedomosti",
+      "url": "https://www.vedomosti.ru/politics/news/2026/11/13/1245326-v-nvidia-oprovergli-dannie"
+     }
+    ],
+    "fields": [
+     "industry"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "TASS, 유럽통신사연합에서 제명",
+    "importance": 3,
+    "why": "RBC.",
+    "sources": [
+     {
+      "name": "RBC",
+      "url": "https://www.rbc.ru/rbcfreenews/6af77679d6b480b5a65a6353"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "무관"
+   }
+  ],
+  "cn": [
+   {
+    "headline_ko": "미·중 무역위원회 첫 회의 — 정상회담 며칠 앞",
+    "importance": 5,
+    "why": "SCMP.",
+    "sources": [
+     {
+      "name": "SCMP (홍콩)",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3374407/us-china-board-trade-holds-first-meeting-days-trump-xi-summit"
+     }
+    ],
+    "fields": [
+     "geopolitics",
+     "industry"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "트럼프, 아세안서 '팍스 실리카' 동참 압박 예정",
+    "importance": 4,
+    "why": "SCMP(소식통).",
+    "sources": [
+     {
+      "name": "SCMP (홍콩)",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3374393/trump-press-southeast-asia-nations-join-pax-silica-asean-summit-manila"
+     }
+    ],
+    "fields": [
+     "industry",
+     "geopolitics"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "베선트, 대중 칩 수출 미제한 책임을 상무부에",
+    "importance": 4,
+    "why": "SCMP.",
+    "sources": [
+     {
+      "name": "SCMP (홍콩)",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3374409/bessent-blames-us-commerce-department-not-restricting-nvidia-chip-exports-china"
+     }
+    ],
+    "fields": [
+     "industry"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "[메시지] 러 외무부 '러-미 회담서 유럽 참여 논의 안 해'",
+    "importance": 4,
+    "why": "CCTV(관영).",
+    "sources": [
+     {
+      "name": "CCTV [관영]",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XdnN2M0lkbUhObWp3aElvY01JbFlrOVVrelhXeGdHaVZfdS1XVXRYUkRNUTJvcUhfNjFsWkpQdzE3MlVldFQ0QkFrRnMzV3FCeG9VOE9vdXIxTGE1UVdhOUdpajZHck9YNmRzWWZBWC0zWF9FUENIeQ?oc=5"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "무관"
+   },
+   {
+    "headline_ko": "[메시지] 왕이, 조현 장관·미 정당 대화 대표와 회담",
+    "importance": 3,
+    "why": "인민일보(관영).",
+    "sources": [
+     {
+      "name": "People's Daily [관영]",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3NXlhVWRWUzdGM1hlN19oc1hmU2JielhMWXA2RllyLTR6elptNDNOQkxMQkZxbnpBWFdXWWQyY3Q2NGxNQ0xqNUpySFAtOVV6RTM2YWZHa291TDA1NmI5blc3b0MxeWt5dWVxel9sTQ?oc=5"
+     }
+    ],
+    "fields": [
+     "geopolitics"
+    ],
+    "hypothesis": "무관"
+   }
+  ]
+ },
+ "watch": [
+  "이란: 모사드-위트코프 면담 결과, 미·이스라엘의 공습 재개 여부, 호르무즈 유조선 피해의 독립 확인",
+  "엔비디아 후임 CEO 선임, 러트닉 청문회 일정과 메가스피드 지정 여부",
+  "MS 장애 사후 보고서와 FAA 그라운드 스톱의 원인 발표",
+  "앤트로픽 11/18 공모가·11/19 상장, 미 10년물 5%대와 연준 12월 결정 기대",
+  "트럼프-시진핑 정상회담과 마닐라 아세안 '팍스 실리카' 논의",
+  "유럽 5개국+EU 협상팀의 첫 역할과 러시아의 반응, 스타링크 제한 해소 여부"
+ ],
+ "coverage": {
+  "us": {
+   "headlines": 88,
+   "unavailable": []
+  },
+  "kr": {
+   "headlines": 112,
+   "unavailable": []
+  },
+  "jp": {
+   "headlines": 96,
+   "unavailable": [
+    "Nikkei Asia"
+   ]
+  },
+  "de": {
+   "headlines": 80,
+   "unavailable": []
+  },
+  "uk": {
+   "headlines": 86,
+   "unavailable": []
+  },
+  "fr": {
+   "headlines": 64,
+   "unavailable": []
+  },
+  "il": {
+   "headlines": 45,
+   "unavailable": [
+    "Kan (KAN News)",
+    "N12 (Channel 12)"
+   ]
+  },
+  "ru": {
+   "headlines": 72,
+   "unavailable": []
+  },
+  "cn": {
+   "headlines": 44,
+   "unavailable": [
+    "Global Times",
+    "Caixin"
+   ]
+  }
+ }
+}

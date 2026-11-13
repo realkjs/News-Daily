@@ -1,0 +1,1089 @@
+{
+  "team": "de",
+  "headlines": [
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Jetzt live - Gruda trifft beim Debüt, Serbien verkürzt",
+      "title_ko": "[라이브] 그루다 데뷔전 득점, 세르비아 추격",
+      "summary_ko": "브라얀 그루다가 독일 대표팀 데뷔전에서 3:0을 만드는 골을 넣었다. 직후 세르비아의 바비치가 득점해 1:3으로 추격했다.",
+      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-nations-league-a/ma11904031/serbien_deutschland/liveticker",
+      "published": "2026-11-14T06:03:51+09:00",
+      "tags": [],
+      "event": "nations-league-serbia-germany",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "tagesschau in 100 Sekunden",
+      "title_ko": "타게스샤우 100초 뉴스",
+      "summary_ko": "타게스샤우 100초 뉴스 (제목 외 세부 내용 없음).",
+      "url": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1683522.html",
+      "published": "2026-11-14T05:43:58+09:00",
+      "tags": [],
+      "event": "tagesschau-100-sekunden",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
+      "title_ko": "마이크로소프트 서비스 장애에 대해 알려진 것",
+      "summary_ko": "수 시간에 걸친 대규모 장애로 아웃룩 등 미국 소프트웨어 기업 마이크로소프트의 서비스가 전 세계적으로 마비됐다. 피해 대상과 추정되는 배경을 정리했다.",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
+      "published": "2026-11-14T05:22:33+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "microsoft-global-outage",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "IT-Störungen: Microsoft sieht \"deutliche Verbesserung\" der Lage",
+      "title_ko": "IT 장애: 마이크로소프트, 상황 \"뚜렷한 개선\"",
+      "summary_ko": "전 세계 IT 장애 이후 특히 북미와 유럽에서 상황이 진정되는 것으로 보인다. 마이크로소프트는 일부 \"전면적인 개선\"이 있다고 밝혔다.",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-stoerung-100.html",
+      "published": "2026-11-14T05:21:45+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "microsoft-global-outage",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Bundesweit Demonstrationen für mehr Klimaschutz",
+      "title_ko": "전국 곳곳서 기후보호 강화 촉구 시위",
+      "summary_ko": "독일 70여 곳에서 모두 수만 명이 기후보호 강화를 요구하며 거리로 나섰다. 튀르키예에서 열리는 기후회의가 계기였다.",
+      "url": "https://www.tagesschau.de/inland/regional/hamburg/fridays-for-future-in-hamburg-demo-durch-die-innenstadt,klima-376.html",
+      "published": "2026-11-14T04:48:00+09:00",
+      "tags": [],
+      "event": "germany-climate-protests",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Großbritannien: Ermittlungen gegen Kinderbuchautor Walliams",
+      "title_ko": "영국: 아동문학 작가 월리엄스 수사",
+      "summary_ko": "영국의 대표적 아동문학 작가이자 코미디언 데이비드 월리엄스(55)가 미성년 소녀 성추행 혐의를 받고 있다. 월리엄스는 혐의를 부인하며 경찰이 수사 중이다.",
+      "url": "https://www.tagesschau.de/ausland/europa/ermittlungen-gb-walliams-100.html",
+      "published": "2026-11-14T04:45:01+09:00",
+      "tags": [],
+      "event": "david-walliams-investigation",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "tagesschau mit Gebärdensprache",
+      "title_ko": "수어 타게스샤우",
+      "summary_ko": "수어 통역 타게스샤우 (제목 외 세부 내용 없음).",
+      "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12368.html",
+      "published": "2026-11-14T04:39:48+09:00",
+      "tags": [],
+      "event": "tagesschau-gebaerdensprache",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "tagesschau 20:00 Uhr",
+      "title_ko": "타게스샤우 20시 뉴스",
+      "summary_ko": "마이크로소프트 서비스 세계적 장애의 원인은 기술적 문제, 높은 신규 차입을 담은 2027년 연방예산 의결, 개혁 후 연방 정보기관 권한 확대, AfD의 전 월드컵 우승자 베르톨트 연방대통령 후보 추대 계획, 유럽 참여를 늘린 우크라이나 평화회담 추진, 이집트 법원 관련 소식 등을 다뤘다(요약 원문이 중간에 끊김).",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1683510.html",
+      "published": "2026-11-14T04:37:18+09:00",
+      "tags": [
+        "legislation",
+        "geopolitics",
+        "business"
+      ],
+      "event": "tagesschau-20-uhr-bulletin",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "EU-Treffen in Dublin offenbart wunde Punkte",
+      "title_ko": "더블린 EU 회의, 약점 드러내",
+      "summary_ko": "유럽은 자기 정체성을 찾는 중이며 푸틴에게 끌려다니고 있다. 푸틴은 평화협상에 유럽인을 포함하는 것도 상상할 수 있다는 입장이지만, 누구를 보낼지가 문제다.",
+      "url": "https://www.zdfheute.de/politik/ausland/eu-ukraine-selenskyj-costa-verhandlungen-dublin-100.html",
+      "published": "2026-11-14T06:00:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "eu-ukraine-negotiation-team",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
+      "title_ko": "이란 전쟁과 중동 분쟁: 라이브 블로그 전체 뉴스",
+      "summary_ko": "중동 정세가 계속 긴장 상태이며 공격이 반복되고 있다. 요르단강 서안 상황이 악화되고 있다.",
+      "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+      "published": "2026-11-14T05:56:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "middle-east-iran-war-liveblog",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Warum Nmechas Kronen-Jubel umstritten ist",
+      "title_ko": "엔메차의 '왕관 세리머니'가 논란인 이유",
+      "summary_ko": "축구 국가대표 펠릭스 엔메차가 골 세리머니와 'Ballers in God' 네트워크와의 연관성으로 비판받고 있다.",
+      "url": "https://www.zdfheute.de/video/zdfheute-live/felix-nmecha-torjubel-kritik-video-100.html",
+      "published": "2026-11-14T05:39:00+09:00",
+      "tags": [],
+      "event": "nmecha-celebration-controversy",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Linke stimmt Koalitionsvertrag mit SPD und Grünen zu",
+      "title_ko": "좌파당, 사민당·녹색당과 연정 협약 승인",
+      "summary_ko": "메클렌부르크포어포메른 좌파당이 사민당·녹색당과의 주정부 구성을 승인했다. 비판도 있었으며 두 정당의 전당대회 승인이 남아 있다.",
+      "url": "https://www.zdfheute.de/politik/deutschland/mecklenburg-vorpommern-linke-stimmt-koalitionsvertrag-zu-100.html",
+      "published": "2026-11-14T05:36:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "mv-coalition-agreement",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Elterngeldreform: Das soll sich ändern",
+      "title_ko": "부모수당 개혁: 이렇게 바뀐다",
+      "summary_ko": "연방 내각이 부모수당 개혁 법안에 합의했다. 변경 사항은 금액과 부모 간 배분 방식에 관한 것이다.",
+      "url": "https://www.zdfheute.de/politik/deutschland/elterngeldreform-bundeskabinett-100.html",
+      "published": "2026-11-14T05:13:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "elterngeld-reform",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Genossenschaft rettet Dorfkneipe in Thüringen",
+      "title_ko": "튀링겐 마을 주점, 협동조합이 살려",
+      "summary_ko": "아이제나흐 인근 노이키르헨에서 협동조합이 자기자본과 지원금으로 마을 주점을 재단장해 마을 중심지를 지켰다.",
+      "url": "https://www.zdfheute.de/video/panorama-kneipen-sterben-corona-video-100.html",
+      "published": "2026-11-14T04:53:00+09:00",
+      "tags": [],
+      "event": "thuringia-village-pub-cooperative",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Deutschland gegen Serbien in der Nations League - jetzt live",
+      "title_ko": "네이션스리그 독일 대 세르비아 - 라이브",
+      "summary_ko": "네이션스리그 순위표·경기·라이브 중계 등을 정리한 ZDF헤우테 페이지.",
+      "url": "https://www.zdfheute.de/sport/fussball-nations-league/fussball-nations-league-tabelle-spielplan-ergebnisse-liveticker-100.html",
+      "published": "2026-11-14T04:11:00+09:00",
+      "tags": [],
+      "event": "nations-league-serbia-germany",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Microsoft-Störung: \"Das zeigt, wie sehr wir abhängig sind\"",
+      "title_ko": "마이크로소프트 장애: \"우리가 얼마나 의존하는지 보여줘\"",
+      "summary_ko": "마이크로소프트 장애 이후 디지털부는 단일 공급자에 의존하지 말라고 권고했다. 이번 사태는 유럽의 디지털 주권 문제를 제기한다.",
+      "url": "https://www.zdfheute.de/politik/microsoft-digitalministerium-digitale-unabhaengigkeit-100.html",
+      "published": "2026-11-14T04:10:00+09:00",
+      "tags": [
+        "business",
+        "geopolitics"
+      ],
+      "event": "microsoft-global-outage",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Online ausgetrickst - EU will Verbraucher besser schützen",
+      "title_ko": "온라인 속임수 - EU, 소비자 보호 강화 추진",
+      "summary_ko": "EU가 구독 함정, 오인 유도 판매 전략, 끝없는 스크롤을 유도하는 기능 등을 새 법으로 억제하려 한다. 무엇이 바뀌고 충분한지 짚었다.",
+      "url": "https://www.dw.com/de/online-ausgetrickst-eu-will-verbraucher-besser-schützen/a-79943717?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-14T03:42:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "eu-digital-fairness-act",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "BND und Verfassungsschutz: Sind sie nach der Gesetzesreform \"echte Geheimdienste\" oder bleiben sie zahnlose Tiger?",
+      "title_ko": "BND와 헌법수호청: 법 개정 후 '진짜 정보기관'인가, 이빨 빠진 호랑이인가",
+      "summary_ko": "독일 정보기관들이 앞으로 국내외 적에 대한 정보 수집 이상의 활동을 할 수 있게 된다. 기본법과 양립하는지 논의가 이어지고 있다.",
+      "url": "https://www.dw.com/de/bnd-und-verfassungsschutz-sind-sie-nach-der-gesetzesreform-echte-geheimdienste-oder-bleiben-sie-zahnlose-tiger/a-79936888?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-14T01:06:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "germany-intelligence-reform",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Microsoft sieht nach Panne keinen Hinweis auf Cyber-Angriff",
+      "title_ko": "마이크로소프트, 장애 후 사이버 공격 징후 없다",
+      "summary_ko": "미국 기술기업 마이크로소프트 서비스 중단으로 전 세계 기업과 개인 사용자가 장애를 겪었다. 회사는 지금까지 사이버 공격의 징후를 찾지 못했다.",
+      "url": "https://www.dw.com/de/microsoft-sieht-nach-panne-keinen-hinweis-auf-cyber-angriff/a-79940856?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-13T23:26:00+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "microsoft-global-outage",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Xi-Putin-Trump-Gipfel in China?",
+      "title_ko": "시진핑-푸틴-트럼프 중국 정상회담?",
+      "summary_ko": "시진핑·푸틴·트럼프 정상회담 가능성에 대한 추측 속에 중국은 신중하게 움직이고 있다. 우크라이나 전쟁에 지나치게 개입한다는 인상을 피하려 한다.",
+      "url": "https://www.dw.com/de/xi-putin-trump-gipfel-in-china/a-79941737?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-13T23:20:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "xi-putin-trump-summit-speculation",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Bundeshaushalt 2027: Mehr Geld für Bundeswehr und Soziales, hohe Kredite und Streit um die Stromsteuer. Was der Etat für Deutschland konkret bedeutet",
+      "title_ko": "2027년 연방예산: 연방군·복지 지출 확대, 대규모 차입, 전기세 논쟁 — 예산이 독일에 의미하는 것",
+      "summary_ko": "연방의회 예산 조정 회의 이후 2027년 연방예산이 마무리 단계에 있다. 국방·인프라·경제·사회 지출에서 정부의 정책 중점을 짚었다.",
+      "url": "https://www.dw.com/de/bundeshaushalt-2027-mehr-geld-für-bundeswehr-und-soziales-hohe-kredite-und-streit-um-die-stromsteuer-was-der-etat-für-deutschland-konkret-bedeutet/a-79939318?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-13T22:38:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "germany-budget-2027",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Faktencheck: Wie erkenne ich KI-generierte Bilder?",
+      "title_ko": "팩트체크: AI 생성 이미지 구별법",
+      "summary_ko": "AI로 생성·조작된 이미지가 소셜미디어에 넘쳐나고 있다. 진위 구별을 위한 몇 가지 팁을 소개했다.",
+      "url": "https://www.dw.com/de/faktencheck-wie-erkenne-ich-ki-generierte-bilder/a-65252413?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-13T21:33:00+09:00",
+      "tags": [],
+      "event": "ai-image-factcheck",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Klopp nach Gespräch mit Nmecha: \"Er wird so nicht mehr jubeln\"",
+      "title_ko": "클롭, 엔메차와 면담 후 \"더는 그렇게 세리머니하지 않을 것\"",
+      "summary_ko": "엔메차의 세리머니가 그와 'Ballers in God' 네트워크에 대한 논란을 낳았다. 세르비아전을 앞두고 위르겐 클롭 감독이 문제를 일단락했지만 의문은 남아 있다.",
+      "url": "https://www.dw.com/de/klopp-nach-gespräch-mit-nmecha-er-wird-so-nicht-mehr-jubeln/a-79938854?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-13T20:43:00+09:00",
+      "tags": [],
+      "event": "nmecha-celebration-controversy",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Iran blockiert Inspektion von Atomanlagen - IAEA besorgt",
+      "title_ko": "이란, 핵시설 사찰 차단 - IAEA 우려",
+      "summary_ko": "국제원자력기구(IAEA)가 이란에 핵시설 사찰 재허용을 강력히 촉구했다. 특히 한 곳이 주목받고 있다.",
+      "url": "https://www.dw.com/de/iran-blockiert-inspektion-von-atomanlagen-iaea-besorgt/a-79938196?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-13T20:18:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "iran-iaea-inspections",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Nach Foul mit Todesfolge: Spanischer Verband verkündet Strafe für Jesus Owono",
+      "title_ko": "사망 사고 부른 파울: 스페인 협회, 헤수스 오워노 징계 발표",
+      "summary_ko": "다시 골문에 설지는 헤수스 오워노 본인의 결정이라고 감독이 강조했다. 레드카드 징계가 확정돼 당분간 출전할 수 없다.",
+      "url": "https://www.n-tv.de/sport/fussball/Spanischer-Verband-verkuendet-Strafe-fuer-Jesus-Owono-id31532949.html",
+      "published": "2026-11-14T06:10:33+09:00",
+      "tags": [],
+      "event": "owono-foul-sanction",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Vater unbekannt: Sängerin Avril Lavigne mit 42 Jahren erstmals Mutter",
+      "title_ko": "아버지 비공개: 가수 에이브릴 라빈, 42세에 첫 출산",
+      "summary_ko": "팝펑크 가수 에이브릴 라빈이 인스타그램에 딸 사진을 공유했다. 아버지의 이름은 공개하지 않았다.",
+      "url": "https://www.n-tv.de/leute/Saengerin-Avril-Lavigne-mit-42-Jahren-erstmals-Mutter-id31532636.html",
+      "published": "2026-11-14T05:45:28+09:00",
+      "tags": [],
+      "event": "avril-lavigne-baby",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Jahrelanger Streit um Wohnung: Hausverwalter erschossen: Schütze spielte auf Luigi Mangione an",
+      "title_ko": "수년간 주택 분쟁 끝 관리인 총격 살해: 총격범, 루이지 맨지오니 언급",
+      "summary_ko": "워싱턴에서 주택 하자를 둘러싼 오랜 분쟁 끝에 집주인이 관리인을 총으로 살해하고 여러 명을 다치게 했다. 범인은 사전에 한 기자와 접촉했던 것으로 드러났다.",
+      "url": "https://www.n-tv.de/panorama/Hausverwalter-erschossen-Schuetze-spielte-auf-Luigi-Mangione-an-id31532571.html",
+      "published": "2026-11-14T05:37:48+09:00",
+      "tags": [],
+      "event": "washington-property-manager-shooting",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Unglück nahe New Orleans: US-Flusskreuzer kentert nach Kollision mit Frachter",
+      "title_ko": "뉴올리언스 인근 사고: 미국 유람선, 화물선과 충돌 후 전복",
+      "summary_ko": "미시시피강에서 화물선이 유람선을 들이받아 유람선이 전복됐다. 영상에는 물에 빠진 사람들이 보인다.",
+      "url": "https://www.n-tv.de/panorama/US-Flusskreuzer-kentert-nach-Kollision-mit-Frachter-id31532858.html",
+      "published": "2026-11-14T05:09:40+09:00",
+      "tags": [],
+      "event": "new-orleans-ship-collision",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Trennung wohl schon im Oktober: Ehe-Aus bei Anika und Manuel Neuer",
+      "title_ko": "10월에 이미 결별한 듯: 아니카·마누엘 노이어 이혼",
+      "summary_ko": "FC 바이에른 골키퍼 노이어와 아내 아니카가 이혼하는 것으로 보인다. 언론 보도에 따르면 결별은 몇 주 전에 이뤄졌다.",
+      "url": "https://www.n-tv.de/leute/Ehe-Aus-bei-Anika-und-Manuel-Neuer-id31532767.html",
+      "published": "2026-11-14T04:52:30+09:00",
+      "tags": [],
+      "event": "neuer-divorce",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Polizeihubschrauber im Einsatz: 41-Jähriger in Aachen erschossen - Schütze flüchtig",
+      "title_ko": "경찰 헬기 투입: 아헨서 41세 남성 총격 사망 - 범인 도주",
+      "summary_ko": "아헨 도심에서 대낮에 한 남성이 거리에서 총에 맞아 숨졌다. 전날 시내 식당 앞에서 패싸움과 총격이 있었으며 수사당국이 연관성을 조사 중이다.",
+      "url": "https://www.n-tv.de/panorama/41-Jaehriger-in-Aachen-erschossen-Schuetze-fluechtig-id31532418.html",
+      "published": "2026-11-14T04:27:34+09:00",
+      "tags": [],
+      "event": "aachen-shooting",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Mitten in hitziger WM-Diskussion: Deutscher Eishockey-Star befürwortet Russland-Comeback",
+      "title_ko": "세계선수권 논쟁 한가운데: 독일 아이스하키 스타, 러시아 복귀 찬성",
+      "summary_ko": "독일 아이스하키 스타 수비수 모리츠 자이더가 러시아의 복귀를 지지하는 발언으로 논란을 일으켰다.",
+      "url": "https://www.n-tv.de/sport/Deutscher-Eishockey-Star-befuerwortet-Russland-Comeback-id31532205.html",
+      "published": "2026-11-14T04:26:46+09:00",
+      "tags": [],
+      "event": "russia-sports-return-debate",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Vorwürfe sexueller Übergriffe: Polizei ermittelt gegen \"Little Britian\"-Star David Walliams",
+      "title_ko": "성추행 의혹: 경찰, '리틀 브리튼' 스타 데이비드 월리엄스 수사",
+      "summary_ko": "여러 여성이 영국 코미디언 데이비드 월리엄스에게 성추행을 당했다고 주장했다. 월리엄스는 부인했으며 경찰이 수사에 착수했다.",
+      "url": "https://www.n-tv.de/leute/Polizei-ermittelt-gegen-Little-Britian-Star-David-Walliams-id31532510.html",
+      "published": "2026-11-14T04:16:50+09:00",
+      "tags": [],
+      "event": "david-walliams-investigation",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Kreuzfahrtschiff mit 130 Passagieren wird von Tanker gerammt und sinkt",
+      "title_ko": "승객 130명 탄 크루즈선, 유조선에 들이받혀 침몰",
+      "summary_ko": "아메리칸 크루즈 라인스 선박이 승객 130명을 태우고 뉴올리언스 항 인근 미시시피강에 정박 중 충돌 사고가 났다. 영상에는 구명조끼를 입고 물에 있는 사람들이 보인다.",
+      "url": "https://www.welt.de/vermischtes/article6af7770c7f8bbad09ea62d88/new-orleans-kreuzfahrtschiff-mit-130-passagieren-wird-von-tanker-gerammt-und-sinkt.html",
+      "published": "2026-11-14T06:11:21+09:00",
+      "tags": [],
+      "event": "new-orleans-ship-collision",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Lachen über Sozis, Lob für die CDU – So starten die NRW-Grünen den Landtagswahlkampf",
+      "title_ko": "사민당 조롱, 기민당 칭찬 – NRW 녹색당 주의회 선거전 시작",
+      "summary_ko": "녹색당이 2027년 노르트라인베스트팔렌 주 후보 명부를 선출했다. 사민당은 웃음거리가 됐고 프리드리히 메르츠는 '최악'으로 불렸으며 '실용주의'가 환호를 받았다.",
+      "url": "https://www.welt.de/politik/deutschland/plus6af70ef127adfb0b7bb2d293/parteitag-in-essen-lachen-ueber-sozis-lob-fuer-die-cdu-so-starten-die-nrw-gruenen-den-landtagswahlkampf.html",
+      "published": "2026-11-14T05:49:55+09:00",
+      "tags": [],
+      "event": "nrw-greens-campaign",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Wir haben Arbeitsfähigkeit in die Hand eines einzelnen Anbieters gelegt“",
+      "title_ko": "\"업무 능력을 단일 공급자 손에 맡겼다\"",
+      "summary_ko": "IT 전문가 데니스-켄지 키퍼는 마이크로소프트 장애가 대규모 '집중 위험'을 드러냈다고 봤다. 기업과 기관은 핵심 시스템을 이중으로 보호해야 한다는 것이다.",
+      "url": "https://www.welt.de/videos/video6af74ef027adfb0b7bb2d81e/nach-globalem-cloud-chaos-wir-haben-arbeitsfaehigkeit-in-die-hand-eines-einzelnen-anbieters-gelegt.html",
+      "published": "2026-11-14T05:46:00+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "microsoft-global-outage",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Diese Gasstände, die historisch niedrig sind, für alles andere als unproblematisch“",
+      "title_ko": "\"역사적으로 낮은 가스 저장량, 결코 문제없지 않다\"",
+      "summary_ko": "에너지 전문가 프랑크 움바흐는 역사적으로 낮은 저장량, 불확실한 LNG 수입, 공급 차질 가능성을 들어 독일 가스 공급이 '최선의 시나리오'에 지나치게 의존한다고 본다.",
+      "url": "https://www.welt.de/wirtschaft/video6af75ab29849eea0701e2114/experte-warnt-diese-gasstaende-die-historisch-niedrig-sind-fuer-alles-andere-als-unproblematisch.html",
+      "published": "2026-11-14T05:38:40+09:00",
+      "tags": [
+        "industry",
+        "forecast"
+      ],
+      "event": "germany-gas-storage",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Haben keine Zeit zu verlieren“ – EU‑Kommission veranschlagt halbe Billion Euro für KI-Investitionen",
+      "title_ko": "\"잃을 시간 없다\" – EU 집행위, AI 투자에 5천억 유로 필요 추산",
+      "summary_ko": "EU 집행위원회는 유럽에 AI 투자 5천억 유로가 필요하다고 추산했다. 마크롱 프랑스 대통령은 유럽 기술기업에 대한 발주를 요구했다.",
+      "url": "https://www.welt.de/wirtschaft/article6af76f157f8bbad09ea62d26/gipfeltreffen-in-dublin-haben-keine-zeit-zu-verlieren-eukommission-veranschlagt-halbe-billion-euro-fuer-ki-investitionen.html",
+      "published": "2026-11-14T05:36:22+09:00",
+      "tags": [
+        "industry",
+        "legislation"
+      ],
+      "event": "eu-ai-investment-500bn",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Serbien setzt 5000 Kinder in den Regen",
+      "title_ko": "세르비아, 어린이 5천 명 빗속에 앉혀",
+      "summary_ko": "5천 명의 어린이가 세르비아에서 열린 독일의 네이션스리그 경기를 관람했으나, 메인 관중석에는 지붕이 있는데도 지붕 없는 맞은편 관중석에서 폭우를 맞아야 했다.",
+      "url": "https://www.welt.de/sport/fussball/article6af76332aa0d1596fb27e584/geisterspiel-gegen-deutschland-serbien-setzt-5000-kinder-in-den-regen.html",
+      "published": "2026-11-14T05:13:41+09:00",
+      "tags": [],
+      "event": "nations-league-serbia-germany",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Antwort auf Palantir – die Panzerbrigade 45 soll den deutschen Rüstungs-Star krönen",
+      "title_ko": "팔란티어에 대한 응수 – 제45기갑여단, 독일 방산 스타의 정점 될까",
+      "summary_ko": "전투 드론으로 알려진 뮌헨 기업 헬싱이 원래 창업 목적이던 군사 기술로 팔란티어에 도전하고 있다. 연방군이 이미 시험 중이다.",
+      "url": "https://www.welt.de/wirtschaft/plus6af5de7c50175c81de7a3fe3/wegen-palantir-dieser-deutsche-ruestungs-star-ist-europas-ohne-amerika-option.html",
+      "published": "2026-11-14T05:06:10+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "helsing-panzerbrigade-45",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Linke stimmt Koalitionsvertrag mit SPD und Grünen in Mecklenburg-Vorpommern zu",
+      "title_ko": "좌파당, 메클렌부르크포어포메른서 사민당·녹색당 연정 협약 승인",
+      "summary_ko": "좌파당이 사민당·녹색당과의 연정에 동의했다. 마누엘라 슈베지히 주총리는 남은 전당대회 후 월요일 주의회에서 재선에 나선다.",
+      "url": "https://www.welt.de/politik/article6af76740aa0d1596fb27e5b3/regierungsbildung-linke-stimmt-koalitionsvertrag-mit-spd-und-gruenen-in-mecklenburg-vorpommern-zu.html",
+      "published": "2026-11-14T05:02:02+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "mv-coalition-agreement",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Sachverständigenrat: „In ihren Rechten verletzt“ – Grimm siegt vor Gericht im Streit der Wirtschaftsweisen",
+      "title_ko": "경제전문가위원회: \"권리 침해\" – 그림, 경제 현자 분쟁서 승소",
+      "summary_ko": "베로니카 그림의 감독이사회 겸직을 둘러싼 분쟁에서 법원은 다른 경제전문가위원들이 그녀에게 투명성 규칙을 강요하거나 조사를 지시할 수 없다고 판결했다.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/sachverstaendigenrat-grimm-siegt-vor-gericht-im-streit-der-wirtschaftsweisen/100269802.html",
+      "published": "2026-11-14T04:03:33+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "grimm-council-court-ruling",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Börsengang: Anthropics 64-Milliarden-Dollar-Wette: Das sagt Amodei zu Chancen, Profit und KI-Sicherheit",
+      "title_ko": "상장: 앤트로픽의 640억 달러 베팅 – 아모데이가 말하는 기회·수익·AI 안전",
+      "summary_ko": "역사상 최대 규모 상장 중 하나를 앞두고 다리오 아모데이 앤트로픽 CEO와 JP모건의 제이미 다이먼이 함께 투자자 유치에 나섰다. 주식은 이미 6배 초과 청약됐다.",
+      "url": "https://www.handelsblatt.com/technik/it-internet/anthropic-chef-dario-amodei-spricht-ueber-chancen-profit-und-ki-sicherheit/100269790.html",
+      "published": "2026-11-14T03:57:33+09:00",
+      "tags": [
+        "stocks",
+        "business"
+      ],
+      "event": "anthropic-ipo",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Putin-Gespräche: Die EU hat sich für ein Ukraine-Team entschieden – Deutschland ist dabei",
+      "title_ko": "푸틴 협상: EU, 우크라이나 협상팀 결정 – 독일 포함",
+      "summary_ko": "워싱턴의 조롱과 브뤼셀의 며칠간 논쟁 끝에 더블린에서 해법이 나왔다. EU가 우크라이나 전쟁 협상에서 자신을 대표할 국가를 정했다.",
+      "url": "https://www.handelsblatt.com/politik/international/putin-gespraeche-eu-bildet-ukraine-team-deutschland-ist-dabei/100268657.html",
+      "published": "2026-11-14T03:20:56+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "eu-ukraine-negotiation-team",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Geldanlage: Privatanleger können sich am Mega-Börsengang von Anthropic beteiligen – sollten sie es auch?",
+      "title_ko": "투자: 개인투자자도 앤트로픽 초대형 상장 참여 가능 – 해야 할까?",
+      "summary_ko": "대형 AI 개발사로는 처음으로 상장한다. 개인투자자는 상장 전부터 참여할 수 있으며, 다른 IPO와의 비교가 판단 기준이 된다.",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/aktien/geldanlage-privatanleger-koennen-die-anthropic-aktie-zeichnen-sollten-sie-es-auch/100269156.html",
+      "published": "2026-11-14T03:00:32+09:00",
+      "tags": [
+        "stocks"
+      ],
+      "event": "anthropic-ipo",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Autoindustrie: BMW bietet Konkurrenz Hilfe beim Aufbessern der Klimabilanz an",
+      "title_ko": "자동차 산업: BMW, 경쟁사에 탄소 실적 개선 지원 제안",
+      "summary_ko": "BMW의 CO₂ 실적이 기준보다 좋아 다른 제조사들이 자사 배출량과 상계할 수 있도록 하며, 이로써 BMW는 재정적 이익을 얻는다.",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/autoindustrie-bmw-oeffnet-seinen-co-pool-fuer-die-konkurrenz/100269792.html",
+      "published": "2026-11-14T02:44:41+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "bmw-co2-pooling",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Dax aktuell: Dax schließt unverändert – Wochenbilanz weiter positiv",
+      "title_ko": "닥스 동향: 닥스 보합 마감 – 주간 실적은 상승",
+      "summary_ko": "독일 대표지수는 장 전반에 미국발 약세를 견뎠으나 주말 장 마감 무렵 투자자들의 힘이 빠졌다.",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-unveraendert-wochenbilanz-weiter-positiv/100269627.html",
+      "published": "2026-11-14T02:07:34+09:00",
+      "tags": [
+        "stocks"
+      ],
+      "event": "dax-weekly-close",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Krieg in Nahost: Sorgen im Machtzentrum der Wirtschaft: Israels Hightech-Branche hofft auf einen Politikwechsel",
+      "title_ko": "중동 전쟁: 경제 권력 중심부의 우려 – 이스라엘 하이테크 업계, 정책 전환 기대",
+      "summary_ko": "3년간의 전쟁에도 이스라엘 경제는 계속 성장하고 있다. 그러나 하이테크 업계는 국가의 고립 심화와 네타냐후의 추가 집권을 우려한다.",
+      "url": "https://www.handelsblatt.com/politik/international/israel-die-hightech-branche-hofft-auf-den-abschied-von-netanjahu/100264664.html",
+      "published": "2026-11-14T00:50:07+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "israel-hightech-politics",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Kommentar: Putins Lieblingsgegner ist ein zerstrittenes Europa",
+      "title_ko": "논평: 푸틴이 가장 좋아하는 상대는 분열된 유럽",
+      "summary_ko": "크렘린이 우크라이나 회담을 오래전부터 자신의 무대로 만들었다. 유럽이 곧 한목소리를 내지 못하면 푸틴이 유럽 안보 구조를 놓고 협상하게 될 것이라는 논평.",
+      "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-putins-lieblingsgegner-ist-ein-zerstrittenes-europa/100269399.html",
+      "published": "2026-11-14T00:38:19+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "eu-ukraine-negotiation-team",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "New Orleans: Tanker kollidiert mit Raddampfer",
+      "title_ko": "뉴올리언스: 유조선, 외륜선과 충돌",
+      "summary_ko": "미국 뉴올리언스 항 인근에서 유조선이 외륜 유람선과 충돌했다. 사고 당시 120명 이상이 타고 있었으며 구조 작업이 진행 중이다.",
+      "url": "https://www.spiegel.de/panorama/new-orleans-tanker-kollidiert-mit-raddampfer-a-7844e9e3-d317-4187-89dd-ab7505518264#ref=rss",
+      "published": "2026-11-14T05:40:00+09:00",
+      "tags": [],
+      "event": "new-orleans-ship-collision",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Norwegen, Schweden und Estland sperren russische Sportler aus",
+      "title_ko": "노르웨이·스웨덴·에스토니아, 러시아 선수 입국 차단",
+      "summary_ko": "IOC와 여러 국제연맹이 러시아 선수들의 국제대회 복귀를 허용하려 하자, 입국 규정을 강화해 맞서는 나라가 늘고 있다.",
+      "url": "https://www.spiegel.de/sport/norwegen-schweden-und-estland-sperren-russische-sportler-aus-a-cbad5051-c510-4df1-a4d9-88b099d8a5a2#ref=rss",
+      "published": "2026-11-14T04:53:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "russia-sports-return-debate",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Sylvie Meis über »Die Friesenjunkies«: »Alle Genitalien waren abgeklebt und auch beim Masturbieren bewegt sich nur meine Schulter«",
+      "title_ko": "실비 마이스, 드라마 '프리젠정키스' 출연 소감 인터뷰",
+      "summary_ko": "진행자 실비 마이스가 드라마 '프리젠정키스'에 즉흥적으로 합류했으며, 마약 장면보다 성적 장면이 더 쉬웠던 이유를 설명했다.",
+      "url": "https://www.spiegel.de/kultur/sylvie-meis-ueber-die-friesenjunkies-alle-genitalien-waren-abgeklebt-und-auch-beim-masturbieren-bewegt-sich-nur-meine-schulter-a-91f7a1e9-6dff-4b19-93b4-c63728e52596#ref=rss",
+      "published": "2026-11-14T04:16:00+09:00",
+      "tags": [],
+      "event": "sylvie-meis-interview",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Nations League: Deutschland gegen Serbien im Liveticker",
+      "title_ko": "네이션스리그: 독일 대 세르비아 라이브 중계",
+      "summary_ko": "클롭 감독 체제에서 독일 대표팀이 세르비아전처럼 압도적이었던 적은 없었다. 순위 상황상 후반에 더 많은 골이 필요하다.",
+      "url": "https://www.spiegel.de/sport/fussball/nations-league-deutschland-gegen-serbien-im-liveticker-a-326c5e73-0078-4453-a674-74f4b8a81771#ref=rss",
+      "published": "2026-11-14T04:15:00+09:00",
+      "tags": [],
+      "event": "nations-league-serbia-germany",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Krieg in der Ukraine: Europäer einigen sich auf Verhandlungsteam für Gespräche mit Russland",
+      "title_ko": "우크라이나 전쟁: 유럽, 러시아와 협상할 대표단 합의",
+      "summary_ko": "독일·프랑스·영국·이탈리아·폴란드가 EU 기관과 함께 우크라이나 관련 대러 협상에서 유럽을 대표하기로 EU 정상들이 합의했다.",
+      "url": "https://www.spiegel.de/ausland/krieg-in-der-ukraine-europaeer-einigen-sich-auf-verhandlungsteam-fuer-gespraeche-mit-russland-a-33f42a19-3d6f-4708-8372-a55f8583040a#ref=rss",
+      "published": "2026-11-14T03:02:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "eu-ukraine-negotiation-team",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Aachen: Mann auf offener Straße erschossen – Polizei fahndet nach Tatverdächtigen",
+      "title_ko": "아헨: 길거리서 남성 총격 사망 – 경찰 용의자 수배",
+      "summary_ko": "아헨 동부 지역에서 오후에 41세 남성이 살해됐다. 전날 밤에도 인근에서 총격이 있었다.",
+      "url": "https://www.spiegel.de/panorama/aachen-mann-auf-offener-strasse-erschossen-polizei-fahndet-nach-tatverdaechtigen-a-c1053e61-94a3-4ae2-b754-ce053334a6cb#ref=rss",
+      "published": "2026-11-14T02:53:00+09:00",
+      "tags": [],
+      "event": "aachen-shooting",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Ukraine-Krieg: Experte schätzt 500.000 bis 600.000 Kriegstote auf russischer Seite",
+      "title_ko": "우크라이나 전쟁: 전문가, 러시아 측 전사자 50만~60만 명 추정",
+      "summary_ko": "해커들이 러시아 통계청(로스스타트)에서 비밀 사망 통계를 포함한 수백만 건의 데이터를 탈취했다. 러시아 전문가 야니스 클루게가 유출의 의미를 설명했다.",
+      "url": "https://www.spiegel.de/ausland/ukraine-krieg-experte-schaetzt-500-000-bis-600-000-kriegstote-auf-russischer-seite-a-39dc975f-4db8-420b-9fdf-046130291bb9#ref=rss",
+      "published": "2026-11-14T02:51:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "rosstat-leak-war-deaths",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Russland: Menschenrechtsanwältin Marija Bonzler zu langer Haft verurteilt",
+      "title_ko": "러시아: 인권변호사 마리야 본츨러 장기 징역형",
+      "summary_ko": "정치범을 변호하다 체포된 러시아 변호사 마리야 본츨러가 반역 혐의로 징역 12년을 선고받았다. 건강 상태가 좋지 않은 것으로 보인다.",
+      "url": "https://www.spiegel.de/ausland/russland-menschenrechtsanwaeltin-marija-bonzler-zu-langer-haft-verurteilt-a-017f2720-c5f2-440d-b700-8dffbc71a0d3#ref=rss",
+      "published": "2026-11-14T02:27:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "russia-bonzler-sentence",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "New orleans: Tanker kollidiert mit Passagierschiff",
+      "title_ko": "뉴올리언스: 유조선, 여객선과 충돌",
+      "summary_ko": "미시시피강에서 유조선이 승객 130여 명을 태운 강 크루즈선과 충돌했다. 사고 원인은 조사 중이다.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/kollision-auf-dem-mississippi-tanker-rammt-flusskreuzfahrtschiff-bei-new-orleans-201682330.html",
+      "published": "2026-11-14T06:05:02+09:00",
+      "tags": [],
+      "event": "new-orleans-ship-collision",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Sachsen-Anhalt: Was machen die 39 AfD-Abgeordneten eigentlich den ganzen Tag?",
+      "title_ko": "작센안할트: AfD 의원 39명은 하루 종일 무엇을 하나?",
+      "summary_ko": "작센안할트는 다른 주와 비교할 수 없을 만큼 침체돼 있고 중요한 투자도 무산됐다. 그런데 선거 승리자들은 서두르지 않는다.",
+      "url": "https://www.faz.net/aktuell/sachsen-anhalt-liegt-am-boden-doch-die-afd-nimmt-sich-zeit-201673047.html",
+      "published": "2026-11-14T05:30:57+09:00",
+      "tags": [],
+      "event": "saxony-anhalt-afd",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Business-Ticker: Von der Leyen: Europa braucht 500 Milliarden Euro Investitionen für KI",
+      "title_ko": "비즈니스 티커: 폰데어라이엔 \"유럽, AI에 5천억 유로 투자 필요\"",
+      "summary_ko": "젠슨 황의 엔비디아 CEO 마지막 시간, 근로자 절반이 크리스마스 보너스 수령, 메르세데스의 독일 사업장 신규 투자 전면 중단 등 기업 라이브 블로그.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-von-der-leyen-europa-braucht-500-milliarden-euro-investitionen-fuer-ki-faz-200452404.html",
+      "published": "2026-11-14T05:19:11+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "eu-ai-investment-500bn",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Weltweite IT-Störung: Microsoft gibt vorsichtige Entwarnung – „nachhaltige Verbesserung in Europa“",
+      "title_ko": "세계적 IT 장애: 마이크로소프트, 신중한 해제 – \"유럽서 지속적 개선\"",
+      "summary_ko": "대규모 마이크로소프트 장애로 전 세계 사용자가 아웃룩 등 프로그램을 제한적으로만 쓸 수 있었다. 현재는 많은 시스템이 다시 나아졌다.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/microsoft-gibt-vorsichtige-entwarnung-nachhaltige-verbesserung-in-europa-accg-201679156.html",
+      "published": "2026-11-14T05:11:47+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "microsoft-global-outage",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "James Bond: Es wird ein Junge",
+      "title_ko": "제임스 본드: 남자아이가 될 것",
+      "summary_ko": "새 제임스 본드가 어느 영국 배우가 될지 매일 추측이 나오며 소문이 우스꽝스러워지고 있다.",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/wer-wird-der-neue-james-bond-201679589.html",
+      "published": "2026-11-14T05:04:04+09:00",
+      "tags": [],
+      "event": "james-bond-casting",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Denkmalschutz in italien: Zeitreise zu Mönchen, Edelleuten und Buchhaltern",
+      "title_ko": "이탈리아 문화재 보호: 수도사·귀족·회계사로의 시간여행",
+      "summary_ko": "이탈리아의 특별한 건물과 풍경을 보려면 '이탈리아 환경기금(FAI)'을 참고하라는 내용. 이 재단은 관광 경로 밖의 독특한 문화재와 자연을 보호한다.",
+      "url": "https://www.faz.net/aktuell/reise/verborgenes-italien-der-fai-bewahrt-orte-fern-der-touristenpfade-201117918.html",
+      "published": "2026-11-14T05:02:13+09:00",
+      "tags": [],
+      "event": "italy-fai-heritage",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Energiegesetz geändert: Aus für Windräder im Taunus",
+      "title_ko": "에너지법 개정: 타우누스 풍력발전 무산",
+      "summary_ko": "헤센 주의원들이 거의 눈에 띄지 않게 에너지법을 개정했다. 이로써 10년 넘게 논란이 된 호에 부르첼 풍력발전 계획이 무효가 됐다.",
+      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/hessen-aendert-energiegesetz-aus-fuer-windraeder-im-taunus-accg-201681253.html",
+      "published": "2026-11-14T05:00:00+09:00",
+      "tags": [
+        "legislation",
+        "industry"
+      ],
+      "event": "hesse-taunus-wind-law",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Liveblog Ukrainekrieg: Fünf Staaten sollen Europa bei künftigen Verhandlungen mit Russland vertreten",
+      "title_ko": "우크라이나 전쟁 라이브 블로그: 5개국이 대러 협상서 유럽 대표",
+      "summary_ko": "코스타 \"EU, 오랜 논쟁 끝 합의 – 독일 포함\", 러시아는 유럽의 회담 참여에 대해 알지 못한다는 입장, 젤렌스키는 스타실드 재차 제한 비판.",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-merz-costa-fuenf-staaten-sollen-europa-bei-kuenftigen-ukraine-gespraechen-vertreten-faz-110683325.html",
+      "published": "2026-11-14T04:58:29+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "eu-ukraine-negotiation-team",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Lori Huang: Sie hielt Jensen Huang den Rücken frei. Wird sie jetzt Milliardärin?",
+      "title_ko": "로리 황: 젠슨 황을 뒷바라지한 그녀, 이제 억만장자 되나?",
+      "summary_ko": "로리 황은 41년간 엔비디아 창업자와 결혼 생활을 해 왔다. 이혼 시 세계 최고 부자 여성 중 한 명이 될 수 있다.",
+      "url": "https://www.sueddeutsche.de/panorama/lori-huang-jensen-huang-nvidia-scheidung-tech-industrie-wirtschafsspionage-spionin-china-li.3579383",
+      "published": "2026-11-14T05:05:52+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "nvidia-huang-resignation",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Theater: Ein Mann mit Leidenschaft und Grundsätzen",
+      "title_ko": "연극: 열정과 원칙의 사람",
+      "summary_ko": "프랑크푸르트의 비평가이자 문화 후원자 페터 이덴의 부고.",
+      "url": "https://www.sueddeutsche.de/kultur/nachruf-peter-iden-kritiker-theater-frankfurt-li.3580273",
+      "published": "2026-11-14T03:33:41+09:00",
+      "tags": [],
+      "event": "peter-iden-obituary",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Krieg in der Ukraine: EU einig: Verhandlungsteam für Gespräche mit Russland steht",
+      "title_ko": "우크라이나 전쟁: EU 합의 – 대러 협상팀 확정",
+      "summary_ko": "독일·프랑스·영국·이탈리아·폴란드가 EU 기관과 함께 우크라이나 관련 대러 협상에서 유럽을 대표한다.",
+      "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-usa-russland-europa-verhandlungen-putin-europaeische-union-li.3571967",
+      "published": "2026-11-14T03:03:09+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "eu-ukraine-negotiation-team",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Journalismus: Das Taylor-Swift-Interview (Bunte’s Version)",
+      "title_ko": "저널리즘: 테일러 스위프트 인터뷰(분테 버전)",
+      "summary_ko": "잡지 '분테'가 테일러 스위프트 '독점 인터뷰'를 실었으나 답변이 공개 대담과 문구가 같았다. 출판사는 사안이 '좀 더 복잡하다'고 밝혔다.",
+      "url": "https://www.sueddeutsche.de/medien/taylor-swift-burda-bunte-interview-li.3579873",
+      "published": "2026-11-14T01:58:01+09:00",
+      "tags": [],
+      "event": "bunte-taylor-swift-interview",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Kfz-Versicherung: Aufschlag für Chinesen",
+      "title_ko": "자동차보험: 중국차엔 할증",
+      "summary_ko": "중국 전기차는 구입 가격은 상대적으로 싸지만 자동차보험료는 크게 더 낸다.",
+      "url": "https://www.sueddeutsche.de/auto/kfz-versicherung-chinesische-e-autos-elektroauto-kfz-versicherung-versicherungspraemien-li.3579922",
+      "published": "2026-11-14T01:43:40+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "chinese-ev-insurance-premium",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Medienrecht: Dürfen die das?",
+      "title_ko": "언론법: 그래도 되나?",
+      "summary_ko": "전 FDP 대표 크리스티안 린드너와 아내, 한 살 딸이 잡지 '티타닉'을 상대로 법적 대응에 나섰다. 소장은 아이가 출생 전부터 피해를 입었다고 주장한다.",
+      "url": "https://www.sueddeutsche.de/medien/christian-lindner-titanic-satire-pressefreiheit-persoenlichkeitsrecht-li.3578704",
+      "published": "2026-11-14T01:25:33+09:00",
+      "tags": [],
+      "event": "lindner-titanic-lawsuit",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Bundeswehr: Bedingt badebereit",
+      "title_ko": "연방군: 조건부 목욕 준비 완료",
+      "summary_ko": "새 연방군 쇼핑몰의 소총 든 고무오리가 24시간 만에 매진됐다. 팬이 많은 것인지 조달 체계가 또 실패한 것인지 묻는다.",
+      "url": "https://www.sueddeutsche.de/kultur/bundeswehr-shop-badeente-ausverkauft-li.3579887",
+      "published": "2026-11-14T01:11:14+09:00",
+      "tags": [],
+      "event": "bundeswehr-rubber-duck",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Klassik: Fortissimo für Freiheit und Gleichheit",
+      "title_ko": "클래식: 자유와 평등을 위한 포르티시모",
+      "summary_ko": "83세 거장 다니엘 바렌보임이 베를린에서 새 '웨스트-이스턴 디반' 축제를 개막했다. 평화운동가로서의 그의 유산도 주제다.",
+      "url": "https://www.sueddeutsche.de/kultur/daniel-barenboim-west-eastern-divan-orchestra-berlin-klassik-nahost-konflikt-li.3577027",
+      "published": "2026-11-14T01:01:46+09:00",
+      "tags": [],
+      "event": "barenboim-festival",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Unfälle: Sieben Menschen bei Auffahrunfall auf B33 verletzt",
+      "title_ko": "사고: B33 도로 추돌사고로 7명 부상",
+      "summary_ko": "B33 도로 추돌사고로 7명 부상 (제목 외 세부 내용 없음).",
+      "url": "https://www.zeit.de/news/2026-11/13/sieben-menschen-bei-auffahrunfall-auf-b33-verletzt",
+      "published": "2026-11-14T06:01:14+09:00",
+      "tags": [],
+      "event": "b33-crash",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Störung bei Microsoft: Microsoft führt Störung auf Netzwerk-Upgrade zurück",
+      "title_ko": "마이크로소프트 장애: 마이크로소프트, 장애 원인은 네트워크 업그레이드",
+      "summary_ko": "마이크로소프트는 내부 문제가 수 시간 동안의 서비스 장애를 일으켰다고 밝혔다. 사이버 공격이나 AI 활동은 원인에서 배제했다.",
+      "url": "https://www.zeit.de/digital/2026-11/microsoft-stoerung-online-dienste-outlook-365-teams",
+      "published": "2026-11-14T06:00:46+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "microsoft-global-outage",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Drei Menschen verletzt: Fettbrand löst Feuer in Dachauer Einkaufszentrum aus",
+      "title_ko": "3명 부상: 다하우 쇼핑센터서 기름 화재",
+      "summary_ko": "다하우 쇼핑센터에서 기름 화재로 불이 나 3명이 다쳤다 (제목 외 세부 내용 없음).",
+      "url": "https://www.zeit.de/news/2026-11/13/fettbrand-loest-feuer-in-dachauer-einkaufszentrum-aus",
+      "published": "2026-11-14T05:45:57+09:00",
+      "tags": [],
+      "event": "dachau-mall-fire",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Schwimmbad-Panne: Zu viel Chlor im Pool - Hotelgäste im Phantasialand verletzt",
+      "title_ko": "수영장 사고: 판타지아랜드 수영장 염소 과다로 호텔 투숙객 부상",
+      "summary_ko": "판타지아랜드 수영장의 염소 과다로 호텔 투숙객이 다쳤다 (제목 외 세부 내용 없음).",
+      "url": "https://www.zeit.de/news/2026-11/13/zu-viel-chlor-im-pool-hotelgaeste-im-phantasialand-verletzt",
+      "published": "2026-11-14T05:42:48+09:00",
+      "tags": [],
+      "event": "phantasialand-chlorine",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Notfälle: Tanker kracht in Passagierschiff nahe Hafen von New Orleans",
+      "title_ko": "비상사태: 뉴올리언스 항 인근서 유조선, 여객선 들이받아",
+      "summary_ko": "뉴올리언스 항 인근에서 유조선이 여객선과 충돌했다 (제목 외 세부 내용 없음).",
+      "url": "https://www.zeit.de/news/2026-11/13/tanker-kracht-in-passagierschiff-nahe-hafen-von-new-orleans",
+      "published": "2026-11-14T05:42:43+09:00",
+      "tags": [],
+      "event": "new-orleans-ship-collision",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Übung: Sandsäcke gestapelt - Sicherung von Hamburgs Deichen geübt",
+      "title_ko": "훈련: 모래주머니 쌓기 - 함부르크 제방 방호 훈련",
+      "summary_ko": "함부르크 제방 방호를 위한 모래주머니 쌓기 훈련이 실시됐다 (제목 외 세부 내용 없음).",
+      "url": "https://www.zeit.de/news/2026-11/13/sandsaecke-gestapelt-sicherung-von-hamburgs-deichen-geuebt",
+      "published": "2026-11-14T05:36:28+09:00",
+      "tags": [],
+      "event": "hamburg-dike-drill",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Kreistags-Entscheidung: Rothaarkamm soll kein Nationalpark werden",
+      "title_ko": "군의회 결정: 로타르캄, 국립공원 지정 안 해",
+      "summary_ko": "군의회 결정으로 로타르캄은 국립공원으로 지정되지 않는다 (제목 외 세부 내용 없음).",
+      "url": "https://www.zeit.de/news/2026-11/13/nationalpark-rothaarkamm-findet-keine-mehrheit-im-kreistag",
+      "published": "2026-11-14T05:29:11+09:00",
+      "tags": [],
+      "event": "rothaarkamm-national-park",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Cloud-Probleme: Langer Ausfall bei Microsoft löst gravierende Störungen aus",
+      "title_ko": "클라우드 문제: 마이크로소프트 장기 장애로 심각한 혼란",
+      "summary_ko": "마이크로소프트의 장기 장애로 심각한 혼란이 발생했다 (제목 외 세부 내용 없음).",
+      "url": "https://www.zeit.de/news/2026-11/12/stoerung-bei-microsofts-cloud-e-mail",
+      "published": "2026-11-14T05:27:22+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "microsoft-global-outage",
+      "state_media": false
+    }
+  ],
+  "events": [
+    {
+      "event": "microsoft-global-outage",
+      "title_ko": "마이크로소프트 세계적 서비스 장애, 원인은 내부 네트워크 업그레이드…사이버 공격 배제",
+      "sources": [
+        "ARD Tagesschau",
+        "ZDF heute",
+        "Deutsche Welle",
+        "WELT",
+        "FAZ",
+        "Die Zeit"
+      ],
+      "count": 8
+    },
+    {
+      "event": "eu-ukraine-negotiation-team",
+      "title_ko": "EU, 대러 우크라이나 협상 대표단(독·프·영·이·폴) 합의",
+      "sources": [
+        "ZDF heute",
+        "Handelsblatt",
+        "Der Spiegel",
+        "FAZ",
+        "Süddeutsche Zeitung"
+      ],
+      "count": 6
+    },
+    {
+      "event": "new-orleans-ship-collision",
+      "title_ko": "뉴올리언스 인근 미시시피강서 유조선-유람선 충돌·전복",
+      "sources": [
+        "n-tv",
+        "WELT",
+        "Der Spiegel",
+        "FAZ",
+        "Die Zeit"
+      ],
+      "count": 5
+    },
+    {
+      "event": "nations-league-serbia-germany",
+      "title_ko": "네이션스리그 세르비아-독일전",
+      "sources": [
+        "ARD Tagesschau",
+        "ZDF heute",
+        "WELT",
+        "Der Spiegel"
+      ],
+      "count": 4
+    },
+    {
+      "event": "david-walliams-investigation",
+      "title_ko": "데이비드 월리엄스 성추행 의혹 수사",
+      "sources": [
+        "ARD Tagesschau",
+        "n-tv"
+      ],
+      "count": 2
+    },
+    {
+      "event": "nmecha-celebration-controversy",
+      "title_ko": "엔메차 세리머니 논란",
+      "sources": [
+        "ZDF heute",
+        "Deutsche Welle"
+      ],
+      "count": 2
+    },
+    {
+      "event": "mv-coalition-agreement",
+      "title_ko": "메클렌부르크포어포메른 좌파당, 적-녹-적 연정 협약 승인",
+      "sources": [
+        "ZDF heute",
+        "WELT"
+      ],
+      "count": 2
+    },
+    {
+      "event": "aachen-shooting",
+      "title_ko": "아헨 도심 총격 살인",
+      "sources": [
+        "n-tv",
+        "Der Spiegel"
+      ],
+      "count": 2
+    },
+    {
+      "event": "russia-sports-return-debate",
+      "title_ko": "러시아 선수 국제대회 복귀 논란",
+      "sources": [
+        "n-tv",
+        "Der Spiegel"
+      ],
+      "count": 2
+    },
+    {
+      "event": "eu-ai-investment-500bn",
+      "title_ko": "EU 집행위, AI 투자 5천억 유로 필요",
+      "sources": [
+        "WELT",
+        "FAZ"
+      ],
+      "count": 2
+    },
+    {
+      "event": "anthropic-ipo",
+      "title_ko": "앤트로픽 대형 상장, 6배 초과 청약",
+      "sources": [
+        "Handelsblatt"
+      ],
+      "count": 2
+    }
+  ],
+  "unavailable_sources": []
+}
