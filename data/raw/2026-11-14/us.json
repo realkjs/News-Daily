@@ -1,0 +1,801 @@
+{
+  "team": "us",
+  "team_name_ko": "미국팀",
+  "collected_at": "2026-11-14T06:13:21.099206+09:00",
+  "headlines": [
+    {
+      "source": "CNN",
+      "title_original": "Residents of collapsed building mourn what they lost",
+      "summary_original": "Residents of collapsed building mourn what they lost CNN",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON2Z0OFF6X0UwOHhsaGRqazhmdUo5enV5SHh0SUl1MHRuVVVXV2RacVlCUVUyc0RmZklCdnJBSmRoVGVTMXZHYkJJTzVtOXZUX1ZBVUtNRnF0eFBLdjZDZWViVHd5VmdLRF9VZVdCdUJoMkZlTFBZeU1wTlRqTG5vUmp6WGZfWGNDN1ZoZ2hZQU91eXlmd0RR?oc=5",
+      "published": "2026-11-14T05:12:31+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "CNN",
+      "title_original": "Tanker collides with river cruiser near Port of New Orleans",
+      "summary_original": "Tanker collides with river cruiser near Port of New Orleans CNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iVUJYMXRDYlo3dkFBMjhGVmU0c3ZucTd2UFE5UDBHQThPdklIbkpidFVpNURGbVU3LTVEekVFRThMQTE3aHdLZnVZS3JtSXVTemtRLXFVTEE2SHJfbk5zeDRVM2xSd2N5ZzlsbWRqUlRwdENVd29MYzE2S1A?oc=5",
+      "published": "2026-11-14T05:09:41+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "CNN",
+      "title_original": "Jeffries interrupted by hecklers at conference for Democrats",
+      "summary_original": "Jeffries interrupted by hecklers at conference for Democrats CNN",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd1hlZTdPZmt5LVNaUDgtLVV1cjFrc1RkNFFoeDY2UDV4VTVyV2hPSVpVZEpXOGFZX3NPb0RubG1vT0J0WGtrNk10WXlCSENYc0pnenp1WmQ0M0FaNzRYNzFLbWJWVFU3RXBRREdPVnFoOXpGZ2dwQkZpRklMaG4wQlBqeGIyb3hSaW5nQ19NMlZlTFFQODRocV9nN1UtcHpsSUlqUGRldw?oc=5",
+      "published": "2026-11-14T02:38:38+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "CNN",
+      "title_original": "James cautions scammers and promises investigation after Brooklyn building collapse",
+      "summary_original": "James cautions scammers and promises investigation after Brooklyn building collapse CNN",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa1NJMlNRVFBnd1FQdTRMdms1ZnRaRWhsd2xYQ3RVOUo2THRZVWs1YzMzWEFKMjVWZVJXS3gzdVBOUXkzd0QzQ2djcE9xYjgxb0VHUHlDQ1lUR2Y5TXhDZnJFOVhMdzZ5dWV6MmNycG9jVlZwUVhHNW01WV9qSmNOVG1kbWRVbDNiS0xhTHRvcXpSQk9kVDYyV0x6Rmp2QUZTV0NoZg?oc=5",
+      "published": "2026-11-14T02:23:25+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "CNN",
+      "title_original": "Travis Scott to play ‘Grand Theft Auto VI Festival’",
+      "summary_original": "Travis Scott to play ‘Grand Theft Auto VI Festival’ CNN",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOdDMxVEJZaVpyMmc4TDhXZmNFemd2VTZtQmZFUFZzZm5EZ21BQWdpMV9RX080ckNyTXlEbkJKWXZkOHB4Y0hiTmdacHNmbTBRdVBTcGtCUkwwN3FBYXktLWplb19NZTV6bmE5R2lUSFVYeDB2UDBxcDFPNW90ZXhyeFVlRVB5b0w4bkRWYnhub2hwSllfekNGZjh3MHRrNFRrZnZncTkwVFpQZDI3Qm1NS0lWclA2SllFLThkRWlZUGtUTnVCZWlIdXpiSVF0bGdFTmdvNDE2ZXNxUmpSb0dPTmpXSG8wMWVPM09BREs2YXFoaFFkNlVwRFZRSzJuMlU3ejdv?oc=5",
+      "published": "2026-11-14T00:32:46+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "CNN",
+      "title_original": "A former fireworks factory and a onetime cow shed are among this city’s coolest places to hang out",
+      "summary_original": "A former fireworks factory and a onetime cow shed are among this city’s coolest places to hang out CNN",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOXzl4NGNfb0NqbXFsOThneHE4MTRONEREdklIaksxTnQxUUI1Qk44RzhSZ0F3THgxZ255ZmVNc05XVnJXdlVid05WTzdUTGJ5VTNXMXdDYlhIQllMVWdMREhLbFpHMGJidWhrN19OUkJRaHZJejFvWWp6UDkxckQ4cGhid0VoUQ?oc=5",
+      "published": "2026-11-14T00:11:07+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "CNN",
+      "title_original": "‘Standing up here alone feels wrong’: Steven Spielberg honored at Museum of Modern Art Film Benefit",
+      "summary_original": "‘Standing up here alone feels wrong’: Steven Spielberg honored at Museum of Modern Art Film Benefit CNN",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObmd6ZHRLT2lZTUdjZGRuMm1Ra0s1NEkweTZkeGZjTndrMmd5UXc5Q2NJZ3BNbTJLTHpTck82dnZUQkZZTzVaWWJBSFhmSmdtaV9idGs0OHV6MDJ4STRhNzVaRS1BaFdDcG85Mjl5aDFwaWVKTFR6b0w5T25MUDFUNQ?oc=5",
+      "published": "2026-11-14T00:05:31+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "CNN",
+      "title_original": "Fallout from Nvidia scandal continues as Treasury Secretary weighs in",
+      "summary_original": "Fallout from Nvidia scandal continues as Treasury Secretary weighs in CNN",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa0FoUnBEUDlHVWh0b1FEb0RZbE5ic2JZeU1EN09uVEU5bXJrVjNhLU1DTWoyVDFHckw1RjJQRFdUbWpzbFBvTHRFb2JJMDhValBkUnV1bGNHVFNpVU9iSGdfNnNSUi1kc1d3OVQ5LU5xdFluQzVYTEhRSklvN0JrMFlZQVQ3UXlqdEJVdGNWZw?oc=5",
+      "published": "2026-11-13T23:30:11+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Fox News",
+      "title_original": "How to get the Samsung Galaxy S26+ or S26 for $0 upfront through T-Mobile's latest deal",
+      "summary_original": "T-Mobile's T-Mix plans let new and existing customers get the Samsung Galaxy S26+ or Samsung Galaxy S26 for $0 upfront with no trade-in required.",
+      "url": "https://www.foxnews.com/deals/t-mobile-samsung-galaxy-s26-deals",
+      "published": "2026-11-14T06:02:21+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Fox News",
+      "title_original": "Tanker slams into docked New Orleans river cruiser carrying 129 passengers, sparking rescue",
+      "summary_original": "The Atlantic Asphalt tanker slammed into the docked American Heritage cruise ship on the Mississippi River in New Orleans on Friday afternoon.",
+      "url": "https://www.foxnews.com/us/tanker-slams-docked-new-orleans-river-cruiser-carrying-129-passengers-sparking-rescue",
+      "published": "2026-11-14T05:42:30+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Fox News",
+      "title_original": "Rep Lauren Boebert projected to lose House seat in another Democratic flip",
+      "summary_original": "Rep. Lauren Boebert, R-Colo., has lost her congressional seat to Democratic challenger Eileen Laubacher.",
+      "url": "https://www.foxnews.com/politics/rep-lauren-boebert-projected-lose-house-seat-another-democratic-flip",
+      "published": "2026-11-14T05:37:39+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Fox News",
+      "title_original": "Former CIA director John Brennan's son arrested after FBI uncovers dozens of alleged child porn images",
+      "summary_original": "Kyle Brennan, 40, son of former CIA Director John Brennan, was arrested on a federal child pornography charge after an FBI investigation, prosecutors say.",
+      "url": "https://www.foxnews.com/politics/former-cia-director-john-brennans-son-arrested-after-fbi-uncovers-dozens-alleged-child-porn-images",
+      "published": "2026-11-14T05:36:32+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Fox News",
+      "title_original": "Curt Cignetti taunts the CFP committee and then gets obliterated, Cam Skattebo freezes & Gracie Hunt checks in",
+      "summary_original": "Curt Cignetti fires back at the CFP committee over Indiana's five-spot drop, but fans were quick to point out the Hoosiers' zero ranked wins.",
+      "url": "https://www.foxnews.com/outkick-sports/curt-cignetti-taunts-cfp-committee-obliterated-cam-skattebo-freezes-gracie-hunt-checks",
+      "published": "2026-11-14T05:35:49+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Fox News",
+      "title_original": "Schumer's leadership rival reveals major Senate rule change he'd pursue if elected",
+      "summary_original": "Chuck Schumer faces a rare contested Senate leadership race as Chris Van Hollen pushes to abolish the filibuster and shake up Democratic strategy.",
+      "url": "https://www.foxnews.com/politics/schumers-leadership-rival-reveals-major-senate-rule-change-hed-pursue-if-elected",
+      "published": "2026-11-14T05:15:55+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Fox News",
+      "title_original": "Pete Hegseth impeachment effort dies in the House as absent Democrats couldn't beat the traffic",
+      "summary_original": "Pete Hegseth narrowly avoided becoming only the third cabinet secretary ever impeached after 11 absent Democrats failed to reach the House floor.",
+      "url": "https://www.foxnews.com/politics/pete-hegseth-impeachment-effort-dies-house-absent-democrats-couldnt-beat-traffic",
+      "published": "2026-11-14T05:13:17+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Fox News",
+      "title_original": "'Hunting Wives’ star Malin Akerman ditches LA lifestyle for ‘dream’ of raising son like it’s the 1950s",
+      "summary_original": "Malin Akerman told the \"Call Her Daddy\" podcast how moving to Connecticut gave her 13-year-old son a 1950s-style childhood she calls a dream.",
+      "url": "https://www.foxnews.com/entertainment/hunting-wives-star-malin-akerman-ditches-la-lifestyle-dream-raising-son-1950s",
+      "published": "2026-11-14T05:06:34+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "NBC News",
+      "title_original": "Ground stop ordered for all airports nationwide for ‘reasons of safety’",
+      "summary_original": "The Federal Aviation Administration on Friday ordered a nationwide ground stop on all departing flights “due to extraordinary circumstances and for reasons of safety.”",
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "published": "2026-11-14T06:09:53+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "NBC News",
+      "title_original": "Rescue underway after a tanker collides with a New Orleans river boat",
+      "summary_original": "A New Orleans river boat with over 100 passengers was struck on Friday by a much larger tanker ship, capsizing the cruise vessel and prompting a major rescue effort in the Mississippi River near the French Quarter.",
+      "url": "https://www.nbcnews.com/news/us-news/rescue-underway-oil-tanker-collides-new-orleans-river-boat-rcna609235",
+      "published": "2026-11-14T05:21:14+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "NBC News",
+      "title_original": "Rescue underway after a tanker collides with a New Orleans river boat",
+      "summary_original": "A New Orleans river boat with over 100 passengers was struck on Friday by a much larger tanker ship, capsizing the cruise vessel and prompting a major rescue effort in the Mississippi River near the French Quarter.",
+      "url": "https://www.nbcnews.com/news/us-news/rescue-underway-oil-tanker-collides-new-orleans-river-boat-rcna609235",
+      "published": "2026-11-14T05:21:14+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "NBC News",
+      "title_original": "As AI looms over Hollywood, Oscar hopefuls make the case for human craft",
+      "summary_original": "In this week’s ON THE LOT, we’re looking at Universal’s “Odyssey” Oscar push, Skydance’s next chapter and Sofia Franklyn’s “Daddy Issues.”",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/hollywood-oscar-campaigns-the-odyssey-lean-into-human-craftsmanship-rcna608419",
+      "published": "2026-11-14T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "NBC News",
+      "title_original": "As AI looms over Hollywood, Oscar hopefuls make the case for human craft",
+      "summary_original": "In this week’s ON THE LOT, we’re looking at Universal’s “Odyssey” Oscar push, Skydance’s next chapter and Sofia Franklyn’s “Daddy Issues.”",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/hollywood-oscar-campaigns-the-odyssey-lean-into-human-craftsmanship-rcna608419",
+      "published": "2026-11-14T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "NBC News",
+      "title_original": "Rep. Lauren Boebert, conservative firebrand from Colorado, loses her race for re-election",
+      "summary_original": "The Colorado Republican changed to a more conservative district after a close re-election call in 2022. But this year’s blue tsunami has swept her out of office, NBC News projects.",
+      "url": "https://www.nbcnews.com/politics/2026-election/rep-lauren-boebert-conservative-firebrand-colorado-loses-race-re-elect-rcna607652",
+      "published": "2026-11-14T04:58:19+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "NBC News",
+      "title_original": "Rep. Lauren Boebert, conservative firebrand from Colorado, loses her race for re-election",
+      "summary_original": "The Colorado Republican changed to a more conservative district after a close re-election call in 2022. But this year’s blue tsunami has swept her out of office, NBC News projects.",
+      "url": "https://www.nbcnews.com/politics/2026-election/rep-lauren-boebert-conservative-firebrand-colorado-loses-race-re-elect-rcna607652",
+      "published": "2026-11-14T04:58:19+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "NBC News",
+      "title_original": "Microsoft says major outage was due to 'a network capacity upgrade'",
+      "summary_original": "Microsoft says a widespread outage they are still working on resolving was not caused by a cyberattack but by \"a network capacity upgrade.\" NBC News' Christine Romans and TechRadar's Lance Ulanoff discuss how the outage is affecting businesses across the world.",
+      "url": "https://www.nbcnews.com/now/video/microsoft-says-major-outage-was-due-to-a-network-capacity-upgrade-273461829847",
+      "published": "2026-11-14T04:01:03+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CBS News",
+      "title_original": "Tanker hits river cruise boat in New Orleans, rescues underway",
+      "summary_original": "A tanker struck a river cruise on the Mississippi River near the Port of New Orleans Friday, partially submerging the passenger boat.",
+      "url": "https://www.cbsnews.com/news/tanker-cruise-collision-mississippi-river-new-orleans/",
+      "published": "2026-11-14T06:08:40+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CBS News",
+      "title_original": "This week on \"Sunday Morning\" (Nov. 15)",
+      "summary_original": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
+      "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-15-2026/",
+      "published": "2026-11-14T06:07:48+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CBS News",
+      "title_original": "Microsoft seeing \"continued recovery\" amid major worldwide outage",
+      "summary_original": "A Microsoft outage involving services like Outlook and Teams has dragged on for hours and impacted many users, companies and government services",
+      "url": "https://www.cbsnews.com/news/microsoft-battling-major-outage/",
+      "published": "2026-11-14T05:59:11+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CBS News",
+      "title_original": "Family Dollar to pay $63M after FTC says it overcharged customers",
+      "summary_original": "The discount retailer failed to honor prices displayed on store shelves, on price tags and in ads, the FTC and multiple states alleged.",
+      "url": "https://www.cbsnews.com/news/family-dollar-stores-price-transparency-settlement/",
+      "published": "2026-11-14T05:57:42+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CBS News",
+      "title_original": "Tanker hits river cruise ship in New Orleans | Special Report",
+      "summary_original": "Rescues are underway after a tanker collided with a river cruise with over 100 people on board in New Orleans. Tony Dokoupil anchors a CBS News special report.",
+      "url": "https://www.cbsnews.com/video/tanker-hits-river-cruise-boat-in-new-orleans/",
+      "published": "2026-11-14T05:46:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CBS News",
+      "title_original": "Democrat Eileen Laubacher defeats Lauren Boebert in House race",
+      "summary_original": "Colorado Democrat Eileen Laubacher has defeated incumbent Republican Congresswoman Lauren Boebert to represent the 4th Congressional District, CBS News projects.",
+      "url": "https://www.cbsnews.com/colorado/news/election-lauren-boebert-eileen-laubacher-colorado-congressional-district-4/",
+      "published": "2026-11-14T05:39:32+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CBS News",
+      "title_original": "Democrats have flipped over 40 House seats. Here's the breakdown.",
+      "summary_original": "Democrats won control of the House by flipping more than 40 Republican-held seats, picking up perennial swing districts and seats that were once considered deep red.",
+      "url": "https://www.cbsnews.com/news/house-districts-flipped-2026-midterm-elections/",
+      "published": "2026-11-14T05:37:10+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CBS News",
+      "title_original": "Inflation isn't going away. Here's what that means for interest rates.",
+      "summary_original": "As inflation seeps deeper into the U.S. economy, the Federal Reserve may have to step up the pace of rate hikes, according to Wall Street analysts.",
+      "url": "https://www.cbsnews.com/news/interest-rates-federal-reserve-inflation/",
+      "published": "2026-11-14T05:19:31+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ABC News",
+      "title_original": "LIVE: FAA issues nationwide ground stop: ABC News Live",
+      "summary_original": "24/7 coverage of breaking news and live events",
+      "url": "https://abcnews.com/video/41463246/",
+      "published": "2026-11-14T06:11:16+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ABC News",
+      "title_original": "Nationwide ground stop ordered at airports: FAA",
+      "summary_original": "The Federal Aviation Administration ordered a nationwide ground stop Friday for all airlines \"due to extraordinary circumstances and for reasons of safety.\"",
+      "url": "https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848",
+      "published": "2026-11-14T06:07:33+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ABC News",
+      "title_original": "Tanker collides with riverboat with 129 passengers on board in New Orleans: Officials",
+      "summary_original": "The incident occurred Friday on the Mississippi River.",
+      "url": "https://abcnews.com/US/vessel-collision-port-new-orleans-emergency-crews-responding/story?id=138119847",
+      "published": "2026-11-14T05:49:18+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ABC News",
+      "title_original": "Man accused in White House Correspondents' dinner shooting charged with terrorism",
+      "summary_original": "Cole Tomas Allen is facing a new charge of terrorism.",
+      "url": "https://abcnews.com/Politics/man-accused-white-house-correspondents-association-dinner-shooting/story?id=138118021",
+      "published": "2026-11-14T04:15:05+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ABC News",
+      "title_original": "Schumer and Van Hollen face off for Senate majority leader. What do Democrats think?",
+      "summary_original": "Within moments of Chris Van Hollen announcing his intent to challenge Chuck Schumer in a race to lead next year’s Senate Democratic majority, endorsements began flying.",
+      "url": "https://abcnews.com/Politics/schumer-van-hollen-facing-off-senate-majority-leader/story?id=138111386",
+      "published": "2026-11-14T04:02:06+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ABC News",
+      "title_original": "Iran live updates: Bessent blasts Iranian threats",
+      "summary_original": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28.",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-americans-tired-forever-wars-araghchi/?id=137967256",
+      "published": "2026-11-14T03:04:55+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ABC News",
+      "title_original": "WATCH: 41-year-old firefighter’s life saved by heart transplant",
+      "summary_original": "Nico Ratto, a dad of two from New Jersey, spent 45 days hospitalized before receiving a lifesaving heart transplant.",
+      "url": "https://abcnews.com/video/138107216/",
+      "published": "2026-11-14T01:45:21+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ABC News",
+      "title_original": "WATCH: Heartwarming update on Punch the Monkey",
+      "summary_original": "The baby macaque at Japan’s Ichikawa City Zoo became a viral sensation after turning to an IKEA toy for comfort. Nine months later, Punch has joined the troop and taken an interest in a baby macaque.",
+      "url": "https://abcnews.com/video/138104775/",
+      "published": "2026-11-14T00:56:39+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CNBC",
+      "title_original": "Nasdaq falls on Friday as Nvidia sells off, but index notches best week since August: Live updates",
+      "summary_original": "Nvidia shares rebounded from its recent pressure and the latest inflation data came in slightly lighter than expected.",
+      "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
+      "published": "2026-11-14T06:11:11+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CNBC",
+      "title_original": "FAA issues nationwide ground stop",
+      "summary_original": "",
+      "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+      "published": "2026-11-14T06:09:09+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CNBC",
+      "title_original": "10-year Treasury yield moves to 5.17% as traders weigh producer price report",
+      "summary_original": "Treasury yields moved higher as investor expectations for a December rate hike by the Federal Reserve gain strength.",
+      "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
+      "published": "2026-11-14T06:08:20+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CNBC",
+      "title_original": "Rescues underway in New Orleans after a tanker hits a river cruise boat on the Mississippi River",
+      "summary_original": "A tanker struck a New Orleans river cruise with 129 passengers on board on Friday, partially submerging the boat.",
+      "url": "https://www.cnbc.com/2026/11/13/tanker-hits-cruise-boat-in-new-orleans-rescues-underway.html",
+      "published": "2026-11-14T06:06:45+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CNBC",
+      "title_original": "Supreme Court agrees to hear Robinhood challenge to IPO information omission lawsuit",
+      "summary_original": "The Trump administration had urged the Supreme Court to hear an appeal by Robinhood of a lower-court's decision to revive an investors' lawsuit over the IPO.",
+      "url": "https://www.cnbc.com/2026/11/13/robinhood-supreme-court-ipo-lawsuit.html",
+      "published": "2026-11-14T05:48:13+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CNBC",
+      "title_original": "Hassett denies report he's leaving White House: 'Not true'",
+      "summary_original": "National Economic Council Director Kevin Hassett poured cold water on a report that he's expected to leave the White House in the coming weeks.",
+      "url": "https://www.cnbc.com/2026/11/13/kevin-hassett-white-house-nec.html",
+      "published": "2026-11-14T05:27:47+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CNBC",
+      "title_original": "Nvidia hasn’t selected search firm for permanent Huang replacement, board tells CNBC",
+      "summary_original": "Speculation has swirled around who Nvidia's board will select to permanently succeed CEO Jensen Huang.",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
+      "published": "2026-11-14T05:21:46+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CNBC",
+      "title_original": "After Jensen Huang’s exit, what top financial advisors are doing with Nvidia: Exclusive CNBC poll",
+      "summary_original": "Advisors say investors should weigh their Nvidia exposure, time horizon and risk tolerance before reacting to the leadership change.",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-advisors-jensen-huang-exit-exclusive-poll.html",
+      "published": "2026-11-14T04:53:38+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Retail Investors Get Ready For Anthropic IPO",
+      "summary_original": "Bloomberg’s Zijia Song and Max Chafkin join Tom Keene on “Bloomberg Money.” Anthropic’s IPO could raise up to $90.4 billion for the company and its co-founders when it prices on Nov. 18. It is expected to start trading on the Nasdaq around midday on Nov. 19, with investors who received allocations hoping for a pop in the stock price. (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-13/retail-investors-get-ready-for-anthropic-ipo-video",
+      "published": "2026-11-14T05:40:20+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Social Security Will Be There, But Different: Mahoney",
+      "summary_original": "Christine Mahoney, global defined benefit & defined contribution leader at Marsh, joins Tom Keene on “Bloomberg Money.” They discuss the future of Social Security and her belief it will still exist but look different than it does today. (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-13/social-security-will-be-there-but-different-mahoney-video",
+      "published": "2026-11-14T05:23:12+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "JPMorgan Sees AI Spree Driving Record 2027 US High-Grade Supply",
+      "summary_original": "Spending by big tech companies on the artificial intelligence buildout, along with elevated refinancing needs, will help drive another record year of US investment-grade bond issuance, according to JPMorgan Chase & Co.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/jpmorgan-sees-ai-spree-driving-record-2027-us-high-grade-supply",
+      "published": "2026-11-14T04:58:07+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Grading Global Retirement Plans, US Receives C+",
+      "summary_original": "Christine Mahoney, global defined benefit & defined contribution leader at Marsh, joins Tome Keene on “Bloomberg Money.” They discuss the 2026 Marsh CFA Institute Global Pension Index, which gives grades for the best and worst retirement plans around the world. (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-13/grading-global-retirement-plans-us-receives-c-video",
+      "published": "2026-11-14T04:54:56+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Brookfield Consortium Progresses to Next Round of Uniper Sale",
+      "summary_original": "A consortium of Brookfield Asset Management Ltd. and Canada Pension Plan Investment Board are among companies advancing to the second round of the sale process for Germany’s Uniper SE, according to people familiar with the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/brookfield-consortium-progresses-to-next-round-of-uniper-sale",
+      "published": "2026-11-14T04:53:07+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Hard To Get A Retirement System ‘Right’: Ed Morse",
+      "summary_original": "Ed Morse, senior advisor and commodities strategist at Hartree Partners, joins Tome Keene on “Bloomberg Money.” They discuss the challenges of fixing retirement. (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-13/hard-to-get-a-retirement-system-right-ed-morse-video",
+      "published": "2026-11-14T04:43:38+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "We’re Living In An Inflationary Environment: Morse",
+      "summary_original": "Ed Morse, senior advisor and commodities strategist at Hartree Partners, joins Tome Keene on “Bloomberg Money.” They discuss the current state of the oil market, his career, and China. (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-13/we-re-living-in-an-inflationary-environment-morse-video",
+      "published": "2026-11-14T04:41:06+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Barclays Trading Desk Turns Bullish for First Time Since March",
+      "summary_original": "Barclays Plc.’s trading desk has turned tactically bullish on US equities for the first time since mid-March, signaling that a sharp pullback in investor positioning and easing volatility pressures have created an attractive opportunity for a tactical market rebound.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/barclays-trading-desk-turns-bullish-for-first-time-since-march",
+      "published": "2026-11-14T04:36:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "AP",
+      "title_original": "2026 U.S. Senate Election Results",
+      "summary_original": "2026 U.S. Senate Election Results AP News",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
+      "published": "2026-11-14T06:10:44+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "AP",
+      "title_original": "Tanker strikes river cruise boat in New Orleans, partially submerging it as rescues unfold",
+      "summary_original": "Tanker strikes river cruise boat in New Orleans, partially submerging it as rescues unfold AP News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNlM1d3RDejItNTdSdk9KWU9PaWZPanZTQmNHd3JRY1BPTGJOYWRkaWYweVVqSzUyVkFadl84SmdVT3pyVVk2RzJYZmxMZFBPazVhQ2RKbklvSnlKZHQtWnZuM0xROU1fSDlSZVAtdzg2Y1BKS3VBWlAwMGllM3pLUFkyT1lwcWgxa3YtS0hCYW5NNGFtcGNlT3AtS2YwZnJZbWowSWlXSUhCM0dJSkE?oc=5",
+      "published": "2026-11-14T05:22:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "AP",
+      "title_original": "Microsoft outage shows the risks of relying on a single technology provider for essential services",
+      "summary_original": "Microsoft outage shows the risks of relying on a single technology provider for essential services AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYWY5MnRXdTRCaHJZT3BKRWs4TzQxdUR3NEZzQ3ZsTmxCLW9wcFJJMzFaLS1pVGhtb3BabWdhN3pvQUhPU0FNbDJMV2I0a3BWaGtuQWpxVVNxRTZIUGhNS3c5RG5oVHNGaGg3XzJDdkE1V0RBWFJKVzMzTFVnN3otc0xZNWhCWWducmlfS2dXZ3lGcUtWcFJQWkxnejVqWjFxTlZKbENDamJfUQ?oc=5",
+      "published": "2026-11-14T05:18:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "AP",
+      "title_original": "Supreme Court will consider Trump’s executive order suspending asylum access at the southern border",
+      "summary_original": "Supreme Court will consider Trump’s executive order suspending asylum access at the southern border AP News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdExwdTBia3RDdGYzWFRuYUkxaERSQkpTVmY0Ymp5S05jR0ZLSC10ekFMcjQ0Rkg5NFVmOFR3MENlTm04ajFoemlGclMtX09RZVBtd3VTUVpXd0hiNFlVLVZBME9wUU1UdDFWYzVXQl8yTno3Z1M3WlZnTjZnaTJKQlVCS3g0WmZaUVJ2UnVlaw?oc=5",
+      "published": "2026-11-14T05:15:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "AP",
+      "title_original": "Napping driver whose truck accelerated on Kansas soccer field, killing 2, won’t be charged",
+      "summary_original": "Napping driver whose truck accelerated on Kansas soccer field, killing 2, won’t be charged AP News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQlQtWjRnamVicU10dVMxUjlsLU9LU3J5dWdDdXdRZFlVWDdTRzBmMk5adldOZk1tMXoxa3VOOEE4anp0ZkR5cnJOd3Bsd052aWVUU1BNM3QwT0xYSUVyR1dHdmZCYmtFTGZ1YVFCTzlzVU9WMHpEWXI5ZDczeHBxQUZqU3VpWDRTQ3VRTWFSdEJPNnBm?oc=5",
+      "published": "2026-11-14T04:53:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "AP",
+      "title_original": "Federal appeals court sides with New York state over truck driver’s licenses for immigrants",
+      "summary_original": "Federal appeals court sides with New York state over truck driver’s licenses for immigrants AP News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZUZ0Z2FBQXd1dE1DYzFpN1Z6U2ZfRENHZmQyVk4zR0FqNldXSlh3SDZBbGRSODgxZEExOHJnOVNTaHZ6UlhnS090Qld0OW00bmE2aGR2bjd2aXVfdVJpakswV00zalVGQXJ0ZWs2VEQxTUhVVElIQUhnTnhVd3IxZnVDTjkxWTUxRVlvbjRFdnM4djNJR1FyUlhsRFdnNnNXWWxHUGoxVXY5c0dTRkVMeEdB?oc=5",
+      "published": "2026-11-14T04:35:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "AP",
+      "title_original": "Associated Press News: Breaking News | Latest News Today",
+      "summary_original": "Associated Press News: Breaking News | Latest News Today AP News",
+      "url": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+      "published": "2026-11-14T04:30:37+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "AP",
+      "title_original": "US military downs 2 Iranian attack drones as Iran claims a strike on a US radar in Bahrain",
+      "summary_original": "US military downs 2 Iranian attack drones as Iran claims a strike on a US radar in Bahrain AP News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXJTcEdfVGdOV1VrbGpYTy1hMlkybS1IbjZGS0piS01yNWY5RnVsMi16ZHBMTFVIajNzcFoydFZXWmhEQXJuVXBHNFBic2JSRlJLZ05TNGlmclRmMlppOExmc2ttem1zVnhQV0ppcnVaUkd2Q29fVVNXUzJpUFEwUE1WSHVkc0tZQXpmaHBSZ0YxVWpoOGNkMmZnbw?oc=5",
+      "published": "2026-11-14T04:30:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "New York Times",
+      "title_original": "Cargo Ship Crashes Into Docked Riverboat in New Orleans",
+      "summary_original": "Search and rescue operations were continuing after the riverboat, which was docked and had 129 people aboard, was struck by a cargo ship on Friday afternoon, the authorities said.",
+      "url": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
+      "published": "2026-11-14T05:41:41+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "New York Times",
+      "title_original": "Hakeem Jeffries Pushes to Lock Down House Speakership, With No Challenger Emerging",
+      "summary_original": "Facing resistance from the left but no challenger, the Democratic leader is sewing up support from key coalitions as his allies say he deserves a unanimous vote.",
+      "url": "https://www.nytimes.com/2026/11/13/us/politics/jeffries-house-speaker-democrats.html",
+      "published": "2026-11-14T05:22:38+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "New York Times",
+      "title_original": "Lauren Boebert Loses Re-election Bid in Colorado House Race to Eileen Laubacher",
+      "summary_original": "Ms. Boebert’s loss to Eileen Laubacher in a conservative House district represents a significant victory for Democrats.",
+      "url": "https://www.nytimes.com/2026/11/09/us/lauren-boebert-colorado-house-election.html",
+      "published": "2026-11-14T05:21:44+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "New York Times",
+      "title_original": "Inquiry Into Brooklyn Building Collapse Expands as Families Demand Answers",
+      "summary_original": "The Department of Buildings has also hired an engineering firm to provide an independent report on what caused the three-story building to collapse, killing eight people.",
+      "url": "https://www.nytimes.com/2026/11/13/nyregion/brooklyn-building-collapse-inquiry-families.html",
+      "published": "2026-11-14T05:15:38+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "New York Times",
+      "title_original": "Why Jensen Huang Was Essential to Nvidia’s Rise",
+      "summary_original": "Jensen Huang was the driving force at Nvidia, with 60 direct reports and no clear succession plan. Tripp Mickle, one of our technology reporters, examines Mr. Huang’s central role in the company and the artificial intelligence industry.",
+      "url": "https://www.nytimes.com/video/business/100000011275611/why-jensen-huang-was-essential-to-nvidias-rise.html",
+      "published": "2026-11-14T05:14:05+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "New York Times",
+      "title_original": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal",
+      "summary_original": "The hard-line position of Russian officials in closed-door negotiations about ending the war thrusts European security into the heart of the talks.",
+      "url": "https://www.nytimes.com/2026/11/13/us/politics/russia-demand-nato-ukraine.html",
+      "published": "2026-11-14T05:05:56+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "New York Times",
+      "title_original": "Wall Street Loses a Powerful Dealmaker After Nvidia’s CEO Is Ousted",
+      "summary_original": "The ousted Nvidia chief executive was the consummate dealmaker leading the trillion-dollar A.I. build out.",
+      "url": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
+      "published": "2026-11-14T04:52:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "New York Times",
+      "title_original": "Sister June Carpenter, the Oldest Shaker, Has Died",
+      "summary_original": "Now there are only two practicing members of the last active Shaker community in the United States. Sister June was 88.",
+      "url": "https://www.nytimes.com/2026/11/13/us/june-carpenter-dead.html",
+      "published": "2026-11-14T04:27:04+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_original": "Print Edition | Wall Street Journal",
+      "summary_original": "Print Edition | Wall Street Journal WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlczBDMGJlM1JqcS1jdTlkT2JNTWVZQmcwR2dwRFRSaXVYNGs5SkNWT3Q3a1VQb2otdGhKWmpUTm9ERV9ZdE5nQndCY2k2bUtBc1hucER6M1JiZE1WT0paM0l3?oc=5",
+      "published": "2026-11-14T06:10:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_original": "Cold Plunges, Fitness Pop-Ups: The Students Pushing Clean Living on Campus",
+      "summary_original": "Cold Plunges, Fitness Pop-Ups: The Students Pushing Clean Living on Campus WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaDZJSXZNTmFnckVNZG9XMTJ1R0VUSU4tazNfc0hkazRVcktvTDNEWXFTX1B2OVRkZWlsZTc0LTROUUFuSzA4NjM5Z2JaMXU4WWxGbmRmR1RFUHB5dG5ickdCTldqek0wU05yYjB5SVVQMF9HLUk5MWpCb2dKdW05blZIajVsVEo1Rnc?oc=5",
+      "published": "2026-11-14T06:01:38+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_original": "Kevin Warsh’s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating",
+      "summary_original": "Kevin Warsh’s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating WSJ",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWWREYWtpWllac2NUdW9FOW1tdXZrTS1FclFzZnA4TEhkOEFJQ0liTEZZdElXbU5BUHMtTnNVME1zYUVpWHY5VXZmM0Z4YWRMY0U4YzVFdldTOEhEQUpSSnluaXNNM2VVVlQ0YnNXR0hUNHRhM1gwSWhtZXl3QlB2QXR5aUVXajZBTTlRdDhB?oc=5",
+      "published": "2026-11-14T06:01:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_original": "Bosses Have a New Plan to Boost Morale at the Office: Desk Plants",
+      "summary_original": "Bosses Have a New Plan to Boost Morale at the Office: Desk Plants WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ082VUxuREZqOXhIOGtjSWxxWXhjWG5EMHN4YTA4ZzZIeUw4dFdYQTktdDBlcjlQemNxd212eEFudUdLWl9GQlk4eG5ZRmpvZ1RrOWZKVDFWdnlBLWJzamtPU0V4d0RqeVZpaDgzZ01iZWR1S1c5TThTU0VGSDBLdnZDLUEzYlBUbllr?oc=5",
+      "published": "2026-11-14T06:00:56+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_original": "Rolls-Royce Sets Out $2 Billion Buyback After Demand Boosts Orders",
+      "summary_original": "Rolls-Royce Sets Out $2 Billion Buyback After Demand Boosts Orders WSJ",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbE1FbVQ2SjBGUmRmdnlzQ1ptMy1FVjZ4ZjcyRjBvcGxxeXRORzV5S1R3Y0FWTEZsZ3UtMEdVYmNJdkh6UWxjUEFUclVLR0NiQTA2XzZ2aEVkZ1FlbnJuUUNDZk4wWVoxU0NZbXFrVmpZTjVmVXJUdFY5RkZ4RmphX00xWE90bFVpNUN0TGcxZUtNVjB2a3NiVlpBN3VYY1hpYVp3NWhxajdyZ21XVmxOc2N3?oc=5",
+      "published": "2026-11-14T05:59:55+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_original": "Strategy, the World’s Biggest Corporate Bitcoin Holder, to Be Dropped From MSCI Indexes",
+      "summary_original": "Strategy, the World’s Biggest Corporate Bitcoin Holder, to Be Dropped From MSCI Indexes WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZHV1TFRnVmtTRlJ0LWlRcXZKQTQtSWJiMWhGVmpkZ2NmRFNhQ2tKSWdldjZFRk12eUMzc0Vhb3JYRlpjaktiWk9MZTVEanVRdjRETmdLNUtUem5SZjl3VHA2N3BDRkUyQUkwR1hlTzVhQzR1ZEQwT3dOaExSNHN3RmxXczdXNzRMcnVpU195cEFQc3k1eUFmSnQtR3g2bzgtQ1JCUTgwS0RhRUduWmUycHcteEFYUEVKZDNOTkRGYm5xZ3dNOXFpOGtCVQ?oc=5",
+      "published": "2026-11-14T05:53:53+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_original": "Nvidia’s Disappearing Singapore Sales Deepen Mystery Around Megaspeed",
+      "summary_original": "Nvidia’s Disappearing Singapore Sales Deepen Mystery Around Megaspeed WSJ",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTVMxMWYtSHpfTEN1dUVzcTRpZDBkRUR4ZVBENFJxODZHaEg5WHp0ekZFdENtZEZrNDl5eENKWW11LVJFSGd4T0Y0TVNEQU0wRUhoMW5HMVdsUmZmQThZVV9WdmVXc3ZGM0F5Wk1kRlM0TEFXbG51WUNyWGt3WXlRU1I2cmNoNmNocEtkdkktdU9NTVA1dUhiWHlYRG44aUxTM3VlVmdzOU41T3Z4aGxKbkw4VG5RZw?oc=5",
+      "published": "2026-11-14T05:30:46+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_original": "A Mini-Exodus Unfolds at Blackstone’s Marquee Real Estate Team",
+      "summary_original": "A Mini-Exodus Unfolds at Blackstone’s Marquee Real Estate Team WSJ",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNEJLUWIyWjczNjVQRmdzZ1NQX1FCM0xXZ0ZuVDdJOS1GMTVNOExZVVBJY3RtQVJxTk9FWloxQXBteTlQN2dqZndhdnBNNmhTQ1lJQVNaa3k1NXM1T2NROFFtbXN0VmYtakpncTlqMm4yM1FnN2pZTlRJMUo3cE9xbDRxLWhBUmt4anhweWs0eEwwSVFNYUtnSnVidE1ZbTU1b3Z0TQ?oc=5",
+      "published": "2026-11-14T05:30:07+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Washington Post",
+      "title_original": "Before he was Pope Leo, he was their bishop. Now he’s back home.",
+      "summary_original": "In an emotional homecoming, residents of Chiclayo, the Peruvian city that shaped Pope Leo XIV, welcomed him with reverence for one of their own.",
+      "url": "https://www.washingtonpost.com/world/2026/11/13/before-he-was-pope-leo-he-was-their-bishop-now-hes-coming-home/",
+      "published": "2026-11-14T05:29:03+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Washington Post",
+      "title_original": "Europeans decide on thorny question of who will speak for bloc in Ukraine talks",
+      "summary_original": "On Friday, the European Union agreed to not one person but a team from five countries and the European Union.",
+      "url": "https://www.washingtonpost.com/world/2026/11/13/europeans-decide-thorny-question-who-will-speak-bloc-ukraine-talks/",
+      "published": "2026-11-14T04:36:57+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Washington Post",
+      "title_original": "As Chinese ‘manosphere’ emerges, women are dropping from the workforce",
+      "summary_original": "China, which once rejected traditional roles for women, is now promoting family values and higher birth rates under Xi Jinping.",
+      "url": "https://www.washingtonpost.com/world/2026/11/13/china-pushes-women-toward-traditional-roles-it-once-rejected/",
+      "published": "2026-11-14T01:27:55+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Washington Post",
+      "title_original": "Zelensky says Starlink limits continued in the middle of his talks with U.S., Russia",
+      "summary_original": "Ukraine’s Defense Ministry said it had reached out to SpaceX and the U.S. Defense Department to seek an explanation and resolve the situation.",
+      "url": "https://www.washingtonpost.com/world/2026/11/13/zelensky-says-starlink-limits-continued-ukraine/",
+      "published": "2026-11-14T01:20:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Washington Post",
+      "title_original": "Trump falsely claims ‘nobody’s been killed’ in Iran war ‘in the last five months’",
+      "summary_original": "In July, three soldiers died in an enemy attack on an air base in Jordan, another died at an air base in Iraq and a Navy captain died during an emergency landing in the Arabian Sea.",
+      "url": "https://www.washingtonpost.com/politics/2026/11/13/trump-falsely-claims-nobodys-been-killed-iran-war-last-five-months/",
+      "published": "2026-11-14T00:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Washington Post",
+      "title_original": "U.S. managed $12 billion in Venezuelan oil revenue, State Department says",
+      "summary_original": "Amid demands for transparency, the State Department released a report detailing the oil funds received by the United States and disbursed back to Venezuela.",
+      "url": "https://www.washingtonpost.com/world/2026/11/12/us-managed-12-billion-venezuela-oil-revenue-state-department-says/",
+      "published": "2026-11-13T07:40:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Washington Post",
+      "title_original": "As deadly storms flood Gaza’s tent cities, the displaced fear a worse winter",
+      "summary_original": "At least four people were killed when weekend storms triggered a landslide onto tent shelters, which are exposed to risks during severe weather.",
+      "url": "https://www.washingtonpost.com/world/2026/11/12/palestinians-fear-floods-other-storm-risks-tent-cities-gazas-displaced/",
+      "published": "2026-11-13T06:46:36+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Washington Post",
+      "title_original": "After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war",
+      "summary_original": "Russia had resisted a European role in the negotiations, and President Vladimir Putin on Thursday reiterated his opposition to European peacekeepers.",
+      "url": "https://www.washingtonpost.com/world/2026/11/12/after-meeting-putin-us-envoys-say-europe-join-talks-ending-ukraine-war/",
+      "published": "2026-11-13T06:24:36+09:00",
+      "via": "rss",
+      "state_media": false
+    }
+  ],
+  "unavailable_sources": [],
+  "errors": {}
+}
