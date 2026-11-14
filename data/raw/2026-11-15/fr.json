@@ -1,8 +1,62 @@
 {
   "team": "fr",
   "team_name_ko": "프랑스팀",
-  "collected_at": "2026-11-15T06:13:02.779509+09:00",
+  "collected_at": "2026-11-15T08:25:24.158558+09:00",
   "headlines": [
+    {
+      "source": "France 24",
+      "title_original": "Enseignement supérieur en Afrique : l'UM6P, un modèle d'excellence à suivre ?",
+      "summary_original": "L'Afrique peut-elle former ses propres élites sans les envoyer étudier à l'étranger ? Au Maroc, l'Université Mohammed VI Polytechnique (UM6P) s'impose parmi les établissements africains les mieux classés à l'international. Recherche, intelligence artificielle, robotique, agriculture : l'université mise sur des formations de pointe pour répondre aux défis du continent. Mais cette excellence est-ell",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261114-enseignement-sup%C3%A9rieur-en-afrique-l-um6p-un-mod%C3%A8le-d-excellence-%C3%A0-suivre",
+      "published": "2026-11-15T07:24:21+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Présidence de la Francophonie : Louise Mushikiwabo \"candidate jusqu'au bout\"",
+      "summary_original": "C’est une information révélée par nos confrères de Jeune Afrique : la France aurait demandé au Rwanda de retirer sa candidature pour le poste de secrétaire général de l’Organisation Internationale de la Francophone. Les pays membres sont en ce moment réunis au Cambodge et doivent choisir qui sera à la tête de l’OIF. Et cela a bien évidemment fait réagir sur le continent…",
+      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261114-pr%C3%A9sidence-de-la-francophonie-louise-mushikiwabo-candidate-jusqu-au-bout",
+      "published": "2026-11-15T07:12:50+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Acte V du mouvement social : des revendications variées, une affluence en baisse",
+      "summary_original": "Lors de l'acte V du mouvement social qui ébranle la France, quelque 106 000 à 200 000 personnes ont défilé samedi dans toute la France, selon les chiffres du ministère de l'Intérieur et l'intersyndicale jeune (Union étudiante, USL, Fage, Unef). Quelques incidents se sont produits et des journalistes ont été agressés.",
+      "url": "https://www.france24.com/fr/france/20261114-acte-v-du-mouvement-social-des-revendications-vari%C3%A9es-une-affluence-en-baisse",
+      "published": "2026-11-15T06:43:20+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Israël : Eisenkot accuse Netanyahu d'entraver la formation d'un gouvernement",
+      "summary_original": "Alors que Benjamin Netanyahu plaide pour un gouvernement d'union nationale, son rival Gadi Eisenkot, chargé de former le prochain gouvernement israélien, a dénoncé samedi les \"ruses\" du Premier ministre sortant. Des discussions entre leurs partis sont déjà prévues dimanche.",
+      "url": "https://www.france24.com/fr/moyen-orient/20261114-isra%C3%ABl-eisenkot-accuse-netanyahu-d-entraver-la-formation-d-un-gouvernement",
+      "published": "2026-11-15T06:14:10+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Éliminatoires de la CAN 2027 : l'Algérie s'impose de peu contre le Togo et conforte sa première place",
+      "summary_original": "L'Algérie a dû s'employer pour faire céder une solide équipe du Togo (1-0), samedi lors de la troisième journée des éliminatoires de la CAN 2027. Longtemps en échec dans le dernier geste, les Fennecs ont finalement trouvé la faille sur un ballon d'Hadj Moussa déposé sur la tête de Bensebaïni en fin de match. Cette courte victoire permet aux Algériens de conforter leur place de leader de leur group",
+      "url": "https://www.france24.com/fr/sports/20261114-%C3%A9liminatoires-de-la-can-2027-l-alg%C3%A9rie-cale-contre-le-togo-mais-reste-en-t%C3%AAte-de-son-groupe",
+      "published": "2026-11-15T06:00:23+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Éliminatoires de la CAN 2027 : l'Algérie s'impose de peu contre le Togo et conforte sa première place",
+      "summary_original": "L'Algérie a dû s'employer pour faire céder une vaillante équipe du Togo (1-0), samedi 14 novembre lors de la troisième journée des éliminatoires de la CAN 2027. Longtemps restés en échec dans le dernier geste, les Fennecs ont finalement trouvé la faille grâce à un ballon d'Hadj Moussa déposé sur la tête de Bensebaïni en fin de match. Cette courte victoire permet aux Algériens de conforter leur pla",
+      "url": "https://www.france24.com/fr/sports/20261114-%C3%A9liminatoires-de-la-can-2027-l-alg%C3%A9rie-cale-contre-le-togo-mais-reste-en-t%C3%AAte-de-son-groupe",
+      "published": "2026-11-15T05:58:10+09:00",
+      "via": "rss",
+      "state_media": false
+    },
     {
       "source": "France 24",
       "title_original": "La cyberattaque d'une filiale de La Poste entraîne un vol de données touchant 22 millions de personnes",
@@ -18,60 +72,6 @@
       "summary_original": "Après avoir renoncé vendredi à rattraper le premier étage de sa mégafusée Starship en raison d'un incident technique, l'entreprise SpaceX d'Elon Musk veut samedi tenter d'en récupérer le second après plus de 22 heures de vol, ce qui constituerait une prouesse technique.",
       "url": "https://www.france24.com/fr/am%C3%A9riques/20261114-apr%C3%A8s-l-%C3%A9chec-du-premier-%C3%A9tage-spacex-tente-de-rattraper-le-second-%C3%A9tage-de-sa-fus%C3%A9e-starship",
       "published": "2026-11-15T05:38:41+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "France 24",
-      "title_original": "Macron dénonce \"ceux qui veulent rationner\" l’aide à l’Ukraine et \"l’obliger à une paix injuste\"",
-      "summary_original": "Dans un message publié sur son compte X, Emmanuel Macron a estimé samedi que \"rationner les moyens de l'Ukraine\" était \"la recette pour la guerre d'après\". Le président de la République a appelé à ne pas diminuer les aides à l'Ukraine, comme la candidate du Rassemblement national Marine Le Pen l'a précédemment envisagé, si elle est élue.",
-      "url": "https://www.france24.com/fr/france/20261114-macron-d%C3%A9nonce-ceux-qui-veulent-rationner-l-aide-%C3%A0-l-ukraine-et-l-obliger-%C3%A0-une-paix-injuste",
-      "published": "2026-11-15T05:02:07+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "France 24",
-      "title_original": "Ligue des nations : face à la Turquie, Mbappé et les Bleus en mission pour la qualification",
-      "summary_original": "Renversée par l'Italie à Milan lors de la cinquième journée de Ligue des nations, l'équipe de France jouera sa qualification en quarts de finale face à la Turquie dimanche à Bordeaux. Malgré l'absence de nombreux cadres, notamment en défense, Zinédine Zidane devrait pouvoir compter sur le retour de son capitaine Kylian Mbappé pour retrouver des certitudes et décrocher une place en phase finale de ",
-      "url": "https://www.france24.com/fr/sports/20261114-ligue-des-nations-france-vs-turquie",
-      "published": "2026-11-15T02:40:46+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "France 24",
-      "title_original": "Francophonie : la RD Congo menace de quitter l'organisation",
-      "summary_original": "Le XXe sommet de la Francophonie se tient les 15 et 16 novembre 2026 à Phnom Penh, au Cambodge. Quatre candidats sont en lice pour le secrétariat général de l'OIF, dans un contexte diplomatique tendu. La RD Congo menace notamment de reconsidérer sa place au sein de l'organisation si la Rwandaise Louise Mushikiwabo obtient un troisième mandat. Un dossier devenu prioritaire pour Paris. Les précision",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261114-francophonie-la-rd-congo-menace-de-quitter-l-organisation",
-      "published": "2026-11-15T01:51:40+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "France 24",
-      "title_original": "Victorin Lurel, sénateur PS de la Guadeloupe : \"L'oisiveté est la mère de tous les vices\"",
-      "summary_original": "Chaque semaine, Judith Grimaldi reçoit un invité dans son émission \"Avec Judith.\" Cette fois-ci, c'est le sénateur PS de la Guadeloupe Victorin Lurel. Il revient sur son parcours de vie, et réagit notamment au taux de chômage élevé en Guadeloupe ainsi qu'à la candidature à l'élection présidentielle de Teddy Riner.",
-      "url": "https://www.france24.com/fr/%C3%A9missions/avec-judith/20261114-victorin-lurel-s%C3%A9nateur-ps-de-la-guadeloupe-l-oisivet%C3%A9-est-la-m%C3%A8re-de-tous-les-vices",
-      "published": "2026-11-15T01:28:10+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "France 24",
-      "title_original": "Rugby : exploit des Gallois, victorieux contre les All Blacks pour la première fois depuis 1953",
-      "summary_original": "Le XV du Poireau a arraché une victoire historique face à la Nouvelle-Zélande, samedi à Cardiff, dans le cadre de la cinquième journée du Championnat des nations, mettant fin à une disette de 73 ans face aux All Blacks.",
-      "url": "https://www.france24.com/fr/sports/20261114-rugby-exploit-des-gallois-victorieux-contre-les-all-blacks-pour-la-premi%C3%A8re-fois-depuis-1953",
-      "published": "2026-11-15T01:21:30+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "France 24",
-      "title_original": "De communiste à conseiller de Macron, le parcours de l'économiste Philippe Aghion",
-      "summary_original": "Comme chaque semaine, Judith Grimaldi reçoit un invité dans son podcast \"Avec Judith\". Cette fois-ci, c'est Philippe Aghion, économiste français, prix Nobel d'économie 2025.",
-      "url": "https://www.france24.com/fr/%C3%A9missions/avec-judith/20261114-de-communiste-%C3%A0-conseiller-de-macron-le-parcours-de-l-%C3%A9conomiste-philippe-aghion",
-      "published": "2026-11-15T00:50:57+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -149,19 +149,46 @@
     },
     {
       "source": "TF1 Info",
-      "title_original": "Francophonie, accords de défense et sur les terres rares : que va faire Emmanuel Macron au Cambodge et en Malaisie",
-      "summary_original": "Francophonie, accords de défense et sur les terres rares : que va faire Emmanuel Macron au Cambodge et en Malaisie TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNOC1QV2VfcVlTeTE4RVd2Wk1vcXZMYmxjWUktRDVmSkN4NVNmdHkzbGdKT0t4WDBwdHg5enhfcV9LbUZza3hSQTFxVHdBMVR2N05obldCVlljVC1FS3dBNTJZTVpxOVZoaDVqcGdCLWI1LURyaXp4SkExZTdzLTgxM2s1WVpuY01FMER3VUVDeEJhaTVkdGFOWkYwVllvaURXTEhKR21GXzBnQVh6b2RGTHBfT2RsMzZpVm1yMWgtN1NWR0hMX1RxeXktanRGX3BjdmIwYi1FZXhxRUxhQjZyS1duOF9TcXdPbWFMdDcteUc4RXcyV09rcEFwS2VYd0dfT2JibnVkR3NwVDAwQzJMQXR3?oc=5",
-      "published": "2026-11-15T05:47:04+09:00",
+      "title_original": "Ces armes en vente sur internet",
+      "summary_original": "Ces armes en vente sur internet TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTktiVm1SR3NvQ1VhcHd6RnVkNFljeTZpTUVubDRXa2NzcWc1T25SSm5GbTBrdk5YLXFSbXpVU21BQ1JxNFotY1J4amMyNkVNRXdNUGJvWEl5TlRNVmQ5bVdOb2JjeTBfT3R3MXBiSV9MYWx2MEhlVEl0ajRQZkJQamFwREdzbjZRSVUxSjZhenpzb3hpZ3JoRDJ2MjhJalRpLUhkYzdkOGw?oc=5",
+      "published": "2026-11-15T08:10:11+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "TF1 Info",
-      "title_original": "Rugby : victoire des Bleus contre les sud-africains",
-      "summary_original": "Rugby : victoire des Bleus contre les sud-africains TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdm9ENk1jZEx6M1pvYU0xd1lQdjBUZmtOMWhaZDBodzc2RHdFbF9ZMllfbV9QYVBwejgwaXB0UExrZGRvSXA1VWVpNzR0azBvMGZtcm5QWHZrWFk5aURZcmswenpnUWlydGZoWjZPUHZhUXVCTzJ4S3Y4N1ZoSUU0WTE5dWluNDh6LTdneEJibm5ZNmxHME9HeThHRDk3anU4MndfbE5VRHRTVDNLdTBN?oc=5",
-      "published": "2026-11-15T05:25:14+09:00",
+      "title_original": "Francophonie, accords de défense et sur les terres rares : que va faire Emmanuel Macron au Cambodge et en Malaisie",
+      "summary_original": "Francophonie, accords de défense et sur les terres rares : que va faire Emmanuel Macron au Cambodge et en Malaisie TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNOC1QV2VfcVlTeTE4RVd2Wk1vcXZMYmxjWUktRDVmSkN4NVNmdHkzbGdKT0t4WDBwdHg5enhfcV9LbUZza3hSQTFxVHdBMVR2N05obldCVlljVC1FS3dBNTJZTVpxOVZoaDVqcGdCLWI1LURyaXp4SkExZTdzLTgxM2s1WVpuY01FMER3VUVDeEJhaTVkdGFOWkYwVllvaURXTEhKR21GXzBnQVh6b2RGTHBfT2RsMzZpVm1yMWgtN1NWR0hMX1RxeXktanRGX3BjdmIwYi1FZXhxRUxhQjZyS1duOF9TcXdPbWFMdDcteUc4RXcyV09rcEFwS2VYd0dfT2JibnVkR3NwVDAwQzJMQXR3?oc=5",
+      "published": "2026-11-15T07:17:04+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Hongrie : 17 millions d'euros cachés dans une forêt",
+      "summary_original": "Hongrie : 17 millions d'euros cachés dans une forêt TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbHBXa1FwNERIMU1hczFsTEgwc1cwUWhfaXJMU0ltTkYyanRXRGszSDQtY25lZEJaUzNCTFYzTGhKckhpbTlLemVwNFE2YjB6aS1EeDJNaF9uaWxlUGE1MWlCR3hLLUFsVWhsRnBjR1hNRGZHZmxzTnBxbVg4ZS0xaHRsWEotcU1XUF84YTVKSW5nTzhMb1pJUDd0NG9lR09tRjFpR0tOOHoxN05IV254UFdrMVJidXVfaHc?oc=5",
+      "published": "2026-11-15T07:15:06+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Hongrie : plus de 17 millions d'euros en liquide saisis dans une enquête anticorruption",
+      "summary_original": "Hongrie : plus de 17 millions d'euros en liquide saisis dans une enquête anticorruption TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNWRFbk5JMzdHNlFHVzAwb29DS0trbDJ4TjhTUl9jdWZOUHRLemhSel9xYXJnaGl3NndWM0phUlBMNUdJalJGZzVPSjBuTFVnbHZacFAwVXVrdEpxMHBhZVh3MjlUcm8wTWowZVFYSFBwRlpWVTZWMndHbmpYVTZ1ODlXS1VyQzZxa0ZzR2syd09SWE1hZEZMT1lVN01jZzVtSFNFWDFkZC1BckMwVHFwNEU1TUxkWDgzMGo0SDZKNzQ3NkxlV2VieVQxdEpqZUNtWU5HYWZpSVJwTWdyUGhvcGoyRlVxdjJZYW9XeHhJbTZJeEE?oc=5",
+      "published": "2026-11-15T07:10:08+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Pour la première fois, SpaceX parvient à rattraper le second étage de sa mégafusée Starship après un vol",
+      "summary_original": "Pour la première fois, SpaceX parvient à rattraper le second étage de sa mégafusée Starship après un vol TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSUNXWXpMLUE5LUJGR0JZblRlam1Jb24ybVpvdTBtWnVuOGpmSlFEZzlSSnVHSzdRRkRDMHBzQlUyVDBMTlNrcTdXSW0wOE9XU20tNVJkaDFmellTdUJMT19UMmp6RHVWekp6cEdNVjJLUnlOSHVVUUQ0bkJWQzJvcDdUUHFFcC0zcnhXNEVQT2lyaHRKVE02eFdVb2tmX1g3TTE2ZlpVMjJhS2FZYlpZOVhGbDNJR3dXN0c5VGxBM3BjdS1rVmxfOEgyemNpZ3dib29yMTNteUtTUkxZUHdDZjV0RUdTNmFYODlnUExfT0ZMb1dR?oc=5",
+      "published": "2026-11-15T06:58:49+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -170,124 +197,115 @@
       "title_original": "Traversée de la Manche : un week-end à haut risque",
       "summary_original": "Traversée de la Manche : un week-end à haut risque TF1 Info",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSHNWOFJsekYzbTZGOFFiYlFDVklUXzhLZlBzYldRa3BmVnNlOTJNRDAwYjVnbnYwRkhHbTVRbDdMemc3V0NJOWctQUVkbXViYnNNaTVVNHNSRlVDeGVBVF9WbjBwYVlUd1Y1ZlVzODMtZFk5WURWd012YlVkbDdwekFKZXZ2NlZKeTVrM3JYMWpVYXJCcWN1aWxfZjRJTGgzRTVvV0Myai1QZF9qS1BEbElUUE1LMTVIQlkxckM3emhOZw?oc=5",
-      "published": "2026-11-15T05:20:18+09:00",
+      "published": "2026-11-15T06:50:17+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "TF1 Info",
-      "title_original": "VÉRIF' - \"Un black-out le 17 novembre\" : d'où vient cette rumeur qui circule sur les réseaux sociaux",
-      "summary_original": "VÉRIF' - \"Un black-out le 17 novembre\" : d'où vient cette rumeur qui circule sur les réseaux sociaux TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOX2liQjZIUDVYX3JXVDZnSlR4VTVqc04zVkYwUE1VVC1PWnNMdjBJbW0zeUNxeGFFZXVJRk5nVDgzZ1ZiRm10aWZ4emxtLWdqazVXMXZScFRtZGRVdmNiVnBTdzFfbFljbXlNeFpQenM4bHN3Zkh6enNjTzA4ZWlOeTctQ2E1Ylg2empYNmZOYU9XQmpFQ0JCalhpLXNlRUVIdkFxa0FJaXgwb0gxZjU0ME9nV1NhUTliSjNZODNvdmFqOUpKUG5kWHlkR3ZOS3EtNDlFdlJrSHVGcmM?oc=5",
-      "published": "2026-11-15T05:19:08+09:00",
+      "title_original": "\"Une méthode de départage\" : l'appel de Gérard Larcher pour réunir les candidats de la droite et du centre",
+      "summary_original": "\"Une méthode de départage\" : l'appel de Gérard Larcher pour réunir les candidats de la droite et du centre TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPM0cxWmdLN2MxaFB5ZlNNbHdYOGh0U05sUGVhSXU2VU5nS2hseWR4akx1Tmo2emgzOTNOYkNBQjZ3UHJ6NVJxenVBSzFfa3Z2U2RzSVlDanZ6b3hFNVZRNVFxWXIxbWU5TVhocEpNd1R1eXZGU2VwSjBPLWVXRDh2VVN2Qm9KRXFqNGtRMk9aUWQ5UGdMQ3l5Q25pdTF5aGRJTFh1TXEyYUpDejRVcFRjakt4Qm83Nlp2aFoxdnFvdFRXU0xmTk9Ib0dNSmtLdUd2dThtcnZDVTBManRHSVNJN2NKUzVaOWRXbGYta1FGVzZlU0szcXpjTndsdnBMNmFFNGZxOEpteEFham42ZjJYNFV3V2V0OC1rNkJaSXdR?oc=5",
+      "published": "2026-11-15T06:28:41+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "TF1 Info",
-      "title_original": "Météo du 14 novembre 2026 : Prévisions météo à 21h03",
-      "summary_original": "Météo du 14 novembre 2026 : Prévisions météo à 21h03 TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZUxHNndmaVFrc0xPSE9lS3F6OGRRQkc0NUpGUnZtNkFQYm5WS2FUWmYwYk9HWHZVc0pJaVlUT1NtdUFidkhocjMxdDZaTmF0TTJqb1lVdmRqS3ZmNHBHWEhDLWhVLVQxTFdENEs0Wi1jS3drLTk0aGY3aHNpeDJnTlNLNHZIUlE0WGR6WUkwc0Fhc0ZuUVctcFVoN2FsNU5WcVpnOVBlc3d4SDhhUnJJ?oc=5",
-      "published": "2026-11-15T05:12:27+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "Ces armes en vente sur internet",
-      "summary_original": "Ces armes en vente sur internet TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTktiVm1SR3NvQ1VhcHd6RnVkNFljeTZpTUVubDRXa2NzcWc1T25SSm5GbTBrdk5YLXFSbXpVU21BQ1JxNFotY1J4amMyNkVNRXdNUGJvWEl5TlRNVmQ5bVdOb2JjeTBfT3R3MXBiSV9MYWx2MEhlVEl0ajRQZkJQamFwREdzbjZRSVUxSjZhenpzb3hpZ3JoRDJ2MjhJalRpLUhkYzdkOGw?oc=5",
-      "published": "2026-11-15T05:10:18+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "Mississippi : l'incroyable collision",
-      "summary_original": "Mississippi : l'incroyable collision TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTmlXX0ROR0NQUFQyRUJMLWQ3MkJWRThYaVBuU3pLU1FKT1BQV0x6ZTFmOThNWlhmYW4zZ2JXTVh2MWFCdDN0OThUdE9GUzFqQUVSTENTdkEwdFc1MUw4bVh6SnBVTWNONFlndFZUdkpiREFZcXowbnQtakJ3ZzhtX1ZWSVRuQmgtS0ktaDBwdFFncGVJQUZsU2ZNZDd0MV9iT3JHeXVn?oc=5",
-      "published": "2026-11-15T05:10:17+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "Les coordonnées de 22 millions de personnes volées : La Poste annonce que sa filiale Maileva a été victime d'une cyberattaque",
-      "summary_original": "Les coordonnées de 22 millions de personnes volées : La Poste annonce que sa filiale Maileva a été victime d'une cyberattaque TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNc3N0TXl2NkREeG1HNG4wQXB6R1dXOVFsNDBKUi05anNiS3BCRmp5X1FiN2dYcTZneWxxU0VCWkMwdV92RlFWeV9COVNVNkU2Q0l5UjJYalZKVDYzZG1wcHNGRUYtNmVhdEtiLWd0VEJYMVp3ZEFFWmwzZXdkQi1iRVFZNmVhTGRZbHZCWWJaZk1KeFRHR3BjRFc0WW1WM0l1cWZkV0VmSzFKVjA0djhFQTZQZVZadXY3bFR2Y1p2YlhQZUdHallXekZJSUtyTnBOR0htQ1duLVRhS0xtVUF2RS05SDF3Rl9IZDJDNFVYSzFTaWZnNGRxNlVxRG9adw?oc=5",
-      "published": "2026-11-15T04:51:17+09:00",
+      "title_original": "\"C'est envoyé en cinq ou six colis différents\" : la vente illégale d'armes sur internet et les réseaux sociaux en plein essor",
+      "summary_original": "\"C'est envoyé en cinq ou six colis différents\" : la vente illégale d'armes sur internet et les réseaux sociaux en plein essor TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNS0VYb1RJc203YjQ4WUVhRVlOek1sTXJycmRkVlllazR4d3YtbVlXSU96VE40dUlqYjRDRkVWSTFHSENBbE15b19sVDFCbHFvbWJMRlMxQVNPSnc1TXN0TEFJNFpNMWNOOGNoQmxYSllreHBmNUE1QlJBZjhmLXh0MFdNWkRKSVNSbVRFaXQxNXlseXlVYUxOdmtORmJRLUZUTkRub0lKOVhDMTBZbG9hV2V5WmxUeEpOLWtaTl9uXzVPM0p6NlRuQUc3T2dzVmFjMG56a2VJSGdNek52SWVGeFJmU05tMlNFN3J1RG5FelFHdS1KWlhjVVZvWnBlTW05VS01SXdzbzRxREVMdEl2V0p1NFEzQ0E?oc=5",
+      "published": "2026-11-15T06:14:03+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Les \"patrons ont la parole du gouvernement\": en cas de relance salariale, Jean-Pierre Farandou promet de limiter la progression du coût du travail",
-      "summary_original": "À l’issue d'un \"comité de suivi des salaires\", le ministre du Travail, Jean-Pierre Farandou promet aux patrons que la progression du coût du travail sera limitée, si la relance salariale est effective.",
-      "url": "https://www.bfmtv.com/politique/gouvernement/les-patrons-ont-la-parole-du-gouvernement-en-cas-de-relance-salariale-jean-pierre-farandou-promet-de-limiter-la-progression-du-cout-du-travail_AD-202611140378.html",
-      "published": "2026-11-15T05:51:14+09:00",
+      "title_original": "Syndicats, lycéens… crise jusqu'à la présidentielle ? - 14/11",
+      "summary_original": "Chaque week-end, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.",
+      "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-syndicats-lyceens-crise-jusqu-a-la-presidentielle-14-11_VN-202611140429.html",
+      "published": "2026-11-15T08:20:31+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Teddy Riner, le champion qui bouscule la campagne",
-      "summary_original": "Selon un sondage Elabe réalisé pour La Tribune dimanche et BFMTV et publié ce samedi 14 novembre, Édouard Philippe est considéré comme le candidat le plus solide pour représenter la droite et le centre à la prochaine élection présidentielle. Teddy Riner lui, est crédité de 4,5% des intentions de vote",
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-teddy-riner-le-champion-qui-bouscule-la-campagne_VN-202611140376.html",
-      "published": "2026-11-15T05:37:13+09:00",
+      "title_original": "Droite et centre : une primaire ou la défaite ? - 14/11",
+      "summary_original": "Chaque week-end, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.",
+      "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-droite-et-centre-une-primaire-ou-la-defaite-14-11_VN-202611140423.html",
+      "published": "2026-11-15T07:59:41+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Teddy Riner crédité de 4,5% des intentions de vote dans un sondage: \"Ce qui est très inquiétant au-delà des personnes, c'est surtout que les deux extrêmes sont en train d'arriver au second tour\", déclare Florence Portelli, vice-présidente des LR",
-      "summary_original": "Le candidat surprise à la présidentielle était en déplacement au salon Made in France, Porte de Versailles à Paris, ce samedi 14 novembre. Il a tenu à se distinguer d'Emmanuel Macron, assurant ne pas être \"l'envoyé du président\".",
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-teddy-riner-credite-de-4-5-des-intentions-de-vote-dans-un-sondage-ce-qui-est-tres-inquietant-au-dela-des-personnes-c-est-surtout-que-les-deux-extremes-sont-en-train-d-arriver-au-second-tour-declare-florence-portelli-vice-presidente-des-lr_VN-202611140375.html",
-      "published": "2026-11-15T05:36:15+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BFMTV",
-      "title_original": "Éducation: \"On veut remettre le baccalauréat tel qu'il était avant la réforme Blanquer\", déclare Thomas Ménagé, porte-parole du groupe RN à l'Assemblée nationale",
+      "title_original": "Selon le sondage Elabe pour La Tribune dimanche et BFMTV sur la présidentielle, 55% des interrogés sont certains de leur choix, 45% peuvent changer d'avis",
       "summary_original": "Selon un sondage Elabe réalisé pour La Tribune dimanche et BFMTV et publié ce samedi 14 novembre, Édouard Philippe est considéré comme le candidat le plus solide pour représenter la droite et le centre à la prochaine élection présidentielle.",
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-education-on-veut-remettre-le-baccalaureat-tel-qu-il-etait-avant-la-reforme-blanquer-declare-thomas-menage-porte-parole-du-groupe-rn-a-l-assemblee-nationale_VN-202611140374.html",
-      "published": "2026-11-15T05:34:19+09:00",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-selon-le-sondage-elabe-pour-la-tribune-dimanche-et-bfmtv-sur-la-presidentielle-55-des-interroges-sont-certains-de-leur-choix-45-peuvent-changer-d-avis_VN-202611140417.html",
+      "published": "2026-11-15T07:33:32+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "\"Une attaque d'une extrême gravité\": la maison d'un journaliste visée par un attentat au Panama",
-      "summary_original": "Ce samedi 14 novembre, la maison d'un journaliste panaméen connu pour ses enquêtes a pris feu après une attaque à l'explosif. Aucune victime n'est à déplorer.",
-      "url": "https://www.bfmtv.com/international/une-attaque-d-une-extreme-gravite-la-maison-d-un-journaliste-visee-par-un-attentat-au-panama_AD-202611140358.html",
-      "published": "2026-11-15T05:20:20+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BFMTV",
-      "title_original": "LIGNE ROUGE - Teddy Riner, le champion qui bouscule la campagne",
-      "summary_original": "Selon un sondage Elabe réalisé pour La Tribune dimanche et BFMTV et publié ce samedi 14 novembre, Édouard Philippe est considéré comme le candidat le plus solide pour représenter la droite et le centre à la prochaine élection présidentielle. Teddy Riner lui, est crédité de 4,5% des intentions de vote dans un sondage",
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-ligne-rouge-teddy-riner-le-champion-qui-bouscule-la-campagne_VN-202611140361.html",
-      "published": "2026-11-15T05:16:12+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BFMTV",
-      "title_original": "Présidentielle 2027: découvrez notre sondage Elabe /BFMTV / La Tribune Dimanche",
+      "title_original": "Candidature de Teddy Riner: \"On a l'impression qu'il est quand même là téléguidé par une partie du système\", observe Danielle Simonnet, députée L'Après",
       "summary_original": "Selon un sondage Elabe réalisé pour La Tribune dimanche et BFMTV et publié ce samedi 14 novembre, Édouard Philippe est considéré comme le candidat le plus solide pour représenter la droite et le centre à la prochaine élection présidentielle.",
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-decouvrez-notre-sondage-elabe-bfmtv-la-tribune-dimanche_VN-202611140354.html",
-      "published": "2026-11-15T04:54:44+09:00",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-candidature-de-teddy-riner-on-a-l-impression-qu-il-est-quand-meme-la-teleguide-par-une-partie-du-systeme-observe-danielle-simonnet-deputee-l-apres_VN-202611140416.html",
+      "published": "2026-11-15T07:32:22+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Teddy Riner crédité de 4,5% des intentions de vote dans un sondage: \"La question, c'est qu'au sein de la gauche, si elle se rassemblait, elle peut gagner\", analyse Alexis Corbière, député L'Après",
-      "summary_original": "Le candidat surprise à la présidentielle était en déplacement au salon Made in France, Porte de Versailles à Paris, ce samedi 14 novembre. Il a tenu à se distinguer d'Emmanuel Macron, assurant ne pas être \"l'envoyé du président\".",
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-teddy-riner-credite-de-4-5-des-intentions-de-vote-dans-un-sondage-la-question-c-est-qu-au-sein-de-la-gauche-si-elle-se-rassemblait-elle-peut-gagner-analyse-alexis-corbiere-depute-l-apres_VN-202611140353.html",
-      "published": "2026-11-15T04:54:18+09:00",
+      "title_original": "Candidature de Teddy Riner: \"Gouverner, ça ne s'improvise pas\", déclare Jordan Bardella, président du RN",
+      "summary_original": "Selon un sondage Elabe réalisé pour La Tribune dimanche et BFMTV et publié ce samedi 14 novembre, Édouard Philippe est considéré comme le candidat le plus solide pour représenter la droite et le centre à la prochaine élection présidentielle.",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-candidature-de-teddy-riner-gouverner-ca-ne-s-improvise-pas-declare-jordan-bardella-president-du-rn_VN-202611140413.html",
+      "published": "2026-11-15T07:21:57+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Space X: pour la première fois, l'entreprise parvient à rattraper l'étage supérieur de sa mégafusée Starship",
+      "summary_original": "Après plus de 22 heures de vol, l'entreprise américaine d'Elon Musk, SpaceX a réussi à rattraper l'étage supérieur de sa fusée Starship, une première. L'engin a rejoint la base spatiale au Texas et a été rattrapé par de gigantesques bras métalliques.",
+      "url": "https://www.bfmtv.com/international/video-space-x-pour-la-premiere-fois-l-entreprise-parvient-a-rattraper-l-etage-superieur-de-sa-megafusee-starship_VN-202611140411.html",
+      "published": "2026-11-15T07:17:04+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Pour la première fois, SpaceX parvient à rattraper l'étage supérieur de sa mégafusée Starship",
+      "summary_original": "Après plus de 22 heures de vol, l'entreprise américaine d'Elon Musk, SpaceX a réussi à rattraper l'étage supérieur de sa fusée Starship, une première. L'engin a rejoint la base spatiale au Texas et a été rattrapé par de gigantesques bras métalliques.",
+      "url": "https://www.bfmtv.com/sciences/pour-la-premiere-fois-space-x-parvient-a-rattraper-l-etage-superieur-de-sa-megafusee-starship_AD-202611140405.html",
+      "published": "2026-11-15T07:10:42+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Espionnage, intelligence artificielle: le séisme Nvidia",
+      "summary_original": "Quelques heures après que Jensen Huang a été forcé de démissionner de Nvidia, les réactions s'enchaînent. Et pas seulement au sein de l'entreprise, montrant l'influence de Jensen Huang dans le secteur de l'IA et aux États-Unis.",
+      "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-espionnage-intelligence-artificielle-le-seisme-nvidia_VN-202611140394.html",
+      "published": "2026-11-15T06:38:32+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "SpaceX parvient à rattraper l’étage supérieur de sa mégafusée Starship, une première",
+      "summary_original": "Cette récupération constitue une avancée considérable dans le développement de la plus grande et la plus puissante fusée jamais construite, conçue pour réaliser des voyages vers la Lune et Mars et envoyer des data centers dans l’espace.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/11/14/spacex-parvient-a-rattraper-l-etage-superieur-de-sa-megafusee-starship-une-premiere_6810676_1650684.html",
+      "published": "2026-11-15T06:55:17+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Au Portugal, des milliers de manifestants défilent pour dénoncer la crise du logement",
+      "summary_original": "Le Portugal est le pays de l’Union européenne où les prix du logement ont le plus augmenté par rapport aux revenus des ménages entre 2015 et 2025. L’indicateur mesurant cette évolution a bondi de 60,8 % sur cette période.",
+      "url": "https://www.lemonde.fr/international/article/2026/11/14/au-portugal-des-milliers-de-manifestants-defilent-pour-denoncer-la-crise-du-logement_6810643_3210.html",
+      "published": "2026-11-15T06:17:50+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -303,7 +321,7 @@
     {
       "source": "Le Monde",
       "title_original": "Cyberattaque : Maileva, filiale du groupe La Poste, annonce un vol de données touchant 22 millions de personnes",
-      "summary_original": "Le groupe a indiqué avoir déposé plainte après cette cyberattaque qui s’est produite mi-septembre. Une enquête judiciaire est en cours.",
+      "summary_original": "Le groupe a annoncé avoir déposé plainte après cette cyberattaque qui s’est produite mi-septembre. Une enquête judiciaire est en cours.",
       "url": "https://www.lemonde.fr/pixels/article/2026/11/14/cyberattaque-maileva-filiale-du-groupe-la-poste-annonce-un-vol-de-donnees-touchant-22-millions-de-personnes_6810545_4408996.html",
       "published": "2026-11-15T05:05:18+09:00",
       "via": "rss",
@@ -311,7 +329,7 @@
     },
     {
       "source": "Le Monde",
-      "title_original": "En Israël, Gadi Eisenkot dénonce les ruses de Benyamin Nétanyahou, qui plaide pour la formation d’un gouvernement d’union",
+      "title_original": "En Israël, Gadi Eisenkot dénonce les « ruses » de Benyamin Nétanyahou, qui plaide pour la formation d’un gouvernement d’union",
       "summary_original": "Aux yeux du premier ministre israélien sortant, seul un gouvernement d’union nationale avec Gadi Eisenkot permettra de « garantir la sécurité d’Israël » face à l’Iran, dont il promet d’éliminer la menace « une fois pour toutes ».",
       "url": "https://www.lemonde.fr/international/article/2026/11/14/en-israel-gadi-eisenkot-denonce-les-ruses-de-benyamin-netanyahou-qui-plaide-pour-la-formation-d-un-gouvernement-d-union_6810511_3210.html",
       "published": "2026-11-15T04:33:52+09:00",
@@ -342,24 +360,6 @@
       "summary_original": "En associant ses moyens à la tournée du producteur du podcast suivi par des millions d’internautes, l’institution militaire veut séduire un public jeune et susciter des vocations. Une stratégie de communication qui interroge, alors que l’animateur est visé par des accusations d’échanges à caractère sexuel avec des mineures, qu’il conteste.",
       "url": "https://www.lemonde.fr/politique/article/2026/11/14/avec-le-legend-tour-de-guillaume-pley-l-armee-francaise-s-offre-une-vitrine-aupres-de-la-jeunesse_6810456_823448.html",
       "published": "2026-11-15T02:00:16+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "Les « nouveaux Tanguy », ces jeunes adultes qui tiennent à conserver l’alternance entre chez papa et chez maman",
-      "summary_original": "Depuis la séparation de leurs parents, ils vivent en résidence alternée. Un rythme auquel ils sont attachés, même devenus majeurs… au grand dam de leurs géniteurs. Car la cohabitation à temps partiel avec un jeune adulte qui suit ses propres règles s’avère délicate.",
-      "url": "https://www.lemonde.fr/intimites/article/2026/11/14/les-nouveaux-tanguy-ces-jeunes-adultes-qui-tiennent-a-conserver-l-alternance-entre-chez-papa-et-chez-maman_6810454_6190330.html",
-      "published": "2026-11-15T02:00:10+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "The FinalSlam, un show de catch entre influenceurs qui crispe certains passionnés",
-      "summary_original": "Aidé de catcheurs, le streameur AmineMaTue organise, samedi, à 20 heures, sur Twitch et à la Pléenitude Arena, à Nanterre (Hauts-de-Seine), des combats auxquels prendront part des stars d’Internet comme Squeezie, Inoxtag et Kaatsup.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/11/14/the-finalslam-un-show-de-catch-entre-influenceurs-qui-crispe-certains-passionnes_6810455_4408996.html",
-      "published": "2026-11-15T02:00:08+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -437,10 +437,19 @@
     },
     {
       "source": "Le Figaro",
-      "title_original": "France-Turquie : une victoire et du spectacle, la mission des Bleus pour le retour de Zidane à Bordeaux",
-      "summary_original": "Après sa défaite contre l’Italie (3-1), l’équipe de France doit rassurer et séduire face à la Turquie dimanche soir pour décrocher sa place en quart de finale de la Ligue des nations.",
-      "url": "https://www.lefigaro.fr/sports/football/ligue-des-nations/france-turquie-une-victoire-et-du-spectacle-la-mission-des-bleus-pour-le-retour-de-zidane-a-bordeaux-20261114",
-      "published": "2026-11-15T06:04:42+09:00",
+      "title_original": "Portugal-Danemark : numéro 7 partout, minute d’applaudissements, banderole… L’hommage particulier à Cristiano Ronaldo en vidéo",
+      "summary_original": "Le Portugal entame l’après-CR7 samedi soir face au Danemark en Ligue des nations. Pour l’occasion, un hommage à l’éternel Cristiano Ronaldo a été rendu.",
+      "url": "https://www.lefigaro.fr/sports/football/ligue-des-nations/ligue-des-nations-numero-7-partout-minute-d-applaudissements-l-hommage-particulier-a-cristiano-ronaldo-avant-la-rencontre-face-au-danemark-video-20261114",
+      "published": "2026-11-15T06:32:02+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Victime d’une cyberattaque, Maileva, une filiale de La Poste, annonce un vol de données concernant 22 millions de personnes",
+      "summary_original": "Maileva est une plateforme spécialisée dans l’envoi de courriers professionnels pour les PME et les entreprises de taille intermédiaire. Les données exposées sont le prénom, le nom et l’adresse postale des personnes concernées.",
+      "url": "https://www.lefigaro.fr/secteur/high-tech/victime-d-une-cyberattaque-maileva-une-filiale-de-la-poste-annonce-un-vol-de-donnees-concernant-22-millions-de-personnes-20261114",
+      "published": "2026-11-15T06:29:52+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -449,7 +458,16 @@
       "title_original": "Présidentielle 2027 : Jean-Luc Mélenchon s’installe à la deuxième place, Teddy Riner devance Gabriel Attal dans un scénario, selon un sondage",
       "summary_original": "Dans une étude Elabe publiée ce samedi, Marine Le Pen conserve une large avance dans les intentions de vote au premier tour, tandis que Jean-Luc Mélenchon progresse. Édouard Philippe et Raphaël Glucksmann reculent, alors que le judoka Teddy Riner recueille 4,5 % dans l’un des scénarios testés.",
       "url": "https://www.lefigaro.fr/elections/presidentielles/sondages/presidentielle-2027-jean-luc-melenchon-s-installe-a-la-deuxieme-place-teddy-riner-devance-gabriel-attal-dans-un-scenario-selon-un-sondage-20261114",
-      "published": "2026-11-15T06:02:47+09:00",
+      "published": "2026-11-15T06:17:51+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Virus Mpox : le Brésil enregistre un premier décès en 2026",
+      "summary_original": "",
+      "url": "https://www.lefigaro.fr/flash-actu/virus-mpox-le-bresil-enregistre-un-premier-deces-en-2026-20261114",
+      "published": "2026-11-15T06:17:08+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -459,15 +477,6 @@
       "summary_original": "",
       "url": "https://www.lefigaro.fr/flash-actu/irak-neuf-responsables-limoges-en-lien-avec-une-enquete-sur-de-la-contrebande-de-petrole-20261114",
       "published": "2026-11-15T06:00:53+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "Rugby, Championnat des nations : «Souffle du Dragon», la réponse spectaculaire des Gallois au haka néo-zélandais (vidéo)",
-      "summary_original": "Les Gallois ont offert samedi une réponse spectaculaire au mythique haka des All Blacks, juste avant le coup d’envoi de leur rencontre face à la Nouvelle-Zélande en Championnat des nations.",
-      "url": "https://www.lefigaro.fr/sports/rugby/rugby-championnat-des-nations-souffle-du-dragon-la-reponse-spectaculaire-des-gallois-au-haka-neo-zelandais-video-20261114",
-      "published": "2026-11-15T05:56:44+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -495,15 +504,6 @@
       "summary_original": "Édouard Philippe, le mieux placé dans les sondages, s’est jusque-là opposé à l’idée d’une primaire.",
       "url": "https://www.lefigaro.fr/flash-actu/presidentielle-gerard-larcher-propose-aux-candidats-de-droite-et-du-centre-de-se-rencontrer-pour-trancher-sur-une-methode-de-departage-20261114",
       "published": "2026-11-15T05:35:57+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "Protection des enfants, opposition au «permis de tuer» et au gouvernement : à Paris, un mouvement social aux revendications multiples et en perte de vitesse",
-      "summary_original": "REPORTAGE - Le cortège parisien a rassemblé 24.000 personnes selon Beauvau et 100.000 selon l’Interfac de la jeunesse. Si la première partie de l’itinéraire s’est déroulée sans accroc, quelques affrontements ont eu lieu en fin de parcours, place de la Nation.",
-      "url": "https://www.lefigaro.fr/actualite-france/protection-des-enfants-opposition-au-permis-de-tuer-et-au-gouvernement-a-paris-un-mouvement-social-aux-revendications-multiples-et-en-perte-de-vitesse-20261114",
-      "published": "2026-11-15T05:18:37+09:00",
       "via": "rss",
       "state_media": false
     },

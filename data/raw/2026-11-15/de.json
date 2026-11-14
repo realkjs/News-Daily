@@ -1,8 +1,53 @@
 {
   "team": "de",
   "team_name_ko": "독일팀",
-  "collected_at": "2026-11-15T06:13:02.779509+09:00",
+  "collected_at": "2026-11-15T08:25:24.158558+09:00",
   "headlines": [
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Erfolg für SpaceX: \"Starship\"-Rakete kehrt zur Startrampe zurück",
+      "summary_original": "Eine Rakete, die wie ein ziviles Flugzeug eingesetzt werden kann, das ist das Ziel von SpaceX. Nun kann das \"Starship\"-System einen Erfolg verbuchen: Erstmals landete die etwa 50 Meter große obere Raketenstufe wieder auf der Erde.",
+      "url": "https://www.tagesschau.de/ausland/amerika/space-x-rakete-rueckkehr-100.html",
+      "published": "2026-11-15T08:12:16+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Berlin: Hunderte bei \"Gen Z regelt\"-Protest - mehrere Festnahmen",
+      "summary_original": "In Berlin haben Hunderte Menschen bei einer \"Gen Z regelt\"-Demo mitgemacht. Es ging unter anderem um kaputte Schulen, Wehrpflicht sowie Uni- und Sozialkürzungen. Mehrere Menschen wurden festgenommen.",
+      "url": "https://www.tagesschau.de/inland/regional/berlin/gen-z-regelt-protest-berlin-100.html",
+      "published": "2026-11-15T06:31:18+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Florian Kellermann, ARD Kiew, über das US-Angebot an die Ukraine zum NATO-Beitritt bei Gebietsverzicht",
+      "summary_original": "Florian Kellermann, ARD Kiew, über das US-Angebot an die Ukraine zum NATO-Beitritt bei Gebietsverzicht",
+      "url": "https://www.tagesschau.de/tagesthemen/video-1684012.html",
+      "published": "2026-11-15T06:20:43+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Startverbot für Flugzeuge legt US-Luftverkehr für mehrere Stunden lahm",
+      "summary_original": "Startverbot für Flugzeuge legt US-Luftverkehr für mehrere Stunden lahm",
+      "url": "https://www.tagesschau.de/tagesthemen/video-1684010.html",
+      "published": "2026-11-15T06:18:55+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Moritz Rödle, ARD Berlin, über die Kandidatur von Ex-Arbeitsminister Hubertus Heil für SPD-Vorsitz",
+      "summary_original": "Moritz Rödle, ARD Berlin, über die Kandidatur von Ex-Arbeitsminister Hubertus Heil für SPD-Vorsitz",
+      "url": "https://www.tagesschau.de/tagesthemen/video-1684008.html",
+      "published": "2026-11-15T06:15:55+09:00",
+      "via": "rss",
+      "state_media": false
+    },
     {
       "source": "ARD Tagesschau",
       "title_original": "Frauen-Bundesliga: VfL Wolfsburg verliert Top-Spiel gegen Bayern München",
@@ -31,47 +76,29 @@
       "state_media": false
     },
     {
-      "source": "ARD Tagesschau",
-      "title_original": "Koalitionsvertrag in Mecklenburg-Vorpommern unterschrieben",
-      "summary_original": "Nachdem SPD, Linkspartei und Grüne in Mecklenburg-Vorpommern dem gemeinsamen Koalitionsvertrag zugestimmt hatten, ist das Papier nun unterschrieben. Für Montag ist die Wiederwahl von Ministerpräsidentin Schwesig geplant.",
-      "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/spd-basis-stellt-sich-voll-hinter-manuela-schwesig,mvlandtag-128.html",
-      "published": "2026-11-15T04:43:50+09:00",
+      "source": "ZDF heute",
+      "title_original": "Aktuelles zum Krieg in der Ukraine",
+      "summary_original": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
+      "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
+      "published": "2026-11-15T07:26:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "ARD Tagesschau",
-      "title_original": "tagesschau 20:00 Uhr",
-      "summary_original": "Früherer Arbeitsminister Heil will für SPD-Vorsitz kandidieren, Mecklenburg-Vorpommern einigt sich auf rot-rot-grüne Landesregierung, US-Flugverkehr nach Technik-Panne für Stunden eingestellt, Weltweite Störung bei Microsoft ist behoben, \"Klimagipfel der Völker\" als Gegenveranstaltung zur COP31, Papst Leo XIV. besucht frühere Diözese in Peru, Bayern würdigt Aiwanger mit einem Trauerstaatsakt, Tank",
-      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1683994.html",
-      "published": "2026-11-15T04:36:04+09:00",
+      "source": "ZDF heute",
+      "title_original": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
+      "summary_original": "Die Lage in Nahost ist weiter angespannt - es kommt immer wieder zu Angriffen. Im Westjordanland spitzt sich die Situation zu. Alle Entwicklungen im Liveblog.",
+      "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+      "published": "2026-11-15T07:26:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "ARD Tagesschau",
-      "title_original": "Philippinische Popsängerin Carmelle gewinnt ersten ESC in Asien",
-      "summary_original": "Der Eurovision Song Contest hat seit diesem Jahr einen Ableger in Asien. Die erste Ausgabe gewann die philippinische Sängerin Carmelle mit ihrem Song \"Sobra-Sobra\". Sie setzte sich gegen teils prominente Konkurrenz durch.",
-      "url": "https://www.tagesschau.de/kultur/esc-asia-100.html",
-      "published": "2026-11-15T04:24:24+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ARD Tagesschau",
-      "title_original": "Staatsakt in München: Gedenken an Hubert Aiwanger",
-      "summary_original": "Staatsakt in München: Gedenken an Hubert Aiwanger",
-      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1683982.html",
-      "published": "2026-11-15T04:15:58+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ARD Tagesschau",
-      "title_original": "Papst Leo XIV. besucht frühere Diözese Chiclayo in Peru",
-      "summary_original": "Papst Leo XIV. besucht frühere Diözese Chiclayo in Peru",
-      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1683984.html",
-      "published": "2026-11-15T04:14:17+09:00",
+      "source": "ZDF heute",
+      "title_original": "Portugal ehrt Ronaldo - und unterliegt Dänemark deutlich",
+      "summary_original": "Portugal hat Cristiano Ronaldo im ersten Länderspiel nach dessen Rücktritt gehuldigt. Die Partie in der Nations League gegen Dänemark endete freilich mit einer Enttäuschung.",
+      "url": "https://www.zdfheute.de/sport/fussball-nations-league-portugal-daenemark-ronaldo-abschied-100.html",
+      "published": "2026-11-15T06:55:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -81,24 +108,6 @@
       "summary_original": "Jeder Mensch hat das Recht auf selbstbestimmtes Sterben. Das entschied das Bundesverfassungsgericht 2020. Doch die konkrete Ausgestaltung ist bis heute nicht abschließend geregelt.",
       "url": "https://www.zdfheute.de/video/unbubble-sterbehilfe-politik-video-100.html",
       "published": "2026-11-15T06:10:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "Aktuelles zum Krieg in der Ukraine",
-      "summary_original": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
-      "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
-      "published": "2026-11-15T05:59:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
-      "summary_original": "Die Lage in Nahost ist weiter angespannt - es kommt immer wieder zu Angriffen. Im Westjordanland spitzt sich die Situation zu. Alle Entwicklungen im Liveblog.",
-      "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
-      "published": "2026-11-15T05:59:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -135,15 +144,6 @@
       "summary_original": "Tausende Menschen gingen zur Halbzeit der Klimakonferenz in Antalya auf die Straße. Sie fordern den Schutz von Menschenrechte und Klima. Große Proteste sind in der Türkei selten.",
       "url": "https://www.zdfheute.de/video/klima-proteste-tuerkei-100.html",
       "published": "2026-11-15T05:01:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "Hubertus Heil kandidiert für SPD-Vorsitz",
-      "summary_original": "Hubertus Heil eröffnet das Rennen um den Vorsitz der SPD. Er kündigt als Erster offiziell seine Kandidatur an. Das schreibt der Ex-Arbeitsminister in einem Brief an die Partei.",
-      "url": "https://www.zdfheute.de/politik/deutschland/hubertus-heil-spd-partei-vorsitz-kandidatur-100.html",
-      "published": "2026-11-15T04:59:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -221,6 +221,51 @@
     },
     {
       "source": "n-tv",
+      "title_original": "Hinweise verdichten sich : Wird Robert Pattinson der nächste Bond?",
+      "summary_original": "Noch ist der nächste James Bond nicht offiziell gefunden, \"Twilight\"-Star Robert Pattinson wird derzeit aber als Favorit für die Rolle gehandelt. Er soll bereits einen überaus vorteilhaften Vorvertrag ausgehandelt haben.",
+      "url": "https://www.n-tv.de/leute/Wird-Robert-Pattinson-der-naechste-Bond-id31534912.html",
+      "published": "2026-11-15T08:21:04+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Für rund 3,6 Millionen Dollar : Presley Gerbers Haus steht nach seinem Tod zum Verkauf",
+      "summary_original": "Nicht ganz zwei Monate nach dem Tod von Presley Gerber mit nur 27 Jahren wird das frühere Zuhause des Sohnes von Cindy Crawford und Rande Gerber zum Kauf angeboten.",
+      "url": "https://www.n-tv.de/leute/Presley-Gerbers-Haus-steht-nach-seinem-Tod-zum-Verkauf-id31534905.html",
+      "published": "2026-11-15T07:48:40+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Demos zumeist friedlich: Gen-Z-Proteste fallen deutlich kleiner aus",
+      "summary_original": "An Halloween gehen Tausende junge Menschen bundesweit auf die Straße. Zwei Wochen später demonstrieren erneut Jugendliche - allerdings deutlich weniger als zuvor. Dafür bleiben die Protestzüge dieses Mal weitgehend friedlich.",
+      "url": "https://www.n-tv.de/politik/Gen-Z-Proteste-fallen-deutlich-kleiner-aus-id31534844.html",
+      "published": "2026-11-15T07:17:30+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Musk schafft Meilenstein: SpaceX fängt \"Starship\"-Rakete mit Greifarmen auf",
+      "summary_original": "Dem US-Raumfahrtunternehmen SpaceX gelingt es zum ersten Mal, die Riesenrakete \"Starship\" bei ihrer Rückkehr zur Erde aufzufangen. Die obere Raketenstufe wird nach 22 Stunden im All an ihrer Startrampe in Texas wie geplant von Greifarmen aufgefangen.",
+      "url": "https://www.n-tv.de/wissen/SpaceX-faengt-Starship-Rakete-mit-Greifarmen-auf-id31534894.html",
+      "published": "2026-11-15T07:15:15+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Start in neue Ära verpatzt: Portugal erlebt Debakel im ersten Spiel nach Ronaldo",
+      "summary_original": "Vor dem Nations-League-Spiel verabschiedet sich Portugal von der zurückgetretenen Legende Cristiano Ronaldo. Auf dem Rasen bekommt die Selecao dann von Dänemark eine kleine Lehrstunde erteilt.",
+      "url": "https://www.n-tv.de/sport/fussball/Portugal-erlebt-Debakel-im-ersten-Spiel-nach-Ronaldo-id31534863.html",
+      "published": "2026-11-15T06:43:47+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
       "title_original": "Tödlicher Unfall in Berlin: Kind wird nach Fahrradsturz von Bus überrollt",
       "summary_original": "In Berlin kommt es am Nachmittag zu einem tödlichen Unfall. Eine Mutter und ihr Kind sind auf Fahrrädern auf einer Straße unterwegs, als das Kind stürzt. Ein Busfahrer kann nicht mehr reagieren und überrollt es. Für das Kind kommt jede Hilfe zu spät.",
       "url": "https://www.n-tv.de/panorama/Kind-wird-nach-Fahrradsturz-von-Bus-ueberrollt-id31534779.html",
@@ -247,47 +292,20 @@
       "state_media": false
     },
     {
-      "source": "n-tv",
-      "title_original": "Überraschendes Geständnis: \"Beverly Hills, 90210\"-Star braucht künstliche Hüfte",
-      "summary_original": "Als sie 1994 in die Erfolgsserien \"Beverly Hills, 90210\" einsteigt, ist Tiffani Thiessen 20 Jahre alt. Seither sind einige Jahre ins Land gezogen, was sich auch gesundheitlich bemerkbar macht. In einem Interview erzählt sie, dass ihr eine OP bevorstehe. Ihr Gesprächspartner hält das zunächst für einen Witz.",
-      "url": "https://www.n-tv.de/leute/Beverly-Hills-90210-Star-braucht-kuenstliche-Huefte-id31534676.html",
-      "published": "2026-11-15T04:48:51+09:00",
+      "source": "WELT",
+      "title_original": "Musk gelingt mit der Starship-Rakete eine Premiere in der Raumfahrt-Geschichte",
+      "summary_original": "Bei ihrem 15. Flug wird die Oberstufe der Starship-Rakete erstmals am Startturm in Texas aufgefangen. Den Ingenieuren rund um Elon Musk gelingt nicht nur eine technische Meisterleistung, sondern auch eine Premiere in der Geschichte der Raumfahrt.",
+      "url": "https://www.welt.de/wirtschaft/article6af8d5fd9849eea0701e31ae/oberstufe-gefangen-musk-gelingt-mit-der-starship-rakete-eine-premiere-in-der-raumfahrt-geschichte.html",
+      "published": "2026-11-15T06:59:18+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "n-tv",
-      "title_original": "SPD spricht von Einigung: Koalition will wohl Einspeisevergütung kleiner Solaranlagen sichern",
-      "summary_original": "In der Energiepolitik will die aktuelle Bundesregierung einiges anders machen, als die Ampel-Koalition. Auch die Einspeisevergütung kleinerer Photovoltaik-Anlagen soll enden. Doch in diesem Punkt soll es Bewegung geben, heißt es aus der SPD.",
-      "url": "https://www.n-tv.de/politik/Koalition-will-wohl-Einspeiseverguetung-kleiner-Solaranlagen-sichern-id31534588.html",
-      "published": "2026-11-15T04:24:40+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "n-tv",
-      "title_original": "Bericht sät Zweifel: Doch keine Wenger-Kandidatur gegen FIFA-Boss Infantino?",
-      "summary_original": "Die Bewerbungsfrist für eine Kandidatur um den FIFA-Chefposten läuft in wenigen Tagen ab. Noch immer hat sich Arsène Wenger nicht öffentlich bekannt. Nun meldet sich eine französische Sportzeitung mit Zweifeln.",
-      "url": "https://www.n-tv.de/sport/fussball/Doch-keine-Wenger-Kandidatur-gegen-FIFA-Boss-Infantino-id31534740.html",
-      "published": "2026-11-15T04:24:14+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "n-tv",
-      "title_original": "Wohin mit den Blättern? : Herbstlaub clever nutzen – so geht's",
-      "summary_original": "Wer Laub sinnvoll nutzt, spart sich Arbeit und tut dem Garten etwas Gutes. Doch Achtung: Nicht jede Ecke profitiert von einer Blätterdecke.",
-      "url": "https://www.n-tv.de/ratgeber/Herbstlaub-clever-nutzen-so-geht-s-id31424567.html",
-      "published": "2026-11-15T04:15:55+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "n-tv",
-      "title_original": "Watschn für Wölfinnen: Bayern-Frauen bauen im Topspiel ihre sensationelle Serie aus",
-      "summary_original": "Die Bayern-Frauen sind in der Bundesliga einfach nicht zu schlagen. Der Spitzenreiter der Liga schlägt die Verfolgerinnen des VfL Wolfsburg deutlich und baut die Ungeschlagen-Serie weiter aus.",
-      "url": "https://www.n-tv.de/sport/fussball/Bayern-Frauen-bauen-im-Topspiel-ihre-sensationelle-Serie-aus-id31534733.html",
-      "published": "2026-11-15T03:52:52+09:00",
+      "source": "WELT",
+      "title_original": "SpaceX fängt zweite Stufe des Starship erstmals erfolgreich auf",
+      "summary_original": "Rund 20 Stunden nach dem Start kehrt das Starship kontrolliert zum Weltraumbahnhof Starbase im US-Bundesstaat Texas zurück und wird dort von Greifarmen am Startturm aufgefangen. Zuvor hatte es bei dem 15. Testflug einen Rückschlag gegeben.",
+      "url": "https://www.welt.de/vermischtes/article6af8d2bd9849eea0701e318d/raumfahrt-spacex-faengt-zweite-stufe-des-starship-erstmals-erfolgreich-auf.html",
+      "published": "2026-11-15T06:37:14+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -346,29 +364,20 @@
       "state_media": false
     },
     {
-      "source": "WELT",
-      "title_original": "Dann spricht Hendrik Wüst über die „schiere Katastrophe“ bei Wahlen",
-      "summary_original": "Christdemokraten in mehreren Bundesländern bereiten sich auf schwierige Wahlkämpfe vor. In Umfragen verlieren sie ihren Vorsprung, etwa in Nordrhein-Westfalen und Niedersachsen. Ein vielsagender Besuch in Hannover.",
-      "url": "https://www.welt.de/politik/deutschland/plus6af712a384c7128d8f27e53a/unionskrise-dann-spricht-hendrik-wuest-ueber-die-schiere-katastrophe-bei-wahlen.html",
-      "published": "2026-11-15T02:41:18+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "WELT",
-      "title_original": "„Die Nato ist wie ein schmerzender Zahn“ – Moskau will Neuausrichtung der europäischen Verteidigung",
-      "summary_original": "Selenskyj warnt davor, dass Amerika und Russland die Sicherheitsarchitektur Europas grundlegend verändern wollen. In einer Reaktion bezeichnet Moskau die Nato als Gefahr für Europa. Ohne das Verteidigungsbündnis „wäre die Sicherheit in Europa wahrscheinlich viel größer“.",
-      "url": "https://www.welt.de/politik/ausland/article6af88f3d389d31d8c8a8073e/sicherheitspolitik-die-nato-ist-wie-ein-schmerzender-zahn-moskau-will-neuausrichtung-der-europaeischen-verteidigung.html",
-      "published": "2026-11-15T02:26:05+09:00",
+      "source": "Handelsblatt",
+      "title_original": "Raumfahrt: SpaceX fängt Riesen-Rakete Starship erstmals wieder auf",
+      "summary_original": "Mit dem größten je gebauten Raketensystem der Raumfahrtgeschichte will Elon Musk den Mars erschließen. Jetzt hat das Starship erneut einen Testflug absolviert – mit einem Rückschlag und einem Erfolg.",
+      "url": "https://www.handelsblatt.com/technik/raumfahrt-spacex-faengt-riesen-rakete-starship-erstmals-wieder-auf/100269941.html",
+      "published": "2026-11-15T06:39:22+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Handelsblatt",
-      "title_original": "Bundespolitik: Hubertus Heil will für SPD-Vorsitz kandidieren",
-      "summary_original": "Ein Dauer-Rivale von Vizekanzler Lars Klingbeil tritt für den SPD-Vorsitz an. Der frühere Arbeitsminister Hubertus Heil hat einen entsprechenden Brief an die Landesverbände und den Parteivorstand geschrieben.",
-      "url": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-hubertus-heil-will-fuer-spd-vorsitz-kandidieren/100269928.html",
-      "published": "2026-11-15T03:54:22+09:00",
+      "title_original": "SPD-Vorsitz: Der Parteisoldat strebt an die Macht – Hubertus Heil will SPD-Chef werden",
+      "summary_original": "Der frühere Arbeitsminister will beim Bundesparteitag im Januar kandidieren. Dabei hatte er jüngst noch beklagt, dass die SPD aktuell eher zu männerlastig aufgestellt sei.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/spd-vorsitz-der-parteisoldat-strebt-an-die-macht-hubertus-heil-will-spd-chef-werden/100269930.html",
+      "published": "2026-11-15T06:15:24+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -427,11 +436,11 @@
       "state_media": false
     },
     {
-      "source": "Handelsblatt",
-      "title_original": "Todesfall: Bayern trauert um Hubert Aiwanger",
-      "summary_original": "Der plötzliche Tod von Hubert Aiwanger hat eine große Anteilnahme ausgelöst. Beim Trauerakt kann die Frauenkirche nicht alle Gäste aufnehmen.",
-      "url": "https://www.handelsblatt.com/politik/deutschland/todesfall-bayern-trauert-um-hubert-aiwanger/100269895.html",
-      "published": "2026-11-14T21:49:04+09:00",
+      "source": "Der Spiegel",
+      "title_original": "SpaceX fängt Starship-Rakete erstmals am Startturm wieder auf",
+      "summary_original": "Wichtiger Schritt in der Raumfahrtentwicklung: Elon Musks Unternehmen SpaceX hat es geschafft, die obere Stufe des »Starship«-Systems nach einem Testflug wieder aufzufangen. Ein voller Erfolg war das Manöver trotzdem nicht.",
+      "url": "https://www.spiegel.de/ausland/spacex-faengt-starship-rakete-am-startturm-erstmals-wieder-auf-a-8995a28f-b04d-4a0f-a6bd-1b2298f5b450#ref=rss",
+      "published": "2026-11-15T06:47:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -499,17 +508,26 @@
       "state_media": false
     },
     {
-      "source": "Der Spiegel",
-      "title_original": "Arbeiten mit KI: Diese Menschen verdienen Geld mit Prompts, seitenlangen Prompts",
-      "summary_original": "Alle reden von KI – aber was macht es eigentlich mit jemandem, den ganzen Tag mit KI zu reden? Promptwriter wie Fabian Scholz können mit ihrer Arbeit viel Geld verdienen. Oder sich darin verlieren.",
-      "url": "https://www.spiegel.de/karriere/arbeiten-mit-ki-diese-menschen-verdienen-geld-mit-prompts-seitenlangen-prompts-a-04b97b2f-5ae8-44e4-85f7-c854dff9190a#ref=rss",
-      "published": "2026-11-15T02:52:00+09:00",
+      "source": "FAZ",
+      "title_original": "RaumFAHRT: SpaceX fängt Riesenrakete Starship erfolgreich auf",
+      "summary_original": "Mit dem größten je gebauten Raketensystem der Raumfahrtgeschichte will Elon Musk den Mars erschließen. Jetzt hat das Starship erneut einen Testflug absolviert - mit einem Rückschlag und einem Erfolg.",
+      "url": "https://www.faz.net/aktuell/wissen/weltraum/spacex-faengt-starship-rakete-erfolgreich-mit-greifarmen-auf-accg-201683960.html",
+      "published": "2026-11-15T07:35:35+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "FAZ",
-      "title_original": "Stars der Demokraten: Make America Hot Again",
+      "title_original": "Fußball-Liveblog: Portugal verneigt sich vor Ronaldo - und geht dann unter",
+      "summary_original": "Verfolgen Sie die Fußball-Nationalmannschaft von Jürgen Klopp und Spiele der UEFA Nations League ▷ Alle aktuellen Ergebnisse im Liveblog!",
+      "url": "https://www.faz.net/aktuell/sport/fussball/liveticker-nationalmannschaft-frenkie-de-jong-fehlt-niederlande-faz-201651368.html",
+      "published": "2026-11-15T07:07:39+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Stars der Demokraten: Das neue Zeitalter der heißen Politiker",
       "summary_original": "Das weibliche Amerika schwärmt für die neuen Hoffnungsträger der Demokraten: Sie respektieren Frauen, wie attraktiv! Aber wollten Frauen nicht mal die Hälfte der Welt?",
       "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/el-sayed-ossoff-talarico-warum-schwaermt-das-liberale-amerika-fuer-linke-macker-201669970.html",
       "published": "2026-11-15T05:08:20+09:00",
@@ -558,24 +576,6 @@
       "summary_original": "Früherer Arbeitsminister beklagt „akute Profillosigkeit“ seiner Partei unter Klingbeil +++ Mecklenburg-Vorpommern: Rot, Rot und Grün stimmen für Koalitionsvertrag +++ alle Entwicklungen im Liveblog",
       "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-hubertus-heil-kandidiert-fuer-den-spd-vorsitz-faz-110093143.html",
       "published": "2026-11-15T03:49:14+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "FAZ",
-      "title_original": "Kernkraft: Graichen und „die Dinger“",
-      "summary_original": "Ist die Kernkraft schon erledigt? Selbst unter Grünen spricht sich herum, dass 100 Prozent erneuerbarer Energie zu teuer wird ohne Atomkraft.",
-      "url": "https://www.faz.net/aktuell/politik/inland/wie-teuer-sind-kernkraftwerke-patrick-graichen-und-die-dinger-accg-201665725.html",
-      "published": "2026-11-15T03:34:48+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "FAZ",
-      "title_original": "Streit um Datenschutz: Warum die Europäer Apples „Home View“ nicht kaufen dürfen",
-      "summary_original": "Apple beginnt in den Vereinigten Staaten mit der Auslieferung eines neuen digitalen Assistenten namens „Home View“. In der Europäischen Union ist das Gerät vorerst nicht zu kaufen. Schuld sei eine EU-Verordnung, sagt Apple. Stimmt das?",
-      "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/warum-apple-das-home-view-geraet-nicht-in-deutschland-verkauft-accg-201678715.html",
-      "published": "2026-11-15T03:11:24+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -653,37 +653,28 @@
     },
     {
       "source": "Die Zeit",
-      "title_original": "Handball-Bundesliga: ThSV Eisenach bricht in der Schlussphase ein",
-      "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/14/thsv-eisenach-bricht-in-der-schlussphase-ein",
-      "published": "2026-11-15T05:54:09+09:00",
+      "title_original": "Abschiebezentren in Ruanda: Wie weit darf Deutschland bei Abschiebungen gehen?",
+      "summary_original": "Deutschland und mehrere EU-Staaten planen Abschiebezentren in Ruanda. Was bedeutet das für Asylsuchende? Und: Tschechien vor dem größten Protest seiner Geschichte",
+      "url": "https://www.zeit.de/politik/2026-11/abschiebezentren-ruanda-eu-asyl-nachrichtenpodcast",
+      "published": "2026-11-15T08:10:06+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Basketball-Bundesliga: Alba gelingt erster Liga-Auswärtssieg in dieser Saison",
+      "title_original": "Kalenderblatt: Was geschah am 15. November?",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/14/alba-gelingt-erster-liga-auswaertssieg-in-dieser-saison",
-      "published": "2026-11-15T05:52:33+09:00",
+      "url": "https://www.zeit.de/news/2026-11/14/was-geschah-am-15-november",
+      "published": "2026-11-15T07:55:04+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "ESC in Asien: Philippinen gewinnen ersten asiatischen ESC-Ableger in Thailand",
-      "summary_original": "Der Eurovision Song Contest hat das erste Mal in Asien stattgefunden. Die philippinische Sängerin Carmelle hat den Wettbewerb in Bangkok gewonnen.",
-      "url": "https://www.zeit.de/feuilleton/2026-11/esc-asien-carmelle-philippinen-sobra-sobra-bangkok",
-      "published": "2026-11-15T05:38:44+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "Volleyball-Bundesliga: Dresdner Volleyballerinnen feiern souveränen Sieg in Münster",
-      "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/14/dresdner-volleyballerinnen-feiern-souveraenen-sieg-in-muenster",
-      "published": "2026-11-15T05:38:13+09:00",
+      "title_original": "Luftverkehr in den USA: US-Regierung fordert nach Flugstopp Milliarden für Flugsicherung",
+      "summary_original": "Veraltete IT-Systeme haben den Flugverkehr in den USA lahmgelegt. Für die Modernisierung fordert der Verkehrsminister 50 Milliarden Dollar. Er warnt vor weiteren Pannen.",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/us-flugsicherung-faa-sean-duffy-kongress",
+      "published": "2026-11-15T07:54:50+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -692,34 +683,43 @@
       "title_original": "Auszeichnung: Preis für Verständigung und Toleranz für Tekkal und Moritz",
       "summary_original": "",
       "url": "https://www.zeit.de/news/2026-11/14/preis-fuer-verstaendigung-und-toleranz-fuer-tekkal-und-moritz",
-      "published": "2026-11-15T05:04:52+09:00",
+      "published": "2026-11-15T07:43:33+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Senioren: Rollator in Altenheim fängt Feuer - zwei Verletzte",
+      "title_original": "Raumfahrt: SpaceX fängt Riesen-Rakete Starship erstmals wieder auf",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/14/rollator-in-altenheim-faengt-feuer-zwei-verletzte",
-      "published": "2026-11-15T04:58:19+09:00",
+      "url": "https://www.zeit.de/news/2026-11/14/spacex-faengt-riesen-rakete-starship-erstmals-wieder-auf",
+      "published": "2026-11-15T07:39:44+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Belarussische Künstler im Exil: Rütteln an der Diktatur",
-      "summary_original": "Salzburg ist zu einem Zufluchtsort für belarussische Künstler geworden. Ausgerechnet in Österreich, wo der Diktator so gern Ski fuhr. Wie kam es dazu?",
-      "url": "https://www.zeit.de/2026/49/belarussische-kuenstler-exil-salzburg-maria-kalesnikava-maryna-yakubovich",
-      "published": "2026-11-15T04:57:57+09:00",
+      "title_original": "SpaceX: SpaceX fängt Rakete erfolgreich mit Greifarm wieder auf",
+      "summary_original": "Auf dem Weg zu einer wiederverwendbaren Rakete ist dem US-Raumfahrtunternehmen SpaceX ein wichtiger Schritt gelungen. Ein Teil der »Starship«‑Rakete ist wieder in Texas.",
+      "url": "https://www.zeit.de/wissenschaft/2026-11/spacex-starship-booster-wiederverwendbare-rakete",
+      "published": "2026-11-15T07:22:34+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Basketball-Bundesliga: Jena rutscht auf einen Abstiegsplatz",
+      "title_original": "Fußball-Nationalmannschaft: Abstieg nicht vom Tisch: Keine Portugal-Hilfe für Klopp",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/14/jena-rutscht-auf-einen-abstiegsplatz",
-      "published": "2026-11-15T04:55:06+09:00",
+      "url": "https://www.zeit.de/news/2026-11/14/abstieg-nicht-vom-tisch-keine-portugal-hilfe-fuer-klopp",
+      "published": "2026-11-15T06:51:05+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Jugendproteste: Erneute Gen-Z-Demonstrationen fallen deutschlandweit kleiner aus",
+      "summary_original": "In mehreren Städten haben erneut junge Menschen demonstriert, dieses Mal deutlich wesentlich weniger als vor zwei Wochen. Für Freitag sind größere Proteste angekündigt.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/generation-z-proteste-gen-z-regelt-berlin",
+      "published": "2026-11-15T06:49:29+09:00",
       "via": "rss",
       "state_media": false
     }
