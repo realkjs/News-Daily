@@ -1,8 +1,62 @@
 {
   "team": "fr",
   "team_name_ko": "프랑스팀",
-  "collected_at": "2026-11-16T06:13:27.445573+09:00",
+  "collected_at": "2026-11-16T08:32:36.484567+09:00",
   "headlines": [
+    {
+      "source": "France 24",
+      "title_original": "Alpinisme : l'expédition du Jannu Est, \"un tournant\" pour Benjamin Védrines",
+      "summary_original": "Après huit mois loin de la scène médiatique, l'alpiniste Benjamin Védrines fait son retour en cette fin 2026. Au côtés d'un autre alpinistre français Nicolas Jean, il vient de remporter le Piolet d'Or, l'une des plus hautes distinction de l'alpinisme. Ce trophée vient récompenser leur ascension du Jannu Est (7 468 m) au Népal, une première dans l'histoire après de nombreux échecs au cours des dern",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261115-alpinisme-l-exp%C3%A9dition-du-jannu-est-un-tournant-pour-benjamin-v%C3%A9drines",
+      "published": "2026-11-16T07:58:04+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Le baron de la drogue mexicain Miguel Ángel Félix Gallardo est mort",
+      "summary_original": "Considéré comme l'un des plus puissants chefs du narcotrafic, Miguel Ángel Félix Gallardo est décédé dimanche dans un hôpital, où il avait été transféré en urgence, rapportent les autorités. Depuis 1989, il purgeait deux peines totalisant 77 ans de prison.",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20261115-baron-de-drogue-mexicain-miguel-angel-felix-gallardo-mort-narcotrafic-hopital-prison-guadalajara",
+      "published": "2026-11-16T07:42:26+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Ligue des nations : la France souffre contre la Turquie mais arrache sa qualification en quarts",
+      "summary_original": "L'équipe de France s'est défaite dans la douleur de la Turquie (2-1) pour assurer sa qualification en quarts de finale de Ligue des nations, dimanche 15 novembre à Bordeaux. En parallèle, la large victoire de la Belgique contre l'Italie (4-1) permet aux Bleus de terminer à la première place de leur groupe.",
+      "url": "https://www.france24.com/fr/sports/20261115-ligue-des-nations-la-france-se-qualifie-dans-la-douleur-contre-la-turquie",
+      "published": "2026-11-16T07:40:17+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Ebola en RDC : 55 471 décès pour 11 197 cas cumulés ont été recensés en six mois",
+      "summary_original": "En RD Congo, six mois que sévit l’épidémie d’Ebola. Déclarée officiellement le 15 mai dernier, cette 17ᵉ épidémie est devenue, en quelques mois, la plus meurtrière de l’histoire du pays, qui compte plus de 100 millions d’habitants. Selon le dernier bilan des autorités sanitaires, 5 471 décès pour 11 197 cas cumulés ont été recensés.",
+      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261115-ebola-en-rdc-55-471-d%C3%A9c%C3%A8s-pour-11-197-cas-cumul%C3%A9s-ont-%C3%A9t%C3%A9-recens%C3%A9s-en-six-mois",
+      "published": "2026-11-16T07:17:57+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Présidentielle 2027 : un champion olympique à l'Elysée ?",
+      "summary_original": "Au menu de Présidentielle 2027 : la candidature de Teddy Riner, Marine Le Pen toujours en tête des sondages, et pas de candidat unique pour la droite et le centre… Avec Emilie Zapalski, éditorialiste politique et conseillère en communication, et Mathieu Doiret, analyste à l'Institut Ipsos.",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261115-pr%C3%A9sidentielle-2027-un-champion-olympique-%C3%A0-l-elys%C3%A9e",
+      "published": "2026-11-16T06:48:27+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Ligue des nations : la France se qualifie en quarts dans la douleur contre la Turquie",
+      "summary_original": "L'équipe de France s'est défaite dans la douleur de la Turquie (2-1) pour assurer sa qualification en quarts de finale de Ligue des nations, dimanche 15 novembre à Bordeaux. En parallèle, la large victoire de la Belgique contre l'Italie (4-1) permet aux Bleus de terminer premiers de leur groupe.",
+      "url": "https://www.france24.com/fr/sports/20261115-ligue-des-nations-suivez-en-direct-le-match-de-la-qualification-pour-la-france-contre-la-turquie",
+      "published": "2026-11-16T06:44:28+09:00",
+      "via": "rss",
+      "state_media": false
+    },
     {
       "source": "France 24",
       "title_original": "Ariane Chemin: \"ce bannissement, c'est mélanger une influenceuse propagandiste, et des journalistes\"",
@@ -14,73 +68,19 @@
     },
     {
       "source": "France 24",
-      "title_original": "Présidentielle au Cap-Vert : début du dépouillement après une journée électorale calme",
-      "summary_original": "Les bureaux de vote sont désormais clos dimanche au Cap-Vert et les opérations de dépouillement des résultats du premier tour de l'élection présidentielle ont débuté. Cet archipel d'Afrique de l'Ouest connaît une croissance dynamique mais peine à endiguer l'exode de sa jeunesse.",
+      "title_original": "José María Neves réélu président du Cap-Vert, selon des résultats provisoires",
+      "summary_original": "Favori du scrutin, le président sortant du Cap-Vert José María Neves a été réélu, dimanche, pour un second mandat dès le premier tour de la présidentielle avec 63,8 % des suffrages, selon les résultats provisoires annoncés par la Commission nationale électorale. Cet archipel d'Afrique de l'Ouest connaît une croissance dynamique mais peine à endiguer l'exode de sa jeunesse.",
       "url": "https://www.france24.com/fr/afrique/20261115-pr%C3%A9sidentielle-au-cap-vert-d%C3%A9but-du-d%C3%A9pouillement-apr%C3%A8s-une-journ%C3%A9e-%C3%A9lectorale-calme",
       "published": "2026-11-16T05:45:32+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "France 24",
-      "title_original": "Fabio d'Andrea : \"les COP sont très importantes, l'accord de Paris à l'époque a été un pas énorme \"",
-      "summary_original": "La COP 31 Se déroule depuis lundi à Antalya en Turquie. La co-présidence turque et australienne met l'accent cette année sur l'électrification comme levier d'action, avec pour objectif affiché de porter la part de l'électricité dans la consommation finale mondiale d'énergie à 35% en 2035 contre environ 23% aujourd'hui. Le climatologue Fabio d'andrea, chercheur au CNRS, spécialiste de la physique d",
-      "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261115-fabio-d-andrea-les-cop-sont-tr%C3%A8s-importantes-l-accord-de-paris-%C3%A0-l-%C3%A9poque-a-%C3%A9t%C3%A9-un-pas-%C3%A9norme",
-      "published": "2026-11-16T05:26:25+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "France 24",
-      "title_original": "Yémen : les Houthis à 60 km d'Aden, le gouvernement place des renforts autour de la ville",
-      "summary_original": "Après une avancée dans le gouvernorat de Lahj dans le sud du Yémen, les Houthis ne se trouvent plus qu'à 60 km environ de la ville d'Aden, siège du gouvernement yéménite. L'armée yéménite a annoncé déployer des combattants supplémentaires autour de la capitale provisoire Aden.",
-      "url": "https://www.france24.com/fr/moyen-orient/20261115-y%C3%A9men-les-houthis-%C3%A0-60-km-d-aden-le-gouvernement-place-des-renforts-autour-de-la-ville",
-      "published": "2026-11-16T04:35:25+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "France 24",
-      "title_original": "Au Pérou, Léon XIV dénonce \"l'abandon\" par l'État des communautés autochtones",
-      "summary_original": "Un mois après son opération pour un cancer du poumon, Léon XIV se rend dimanche à Cusco, dans les hautes Andes péruviennes, pour une étape particulièrement exigeante de sa tournée en Amérique du Sud. Lors d'un discours, le souverain pontife a dénoncé \"l'abandon\" par l'État des communautés autochtones du Pérou et la privation de leurs droits fondamentaux.",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20261115-p%C3%A9rou-l%C3%A9on-xiv-arrive-%C3%A0-cusco-%C3%A0-3-400-m-d-altitude-un-mois-apr%C3%A8s-son-op%C3%A9ration",
-      "published": "2026-11-16T03:21:14+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "France 24",
-      "title_original": "Éliminatoires de la CAN 2027 : qui peut se qualifier, qui est en danger ? Le point sur la 4e journée",
-      "summary_original": "La quatrième journée des éliminatoires de la CAN 2027 se disputera les 16 et 17 novembre et pourrait déjà sceller les premières qualifications pour la compétition. Découvrez groupe par groupe les enjeux de cette nouvelle journée de confrontations sur le continent africain.",
-      "url": "https://www.france24.com/fr/sports/20261115-%C3%A9liminatoires-de-la-can-2027-qui-peut-se-qualifier-qui-est-en-danger-le-point-par-groupe",
-      "published": "2026-11-16T03:00:30+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "France 24",
-      "title_original": "En Israël, la formation d'un gouvernement piétine",
-      "summary_original": "Les tractations s'intensifient en Israël pour tenter de former un nouveau gouvernement. Les équipes de négociation du Likoud et de Yashar se réunissent pour discuter des conditions d'un éventuel accord et des contours d'une future coalition. Explications d'Antoine Mariotti, chroniqueur international France 24.",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261115-en-isra%C3%ABl-la-formation-d-un-gouvernement-pi%C3%A9tine",
-      "published": "2026-11-16T02:31:25+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "France 24",
-      "title_original": "MMA : Ciryl Gane conserve sa ceinture de champion des poids lourds de l'UFC",
-      "summary_original": "Ciryl Gane a conservé son titre de champion incontesté des poids lourds de l'UFC après un combat très disputé face à l'Américain Josh Hokit au Madison Square Garden. Bousculé lors des premiers rounds, le Français a fait la différence en fin de combat pour s'imposer au terme de cinq reprises intenses. Une nouvelle victoire pour \"Bon Gamin\", figure de proue du MMA français, dans une discipline en pl",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261115-mma-ciryl-gane-conserve-sa-ceinture-de-champion-des-poids-lourds-de-l-ufc",
-      "published": "2026-11-16T02:13:55+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
       "source": "franceinfo (France 2)",
-      "title_original": "France-Turquie : sur corner, les Bleus prennent l'avantage sur un but contre son camp ! Suivez le match de Ligue des nations avec nous",
-      "summary_original": "Trois jours après le revers de San Siro, l'équipe de France retrouve les terrains face à la Turquie, dimanche soir à Bordeaux, avec un ticket pour les quarts de finale de la Ligue des nations dans le viseur.",
-      "url": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/direct-france-turquie-les-bleus-visent-la-qualification-pour-les-quarts-de-finale-suivez-le-dernier-match-de-phase-de-poules-de-ligue-des-nations_8282633.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-16T06:02:56+09:00",
+      "title_original": "Sans briller, l'équipe de France s’impose face à la Turquie et se qualifie pour les quarts de finale de la Ligue des nations",
+      "summary_original": "Les Bleus ont signé leur quatrième succès dans la compétition (2-1), dimanche soir à Bordeaux, et terminent premiers de leur groupe.",
+      "url": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/l-equipe-de-france-s-impose-face-a-la-turquie-et-se-qualifie-pour-les-quarts-de-finale-de-la-ligue-des-nations_8283920.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-16T07:01:33+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -149,19 +149,46 @@
     },
     {
       "source": "TF1 Info",
-      "title_original": "Harry Potter : Londres ensorcelée",
-      "summary_original": "Harry Potter : Londres ensorcelée TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOFlIYVd6MjBWMHh5NmNFXy1UeXFQejA2clF6Qk9wMEJ1bGdqcmh5bFFqOUppNkxCNHNpSWhaUkVTYllMaXd6MUludDZ0c1hHcmNoVkFVajd3RkVBQjRxUDVwejJWX2JxLWVaTmVVWmhzempoREFwMWE2eGpxR05GRkJHU1NjOW90dDlKdlBCWWgxMzlKOUFnVW5ydnNJMzJhVFE?oc=5",
-      "published": "2026-11-16T05:55:15+09:00",
+      "title_original": "Pouvoir d'achat : ces communes qui aident leurs habitants",
+      "summary_original": "Pouvoir d'achat : ces communes qui aident leurs habitants TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGU1VDM1M2tLRFBzNUVoX0hybm93TTJTQWlMbGVPWFBPdFZvYjlaZUVVeHM0OEZNeHdZam1iSERsRW1TRzZHdnRCQnp3WFl6Q2hDRkVZN1RHU05NRjVkRVBRSUgwVzdPOUx6dS1NU2VJNXN2czV1SDBzYm1uTExtZGdCa1dQOW5ESGcyM0p5b1djY3JOREpJcUQwUHpJZHI5d0JZNWoxbnRsSEN0TFZ2TWtCWlZkUU8x?oc=5",
+      "published": "2026-11-16T08:25:05+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "TF1 Info",
-      "title_original": "Des milliers de vols annulés aux États-Unis : que sait-on de la cause des perturbations ?",
-      "summary_original": "Des milliers de vols annulés aux États-Unis : que sait-on de la cause des perturbations ? TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQW5OUmlkRm05czZxMEhIVGg3LU5MdW9vc09GQnhpWDgwck1sWnd4ZVQ5YzRfMmMyNG52SFVzRDFzbkJrUTBkYzFDSlo1SmlhSnZLVlY1cEpTVENnVnZzVW5zREowcVo4bUxjWFZiOVZRVlU2SXc1aFFIRkVvMm52dHR2Z3E2S1RfREk1My01MDhmeUk0RnVYNHU4cWlham1qc01BOEFQbFU0Q0NCWl9DOU1kb1dBZGE0NnV3VlNzRE9FV2dtaWxhOWcyVHMyelQ5?oc=5",
-      "published": "2026-11-16T05:48:29+09:00",
+      "title_original": "La Poste piratée : vos données ont-elles fuités ?",
+      "summary_original": "La Poste piratée : vos données ont-elles fuités ? TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYV84djRPWUdfN0E2QWpwWDhVZkJZQV9wR1lhYkFZd3BkUDBMcC1fWEdqVHNSNjNpUngwemEweXNVN3ZTRkRKVWpwOGNMb29vMm1mbW40Z0h6aWFmdTRwbWpKRnhWRUEzeF9ZaHZEbndPQWc2VUJBTHg5RlpEa2JUWEFNa0JSdnFHN0E4NjJYVFExOUhDWjkyLV9tdXV0SHRlUWkxTXpqb1JKNVU?oc=5",
+      "published": "2026-11-16T08:15:13+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Ligue des nations : l'équipe de France tête de série, quand aura lieu le tirage au sort des quarts de finale",
+      "summary_original": "Ligue des nations : l'équipe de France tête de série, quand aura lieu le tirage au sort des quarts de finale TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNLThwNE5xVFEtZ1BPTTVtVm1qMnJtNWthRzlETnNKVXFXcHVEOHc0OGJ0UVZrbmRuQnRNZVVKRWRPUDY1QlFGZFdUd0hmY0laem92T3h5ekZWd2hJdHFXY1JsaEMzZmpTbHJJbU51by1NZ1hBdXRVNC1Hd1p3UmFCWHJJNlM3X1B4TWV1OFIyVWI2c1FNZi1sYVJLR1V0UmNjcl9yVDFqcjZPQS1jVEpLaDh1WkxIOVF4RUpMTlB5Y0FoY01IeENnZ0tPXy1jZ2t2elRjbGhmYkFybWpBNl9nNy12VUlZRzhBZ3Vwb1hic0NSUFU?oc=5",
+      "published": "2026-11-16T07:51:09+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Cocaïne : l'opération coup de poing de la Marine",
+      "summary_original": "Cocaïne : l'opération coup de poing de la Marine TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWi1ObE81MEJEYlRDNEdMV1FybzJWTjJncFU4Q3lUQVBvR1puaGx6NWVlWFFIVTRPOTlaaEhrRVo5ZXdQUThKbnNrZEFIOXZOLXNXQUJfZGg3cWVBVnA5TTlWVkxvZHNpSWVvT0FWUTMxSHVLSE5mN3ZwMl9CRGl6Y2tTZ0JqZGlMbXliZjA5TFhYbXFjN090LVZNcXdtYU9oR25hMVZ5ZmxteWdjemc2QkthM2J3MUFPTFhOcHk5MA?oc=5",
+      "published": "2026-11-16T07:35:09+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Harry Potter : Londres ensorcelée",
+      "summary_original": "Harry Potter : Londres ensorcelée TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOFlIYVd6MjBWMHh5NmNFXy1UeXFQejA2clF6Qk9wMEJ1bGdqcmh5bFFqOUppNkxCNHNpSWhaUkVTYllMaXd6MUludDZ0c1hHcmNoVkFVajd3RkVBQjRxUDVwejJWX2JxLWVaTmVVWmhzempoREFwMWE2eGpxR05GRkJHU1NjOW90dDlKdlBCWWgxMzlKOUFnVW5ydnNJMzJhVFE?oc=5",
+      "published": "2026-11-16T07:30:09+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -170,34 +197,7 @@
       "title_original": "Made in France : les champions du pansement",
       "summary_original": "Made in France : les champions du pansement TF1 Info",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcGpfeFVlcDBWeGVYQmpEYzdpRG5fZEp0aU4tZnhrZUlfaXRNVzcyTlZ0aVl0QVBXNWlnQlhBcTQxYlZxNEYzaDZmdmgtTkRnRHp6Q2pYbE1TXzZGYkZwbWx2bDRqS3FQVHZGa0hYNXlXMnp6NWxGMFppcGV0Ym1UeXRObzFJb1laR3VBQjAyeXcwcG45UUJUTm5ZdDdJd2JSbEozVg?oc=5",
-      "published": "2026-11-16T05:45:22+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "Des armes livrées en plusieurs colis : enquête sur un trafic en ligne",
-      "summary_original": "Des armes livrées en plusieurs colis : enquête sur un trafic en ligne TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMkJBeVp0WkpSeDRJN0o5Wng1aWhYcEFIMVROTTdsT1NkdUVtcDFTSEg3ZGZKdVdLUjdjRWNvV01yQmZqMmFzTWhOT3ItNzgzeFpzM0xmUVZzU3lCZW9oWjlndklzWU45WEVPWjNmR05aTkRXd3ZsUHBhTFpYMlBNdEtOaXdkVTc1TWFKa1dwT0Ywa1phR0R6Y1VoR29yZlE3UmNpOEtPNkRDa2tZN0N4bHMxWmxUR3Z0TU14aXlydk5NYUxGbEwyOVFVeVlrZWhNR0E?oc=5",
-      "published": "2026-11-16T05:45:19+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "Tué pour un téléphone portable : un homme de 22 ans mis en examen pour le meurtre d'un commerçant en Ardèche",
-      "summary_original": "Tué pour un téléphone portable : un homme de 22 ans mis en examen pour le meurtre d'un commerçant en Ardèche TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdGxCbl9OV0tVd0szU0VZejF2TmdUZWRoZGdXWUJBcjdMX2RrQk9vdHdYSXVmZ0dwSThmckNHQkJocENfLWFIbjhrOWFsc1NUMXNuUlA3U2dQeVMyNTNMUGZzdnB3SFpwcEVESWNGRnNZSUhvSm41MWlsclExOUNQaTZjNTJ6eUNta1Rvbl9KcU8yUlB5ams3MktPS0VpTmhDUXk5WU53dmhxRFpHeWZlV2NvZDFwT242ekxFRkIwSG1RRXNGWmJoSDZKaU9pMDI3TkZMaDYtSW0wZ0psc3I4WTBYYUlnVHdQUF91T0tYZnpieG1jT0E?oc=5",
-      "published": "2026-11-16T05:44:52+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "Six semaines après l'incendie : rentrée sous tension au lycée de Nantes",
-      "summary_original": "Six semaines après l'incendie : rentrée sous tension au lycée de Nantes TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdk5nei1jbk5Mb2Nod0p3YURMUVhhbzlkSlk5LURQRTU3RXhscWgzRTVjNzVrOTBUQndvaVJzNHJDNGUzWUd1NGU0OW9xMXltSWZaYWsxamlKdEtRbWhXQTdVbmJSZ0xvQjZVWnR0WkFFZHhlMF9JQnBSU2JRWHp3OHhITUxLM1BjZVZ0bXBEaTFYbjhndjg2R0ZhcmhMRm9xTHliTHI0cUdZemg0cWd6WXlzMjNERWZWU3drSEN6eGhXRW5jUmVLUjFXZXY?oc=5",
-      "published": "2026-11-16T05:35:15+09:00",
+      "published": "2026-11-16T07:15:11+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -206,88 +206,124 @@
       "title_original": "Électricité : le défi du stockage",
       "summary_original": "Électricité : le défi du stockage TF1 Info",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUHNiUGZKVXBoSVJlRkxNaDRnTWxRSDhrZHlsODRrVWNKM19FWFlTSFlJRHhCUVFUTHhZb0F5ZlZJdW9maTFxOVlWMGVWQVpJZHJLYVJMbDU0dHlXbWJGdWJHWjdZMlU1dHNIYThxUmkza1VfdmtNLVo5bVB5U09JcW85NEltZTlkenRMQzZzY3pzQ1YzeGNhOUljczE?oc=5",
-      "published": "2026-11-16T05:30:22+09:00",
+      "published": "2026-11-16T07:10:09+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "TF1 Info",
-      "title_original": "\"Elle était dans un trou d'eau\" : les images du sauvetage d'une septuagénaire prise au piège par les intempéries dans l'Hérault",
-      "summary_original": "\"Elle était dans un trou d'eau\" : les images du sauvetage d'une septuagénaire prise au piège par les intempéries dans l'Hérault TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQRC1XWlM4Y054LThyMEhHRUt2cldUaURJODNrVVlaZTdwVmRGdklfdURyUThqdzZyUHNWbXZySzA4UkhTNnZYVHlkVlBBQUcyZk9uMEJ6M1JScjdZenY3cC04TGVKb0JxSk14TkkzWGtzZlMwUWdwVmpHN0R5RUlzcVJxTVNjVW14UThyU05ESkY3RnFJdzYycnlBYUllSmVLLXVOSnhkOGdvZW9fSDB6S2lYVEtjbXg4bFNQTncxcFhubnlieVhxNmNEdzNYemM4dDhYZlZwR0ZTZGxrNTV6Sk9mX1NmTElPdTl5RnI3bGp2WWpWa05tbjVXU0RiU1BicU03VUxB?oc=5",
-      "published": "2026-11-16T05:28:40+09:00",
+      "title_original": "Six semaines après l'incendie : rentrée sous tension au lycée de Nantes",
+      "summary_original": "Six semaines après l'incendie : rentrée sous tension au lycée de Nantes TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdk5nei1jbk5Mb2Nod0p3YURMUVhhbzlkSlk5LURQRTU3RXhscWgzRTVjNzVrOTBUQndvaVJzNHJDNGUzWUd1NGU0OW9xMXltSWZaYWsxamlKdEtRbWhXQTdVbmJSZ0xvQjZVWnR0WkFFZHhlMF9JQnBSU2JRWHp3OHhITUxLM1BjZVZ0bXBEaTFYbjhndjg2R0ZhcmhMRm9xTHliTHI0cUdZemg0cWd6WXlzMjNERWZWU3drSEN6eGhXRW5jUmVLUjFXZXY?oc=5",
+      "published": "2026-11-16T07:05:13+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Colère sociale: les rassemblements interdits à Paris autour de certains lycées et universités",
-      "summary_original": "Dans un arrêté publié ce dimanche 15 novembre, la préfecture de police de Paris interdit les rassemblements ou cortèges non déclarés dans \"un rayon de 100 mètres\" autour de dix lycées et cinq sites universitaires de la capitale à compter de lundi et jusqu'à vendredi inclus.",
-      "url": "https://www.bfmtv.com/societe/manifestations/colere-sociale-les-rassemblements-interdits-a-paris-autour-de-certains-lycees-et-universites_AD-202611150393.html",
-      "published": "2026-11-16T05:34:24+09:00",
+      "title_original": "Seine-Saint-Denis: trois personnes placées en garde à vue après la découverte du corps d'une femme dans un garage",
+      "summary_original": "Un garagiste, sa femme et une autre personne ont été placés en garde à vue après la découverte du cadavre d'une femme dans une camionnette garée dans un garage. Une enquête ouverte a été ouverte pour \"homicide volontaire aggravé\" et confiée à la police judiciaire de Seine-Saint-Denis.",
+      "url": "https://www.bfmtv.com/police-justice/seine-saint-denis-trois-personnes-placees-en-garde-a-vue-apres-la-decouverte-du-corps-d-une-femme-dans-un-garage_AD-202611150445.html",
+      "published": "2026-11-16T07:55:52+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Télévisions, émissions, invités: les souvenirs de Michel Drucker, animateur et producteur",
-      "summary_original": "Michel Drucker, animateur et producteur de télévision, était l'invité de BFMTV ce dimanche 15 novembre",
-      "url": "https://www.bfmtv.com/people/video-televisions-emissions-invites-les-souvenirs-de-michel-drucker-animateur-et-producteur_VN-202611150395.html",
-      "published": "2026-11-16T05:29:41+09:00",
+      "title_original": "Colère sociale: \"Celles et ceux qui subissent les revendications et qui en plus en pâtissent ce sont les PME\", observe Dieynaba Diop, porte-parole du PS",
+      "summary_original": "Chaque jour, les sondages consolident un peu plus l'hypothèse d'un second tour entre Marine Le Pen et Jean-Luc Mélenchon. Dans les rangs de la droite et du centre, l'épineuse question de la primaire n'est toujours pas tranchée. Édouard Philippe se refuse toujours à ce scrutin intermédiaire, tandis que ses trois adversaires se disent prêts à y participer.",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-colere-sociale-celles-et-ceux-qui-subissent-les-revendications-et-qui-en-plus-en-patissent-ce-sont-les-pme-observe-dieynaba-diop-porte-parole-du-ps_VN-202611150443.html",
+      "published": "2026-11-16T07:50:43+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "\"C'est la France qui est en cause\": François Hollande affirme que la prochaine présidentielle est \"la plus importante\" de sa \"vie\"",
-      "summary_original": "Ce dimanche 15 novembre, l'ancien président de la République, a déclaré \"en tant que citoyen\" et non pas en tant que \"candidat potentiel\" que l'élection présidentielle de 2027 était \"la plus importante\" de sa \"vie\".",
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/c-est-la-france-qui-est-en-cause-francois-hollande-affirme-que-la-prochaine-presidentielle-est-la-plus-importante-de-sa-vie_AD-202611150389.html",
-      "published": "2026-11-16T04:57:06+09:00",
+      "title_original": "Teddy Riner : félicitations de Macron, un \"baiser empoisonné\" - 15/11",
+      "summary_original": "Chaque week-end, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.",
+      "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-teddy-riner-felicitations-de-macron-un-baiser-empoisonne-15-11_VN-202611150442.html",
+      "published": "2026-11-16T07:47:02+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "\"Jacques Chirac avait du mal à la télévision\", se souvient Michel Drucker, animateur et producteur de télévision",
-      "summary_original": "Michel Drucker, animateur et producteur de télévision, était l'invité de BFMTV ce dimanche 15 novembre",
-      "url": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-jacques-chirac-avait-du-mal-a-la-television-se-souvient-michel-drucker-animateur-et-producteur-de-television_VN-202611150390.html",
-      "published": "2026-11-16T04:56:04+09:00",
+      "title_original": "Droite et centre : une primaire façon \"Koh-Lanta\" - 15/11",
+      "summary_original": "Chaque week-end, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.",
+      "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-droite-et-centre-une-primaire-facon-koh-lanta-15-11_VN-202611150441.html",
+      "published": "2026-11-16T07:40:51+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Michel Drucker sur son émission \"Vivement dimanche\": \"Jean-Luc Mélenchon c'est un souvenir formidable\", raconte l'animateur et producteur de télévision",
-      "summary_original": "Michel Drucker, animateur et producteur de télévision, était l'invité de BFMTV ce dimanche 15 novembre",
-      "url": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-michel-drucker-sur-son-emission-vivement-dimanche-jean-luc-melenchon-c-est-un-souvenir-formidable-raconte-l-animateur-et-producteur-de-television_VN-202611150388.html",
-      "published": "2026-11-16T04:50:52+09:00",
+      "title_original": "Mobilisation lycéenne: \"Ce que je refuse, dans la réponse apportée par le gouvernement, c'est le mensonge\", déclare Laurence Garnier, sénatrice LR et porte-parole de Bruno Retailleau",
+      "summary_original": "Chaque jour, les sondages consolident un peu plus l'hypothèse d'un second tour entre Marine Le Pen et Jean-Luc Mélenchon. Dans les rangs de la droite et du centre, l'épineuse question de la primaire n'est toujours pas tranchée. Édouard Philippe se refuse toujours à ce scrutin intermédiaire, tandis que ses trois adversaires se disent prêts à y participer.",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-mobilisation-lyceenne-ce-que-je-refuse-dans-la-reponse-apportee-par-le-gouvernement-c-est-le-mensonge-declare-laurence-garnier-senatrice-lr-et-porte-parole-de-bruno-retailleau_VN-202611150439.html",
+      "published": "2026-11-16T07:39:40+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Michel Drucker: les artistes \"sont plus frileux\" aujourd'hui, observe l'animateur et producteur de télévision",
-      "summary_original": "Michel Drucker, animateur et producteur de télévision, était l'invité de BFMTV ce dimanche 15 novembre",
-      "url": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-michel-drucker-les-artistes-sont-plus-frileux-aujourd-hui-observe-l-animateur-et-producteur-de-television_VN-202611150387.html",
-      "published": "2026-11-16T04:42:07+09:00",
+      "title_original": "Yannick Jadot invité de BFMTV - 15/11",
+      "summary_original": "Chaque week-end, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.",
+      "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-yannick-jadot-invite-de-bfmtv-15-11_VN-202611150436.html",
+      "published": "2026-11-16T07:29:41+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Un artisan de 55 ans poignardé à mort en Ardèche après un vol à l'arrachée",
-      "summary_original": "Ce vendredi 13 novembre, Christophe B., artisan de 55 ans, a été poignardé à mort en pleine rue dans son village de Largentière, en Ardèche, alors qu’il essayait de rattraper un malfaiteur qui venait de voler un téléphone portable à l’arraché sur la voie publique. Le lendemain, un homme de 22 ans a été mis en examen et placé en détention provisoire.",
-      "url": "https://www.bfmtv.com/police-justice/un-artisan-de-55-ans-poignarde-a-mort-en-ardeche-apres-un-vol-a-l-arrachee_AN-202611150385.html",
-      "published": "2026-11-16T04:34:51+09:00",
+      "title_original": "Présidentielle 2027: \"Je n'en vois qu'un qui peut battre Marine Le Pen, c'est Raphaël Glucksmann\", déclare Yannick Jadot, sénateur et soutien du candidat",
+      "summary_original": "Chaque jour, les sondages consolident un peu plus l'hypothèse d'un second tour entre Marine Le Pen et Jean-Luc Mélenchon. Dans les rangs de la droite et du centre, l'épineuse question de la primaire n'est toujours pas tranchée. Édouard Philippe se refuse toujours à ce scrutin intermédiaire, tandis que ses trois adversaires se disent prêts à y participer.",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-je-n-en-vois-qu-un-qui-peut-battre-marine-le-pen-c-est-raphael-glucksmann-declare-yannick-jadot-senateur-et-soutien-du-candidat_VN-202611150432.html",
+      "published": "2026-11-16T07:28:04+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Michel Drucker sur son frère: \"Il me manque terriblement, c'est le drame de ma vie\", raconte l'animateur et producteur de télévision",
-      "summary_original": "Michel Drucker, animateur et producteur de télévision, était l'invité de BFMTV ce dimanche 15 novembre",
-      "url": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-michel-drucker-sur-son-frere-il-me-manque-terriblement-c-est-le-drame-de-ma-vie-raconte-l-animateur-et-producteur-de-television_VN-202611150384.html",
-      "published": "2026-11-16T04:30:18+09:00",
+      "title_original": "Gironde: une femme meurt après avoir été grièvement brûlée par son conjoint",
+      "summary_original": "Une mère de famille est morte dans la nuit de samedi à dimanche. Elle a succombé à ses blessures après avoir été \"très grièvement brûlée\" par son conjoint, lui-même décédé dans l'incendie mardi dernier.",
+      "url": "https://www.bfmtv.com/police-justice/gironde-une-femme-meurt-apres-avoir-ete-grievement-brulee-par-son-conjoint_AD-202611150431.html",
+      "published": "2026-11-16T07:24:29+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Plus de 157 000 signataires, dont Elon Musk, demandent le retour de Jensen Huang à la tête de Nvidia",
+      "summary_original": "Une lettre, dont 7 500 signataires se déclarent salariés de l’entreprise, réclame la réintégration de l’ancien patron du géant américain des semi-conducteurs, au moins le temps de se défendre face aux allégations de relations extraconjugales qui ont provoqué sa chute.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/11/16/plus-de-157-000-signataires-dont-elon-musk-demandent-le-retour-de-jensen-huang-a-la-tete-de-nvidia_6811065_4408996.html",
+      "published": "2026-11-16T08:22:46+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "France-Turquie : le résumé de la qualification laborieuse des Bleus en quarts de finale de la Ligue des nations de football",
+      "summary_original": "L’équipe de France de football a dominé la Turquie (2-1), dimanche à Bordeaux, pour s’adjuger la première place du groupe A. Les Bleus connaîtront leurs adversaires en quarts de finale, vendredi, lors du tirage au sort à Nyon (Suisse).",
+      "url": "https://www.lemonde.fr/sport/article/2026/11/15/france-turquie-le-resume-de-la-qualification-laborieuse-des-bleus-en-quarts-de-finale-de-la-ligue-des-nations-de-football_6811064_3242.html",
+      "published": "2026-11-16T07:24:18+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Benyamin Nétanyahou ne peut pas rester « une minute de plus » à la tête du gouvernement israélien, estime Gadi Eisenkot",
+      "summary_original": "Selon un reportage diffusé dimanche soir, le chef de cabinet du premier ministre sortant a transmis à la police, la veille des législatives, une plainte concernant des militants du parti arabe Raam qui s’est avérée infondée.",
+      "url": "https://www.lemonde.fr/international/article/2026/11/15/benyamin-netanyahou-ne-peut-pas-rester-une-minute-de-plus-a-la-tete-du-gouvernement-israelien-estime-gadi-eisenkot_6811061_3210.html",
+      "published": "2026-11-16T06:27:40+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Gaza : Royaume-Uni, Italie, Australie et Canada appellent Israël à permettre un accès humanitaire « immédiat » et « sans entrave » dans le territoire palestinien",
+      "summary_original": "L’enclave a été frappée par des pluies diluviennes ayant entraîné l’inondation de milliers de tentes de personnes déplacées. Près de 150 000 tentes et autres fournitures vitales sont « bloquées » à la frontière, selon les chefs de la diplomatie des quatre pays occidentaux.",
+      "url": "https://www.lemonde.fr/international/article/2026/11/15/gaza-royaume-uni-italie-australie-et-canada-appellent-israel-a-permettre-un-acces-humanitaire-immediat-et-sans-entrave-dans-le-territoire-palestinien_6811057_3210.html",
+      "published": "2026-11-16T06:01:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -296,7 +332,7 @@
       "title_original": "A Paris, les rassemblements interdits de lundi à vendredi autour de certains lycées et universités",
       "summary_original": "Le préfet de police estime que les blocages sont « le plus souvent » le fait d’une minorité d’élèves, mais « entravent pour tous les autres le droit fondamental à recevoir des enseignements » et attisent la colère de certains parents d’élèves.",
       "url": "https://www.lemonde.fr/societe/article/2026/11/15/a-paris-les-rassemblements-interdits-de-lundi-a-vendredi-autour-de-certains-lycees-et-universites_6811050_3224.html",
-      "published": "2026-11-16T05:45:31+09:00",
+      "published": "2026-11-16T05:45:27+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -320,46 +356,10 @@
     },
     {
       "source": "Le Monde",
-      "title_original": "Suspension des vols aux Etats-Unis : retour à la normale du trafic aérien espéré lundi ; Donald Trump qualifie la gestion de l’aviation par Joe Biden de « désastre »",
-      "summary_original": "Encore plus de 1 500 vols ont été supprimés dimanche matin aux Etats-Unis, après que plus de 18 000 l’avaient déjà été vendredi et samedi. « Nous allons sans doute voir les choses revenir complètement à la normale lundi », a estimé le secrétaire aux transports.",
-      "url": "https://www.lemonde.fr/international/article/2026/11/15/suspension-des-vols-aux-etats-unis-retour-a-la-normale-du-trafic-aerien-espere-lundi-donald-trump-qualifie-la-gestion-de-l-aviation-par-joe-biden-de-desastre_6811046_3210.html",
-      "published": "2026-11-16T03:20:27+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
       "title_original": "« L’organisme, en état d’alerte, se prépare à s’opposer » : ce que la colère produit dans le corps",
       "summary_original": "« Nos émotions : la colère ». Réponse de notre système nerveux face à une menace, une injustice, une frustration, la colère est une émotion complexe, car profondément subjective. Variant de la simple irritation à la fureur. Des études montrent que, mal régulée, elle augmente les risques d’infarctus et d’AVC, et peut même « briser le cœur ».",
       "url": "https://www.lemonde.fr/intimites/article/2026/11/15/l-organisme-en-etat-d-alerte-se-prepare-a-s-opposer-ce-que-la-colere-produit-dans-le-corps_6811044_6190330.html",
       "published": "2026-11-16T03:00:06+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "Ce qu’il faut retenir de l’actualité du week-end des 14 et 15 novembre",
-      "summary_original": "Vous n’avez pas suivi l’actualité ces derniers jours ? Voici ce qu’il s’est passé pendant ces dernières quarante-huit heures.",
-      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/15/ce-qu-il-faut-retenir-de-l-actualite-du-week-end-des-14-et-15-novembre_6811043_4355770.html",
-      "published": "2026-11-16T02:56:38+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "EN DIRECT, France-Turquie : les Bleus poussent pour aggraver le score, Arda Güler se voit refuser son but pour hors-jeu",
-      "summary_original": "Après leur défaite contre les Italiens, les Bleus ont perdu la première place de leur groupe en Ligue des nations. Pour espérer la retrouver et se qualifier pour les quarts de finale, ils devront s’imposer face à la Turquie, dimanche, à Bordeaux.",
-      "url": "https://www.lemonde.fr/sport/live/2026/11/15/en-direct-france-turquie-suivez-le-match-de-ligue-des-nations-de-football_6811042_3242.html",
-      "published": "2026-11-16T02:45:08+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "« Fractures françaises » : un paysage politique clivé, dans lequel l’élection présidentielle n’est plus vue comme une solution",
-      "summary_original": "Réalisée par Ipsos BVA-CESI Ecole d’ingénieurs pour « Le Monde », le Cevipof, la Fondation Jean Jaurès et l’Institut Montaigne, cette grande enquête annuelle sur les valeurs des Français donne un instantané précieux de l’humeur politique du pays à l’approche du scrutin. La société y apparaît de plus en plus en colère, avec un retour du clivage gauche-droite très net.",
-      "url": "https://www.lemonde.fr/politique/article/2026/11/15/fractures-francaises-un-paysage-politique-clive-dans-lequel-l-election-presidentielle-n-est-plus-vue-comme-une-solution_6811038_823448.html",
-      "published": "2026-11-16T02:20:21+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -428,19 +428,46 @@
     },
     {
       "source": "Les Echos",
-      "title_original": "Le temps de la diplomatie est-il venu ?",
-      "summary_original": "Le temps de la diplomatie est-il venu ? Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONmNqLXNONjIxazAwaWNZUEMwOGNhSlhheUtLQlBsWElFdGY3R3BVZlFqaDdvbTNweGtraFR3MVYyLUR4WVJ0NlY5LVpMOUVWN1Fqa3VXV0dkWjlyVWFHOFJMQTZPdjhTRFllcXc1YjZ5b0NwMk5uaVJjZmR4MDJSWTNNbm1xcEFVWUZESEtNRDJqdF90My1PalNvdHVOZlE?oc=5",
-      "published": "2026-11-16T00:10:13+09:00",
+      "title_original": "JSS Investmentfonds SICAV - JSS Twelve Sustainable Insurance Bond",
+      "summary_original": "JSS Investmentfonds SICAV - JSS Twelve Sustainable Insurance Bond Investir Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUmExOVkxelZiTENUODNFMFNOMUpIVi1CWm1ybXEyYmhzWHRjaHd2ay16Z28tcnR6MFVDWjVhTjhXcEcybU5PWDNKSk51S2NRLVA3NmRjQ0lpRWVuTlhnX0dQUWt3cWJweFNlQVZFY1hnb21SamNodE53MWNoNV9JWmtVSEphVVBmT0ROX3Z3YU9BR25mSHNUaXZmOWVSY1FNMGRWd2FMdzZqVTB6SGxSOXdldzlmNUlxRDRWVHNJR05ZcUpha0hubjlyTkxIZFppWDhSR1o1dFdpRlkzUnc?oc=5",
+      "published": "2026-11-16T00:15:35+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Le Figaro",
-      "title_original": "EN DIRECT - France-Turquie : Mbappé n’y arrive pas et manque le but du break, Zidane loin d’être soulagé",
-      "summary_original": "Les Bleus reçoivent la Turquie à Bordeaux ce dimanche pour faire oublier leur défaite en Italie jeudi dernier. Ils n’ont besoin que d’un match nul afin de se qualifier pour les quarts de finale de la Ligue des nations.",
-      "url": "https://www.lefigaro.fr/sports/football/live/ligue-des-nations/2026/2627015/france-turquie",
-      "published": "2026-11-16T06:10:38+09:00",
+      "title_original": "France-Turquie : poussifs mais qualifiés, les Bleus remplissent leur mission",
+      "summary_original": "Dans un match pas toujours maîtrisé, l’équipe de France a dominé la Turquie (2-1) et validé sa qualification en quarts de finale de la Ligue des nations.",
+      "url": "https://www.lefigaro.fr/sports/football/ligue-des-nations/france-turquie-sans-rassurer-les-bleus-de-zidane-se-hissent-en-quarts-de-finale-de-la-ligue-des-nations-20261115",
+      "published": "2026-11-16T08:10:25+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Qualification, agacement et possibles retrouvailles avec l’Espagne : les vérités de Zidane après France-Turquie",
+      "summary_original": "Le sélectionneur de l’équipe de France, très pressé, a répondu aux questions des médias après la victoire contre la Turquie dimanche soir (2-1), synonyme de qualification en quart de finale de Ligue des nations.",
+      "url": "https://www.lefigaro.fr/sports/football/ligue-des-nations/qualification-agacement-et-possible-retrouvaille-avec-l-espagne-les-verites-de-zidane-apres-france-turquie-20261115",
+      "published": "2026-11-16T08:09:45+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Les notes des Bleus face à la Turquie : Mbappé percutant, Da Cunha clairvoyant, Olise agaçant",
+      "summary_original": "Découvrez les notes de l’équipe de France après la victoire contre la Turquie (2-1) dimanche soir lors de la 6e et dernière journée de Ligue des nations.",
+      "url": "https://www.lefigaro.fr/flash-sport/les-notes-des-bleus-mbappe-percutant-da-cunha-clairvoyant-olise-agacant-20261115",
+      "published": "2026-11-16T08:09:43+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Saint-Denis : le proviseur du lycée Paul-Éluard placé en «autorisation d’absence» après des menaces",
+      "summary_original": "Le proviseur est contesté par une partie du personnel de son établissement pour avoir, selon ses détracteurs, fait intervenir la police dans le lycée. Son départ temporaire est salué comme une «victoire» par des enseignants mobilisés.",
+      "url": "https://www.lefigaro.fr/actualite-france/saint-denis-le-proviseur-du-lycee-paul-eluard-place-en-autorisation-d-absence-apres-des-menaces-20261116",
+      "published": "2026-11-16T08:01:43+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -449,61 +476,43 @@
       "title_original": "Blocages à Paris : la préfecture durcit le ton et interdit les rassemblements autour de certains lycées et universités",
       "summary_original": "Face à la multiplication des blocages et des violences aux abords des établissements scolaires, la préfecture de police de Paris a pris un arrêté interdisant les rassemblements non déclarés dans un rayon de 100 mètres autour de dix lycées et cinq sites universitaires, du lundi 16 au vendredi 20 novembre inclus.",
       "url": "https://www.lefigaro.fr/actualite-france/blocages-a-paris-la-prefecture-durcit-le-ton-et-interdit-les-rassemblements-autour-de-certains-lycees-et-universites-20261115",
-      "published": "2026-11-16T06:06:58+09:00",
+      "published": "2026-11-16T07:58:28+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Le Figaro",
-      "title_original": "«La pauvreté atteint des niveaux inédits»: les Restos du Cœur tirent la sonnette d’alarme avant la présidentielle",
-      "summary_original": "À la veille du lancement de leur 42e campagne, les Restos du Cœur organisent lundi un débat télévisé réunissant cinq candidats. L’association entend placer la lutte contre la pauvreté au cœur de la campagne électorale.",
-      "url": "https://www.lefigaro.fr/actualite-france/la-pauvrete-atteint-des-niveaux-inedits-les-restos-du-coeur-tirent-la-sonnette-d-alarme-avant-la-presidentielle-20261115",
-      "published": "2026-11-16T06:06:06+09:00",
+      "title_original": "«Nous n’avons pas été à la hauteur» : Amazon perd 40 satellites après une défaillance de la fusée Vulcan lors de son lancement",
+      "summary_original": "La fusée Vulcan, qui transportait la plus importante cargaison de satellites jamais envoyée par Amazon, a subi une anomalie dix minutes après son décollage de Floride.",
+      "url": "https://www.lefigaro.fr/secteur/high-tech/nous-n-avons-pas-ete-a-la-hauteur-amazon-perd-40-satellites-apres-une-defaillance-de-la-fusee-vulcan-lors-de-son-lancement-20261115",
+      "published": "2026-11-16T07:23:57+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Le Figaro",
-      "title_original": "Londres, Rome, Ottawa et Canberra appellent Israël à permettre un accès humanitaire «immédiat» et «sans entrave» à Gaza",
-      "summary_original": "Alors que l’enclave est frappée par des pluies diluviennes, les chefs de la diplomatie de ces quatre pays occidentaux assurent que 150.000 tentes et autres fournitures vitales sont «bloquées» à la frontière.",
-      "url": "https://www.lefigaro.fr/international/londres-rome-ottawa-et-canberra-appellent-israel-a-permettre-un-acces-humanitaire-immediat-et-sans-entrave-a-gaza-20261115",
-      "published": "2026-11-16T05:49:44+09:00",
+      "title_original": "Détestés à droite, doublés sur leur gauche, déclassés économiquement : le crépuscule des bobos",
+      "summary_original": "RÉCIT - Les scènes d’émeutes du 17 octobre dans le Paris des coffee shops ont mis à nu le déclassement des bobos. Devenue la cible favorite de la gauche mélenchoniste, qui lui reproche sa tiédeur, cette population est en train de perdre son statut économique, rattrapée par l’IA.",
+      "url": "https://www.lefigaro.fr/vox/societe/detestes-a-droite-doubles-sur-leur-gauche-declasses-economiquement-le-crepuscule-des-bobos-20261115",
+      "published": "2026-11-16T06:48:51+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Le Figaro",
-      "title_original": "Les foules et la liesse : le récit du voyage triomphal de Léon XIV en Amérique latine",
-      "summary_original": "RÉCIT - Après onze jours en Uruguay, en Argentine et au Pérou, où près de 10 millions de personnes sont venues l’acclamer, le pape repart ce lundi pour Rome.",
-      "url": "https://www.lefigaro.fr/actualite-france/les-foules-et-la-liesse-le-recit-du-voyage-triomphal-de-leon-xiv-en-amerique-latine-20261115",
-      "published": "2026-11-16T04:53:11+09:00",
+      "title_original": "France-Turquie : en vidéo, les deux buts des Bleus de Zidane qui ont libéré le Stade Atlantique de Bordeaux",
+      "summary_original": "Les Bleus ont battu les Turcs (2-1), ce dimanche à Bordeaux, après leur lourde défaite en Italie, jeudi dernier. Ils décrochent leur billet pour les quarts de finale de la Ligue des nations.",
+      "url": "https://www.lefigaro.fr/sports/football/ligue-des-nations/france-turquie-en-video-le-but-avec-beaucoup-de-reussite-qui-libere-les-bleus-de-zidane-face-aux-turcs-20261115",
+      "published": "2026-11-16T06:47:11+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "Le Figaro",
-      "title_original": "L'élection présidentielle 2027 est «la plus importante de ma vie», affirme François Hollande, refusant encore de se déclarer candidat",
-      "summary_original": "L’ancien président de la République a estimé dimanche que le scrutin de 2027 serait décisif pour l’avenir de la France, appelant à un rassemblement des forces démocratiques face à la montée des extrêmes.",
-      "url": "https://www.lefigaro.fr/elections/presidentielles/l-election-presidentielle-2027-est-la-plus-importante-de-ma-vie-affirme-francois-hollande-refusant-encore-de-se-declarer-candidat-20261115",
-      "published": "2026-11-16T04:49:47+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "France-Turquie : une minute d’applaudissements en hommage aux pompiers de Gironde",
-      "summary_original": "Après les incendies de l’été dernier dans la région bordelaise, un hommage a été rendu aux pompiers dimanche soir avant la rencontre des Bleus face à la Turquie.",
-      "url": "https://www.lefigaro.fr/sports/football/ligue-des-nations/france-turquie-une-minute-d-applaudissements-en-hommage-aux-pompiers-de-gironde-20261115",
-      "published": "2026-11-16T04:28:51+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "Pierre Vermeren : « Les poubelles devant les universités, un triste symbole »",
-      "summary_original": "TRIBUNE - Il fut un temps où le combat des jeunes révoltés passait par le langage, l’argumentation et les slogans. Désormais les poubelles entassées tiennent lieu de communication, illustrant la lente et irréversible dégradation du système scolaire, observe l’historien.",
-      "url": "https://www.lefigaro.fr/vox/societe/pierre-vermeren-les-poubelles-devant-les-universites-un-triste-symbole-20261115",
-      "published": "2026-11-16T04:00:00+09:00",
+      "source": "Libération",
+      "title_original": "Face à la Turquie, les Bleus par une toute petite porte",
+      "summary_original": "Vainqueurs de la Turquie (2-1) à Bordeaux au bout d’un match médiocre, les joueurs tricolores disputeront les quarts de finale de la compétition en mars.",
+      "url": "https://www.liberation.fr/sports/football/ligues-des-nations-les-bleus-par-une-toute-petite-porte-20261115_NZVH5XN6VNAH7ENH33T7CWP5DQ/",
+      "published": "2026-11-16T06:57:57+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -567,15 +576,6 @@
       "summary_original": "La fusillade a eu lieu en marge d’une fête privée qui réunissait 300 personnes dans une villa, samedi 14 novembre aux Abymes, dans l’agglomération de Pointe-à-Pitre.",
       "url": "https://www.liberation.fr/societe/police-justice/guadeloupe-des-tirs-font-un-mort-et-plusieurs-blesses-lors-dune-soiree-20261115_INCPTYTDFFHIXNUTKN3N2JYUGQ/",
       "published": "2026-11-16T03:15:49+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Libération",
-      "title_original": "«Ultrasensibles» de Fanny de Chaillé : des souvenirs plein la quête",
-      "summary_original": "Le nouveau spectacle théâtral et musical de la metteuse en scène, drôle et sensible, est une succession d’histoires autour des souvenirs de famille, porté par huit comédiens géniaux.",
-      "url": "https://www.liberation.fr/culture/ultrasensibles-de-fanny-de-chaille-des-souvenirs-plein-la-quete-20261115_A3WS2DYWVNDUNDN2ONO3ROJYGQ/",
-      "published": "2026-11-16T03:01:00+09:00",
       "via": "rss",
       "state_media": false
     }

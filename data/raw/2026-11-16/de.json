@@ -1,8 +1,44 @@
 {
   "team": "de",
   "team_name_ko": "독일팀",
-  "collected_at": "2026-11-16T06:13:27.445573+09:00",
+  "collected_at": "2026-11-16T08:32:36.484567+09:00",
   "headlines": [
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Volkstrauertag - Soldaten erinnern an ihre gefallenen Kameraden",
+      "summary_original": "Volkstrauertag - Soldaten erinnern an ihre gefallenen Kameraden",
+      "url": "https://www.tagesschau.de/tagesthemen/video-1684410.html",
+      "published": "2026-11-16T07:11:57+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Textilindustrie in Bangladesch unter Druck - gestiegene Energiepreise sorgen für Firmenschließungen",
+      "summary_original": "Textilindustrie in Bangladesch unter Druck - gestiegene Energiepreise sorgen für Firmenschließungen",
+      "url": "https://www.tagesschau.de/tagesthemen/video-1684408.html",
+      "published": "2026-11-16T07:08:22+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "In Prag demonstrieren Hunderttausende Menschen für Medienunabhängigkeit",
+      "summary_original": "In Prag demonstrieren Hunderttausende Menschen für Medienunabhängigkeit",
+      "url": "https://www.tagesschau.de/tagesthemen/video-1684406.html",
+      "published": "2026-11-16T07:00:26+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "SPD auf der Suche nach neuer Führung - Unterstützer von Parteichef Klingbeil melden sich zu Wort",
+      "summary_original": "SPD auf der Suche nach neuer Führung - Unterstützer von Parteichef Klingbeil melden sich zu Wort",
+      "url": "https://www.tagesschau.de/tagesthemen/video-1684404.html",
+      "published": "2026-11-16T06:57:44+09:00",
+      "via": "rss",
+      "state_media": false
+    },
     {
       "source": "ARD Tagesschau",
       "title_original": "Estland schließt ab Dezember Grenzübergänge nach Russland",
@@ -40,38 +76,65 @@
       "state_media": false
     },
     {
-      "source": "ARD Tagesschau",
-      "title_original": "Nach russischen Angriffen auf die Energieinfrastruktur trifft Ukraine offenbar petrochemische Anlage in Russland",
-      "summary_original": "Nach russischen Angriffen auf die Energieinfrastruktur trifft Ukraine offenbar petrochemische Anlage in Russland",
-      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1684366.html",
-      "published": "2026-11-16T04:32:03+09:00",
+      "source": "ZDF heute",
+      "title_original": "England beendet Spaniens Super-Serie",
+      "summary_original": "Spanien hat nach 43 Partien mal wieder ein Fußball-Länderspiel verloren. In Madrid unterlag der Weltmeister in einer hochspannenden Begegnung mit 2:3 gegen England.",
+      "url": "https://www.zdfheute.de/sport/fussball-nations-league/video/spanien-england-highlights-maenner-zusammenfassung-100.html",
+      "published": "2026-11-16T08:00:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "ARD Tagesschau",
-      "title_original": "Debatte um künftige Führung der SPD",
-      "summary_original": "Debatte um künftige Führung der SPD",
-      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1684364.html",
-      "published": "2026-11-16T04:30:05+09:00",
+      "source": "ZDF heute",
+      "title_original": "Belgien kegelt Italien raus",
+      "summary_original": "Belgiens Fußball-Nationalteam hat Italien in die Schranken gewiesen und sich für die K.o.-Runde der Nations League qualifiziert. In Brüssel gewannen die \"Roten Teufel\" mit 4:1.",
+      "url": "https://www.zdfheute.de/sport/fussball-nations-league/video/belgien-italien-highlights-maenner-2026-zusammenfassung-100.html",
+      "published": "2026-11-16T08:00:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "ARD Tagesschau",
-      "title_original": "Bundesweiter Volkstrauertag erinnert an die Opfer von Krieg und Gewaltherrschaft",
-      "summary_original": "Bundesweiter Volkstrauertag erinnert an die Opfer von Krieg und Gewaltherrschaft",
-      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1684362.html",
-      "published": "2026-11-16T04:26:47+09:00",
+      "source": "ZDF heute",
+      "title_original": "Frankreich schlägt Türkei und feiert Gruppensieg",
+      "summary_original": "Frankreich hat seine Nations-League-Gruppe auf Platz eins beendet. Gegen die Türkei setzte sich das Team von Trainder Zinedine Zidan mit 2:1 durch.",
+      "url": "https://www.zdfheute.de/sport/fussball-nations-league/video/frankreich-tuerkei-highlights-maenner-zusammenfassung-100.html",
+      "published": "2026-11-16T08:00:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "ARD Tagesschau",
-      "title_original": "Hunderttausende Menschen demonstrieren in Prag gegen Rundfunkreform",
-      "summary_original": "Hunderttausende Menschen demonstrieren in Prag gegen Rundfunkreform",
-      "url": "https://www.tagesschau.de/video/video-1684360.html",
-      "published": "2026-11-16T04:25:47+09:00",
+      "source": "ZDF heute",
+      "title_original": "Belgien düpiert Italien und steht im Viertelfinale",
+      "summary_original": "Belgien hat mit einem eindrucksvollen Sieg gegen Italien das Viertelfinale der Nations League erreicht. Der Gruppensieg ging an Frankreich, das die Türkei besiegte.",
+      "url": "https://www.zdfheute.de/sport/fussball-nations-league-gruppe-1-belgien-italien-frankreich-tuerkei-100.html",
+      "published": "2026-11-16T07:17:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "England beendet Spaniens Super-Serie und holt Gruppensieg",
+      "summary_original": "Mit einem knappen Sieg in Spanien hat England in der Nations League den Gruppensieg geholt. Für die bereits fürs Viertelfinale qualifizierten Gastgeber endete eine lange Serie.",
+      "url": "https://www.zdfheute.de/sport/fussball-nations-league-gruppe-3-spanien-england-spielbericht-100.html",
+      "published": "2026-11-16T07:03:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Aktuelles zum Krieg in der Ukraine",
+      "summary_original": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
+      "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
+      "published": "2026-11-16T07:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
+      "summary_original": "Die Lage in Nahost ist weiter angespannt - es kommt immer wieder zu Angriffen. Im Westjordanland spitzt sich die Situation zu. Alle Entwicklungen im Liveblog.",
+      "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+      "published": "2026-11-16T07:00:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -81,69 +144,6 @@
       "summary_original": "CSU-Chef Markus Söder fordert im Haushaltsstreit eine Einigung bei der Stromsteuersenkung und der kalten Progression. \"Diese beiden Dinge müssen noch vom Tisch\", sagt er im ZDF.",
       "url": "https://www.zdfheute.de/politik/deutschland/soeder-csu-koalition-haushalt-stromsteuer-muetterrente-100.html",
       "published": "2026-11-16T06:02:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "Aktuelles zum Krieg in der Ukraine",
-      "summary_original": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
-      "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
-      "published": "2026-11-16T05:48:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
-      "summary_original": "Die Lage in Nahost ist weiter angespannt - es kommt immer wieder zu Angriffen. Im Westjordanland spitzt sich die Situation zu. Alle Entwicklungen im Liveblog.",
-      "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
-      "published": "2026-11-16T05:48:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "Klopp: Infantino schlimmer als Blatter",
-      "summary_original": "Jürgen Klopp hat seine Meinung zu FIFA-Chef Gianni Infantino deutlich gemacht: Der Schweizer sei schlimmer als sein viel kritisierter Vorgänger Sepp Blatter.",
-      "url": "https://www.zdfheute.de/sport/video/fussball-klopp-infantino-fifa-100.html",
-      "published": "2026-11-16T05:39:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "Alex Popp entscheidet Derby BVB gegen Schalke",
-      "summary_original": "Wohl dem, der eine Alexandra Popp in seinen Reihen hat: Die Ex-Nationalspielerin entscheidet das Revierderby gegen Schalke mit drei Treffern zugunsten von Borussia Dortmund.",
-      "url": "https://www.zdfheute.de/sport/video/fussball-frauen-dortmund-schalke-popp-100.html",
-      "published": "2026-11-16T05:36:07+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "600 Schafe ziehen durch Nürnberger Innenstadt",
-      "summary_original": "Diesen Sonntag ist eine Schafsherde samt Schäfer durch Nürnbergs Innenstadt gezogen: Die Tiere wurden wie jeden Herbst von ihren Sommerweiden auf ihre Winterweiden getrieben.",
-      "url": "https://www.zdfheute.de/video/nuernberg-schafe-tradition-100.html",
-      "published": "2026-11-16T05:32:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "Estland schließt Grenzübergänge zu Russland",
-      "summary_original": "Nach einem versuchten Brandanschlag auf ein Rüstungsunternehmen schließt Estland seine Grenze zu Russland. Es gebe eindeutige Hinweise auf eine Beteiligung des Geheimdienstes GRU.",
-      "url": "https://www.zdfheute.de/politik/ausland/estland-grenze-russland-sabotage-drohnenhersteller-100.html",
-      "published": "2026-11-16T05:30:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "Klopp will Niederländern \"Stock in die Speichen halten\"",
-      "summary_original": "Die Vorfreude ist spürbar bei Jürgen Klopp und seiner Mannschaft: In der Nations League will die DFB-Elf mit einem Sieg gegen die Niederlande das Weiterkommen sichern.",
-      "url": "https://www.zdfheute.de/sport/fussball-nations-league-deutschland-niederlande-vorbericht-nach-pk-100.html",
-      "published": "2026-11-16T04:35:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -211,11 +211,47 @@
       "state_media": false
     },
     {
-      "source": "Deutsche Welle",
-      "title_original": "Papst Leo XIV. zu Besuch in seinem früheren Bistum in Peru",
-      "summary_original": "Gut sieben Jahre war der heutige Papst Leo XIV. Bischof von Chiclayo in Peru. Im Rahmen seiner Südamerikareise kehrte er nun an seine alte Wirkungsstätte zurück - und wurde dort wie ein Popstar empfangen.",
-      "url": "https://www.dw.com/de/papst-leo-xiv-zu-besuch-in-seinem-früheren-bistum-in-peru/a-79947665?maca=de-rss-de-all-1119-rdf",
-      "published": "2026-11-14T20:28:00+09:00",
+      "source": "n-tv",
+      "title_original": "DFB-\"Endspiel\" gegen \"Oranje\": Bei Jürgen Klopp läuft die \"Party im Kopf\" schon",
+      "summary_original": "Jetzt zählt es zum ersten Mal so richtig: Für die deutsche Fußball-Nationalmannschaft geht es gegen die Niederlande nicht nur um eine Rivalität. Es steht das wichtigste Spiel seit dem WM-Aus an. Bundestrainer Jürgen Klopp freut sich.",
+      "url": "https://www.n-tv.de/sport/fussball/Bei-Juergen-Klopp-laeuft-die-Party-im-Kopf-schon-id31536680.html",
+      "published": "2026-11-16T08:22:47+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "\"127.000 Jobs sind bedroht\": Kliniken befürchten neue Pleitewelle",
+      "summary_original": "Die Gesundheitsreform kommt mit Macht bei den Krankenhäusern an. Die Deutsche Krankenhausgesellschaft rechnet mit hohen Rückforderungen der Krankenkassen. Insgesamt werden die Kürzungen die Kliniken zu einem harten Personalabbau zwingen.",
+      "url": "https://www.n-tv.de/wirtschaft/Kliniken-befuerchten-neue-Pleitewelle-id31536718.html",
+      "published": "2026-11-16T08:01:39+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Kalte Dusche für Italien : Türkische Nationalelf verliert auch die sechste Nations-League-Partie",
+      "summary_original": "Sechstes Spiel, sechste Niederlage: Die türkische Fußball-Nationalmannschaft hat die Nations-League-Gruppenphase mit einer weiteren Pleite gegen Frankreich abgeschlossen. Italien erlebt gegen Belgien wieder einen bitteren Abend.",
+      "url": "https://www.n-tv.de/sport/Tuerkische-Nationalelf-verliert-auch-die-sechste-Nations-League-Partie-id31536665.html",
+      "published": "2026-11-16T06:53:33+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Konzert in Westminster Abbey : Kein Platz für Harry und Meghan bei Kates Weihnachtskonzert?",
+      "summary_original": "Liebe, Freundlichkeit und Fürsorge: Unter diesem Motto steht in diesem Jahr Prinzessin Kates Weihnachtskonzert in der Westminster Abbey. Prinz Harry und Herzogin Meghan sind offenbar nicht eingeladen.",
+      "url": "https://www.n-tv.de/leute/Kein-Platz-fuer-Harry-und-Meghan-bei-Kates-Weihnachtskonzert-id31536685.html",
+      "published": "2026-11-16T06:48:13+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Weltmeister wacht zu spät auf: Kane und die Three Lions zerstören Spaniens Weltrekord-Serie",
+      "summary_original": "Über zwei Jahre lang hat die spanische Fußball-Nationalmannschaft nicht mehr verloren. Jetzt ist es passiert: Im letzten Gruppenspiel der Nations League fügt England um Kapitän Harry Kane dem Weltmeister wieder eine Niederlage zu.",
+      "url": "https://www.n-tv.de/sport/Kane-und-die-Three-Lions-zerstoeren-Spaniens-Weltrekord-Serie-id31536658.html",
+      "published": "2026-11-16T06:45:30+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -243,51 +279,6 @@
       "summary_original": "In der Straße von Hormus befinden sich noch immer zahlreiche Minen im Wasser. Nun soll erneut ein Schiff auf eine Mine aufgelaufen sein. Der Öltanker fängt zunächst Feuer und soll mittlerweile gesunken sein. Es soll aber nicht das einzige Schiff sein, das Schaden genommen hat.",
       "url": "https://www.n-tv.de/politik/Supertanker-sinkt-wohl-in-Strasse-von-Hormus-id31536474.html",
       "published": "2026-11-16T04:40:59+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "n-tv",
-      "title_original": "Nach landesweitem Flugstopp: Flugverkehr in den USA wohl erst am Montag vollständig normalisiert",
-      "summary_original": "Am Freitag löst veraltete Technik bei der Flugsicherung einen mehrstündigen Flugstopp im US-Luftverkehr aus. Die vollständige Normalisierung dauert länger als ursprünglich angenommen. Unterdessen wird sich die Verantwortung gegenseitig zugeschoben.",
-      "url": "https://www.n-tv.de/wirtschaft/Flugverkehr-in-den-USA-wohl-erst-am-Montag-vollstaendig-normalisiert-id31536490.html",
-      "published": "2026-11-16T04:21:07+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "n-tv",
-      "title_original": "\"Gerne treffen\": Zverev und Becker wollen das verbale Kriegsbeil begraben",
-      "summary_original": "Seit Wochen streiten sich Deutschlands Tennis-Größen Alexander Zverev und Boris Becker öffentlich. Beide lenken nun ein - Zverev wünscht sich ein klärendes Gespräch mit der Tennis-Ikone.",
-      "url": "https://www.n-tv.de/sport/tennis/Zverev-und-Becker-wollen-das-verbale-Kriegsbeil-begraben-id31536570.html",
-      "published": "2026-11-16T04:20:52+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "n-tv",
-      "title_original": "Nach 1467 Tagen Sperre: Über 50.000 Fans feiern das emotionale Comeback von Mario Vuskovic",
-      "summary_original": "Es ist der spektakulärste Doping-Fall im deutschen Fußball: Nach 1467 Tagen kehrt der vier Jahre lange gesperrte Mario Vuskovic zurück. Die HSV-Fans bereiten dem Kroaten einen emotionalen Empfang.",
-      "url": "https://www.n-tv.de/sport/fussball/Ueber-50-000-Fans-feiern-das-emotionale-Comeback-von-Mario-Vuskovic-id31536390.html",
-      "published": "2026-11-16T03:32:51+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "n-tv",
-      "title_original": "AfD im Aufwind, FDP desolat: Schwarz-Grün könnte trotz schwächelnder CDU in NRW weiterregieren",
-      "summary_original": "Im Bund läuft es in Umfragen nicht rund für die Regierung. Das sieht in Nordrhein-Westfalen anders aus. Zwar lässt auch dort die CDU in einer aktuellen Befragung ein wenig Federn, steht aber deutlich besser da. Auch beim Koalitionspartner, den Grünen, tut sich etwas in der Wählergunst.",
-      "url": "https://www.n-tv.de/politik/Schwarz-Gruen-koennte-trotz-schwaechelnder-CDU-in-NRW-weiterregieren-id31536357.html",
-      "published": "2026-11-16T03:30:49+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "n-tv",
-      "title_original": "El Hierro besonders betroffen: Mehr als 1500 Migranten erreichen Kanaren",
-      "summary_original": "Es ist eine neue Tageshöchstzahl für die Kanaren: Mehr als 1500 Menschen erreichen die Inselgruppe vor der Nordwestküste Afrikas in nur einem Tag. Für die Insel El Hierro stellt das eine besondere Herausforderung dar.",
-      "url": "https://www.n-tv.de/politik/Mehr-als-1500-Migranten-erreichen-Kanaren-id31536382.html",
-      "published": "2026-11-16T03:30:19+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -365,6 +356,15 @@
     },
     {
       "source": "Handelsblatt",
+      "title_original": "Nvidia: Huang spricht offenbar über Rückkehr an Nvidia-Spitze – Bessent fordert neuen Chef von außerhalb",
+      "summary_original": "Der in Ungnade gefallene Nvidia-Chef spricht mit Verbündeten offenbar über eine mögliche Rückkehr. Rückhalt aus dem Weißen Haus wird indes unwahrscheinlich.",
+      "url": "https://www.handelsblatt.com/technik/it-internet/nvidia-huang-spricht-offenbar-ueber-rueckkehr-an-nvidia-spitze-bessent-fordert-neuen-chef-von-ausserhalb/100270044.html",
+      "published": "2026-11-16T06:32:48+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
       "title_original": "Flugverkehr: Airlines streichen weitere Flüge – US-Präsident Trump schaltet sich ein",
       "summary_original": "Die Nachwirkungen des mehrstündigen Startverbots in den USA sind über das gesamte Wochenende zu spüren. Auf die Ursache reagiert US-Präsident Trump mit Forderungen an den Kongress.",
       "url": "https://www.handelsblatt.com/politik/international/flugverkehr-tausende-fluege-gestrichen-trump-schaltet-sich-ein/100269925.html",
@@ -419,19 +419,19 @@
     },
     {
       "source": "Handelsblatt",
-      "title_original": "+++ Iran-Krieg +++: Iran: Revolutionsgarden greifen US-Stützpunkt in Bahrain an",
-      "summary_original": "Zwei Tanker in Straße von Hormus auf Minen gelaufen +++ Jemen: Regierungstruppen ziehen sich von strategischer Meerenge zurück +++ Bahrain wehrt iranische Luftangriffe ab +++ Der Newsblog.",
-      "url": "https://www.handelsblatt.com/politik/international/iran-krieg-revolutionsgarden-greifen-us-stuetzpunkt-in-bahrain-an/100136895.html",
-      "published": "2026-11-15T22:56:54+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Handelsblatt",
       "title_original": "Inside America: Trotz KI-Weltuntergang: Ein Hoch auf die Altersvorsorge",
       "summary_original": "Ein KI-Sicherheitsforscher in den USA sorgt nicht mehr finanziell fürs Alter vor. Warum das trotz aller berechtigten Sorgen ein falsches Signal sendet.",
       "url": "https://www.handelsblatt.com/meinung/kolumnen/kolumne-trotz-ki-weltuntergang-ein-hoch-auf-die-altersvorsorge/100269546.html",
       "published": "2026-11-15T22:10:46+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "New Orleans: Steuerungsausfall verursachte Kollision von Tanker und Schaufelradschiff",
+      "summary_original": "Nach dem Schiffsunglück auf dem Mississippi, bei dem ein Tanker ein Schaufelradschiff mit 197 Personen an Bord gerammt hat, gibt es erste Erkenntnisse zur Ursache: Ein Steuerungsausfall des Tankers hat laut US-Behörden zur Kollision geführt.",
+      "url": "https://www.spiegel.de/panorama/new-orleans-steuerungsausfall-verursachte-kollision-von-tanker-und-schaufelradschiff-a-a72e688a-6d69-4b02-8702-afe63815d4ea#ref=rss",
+      "published": "2026-11-16T07:21:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -495,15 +495,6 @@
       "summary_original": "Die Europäer wollen den hochumstrittenen Fifa-Chef Gianni Infantino stürzen. Nun meldet sich auch Bundestrainer Jürgen Klopp zu Wort – mit einer deutlichen Ansage.",
       "url": "https://www.spiegel.de/sport/fussball/fifa-juergen-klopp-wuenscht-sich-abgang-von-gianni-infantino-a-77935530-8138-4add-9099-6a7a3aa53000#ref=rss",
       "published": "2026-11-16T03:35:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Der Spiegel",
-      "title_original": "Spanien vor der Wahl: Verliert Linken-Posterboy Pedro Sánchez sein Land an die Rechten?",
-      "summary_original": "Weil er sich gegen Trumps Irankrieg stellte, wurde Pedro Sánchez weltweit zum Held der Linken. Doch nun droht ausgerechnet dem gefeierten Spanier ein schneller Absturz – mit schwerwiegenden Folgen.",
-      "url": "https://www.spiegel.de/ausland/spanien-vor-der-wahl-verliert-linken-posterboy-pedro-sanchez-sein-land-an-die-rechten-a-e06b9c16-b930-4208-bf10-cb7631de5c6a#ref=rss",
-      "published": "2026-11-16T03:29:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -653,73 +644,73 @@
     },
     {
       "source": "Die Zeit",
-      "title_original": "Südamerika-Reise: Papst warnt vor Zerstörung des Amazonas-Regenwalds",
-      "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/15/papst-feiert-gottesdienst-in-3-700-metern-hoehe-in-den-anden",
-      "published": "2026-11-16T06:01:15+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "»Tatort« Münster: Das macht doch überhaupt keinen Sinn",
-      "summary_original": "Im neuen Münsteraner »Tatort« geht ein Gardetanz-Trainer an vergifteten Kamellen zugrunde. Dabei verheddert sich die Folge in ihrem Kostüm.",
-      "url": "https://www.zeit.de/feuilleton/film/2026-11/tatort-muenster-ard-narrentanz-karneval-lou-strenger",
-      "published": "2026-11-16T05:45:54+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "Gaza: Vier Staaten fordern Israel zum Stopp der Blockade von Gaza-Hilfe auf",
+      "title_original": "Gaza: Vier Staaten fordern Israel zum Stopp der Blockade von Gazahilfe auf",
       "summary_original": "Israel solle Durchlass für humanitäre Hilfe nach Gaza geben, verlangen vier Staaten. Im Westjordanland hat Israels Armee einen AFP-Journalisten festgenommen. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/2025-10/krieg-gaza-israel-hamas-liveblog",
-      "published": "2026-11-16T05:43:47+09:00",
+      "published": "2026-11-16T08:11:43+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Fotografie: Bilder des Tages",
+      "title_original": "Ministerpräsident: Grüne suchen überparteilichen Kandidaten für Sachsen-Anhalt",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/15/bilder-des-tages",
-      "published": "2026-11-16T05:39:18+09:00",
+      "url": "https://www.zeit.de/news/2026-11/16/gruene-suchen-ueberparteilichen-kandidaten-fuer-sachsen-anhalt",
+      "published": "2026-11-16T08:03:04+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Fotografie: Bilder des Tages",
+      "title_original": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: Hamburg, was war das bloß für ein Jahr!",
+      "summary_original": "Die Elbvertiefung am Montag – mit einem Hamburger Drogenpaten, den die Polizei seit Jahren sucht, dem 90. Geburtstag von Wolf Biermann und Mario Voskovic zurück beim HSV",
+      "url": "https://www.zeit.de/hamburg/2026-11/elbvertiefung-16-11-2026",
+      "published": "2026-11-16T08:00:06+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Kalenderblatt: Was geschah am 16. November?",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/14/bilder-des-tages",
-      "published": "2026-11-16T05:39:01+09:00",
+      "url": "https://www.zeit.de/news/2026-11/15/was-geschah-am-16-november",
+      "published": "2026-11-16T07:55:04+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Eishockey: Eishockey-U20-WM ohne Russland - Russen kündigen Protest an",
+      "title_original": "Nvidia-Skandal: Jensen Huang erwägt laut Bericht Rückkehr als Nvidia-Chef",
+      "summary_original": "Jensen Huangs Rücktritt aus der Nvidia Geschäftsführung liegt erst wenige Tage zurück. Trotzdem plant er laut einem Medienbericht die Rückkehr an die Unternehmensspitze.",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/jensen-huang-nvidia-ceo-rueckkehr-elon-musk-altimeter-capital",
+      "published": "2026-11-16T07:50:55+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Nations League: Dramatischer 3:2-Sieg: England schlägt Weltmeister Spanien",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/15/offiziell-eishockey-u20-wm-in-kanada-ohne-russland",
-      "published": "2026-11-16T05:35:49+09:00",
+      "url": "https://www.zeit.de/news/2026-11/15/dramatischer-3-2-sieg-england-schlaegt-weltmeister-spanien",
+      "published": "2026-11-16T06:50:25+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Deutsche Eishockey Liga: Eisbären Berlin verlieren auch gegen Schwenningen",
+      "title_original": "Chip-Konzern: Bericht: Jensen Huang spricht über Rückkehr an Nvidia-Spitze",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/15/eisbaeren-berlin-verlieren-auch-gegen-schwenningen",
-      "published": "2026-11-16T05:34:28+09:00",
+      "url": "https://www.zeit.de/news/2026-11/15/bericht-jensen-huang-spricht-ueber-rueckkehr-an-nvidia-spitze",
+      "published": "2026-11-16T06:42:26+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Jürgen Klopp: Klopp spricht sich für neue Fifa-Führung aus",
-      "summary_original": "Bundestrainer Jürgen Klopp hat den Fifa-Präsidenten Gianni Infantino deutlich kritisiert. Als Gegenkandidaten schlägt er Fifa-Direktor Arsène Wenger vor.",
-      "url": "https://www.zeit.de/sport/2026-11/juergen-klopp-gianni-infantino-fifa-praesident-kritik-gxe",
-      "published": "2026-11-16T05:12:49+09:00",
+      "title_original": "Haushaltsentwurf: Söder will Stromsteuersenkung ohne Kürzung der Mütterrente",
+      "summary_original": "Der CSU-Chef hält die von der Union versprochene Senkung der Stromsteuer für finanzierbar. Die Ausweitung der Mütterrente solle dafür nicht herhalten, sagt Markus Söder.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/muetterrente-csu-markus-soeder-stromsteuer",
+      "published": "2026-11-16T06:30:40+09:00",
       "via": "rss",
       "state_media": false
     }
