@@ -1,0 +1,998 @@
+{
+  "team": "fr",
+  "headlines": [
+    {
+      "source": "France 24",
+      "title_original": "Maileva : nouvelle cyberattaque contre une société française",
+      "title_ko": "마일레바: 프랑스 기업 겨냥한 새 사이버 공격",
+      "summary_ko": "라포스트 자회사 마일레바에서 고객 2,200만 명의 이름·주소 등 정보가 탈취됐다. 지난주 크레디 뮈튀엘 아르케아, 지난여름 국세청 등에 이은 최근 피해 사례다.",
+      "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261116-maileva-nouvelle-cyberattaque-contre-une-soci%C3%A9t%C3%A9-fran%C3%A7aise",
+      "published": "2026-11-17T04:57:51+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "maileva-cyberattack",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "L’Ukraine au pied du mur ?",
+      "title_ko": "벼랑 끝에 선 우크라이나?",
+      "summary_ko": "프랑스 대선 캠페인과 유럽에서 우크라이나 재정 지원이 의문시되는 가운데, 미국은 젤렌스키에게 돈바스 철수와 나토 가입 교환을 제안했다. 다섯 번째 전쟁 겨울을 앞두고 우크라이나는 외교·군사·재정 압박을 받고 있다.",
+      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261116-l-ukraine-au-pied-du-mur",
+      "published": "2026-11-17T04:19:41+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-peace-negotiations",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Emmanuel Macron assure avoir fait de son mieux malgré des \"erreurs\"",
+      "title_ko": "마크롱 \"실수\" 있었지만 최선 다했다고 밝혀",
+      "summary_ko": "마크롱 대통령이 첫 대선 출마 선언 10주년을 맞아 X에 '최선을 다했다'며 '때로 실수'도 있었다고 인정했다. 두 번째 임기 종료 6개월 전이다.",
+      "url": "https://www.france24.com/fr/france/20261116-macron-assure-avoir-fait-de-son-mieux-malgr%C3%A9-des-erreurs",
+      "published": "2026-11-17T03:35:29+09:00",
+      "tags": [],
+      "event": "macron-ten-year-reflection",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "COP31: les lobbys pèsent sur les négociations",
+      "title_ko": "COP31: 로비 단체들이 협상에 영향력 행사",
+      "summary_ko": "안탈리아 협상이 막바지에 들어선 가운데 화석연료 관련 로비 단체 100여 곳이 COP31에 공식 등록됐다는 집계가 나왔다. 탄소 포집·저장을 홍보하는 로비스트도 기록적 규모라고 한 NGO가 지적했다.",
+      "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261116-cop31-les-lobbys-p%C3%A8sent-sur-les-n%C3%A9gociations",
+      "published": "2026-11-17T03:14:05+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "cop31-lobbying",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "CAN 2027 : la Guinée fait le travail, le Ghana met la pression, le Bénin quasi qualifié",
+      "title_ko": "CAN 2027 예선: 기니 임무 완수, 가나 압박, 베냉 사실상 본선행",
+      "summary_ko": "가나와 기니가 소말리아·에리트레아를 꺾고 유리한 위치로 예선 일정을 마쳤다. 베냉은 화요일 모리타니-부르키나파소 결과에 따라 본선 진출이 확정될 수 있다.",
+      "url": "https://www.france24.com/fr/sports/20261116-can-2027-guinee-ghana-met-la-pression-benin",
+      "published": "2026-11-17T03:01:12+09:00",
+      "tags": [],
+      "event": "can-2027-qualifiers",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "La primaire de la droite, \"un aveu d’échec\" pour Gabriel Attal et Bruno Retailleau",
+      "title_ko": "우파 경선은 \"실패의 자인\"…아탈과 르타요",
+      "summary_ko": "오랫동안 반대하던 아탈과 르타요가 우파·중도 단일 후보 경선을 요구하고 나섰다. 대선 결선이 르펜-멜랑숑 대결이 되는 것을 막으려는 것으로, 두 사람의 지지율 동반 하락과 맞물린 입장 변화다.",
+      "url": "https://www.france24.com/fr/france/20261116-france-presidentielle-2027-primaire-de-la-droite-un-aveu-dechec-pour-gabriel-attal-et-bruno-retailleau",
+      "published": "2026-11-17T02:57:20+09:00",
+      "tags": [],
+      "event": "right-centre-primary",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "JOJ Dakar 2026 : une première olympique réussie pour l'Afrique",
+      "title_ko": "다카르 2026 유스올림픽: 아프리카 첫 올림픽 성공적 마무리",
+      "summary_ko": "다카르 유스올림픽이 끝났으며 아프리카 5개국이 메달 순위 10위 안에 들었다. 선수와 관계자들은 아프리카 대륙 첫 올림픽 대회 운영을 호평했다.",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261116-joj-dakar-2026-une-premi%C3%A8re-olympique-r%C3%A9ussie-pour-l-afrique",
+      "published": "2026-11-17T02:49:55+09:00",
+      "tags": [],
+      "event": "dakar-youth-olympics",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "La Francophonie en crise ?",
+      "title_ko": "위기의 프랑코포니?",
+      "summary_ko": "국제프랑코포니기구(OIF) 사무총장 선출이 콩고민주공화국과 르완다 간 긴장 속에 1년 연기됐다. 기구 역사상 처음이다.",
+      "url": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261116-la-francophonie-en-crise",
+      "published": "2026-11-17T02:49:17+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "oif-election-postponed",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "\"La conversation n'a pas été facile\" : de premiers pourparlers se sont tenus entre l'Ukraine, l'Europe et les Etats-Unis, annonce Volodymyr Zelensky",
+      "title_ko": "젤렌스키 \"대화 쉽지 않았다\"…우크라이나·유럽·미국 첫 협상 개최",
+      "summary_ko": "독일·프랑스·이탈리아·폴란드·영국 협상단이 온라인 회의에 참여했다.",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-conversation-n-a-pas-ete-facile-de-premiers-pourparlers-se-sont-tenus-entre-l-ukraine-l-europe-et-les-etats-unis-annonce-volodymyr-zelensky_8285417.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-17T05:23:42+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-peace-negotiations",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "Grève dans la fonction publique, perturbations dans les transports, manifestations… A quoi s'attendre pour la mobilisation du 17 novembre ?",
+      "title_ko": "공공부문 파업·교통 차질·시위…11월 17일 총동원 무엇을 예상하나",
+      "summary_ko": "노조가 화요일 공공부문·교육·교통 종사자 파업을 촉구했다. 수십 건의 시위가 예고됐으며 고교생·대학생·노란조끼도 합류할 예정이다.",
+      "url": "https://www.franceinfo.fr/societe/manifestations/greves-dans-la-fonction-publique-mouvement-lyceen-manifestations-a-quoi-s-attendre-pour-la-mobilisation-du-17-novembre_8284415.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-17T04:54:31+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "nov17-national-strike",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "\"J'ai fait de mon mieux\" : à six mois de la fin de son mandat, Emmanuel Macron reconnaît \"des erreurs\" au cours de ses dix ans au pouvoir",
+      "title_ko": "\"최선을 다했다\": 임기 6개월 남긴 마크롱, 집권 10년 \"실수\" 인정",
+      "summary_ko": "마크롱 대통령이 첫 대선 출마 선언 10주년을 맞아 월요일 X에 글을 올렸다.",
+      "url": "https://www.franceinfo.fr/elections/j-ai-fait-de-mon-mieux-a-six-mois-de-la-fin-de-son-mandat-emmanuel-macron-reconnait-des-erreurs-au-cours-de-ses-dix-ans-au-pouvoir_8285318.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-17T04:53:52+09:00",
+      "tags": [],
+      "event": "macron-ten-year-reflection",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "Le gouvernement britannique gracie les femmes condamnées pour avoir avorté, après l'entrée en vigueur d'une loi dépénalisant l'IVG hors délai",
+      "title_ko": "영국 정부, 낙태로 유죄 판결받은 여성 사면…기한 외 낙태 비범죄화 법 시행 뒤",
+      "summary_ko": "최근까지 영국에서는 임신 24주 이후 또는 의료 승인 없이 낙태한 여성이 재판·수감될 수 있었다.",
+      "url": "https://www.franceinfo.fr/societe/ivg/le-gouvernement-britannique-gracie-les-femmes-condamnees-pour-avoir-avorte-apres-l-entree-en-vigueur-d-une-loi-depenalisant-l-ivg-hors-delai_8285327.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-17T04:29:40+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "uk-abortion-pardon",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "Adolescent mortellement fauché dans le Puy-de-Dôme : deux hommes mis en examen",
+      "title_ko": "퓌드돔 10대 치사 사고: 두 남성 기소",
+      "summary_ko": "가제르에서 금요일 발생한 도로 살인 사건에 연루된 혐의로 22세·19세 남성 2명이 예심 기소됐다고 클레르몽페랑 검찰이 밝혔다.",
+      "url": "https://www.franceinfo.fr/faits-divers/adolescent-mortellement-fauche-dans-le-puy-de-dome-deux-hommes-mis-en-examen_8285369.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-17T04:03:14+09:00",
+      "tags": [],
+      "event": "gerzat-teen-road-death",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "\"On a massacré son innocence\" : au procès de \"la petite martyre de l'A10\", vingt ans et quatorze ans de prison requis contre la mère et le père d'Inass Touloub",
+      "title_ko": "'A10 고속도로 소녀' 재판: 친모 징역 20년·친부 14년 구형",
+      "summary_ko": "할리마 엘박티와 아메드 투룹이 루아르에셰르 중죄법원에서 각각 고문·만행으로 인한 치사 및 그 공범 혐의로 2주째 재판을 받고 있다.",
+      "url": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/petite-martyre-de-l-a10-vingt-ans-de-reclusion-ont-ete-requis-contre-la-mere-d-inass-touloub-et-quatorze-ans-contre-son-pere_8285060.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-17T03:02:31+09:00",
+      "tags": [],
+      "event": "a10-child-trial",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "Le renoncement de Gérard Depardieu à son procès en appel est \"un mélange de frustration et de soulagement\", selon l'avocate d'une des deux victimes de l'acteur",
+      "title_ko": "드파르디외 항소 포기는 \"좌절과 안도가 섞인 것\"…피해자 측 변호인",
+      "summary_ko": "변호인은 드파르디외가 성적 농담이 아니라 성추행으로 유죄 판결을 받았다고 강조했다.",
+      "url": "https://www.franceinfo.fr/culture/cinema/depardieu/le-renoncement-de-gerard-depardieu-a-son-proces-en-appel-est-un-melange-de-frustration-et-de-soulagement-selon-l-avocate-d-une-des-deux-victimes-de-l-acteur_8285288.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-17T03:02:25+09:00",
+      "tags": [],
+      "event": "depardieu-appeal-dropped",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "Après sa condamnation dans l'affaire des \"Volets verts\", on fait le point sur les plaintes et accusations de violences sexistes et sexuelles qui visent Gérard Depardieu",
+      "title_ko": "'볼레 베르' 사건 유죄 이후, 드파르디외를 둘러싼 성폭력 고소·의혹 정리",
+      "summary_ko": "드파르디외가 월요일 항소를 포기하고 두 고소인에게 사과해 성추행에 대한 집행유예 18개월 형이 확정됐다.",
+      "url": "https://www.franceinfo.fr/culture/cinema/depardieu/apres-sa-condamnation-dans-l-affaire-des-volets-verts-on-fait-le-point-sur-les-plaintes-et-accusations-de-violences-sexistes-et-sexuelles-qui-visent-gerard-depardieu_8284541.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-17T02:55:37+09:00",
+      "tags": [],
+      "event": "depardieu-appeal-dropped",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "\"Ça, je ne l'ai jamais joué\" : @audrey.fleurot nous raconte les coulisses de la série évènement de TF1 \"La Comtesse de Monte-Cristo\"",
+      "title_ko": "오드리 플뢰로, TF1 화제 시리즈 '몬테크리스토 백작부인' 뒷이야기 전해",
+      "summary_ko": "TF1 시리즈 '몬테크리스토 백작부인' 출연 배우 오드리 플뢰로의 촬영 뒷이야기 소개 (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOcE00bnBaWDFpTGNGUTJNaUE0Ujl5SUlCeFgwSUJ6UUhOX0dvVDlTcFdRNkVUQm9BVnFxaUctSHgyaVNWalhEZkl4SGF2M05Vckx6TkRLQ1UxT1E1S0ZZUE0wUGtSVnFlMm5idV9WNmN0S0s1VzVENXRGZTM2Sldyd1BmWlZXY3R4YkgyTVBHSi13UVlEUlZyYWRkbndiSHhxVmo3TjRSQmVCRzcyMlZsNURsaTZLc2Z4RnJrblhIb1ZpdFFzbGdUZFFXSkdXZjV4SWIwSHZURWV0bDU4MWtnQ3J2RTFQMC1VUldmaWdJRDhnS056MTl4RWVNZWxjY1ZmOTZfc2cwd2hWNUttSDlUa0dzWDNFdw?oc=5",
+      "published": "2026-11-17T06:00:33+09:00",
+      "tags": [],
+      "event": "tf1-monte-cristo-series",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Certaines relations peuvent être motivées par un intérêt : si votre partenaire se comporte ainsi, c'est qu'il ne vous \"aime\" pas pour les bonnes raisons",
+      "title_ko": "이해관계로 맺어진 관계: 파트너가 이렇게 행동하면 잘못된 이유로 '사랑'하는 것",
+      "summary_ko": "연애 관계에 관한 생활 정보 기사 (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPLUlzQVJrSGdXUW5LMnJ5TnhsdWwzWi1OUmt5VWtGMWNGR1E4LTlfYXhoc29MQ0J5a3YyMkVOUzVpczFXX2FCSFhDTVVPcXltNEFfWUZaUEVRVC1xRHdMY1lqVEw4WVp4RzFBa29zV0pwcXJ1MlZpVkozLVdfaGFoVTgyX3J4LUt3OGp6SFBsUmFMb1J6YlUySWoyRXFlWkNSVmxiVWctcjlhTlVHRTR4QUlPNFRGZ0xTWl9RTzlVb2RpQ1FOV3pCN0g3TlM4V0pDaEp6bTlaVEwwZUlVNHVwY0FEamJLQnRVMld3ZXZrbmhfTkdtX3lNalY3WDNPczN6NHo4LXBwSEdzbkpHX25uN1BjUk80eWZRRzJZ?oc=5",
+      "published": "2026-11-17T06:00:15+09:00",
+      "tags": [],
+      "event": "relationship-advice",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Violences du 17 octobre : le maire de Paris évoque un niveau historique \"d'atteinte aux biens privés\"",
+      "title_ko": "10월 17일 폭력 사태: 파리 시장 \"사유재산 피해\" 역대 최고 수준 언급",
+      "summary_ko": "파리 시장이 10월 17일 폭력 사태로 인한 사유재산 피해가 역대 최고 수준이라고 언급했다 (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTGc0Q251c3NuQTlWQl82SnZXZEhSM3VETkItSDI5QWEzM1VDbFhkRHUxeDRyTGNJWlVVaXUxVHBmQnd2SjZ3bEN0bXVRR0xsSURZUk80OFpBUFQxeEVnUDdLSGhPQ2ZpR09ueDZ5TjlxcEc0ZnU1S2lmQkpLb0EwN1A3eU1ydDIzRGhpdjNGTGJWeU8zeGJMbWVhdWVjVXNNbmVhR3RIVzJGQml4YXplamxYd2Z0ZlllZ3V1V3pqLVJvM0NwUVhqLUlZZ0VpdEhpUzJlYTdLY3Y?oc=5",
+      "published": "2026-11-17T05:50:12+09:00",
+      "tags": [],
+      "event": "oct17-paris-riots-damage",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Ado tué lors d'une course de voitures sauvage près de Clermont-Ferrand : deux hommes mis en examen",
+      "title_ko": "클레르몽페랑 인근 불법 자동차 경주 중 10대 사망: 두 남성 기소",
+      "summary_ko": "불법 자동차 경주 중 10대가 숨진 사건으로 두 남성이 예심 기소됐다 (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPXzczM2g5ejJxeWx4NGM2WFlFd0lfVWtrVVFFMjE2bWhxbThmTVFaQmN5LVVZdWxpbkEydXNYS0RHb0JVNDhfYWtNdGhhY1pybkhSc1V5QnZzNnZBbFVZYlNwS1JWRTRNY2NXVF9TMS1SdHhUYTBSV1g5b2xlZW94MkJpM2VXYnNDMkFSeHhkY2ZobHhtZndzU2ktRGx0dS02U0JiX1F5dno5OXY2MUlWNndPVkQ5SS1wbWc5ZXJUU0Z2ckU4QWIyUS1LdzVqWnlSbmU3RWxDX3pYRWx4R2xCYkpzR3VpYUNMdjRRdTRhcVBJQjdhSnFmRUpweFJaTVV0YWlpZw?oc=5",
+      "published": "2026-11-17T05:29:10+09:00",
+      "tags": [],
+      "event": "gerzat-teen-road-death",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Ils vandalisent une statue de la Vierge : un procès corse détonant",
+      "title_ko": "성모상 훼손 사건, 코르시카에서 이례적 재판",
+      "summary_ko": "성모상을 훼손한 이들에 대한 재판이 코르시카에서 열렸다 (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTWZRUEN3aFc4Z3B0R2NFX2J3WWFRUnYtUUZWZFlGamlzZWJXTVozOXR2VEQtMDhTS1JCWFRvTmhIZ2lUYllUMDkxV2VxMVNFbEdjc2E0UVpTbEJPYVdNaDRwU0c0Qnktd1k0T0l3eXd1WGVHbVMzb1RSeExPVGFPbUhkY3B6cWNhRTNSZXFFal9ZbDA1M1BpSFZKSUZuejZKclI5NEpOczFLRzIwNklxdlk1eFUwbTQtRDdVSmx0Nm1ELWVLYndBWGxvdzJTekVET1ozNnNR?oc=5",
+      "published": "2026-11-17T05:10:24+09:00",
+      "tags": [],
+      "event": "corsica-virgin-statue-trial",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Le ski français en deuil : Louis Mezentzeff, figure du snowboard tricolore, décède à l'âge de 31 ans",
+      "title_ko": "프랑스 스노보드 간판 루이 메젠체프, 31세로 별세",
+      "summary_ko": "프랑스 스노보드 대표 인물 루이 메젠체프가 31세로 사망했다 (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMndpOXl2TmlpWVUtNEpfUVlJMkdjR21pRHgwZktxSnFhSHVUbmtwOXNLU1l5ajd2MnVpaDdhYVJUUldTSTlNdGlSZGwzaFNVT2d2U2VNNmIxVnpmQTBHcjBKRXdLSUlkdmllUHViLWhMX21QaU9xWUhNMEgwalVfQzc2U3ZLSGtlR2R1NmctaUhhQ0kzZy00eXBLN1h3NVZONVZsQmJPR1JBN09tUXhBejlUOEsxVUtiTDR1R3NB?oc=5",
+      "published": "2026-11-17T05:07:45+09:00",
+      "tags": [],
+      "event": "mezentzeff-death",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Découvrez Séraffine, la star du Salon de l’Agriculture 2027",
+      "title_ko": "2027 농업박람회의 스타 '세라핀'을 만나다",
+      "summary_ko": "2027 농업박람회 대표 동물 세라핀 소개 (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR003ZW41NVhiS05OMnVSckZ0VTJmWWh3NEpwZUl6Y1EyNEdyb2ppTHhqbW5GSVFPZHVRbFZoVkxPMm00elQyaFJCRWltU0l3UUpjbmhZUC1fQm5oejRMWVVpMWp4VmVVRlJTRFR0X0FzVDRBNDA2N1ZjUzZJZUtPblN5bDFpQlBmMEJ5ZXVaQkRQTGpiYUZsUDkwYlNPRGhtOVVaRmFwUHVkaXJqZE1pRHVmMkdQSFRTRWZsUTRR?oc=5",
+      "published": "2026-11-17T05:05:17+09:00",
+      "tags": [],
+      "event": "salon-agriculture-2027-mascot",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Un ticket à gratter offert pour Noël lui rapporte plus de 450.000 euros : le gagnant a attendu près d’un an avant de réclamer son argent",
+      "title_ko": "크리스마스 선물로 받은 즉석복권 45만 유로 당첨…당첨자 1년 가까이 지나 수령",
+      "summary_ko": "크리스마스 선물로 받은 즉석복권이 45만 유로 이상에 당첨됐고, 당첨자는 약 1년 뒤에 상금을 청구했다 (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPRVhKMm14N0tmQkFVZ0tRSjlBeGtfQmhGOWp0anc1SDdqTmlfTmloM3RUbHA0S0MtQ0Y2dFRYOGlvRTY1aTFPQS0tSWZEQXJ0dTNyZkI1c2hwc3pEMmk4eWNNc3BRcXZiM0ViTnB1RTlreVhXdWtLYXNCQTVUclNFVUxoYnNwbmJZanJ2bXE5RDZFRVNzTndkNzkzU0dYVlVhNk0yTWNmblBHT09BRDZfNEU2bGUzRmdjc2tkN3p5VFZzWVJ2TVpEV3BzQUVzNHNsQmdWeXRHMGluQ19oMjZabTBJdE5UcmdPR2tBWmFDRDFpUVBBZDU1ckNvLWJBWS1tY2VUZjQ4aEZEUQ?oc=5",
+      "published": "2026-11-17T04:00:51+09:00",
+      "tags": [],
+      "event": "scratch-ticket-winner",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Beatrice Kosowski (IBM France) : IA, données, cloud, qui contrôle nos technologies ? - 16/11",
+      "title_ko": "베아트리스 코소프스키(IBM 프랑스): AI·데이터·클라우드, 누가 우리 기술을 통제하나",
+      "summary_ko": "IBM 프랑스 대표가 BFM 비즈니스 'Tech & Co'에 출연해 디지털 주권 문제를 다뤘다.",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-beatrice-kosowski-ibm-france-ia-donnees-cloud-qui-controle-nos-technologies-16-11_VN-202611160913.html",
+      "published": "2026-11-17T05:59:33+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "ibm-france-digital-sovereignty",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Un troisième porte-avions américain, le Theodore Roosevelt, désormais opérationnel au Moyen-Orient",
+      "title_ko": "미국 세 번째 항공모함 시어도어 루스벨트, 중동에서 작전 개시",
+      "summary_ko": "미 중부사령부는 세 번째 항공모함이 현재 관할 구역에서 작전 중이라고 밝혔다.",
+      "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/un-troisieme-porte-avions-americain-le-theodore-roosevelt-desormais-operationnel-au-moyen-orient_AD-202611160909.html",
+      "published": "2026-11-17T05:51:59+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "uss-roosevelt-centcom",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Le Débrief de la tech - Lundi 16 novembre",
+      "title_ko": "테크 디브리프 – 11월 16일 월요일",
+      "summary_ko": "VLC 공동 개발자이자 Kyber 창업자 장바티스트 켐프, JEDI 회장 앙드레 로제크뤼그-피에트리, 졸트캐피털 자문 필리프 드보스트가 'Tech & Co'에 출연했다.",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-le-debrief-de-la-tech-lundi-16-novembre_VN-202611160916.html",
+      "published": "2026-11-17T05:51:51+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "bfm-tech-debrief-nov16",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Grève nationale, présidentielle: entretien avec Sophie Binet, secrétaire générale de la CGT",
+      "title_ko": "총파업·대선: CGT 사무총장 소피 비네 인터뷰",
+      "summary_ko": "대선 후보 5명이 16일 저녁 룅지스에서 토론한다. 고교생 분노가 이어지는 가운데 에두아르 제프레 교육장관은 방화 피해를 입은 낭트 넬슨만델라 고교를 방문했다.",
+      "url": "https://www.bfmtv.com/societe/video-greve-nationale-presidentielle-entretien-avec-sophie-binet-secretaire-generale-de-la-cgt_VN-202611160914.html",
+      "published": "2026-11-17T05:51:49+09:00",
+      "tags": [],
+      "event": "nov17-national-strike",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Nouveau James Bond: la nomination de Robert Pattinson fait réagir",
+      "title_ko": "새 제임스 본드에 로버트 패틴슨…반응 잇따라",
+      "summary_ko": "로버트 패틴슨이 대니얼 크레이그의 뒤를 이어 007을 맡고 드니 빌뇌브가 연출한다. 영국 왕실 공식 계정도 환영 메시지를 올렸다.",
+      "url": "https://www.bfmtv.com/culture/video-nouveau-james-bond-la-nomination-de-robert-pattinson-fait-reagir_VN-202611160908.html",
+      "published": "2026-11-17T05:48:41+09:00",
+      "tags": [],
+      "event": "james-bond-pattinson",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "À lire sur le site Tech&Co : Ce que l'on sait de l'échec de la fusée Vulcan, de ses conséquences et du coup dur porté à la constellation d'Amazon LEO, par Salomé Ferrari - 16/11",
+      "title_ko": "벌컨 로켓 실패의 전말과 파장, 아마존 LEO 위성군에 타격",
+      "summary_ko": "BFM 'Tech&Co'가 벌컨 로켓 발사 실패와 그 결과, 아마존 LEO 위성군이 입은 타격을 다뤘다.",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-a-lire-sur-le-site-tech-co-ce-que-l-on-sait-de-l-echec-de-la-fusee-vulcan-de-ses-consequences-et-du-coup-dur-porte-a-la-constellation-d-amazon-leo-par-salome-ferrari-16-11_VN-202611160907.html",
+      "published": "2026-11-17T05:48:22+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "vulcan-rocket-failure",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Le Tech Flash : SpaceX rattrape sa fusée et marque l'histoire, par Léa Benaim - 16/11",
+      "title_ko": "테크 플래시: 스페이스X 로켓 공중 회수로 역사 써",
+      "summary_ko": "스페이스X의 로켓 공중 회수, 벌컨 발사 실패로 아마존 LEO 위성 40기 손실, 젠슨 황의 엔비디아 복귀 가능성, 테슬라 3만 달러 사이버캡 주문 개시 등을 다뤘다.",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-le-tech-flash-space-x-rattrape-sa-fusee-et-marque-l-histoire-par-lea-benaim-16-11_VN-202611160905.html",
+      "published": "2026-11-17T05:45:55+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "bfm-tech-flash-nov16",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "\"Il n'y a pas plus grand danger pour le pays que l'extrême droite\", assure Sophie Binet, secrétaire générale de la CGT",
+      "title_ko": "CGT 소피 비네 \"극우보다 더 큰 위험은 없다\"",
+      "summary_ko": "비네 사무총장은 전례 없는 사회 위기라며, 탄압이나 비난이 아니라 요구에 대한 응답으로만 사회운동을 멈출 수 있다고 말했다.",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-il-n-y-a-pas-plus-grand-danger-pour-le-pays-que-l-extreme-droite-assure-sophie-binet-secretaire-generale-de-la-cgt_VN-202611160902.html",
+      "published": "2026-11-17T05:42:36+09:00",
+      "tags": [],
+      "event": "nov17-national-strike",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Le projet de cinq pays européens d’ouvrir un centre de retour au Rwanda traduit la bascule de la politique européenne en matière d’immigration",
+      "title_ko": "유럽 5개국의 르완다 송환센터 계획, 유럽 이민정책 전환 보여줘",
+      "summary_ko": "독일·오스트리아·덴마크·그리스·네덜란드가 16일 난민 신청이 기각된 이들을 보낼 수 있는 르완다 내 플랫폼 설립을 발표했다.",
+      "url": "https://www.lemonde.fr/international/article/2026/11/16/le-projet-de-cinq-pays-europeens-d-ouvrir-un-centre-de-retour-au-rwanda-traduit-la-bascule-de-la-politique-europeenne-en-matiere-d-immigration_6812426_3210.html",
+      "published": "2026-11-17T05:52:39+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation"
+      ],
+      "event": "rwanda-return-centre",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Au procès des parents de l’inconnue de l’A10, un réquisitoire sobre, subtil et pédagogue",
+      "title_ko": "'A10 소녀' 부모 재판, 절제되고 섬세한 구형",
+      "summary_ko": "검찰은 할리마 엘박티에게 징역 20년, 아메드 투룹에게 14년을 구형했다.",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/16/au-proces-des-parents-de-l-inconnue-de-l-a10-un-requisitoire-sobre-subtil-et-pedagogue_6812394_3224.html",
+      "published": "2026-11-17T05:19:08+09:00",
+      "tags": [],
+      "event": "a10-child-trial",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Mobilisation du 17 novembre : des trains et des ports seront perturbés en raison d’un appel à la grève",
+      "title_ko": "11월 17일 총동원: 파업으로 열차·항만 차질",
+      "summary_ko": "SNCF에 따르면 화요일 오베르뉴론알프·브르타뉴·오드프랑스 등 여러 지역 TER 노선이 차질을 빚는다.",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/16/mobilisation-du-17-novembre-des-trains-et-des-ports-seront-perturbes-en-raison-d-un-appel-a-la-greve_6812393_3234.html",
+      "published": "2026-11-17T05:08:58+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "nov17-national-strike",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Renault va supprimer plus d’un millier de postes en France pour être plus compétitif face à la concurrence chinoise",
+      "title_ko": "르노, 중국 경쟁 대응 위해 프랑스 내 1천여 개 일자리 감축",
+      "summary_ko": "르노가 1,000명 규모 희망퇴직과 함께 2~3년 내 2,000개 일자리 신설 계획을 발표했다. 프랑스 전역 10여 개 사업장이 해당된다.",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/16/renault-va-supprimer-plus-d-un-millier-de-postes-en-france-pour-etre-plus-competitif-face-a-la-concurrence-chinoise_6812360_3234.html",
+      "published": "2026-11-17T04:59:33+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "renault-job-cuts",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Comment l’Allemagne a renoncé à sa politique d’accueil : du « nous y arriverons » d’Angela Merkel au projet d’expulser des réfugiés vers le Rwanda",
+      "title_ko": "독일은 어떻게 난민 수용 정책을 포기했나: 메르켈의 '우리는 해낼 수 있다'에서 르완다 추방 계획까지",
+      "summary_ko": "2015년 이후 시리아인 약 100만 명을 받아들인 독일이 난민 신청 기각자를 보낼 르완다 '송환센터' 설립 구상에 참여한다.",
+      "url": "https://www.lemonde.fr/international/article/2026/11/16/comment-l-allemagne-a-renonce-a-sa-politique-d-accueil-du-nous-y-arriverons-d-angela-merkel-au-projet-d-expulser-des-refugies-vers-le-rwanda_6812359_3210.html",
+      "published": "2026-11-17T04:53:33+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation"
+      ],
+      "event": "rwanda-return-centre",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Narcobanditisme : pourquoi Amine Oualane et Karim Harrat sont condamnés à la réclusion criminelle à perpétuité",
+      "title_ko": "마약 범죄: 아민 우알란과 카림 하라트가 종신형을 받은 이유",
+      "summary_ko": "두 사람은 경쟁자 3명 살해를 조직한 혐의로 유죄 판결을 받았다. 피해자 중 한 명의 형 아민 케사시는 판결을 '마약 지배 체제에 보내는 메시지'로 봤다.",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/16/narcobanditisme-pourquoi-amine-oualane-et-karim-harrat-sont-condamnes-a-la-reclusion-criminelle-a-perpetuite_6812326_3224.html",
+      "published": "2026-11-17T04:34:19+09:00",
+      "tags": [],
+      "event": "marseille-narco-verdict",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Mobilisation de la jeunesse : 20 % des établissements du supérieur et 25 lycées franciliens perturbés lundi",
+      "title_ko": "청년 동원: 16일 고등교육기관 20%·일드프랑스 고교 25곳 차질",
+      "summary_ko": "새 전국 동원을 하루 앞두고 정부는 폭죽 판매와 일부 파리 학교 주변 집회를 금지하는 등 강경 대응에 나섰다.",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/16/mobilisation-de-la-jeunesse-20-des-etablissements-du-superieur-et-25-lycees-franciliens-perturbes-lundi_6812298_3224.html",
+      "published": "2026-11-17T04:06:05+09:00",
+      "tags": [],
+      "event": "nov17-national-strike",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Philippe Diallo, inattendu challenger de Gianni Infantino à la présidence de la FIFA",
+      "title_ko": "필리프 디알로, 인판티노에 맞선 의외의 FIFA 회장 도전자",
+      "summary_ko": "UEFA가 프랑스축구연맹 회장 디알로의 깜짝 FIFA 회장 출마를 만장일치로 지지한다고 발표했다.",
+      "url": "https://www.lemonde.fr/sport/article/2026/11/16/philippe-diallo-inattendu-challenger-de-gianni-infantino-a-la-presidence-de-la-fifa_6812297_3242.html",
+      "published": "2026-11-17T04:02:55+09:00",
+      "tags": [],
+      "event": "fifa-presidency-diallo",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "EN DIRECT - Débat présidentielle 2027 : Le Pen, Mélenchon, Attal, Glucksmann et Retailleau interrogés par le fils de Coluche",
+      "title_ko": "[실시간] 2027 대선 토론: 르펜·멜랑숑·아탈·글뤽스만·르타요",
+      "summary_ko": "대선 후보 5명이 16일 저녁 연대·구매력·빈곤 대책을 놓고 토론한다.",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-marine-le-pen-edouard-philippe-emmanuel-macron-ukraine-teddy-riner-20261116",
+      "published": "2026-11-17T06:07:02+09:00",
+      "tags": [],
+      "event": "presidential-debate-2027",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Guerre au Moyen-Orient : le porte-avions américain Theodore Roosevelt désormais «opérationnel»",
+      "title_ko": "중동 전쟁: 미 항모 시어도어 루스벨트 '작전 중'",
+      "summary_ko": "미 중부사령부는 X에 이 항모가 예정된 배치에 따라 중부사령부 관할 구역에서 작전 중이라고 밝혔다.",
+      "url": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-le-porte-avions-americain-theodore-roosevelt-desormais-operationnel-20261116",
+      "published": "2026-11-17T06:06:36+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "uss-roosevelt-centcom",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "États-Unis : un juge fédéral annule les limites de visa pour les étudiants et journalistes étrangers imposées par Donald Trump",
+      "title_ko": "미국 연방판사, 트럼프의 외국인 유학생·기자 비자 제한 무효화",
+      "summary_ko": "보스턴 연방판사는 7월 연방관보에 게재된 해당 규정이 '자의적'이라며 무효로 판결했다.",
+      "url": "https://www.lefigaro.fr/flash-actu/etats-unis-un-juge-federal-annule-les-limites-de-visa-pour-les-etudiants-et-journalistes-etrangers-imposees-par-donald-trump-20261116",
+      "published": "2026-11-17T06:00:35+09:00",
+      "tags": [
+        "legislation",
+        "geopolitics"
+      ],
+      "event": "us-visa-limits-annulled",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Lyon : la justice autorise une manifestation place Bellecour mardi pour la première fois depuis le 17 octobre",
+      "title_ko": "리옹: 법원, 10월 17일 이후 처음으로 벨쿠르 광장 시위 허용",
+      "summary_ko": "리옹 행정법원이 노조 측 긴급 신청을 받아들여 시위대의 벨쿠르 광장 진입을 금지한 도청 명령의 효력을 정지했다.",
+      "url": "https://www.lefigaro.fr/lyon/lyon-la-justice-autorise-une-manifestation-place-bellecour-mardi-pour-la-premiere-fois-depuis-le-17-octobre-20261116",
+      "published": "2026-11-17T05:58:30+09:00",
+      "tags": [],
+      "event": "nov17-national-strike",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "« Mélenchon met des cibles dans le dos des journalistes » : la couverture des manifestations vire au calvaire pour les reporters",
+      "title_ko": "\"멜랑숑이 기자들 등에 과녁을 붙인다\": 시위 취재 기자들의 수난",
+      "summary_ko": "LFI 지도부의 언론 공격이 현장으로 이어져, 고교생·노란조끼 시위를 취재하는 방송사 팀이 자주 표적이 되고 있다.",
+      "url": "https://www.lefigaro.fr/medias/melenchon-met-des-cibles-dans-le-dos-des-journalistes-la-couverture-des-manifestations-vire-au-calvaire-pour-les-reporters-20261116",
+      "published": "2026-11-17T05:00:23+09:00",
+      "tags": [],
+      "event": "protest-media-hostility",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Comment les héritiers présumés d’un Van Gogh estimé à 180 millions de dollars sèment le trouble dans une vente phare chez Sotheby’s",
+      "title_ko": "1억 8천만 달러 추정 반 고흐 작품, 상속자 주장에 소더비 대형 경매 혼선",
+      "summary_ko": "유대인 소유자의 상속자들이 소유권을 주장하면서 블라키에-아리에타 컬렉션 출처의 이 작품이 출처 의문으로 경매 직전 철회될 수 있다.",
+      "url": "https://www.lefigaro.fr/culture/encheres/un-van-gogh-prete-a-contestation-chez-sotheby-s-avant-sa-vente-a-new-york-mercredi-20261116",
+      "published": "2026-11-17T04:52:14+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "sothebys-van-gogh-provenance",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "«J’ai fait de mon mieux» : dix ans après sa candidature, Macron reconnaît des «erreurs», sans renier son action pour «l’intérêt supérieur du pays»",
+      "title_ko": "\"최선을 다했다\": 출마 10년, 마크롱 \"실수\" 인정하면서도 \"국가 최고 이익\" 위한 행보는 부정 안 해",
+      "summary_ko": "엘리제궁을 떠나기 6개월 전, 마크롱이 2016년 11월 16일 보비니 출마 선언 이후 함께한 이들에게 감사하고 끝까지 헌신하겠다고 밝혔다.",
+      "url": "https://www.lefigaro.fr/politique/j-ai-fait-de-mon-mieux-dix-ans-apres-sa-candidature-macron-reconnait-des-erreurs-sans-renier-son-action-pour-l-interet-superieur-du-pays-20261116",
+      "published": "2026-11-17T04:45:35+09:00",
+      "tags": [],
+      "event": "macron-ten-year-reflection",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Présidence des maires de France : pourquoi David Lisnard peut espérer un troisième mandat",
+      "title_ko": "프랑스시장협회장: 다비드 리스나르가 3선을 기대할 수 있는 이유",
+      "summary_ko": "반대가 커지고 있지만 칸 시장이자 대선 후보인 리스나르는 프랑스 최대 선출직 단체 수장직을 이어갈 여러 강점이 있다는 분석이다.",
+      "url": "https://www.lefigaro.fr/politique/presidence-des-maires-de-france-pourquoi-david-lisnard-peut-esperer-un-troisieme-mandat-20261116",
+      "published": "2026-11-17T04:32:31+09:00",
+      "tags": [],
+      "event": "amf-presidency-lisnard",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "«Une politique de ségrégation spatiale» : au débat présidentiel, Marine Le Pen critiquée pour sa proposition de priorité nationale pour l’accès au logement social",
+      "title_ko": "\"공간 분리 정책\": 대선 토론서 르펜의 공공임대주택 자국민 우선 공약 비판받아",
+      "summary_ko": "르펜·멜랑숑·글뤽스만·르타요·아탈이 16일 저녁 TF1/LCI에서 구매력과 빈곤을 놓고 토론했다.",
+      "url": "https://www.liberation.fr/politique/il-ny-a-personne-qui-veut-parler-de-la-distribution-retrouvez-les-moments-forts-du-debat-presidentielle-20261116_MZBZMVHPSVBL3DQHSSB3IWPCUE/",
+      "published": "2026-11-17T06:00:03+09:00",
+      "tags": [],
+      "event": "presidential-debate-2027",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "Etats-Unis : des utilisateurs rapportent massivement des bugs sur plusieurs applications bancaires",
+      "title_ko": "미국: 여러 은행 앱에서 대규모 오류 신고",
+      "summary_ko": "JP모건체이스, 뱅크오브아메리카, 송금 서비스 젤 등 주요 기관이 영향을 받았다. 체이스 대변인은 '기술적' 문제라고 밝혔다.",
+      "url": "https://www.liberation.fr/international/amerique/etats-unis-des-utilisateurs-rapportent-massivement-des-bugs-sur-plusieurs-applications-bancaires-20261116_HF3ZZQDJNFAQDKAY2PWRPAG7SQ/",
+      "published": "2026-11-17T05:37:21+09:00",
+      "tags": [
+        "business",
+        "industry"
+      ],
+      "event": "us-banking-apps-outage",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "EN DIRECT – Mouvement social : la justice ordonne à l’Etat d’assurer «sans délai» l’accès aux cours dans deux lycées rennais",
+      "title_ko": "[실시간] 사회운동: 법원, 렌 고교 2곳 수업 접근 \"즉시\" 보장 명령",
+      "summary_ko": "공무원 임금 인상 등을 요구하는 새 동원을 하루 앞두고 파리 경찰청은 16일부터 고교 10곳·대학 5곳 주변 미신고 집회를 금지했다.",
+      "url": "https://www.liberation.fr/societe/education/en-direct-mobilisation-lyceenne-et-etudiante-les-rassemblements-interdits-autour-de-certains-etablissements-a-paris-20261116_3RW4TCVB55DSVFMBCL27WKJSEU/",
+      "published": "2026-11-17T05:10:56+09:00",
+      "tags": [],
+      "event": "nov17-national-strike",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "«L’idée, c’est d’être solidaire à tout prix» : au procès de l’agression de Michel Zecler, l’ancien brigadier-chef dénonce l’omerta dans la police",
+      "title_ko": "미셸 제클레르 폭행 재판: 전직 경찰 반장, 경찰 내 침묵 카르텔 고발",
+      "summary_ko": "16일 파리 형사법원에서 체포 기술 교관과 피고인들의 전 동료가 증언했다. 하비브 H.는 2020년 11월 제클레르에게 중상을 입힌 개입을 공개 비판한 첫 경찰관이 됐다.",
+      "url": "https://www.liberation.fr/societe/police-justice/lidee-cest-detre-solidaire-a-tout-prix-au-proces-de-lagression-de-michel-zecler-lancien-brigadier-chef-denonce-lomerta-dans-la-police-20261116_NNXM7MCDMNBKJFRKNCRORR5RAY/",
+      "published": "2026-11-17T05:00:19+09:00",
+      "tags": [],
+      "event": "zecler-trial",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "Pouvoir d’achat : l’Assemblée adopte un texte pour débloquer l’épargne salariale",
+      "title_ko": "구매력: 하원, 종업원 저축 인출 허용 법안 가결",
+      "summary_ko": "상원을 이미 통과한 법안이 하원에서 일부 수정된 형태로 찬성 95표, 반대 34표로 가결됐다. 정부는 구매력 대책이라 하지만 좌파는 '가짜 해법'이라고 비판했다.",
+      "url": "https://www.liberation.fr/politique/pouvoir-dachat-lassemblee-adopte-un-texte-pour-debloquer-lepargne-salariale-20261116_P6PJL2WFZNAU7N6QXHKOUCGYJI/",
+      "published": "2026-11-17T04:51:42+09:00",
+      "tags": [
+        "legislation",
+        "business"
+      ],
+      "event": "employee-savings-unlock-bill",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "Verdict au procès du triple narchomicide jugé à Aix : «Ce message est pour la narcocratie»",
+      "title_ko": "엑상프로방스 '삼중 마약 살인' 재판 판결: \"마약 지배 체제에 보내는 메시지\"",
+      "summary_ko": "부슈뒤론 특별중죄법원이 한 달 심리 끝에 피고인 5명에게 종신형~징역 18년을 선고했다. 피해자 형 아민 케사시는 '정의가 실현됐다'고 말했다.",
+      "url": "https://www.liberation.fr/societe/police-justice/proces-du-triple-narchomicide-a-aix-deux-des-cinq-accuses-condamnes-a-la-perpetuite-20261116_HUQBG7MLBBCIRPE7C4QOQYJPDY/",
+      "published": "2026-11-17T04:47:13+09:00",
+      "tags": [],
+      "event": "marseille-narco-verdict",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "«Rappelez-vous le vertige qui nous a tous saisis» : au procès de la «petite inconnue de l’A10», vingt ans et quatorze ans de réclusion requis contre la mère et le père",
+      "title_ko": "'A10 고속도로의 어린 무명 소녀' 재판: 친모 20년·친부 14년 구형",
+      "summary_ko": "검찰이 1987년 8월 11일 시신으로 발견된 4세 이나스의 부모에게 중형을 구형했다. 루아르에셰르 중죄법원 판결은 17일 나온다.",
+      "url": "https://www.liberation.fr/societe/police-justice/proces-de-la-petite-inconnue-de-la10-20-ans-de-prison-requis-contre-la-mere-dinass-touloub-et-14-ans-contre-son-pere-20261116_E2ZVBXVRHFDJ7EZL7YD7UDVU2M/",
+      "published": "2026-11-17T04:42:16+09:00",
+      "tags": [],
+      "event": "a10-child-trial",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "Grève dans les transports : à quoi faut-il s’attendre mardi 17 novembre ?",
+      "title_ko": "교통 파업: 11월 17일 화요일 무엇을 예상하나",
+      "summary_ko": "여러 지역에서 열차 운행이 차질을 빚고 항만이 봉쇄될 예정이다.",
+      "url": "https://www.liberation.fr/economie/social/greve-dans-les-transports-a-quoi-faut-il-sattendre-mardi-16-novembre-20261116_UZBEOYFBCVFN5JJHTCCJXOPMIA/",
+      "published": "2026-11-17T04:41:41+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "nov17-national-strike",
+      "state_media": false
+    }
+  ],
+  "events": [
+    {
+      "event": "nov17-national-strike",
+      "title_ko": "공공부문 파업·교통 차질·시위…11월 17일 총동원 무엇을 예상하나",
+      "sources": [
+        "franceinfo (France 2)",
+        "BFMTV",
+        "Le Monde",
+        "Le Figaro",
+        "Libération"
+      ],
+      "count": 5
+    },
+    {
+      "event": "macron-ten-year-reflection",
+      "title_ko": "마크롱 \"실수\" 있었지만 최선 다했다고 밝혀",
+      "sources": [
+        "France 24",
+        "franceinfo (France 2)",
+        "Le Figaro"
+      ],
+      "count": 3
+    },
+    {
+      "event": "a10-child-trial",
+      "title_ko": "'A10 고속도로 소녀' 재판: 친모 징역 20년·친부 14년 구형",
+      "sources": [
+        "franceinfo (France 2)",
+        "Le Monde",
+        "Libération"
+      ],
+      "count": 3
+    },
+    {
+      "event": "ukraine-peace-negotiations",
+      "title_ko": "벼랑 끝에 선 우크라이나?",
+      "sources": [
+        "France 24",
+        "franceinfo (France 2)"
+      ],
+      "count": 2
+    },
+    {
+      "event": "gerzat-teen-road-death",
+      "title_ko": "퓌드돔 10대 치사 사고: 두 남성 기소",
+      "sources": [
+        "franceinfo (France 2)",
+        "TF1 Info"
+      ],
+      "count": 2
+    },
+    {
+      "event": "uss-roosevelt-centcom",
+      "title_ko": "미국 세 번째 항공모함 시어도어 루스벨트, 중동에서 작전 개시",
+      "sources": [
+        "BFMTV",
+        "Le Figaro"
+      ],
+      "count": 2
+    },
+    {
+      "event": "marseille-narco-verdict",
+      "title_ko": "마약 범죄: 아민 우알란과 카림 하라트가 종신형을 받은 이유",
+      "sources": [
+        "Le Monde",
+        "Libération"
+      ],
+      "count": 2
+    },
+    {
+      "event": "presidential-debate-2027",
+      "title_ko": "[실시간] 2027 대선 토론: 르펜·멜랑숑·아탈·글뤽스만·르타요",
+      "sources": [
+        "Le Figaro",
+        "Libération"
+      ],
+      "count": 2
+    },
+    {
+      "event": "maileva-cyberattack",
+      "title_ko": "마일레바: 프랑스 기업 겨냥한 새 사이버 공격",
+      "sources": [
+        "France 24"
+      ],
+      "count": 1
+    },
+    {
+      "event": "cop31-lobbying",
+      "title_ko": "COP31: 로비 단체들이 협상에 영향력 행사",
+      "sources": [
+        "France 24"
+      ],
+      "count": 1
+    },
+    {
+      "event": "can-2027-qualifiers",
+      "title_ko": "CAN 2027 예선: 기니 임무 완수, 가나 압박, 베냉 사실상 본선행",
+      "sources": [
+        "France 24"
+      ],
+      "count": 1
+    },
+    {
+      "event": "right-centre-primary",
+      "title_ko": "우파 경선은 \"실패의 자인\"…아탈과 르타요",
+      "sources": [
+        "France 24"
+      ],
+      "count": 1
+    },
+    {
+      "event": "dakar-youth-olympics",
+      "title_ko": "다카르 2026 유스올림픽: 아프리카 첫 올림픽 성공적 마무리",
+      "sources": [
+        "France 24"
+      ],
+      "count": 1
+    },
+    {
+      "event": "oif-election-postponed",
+      "title_ko": "위기의 프랑코포니?",
+      "sources": [
+        "France 24"
+      ],
+      "count": 1
+    },
+    {
+      "event": "uk-abortion-pardon",
+      "title_ko": "영국 정부, 낙태로 유죄 판결받은 여성 사면…기한 외 낙태 비범죄화 법 시행 뒤",
+      "sources": [
+        "franceinfo (France 2)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "depardieu-appeal-dropped",
+      "title_ko": "드파르디외 항소 포기는 \"좌절과 안도가 섞인 것\"…피해자 측 변호인",
+      "sources": [
+        "franceinfo (France 2)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "tf1-monte-cristo-series",
+      "title_ko": "오드리 플뢰로, TF1 화제 시리즈 '몬테크리스토 백작부인' 뒷이야기 전해",
+      "sources": [
+        "TF1 Info"
+      ],
+      "count": 1
+    },
+    {
+      "event": "relationship-advice",
+      "title_ko": "이해관계로 맺어진 관계: 파트너가 이렇게 행동하면 잘못된 이유로 '사랑'하는 것",
+      "sources": [
+        "TF1 Info"
+      ],
+      "count": 1
+    },
+    {
+      "event": "oct17-paris-riots-damage",
+      "title_ko": "10월 17일 폭력 사태: 파리 시장 \"사유재산 피해\" 역대 최고 수준 언급",
+      "sources": [
+        "TF1 Info"
+      ],
+      "count": 1
+    },
+    {
+      "event": "corsica-virgin-statue-trial",
+      "title_ko": "성모상 훼손 사건, 코르시카에서 이례적 재판",
+      "sources": [
+        "TF1 Info"
+      ],
+      "count": 1
+    },
+    {
+      "event": "mezentzeff-death",
+      "title_ko": "프랑스 스노보드 간판 루이 메젠체프, 31세로 별세",
+      "sources": [
+        "TF1 Info"
+      ],
+      "count": 1
+    },
+    {
+      "event": "salon-agriculture-2027-mascot",
+      "title_ko": "2027 농업박람회의 스타 '세라핀'을 만나다",
+      "sources": [
+        "TF1 Info"
+      ],
+      "count": 1
+    },
+    {
+      "event": "scratch-ticket-winner",
+      "title_ko": "크리스마스 선물로 받은 즉석복권 45만 유로 당첨…당첨자 1년 가까이 지나 수령",
+      "sources": [
+        "TF1 Info"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ibm-france-digital-sovereignty",
+      "title_ko": "베아트리스 코소프스키(IBM 프랑스): AI·데이터·클라우드, 누가 우리 기술을 통제하나",
+      "sources": [
+        "BFMTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "bfm-tech-debrief-nov16",
+      "title_ko": "테크 디브리프 – 11월 16일 월요일",
+      "sources": [
+        "BFMTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "james-bond-pattinson",
+      "title_ko": "새 제임스 본드에 로버트 패틴슨…반응 잇따라",
+      "sources": [
+        "BFMTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "vulcan-rocket-failure",
+      "title_ko": "벌컨 로켓 실패의 전말과 파장, 아마존 LEO 위성군에 타격",
+      "sources": [
+        "BFMTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "bfm-tech-flash-nov16",
+      "title_ko": "테크 플래시: 스페이스X 로켓 공중 회수로 역사 써",
+      "sources": [
+        "BFMTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "rwanda-return-centre",
+      "title_ko": "유럽 5개국의 르완다 송환센터 계획, 유럽 이민정책 전환 보여줘",
+      "sources": [
+        "Le Monde"
+      ],
+      "count": 1
+    },
+    {
+      "event": "renault-job-cuts",
+      "title_ko": "르노, 중국 경쟁 대응 위해 프랑스 내 1천여 개 일자리 감축",
+      "sources": [
+        "Le Monde"
+      ],
+      "count": 1
+    },
+    {
+      "event": "fifa-presidency-diallo",
+      "title_ko": "필리프 디알로, 인판티노에 맞선 의외의 FIFA 회장 도전자",
+      "sources": [
+        "Le Monde"
+      ],
+      "count": 1
+    },
+    {
+      "event": "us-visa-limits-annulled",
+      "title_ko": "미국 연방판사, 트럼프의 외국인 유학생·기자 비자 제한 무효화",
+      "sources": [
+        "Le Figaro"
+      ],
+      "count": 1
+    },
+    {
+      "event": "protest-media-hostility",
+      "title_ko": "\"멜랑숑이 기자들 등에 과녁을 붙인다\": 시위 취재 기자들의 수난",
+      "sources": [
+        "Le Figaro"
+      ],
+      "count": 1
+    },
+    {
+      "event": "sothebys-van-gogh-provenance",
+      "title_ko": "1억 8천만 달러 추정 반 고흐 작품, 상속자 주장에 소더비 대형 경매 혼선",
+      "sources": [
+        "Le Figaro"
+      ],
+      "count": 1
+    },
+    {
+      "event": "amf-presidency-lisnard",
+      "title_ko": "프랑스시장협회장: 다비드 리스나르가 3선을 기대할 수 있는 이유",
+      "sources": [
+        "Le Figaro"
+      ],
+      "count": 1
+    },
+    {
+      "event": "us-banking-apps-outage",
+      "title_ko": "미국: 여러 은행 앱에서 대규모 오류 신고",
+      "sources": [
+        "Libération"
+      ],
+      "count": 1
+    },
+    {
+      "event": "zecler-trial",
+      "title_ko": "미셸 제클레르 폭행 재판: 전직 경찰 반장, 경찰 내 침묵 카르텔 고발",
+      "sources": [
+        "Libération"
+      ],
+      "count": 1
+    },
+    {
+      "event": "employee-savings-unlock-bill",
+      "title_ko": "구매력: 하원, 종업원 저축 인출 허용 법안 가결",
+      "sources": [
+        "Libération"
+      ],
+      "count": 1
+    }
+  ],
+  "unavailable_sources": [
+    "Les Echos"
+  ]
+}

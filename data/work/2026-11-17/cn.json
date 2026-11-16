@@ -1,0 +1,673 @@
+{
+  "team": "cn",
+  "headlines": [
+    {
+      "source": "CCTV",
+      "title_original": "波黑新一届主席团成员宣誓就职",
+      "title_ko": "보스니아 헤르체고비나 신임 대통령위원회 위원 취임 선서",
+      "summary_ko": "보스니아 헤르체고비나 신임 대통령위원회 위원들이 취임 선서를 했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNZm15aG9lN0xvSGsxNVYxWGNySUk5RnpJZndiS25XSkRYWHFjOGVhYW1NeGp5WGhQdmF0aHBkOUlFVGJZcncyRkwzVURJTExvUUFLM2VLck5oSXpudUdDSVBqNnZzTUV2NlVCMmQ4TXRSSG1SSVgwRA?oc=5",
+      "published": "2026-11-17T04:45:10+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "bih-presidency-inauguration",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "聚焦APEC丨在新闻中心领略非遗风采",
+      "title_ko": "[APEC 포커스] 프레스센터에서 무형문화유산의 매력을 느끼다",
+      "summary_ko": "APEC 프레스센터에서 무형문화유산을 소개했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NOGU4ZEtIdlhIaFVIXzRfVGZjTE44UFBJRTh4X211c1QwSjBLeGlRRWE1S0pkd1hYRlY0ZWQ1QjZMbDJrclp3WktkT3dGZWhMNUd4Tjk2OGdZQzU2V2REcDhxMm9QZUc1Uk5OakgzMmd2aDlhSWxOTw?oc=5",
+      "published": "2026-11-17T04:13:36+09:00",
+      "tags": [],
+      "event": "apec-press-center",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "聚焦APEC丨在新闻中心感受科技魅力",
+      "title_ko": "[APEC 포커스] 프레스센터에서 과학기술의 매력을 체험하다",
+      "summary_ko": "APEC 프레스센터에서 과학기술을 소개했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BT1c1SlhBZTlGVHVVOUVzUTFwM0tBdXd1dWRiX3JEVEdYSnhqbk5VdVJjbGVPWVJsaWxYQ3Q4UU8xRVRCTVhRYXp6MG1ERDBXQy1oV3BJYXVTd1pycENiOGdEZGRpeGpZVzU2RlVIeEFTcGZ6aUdXSg?oc=5",
+      "published": "2026-11-17T03:52:17+09:00",
+      "tags": [],
+      "event": "apec-press-center",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "冷空气持续影响 多地降雪降温",
+      "title_ko": "찬 공기 영향 지속, 여러 지역 눈 내리고 기온 하강",
+      "summary_ko": "찬 공기의 영향으로 중국 여러 지역에 눈이 오고 기온이 떨어졌다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ubFFQazNGUkpuUVpPY2l6dVQwSU5rZlREMGRucmx0QURJLTVwU0hhQzBRRU5Nd3RrbUE0dXVfd1dBclN5TnNGa0FDN3phM2pzMlRsLVAzNV9pcEZJdEJoeU9uNldxekN2S3N3YUVzSXI3aGFVWEl2dQ?oc=5",
+      "published": "2026-11-17T03:16:31+09:00",
+      "tags": [],
+      "event": "china-cold-wave-snow",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "海泊千帆、鲜果竞速 透过深圳看开放包容的中国",
+      "title_ko": "수많은 배가 정박하고 신선 과일이 경주하다: 선전으로 보는 개방·포용의 중국",
+      "summary_ko": "선전을 통해 중국의 개방과 포용을 소개하는 보도. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85SmpIRXE3NkdKSUowdWdoNjV6ZmdWbnhBVFQzTXVqUl9yZU1jMjVZS19Edm1wRFNwajFWQmQ5RXZ6WWZzSXdLc2RaUTRBeTdBVXRLQWliR2daRTJIZl9qa1NQa1pxZ1lJazlwRy1hRlpVR1FMMlZEag?oc=5",
+      "published": "2026-11-17T02:13:55+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "shenzhen-openness-feature",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "外交部：敦促日本早日彻底清除日遗化武毒害",
+      "title_ko": "외교부: 일본에 일본군 유기 화학무기 피해의 조속하고 완전한 제거 촉구",
+      "summary_ko": "중국 외교부가 일본에 중국 내 유기 화학무기 피해를 조속히 완전히 제거하라고 촉구했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00WFNWUnhFTUhpRGVTcXN4TDBOdHoxMEoxR2xfVXdWVkxOTmJXT25jQS1nNHFyRkFhZ0x1UDBwbkVwS0w4MVViWFVZaXpvMUFBRmtPNDB6OTRlZk9KdzFBVUFmOHZtMUYzUEtMMnItM050SnV5R1lNZQ?oc=5",
+      "published": "2026-11-17T02:10:30+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "china-japan-abandoned-chemical-weapons",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "云南香格里拉：走进多民族学子的多彩校园生活",
+      "title_ko": "윈난 샹그릴라: 다민족 학생들의 다채로운 캠퍼스 생활",
+      "summary_ko": "윈난 샹그릴라 다민족 학생들의 학교생활을 소개했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rUldpNGd0OWRfX2tvRzVySEF6NkUxTmE4TmZBT2JBRHdSWXJWTEREZ25BYllnSW5ZZk5xZmZVYW5JMXhaRWtLMFVhWDhHOGNHX1pFR3p5Q0Q3Zk5LTVJ0RGZyaG4wTjQ3RmRtd2hEMVU4cUZhdHRBbQ?oc=5",
+      "published": "2026-11-17T02:08:02+09:00",
+      "tags": [],
+      "event": "yunnan-shangrila-school-life",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "日本推动修订“安保三文件” 日媒披露“防卫产业基础战略”部分内容",
+      "title_ko": "일본, '안보 3문서' 개정 추진…日 언론 '방위산업기반전략' 일부 내용 공개",
+      "summary_ko": "일본이 안보 3문서 개정을 추진하는 가운데 일본 언론이 '방위산업기반전략' 일부 내용을 공개했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JTk5oV1ZPdUQtekJNeGs3Z2pEdnJqSDBDQkg0eXlnNHFzNWVaa0NmYktMQzJWUFd3bGI5OFotcUdCOEc1RlE3Q21iSnM1b3UzZjVHYUNFRHRFckRUcURKekp5NlNPbnRIWVc2cXVrSVdwclh2ZmxvUg?oc=5",
+      "published": "2026-11-17T01:35:48+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation",
+        "industry"
+      ],
+      "event": "japan-security-documents-revision",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "Saudi-led Coalition:\"Two drones launched by the terrorist Houthi militia were intercepted and destroyed in the Makkah and Riyadh regions.\"",
+      "title_ko": "사우디 주도 연합군 \"후티 반군이 발사한 드론 2기를 메카·리야드 지역에서 요격·파괴\"",
+      "summary_ko": "사우디 주도 연합군은 후티 반군이 발사한 드론 2기를 메카와 리야드 지역에서 요격해 파괴했다고 밝혔다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JaDNzUUdPWWpTZXkzYjFDeXdGV1BfSVE4Zjl2dEFnTE9IZzN4aDJSX3hiMGZGbHM0QjkyWnB3MnpVWmNyNDRsRXBhQmttRERtWDU0VzlISXZfYVE5RjdvT1lMT1JFLXBqUEEtWmF2UlN2bGtFMDYtbg?oc=5",
+      "published": "2026-11-16T21:56:10+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "houthi-drones-saudi-intercepted",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "RISK OF NUCLEAR ACCIDENT IN UKRAINE INCREASING THIS WINTER, ATOMIC SAFETY REGULATORS REPRESENTING 38 COUNTRIES SAY",
+      "title_ko": "38개국 원자력안전 규제기관 \"올겨울 우크라이나 원전 사고 위험 증가\"",
+      "summary_ko": "38개국을 대표하는 원자력안전 규제기관들이 올겨울 우크라이나의 원전 사고 위험이 커지고 있다고 밝혔다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JWllCTFZWSkFUTUNzX0U3SVo0NS1NOUZETVY1c0dpS05INE9SejREc200NG9yUUE1d005RHdWWHpwR0drQ0c5Si00R09ucHpBc040UXRYMnBSdHBsWkptTjd4b2NRUVRhbUxLbDQ2cHRjdlZfVG9mWg?oc=5",
+      "published": "2026-11-16T20:45:38+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-nuclear-safety-regulators-statement",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "IN JOINT STATEMENT, REGULATORS URGE RUSSIA TO CEASE ATTACKS ON UKRAINE'S ENERGY INFRASTRUCTURE",
+      "title_ko": "규제기관들 공동성명서 러시아에 우크라이나 에너지 인프라 공격 중단 촉구",
+      "summary_ko": "원자력 규제기관들이 공동성명에서 러시아에 우크라이나 에너지 인프라 공격 중단을 촉구했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DSGVNUmxSWW85b3pKdVVjdnFPQWxRMjFLTEJHWE1qd0tSM0ctNFBITVRGNGFmT0FsZDROOUR0cE56WGg4U19md0I4MmtTYzhDMVNFcGhibUFIMWJxcld4ZW41YkRjZGJYLTNJTENHS1BZUjF1M3VYcw?oc=5",
+      "published": "2026-11-16T20:45:20+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-nuclear-safety-regulators-statement",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "EU welcomes five-nation push to set up migrant return hubs",
+      "title_ko": "EU, 5개국의 이주민 송환 허브 설치 추진 환영",
+      "summary_ko": "EU가 5개국의 이주민 송환 허브 설치 추진을 환영했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIRFdtSXh5T2hveWJWU2dVM2Y2VEZTMUlRTkNNQ2pLRmZDTzNEUE51amd4b1JrQllQM0lLOXVGVVFRR1U1amsyTDJRWTMzVjAzblEwVEQtR090cXFYSzdxM3JJVzI1Tmc3STRmcUFqN0FrcXlxYklHSw?oc=5",
+      "published": "2026-11-16T20:45:09+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation"
+      ],
+      "event": "eu-five-nation-rwanda-return-hub",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "Jackson police said 4 people were shot, and 3 of them died at the intersection of Azalea Drive and Stillwood Drive. - reports",
+      "title_ko": "미 잭슨 경찰 \"총격으로 4명 피격, 3명 사망\"",
+      "summary_ko": "미국 잭슨 경찰은 애잘리아 드라이브와 스틸우드 드라이브 교차로에서 4명이 총에 맞아 3명이 숨졌다고 밝혔다(보도 인용). (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZN3pUYnJVaUVnV0J6d2g3aDhmUlAtRXZMTDJCb3duOFRPQUJ6VDc2Y1l1eXJVcExCUmJjcF9xNnQtTTM3TG5Odm1nak9jbHZDbkxDMFVqS215THNlTE1OTGhtNDItOUcyZzZfNUVQTWZyMjBCemt1LQ?oc=5",
+      "published": "2026-11-16T12:06:29+09:00",
+      "tags": [],
+      "event": "jackson-shooting",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "11 killed in southern Thailand building fire - reports",
+      "title_ko": "태국 남부 건물 화재로 11명 사망",
+      "summary_ko": "태국 남부 건물 화재로 11명이 사망했다(보도 인용). (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JWjItTjUwZU5veTNkQmNDUUFScFJUVjY5R3dGaWRIWUFER2NpZTVLcVBZaXRBWk9zZjFGejg1TVlxc2RfbVpMLXRVYVZJaEhhRlhZMzFIaWU2S1FhZ1o5bjVldWtURl91eXFpQkZoa0JmVEdFWHQ1dQ?oc=5",
+      "published": "2026-11-16T10:48:05+09:00",
+      "tags": [],
+      "event": "thailand-building-fire",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "美元指数16日上涨",
+      "title_ko": "16일 달러 인덱스 상승",
+      "summary_ko": "16일 달러 인덱스가 상승했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rYktfeUxTa2dKUWsyZ1dGa0JpWkwzRnI4ZEs3WGFZWmlfTkhmRDNOTnBhNEZJX00zU1RFZ2JZaUZSMVQwcHdkTV9qdkRKN0MxMmU5QjdxM3l4Sy1MWEV5ZXpvbndvc095SEtMZ3BOWDlWTzVkbm0tVEt1SVgwWHM?oc=5",
+      "published": "2026-11-17T05:20:49+09:00",
+      "tags": [
+        "monetary",
+        "stocks"
+      ],
+      "event": "dollar-index-nov16",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "国际油价16日显著下跌",
+      "title_ko": "16일 국제 유가 큰 폭 하락",
+      "summary_ko": "16일 국제 유가가 크게 하락했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uYTZzWDhLOEhxQVpyWmVQbDloTHBJNXpWRWQ5STY1aGMwRFhwR0F2RUxtZ09lTGRTOVZoSGE4NS1UNzlkaG05T1BsUVljTkVVYzFvWXlFa2t3a0hjWFZnU0xHejg3SU1NNUdZUzkzWk1fUkdfWF9RdjgtbHl5b00?oc=5",
+      "published": "2026-11-17T05:20:43+09:00",
+      "tags": [
+        "industry",
+        "stocks"
+      ],
+      "event": "oil-prices-nov16",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "波黑新一届主席团成员宣誓就职",
+      "title_ko": "보스니아 헤르체고비나 신임 대통령위원회 위원 취임 선서",
+      "summary_ko": "보스니아 헤르체고비나 신임 대통령위원회 위원들이 취임 선서를 했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Fa0hlOGlRVEdZcDBRdElDM2pqM1g1dzVHQnE4aldoSTdmZXpXTXkzaElzM2ZXQmMwcThrb3pKMU5vY1UwVlVqd01XWGN3ZDhjV05QRExfWXF3dEplbk9ZT1IwM0F3RVg1TXBiTEpseGVFbTlUN0ZYU0YtdGo5YWs?oc=5",
+      "published": "2026-11-17T03:49:26+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "bih-presidency-inauguration",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "俄方：三方会谈将继续举行 尚未协商欧洲参与问题",
+      "title_ko": "러시아 \"3자 회담 계속 진행…유럽 참여 문제는 아직 협의 안 해\"",
+      "summary_ko": "러시아 측은 3자 회담이 계속 열릴 것이며 유럽의 참여 문제는 아직 협의하지 않았다고 밝혔다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Nb0tJclEzcmFyaEFYTk8tcWV6ak0ycDc0YVFwanV4QTFkRjlhX0k5cEI5NDlHdjRKMDBvMVNITmVna21ZNFZNQzdpMFpaVjk1aGJOY0FIc01ENTQ2NWtRcThwamVzc0ZSa0t2RTRJNXBiTjlXQ0JzU1g4eHlXOG8?oc=5",
+      "published": "2026-11-17T03:48:24+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-peace-talks",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "巴西南部接连发生多起枪击事件致8人死亡",
+      "title_ko": "브라질 남부 잇단 총격 사건으로 8명 사망",
+      "summary_ko": "브라질 남부에서 여러 건의 총격 사건이 잇따라 발생해 8명이 숨졌다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTWGxMT3lmeXdfeVpnSkhqMjZJMHBLUmxlWlRxYjJPZjlHdnlEaW5tX2c4N1p6czQ3SW15aUd2YzdCdGwtcDdVVnBiZWEzWDc1Z0pSWUdMZU5vZWVFUkNiVWdzYlJ4dncwemQ2LThVbXNiUkNnbEFXbHRORm84Nmc?oc=5",
+      "published": "2026-11-17T00:43:30+09:00",
+      "tags": [],
+      "event": "brazil-south-shootings",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "聚焦APEC｜探访APEC领导人会议周新闻中心",
+      "title_ko": "[APEC 포커스] APEC 정상회의 주간 프레스센터 탐방",
+      "summary_ko": "APEC 정상회의 주간 프레스센터를 찾았다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qUVI4VU1EZTUxdV9WOGEzdmRCREFRb2hZZkIxMW1qMzVPeWdwVjc4NzQ5MVBqQjNRUzFURWJudnRmZFJiUDJIMXJoeXRRRGRPcHN4RjkybWtoeTF5dXc4ZDZTakJqRktyeEFWQ2p1RTk2VElvSFhYa0xVYkZVdzg?oc=5",
+      "published": "2026-11-17T00:11:00+09:00",
+      "tags": [],
+      "event": "apec-press-center",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "沙特国王下令调整沙特主导的多国联军指挥官",
+      "title_ko": "사우디 국왕, 사우디 주도 다국적 연합군 사령관 교체 명령",
+      "summary_ko": "사우디 국왕이 사우디 주도 다국적 연합군 사령관 교체를 명령했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11eEZ6cjlxNVRGYTlXTTRTN2xOdlZhSXVSUG1PNGRBUTJpdk9HaEhuNXY1N3ZHMFdnRjBhWmhjeXNoV240UkFZUVdka1N2cmVqTDNFdkJiN05TS2lxa2gtOTNTdTRkUUVsdUdCa2dLYTJMT3BBQ2l1cFFTNHVIamc?oc=5",
+      "published": "2026-11-17T00:03:36+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "saudi-coalition-commander-change",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "聚焦APEC丨加拿大总理卡尼抵达深圳",
+      "title_ko": "[APEC 포커스] 캐나다 카니 총리 선전 도착",
+      "summary_ko": "마크 카니 캐나다 총리가 선전에 도착했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15YVlMczdUaDk3U2phUXJJVUdrVElOckJfUlhlMEhRTURZQXl6NGk0bFQ5M1pIWlpjVFhGZF9fM2NXLUlPQno3VFdobzBoa0pIQm9LRUFrZEl6Y2pxZ1FPdm5CUXB6dzhGRF95T01HS05WSkdTQ1dKQmFseURKOHc?oc=5",
+      "published": "2026-11-16T23:11:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "apec-leaders-arrive-shenzhen",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "习近平致电祝贺波黑新一届主席团成员就职",
+      "title_ko": "시진핑, 보스니아 헤르체고비나 신임 대통령위원회 위원 취임 축전",
+      "summary_ko": "시진핑 주석이 보스니아 헤르체고비나 신임 대통령위원회 위원들의 취임을 축하하는 전문을 보냈다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9obVAyYTZ3d3dqdlpva056NEVOVEFKWkg2X0swdVFYdkY4TDJJWEEyRWhOMnNjWWFVOTUzOUN6OHZ5ci1KTnB1cmV0T3oxOVZjcmxZZWZIenBEc1huam5uV0xVUzdYem05V0o2clZlbw?oc=5",
+      "published": "2026-11-17T01:10:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "bih-presidency-inauguration",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "习近平致电祝贺波黑新一届主席团成员就职",
+      "title_ko": "시진핑, 보스니아 헤르체고비나 신임 대통령위원회 위원 취임 축전",
+      "summary_ko": "시진핑 주석이 보스니아 헤르체고비나 신임 대통령위원회 위원들의 취임을 축하하는 전문을 보냈다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wU0ZNR0EzMndNLWUyY3ZjRGszeHhURXpTdHF6UEdRczZpNFpWcE4yYzMzdVViTjAzZ2xsSnFBTDdNakU5QUdOVVFDZ29aZUdCY0Vqa3NLaHk4ZkdPU1BRejlyM2x3eTFCWTVrTVJoTQ?oc=5",
+      "published": "2026-11-17T00:44:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "bih-presidency-inauguration",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "生产一线火热 经济向新向优 - 人民网-图片频道",
+      "title_ko": "생산 현장 활기, 경제는 새롭고 더 나은 방향으로",
+      "summary_ko": "생산 현장의 활기와 경제의 고도화를 다룬 사진 보도. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBldjZVX242R29HYm5FZGYxUGlvc2g5QkREMU9HS1JwWnhkNERHd3RBbUtJMDRuMkRvVWw3T2xNbnFYNmRqbWh0ZVV3bm9YZm8tYmMydjRjdC1ka2E4bFJJelh1MEt3MExv?oc=5",
+      "published": "2026-11-17T00:18:00+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "china-october-economy-data",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "加拿大总理卡尼抵达深圳--国际",
+      "title_ko": "캐나다 카니 총리 선전 도착",
+      "summary_ko": "마크 카니 캐나다 총리가 선전에 도착했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42RExsd0VPNkdSS0JnZzBvbzFmVnVkUTJ2RFp2WEY4MWpDSkVORGNhLUtlZHZubEs0ejlTWktFQTI0a052THdRc1lBdFk1dzNOSGVnLVljcmxFY2VjQkxxZUx1S2phWXAxRjY0?oc=5",
+      "published": "2026-11-16T23:13:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "apec-leaders-arrive-shenzhen",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "习近平在广东中山考察 - 人民网-图片频道",
+      "title_ko": "시진핑, 광둥성 중산 시찰",
+      "summary_ko": "시진핑 주석이 광둥성 중산을 시찰했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4LTVZREpnOTl0blk0RGdKSFlHYTA3MmZibG9iV3Rqd2xsN3Bwc0lCSEQ1UGR4MTZVeVB6Yy0teWp4RFM5ZjF5TU9KcTZWREdFMWJLdzQ3cXVZYjNyclh2MWJBSTZHTWRZelJJ?oc=5",
+      "published": "2026-11-16T22:32:00+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "xi-inspects-zhongshan",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "“陈云与长征”专题展在陈云纪念馆开展 - 人民网-上海频道",
+      "title_ko": "'천윈과 대장정' 특별전, 천윈기념관에서 개막",
+      "summary_ko": "천윈기념관에서 '천윈과 대장정' 특별전이 개막했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBINzZaTV9uWGRUeVQxS1NOTnlrb052d3lkemxZQ3l1d19xLWRPOTBpWGRyMjUtZGNfVW14aHRqTzBqWVctV1IwcUs3RkpBdlRoRVM4RHQ0aUE3YkpXU1FPN3V4MkQzVHJHa3c?oc=5",
+      "published": "2026-11-16T22:26:00+09:00",
+      "tags": [],
+      "event": "chen-yun-long-march-exhibition",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "巴布亚新几内亚总理马拉佩抵达深圳--国际",
+      "title_ko": "파푸아뉴기니 마라페 총리 선전 도착",
+      "summary_ko": "제임스 마라페 파푸아뉴기니 총리가 선전에 도착했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vbDN0Z1k1SnVnckNmU2MyNWdoVTBhQm90d3p4YmZuM3hESmJIejQzVEl5TGpIM1pzWFpFQndycWJ2RGVOak4xdkpsZG5sZTN6VTJZTF95OEhKd25lX0MxUlVMcWJEQXRnX2tJ?oc=5",
+      "published": "2026-11-16T22:14:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "apec-leaders-arrive-shenzhen",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "中外记者开启“APEC报道时间”--经济·科技",
+      "title_ko": "중외 기자들 'APEC 취재 시간' 시작",
+      "summary_ko": "중국과 외국 기자들이 APEC 취재를 시작했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xTllzWTlhcmYtYkhNbG5ROXBYdzI5ZmZZMzc1eFJyVkJmSFlUek8xcTZXWXdEM1JOU0xGdm5tMHQ1WV9aQV9CVEVHZW1PMU9fSEpvU0RFelgwZXRkaDF5ZHJYcFBVczNSOEVFTW53?oc=5",
+      "published": "2026-11-16T21:59:00+09:00",
+      "tags": [],
+      "event": "apec-press-center",
+      "state_media": true
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Customers at major US banks report difficulty with some online services",
+      "title_ko": "미국 주요 은행 고객들, 일부 온라인 서비스 이용 장애 보고",
+      "summary_ko": "월요일 미국 주요 은행 일부에서 고객들이 온라인 계정 접속 장애를 보고했다(다운디텍터 기준 BoA·체이스·US뱅크·웰스파고·트루이스트). 체이스 대변인은 사이버 문제가 아닌 기술적 버그라고 밝혔다.",
+      "url": "https://www.scmp.com/business/banking-finance/article/3374651/customers-major-us-banks-report-difficulty-some-online-services",
+      "published": "2026-11-17T05:23:11+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "us-banks-online-outage",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Ukraine held new talks with US, European officials on peace prospects, Zelensky says",
+      "title_ko": "젤렌스키 \"우크라이나, 미국·유럽 당국자와 평화 전망 새 회담\"",
+      "summary_ko": "젤렌스키 대통령은 미국 특사 스티브 위트코프·재러드 쿠슈너 및 유럽 대표들과 종전 전망에 관한 새 온라인 회담을 했다고 밝혔다. 또 러시아가 대규모 공습을 계획하고 있다는 정보가 있다고 말했다.",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374650/ukraine-held-new-talks-us-european-officials-peace-prospects-zelensky-says",
+      "published": "2026-11-17T05:03:01+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-peace-talks",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Handwritten draft of Martin Luther King Jnr’s ‘I Have a Dream’ speech heads to US auction",
+      "title_ko": "마틴 루서 킹 '나에게는 꿈이 있습니다' 연설 친필 초안, 미국 경매 출품",
+      "summary_ko": "1963년 링컨기념관에서 한 마틴 루서 킹 목사의 '나에게는 꿈이 있습니다' 연설의 파란 펜 친필 초안이 미국 경매에 나온다.",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374649/handwritten-draft-martin-luther-king-jnrs-i-have-dream-speech-heads-us-auction",
+      "published": "2026-11-17T04:26:22+09:00",
+      "tags": [],
+      "event": "mlk-dream-speech-draft-auction",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Five EU countries unveil plans for Rwanda deportation hub",
+      "title_ko": "EU 5개국, 르완다 추방 허브 계획 공개",
+      "summary_ko": "독일·오스트리아·그리스·덴마크·네덜란드가 망명 거부자를 르완다의 추방 센터로 보내는 계획을 공개했다(르완다와 협상 중). 인권단체들은 취약층이 학대 위험에 놓인다고 비판했다.",
+      "url": "https://www.scmp.com/news/world/europe/article/3374648/five-eu-countries-unveil-plans-rwanda-deportation-hub",
+      "published": "2026-11-17T03:28:51+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation"
+      ],
+      "event": "eu-five-nation-rwanda-return-hub",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Pakistan’s jailed ex-leader Imran Khan appeals for urgent medical care",
+      "title_ko": "수감 중인 파키스탄 전 총리 임란 칸, 긴급 치료 호소",
+      "summary_ko": "수감 중인 임란 칸 전 파키스탄 총리가 대법관들에게 공개서한을 보내 자신과 아내의 긴급 치료를 요청하고, 당국이 이슬라마바드 병원 이송 명령을 이행하지 않았다고 주장했다.",
+      "url": "https://www.scmp.com/news/asia/south-asia/article/3374647/pakistans-jailed-ex-leader-imran-khan-appeals-urgent-medical-care",
+      "published": "2026-11-17T02:50:13+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "imran-khan-medical-appeal",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Nvidia scandal, AI anger, Beijing’s mockery: 7 US-China relations reads",
+      "title_ko": "엔비디아 스캔들, AI 반발, 베이징의 조롱: 미중 관계 읽을거리 7선",
+      "summary_ko": "SCMP가 최근 몇 주간 미중 관계 주요 기사 7개를 골랐다. 첫 기사는 엔비디아 스캔들의 여파가 취약한 미중 휴전을 시험할 수 있다는 분석가들의 견해를 다룬다.",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3374513/nvidia-scandal-ai-anger-beijings-mockery-7-us-china-relations-reads",
+      "published": "2026-11-17T02:47:31+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "us-china-relations-roundup",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Russell Brand investigated over ‘appalling’ message from jail, Downing Street says",
+      "title_ko": "영국 총리실 \"러셀 브랜드 옥중 메시지 '경악스러워'…조사 중\"",
+      "summary_ko": "영국 총리실 대변인은 강간·성폭행으로 수감된 코미디언 러셀 브랜드가 SNS에 올린 메시지가 경악스러우며 조사 중이라고 밝혔다. 메시지는 아내가 유튜브 영상에서 대신 읽었다.",
+      "url": "https://www.scmp.com/news/world/europe/article/3374646/russell-brand-investigated-over-appalling-message-jail-downing-street-says",
+      "published": "2026-11-17T02:31:23+09:00",
+      "tags": [],
+      "event": "russell-brand-jail-message",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Trump Media faces possible US$1 billion debt repayment as stock nears record lows",
+      "title_ko": "트럼프 미디어, 주가 사상 최저 근접 속 10억 달러 채무 상환 가능성",
+      "summary_ko": "트럼프 미디어&테크놀로지 그룹은 2025년 5월 발행한 10억 달러 전환사채 보유자들이 11월 30일 현금 상환을 요구할 수 있어 압박을 받고 있다. 주가는 사상 최저 수준에 근접했고 자산의 절반 이상이 디지털 자산이다.",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374645/trump-media-faces-possible-us1-billion-debt-repayment-stock-nears-record-lows",
+      "published": "2026-11-17T02:09:46+09:00",
+      "tags": [
+        "business",
+        "stocks",
+        "crypto"
+      ],
+      "event": "trump-media-convertible-debt",
+      "state_media": false
+    },
+    {
+      "source": "China Daily",
+      "title_original": "新发现+1！郭守敬望远镜揭秘六万多年前恒星爆炸遗迹",
+      "title_ko": "궈서우징 망원경, 6만여 년 전 항성 폭발 잔해 규명",
+      "summary_ko": "궈서우징 망원경(LAMOST)이 6만여 년 전 항성 폭발의 잔해를 밝혀냈다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02am5mWUZQOGl1UUVfYlZNS3ZyblVMTjN3WTF1TmpzS0dfSzl3V2F4WVJ1cVFuUERuallJckZOcjRjQ3J3cWNSTi1qRHBlWGFNcnNrQnlpcGRILW9SS3B0OGtXX0ZPTFpWVlAtUzRoUXBibFRadTVJTlhDTQ?oc=5",
+      "published": "2026-11-17T00:48:02+09:00",
+      "tags": [],
+      "event": "lamost-supernova-remnant",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "推动修订“安保三文件” 日本“防卫产业基础战略”部分内容被曝光",
+      "title_ko": "'안보 3문서' 개정 추진…일본 '방위산업기반전략' 일부 내용 공개돼",
+      "summary_ko": "일본이 안보 3문서 개정을 추진하는 가운데 '방위산업기반전략' 일부 내용이 공개됐다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55LUFlZzhTWm9TWEtqMGpIU2VONkE3dDBBQ0lJSWFXMVhZV0NDM1duR25RS0dJZXVjQjJGZ2ZyQnhwQUt6TDcxZmhaYkdtQkZFWnF6anEyc2xBZTh4d3lWcmNLVjZXQ3VBcDVfa2JDaWYzVW9WSDFEdnlCVQ?oc=5",
+      "published": "2026-11-17T00:47:27+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation",
+        "industry"
+      ],
+      "event": "japan-security-documents-revision",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "同处一片大洋，共享一个未来",
+      "title_ko": "같은 바다에서, 함께 나누는 미래",
+      "summary_ko": "(제목 기준) 제목 외 확인되는 사실 없음.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EMTNibFhLeGdMUnRuMVFJZG9LN0l4LWU4SjVEdDIxT1pfZUlEandmY2tZNjNDVmtvak9LNXFKdFU2cFNpX2I4MHhBRjZEZkotV1VENTFlN1NxbzR4and1SkhPUlkyc1hXYUNpN3d2TzZONlNndnkxT0phZWU?oc=5",
+      "published": "2026-11-17T00:32:30+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "apec-shared-future-commentary",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "海外留学生爱上北京的N个理由",
+      "title_ko": "해외 유학생들이 베이징을 사랑하는 N가지 이유",
+      "summary_ko": "해외 유학생들이 베이징을 좋아하는 이유를 다룬 보도. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iX01RbWtqbkYwcjdoTHlQZEdwbVNXc2xLdW5yaVc4b1FZSzVEVENWVmwzdjRpb09ReXFCY1ZFSW9INHdPejlnbXdMQzQxdlRTN3p2alBFYnRoNWE0aHBIRnc5cGEzUUNtMEdScmp6T2ZhbDNwVGcwTzFQMzI?oc=5",
+      "published": "2026-11-16T23:14:36+09:00",
+      "tags": [],
+      "event": "beijing-foreign-students-feature",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "和合共生：数读亚太经合组织",
+      "title_ko": "화합공생: 숫자로 읽는 APEC",
+      "summary_ko": "숫자로 APEC을 소개하는 보도. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zM2R5bGdwNEF4NzA5Q3lKeWpFNW5aZ0kyUTROZ1Qyam9hRUJjSjZwWVFNRmRscDRlb2tPNTNtb01NcEtOVzR0UXp5WmFhTGtVQ0E0U1VSbm9aSTdldGxkS1V1NkFiY1l5cGl0UTl3TWpKa1dOS3dNYmVfdE8?oc=5",
+      "published": "2026-11-16T23:14:34+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "apec-by-numbers",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "视频 ｜ “金钟共响·丝路和鸣”音乐会亮相肯尼亚",
+      "title_ko": "[영상] '금종공향·실크로드 화음' 음악회 케냐에서 공연",
+      "summary_ko": "'금종공향·실크로드 화음' 음악회가 케냐에서 열렸다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9sSjIyWW55WDRnNmhXX1dzUzZNdmEtc1J6ZmpQTk9CalZGNlR2REZsUDhxcHFGZ1B4UWlVTFg1Mk14ZVMwYi01ZzZ4bkx2RnVWeWR0dTNsVkc3VWFwVW9ZZTVVdVA2aGJJMkdmaFRQOEozWGEzTmt3T1QtZk0?oc=5",
+      "published": "2026-11-16T22:58:44+09:00",
+      "tags": [],
+      "event": "silk-road-concert-kenya",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "一组数据看10月份国民经济运行总体平稳、向新向优",
+      "title_ko": "데이터로 본 10월 국민경제: 전반적 안정, 새롭고 더 나은 방향으로",
+      "summary_ko": "10월 중국 국민경제가 전반적으로 안정적이었다는 데이터 보도. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RRmlHc3VFNWg3WEdfRUpzQUdnWHBnT19sZm40Y0xfVFhNNWtqekQ3bks3RjNoOHBOeVNYNldyTHJpOVBfeWZBSmxNSDJRaHJPUHY5TUZUNU5naE9JR2tKYU5LcmxkZ29jMWZpcHVEQUtZV3ktM3U2VEJyM2g?oc=5",
+      "published": "2026-11-16T22:47:34+09:00",
+      "tags": [
+        "industry",
+        "forecast"
+      ],
+      "event": "china-october-economy-data",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "习近平在广东中山考察",
+      "title_ko": "시진핑, 광둥성 중산 시찰",
+      "summary_ko": "시진핑 주석이 광둥성 중산을 시찰했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84aXpiNVNCT05za0hkS0p2ZThsb2hWYkw1emlVdVczeEFvZHN2eWdwbXZNTF9sN1pBQWpDUzQwRTJlNzFyVHBoUHYxUUlVX256bGZHS3d6U1MxSHJla0c1bThPUTZBblJrOHB2dFVaWkVURFRxS2wxY1ptRQ?oc=5",
+      "published": "2026-11-16T22:38:02+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "xi-inspects-zhongshan",
+      "state_media": true
+    }
+  ],
+  "events": [
+    {
+      "event": "bih-presidency-inauguration",
+      "title_ko": "보스니아 헤르체고비나 신임 대통령위원회 위원 취임 선서",
+      "sources": [
+        "CCTV",
+        "Xinhua",
+        "People's Daily"
+      ],
+      "count": 4
+    },
+    {
+      "event": "apec-press-center",
+      "title_ko": "[APEC 포커스] 프레스센터에서 무형문화유산의 매력을 느끼다",
+      "sources": [
+        "CCTV",
+        "Xinhua",
+        "People's Daily"
+      ],
+      "count": 4
+    },
+    {
+      "event": "apec-leaders-arrive-shenzhen",
+      "title_ko": "[APEC 포커스] 캐나다 카니 총리 선전 도착",
+      "sources": [
+        "Xinhua",
+        "People's Daily"
+      ],
+      "count": 3
+    },
+    {
+      "event": "japan-security-documents-revision",
+      "title_ko": "일본, '안보 3문서' 개정 추진…日 언론 '방위산업기반전략' 일부 내용 공개",
+      "sources": [
+        "CCTV",
+        "China Daily"
+      ],
+      "count": 2
+    },
+    {
+      "event": "eu-five-nation-rwanda-return-hub",
+      "title_ko": "EU, 5개국의 이주민 송환 허브 설치 추진 환영",
+      "sources": [
+        "CGTN",
+        "SCMP (홍콩)"
+      ],
+      "count": 2
+    },
+    {
+      "event": "ukraine-peace-talks",
+      "title_ko": "러시아 \"3자 회담 계속 진행…유럽 참여 문제는 아직 협의 안 해\"",
+      "sources": [
+        "Xinhua",
+        "SCMP (홍콩)"
+      ],
+      "count": 2
+    },
+    {
+      "event": "china-october-economy-data",
+      "title_ko": "생산 현장 활기, 경제는 새롭고 더 나은 방향으로",
+      "sources": [
+        "People's Daily",
+        "China Daily"
+      ],
+      "count": 2
+    },
+    {
+      "event": "xi-inspects-zhongshan",
+      "title_ko": "시진핑, 광둥성 중산 시찰",
+      "sources": [
+        "People's Daily",
+        "China Daily"
+      ],
+      "count": 2
+    },
+    {
+      "event": "ukraine-nuclear-safety-regulators-statement",
+      "title_ko": "38개국 원자력안전 규제기관 \"올겨울 우크라이나 원전 사고 위험 증가\"",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 2
+    }
+  ],
+  "unavailable_sources": [
+    "Global Times",
+    "Caixin"
+  ]
+}
