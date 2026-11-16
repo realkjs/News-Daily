@@ -1,0 +1,55 @@
+{
+  "us": {
+    "headlines": 88,
+    "unavailable": []
+  },
+  "kr": {
+    "headlines": 104,
+    "unavailable": [
+      "MBC"
+    ]
+  },
+  "jp": {
+    "headlines": 72,
+    "unavailable": [
+      "TBS",
+      "テレビ朝日",
+      "フジテレビ(FNN)",
+      "Nikkei Asia"
+    ]
+  },
+  "de": {
+    "headlines": 80,
+    "unavailable": []
+  },
+  "uk": {
+    "headlines": 78,
+    "unavailable": [
+      "The Times"
+    ]
+  },
+  "fr": {
+    "headlines": 56,
+    "unavailable": [
+      "Les Echos"
+    ]
+  },
+  "il": {
+    "headlines": 48,
+    "unavailable": [
+      "Kan (KAN News)",
+      "N12 (Channel 12)"
+    ]
+  },
+  "ru": {
+    "headlines": 72,
+    "unavailable": []
+  },
+  "cn": {
+    "headlines": 46,
+    "unavailable": [
+      "Global Times",
+      "Caixin"
+    ]
+  }
+}
