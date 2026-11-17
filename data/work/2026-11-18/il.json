@@ -1,0 +1,902 @@
+{
+  "team": "il",
+  "headlines": [
+    {
+      "source": "i24NEWS",
+      "title_original": "NSA Classified Communications Network Down, Cyberattack Not Suspected - Report",
+      "title_ko": "NSA 기밀 통신망 다운, 사이버공격은 의심되지 않아 - 보도",
+      "summary_ko": "미국 국가안보국(NSA)의 기밀 통신망이 다운됐으며 사이버공격은 의심되지 않는다는 보도. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQjRCZDM0QnEycnlVWUxjQjNKakFvUTB6ZzBJQ01sSGJhdGFOWXdiNjMzcWhhdDFYTjQwMENzOFRHc3FxQ1VEeFJYMWRMVFZ5SXhfYTg3Y2R5N19YV3hTeDR6eTF2b01tcG5xeXowc3NpNjJldmlKQVdjYTFqMFY2dzFTMS1vbWJuVWZGVGJYSDlib29IQW5LcHhSRUhIUmVrZmNtZmlxY05CWVJweWU1N3R3dUVfVHhKSDVLcG9VT1RlZ28wUVRyLXNheEZ6THc?oc=5",
+      "published": "2026-11-18T04:22:47+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "nsa-network-outage",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Herzog, Pahlavi Envision Israel-Iran Peace Beyond Tehran’s Regime",
+      "title_ko": "헤르초그·팔레비, 테헤란 정권 이후의 이스라엘-이란 평화 구상",
+      "summary_ko": "헤르초그 대통령과 팔레비가 현 이란 정권 이후의 이스라엘-이란 평화를 구상했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcWdaX2V0UDFGUEt3MmNSZWpEeWs4LXlIVUZvbVh6TVdYUjJhbldxODVsa2hiX3pFZ3FrSE9yZExtTnAycDlrTW5acVJQUE85RUtsVGlsel9yZUV6RnhVUW5WTDh1Qm5DOUktXzk0LTF3bE15bFFoMVdQbEFlUEJPYk12Q3F6MmhDRXQzOWQ2Sm1iSVlQN1l1dEotdG5iZ29IcE53WHlYTjdqaG11LXhvNkZSaS1lc3RL?oc=5",
+      "published": "2026-11-18T03:25:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "herzog-pahlavi-israel-iran-peace",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Israel Election Probe Finds No Evidence Of Fraud Sufficient To Change Results",
+      "title_ko": "이스라엘 선거 조사, 결과를 바꿀 만한 부정 증거 발견 못 해",
+      "summary_ko": "이스라엘 선거 조사에서 선거 결과를 바꿀 정도의 부정 증거는 발견되지 않았다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb3U2VC16VnBGNC1uS3BOMkc0V2RvSEFoS0FlWC1xNjl5Z09oWlNxOXJ5TlctRVN2MGVqZk9tX2QzcmFnWnZTdWxqRjIzZ3dHRk9LenNHOFNuUGhaVHltbzVPT3JsNEpLMmx4NE1yWVRPWGkxZHVsVHk1LUl3bnpSaHJydGU0M0c1dUdLS05ZY3pnX3puZkNqOUYtMl82eGRBbU5NWUdWb2NuR0VxdC0wbUpfcE5RMWowejBJX0drYUZGMUtOdUZkNE1jWlR1TkRtcHc?oc=5",
+      "published": "2026-11-18T02:38:03+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "israel-election-fraud-probe",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Israel Opposes French Plan For European Force In Lebanon, Official Tells I24NEWS",
+      "title_ko": "이스라엘, 레바논 내 유럽군 배치 프랑스 구상에 반대 - 당국자가 i24NEWS에 밝혀",
+      "summary_ko": "이스라엘 당국자가 레바논에 유럽군을 두자는 프랑스 계획에 반대한다고 i24NEWS에 밝혔다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVnNQYXhpdE10bmUxRzRleXdGeWdSQ0lhX2xvVlB3RnhfQURGWWJQU2Nycm11N3prSnhhQjdsd01UQlB3RG9WVThhRFN3S1V6WEkzeGtxaE5MRE1KQk1tNnVkNHNZcVJBc29WZzluYU1raWRjSUJVN0hJcVRsMjN5amtnTEQtYVlQTDVVdUp0Q2lkZW5xYTFvd29kT0F3cjhWcGZiS0VGeDZ4Qldhd1VQR05rUC1TVjBpNHdKZHh0cnB6VGdkaTNGbUlybUJEZFdWeFB3WC1HWQ?oc=5",
+      "published": "2026-11-18T02:14:02+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "israel-opposes-french-lebanon-force",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Huang Says He Is Open To Nvidia Return As Pressure Builds On Board",
+      "title_ko": "황(Huang), 이사회 압박 커지는 가운데 엔비디아 복귀에 열려 있다고 밝혀",
+      "summary_ko": "황(Huang)이 이사회에 대한 압박이 커지는 가운데 엔비디아 복귀에 열려 있다고 말했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMUpVVEw4bV91OXZVYS1tWHF1N2VHUXc4cW5VbExBXzNWSW1EaExQT3FOeDBXbUJ0dFBuRlkycHh4YjRDckFHaUdGaXN2ZzRiNThEWmRhTmVxdHF4a1BubTN1RjVSNGx4R3J6VG1mQWlGblhTVEFIdEJNN2pvekJ0RHBDeklSdEVyWGZ4d1VHSldxaTZxMXJPSjdyVWlheWtFOHdVQTdESXVodncteFNkc0dJY0R1Q3o5b0FsV3lic0wxWnM?oc=5",
+      "published": "2026-11-18T01:23:00+09:00",
+      "tags": [
+        "business",
+        "industry"
+      ],
+      "event": "nvidia-huang-return",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Five Arrested As North Macedonia Foils Iran-linked Plot In Greece",
+      "title_ko": "북마케도니아, 그리스 내 이란 연계 음모 저지…5명 체포",
+      "summary_ko": "북마케도니아가 그리스에서의 이란 연계 음모를 저지하고 5명을 체포했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSnl0SjlNcWxmZkszNHlNWHlQSFhQREZSSnRodGJfZkoyR28xVTB1NE03NjdvdmFkY25uaVcybHhkNzhNZ0VaWHpkaFZoZ3BFZHZONElfak9BMnJnRHhpVDg2dmpUNlpXN0syN3RPaFRRS00zUy1KbWJjMGU5dHM3VDA0cl93dXJ5THZuTzFaekJuSXhidFdiT2hIcXdXTE9fODlNamQ1NmtILXFJZzFJVWtlTzloTG56akZNdWQ1dw?oc=5",
+      "published": "2026-11-18T00:42:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "iran-plot-greece-foiled",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Battle For Knesset Speaker Pits Likud Against Eisenkot’s Bloc",
+      "title_ko": "크네세트 의장 선출전, 리쿠드 대 아이젠코트 블록",
+      "summary_ko": "크네세트 의장 자리를 놓고 리쿠드와 아이젠코트 블록이 맞붙었다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMjBZbHVGcXNzYkc2amtaUDhfRHZnQUlNaDl0N3JOaERjcU8zaWdHVDE5Sk9wRFdVb3FRWjdfa2hkMkU3VXFvemFNX25DVDlqN2ZheVJBYXdRb3VDblJLZVRya1pwOWdKa05od0xPUGp0c1BKZEZMdzNjb2FBSnY4akhiNUpRRXViVjNtMVhXQWNZaWRTbnBfSmgtMkdCMUxhV21pNmpKdjlWY0JhTzJISzljMA?oc=5",
+      "published": "2026-11-17T22:48:53+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "knesset-speaker-election",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Danon Leads UN Ambassadors On Tour Of Israel’s Northern Border",
+      "title_ko": "다논 유엔대사, 각국 유엔대사들과 이스라엘 북부 국경 시찰",
+      "summary_ko": "다논 대사가 유엔 대사들을 이끌고 이스라엘 북부 국경을 시찰했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVmRnbDY1VzdZTTd6UmRON0t6NlBINkNJRFhjTGtZeWN5bVZILU9VczFmTE1KZF9KQ21pMnFKX2QycnZ3ZkJubXRHU0c0QTZLbkVHLWNtQUExVFQ4aVJuYlhMejJaNVpNNjZ6X1BZWWg4WVN5c0hrMVVGeWVkMU1qSDJXRVFVcjhQdHlYekdaZmZiS3BZczJkcFNDdzM0SklkeFc1YWc1aUR3WmlUYzEwNlFmSlM2Zw?oc=5",
+      "published": "2026-11-17T22:42:02+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "danon-un-northern-border-tour",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "Israeli lightly hurt by Palestinian vehicle in hit-and-run near Havat Gilad settlement",
+      "title_ko": "하밧 길라드 정착촌 인근 팔레스타인 차량 뺑소니로 이스라엘인 경상",
+      "summary_ko": "하밧 길라드 정착촌 인근에서 팔레스타인인 차량 뺑소니로 이스라엘인 1명이 경상을 입었다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNjVsRkV5SFM4bDNfSXFTLUoycExodmZCTWZQUWNBa3d2aGR3SmRrZlVPc3o1RWYtbGFvQjF1eGxrczFNVHc2MVZPa09IVzRCUG51MUtvalQ3bktJdk5RSWFrTzA4QWQ1bFFxekpXRUF4ajlYa3JXdHRTR3l1bXdWSGtibmIxMW1UWXRwYi1jeFBtSzFEWXFCU0FzSm02Sm9sX3pieV9RRVhVcWdjVm9xYjZxSTNqQ3BOb3BXLXN0MGN5TGh4ZlBUTGJIWnc?oc=5",
+      "published": "2026-11-18T05:13:02+09:00",
+      "tags": [],
+      "event": "havat-gilad-hit-and-run",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "US military official says fighter jets hit Iranian missile-launch site on Qeshm Island earlier today",
+      "title_ko": "미군 당국자 \"전투기가 오늘 앞서 케슘섬 이란 미사일 발사 기지 타격\"",
+      "summary_ko": "미군 당국자에 따르면 전투기가 케슘섬의 이란 미사일 발사 기지를 타격했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ3V4dUNCbEhBbHczSjVUdHNtTHl0eWZXaU9zeGU4MW5tZ3ZHSzNEMGdsSmlJUmZtemI0NXc0bFFRUExpRmlQWXFrNW5XTWw3VFE0emxYd3RrUk9zTkJrajBVbHBWVExCMGRuTHh6dC1YMVczcUZGV0gtWFJnWTF6WTYtTXJjeTMxWkgtM19Xdnd5SVR0VUxmZWF6a2xORW1OUE9WeW9QVjJhU0d3UWdGOUYyOXpKcGpJd0FSYzZvTUpFcFJERFhhSmVEZUd6OHRoQ1BybU44OEJtcHh6M2tv?oc=5",
+      "published": "2026-11-18T04:43:02+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-strike-qeshm-iran-missile-site",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "Yashar",
+      "title_ko": "야샤르",
+      "summary_ko": "제목은 'Yashar'(야샤르) 한 단어뿐이며 내용 확인 불가. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XeVM4ZkgzMUZoNnZsSjhlaFh5dzZBaVdpall3YW1WUi02TkczaEMtQ2hxR2M4S2JxN3RNQWFCWmgtVXNGdVVIWnlIMkU0UlU0S0F3cnRn?oc=5",
+      "published": "2026-11-18T04:16:00+09:00",
+      "tags": [],
+      "event": "yashar-headline",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Blogs: Can you separate Judaism from Zionism?",
+      "title_ko": "블로그: 유대교와 시오니즘을 분리할 수 있는가?",
+      "summary_ko": "유대교와 시오니즘의 분리 가능성을 다룬 블로그 글. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5UThwcTNmUTZ5ZFNQNTJ0VXVfMHpJSHRNZkJSLWRqMWNWZGhHbGJLb1JJdE5xcmFLSkRhc0NpNEN6WVl6dC1aZkxmVllvRW9MeWtfMjJxNXhQYUF5cGtXUURzOXhQNGtFU2REcnBhZnZlcWxEd2QtaXh3?oc=5",
+      "published": "2026-11-18T04:05:00+09:00",
+      "tags": [],
+      "event": "blog-judaism-zionism",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "How I Built a Jewish Journey with My Non-Jewish Husband",
+      "title_ko": "비유대인 남편과 함께 유대인의 여정을 만들어 간 방법",
+      "summary_ko": "비유대인 남편과의 유대교 신앙 여정을 다룬 글. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORzdwZHYzTlBJdUlhSGlyTW43cHE0d2ExbmlOYUxlck5BdTgxczhaQlBBVklFZnJCa2otYTE0a3FSLUlETmtaUmdkeURfOFN6R3ZITkJpbDFqNXRUdFlqN0Jrd2psd1o0TVBPdzRTNWwzLW44LTRob3o4V1M0eXdOdEdrS2NMWkY1UnJUV0RHNXMydw?oc=5",
+      "published": "2026-11-18T04:03:00+09:00",
+      "tags": [],
+      "event": "blog-interfaith-jewish-journey",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "‘Do not build’: UK sanctions 8 Israeli construction companies for building West Bank settlements",
+      "title_ko": "'짓지 말라': 영국, 서안 정착촌 건설 이스라엘 건설사 8곳 제재",
+      "summary_ko": "영국이 서안 정착촌을 건설한 이스라엘 건설사 8곳을 제재했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObEVDWHBSU1REbnl0MmstS0F0ejN5em05UkgxbjctNmVoWjZZZU1WbHhGbE02OXRWS3RVandocHQwTnpYQkxhRE1jNzFmUXpndF9uam5iYmRJLWVHZU4tajh6cmZnTV96OFJMWEhVbGVrZERJenJUaGhhMHhBVjZVYVJLTVRhVFJZbTc4NGcyb3k0NGladGxwX0FVd2xTdW41dTVhVU5tZ0lsX2RWdGxYMdIBtgFBVV95cUxOeHYya19iX3BIbGYyMUhUVzFwaXljdmxQNi1mQkxSeGk0bjFGZWlSQkV0NkZpR2ozXzJFZmtDZS02V3RaR1k4SVZYYkR2UUkwWmhTcFZ3VjcyMm5hR3dNb0lLZEFuVDI0ODBnOERQeGY0dE0yU0YwLTBmaTV6UXQ3eTFZbDc3NXN0UVlRVzZLR1pqdVl2czJfbnhoMzRGa2hiaVZrcUNld000NjhBdWQ1R1AyaFBtUQ?oc=5",
+      "published": "2026-11-18T03:33:45+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "uk-sanctions-israeli-settlement-builders",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "Sa'ar vows 'countermeasures' after UK announces sanctions on companies involved in West Bank construction",
+      "title_ko": "사아르, 영국의 서안 건설 관여 기업 제재 발표에 '대응 조치' 경고",
+      "summary_ko": "사아르 외무장관이 영국의 서안 건설 관련 기업 제재 발표에 대응 조치를 예고했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMS1tMW1xWFJwcmYzZWJWTG9EOFd0QmVLVWRYbzQyTzUzQXN3UzI3WWZycDhyamFDRjNsdEhnOHVVaTVkSDZBYWhUOHRWcDNqY1A0RXIwaGVITGlzb0J3QzhDRlBOUlZmd0ZtVGotSWFlbDdMX2UxcmZ2R2tsVmcyVDBOeHNFLWtWN1cwRGJod01QelJOYXc1cmZQNi1GZkVlbXY3WklMNUVRLTAyXzd0S05qWl93REN4c0pBR3VKUE13bk1Td3RHUWwtZFc4ZlRNUXBmUk5jSEswS2F1WE5iTDJn?oc=5",
+      "published": "2026-11-18T02:53:42+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "uk-sanctions-israeli-settlement-builders",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "Drought-hit Hungary to host Israeli delegation for talks on water, energy cooperation",
+      "title_ko": "가뭄 겪는 헝가리, 물·에너지 협력 논의 위해 이스라엘 대표단 맞아",
+      "summary_ko": "가뭄을 겪는 헝가리가 물·에너지 협력 논의를 위해 이스라엘 대표단을 맞는다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd0FiRnk3Zy1lclhhVkN5c3N4QkNQTlRMUVd5bDlaUm1aMTZWbS16azBNQnFvaV9IeUJiejEybmQwajRpYW1ZdzZVRGVqZDhSOGMxdjJncEwybWlKcW5oWFdjNFQ3eWlORlNDMzdYTVJwOWdhTENDa2JENVF0NktCajVQeE1iUGs1YWl3MVJwOXJaTUhscUE5RWtzdXp2a1ljZHNaVVVma2JKTTVQM1NVREIzRXZHZ9IBuwFBVV95cUxOMEQxUmVORFBwU2xTY2RTcVBENUFjT0ZoYlZ1d2FGam1oSnQtLUtmVnZyRlFpSWtPSUNSeWliNXVyaHFqSUM1UjU1VUQza0EwQmRvVjZfZnNqX1lpNXl0QjhQNTcwT3k4Tm9BTXp0VUhUaDlpT0ZKTC1JWUViUUItekxLV3pPZFJ1emZGX21WXzc5NlFFR2QxWjhidlQtTlBEaVJlOGVMOFFvVkYxcXdSdVRiU1lhU0paT0tV?oc=5",
+      "published": "2026-11-18T02:53:02+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "hungary-israel-water-energy-talks",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "North Macedonia, Greece say they foiled Iran-linked assassination plot",
+      "title_ko": "북마케도니아·그리스 \"이란 연계 암살 음모 저지\"",
+      "summary_ko": "두 나라에서 5명이 체포됐으며, 이란 보안기관과 연계된 이란 국적자와 이란 범죄 조직 두목이 그리스 내 신원 미상 표적 암살을 기획한 것으로 알려졌다.",
+      "url": "https://www.haaretz.com/world-news/europe/2026-11-17/ty-article/north-macedonia-greece-say-they-foiled-iran-linked-assassination-plot/000001a1-ead0-dc88-a1a7-feda25720000",
+      "published": "2026-11-18T05:56:47+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "iran-plot-greece-foiled",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Israel's Education Minister pushes appointments despite caretaker government restrictions",
+      "title_ko": "이스라엘 교육장관, 과도정부 제한에도 인사 강행",
+      "summary_ko": "학계 대표들은 위원회 구성이 불완전해 실질적 결정이 위법하다며 회의 취소를 요구했다. 키시 장관은 과도정부의 주요 인사를 금지한 법무장관 지침에도 회의를 진행했다.",
+      "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-17/ty-article/.premium/education-minister-pushes-appointments-despite-caretaker-government-restrictions/000001a1-eaa4-d155-afe7-eff644e40000",
+      "published": "2026-11-18T04:52:45+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "caretaker-education-minister-appointments",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Israel's AG delays E1 settlement construction tender until new government",
+      "title_ko": "이스라엘 법무장관, E1 정착촌 건설 입찰을 새 정부 출범 때까지 연기",
+      "summary_ko": "법무장관은 현 정부가 과도정부이므로 논란이 되는 서안 E1 지역 건설은 차기 정부에 맡겨야 한다고 밝혔다.",
+      "url": "https://www.haaretz.com/west-bank/2026-11-17/ty-article/.premium/israels-ag-delays-e1-settlement-construction-tender-until-new-government/000001a1-eafd-d9ff-a7b5-fbff13010000",
+      "published": "2026-11-18T04:37:17+09:00",
+      "tags": [
+        "legislation",
+        "geopolitics"
+      ],
+      "event": "e1-settlement-tender-delayed",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Source behind Arab activists' arrest quit PM's office after posing as a top security official",
+      "title_ko": "아랍 활동가 체포의 제보자, 고위 안보 당국자 행세하다 총리실 퇴직",
+      "summary_ko": "하레츠 취재 결과 총리실 전 직원 다니엘 그린버그가 신베트가 운용하는 팔레스타인 정보원의 민원을 담당하는 당국자인 것처럼 행세한 것으로 드러났다.",
+      "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-17/ty-article/.premium/source-behind-arab-activists-arrest-quit-pms-office-after-posing-as-official/000001a1-e9de-d6b3-a3f3-ebdeca4a0000",
+      "published": "2026-11-18T04:27:56+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "election-day-arab-activist-arrests",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Former Israeli president Reuven Rivlin apologizes to Arab activist arrested on Election Day",
+      "title_ko": "리블린 전 대통령, 선거일 체포된 아랍 활동가에 사과",
+      "summary_ko": "리블린 전 대통령이 아랍연합리스트 활동가 세아프 아부 레아시에게 전화해 체포를 사과하고 그에 대한 처우를 수치라고 했다. 체포는 네타냐후 전 보좌관이 경찰에 제기한 것으로 알려진 유권자 매수 의혹에 따른 것이다.",
+      "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-17/ty-article/.premium/former-israeli-president-apologizes-to-arab-activist-arrested-on-election-day/000001a1-ea2f-d3ad-a5e3-ebffb1160000",
+      "published": "2026-11-18T04:08:10+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "election-day-arab-activist-arrests",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Are Arab lawmakers equal to their Jewish counterparts in Israel? We'll soon find out",
+      "title_ko": "이스라엘에서 아랍 의원은 유대인 의원과 동등한가? 곧 알게 될 것",
+      "summary_ko": "(논평) 화요일 크네세트 의장 표결에서 누가 이기느냐보다 아랍인과 그들의 정치 참여에 대한 인종차별적 공격이 일상화되는 것이 더 중요하다는 주장.",
+      "url": "https://www.haaretz.com/israel-news/haaretz-today/2026-11-17/ty-article/.highlight/are-arab-lawmakers-equal-to-their-jewish-counterparts-were-about-to-find-out/000001a1-eab7-dc88-a1a7-febfee920000",
+      "published": "2026-11-18T03:36:24+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "knesset-speaker-election",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Israeli probe finds no evidence of voter bribery that could sway election",
+      "title_ko": "이스라엘 조사, 선거를 좌우할 만한 유권자 매수 증거 발견 못 해",
+      "summary_ko": "외국 개입 의혹 조사는 계속되지만 결과와 무관한 안보 사안에 집중할 것이라고 중앙선관위원장 노암 솔베르그 대법관과 신베트 국장 다비드 지니가 밝혔다.",
+      "url": "https://www.haaretz.com/israel-news/elections/2026-11-17/ty-article/.premium/probe-finds-no-evidence-of-voter-bribery-israeli-authorities-say/000001a1-ea66-d4d1-a9f5-fa6f7a500000",
+      "published": "2026-11-18T03:26:02+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "israel-election-fraud-probe",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Who is Matan Kahana, the man poised to be Israel's next Knesset speaker?",
+      "title_ko": "이스라엘 차기 크네세트 의장 유력 마탄 카하나는 누구인가?",
+      "summary_ko": "가디 아이젠코트의 측근인 카하나는 가자 전쟁 종식 필요성에 실용적 견해를 보였지만 서안 정착촌에는 강경한 입장이다. 야권의 크네세트 의장 후보다.",
+      "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-17/ty-article/.premium/who-is-matan-kahana-poised-to-be-israels-next-knesset-speaker/000001a1-e99c-d848-abeb-fb9c8f3e0000",
+      "published": "2026-11-18T02:59:59+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "knesset-speaker-election",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Knesset begins election of new speaker, Yashar's Kahana expected to win despite Likud challenge",
+      "title_ko": "크네세트 새 의장 선출 시작…리쿠드 도전에도 야샤르의 카하나 당선 예상",
+      "summary_ko": "크네세트가 새 의장 선출에 들어갔으며 리쿠드의 도전에도 야샤르 소속 카하나의 당선이 예상된다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02WlUyYUJtdGFsMUNuZlpEcTZtbUxPTkpOX2lBcF83UFVMaXN6dDF5Ui13bjR1NnNpLWtRVWd4WEprU1VkZTcwVXMxRmJmZFFtRzAzZkZMM1RPQTNfdVFQZ3FEcTZXc2R6bExzRjFHaEhEZDBJdWo1bFE2Yw?oc=5",
+      "published": "2026-11-18T05:48:52+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "knesset-speaker-election",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Lahav Shani: A conductor should not have to pass a political exam - comment",
+      "title_ko": "라하브 샤니: 지휘자가 정치 시험을 통과해야 해서는 안 된다 - 논평",
+      "summary_ko": "지휘자 라하브 샤니 관련 논평으로, 지휘자에게 정치적 검증을 요구해서는 안 된다는 주장. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuQi1Td0tLblVUT0FtTTNyRjh0blV1TUhYeUxXMm4zdWcwb1ZFWHVWQ3RnV3RSa3luLXFOa3A0dzJHUVlKcWs1M3hOcnBfSEp4a1RLMlBTbW9CZmpRNFYtZklyVm5WbDg?oc=5",
+      "published": "2026-11-18T05:46:48+09:00",
+      "tags": [],
+      "event": "lahav-shani-comment",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "American-Israeli guard Abby Meyers on Maccabi Ashdod and EuroBasket push",
+      "title_ko": "미국계 이스라엘인 가드 애비 마이어스, 마카비 아슈도드와 유로바스켓 도전 이야기",
+      "summary_ko": "농구 선수 애비 마이어스가 마카비 아슈도드와 유로바스켓 도전에 대해 이야기했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwVVpCT3NZM3AwSzFiQjZXSE9iVl9lckg5aVFwb3pRTlpwczFudllhTzVhaVd5VnZtVDF1ekdOUzUySEM3Q042NjZncmdoNzRwSXFHWHFzc0UxVXJXdGJXQXJ2cjFGdw?oc=5",
+      "published": "2026-11-18T05:37:35+09:00",
+      "tags": [],
+      "event": "abby-meyers-basketball",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "US strikes Iranian IRGC missile launch site on Qeshm Island",
+      "title_ko": "미국, 케슘섬 이란 IRGC 미사일 발사 기지 타격",
+      "summary_ko": "미국이 케슘섬에 있는 이란 혁명수비대(IRGC) 미사일 발사 기지를 타격했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyT25CZk1PeDgta1Z4cDFheUpWUGJaN3IwS3VVVGF3Z0R1Vml2bWV4eEhuQXhMYVBiNnpuVjJuUExfNzRYSWRGYlFKeUgyRTlyZUZxamluYjYxTFFCRVBzVG4xeDhhWk5PSkE?oc=5",
+      "published": "2026-11-18T04:35:38+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-strike-qeshm-iran-missile-site",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "East Jerusalem man indicted for plotting bombing, shooting attack near Temple Mount",
+      "title_ko": "동예루살렘 남성, 성전산 인근 폭탄·총격 테러 모의 혐의로 기소",
+      "summary_ko": "동예루살렘 남성이 성전산 인근 폭탄·총격 공격을 모의한 혐의로 기소됐다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sOHJJZWdiM3REOEIyVk9WeS12X3h6NzY3Y0o1TzRQRnYzbk5VSUVpdGxxaURtcFc5WVhGNWtvTzg1dzlaLVhyVnlDcmh5OGVkMjEzOHRQdDRCY01i?oc=5",
+      "published": "2026-11-18T04:16:42+09:00",
+      "tags": [],
+      "event": "temple-mount-attack-plot-indictment",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "High Court to hear prosecution bid to cross-examine Mandelblit in Netanyahu criminal trial",
+      "title_ko": "대법원, 네타냐후 형사재판서 검찰의 만델블리트 반대신문 요청 심리",
+      "summary_ko": "대법원이 네타냐후 형사재판에서 만델블리트를 반대신문하겠다는 검찰 요청을 심리한다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GZ1JmeFVIeWdYZnpnMjVKaFlDMTZkdDJzOUtKX2M3TVFBUXhiTkdTWTdsN1UtQWZ0YTlreDlwNXdUU051ZS05Y29LekFFejkyUkV5THdQZ3BpT2lCR0JGdlpSVWxaUUg1Wm1EQU0zVTdEbFYxbk5femNqSQ?oc=5",
+      "published": "2026-11-18T03:54:21+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "netanyahu-trial-mandelblit-cross-exam",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "NSA's highly classified internal communications network shuts down, linked to software update - WSJ",
+      "title_ko": "NSA 고도 기밀 내부 통신망 중단, 소프트웨어 업데이트와 연관 - WSJ",
+      "summary_ko": "NSA의 고도 기밀 내부 통신망이 중단됐으며 소프트웨어 업데이트와 관련된 것으로 WSJ가 보도했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ieEJrUTZvTW93Z3FHU0t0a2ZYY2tFRjYwU3dIOW9vOW11ZlBVbzBEVHZ4ZXE4RVBIcl80UzJYNUFWM08xVG9pdGk3ZzZ2Tlk4ZU9CTEpoaFJ0djNNeTZJ?oc=5",
+      "published": "2026-11-18T03:51:20+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "nsa-network-outage",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Russian military transport aircraft crashes, killing all 17 on board",
+      "title_ko": "러시아 군 수송기 추락, 탑승자 17명 전원 사망",
+      "summary_ko": "러시아 군 수송기가 추락해 탑승자 17명 전원이 숨졌다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96WU81T3hnSm1yb1ZqRUUtMFExRXU2SWlHblhyRGIzMXhRZ3EtUGlLRXBfa1hoZExoQlR2YW02LWZqMjJQYnE5ZjlmY2NvVVRYZHFVRjEwM3ZqZzY1SlpV?oc=5",
+      "published": "2026-11-18T03:49:15+09:00",
+      "tags": [],
+      "event": "russian-military-plane-crash",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Matan Kahana elected Knesset speaker, replacing Netanyahu ally as Eisenkot bloc takes control",
+      "title_ko": "마탄 카하나 크네세트 의장 선출…아이젠코트 블록 장악, 네타냐후 측근 교체",
+      "summary_ko": "마탄 카하나가 네타냐후 측근을 대신해 크네세트 의장으로 선출되며 아이젠코트 블록이 의장직을 차지했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uQVNrZlZ1c1VCTVdQaWVMNng3SldYOWEwRm5taTdSV2wtbkRBWkJRMjFDcXBITjVUa0dSeUxFWVlybjBCdmQ2azZ6VXEzSVBDX0xfY0lB?oc=5",
+      "published": "2026-11-18T06:09:16+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "knesset-speaker-election",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Matan Kahana Elected Knesset Speaker",
+      "title_ko": "마탄 카하나 크네세트 의장 선출",
+      "summary_ko": "마탄 카하나가 크네세트 의장으로 선출됐다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MM3Q2d0VOaHF1LXhRT3dUNncyOTVaSWZjVzNySHlJdkNaZWtISnZTNXJYZ19HQlhqNzAzdlRfbmVKYUdrQXVGWTVtdnpIR0xpUFlpaw?oc=5",
+      "published": "2026-11-18T06:06:07+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "knesset-speaker-election",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Italy passes antisemitism law amid dispute over criticism of Israel",
+      "title_ko": "이탈리아, 이스라엘 비판 논란 속 반유대주의법 통과",
+      "summary_ko": "이탈리아가 이스라엘 비판을 둘러싼 논란 속에 반유대주의법을 통과시켰다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OdE5ONnZOTTlSNGtxU0JaYTRhdFVBWXlLOEhTckVxZEdjT1pBTlRlNWYwdjlNdzVBM2g1dWZ4blZFRGJURGl1UDR1WC1ENE91Y1hIS2duWk9vb0VIY3pyU2FtMTU4dHM?oc=5",
+      "published": "2026-11-18T05:38:29+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "italy-antisemitism-law",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "IDF on Death of Palestinian Woman in Jericho: 'Apparently Shot by Israeli Civilian'",
+      "title_ko": "이스라엘군, 예리코 팔레스타인 여성 사망에 '이스라엘 민간인 총격 추정'",
+      "summary_ko": "이스라엘군은 예리코에서 숨진 팔레스타인 여성이 이스라엘 민간인의 총에 맞은 것으로 보인다고 밝혔다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00YUV5NkdJalBmajNab2psakM3djkzNWp5QnFhaUpSbUdxbDFacGhFaG9ncTVFTUZPTFVFYmpRV29EUUVpUGtqcmQyQTIxdVJnS2hicQ?oc=5",
+      "published": "2026-11-18T05:31:31+09:00",
+      "tags": [],
+      "event": "jericho-settler-clash-death",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Joint List: We agreed with Change Bloc to head new committee for Arab society affairs",
+      "title_ko": "조인트 리스트 \"변화 블록과 아랍 사회 문제 신설 위원회 위원장 맡기로 합의\"",
+      "summary_ko": "조인트 리스트가 변화 블록과 아랍 사회 문제를 다룰 새 위원회를 이끌기로 합의했다고 밝혔다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zeGZDZlg1UHdSMTB3dzhFRGVudjNhcHkzNmw3cllPRkk1Z1FXRmU0TEg4V3ZVRlkxWk1wdXhfa2tKX2xQVmd0QnBhSnRlRHVKWXdGVg?oc=5",
+      "published": "2026-11-18T05:16:52+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "joint-list-arab-affairs-committee",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Compromise: Vote on Knesset Speaker Identity Moved Up, Judicial Overhaul Repeal Bills Postponed",
+      "title_ko": "절충: 크네세트 의장 표결 앞당기고 사법개혁 폐지 법안은 연기",
+      "summary_ko": "크네세트 의장 표결 일정이 앞당겨지고 사법개혁 폐지 법안 처리는 연기됐다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yRUNvMDM4UjR6aWRqLVJtTU5hUmdCd3ZsUldqRmRtMnVOOVlBeHZidHJKT01mTjkyWnRtQk1ZZGdaYmlmcjJCSWVhUG1SM2NjMmZJVA?oc=5",
+      "published": "2026-11-18T04:33:24+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "knesset-speaker-election",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Jericho schools shut, tourism hit as residents fear escalation after deadly clash involving settlers",
+      "title_ko": "예리코 학교 휴교·관광 타격…정착민 연루 치명적 충돌 후 주민들 확전 우려",
+      "summary_ko": "정착민이 연루된 치명적 충돌 이후 예리코에서 학교가 휴교하고 관광이 타격을 받았으며 주민들이 확전을 우려하고 있다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91a0dMb3NkYzdEWVlCWmZpai1vUXVVZ1dBRlB0WnhLWmk2d0dra0hjQU1zaFFhMUptZUhGS3pQam5KWkEyR1RzcE1ZclFNdEhaS0pLTHdB?oc=5",
+      "published": "2026-11-18T04:19:46+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "jericho-settler-clash-death",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Mossad intelligence helped foil Iranian assassination plot targeting Israeli in Greece",
+      "title_ko": "모사드 정보, 그리스 내 이스라엘인 겨냥 이란 암살 음모 저지에 기여",
+      "summary_ko": "모사드 정보가 그리스에서 이스라엘인을 노린 이란의 암살 음모를 저지하는 데 도움을 줬다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UQ2s1Qm1GVTFia3RHYjdTX1VmNFhrbzZGSm13bFNJMzNLTFFXZzJZUE1xaVR3VThxaXVaQm1CMVJqdDdoRjltNkxxZ0pqYnVSLXh4eWl3?oc=5",
+      "published": "2026-11-18T03:46:22+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "iran-plot-greece-foiled",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Chevron nears buying Navitas’ partners stake in US oil field",
+      "title_ko": "셰브론, 美 유전 지분 나비타스 파트너 지분 인수 임박",
+      "summary_ko": "셰넌도어 유전 지분 49%를 보유한 나비타스가 셰브론의 과반 지분 확보를 위해 보유 지분 일부를 매각할 수 있다.",
+      "url": "https://en.globes.co.il/en/article-1001563797#utm_source=RSS",
+      "published": "2026-11-17T23:41:00+09:00",
+      "tags": [
+        "business",
+        "industry"
+      ],
+      "event": "chevron-navitas-shenandoah",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Israeli space computing co Ramon Space raises $124m",
+      "title_ko": "이스라엘 우주 컴퓨팅 기업 라몬 스페이스, 1억 2,400만 달러 유치",
+      "summary_ko": "이 회사는 위성이 데이터를 처리·저장·전송할 수 있게 해, 처리를 위해 데이터를 지상으로만 보내야 하는 의존을 없애는 시스템을 개발한다.",
+      "url": "https://en.globes.co.il/en/article-1001563767#utm_source=RSS",
+      "published": "2026-11-17T22:31:39+09:00",
+      "tags": [
+        "business",
+        "industry"
+      ],
+      "event": "ramon-space-funding",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Teva to join Russell 1000 large-cap index",
+      "title_ko": "테바, 러셀 1000 대형주 지수 편입",
+      "summary_ko": "현재 러셀 1000 최대 기업에는 애플, 엔비디아, 마이크로소프트, 알파벳(구글), 아마존, 스페이스X가 포함된다.",
+      "url": "https://en.globes.co.il/en/article-1001563765#utm_source=RSS",
+      "published": "2026-11-17T22:08:51+09:00",
+      "tags": [
+        "stocks"
+      ],
+      "event": "teva-russell-1000",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "UK imposes sanctions on Israeli construction cos",
+      "title_ko": "영국, 이스라엘 건설사 제재",
+      "summary_ko": "영국 외무부가 '점령된 서안의 정착촌 확장'에 관여한 8개 기업을 지정해 자산 동결과 이사 자격 박탈 등의 제재를 가한다.",
+      "url": "https://en.globes.co.il/en/article-1001563760#utm_source=RSS",
+      "published": "2026-11-17T21:43:00+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "uk-sanctions-israeli-settlement-builders",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Layoffs mounting up: Nearly 2,000 since start of October",
+      "title_ko": "늘어나는 해고: 10월 이후 약 2,000명",
+      "summary_ko": "AI와 관리 계층 축소가 해고 증가의 이유로 꼽힌다.",
+      "url": "https://en.globes.co.il/en/article-1001563746#utm_source=RSS",
+      "published": "2026-11-17T20:12:16+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "israel-layoffs-surge",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "End of US aid leaves $31b budget hole",
+      "title_ko": "미국 원조 종료로 310억 달러 예산 구멍",
+      "summary_ko": "이스라엘은 원조가 계속될 것이라는 가정 아래 미국에서 310억 달러 규모 조달을 약정했으며, 이 공백은 부가세 1.5%p 인상분에 해당한다.",
+      "url": "https://en.globes.co.il/en/article-1001563744#utm_source=RSS",
+      "published": "2026-11-17T19:50:00+09:00",
+      "tags": [
+        "geopolitics",
+        "monetary"
+      ],
+      "event": "us-aid-end-budget-gap",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Why should Leumi earn so much? The CEO answers",
+      "title_ko": "레우미는 왜 그렇게 많이 버나? CEO가 답하다",
+      "summary_ko": "레우미은행이 3분기 사상 최대 이익을 발표한 뒤 하난 프리드먼 CEO가 모두가 혜택을 본다고 설득하려 한다.",
+      "url": "https://en.globes.co.il/en/article-1001563737#utm_source=RSS",
+      "published": "2026-11-17T19:05:00+09:00",
+      "tags": [
+        "business",
+        "monetary"
+      ],
+      "event": "leumi-record-profit",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Elbit Systems beats analysts; order book reaches new peak",
+      "title_ko": "엘비트 시스템즈, 시장 예상 상회…수주잔고 사상 최대",
+      "summary_ko": "방산업체 엘비트의 3분기 매출은 17.2% 늘어난 22억 5천만 달러, 수주잔고는 330억 달러에 달했다.",
+      "url": "https://en.globes.co.il/en/article-1001563733#utm_source=RSS",
+      "published": "2026-11-17T18:09:00+09:00",
+      "tags": [
+        "business",
+        "industry",
+        "stocks"
+      ],
+      "event": "elbit-q3-results",
+      "state_media": false
+    }
+  ],
+  "events": [
+    {
+      "event": "knesset-speaker-election",
+      "title_ko": "크네세트 의장 선출전, 리쿠드 대 아이젠코트 블록",
+      "sources": [
+        "i24NEWS",
+        "Haaretz",
+        "Jerusalem Post",
+        "Ynet News"
+      ],
+      "count": 4
+    },
+    {
+      "event": "iran-plot-greece-foiled",
+      "title_ko": "북마케도니아, 그리스 내 이란 연계 음모 저지…5명 체포",
+      "sources": [
+        "i24NEWS",
+        "Haaretz",
+        "Ynet News"
+      ],
+      "count": 3
+    },
+    {
+      "event": "nsa-network-outage",
+      "title_ko": "NSA 기밀 통신망 다운, 사이버공격은 의심되지 않아 - 보도",
+      "sources": [
+        "i24NEWS",
+        "Jerusalem Post"
+      ],
+      "count": 2
+    },
+    {
+      "event": "israel-election-fraud-probe",
+      "title_ko": "이스라엘 선거 조사, 결과를 바꿀 만한 부정 증거 발견 못 해",
+      "sources": [
+        "i24NEWS",
+        "Haaretz"
+      ],
+      "count": 2
+    },
+    {
+      "event": "us-strike-qeshm-iran-missile-site",
+      "title_ko": "미군 당국자 \"전투기가 오늘 앞서 케슘섬 이란 미사일 발사 기지 타격\"",
+      "sources": [
+        "Times of Israel",
+        "Jerusalem Post"
+      ],
+      "count": 2
+    },
+    {
+      "event": "uk-sanctions-israeli-settlement-builders",
+      "title_ko": "'짓지 말라': 영국, 서안 정착촌 건설 이스라엘 건설사 8곳 제재",
+      "sources": [
+        "Times of Israel",
+        "Globes"
+      ],
+      "count": 2
+    },
+    {
+      "event": "herzog-pahlavi-israel-iran-peace",
+      "title_ko": "헤르초그·팔레비, 테헤란 정권 이후의 이스라엘-이란 평화 구상",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "israel-opposes-french-lebanon-force",
+      "title_ko": "이스라엘, 레바논 내 유럽군 배치 프랑스 구상에 반대 - 당국자가 i24NEWS에 밝혀",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "nvidia-huang-return",
+      "title_ko": "황(Huang), 이사회 압박 커지는 가운데 엔비디아 복귀에 열려 있다고 밝혀",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "danon-un-northern-border-tour",
+      "title_ko": "다논 유엔대사, 각국 유엔대사들과 이스라엘 북부 국경 시찰",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "havat-gilad-hit-and-run",
+      "title_ko": "하밧 길라드 정착촌 인근 팔레스타인 차량 뺑소니로 이스라엘인 경상",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "yashar-headline",
+      "title_ko": "야샤르",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "blog-judaism-zionism",
+      "title_ko": "블로그: 유대교와 시오니즘을 분리할 수 있는가?",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "blog-interfaith-jewish-journey",
+      "title_ko": "비유대인 남편과 함께 유대인의 여정을 만들어 간 방법",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "hungary-israel-water-energy-talks",
+      "title_ko": "가뭄 겪는 헝가리, 물·에너지 협력 논의 위해 이스라엘 대표단 맞아",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "caretaker-education-minister-appointments",
+      "title_ko": "이스라엘 교육장관, 과도정부 제한에도 인사 강행",
+      "sources": [
+        "Haaretz"
+      ],
+      "count": 1
+    },
+    {
+      "event": "e1-settlement-tender-delayed",
+      "title_ko": "이스라엘 법무장관, E1 정착촌 건설 입찰을 새 정부 출범 때까지 연기",
+      "sources": [
+        "Haaretz"
+      ],
+      "count": 1
+    },
+    {
+      "event": "election-day-arab-activist-arrests",
+      "title_ko": "아랍 활동가 체포의 제보자, 고위 안보 당국자 행세하다 총리실 퇴직",
+      "sources": [
+        "Haaretz"
+      ],
+      "count": 1
+    },
+    {
+      "event": "lahav-shani-comment",
+      "title_ko": "라하브 샤니: 지휘자가 정치 시험을 통과해야 해서는 안 된다 - 논평",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "abby-meyers-basketball",
+      "title_ko": "미국계 이스라엘인 가드 애비 마이어스, 마카비 아슈도드와 유로바스켓 도전 이야기",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "temple-mount-attack-plot-indictment",
+      "title_ko": "동예루살렘 남성, 성전산 인근 폭탄·총격 테러 모의 혐의로 기소",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "netanyahu-trial-mandelblit-cross-exam",
+      "title_ko": "대법원, 네타냐후 형사재판서 검찰의 만델블리트 반대신문 요청 심리",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "russian-military-plane-crash",
+      "title_ko": "러시아 군 수송기 추락, 탑승자 17명 전원 사망",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "italy-antisemitism-law",
+      "title_ko": "이탈리아, 이스라엘 비판 논란 속 반유대주의법 통과",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "jericho-settler-clash-death",
+      "title_ko": "이스라엘군, 예리코 팔레스타인 여성 사망에 '이스라엘 민간인 총격 추정'",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "joint-list-arab-affairs-committee",
+      "title_ko": "조인트 리스트 \"변화 블록과 아랍 사회 문제 신설 위원회 위원장 맡기로 합의\"",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "chevron-navitas-shenandoah",
+      "title_ko": "셰브론, 美 유전 지분 나비타스 파트너 지분 인수 임박",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ramon-space-funding",
+      "title_ko": "이스라엘 우주 컴퓨팅 기업 라몬 스페이스, 1억 2,400만 달러 유치",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "teva-russell-1000",
+      "title_ko": "테바, 러셀 1000 대형주 지수 편입",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "israel-layoffs-surge",
+      "title_ko": "늘어나는 해고: 10월 이후 약 2,000명",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "us-aid-end-budget-gap",
+      "title_ko": "미국 원조 종료로 310억 달러 예산 구멍",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "leumi-record-profit",
+      "title_ko": "레우미는 왜 그렇게 많이 버나? CEO가 답하다",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "elbit-q3-results",
+      "title_ko": "엘비트 시스템즈, 시장 예상 상회…수주잔고 사상 최대",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    }
+  ],
+  "unavailable_sources": [
+    "Kan (KAN News)",
+    "N12 (Channel 12)"
+  ]
+}

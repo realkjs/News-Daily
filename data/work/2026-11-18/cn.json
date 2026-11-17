@@ -1,0 +1,836 @@
+{
+  "team": "cn",
+  "headlines": [
+    {
+      "source": "CCTV",
+      "title_original": "“雪”字头列车准时上线 新增哪些站点？",
+      "title_ko": "'설(雪)'자 계열 열차 정시 운행 시작…새로 추가된 역은?",
+      "summary_ko": "'설(雪)'자 계열 관광열차가 정시 운행을 시작했으며 새로 추가된 정차역을 다룬 보도. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PZTgxQzdnWHk0TGU3OTM3NmxVcE9yaFV3XzB4S0tPVS1WT1Nzak9JT2MyOUJaQ19DYW45b0RTbUVhQUxIamlkeDdJajJXU0M2Tk9tN2x6V2o0ZWRDbVU1dEtqX2kxZmF2NlAydnJGNHdnTHZ5VGdqSQ?oc=5",
+      "published": "2026-11-18T05:14:43+09:00",
+      "tags": [],
+      "event": "snow-tourist-trains-launch",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "浙江嘉兴：中职学生技能节上练身手",
+      "title_ko": "저장 자싱: 중등직업학교 학생들, 기능 축제에서 솜씨 겨뤄",
+      "summary_ko": "저장성 자싱에서 중등직업학교 학생 기능 축제가 열렸다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZTmc5ZlB4UDlNNVNvUU1WVWV5UUE5ekpwZVI2ZnZrVkNZXzhNVWZXX0tVaFpfVUJrVjVtcDRXdEx4Z3NIcWZyNmNVV2NCbG9mVDRLQzc5OE1LQ3hpSURkLTVYVzczME9MV1ZJN0pQLUtyWjd4cnFwZw?oc=5",
+      "published": "2026-11-18T04:38:09+09:00",
+      "tags": [],
+      "event": "jiaxing-vocational-skills-festival",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "受强冷空气影响 全国多地降温",
+      "title_ko": "강한 찬 공기 영향…전국 곳곳 기온 하강",
+      "summary_ko": "강한 한파의 영향으로 중국 전국 여러 지역의 기온이 내려갔다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TaDB5czJIOW5jMDZKcEw3UHNNR1ZxakxNb0xWc0tPT2tGakQzRXZuYllsczVSOXNXam9iUEdjU3FZLWVOekt6WUNlR2U4ZGY1YVNFTnZtMEwxNzAwMmhNQUE5alpJeUxjOTFkUXloOTVDa2dGQjA3Sw?oc=5",
+      "published": "2026-11-18T04:05:04+09:00",
+      "tags": [],
+      "event": "china-cold-wave",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "神舟二十四号船箭组合体转运至发射区 计划近日择机发射",
+      "title_ko": "선저우 24호 우주선·로켓 결합체 발사구역 이송…근일 발사 예정",
+      "summary_ko": "선저우 24호 우주선·로켓 결합체가 발사구역으로 이송됐으며 근일 중 적절한 시기에 발사할 계획이다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NT1JmRGlTclFIeVNfWkRtdE1hZUtxZzVLVTVjcHRhNTdxMXl2ZndNdE44VjM0WGxfQ2JKVVNpVzY0eGJuLThIa1E1U1RYMGtVQ1JXMTlvb2poaW04MFdYOU1BY2VqWXNOVTYzX2loVTdEbzVOZnBqaQ?oc=5",
+      "published": "2026-11-18T03:09:40+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "shenzhou-24-launch-prep",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "“每周半天”校外实践课，怎么上好",
+      "title_ko": "'매주 반나절' 교외 실천 수업, 어떻게 잘할까",
+      "summary_ko": "'매주 반나절' 교외 실천 수업을 어떻게 잘 운영할지 다룬 보도. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nNXZqVXFDM3Zkd2ktcjV2MERhcXhsbmxaT0RWZWRhWFl4RGdnejVhRzRRaXJWSGI4bWVESEptZThpT3RmOEVZeEQybGN0MXBGSFdSazRyeGRjRFpiWWZTRVI5VTR6emEyam1FRHY3d2lkRE5pMUNQbw?oc=5",
+      "published": "2026-11-18T02:08:32+09:00",
+      "tags": [],
+      "event": "weekly-outdoor-practice-classes",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "员工用化名上班是否影响劳动关系成立？法院判了",
+      "title_ko": "직원이 가명으로 일하면 노동관계 성립에 영향? 법원 판결",
+      "summary_ko": "직원이 가명으로 근무한 경우 노동관계 성립에 영향이 있는지에 대해 법원이 판결을 내렸다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xeU9HVWhNRkFkLUR0UzdWdGR2SGEzQng5RlRwM09VNEpVSDJEQVFGQUZ2RTY0Y3ZIbHphMWhGak1wbmZ4UTh1cGlJS01MUXVmTW5heFZqeGI0SEJrV3dZQjVWanN4M0xUcTcxNW9TZkVMWC16MTNHeQ?oc=5",
+      "published": "2026-11-18T02:03:02+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "alias-employment-court-ruling",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "期待值拉满！北京将上新这些博物馆",
+      "title_ko": "기대감 최고조! 베이징, 새 박물관들 개관 예정",
+      "summary_ko": "베이징에 새 박물관들이 문을 열 예정이다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kTlo0T243SVFPRjJpNXZSNzZyaHJVVTEzVHRJMldwSDRocElzVlFTVF9jQnh4cHVHTnZRbm40bTRIbTIyYmpVVkhEQWFRMGtQRVdDQWNlajBPT0xUSEVMOXhLREtnRDhHMUIydF9ZVUFDanVJaEpmcg?oc=5",
+      "published": "2026-11-18T02:01:25+09:00",
+      "tags": [],
+      "event": "beijing-new-museums",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "住房和城乡建设部：将推广更加便利的垃圾分类投放方式",
+      "title_ko": "주택도시농촌건설부: 더 편리한 쓰레기 분리배출 방식 보급 예정",
+      "summary_ko": "중국 주택도시농촌건설부가 더 편리한 쓰레기 분리배출 방식을 확대 보급하겠다고 밝혔다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TU05NTGwzdmxkMjRhbkppVnFzN2dYQlpqekJOWjZwOTF4dkhsVkdpMFQ5c1N3bGRZdnlsbE5hdTFrSmRsVnlZTXQ2aVhCZFBQQWVkcEtPNkVDUDNmejVPNGJhTExRdHR3SWhjaFhBNnFHeVlaTEYzMA?oc=5",
+      "published": "2026-11-18T01:28:37+09:00",
+      "tags": [],
+      "event": "waste-sorting-policy",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "M5.4 Earthquake - Selwyn District, New Zealand - reports",
+      "title_ko": "뉴질랜드 셀윈 지구 규모 5.4 지진 - 보도",
+      "summary_ko": "뉴질랜드 셀윈 지구에서 규모 5.4 지진이 발생했다는 보도. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83ZTZpNmYteWtHaXNaSGtEb1JiOUpSZnpUeVo4cE1wUUxXdnhsN3pKTHBjVmN2Y2RiSDI1MnJWUy1uSHl4UGR4LWk0SENHRjlhNkZESlZDeHFhc3ZYTHhnVmdMOTlBZ001aV9pN2ZLa3FLY3kweHB1ZA?oc=5",
+      "published": "2026-11-17T19:38:28+09:00",
+      "tags": [],
+      "event": "new-zealand-selwyn-earthquake",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "Drones behind nearly 75% of civilian deaths this year in Sudan war: UN",
+      "title_ko": "유엔: 올해 수단 전쟁 민간인 사망 약 75%가 드론 탓",
+      "summary_ko": "유엔에 따르면 올해 수단 전쟁 민간인 사망자의 약 75%가 드론에 의한 것이다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03T2dtNjhqa01GX1lpeWp0Vkhnc1lCWnlSR0NNcl9Ya3NlcVhfUG9iUUdpNmVmMF9HQXVOZFNhYzJlT2NLMDdKSTEycm5FY3JRd1l4UndMYkZOWWJWX1BHZ1pUZ05hWnFSRGFWRkhfVzZkaXZyX3A5NA?oc=5",
+      "published": "2026-11-17T17:00:59+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "sudan-war-drone-casualties",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "EXPLOSIONS HEARD IN UKRAINE'S KYIV, REUTERS WITNESSES SAY",
+      "title_ko": "우크라이나 키이우서 폭발음…로이터 목격자",
+      "summary_ko": "로이터 목격자들에 따르면 우크라이나 키이우에서 폭발음이 들렸다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TaXdJQThZTWNVOXBxZGtmd3VrcVVGRW1zSk9aNmFHZVl4T3kxS2ZzdFhtYnhUd2hISFZET2FTU1lVZTdmOFU2QUE0RTZCR2prX3BEaGhLb2RndlFwVEhNZ2RFY0h0RllKSk1fQ21XM1pXTTNGWWoxUw?oc=5",
+      "published": "2026-11-17T12:42:28+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "kyiv-explosions",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "英国制裁8家参与以色列定居点建设的公司",
+      "title_ko": "영국, 이스라엘 정착촌 건설 참여 기업 8곳 제재",
+      "summary_ko": "영국이 이스라엘 정착촌 건설에 참여한 기업 8곳을 제재했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jS215ekhQVEZwRERENWlYZUhDNFlwMzkxd0g2VExYTnhqc29HWExOZmdIaFQ4NzdNVE41NFVfSzg2Z2h1c0VxTXlwRWNUNnJpcDUzRW1tRTVaMFVJa0MxZ1ZWUnRPZzl4STZZWmJpNDhzVHlUOHdFV25FVk1qS00?oc=5",
+      "published": "2026-11-18T03:40:27+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "uk-sanctions-israeli-settlement-firms",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "德国芬兰总统表示欧洲必须参与乌克兰危机谈判",
+      "title_ko": "독일·핀란드 대통령 \"유럽, 우크라이나 위기 협상에 참여해야\"",
+      "summary_ko": "독일·핀란드 대통령이 유럽이 우크라이나 위기 협상에 참여해야 한다고 밝혔다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wSlkxbUpWRVdrZlpPVUt3UTMxRGcteUdoNmI4eU5IVXVza0ZRbTlYWWZfVkYwbHN5OWdzZUI1MDJJM2YwbktLbERyVUE0c0R6WmNIcnZiYkdiUEljS3hCUUN2ckQ1QW8tWWxVdFZHZGVLVkJJb1BxT2FiR1I4SWM?oc=5",
+      "published": "2026-11-18T02:15:22+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "europe-role-ukraine-talks",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "伊朗：美军袭击格什姆岛 但未造成损失",
+      "title_ko": "이란: 미군, 게슘섬 공격했으나 피해 없어",
+      "summary_ko": "이란 측은 미군이 게슘섬을 공격했으나 피해는 없었다고 밝혔다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RMXRYSHpvV1J6bVJVd0xiQzlrTE9iWkQ4ajNtd0J4TGRUdGo3RVhQRFN6emxOTllMUGZaM1FyMS1wOXhLcmxXbHNPRS1TMlFUc09yblJvYlQzMGp4R1FPQVNhUGpod1Q3d0YwdVY0NHJuTGtYWThZcFBTVkh2RU0?oc=5",
+      "published": "2026-11-18T01:34:07+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "iran-gheshm-island-strike",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "普华永道中国首席执行官：中国对亚太地区至关重要",
+      "title_ko": "PwC 중국 CEO: 중국은 아태 지역에 매우 중요",
+      "summary_ko": "PwC 중국 CEO가 중국이 아시아태평양 지역에 매우 중요하다고 말했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EZGJDU0ROc3RBVWlJOHE4TXhZekgwVWFnbVFIaGw2Rm1mLUprcnY1b3pqeUZfVUo1ckpRdWU5LS1PeWd2Yng5VjBYTlpDYzVOcmRQSGF1NXRSTzM1dEd0RUNMN1RRVS10NVBMVTdmUkdMcWpOSVBhZWlaWGZLbXc?oc=5",
+      "published": "2026-11-17T23:30:33+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "pwc-china-ceo-apac",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "中国男足热身赛战平巴林队",
+      "title_ko": "중국 남자 축구대표팀, 평가전서 바레인과 무승부",
+      "summary_ko": "중국 남자 축구대표팀이 평가전에서 바레인과 비겼다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWnNXWXM4dVF6b1FkV2Z1cUZjdW92U2RXVzNYZ0lNRUx5ak1GZDlhbXNINVd0Q3pPS19PUjIzV2NOQTZIemN1NVJFYXlIb0VfM0tIUVB1OFJ5Slczd0YtU1JuMk0waG5xVms1QUpRMDRNaTJhaWVOWTdGajMyRXdROA?oc=5",
+      "published": "2026-11-17T23:22:35+09:00",
+      "tags": [],
+      "event": "china-football-bahrain-friendly",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "冬日限定野生大熊猫出现 “糖霜糯米团子”可爱加倍",
+      "title_ko": "겨울 한정 야생 판다 출현…'설탕 뿌린 찹쌀떡' 귀여움 두 배",
+      "summary_ko": "겨울철 야생 대왕판다가 포착됐다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rOWdZZnFCUkk0ckcxVGpzWklwODFacUtjU0Jud2lDbnJ2ZWplTVJvaVdTOWxrSkFneUhEZTY2aFVjaW83dWRfU3prenJXUGh6Sk1lZnc0VFVzMkhtejZOLWhMdVlPaVAzMlJVMHBkTXJtUXZWbjlwanl5MnJpckE?oc=5",
+      "published": "2026-11-17T22:48:19+09:00",
+      "tags": [],
+      "event": "wild-panda-winter-sighting",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "马来西亚华人张慧清携13位家人重返昆明",
+      "title_ko": "말레이시아 화교 장후이칭, 가족 13명과 쿤밍 재방문",
+      "summary_ko": "말레이시아 화교 장후이칭(张慧清)이 가족 13명과 함께 쿤밍을 다시 찾았다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMTHU2Sm04ZXUyNVNkSnN4TnBpdEo3SzlOemlwdm5JcjEwdjNsQS1JN3Bxem4zMWVTZEQ4ZnpkOGdjVkpoaGY2NndZMzhTNWswcVZlVVVSU2RteldhcjlHaGhCdzhqTjQtUHFRcjY4YzRTVEdqdUdSTlZqN2ozY0U?oc=5",
+      "published": "2026-11-17T22:47:57+09:00",
+      "tags": [],
+      "event": "malaysian-chinese-family-kunming-visit",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "伊朗格什姆岛传出爆炸声",
+      "title_ko": "이란 게슘섬서 폭발음",
+      "summary_ko": "이란 게슘섬에서 폭발음이 들렸다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45QzVCTjkyeXlHMm53c0dmVXVwRmNFRmxCek1ZbUN0MW5RV3UxcGFpSk44WXk4NFl0dDEwdUluUWJhWWFfZXMtcklCdTIyUDg2VHhCNnlhakZaZEd5aTFSaDl3cV8xUzZCSzV1UUFwSmgzaUU0YjE0?oc=5",
+      "published": "2026-11-17T22:32:03+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "iran-gheshm-island-strike",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "马来西亚总理安瓦尔抵达深圳--国际",
+      "title_ko": "안와르 말레이시아 총리 선전 도착",
+      "summary_ko": "안와르 말레이시아 총리가 선전에 도착했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MTzhQeHhwV3hrbURiTVBaY3NYQlpMbzRsYjN6Tkp1d2ZveHlMSFZQOERYbEc5TnlTUjFUVjYwYTFlRUphMVNVWF9VQVM5OExaekNuMk92UHFaX25VcUpsTXJkN2s0dUppQkJJ?oc=5",
+      "published": "2026-11-18T01:39:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "apec-shenzhen-summit",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "王毅会见加拿大外长阿南德",
+      "title_ko": "왕이, 아난드 캐나다 외교장관 회견",
+      "summary_ko": "왕이 중국 외교부장이 아난드 캐나다 외교장관을 만났다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VbW1qblRCRVRUcGRibUh1ZF9qQ2hJc2Z4aGs0alBaT2lsM0lpTGJfNmZTdkFTNzY1SWNJbmV3cktyOUM2c2MtemZKeFdCVi1VYi1NU3dsSGJwMXppcDJISFpmTzBVWkNyOWZiVm9VOA?oc=5",
+      "published": "2026-11-18T00:30:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "wang-yi-meets-canada-fm",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "习近平会见智利总统卡斯特 - 人民网-图片频道",
+      "title_ko": "시진핑, 카스트 칠레 대통령 회견",
+      "summary_ko": "시진핑 주석이 카스트 칠레 대통령을 만났다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BOWRxaE9aNXE2QTAyUVh1Z04xc0pSc25va0pwdi0zOFhySjkzLTFnSHd3c1RzaEUtZjA0R2dvSjdSVzhzTmdQd0hFdnp4ckk1WXl2eENYRGpVM3FHUkFYQWJEM0NFQTZLN1J3?oc=5",
+      "published": "2026-11-17T21:29:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "xi-meets-chile-president",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "2026年APEC工商领导人峰会工商对话和专题研讨环节活动圆满完成",
+      "title_ko": "2026 APEC CEO 서밋 비즈니스 대화·주제 세미나 성료",
+      "summary_ko": "2026년 APEC 최고경영자 정상회의의 비즈니스 대화 및 주제별 세미나 일정이 마무리됐다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfdDhNOXVFSFc1NUJFOUhNRzA0c0tBV0RGMVZSSlB4S3NlVlVnclRsem0wb19WR0VreDBUc1FMaDQ2eXpkWlNIWWh5dUszYU5yZWxYT3pzNVc3SWR0c3pOOUp0dTlTWmRhalE?oc=5",
+      "published": "2026-11-17T21:22:00+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "apec-shenzhen-summit",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "从开放合作到“中国首发” 这家外企这样与“鹏”友共赢--经济·科技",
+      "title_ko": "개방 협력에서 '중국 최초 출시'까지…이 외국기업의 선전 상생법",
+      "summary_ko": "개방 협력에서 '중국 최초 출시'까지 한 외국기업의 선전(鵬城) 상생 사례를 다룬 보도. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VY1FPU1puZTlzVWFqQ1NGVmlHWkpzc1M5OUwwSUE0REpVX2VoTFlzM1oxbS1SVGhBdklkX0lCd1diZVJOTmJiVzVnR1U5TkU5U1J3c185bDk2MUI2NHV5SF90dXdzazBYVmIwNDN3?oc=5",
+      "published": "2026-11-17T21:20:00+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "foreign-firm-shenzhen-cooperation",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "《港澳青年珠海创业百事通》发布",
+      "title_ko": "《홍콩·마카오 청년 주하이 창업 안내서》 발간",
+      "summary_ko": "홍콩·마카오 청년을 위한 주하이 창업 안내서가 발간됐다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcG9ZRDJvQWtxWC1fMTNFaXFoZ3o4dFpsM1RyUzNDRHFJUElOUEZsdGJJMDFYWXEzMHZLaWdKN0prY21lX1A1OVRyVWpfREJ4bDhuVG5wWGlYVDctU1NBczhJc01SbVJWcXlrUUxQOHdGcDluRExjVVZOWVFVWUV0cm1Kcw?oc=5",
+      "published": "2026-11-17T20:45:12+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "hk-macao-youth-zhuhai-startup-guide",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "亚太经合组织第三十三次领导人非正式会议--国际",
+      "title_ko": "APEC 제33차 정상회의",
+      "summary_ko": "아시아태평양경제협력체(APEC) 제33차 정상회의 관련 보도. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zcE5CRUJOYXVRb2duVFJBNWUtdXMtWTltZlV5N2NKQW1BMTZxdURLblF6dzJJcGNwTUFtQlNuWDVJRGYtdm1VOWJuaDhMVVlkYXJPR21nWTU0aWF4MVFnLXBZdkVsbWlYLVhr?oc=5",
+      "published": "2026-11-17T20:43:05+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "apec-shenzhen-summit",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "一场跨越25年的产业蝶变--经济·科技",
+      "title_ko": "25년에 걸친 산업의 대변신",
+      "summary_ko": "25년에 걸친 산업 변모를 다룬 보도. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fV2lxOS1rRzBUbm5DQTd4LXN5cFd4aVFjbDdjSmhMTVFhZEpfY2Zablc1R1otWEU5ZUdlU0ZIYnBEakVvWktpMThDMnpsTGlsYkJPSWxHY3VMT21yUV9TSVdtYWJoSWRHdFJKQUhB?oc=5",
+      "published": "2026-11-17T20:37:00+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "industry-25-year-transformation",
+      "state_media": true
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Shenzhen summit of Xi, Trump and Putin was Brazil’s Lula’s idea, Carney claims",
+      "title_ko": "카니 \"시진핑·트럼프·푸틴 선전 회동은 브라질 룰라의 아이디어\"",
+      "summary_ko": "캐나다 마크 카니 총리는 월요일, 선전에서 열릴 트럼프 미국 대통령·시진핑 중국 국가주석·푸틴 러시아 대통령 회동이 브라질 룰라 대통령의 아이디어였다고 말했다. 카니는 룰라가 우크라이나 전쟁 종식을 돕기 위해 이 회동을 권했다고 전했다.",
+      "url": "https://www.scmp.com/news/us/diplomacy/article/3374801/shenzhen-summit-xi-trump-and-putin-was-brazils-lulas-idea-carney-claims",
+      "published": "2026-11-18T04:49:02+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "xi-trump-putin-shenzhen-summit",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Top-secret US security communications network is down, in latest tech outage",
+      "title_ko": "미국 일급기밀 안보 통신망 다운…잇단 기술 장애",
+      "summary_ko": "미국 국가안보국(NSA)이 내부 통신에 쓰는 일급기밀 네트워크가 화요일 다운됐다. NSA는 '정기 유지보수 중 일시적 성능 저하'로 일부 내부 시스템이 영향을 받았으나 핵심 임무 역량은 정상 가동 중이라고 밝혔다.",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374800/top-secret-us-security-communications-network-down-report-says",
+      "published": "2026-11-18T03:57:26+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "nsa-network-outage",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "US loses measles-free status as vaccinations fall, cases and deaths mount",
+      "title_ko": "미국, 백신 접종 감소·환자·사망 증가로 홍역 퇴치국 지위 상실",
+      "summary_ko": "범미보건기구(PAHO)는 화요일, 백신 접종률 하락으로 홍역 환자가 급증하면서 미국이 홍역 퇴치국 지위를 잃었다고 발표했다. 멕시코와 볼리비아도 올해 지위를 잃었으며 캐나다도 앞서 같은 상황이 됐다.",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374799/us-loses-measles-free-status-vaccinations-fall-cases-and-deaths-mount",
+      "published": "2026-11-18T02:18:13+09:00",
+      "tags": [],
+      "event": "us-loses-measles-free-status",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Jensen Huang agrees to face Congress over Nvidia scandal",
+      "title_ko": "젠슨 황, 엔비디아 스캔들 관련 미 의회 증언 동의",
+      "summary_ko": "젠슨 황 전 엔비디아 CEO가 중국 정보기관 관련 의혹을 받는 여성 사업가와의 혼외 관계가 드러난 뒤 국가안보 위험 논란 속에 미 의회 증언에 동의했다. 그는 12월 1일 하원 중국특위·외교위원회 등에 자발적으로 출석해 비공개 녹취 면담을 할 예정이다.",
+      "url": "https://www.scmp.com/news/us/economy-trade-business/article/3374798/jensen-huang-agrees-face-congress-over-nvidia-scandal",
+      "published": "2026-11-18T01:51:00+09:00",
+      "tags": [
+        "business",
+        "geopolitics"
+      ],
+      "event": "nvidia-jensen-huang-scandal",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "UK urged to implement radical reforms to tackle youth jobs ‘crisis’",
+      "title_ko": "영국, 청년 일자리 '위기' 대응 위한 급진적 개혁 촉구받아",
+      "summary_ko": "영국 정부가 의뢰하고 앨런 밀번 전 노동당 장관이 이끈 보고서가 화요일, 청년 실업 '위기' 대응을 위해 복지급여 개편과 청년 고용 기업에 대한 재정 인센티브를 촉구하며 16~24세 니트(NEET)층 대응 체계의 '완전한 재설정'을 요구했다.",
+      "url": "https://www.scmp.com/news/world/europe/article/3374796/uk-urged-implement-radical-reforms-tackle-youth-jobs-crisis",
+      "published": "2026-11-18T00:41:48+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "uk-youth-unemployment-review",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Trump eyes China after brief Manila stop, seeking chemistry with Xi amid fresh AI strains",
+      "title_ko": "트럼프, 마닐라 짧은 방문 뒤 중국 주목…AI 긴장 속 시진핑과 '케미' 모색",
+      "summary_ko": "트럼프 미국 대통령은 화요일 마닐라 도착 몇 시간 만에 선전에서의 시진핑 주석과의 회담을 언급하며 \"논의할 매우 중요한 사안들이 있다\"고 말했다. 새로운 AI 관련 긴장 속에 진행되는 회담이다.",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3374795/trump-eyes-china-after-brief-manila-stop-seeking-chemistry-xi-amid-fresh-ai-strains",
+      "published": "2026-11-18T00:39:39+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "xi-trump-putin-shenzhen-summit",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Planes, trains and automobiles: what we know about Kim Jong-un’s foreign travels",
+      "title_ko": "비행기·기차·자동차: 김정은 해외 순방에 대해 알려진 것",
+      "summary_ko": "트럼프 대통령이 월요일 이번 주 중국에서 김정은 북한 국무위원장을 만날 수도 있다고 시사하면서 일정상 문제가 제기됐다. 백악관 일정에 따르면 트럼프는 수요일 저녁 APEC 참석차 선전에 도착해 목요일 귀국하며 다른 중국 일정은 없다. 기사는 김정은의 해외 이동 방식을 정리했다.",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3374779/planes-trains-and-automobiles-what-we-know-about-kim-jong-uns-foreign-travels",
+      "published": "2026-11-18T00:00:13+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "trump-kim-possible-meeting",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "‘China question’: Nvidia crisis and new US chip curbs split Washington and Silicon Valley",
+      "title_ko": "'중국 문제': 엔비디아 위기와 새 미 반도체 규제, 워싱턴과 실리콘밸리 갈라놔",
+      "summary_ko": "엔비디아 리더십 위기와 미국의 새 반도체 규제로 대중 AI 우위 유지 방식을 둘러싼 트럼프 행정부와 실리콘밸리 내부 균열이 드러났다고 분석가들은 말한다. 미 상무부 산업안보국(BIS)은 월요일 수출통제를 원격 클라우드 접근으로 확대했다.",
+      "url": "https://www.scmp.com/tech/tech-war/article/3374770/china-question-nvidia-crisis-and-new-us-chip-curbs-split-washington-and-silicon-valley",
+      "published": "2026-11-18T00:00:09+09:00",
+      "tags": [
+        "industry",
+        "stocks",
+        "geopolitics",
+        "legislation"
+      ],
+      "event": "us-chip-curbs-cloud-access",
+      "state_media": false
+    },
+    {
+      "source": "China Daily",
+      "title_original": "黄仁勋：“我愿意重新担任英伟达首席执行官”",
+      "title_ko": "젠슨 황 \"엔비디아 CEO로 다시 일할 의향 있다\"",
+      "summary_ko": "젠슨 황이 엔비디아 CEO로 복귀할 의향이 있다고 말했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90UHRnX0ZxY1NiNGVRN3gwZENnMDR3Y2tlcS1KeTEwU0RDSjByRTNERGxzaS1iRjVtVE9DQmtYcUVtNU5TZk5iM3hJQU11YVBSc3gwdFRxb0o4Vy02MmZhNDlYWmZHMlk1QWtMWjNDWmRHZkZBU2dHZnlFRGs?oc=5",
+      "published": "2026-11-18T02:36:00+09:00",
+      "tags": [
+        "business",
+        "stocks"
+      ],
+      "event": "nvidia-jensen-huang-scandal",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "“办不成事”反映窗口怎么翻译？深圳给出新版答案",
+      "title_ko": "'해결 안 되는 일' 민원 창구 어떻게 번역? 선전이 새 답안 제시",
+      "summary_ko": "선전시가 '일이 처리되지 않을 때' 민원 창구의 영문 번역을 새로 내놓았다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByc3J2MkR3N2lGWHlyM1prYzNwakJxell1a3RLOVJWbkZlbGVna1pyWFpIODcxbHR1OTZTN0NvTjVHdzFLdkxESlRXcFpKQ216cThnSzJOU3JwUEZpdXdqbUNqNUNYOVpwc3JmYzdRRm56bWhKbHZsWWZBNEY?oc=5",
+      "published": "2026-11-18T00:53:23+09:00",
+      "tags": [],
+      "event": "shenzhen-service-window-translation",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "“熊猫杯”中国U19男足战胜韩国队夺冠",
+      "title_ko": "'판다컵' 중국 U19 남자축구, 한국 꺾고 우승",
+      "summary_ko": "'판다컵'에서 중국 U19 남자 축구대표팀이 한국을 꺾고 우승했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HMlNIZ2ZjX3ZhRDBxTTRXUVFOQ2dwbjdVMEtSUjB3cHI2MGU1bG1QZk9lZ3ZORHhlRWI1NUdSenlya3ZnS2k3SzBka3VhX2dKcmNWN0tkdUtiOXJDSDhFZnc0S2tvUGZPUXhWcEplb1dHQU5xV1pqaVFsWQ?oc=5",
+      "published": "2026-11-18T00:53:13+09:00",
+      "tags": [],
+      "event": "panda-cup-u19-final",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "欧委会上调今年欧盟经济增长预期至1.4%",
+      "title_ko": "EU 집행위, 올해 EU 경제성장 전망 1.4%로 상향",
+      "summary_ko": "유럽연합 집행위원회가 올해 EU 경제성장 전망을 1.4%로 상향 조정했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03Slp6TFJlaDY1V1BGSmtjVnZqU0Z4T1U3WjhYaXBfZTRrelZTQ0FnSm8zaWVyWlUwUFEzS2ctQnh3bTZ5dVNyYXZNS0ZxSEZzNjZfRFJCLTV5YVB0OC1OdFA2LWxaWFJLNGJ2QzBTc3pjQU9WQ0d5b0N0TQ?oc=5",
+      "published": "2026-11-18T00:53:10+09:00",
+      "tags": [
+        "forecast"
+      ],
+      "event": "eu-growth-forecast-upgrade",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "遏制和扭转亚马逊雨林砍伐",
+      "title_ko": "아마존 열대우림 벌채 억제·역전해야",
+      "summary_ko": "아마존 열대우림 벌채를 억제하고 되돌려야 한다는 내용의 보도. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wMDM0N01rNVZwTzRuOWE4WFVDZnNld1pxQ2p5M1hfSUNjQ1BXekZ2aXo5SThGUm1vUEZuRXd3SWpyNTUzaFdVbTZUVkZxQ0gydkVQdnNvMEs5WmlkblFHVDIwWmVnemZwVEpfVEwtaHBVaHd1dUtiQWgxc1c?oc=5",
+      "published": "2026-11-18T00:44:32+09:00",
+      "tags": [],
+      "event": "amazon-deforestation",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "习近平会见秘鲁总统藤森庆子",
+      "title_ko": "시진핑, 후지모리 게이코 페루 대통령 회견",
+      "summary_ko": "시진핑 주석이 후지모리 게이코 페루 대통령을 만났다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JZUdodGlrTnZudUNTZC1mMjZtWk5UZmxkRHF0dmJiR3d3VHlzeHRwZHZsMC1hN1VWcWUwV01iOHVybmNPcG44OUFCbV90OHNxdmlKdnJxQmxfRktCMHgtRUs2dGpNM2RNTGd4TDV2VUViMk9OUmsxTEhwam8?oc=5",
+      "published": "2026-11-17T23:13:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "xi-meets-peru-president",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "深圳，见证高光时刻！",
+      "title_ko": "선전, 빛나는 순간을 목격하다!",
+      "summary_ko": "선전이 '빛나는 순간'을 목격한다는 내용의 보도. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jNklFOUxleFBTVkt3bUxqNFotaDQxdDdZTmh3U2lTX29NS1h5SS1JRHBWUEJiRDdTTXlKb2hhZE0wR2htVFJKSGZ2YWNEYVVoQThqX0tMdWVvc1ZZQ1JIMjdPVVdldkNiSVc4ZGo4X0M0S0x5YWVsVGN6dw?oc=5",
+      "published": "2026-11-17T23:01:38+09:00",
+      "tags": [],
+      "event": "apec-shenzhen-summit",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "视频丨中国贡献为亚太发展注入新动能",
+      "title_ko": "[영상] 중국의 기여, 아태 발전에 새 동력",
+      "summary_ko": "중국의 기여가 아태 발전에 새로운 동력을 불어넣고 있다는 영상 보도. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UTGNOQUcxTVExelVNVDhad245Q0dPVE5zLXN2Rk5NU0l4SUFmeEJwQ0ZUaVlFZ3FQcVpLSjhMUnk5VDJnd3NFbl9yajd5UlpNY1pLUTBzSEhaUkRfNm1NZEg1c0k3MW5lUW5vTTBURDNaUG0tYnRGazM5bw?oc=5",
+      "published": "2026-11-17T23:00:22+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "apec-shenzhen-summit",
+      "state_media": true
+    }
+  ],
+  "events": [
+    {
+      "event": "snow-tourist-trains-launch",
+      "title_ko": "'설(雪)'자 계열 열차 정시 운행 시작…새로 추가된 역은?",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "jiaxing-vocational-skills-festival",
+      "title_ko": "저장 자싱: 중등직업학교 학생들, 기능 축제에서 솜씨 겨뤄",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "china-cold-wave",
+      "title_ko": "강한 찬 공기 영향…전국 곳곳 기온 하강",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "shenzhou-24-launch-prep",
+      "title_ko": "선저우 24호 우주선·로켓 결합체 발사구역 이송…근일 발사 예정",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "weekly-outdoor-practice-classes",
+      "title_ko": "'매주 반나절' 교외 실천 수업, 어떻게 잘할까",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "alias-employment-court-ruling",
+      "title_ko": "직원이 가명으로 일하면 노동관계 성립에 영향? 법원 판결",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "beijing-new-museums",
+      "title_ko": "기대감 최고조! 베이징, 새 박물관들 개관 예정",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "waste-sorting-policy",
+      "title_ko": "주택도시농촌건설부: 더 편리한 쓰레기 분리배출 방식 보급 예정",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "new-zealand-selwyn-earthquake",
+      "title_ko": "뉴질랜드 셀윈 지구 규모 5.4 지진 - 보도",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 1
+    },
+    {
+      "event": "sudan-war-drone-casualties",
+      "title_ko": "유엔: 올해 수단 전쟁 민간인 사망 약 75%가 드론 탓",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 1
+    },
+    {
+      "event": "kyiv-explosions",
+      "title_ko": "우크라이나 키이우서 폭발음…로이터 목격자",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 1
+    },
+    {
+      "event": "uk-sanctions-israeli-settlement-firms",
+      "title_ko": "영국, 이스라엘 정착촌 건설 참여 기업 8곳 제재",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "europe-role-ukraine-talks",
+      "title_ko": "독일·핀란드 대통령 \"유럽, 우크라이나 위기 협상에 참여해야\"",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "iran-gheshm-island-strike",
+      "title_ko": "미군의 이란 게슘섬 공격",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 2
+    },
+    {
+      "event": "pwc-china-ceo-apac",
+      "title_ko": "PwC 중국 CEO: 중국은 아태 지역에 매우 중요",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "china-football-bahrain-friendly",
+      "title_ko": "중국 남자 축구대표팀, 평가전서 바레인과 무승부",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "wild-panda-winter-sighting",
+      "title_ko": "겨울 한정 야생 판다 출현…'설탕 뿌린 찹쌀떡' 귀여움 두 배",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "malaysian-chinese-family-kunming-visit",
+      "title_ko": "말레이시아 화교 장후이칭, 가족 13명과 쿤밍 재방문",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "apec-shenzhen-summit",
+      "title_ko": "선전 APEC 정상회의",
+      "sources": [
+        "People's Daily",
+        "China Daily"
+      ],
+      "count": 5
+    },
+    {
+      "event": "wang-yi-meets-canada-fm",
+      "title_ko": "왕이, 아난드 캐나다 외교장관 회견",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "xi-meets-chile-president",
+      "title_ko": "시진핑, 카스트 칠레 대통령 회견",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "foreign-firm-shenzhen-cooperation",
+      "title_ko": "개방 협력에서 '중국 최초 출시'까지…이 외국기업의 선전 상생법",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "hk-macao-youth-zhuhai-startup-guide",
+      "title_ko": "《홍콩·마카오 청년 주하이 창업 안내서》 발간",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "industry-25-year-transformation",
+      "title_ko": "25년에 걸친 산업의 대변신",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "xi-trump-putin-shenzhen-summit",
+      "title_ko": "선전 시진핑·트럼프(·푸틴) 회동",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 2
+    },
+    {
+      "event": "nsa-network-outage",
+      "title_ko": "미국 일급기밀 안보 통신망 다운…잇단 기술 장애",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "us-loses-measles-free-status",
+      "title_ko": "미국, 백신 접종 감소·환자·사망 증가로 홍역 퇴치국 지위 상실",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "nvidia-jensen-huang-scandal",
+      "title_ko": "젠슨 황·엔비디아 스캔들",
+      "sources": [
+        "SCMP (홍콩)",
+        "China Daily"
+      ],
+      "count": 2
+    },
+    {
+      "event": "uk-youth-unemployment-review",
+      "title_ko": "영국, 청년 일자리 '위기' 대응 위한 급진적 개혁 촉구받아",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "trump-kim-possible-meeting",
+      "title_ko": "비행기·기차·자동차: 김정은 해외 순방에 대해 알려진 것",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "us-chip-curbs-cloud-access",
+      "title_ko": "'중국 문제': 엔비디아 위기와 새 미 반도체 규제, 워싱턴과 실리콘밸리 갈라놔",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "shenzhen-service-window-translation",
+      "title_ko": "'해결 안 되는 일' 민원 창구 어떻게 번역? 선전이 새 답안 제시",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "panda-cup-u19-final",
+      "title_ko": "'판다컵' 중국 U19 남자축구, 한국 꺾고 우승",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "eu-growth-forecast-upgrade",
+      "title_ko": "EU 집행위, 올해 EU 경제성장 전망 1.4%로 상향",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "amazon-deforestation",
+      "title_ko": "아마존 열대우림 벌채 억제·역전해야",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "xi-meets-peru-president",
+      "title_ko": "시진핑, 후지모리 게이코 페루 대통령 회견",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    }
+  ],
+  "unavailable_sources": [
+    "Global Times",
+    "Caixin",
+    "China Daily (RSS 404, Google News 경유분만 수집)"
+  ]
+}
