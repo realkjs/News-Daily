@@ -1,222 +1,177 @@
 {
   "team": "il",
   "team_name_ko": "이스라엘팀",
-  "collected_at": "2026-11-17T06:13:11.846021+09:00",
+  "collected_at": "2026-11-17T11:38:30.024244+09:00",
   "headlines": [
     {
-      "source": "i24NEWS",
-      "title_original": "The name is Pattinson, Robert Pattinson: After a lengthy casting process, the new James Bond is revealed.",
-      "summary_original": "The name is Pattinson, Robert Pattinson: After a lengthy casting process, the new James Bond is revealed. i24NEWS",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUl9EeS1kSk9fRkFFQ085aEVSVXVXdU42MG9GZDNhb0RSblZld1Rod3lWcDB5M21JS3hfYjNRNVhKOG55SlhOR0FEOXV4OFRTcjllY2xXVlR6NUdwaDIzY19aclgwQ01WaE9kbmJ2SjBIc3hJWU0xT21haERmTHdMbk1ndi1QcE9vVk9jTUlQRkZCckd6RjdVa1BHa0dYVVdXbmZXVldMY2J0Y0xtMndzYzBFYjJ3RVYzY0JxdS1ZbFVxb3gteHNBbUhDVFAzcGtnSUxCcVc3RmFCS0M1Nk1aTDlBaldOeTdTaGFSbHdkRnc?oc=5",
-      "published": "2026-11-17T02:53:28+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "i24NEWS",
-      "title_original": "Somaliland Briefly Detains Five American Nationals Accused Of Threatening National Security",
-      "summary_original": "Somaliland Briefly Detains Five American Nationals Accused Of Threatening National Security i24NEWS",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdnZWclZWOEI3M21xZFpiekR4NHhGYVRGQWxManZEVUpCbVFfWElkWEt5Z1RXeklhaDVmS1g5QmlwV0FLZ01jLUdYYnlBRGdVMUgxYXl6TUUtX2dmS1pycnl4Tl9VLU9wVzRyekVHV1V5eTNGS0N4RFQtZ0VjakZ4VWxkc3JuZjlib3BmanFLbTFYbUNCcVh1b1RPT1FZSHQ5azduRHdGMkxFRC1oaUNTYmJ6VTZmdkZ3dG85UW55OUZvN243QUVrZm5uX3RPZUE4WTQzUG5BY01BSXhwWVc4X1ZR?oc=5",
-      "published": "2026-11-17T01:58:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "i24NEWS",
-      "title_original": "‘Eisenkot and the Left prefer those who want to destroy Israel,’ Likud party rejects election interference claims",
-      "summary_original": "‘Eisenkot and the Left prefer those who want to destroy Israel,’ Likud party rejects election interference claims i24NEWS",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdl9uTjRjNE84T3NuSXdkdjEwT3c3YUNwWTBZcTZMSlY4LS0ydHVQeU9CeG51Z1ZZd0owcVZ0dzEwYV9zdU5XMVlGSjdJNm1NaXNNRGJfdGE1Um4wdlNnM2twMlJmTlNQRGNUeWVjMVVkVl8xa24tQXFJNXUtTFNXblFaQms1dTlTcENDRTNvd2FURHotekxGb0dQMXZDX1lmN3RBanVSWUNNaGtxbUhKVmJIVHdyV1dsZkFSSlNBT3ZDOWZQRnRIajRaeHYyWTZnckZEeDZFdWhZNjBrM1JLWktGWlhTMGhQeHg5QVdXUlRNU3cxRTVOWmd1aFF6dw?oc=5",
-      "published": "2026-11-17T01:23:30+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "i24NEWS",
-      "title_original": "Jordan And Iraq Block Telegram, Citing National Security Concerns",
-      "summary_original": "Jordan And Iraq Block Telegram, Citing National Security Concerns i24NEWS",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYjl2NTZzajRuN0lyVGtjUHg2RWRkb3pMZ3hUWFRjWE54ak5mYzNpSXo0dlV0UUNrYlE4djNQNjRJeFR0aVJKMkJqNFM1cC1vVFdPamtzR0dJUjl0eHpQWlVkYWJQOERYRmJfZ2ZZTDBtMTVSWXZla0JkUmhhaXQySWloLVh1SWNnbFZPT0IxREh0MG4zRkluejBMMkZFNFVLc3JJX3paOFBQNngwdXd2TF9R?oc=5",
-      "published": "2026-11-16T21:11:35+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "i24NEWS",
-      "title_original": "Venezuelan Delegation Visits Israel For First Time Since Diplomatic Ties Severed In 2009",
-      "summary_original": "Venezuelan Delegation Visits Israel For First Time Since Diplomatic Ties Severed In 2009 i24NEWS",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVnFzRExzM0otT0tOTTBIUVU4c1hEOGNrVm5jc21PWFdwbmxJUVgzLWZGMUhNX185YUs4Q1EzOUFOcWo4eUIydUN5SFh0Sks1S0luc0h2YnpxV1pOQzJiT05GVHRMdjdkMXhXMTVIR2VwRTlIbjJSck8xOWRSUjdlYlVRb1BWSVI3cW9CLWxJRG5aNEJxRGpqaXdhS1Rwcm5UVVhKbGNZcXE5ZGdEeUVsYTR4RWs4R2pYWVgyOVZ4dVF4aDdsdXV0blJtbURRaE0xcTVnUzB5bVQ?oc=5",
-      "published": "2026-11-16T20:36:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "i24NEWS",
-      "title_original": "Gorillas Form ‘living Ladder’ To Reach High Branches At Israeli Safari Park",
-      "summary_original": "Gorillas Form ‘living Ladder’ To Reach High Branches At Israeli Safari Park i24NEWS",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWTRYcW1jcG9qNkxBQ2hLRENIeHVXaGhuM3pVcl9QenN0RFVHbFI4N2J4OTRCQkZKTGQxSVlRSWxpSmJRd3EzSFVjNkk3N0hNR2Fndzh4LS1FcmdqdmJiSkxxUDJ1Qk9tanU2M2plSXBoMnI5a1IxR1FmYzZUeHAyRnpJdDF2ZnJrR0JyWXE2N3p0Q29XdnQ1SlNJNFRldElVLW81UEpiYWxvRWZ0eFFtdkQwM0N1WTJZWC1LVlZlN2txaHBqTjVF?oc=5",
-      "published": "2026-11-16T20:01:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "i24NEWS",
-      "title_original": "US Now Has Three Carrier Strike Groups In CENTCOM Region As Roosevelt Arrives - Report",
-      "summary_original": "US Now Has Three Carrier Strike Groups In CENTCOM Region As Roosevelt Arrives - Report i24NEWS",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS0hPZDFndVNYVTkybDJRbDhaSTFZOEhBOVdVVDRtTS0yWEZHd2t1bXEzNUlLeW9lbktuam42QWdETEFSMXl4X2UtN0VWQ1oyNndjUVVGeGR5c3dsU3lfNjNSeXFvRTEtbkxER21QZ1U0VVdRS200VUVybk5XcmxMaUhGcldXODB1eUlqTWlxaGJnNWFlNWRITDRmTHhmZFZXNjNmbjFnRkN1ZnN6WGpobWtXVE9BNzVFRnR1YWtSTjBabUpEXzhwN29OM1ptMV8tUHNaeVRqSWJyQlE?oc=5",
-      "published": "2026-11-16T18:36:01+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "i24NEWS",
-      "title_original": "Police examine whether source linked to Netanyahu’s office gave false information in election bribery case",
-      "summary_original": "Police examine whether source linked to Netanyahu’s office gave false information in election bribery case i24NEWS",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQR21uZXZEV0dzQ2RsVmM1NGIxak1PSzM0emR5SDNiYUdQLUJRbmVwM2w0SWVubmpXSHBwNFF6SDIzOGl1VXFLQW5sSVF5REw4dTRZVFB4Z0RpamNWQnhXSXJyU2s5OEdIT0VIbXg3ZDExekNPXzZ4ZnlBQzJZSzFoY2htSTZrcHVfYWY0OHpESU15Ym9sVWoyVGQxaDhwYjBRTVhkQTNTZ1JnLVY4NTNaUVFnZHNOazlNZzh3MUNDMk9XN2VfMmx4azhUT3FzUjd0N3ZyNGhkcnVpOHVxY3J4a3dXVW5NMmtSN09Ud3pTTQ?oc=5",
-      "published": "2026-11-16T14:59:00+09:00",
+      "source": "Times of Israel",
+      "title_original": "Aaronson-Questing and Art-Questing: At the Edges of an AI Model’s Training",
+      "summary_original": "Aaronson-Questing and Art-Questing: At the Edges of an AI Model’s Training The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWDRTWThxTjIxbjVrV3h4VGxBZzFtSHhHZGRWaEtzYVoyRTI3cWdzT3FDYy1EcF9laXNIR2UxNXBwNFNHeHVhWTJ2WEROZkNWT05IZGJEWkpreTh0RnF4Y2ZfRkpxUUhiX21PeXd4OW9yeTVQb3JpZTlpY0QzTG9TMThiQU85YWtKZzVCUzUtaTNLZnRMRTNKM25Cb0ZzaWZvS01WQ2VxbUI?oc=5",
+      "published": "2026-11-17T09:30:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Times of Israel",
-      "title_original": "18 Years After 26/11, Mumbai’s Chabad House Is Still in Terror’s Sights",
-      "summary_original": "18 Years After 26/11, Mumbai’s Chabad House Is Still in Terror’s Sights The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZHBQUmNCTVozSWlFNUFabVRJY1A0QXJLc3VPNnByWlZSU1lJUlRRVUhLbEx1LWVnR3U4YUYxdlc1eVU5ODh6MlhVVWRkQ3Bjc2tOVUtfdUg0eWJjM1dVV2hfS1Uyd1BCZ2M3c0xjQzY2WDVaRTNJYVNac1ZMZnFjU3RqMkhKd3lncGhTRWZTS0JEcXJHTGV2ZWpqTl9VN0wzbHRN?oc=5",
-      "published": "2026-11-17T05:41:00+09:00",
+      "title_original": "Somaliland’s Plea for Air Defence Is Rooted in the Isaaq Genocide",
+      "summary_original": "Somaliland’s Plea for Air Defence Is Rooted in the Isaaq Genocide The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ3VJR3AwdnhCVURHR0JXOVZKNnRpN0w5YUVGWFZXWnY2ZmdjUTV3emNBR1BDdVhDTFYtOG44N21CYzg3SF82SUdST21kOUl5WXMwVEhVNW9obUQzZER1b2VWWU1lZzBSR2hLd3NLOG9xX2pBVVlTc3lCMVh2SEx1Wm5VcEJqUURRZGtwZFZYNG1aMy1XV3A3a3pzaGdpdw?oc=5",
+      "published": "2026-11-17T09:28:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Times of Israel",
-      "title_original": "Report: Senior official in Eisenkot bloc says likelihood of unity government now down to zero",
-      "summary_original": "Report: Senior official in Eisenkot bloc says likelihood of unity government now down to zero The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNWc1QTYweGVYZmRzSVZuQzBEQmthSTk0eEp6VHMtNUluS0tmN3VpVW9lbXFGUEpqX1RmeEN4ampBejZZY0VycXFhMEliMFplZkVMeVdLWnBBT3YxZVBlQ0tjQ3k3UmhkcmJFUGc2RHV4NW80b2tNNlJDdFQwWHNnZFl4RXN3Z0k0Qk8xdEtjQkRYdHk1RG1xYXI0S2JTMnRIR21renV4eFNIVlc5d2UzZ2VYRUxsMVVkaWlmTXhOSEZvVDVKaGhyVmNxeDVFS0hOZmFnRA?oc=5",
-      "published": "2026-11-17T04:32:37+09:00",
+      "title_original": "Phil Eastment",
+      "summary_original": "Phil Eastment The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aN19ELThIaVJzRE9FOEF6c2JNYXFPVFFDU1M3eWc1Zzk0QU9wZm0ySFJtcnRoZDJ2T21nYV9hZXRVem1ZUW9aWlpsZU5DVnlIR3hGYTBIVl80Nk15MVpjcm9KYw?oc=5",
+      "published": "2026-11-17T09:26:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Times of Israel",
-      "title_original": "IDF says 5 Hamas members who participated in Oct. 7 killed in recent Gaza strikes",
-      "summary_original": "IDF says 5 Hamas members who participated in Oct. 7 killed in recent Gaza strikes The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTi1tcHhVQVN5bHFyZVp3dzNRa09zdlZJYUw4RVV4MElGdUZWTHp1RUxIaWNOMXVNMnR5dGgyYkFYT2ZzVTRqbTF3MVlfMnpXdWVLbUU3QWxpOGZjMkFkdjM3Um9rMXVqYjVpR3RNdVpuSUdKd3VGczJ1MzNZVHJnN3dJZ0VSdnNkT1QzcVVjd05qSU43b2lVR0c4dkpJcXEwckNxS1RsSUtVaklMejRrQUZmazN3SWpZYzI2M29ILWtrTjNY?oc=5",
-      "published": "2026-11-17T03:05:06+09:00",
+      "title_original": "The Tragic Trap of October 7",
+      "summary_original": "The Tragic Trap of October 7 The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JN2dabl9KaW1jSlVLS0dTMkllelI0dWtaMjhYdlNPYlBaR1hDZ2NHZVlPa0Z1ZjRLQjdTaFlYaVFLZHVWTEVNRDZLUHJoNXNzVHZCQjZwT2c3bXUyZnE4WlBuMUZkVGRISllHSDJ3?oc=5",
+      "published": "2026-11-17T09:26:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Times of Israel",
-      "title_original": "The Blogs: Building Israel’s Future Through Long-Term Philanthropy",
-      "summary_original": "The Blogs: Building Israel’s Future Through Long-Term Philanthropy The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYk9OaEttNm9rNHJRdDVvUmtpZm9hTFVDWER1R1I5NE5Vc29HX2c4Q3hnYnEwOEdGaGlHbGFOQkxLODZCZmJOc1R3YUZZNGxyRlJ0NlZJTXBncnFXd3dmd1d6WGw1TjdTbU1kMEVDVWh1RzlsU00tTHNDMnFfVUpvR3M2Q1V5T19ReHZDQkZaaVA?oc=5",
-      "published": "2026-11-17T02:59:00+09:00",
+      "title_original": "Three Aircraft Carriers and Still No Clear Endgame",
+      "summary_original": "Three Aircraft Carriers and Still No Clear Endgame The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORHlWNEpjMmhlZXZlcTFfYTAySDUtZjhlVXB5Y1FSNUl1LXFvN3pEcEp0a0NucVNpdUNuTWNmVGJuckEwSHh5MllCcTZJZjFVVnJfX1c5eU11dDY0ckd2LXRmQkVkSFJnblI5MTd1UE9TRmNTRFg5Rml1UlFER25JNzJQa1lubnhVYmw0?oc=5",
+      "published": "2026-11-17T09:25:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Times of Israel",
-      "title_original": "The Election We Forget– Until the Bill Comes Due",
-      "summary_original": "The Election We Forget– Until the Bill Comes Due The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONXlRSFhQZWJBYnpPa1JWaUVzbkdOVnBzZ1FfY0JXOTNXR1lqcm5VY0h0a1ZLUXV5WjlpZjBIRjQ0R1ZlM3NITEVEd1hURXR2Y0RMN0VKdzhsZDhKcTVkcXZqU0JzbFVIa3ZKQ08xYTJyYXVKLVNON2ljcjJTRFFCdU5Ra0hHX28?oc=5",
-      "published": "2026-11-17T02:56:00+09:00",
+      "title_original": "Re: An Open Letter to House Democratic Leader Hakeem Jeffries",
+      "summary_original": "Re: An Open Letter to House Democratic Leader Hakeem Jeffries The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjdRLXJ5OHZKRURuWXprZnFhNExUMllwS2p0TTk2VkF1SktZa3Q3bDQtNkJtR0FPSnV4LW92dVlmQVAya0xlZ2R4cGp3bWRfeUhBMFpfeDNSQzBiRUlPZ1pMWkhnbnk4S0tNYTQyNUwwcEtHMnByWUJzZktHbzVpQlhvX0VBMmlRS1J3ekJ3QnA5TWluZmFwRA?oc=5",
+      "published": "2026-11-17T09:25:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Times of Israel",
-      "title_original": "The Blogs: Finding God When We Stop (Vayeitzei)",
-      "summary_original": "The Blogs: Finding God When We Stop (Vayeitzei) The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE03dFJUUGxMMUI3ZnhxVFppM0NBY2ZqRjNvRzg3RWVYRjBMZ2tGVElxRS1HaXcyU2pvZFFvTmVQNEdPRXBkaHVTNkdtYXUwMVg1ZDFfaV9KRDZSOF9QbzV0akJvdm5QSzFYUkd1RnRqZjNmTjUxLVE?oc=5",
-      "published": "2026-11-17T02:38:00+09:00",
+      "title_original": "Congregation Temple Sinai of New Orleans: Faith, History, Stained-Glass Beauty",
+      "summary_original": "Congregation Temple Sinai of New Orleans: Faith, History, Stained-Glass Beauty The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONDU5aUYyckdSeGtiTGdZeFdscmczUkFzNHlSSlNYbGt1MHBtd1ZYQnZKSFZkWDU5NjA3b3ktbXA3V2xLYzhHd0xVZEViYUVkb0ZGV0huX2JNY2VyZnNQWFZXb1VoQTIzZHBVUy0zSnczajFRNF9hSkxqQXhPMTdtN2szV2JaeTQzZFVSY2xfNXA5dzI0VU9CemsxS2JOY2c5QXk0SkR0UTBLa1lx?oc=5",
+      "published": "2026-11-17T09:24:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Times of Israel",
-      "title_original": "IDF says settler attacks on Palestinians only affected a small minority of West Bank olive harvests, as season ends",
-      "summary_original": "IDF says settler attacks on Palestinians only affected a small minority of West Bank olive harvests, as season ends The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdXRfUmd5UGFiWU1yemw2SnRDZE1EWjFJYVVaM0phT1A5NUZiMlBiaTJqaDE0bmVBY25EM18yM1BzM283VmgyWGhCOC1GMU9BdHJBTU9xRExwVWtvRkMyeFJ1aDNtZ1NzZjRIUVQtNVpxLWZUaFo3MmlCS1FXaHFBcEIxXzRUa3dGU2E2a053dHo0eE5jeS1wOTJPY09kUTFMYUhiMmhzd0Z3MWNMZGVkTVQtUmpZc3pVMVVrRXd2SGJWQUZkRk1uODdhamVwU1laWnQ0LVQ4M0Vsd2xSRVlsUmxTeHN6LXZBYXlRUWFlYmpxQQ?oc=5",
-      "published": "2026-11-17T02:35:06+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Times of Israel",
-      "title_original": "Netanyahu’s party requests seven-day extension for filing election results appeal",
-      "summary_original": "Netanyahu’s party requests seven-day extension for filing election results appeal The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWkJCR1dTdWxscWFUUEs3V1ltME5YczI2YlFwS0pYejdObzY0cDJVRFo1Z3k0Ymp5NjVxa1FmTU14MDZaNVh3MFBVX2J1TnliYmJiUWpLMWJ2T2dJdXZhbjMyeTFLeVNWY0ppbVhhQ0lKODFEbEp1bW1KMnFoUE1vYXNJZUhfUmdYM0RBTGxqYm8tOF90aG4zX2N1cE5uSno4a2pZTUlGc3JNUXE1c3hTTjR0c3pnNnUyZnlMYWFQYkFHSHll?oc=5",
-      "published": "2026-11-17T02:35:06+09:00",
+      "title_original": "Rubio denounces Iranian strikes on Bahrain during call with counterpart",
+      "summary_original": "Rubio denounces Iranian strikes on Bahrain during call with counterpart The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLXhpdjJZZFBudkxCQl91OVhjRHBfMUVoTFRkOTBjbzQ5VVBja3hHbWZxLTEtdFFfUm9LTk1rbGI0VkRrb3dHTXBCN0RpX3ktUXlkNTF5M3FzUGdDWTZHc2NSTzRQa29mSjYzMktxSGVCc1dtdzVNSm5nbGF3dHVJTTVQQ3VVZDlPNHpqMWwzMV9IU0NTZldGUXA2eEgyQVdVa3BtaF8tWW5zV0pkUjFmbE5LODhZa1l4?oc=5",
+      "published": "2026-11-17T08:32:45+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Haaretz",
-      "title_original": "Israel strikes deep inside Lebanon, says it targeted Hezbollah arms shipment",
-      "summary_original": "The military said the shipment likely came from Iran; Israeli defense officials approved the strike amid concerns that renewed fighting with Iran could draw in Hezbollah",
-      "url": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-11-16/ty-article/.premium/israel-strikes-deep-inside-lebanon-after-prolonged-restraint-at-u-s-request/000001a1-e597-d029-abeb-e7b725d00000",
-      "published": "2026-11-17T05:04:30+09:00",
+      "title_original": "Israel wants Arab citizens to share the burden, but not the power",
+      "summary_original": "The 19 seats won by the Joint List and United Arab List expose a contradiction at the heart of Israeli politics: Arab citizens are urged to contribute to the country, even as their right to help shape its future is challenged",
+      "url": "https://www.haaretz.com/opinion/2026-11-17/ty-article-opinion/.premium/israel-wants-arab-citizens-to-share-the-burden-but-not-the-power/000001a1-e5ee-d381-ade5-efef1a3b0000",
+      "published": "2026-11-17T09:17:31+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Haaretz",
-      "title_original": "Likud seeks extra week to appeal election results after pushing fraud claims",
-      "summary_original": "Likud cited an 'unprecedented' appeal involving hundreds of polling stations; a Haaretz analysis found most of the complaints submitted by its lawyer did not concern matters that could affect voting",
-      "url": "https://www.haaretz.com/israel-news/elections/2026-11-16/ty-article/.premium/likud-seeks-additional-week-to-appeal-israeli-election-results/000001a1-e565-d9ff-a7b5-f5ef1ecc0000",
-      "published": "2026-11-17T04:49:02+09:00",
+      "title_original": "Mamdani disbands controversial NYPD unit that policed pro-Palestinian protests",
+      "summary_original": "Mayor bans kettling and tear gas at protests and creates a civilian de-escalation unit; police union accuses him of appeasing his 'radical base,' while ADL warns of risks",
+      "url": "https://www.haaretz.com/us-news/2026-11-17/ty-article/.premium/mamdani-disbands-controversial-nypd-unit-that-policed-pro-palestinian-protests/000001a1-e69e-d381-ade5-efffc0500000",
+      "published": "2026-11-17T08:39:33+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Haaretz",
-      "title_original": "Pakistan awaits U.S. response to Iran proposals, vows to pursue peace efforts",
-      "summary_original": "Foreign Minister Ishaq Dar said Iran's proposals were based on the June interim deal and attributed the U.S. delay to the midterm elections; Iran's foreign minister accused Washington of aggression",
-      "url": "https://www.haaretz.com/middle-east-news/iran/2026-11-16/ty-article/pakistan-awaits-u-s-response-to-iran-proposals-vows-to-pursue-peace-efforts/000001a1-e4fd-d381-ade5-effd24a90000",
-      "published": "2026-11-17T04:22:13+09:00",
+      "title_original": "Palestinians say settlers killed woman near Jericho; IDF reports attack on Israelis",
+      "summary_original": "Palestinian official television says others were wounded in a neighborhood settlers entered this month; army says assailants rammed an Israeli vehicle and attacked its occupants, then rocks were thrown and Israelis fired 'to remove the threat'",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-11-17/ty-article/.premium/palestinians-two-people-shot-by-settlers-in-jericho-idf-reports-attack-attempt/000001a1-e688-d848-abeb-fe88cba10000",
+      "published": "2026-11-17T08:04:32+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Haaretz",
-      "title_original": "Shin Bet questioned dozens in election probe despite lack of evidence, sources say",
-      "summary_original": "Sources said the service conducted wiretaps and deployed advanced tools; Zini accused the attorney general of tying its hands, though the election committee chief said she had not rejected investigation requests",
-      "url": "https://www.haaretz.com/israel-news/elections/2026-11-16/ty-article/.premium/shin-bet-to-question-dozens-in-election-probe-despite-lack-of-evidence/000001a1-e557-d462-abf7-ffff7c000000",
-      "published": "2026-11-17T03:53:59+09:00",
+      "title_original": "Hakeem Jeffries has called for 'dramatic change' in American policy on Israel – what does that mean?",
+      "summary_original": "Jeffries, likely to be the new House speaker, has shifted from unconditional support for Israel to calls for a new paradigm. But despite pressure from progressives he has not shared many details of what he thinks the U.S. policy should look like",
+      "url": "https://www.haaretz.com/us-news/2026-11-17/ty-article-magazine/.premium/hakeem-jeffries-wants-dramatic-change-on-israel-what-does-that-mean/000001a1-e682-d381-ade5-efe33b5a0000",
+      "published": "2026-11-17T07:52:27+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Haaretz",
-      "title_original": "Students at Hunter College abruptly canceled a 'cultural arts night' event – was it because of Hillel?",
-      "summary_original": "'Safety concerns' over the conflicting views of participating organizations – that included Hillel and Students for Justice in Palestine – were cited as the reason for the cancellation. Jewish groups and NYC lawmakers have called for an investigation",
-      "url": "https://www.haaretz.com/us-news/2026-11-16/ty-article/.premium/hunter-students-cancel-a-cultural-arts-night-event-is-it-because-of-hillel/000001a1-e59c-dad7-a9fd-e7dfbeda0000",
-      "published": "2026-11-17T03:53:50+09:00",
+      "title_original": "Arkia employees choose new controlling shareholder, preserving their stake in Israeli airline",
+      "summary_original": "The employees' corporation exercised its right of first refusal to back businessman Ronen Elad's bid, rejecting a competing offer from an investor group put forward by the airline's current owners that would have eliminated the workers' stake",
+      "url": "https://www.haaretz.com/israel-news/business/economy-finance/2026-11-17/ty-article/.premium/arkia-employees-choose-new-investor-preserving-their-stake-in-israeli-airline/000001a1-e54a-d408-a3e1-f7da2c010000",
+      "published": "2026-11-17T07:27:51+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Haaretz",
-      "title_original": "Exposing election interference scandal, Israeli media proves democracy is still on the table",
-      "summary_original": "Revelations in pointing to blatant interference by Netanyahu's office on Election Day have been mounting. Only now, thanks to the Israeli media, is the full picture beginning to emerge",
-      "url": "https://www.haaretz.com/israel-news/haaretz-today/2026-11-16/ty-article/.highlight/a-glimmer-of-hope-israeli-media-proves-it-can-still-be-democracys-watchdog/000001a1-e52e-d9ff-a7b5-f5ae99260000",
-      "published": "2026-11-17T03:35:47+09:00",
+      "title_original": "The window for an Israeli-Syrian peace deal is closing",
+      "summary_original": "My conversations with government officials in Syria indicate that they are interested in a security agreement with Israel, on condition that it withdraws from the buffer zone, and in cooperation against the Iranian axis",
+      "url": "https://www.haaretz.com/opinion/2026-11-17/ty-article-opinion/.premium/the-window-for-an-israeli-syrian-peace-deal-is-closing/000001a1-e5f7-d9ff-a7b5-f5fff0ad0000",
+      "published": "2026-11-17T07:25:54+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Haaretz",
-      "title_original": "'For me, democracy has failed': Arab Israelis confront Netanyahu's vicious campaign of delegitimizing their votes",
+      "title_original": "The conversation Palestinian parents dread: Explaining settler violence to a child",
+      "summary_original": "A video of his son celebrating Palestinian heritage alongside footage of settlers attacking olive pickers forced one father to confront a question he had hoped to postpone: How do you teach a child to love a culture others are trying to uproot?",
+      "url": "https://www.haaretz.com/opinion/2026-11-17/ty-article-opinion/.premium/a-conversation-palestinian-parents-dread-explaining-settler-violence-to-a-child/000001a1-e5ee-d848-abeb-ffee2ab50000",
+      "published": "2026-11-17T07:13:36+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Israel cannot let the police and Shin Bet investigate their own election abuses",
       "summary_original": "",
-      "url": "https://www.haaretz.com/israel-news/podcasts/2026-11-16/ty-article-podcast/arab-israelis-confront-netanyahus-vicious-campaign-of-delegitimization/000001a1-e56d-d848-abeb-ffed9a0a0000",
-      "published": "2026-11-17T03:34:08+09:00",
+      "url": "https://www.haaretz.com/opinion/editorial/2026-11-17/ty-article-opinion/israel-cannot-let-the-police-and-shin-bet-investigate-their-own-election-abuses/000001a1-e623-d381-ade5-efe33a2e0000",
+      "published": "2026-11-17T07:12:29+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "Haaretz",
-      "title_original": "Israel's AG to discuss criminal probe of Netanyahu-linked election tip-off",
-      "summary_original": "Police arrested three UAL activists before checking their source's credibility; investigators met the former PM office employee only afterward and learned of his political connections",
-      "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-16/ty-article/.premium/israels-ag-considers-probing-election-day-arrests-over-arab-voter-fraud-claims/000001a1-e55e-d3ad-a5e3-e7ff7f600000",
-      "published": "2026-11-17T02:59:49+09:00",
-      "via": "rss",
+      "source": "Jerusalem Post",
+      "title_original": "Neighbors rally around Jerusalem’s Kol HaNeshama Reform synagogue after attacks",
+      "summary_original": "Neighbors rally around Jerusalem’s Kol HaNeshama Reform synagogue after attacks The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByRmk1b3RaaXB0bmZUZmdHSG92U3VxRXQ4dXZUbGRqZEt1UnhSdlVZc293SWl1aldGUFd1bFNxWDkzQ3V1SnU2Nmh1LWRmeDdzQ0d4dU8xbXp1UVZ6?oc=5",
+      "published": "2026-11-17T10:18:28+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "US intelligence suggests Iran planning 'dirty bomb' attack targeting officials in DC - report",
+      "summary_original": "US intelligence suggests Iran planning 'dirty bomb' attack targeting officials in DC - report The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oY1lRMlZjdFNOYy1LWkpjZ05CMzZUTm1uVThrNGNKYUprcGh6RFZLQmhEVW9QRC1PbmV1cUZsWGdwcEMzUlFaM2NXT1Z4Rzk3UjdISVhPNlhxcVVXT3BqY0RUeGZPX1VuREE?oc=5",
+      "published": "2026-11-17T09:53:48+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Woman killed, 10 wounded in shooting following car-ramming near Jericho",
+      "summary_original": "Woman killed, 10 wounded in shooting following car-ramming near Jericho The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DX2tPV2VKLTNmdWx0QjhPRzlHbTN6U0FjNGxZUUo1bFlqMHdoVFptVEI0cDRhR2l5LVQtVWxFb1VvVThYQW9ObzIwd01JMWtwMjdiN0tLejVwQkF6Yk1DNmFQcURPUFV3RXYtYzhB?oc=5",
+      "published": "2026-11-17T07:51:22+09:00",
+      "via": "google_news",
       "state_media": false
     },
     {
@@ -239,6 +194,15 @@
     },
     {
       "source": "Jerusalem Post",
+      "title_original": "Avigdor Liberman's haredi draft law pledge defies reality",
+      "summary_original": "Avigdor Liberman's haredi draft law pledge defies reality The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kLUJXYVV6U0lScmlhUFk4ZDk0TmpKejRmeVZCSmNMbzVuUURtTWRhSy0wZjV2WHFFMEd6QXdwNzV2a25fZzk4NlJiY05KM0Y3ZkNlY2oxajdNMFZEMlgzcy1GLWQ2N1F2?oc=5",
+      "published": "2026-11-17T05:10:19+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
       "title_original": "Does Israel as we know it still exist? Prominent sociologist urges Israelis to leave - review",
       "summary_original": "Does Israel as we know it still exist? Prominent sociologist urges Israelis to leave - review The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SaFd3S044Tnh2QXoxa0dPQ09oaWI1a3JKLXlzVHhPRkp2bHhCZnljQ2RVZFREY0lJWmN0MkFlTTU3U0o3elBKLUlTOWZ2eUt0RDVmQVdTbzRhZHhv?oc=5",
@@ -248,118 +212,82 @@
     },
     {
       "source": "Jerusalem Post",
-      "title_original": "Chikli seeks to revoke citizenship of Russian-born activist who shared anti-IDF social media posts",
-      "summary_original": "Chikli seeks to revoke citizenship of Russian-born activist who shared anti-IDF social media posts The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VcGd5YzhHTk1ua0RMQ2c5NEdpbTFDLTd1bUhZMWpSV3QxOXAzcFVCaU5GWXdEbDdZcWdxLXZrM2NtUk04UzlLX0hqMnFtal92QUNOZ1VYcjlCSUdU?oc=5",
-      "published": "2026-11-17T05:02:25+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Jerusalem Post",
-      "title_original": "JPMorgan, Wells Fargo among main banks reportedly down according to users",
-      "summary_original": "JPMorgan, Wells Fargo among main banks reportedly down according to users The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNckdDZ0tZQXBORDJsaXItZEZBa3c3QmdKUW82aElQRWcyQzVBOEJ6VW1pdHBtcmhzRGktZEZqTXhoc1Nsb0pBY3JLNFhtR1ZOYzRGUlRxckxSMk1BR0k0dUx4WGU5aHFLajRpVlNjQXJOWWN6TVRrUEhsTzNfUHRsRlE5T1B2RVE?oc=5",
-      "published": "2026-11-17T04:38:35+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Jerusalem Post",
-      "title_original": "Lonah Chemtai Salpeter breaks 15K record at Eyal Run",
-      "summary_original": "Lonah Chemtai Salpeter breaks 15K record at Eyal Run The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uMXVrdnh3U2RLaWZOU1ZZWFNKblVpRmRzRVNCQV9YUXhsbVVWdHlIRi1sWk04ZUlHc1dDTFJNa1lvU0lRRE9rT3JjQXNoVzJFV3hmLWMtdTFQLWZaS0FPdmE1T3AtUQ?oc=5",
-      "published": "2026-11-17T04:25:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Jerusalem Post",
-      "title_original": "Three aircraft carriers, 53,000 troops in Middle East as US, Israel prepare for possible Iran war",
-      "summary_original": "Three aircraft carriers, 53,000 troops in Middle East as US, Israel prepare for possible Iran war The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsTUVkTl9zazMyUGVMbjctb2lDWV9JRTY2aUZFaFljc1JyZHFOd3VmMmFnbTBsUno1UjFyTG5ROTd2ZHc4bjhJN19SUEMxa3lKRkNhUFo1dXkzNUww?oc=5",
-      "published": "2026-11-17T04:15:43+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Jerusalem Post",
-      "title_original": "Finance Ministry members warn Israel committed to buy $31b. in weapons from US",
-      "summary_original": "Finance Ministry members warn Israel committed to buy $31b. in weapons from US The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93S2p6MFg3U1p6M1NLUFFVd213TW5qajZlR2pDaWlubkc4cW5kQXJuOUpZNHFHQ0V2cW0wLTBHUHZvUEFjT19Yd29CUWdVMWxYbTVUTjFVcnFNaWNBbEVRZ1hGOGNSTFZ6c05ZLVFR?oc=5",
-      "published": "2026-11-17T03:29:33+09:00",
+      "title_original": "Bezalel Smotrich sets conditions for backing Gadi Eisenkot bloc's Knesset speaker pick",
+      "summary_original": "Bezalel Smotrich sets conditions for backing Gadi Eisenkot bloc's Knesset speaker pick The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5iRm5KZnlZXzVUWWdoNTBUaU5pd3NoNmZnWS1LSmU5UUs5TEVYbWpxbEVlTGJmaHNSTXBfekw5dV8tU2RuTGlrX1JtS2NMY21qbEd0b0hoWFJ1TWRPNGJvcnBwVXFtQ3hsa0c2cExZNDJ1VUJTLURSekpVbw?oc=5",
+      "published": "2026-11-17T05:07:44+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Ynet News",
-      "title_original": "Police in Official Statement: Publication of Ra'am Activists' Arrest Approved by Police Commissioner",
-      "summary_original": "Police in Official Statement: Publication of Ra'am Activists' Arrest Approved by Police Commissioner Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wcUNfS0piV2tPWEV1Yml4SVhLZ3ozRU1lTHZfdEpOaDBQY2JHa2tNQ0U1LVZIckw3bVJpSDJpMjJQVGc4SWtxTWZ0ODk2a1p2THhhcQ?oc=5",
-      "published": "2026-11-17T05:50:38+09:00",
+      "title_original": "Two Israeli teens wounded in terror car-ramming, ax attack near West Bank settlement",
+      "summary_original": "Two Israeli teens wounded in terror car-ramming, ax attack near West Bank settlement Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wNHV6UG5MWXRDWWg2VlRLQThyUHpmVHY5NzBPWW8yb2V2RDhoX0pwYWxzZ0YwRldwZVh0a3VQYXUyaXRDQ2t3ZElyWWpYZ2tFb1BQTzlB?oc=5",
+      "published": "2026-11-17T11:29:39+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Ynet News",
-      "title_original": "MK Eliasaf Peretz also visited Elisha Madan's 'Unity Tent'",
-      "summary_original": "MK Eliasaf Peretz also visited Elisha Madan's 'Unity Tent' Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WX1hscWxTS3VBYUIzM0xtX2VnbzFNRG1ndnNYXzRzdnBHMFRrbTVDMzVKcGljSkJMeWVOS1k4VlBfYVFTczJsLUJhazlLVlJNUWptVQ?oc=5",
-      "published": "2026-11-17T05:47:12+09:00",
+      "title_original": "Ukraine: Russians attacked the Crimean Bridge connecting Moscow to the peninsula",
+      "summary_original": "Ukraine: Russians attacked the Crimean Bridge connecting Moscow to the peninsula Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13ZC0zLW9qNXZCTWFMcThqSGJZbW0zTy0xQzZ1T1J0QXlOR2tjR29sWXIzZ1dDa295MEVnMkdtVGFPc19oczVQU2dPaGozSW5qa3BiWg?oc=5",
+      "published": "2026-11-17T11:18:35+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Ynet News",
-      "title_original": "'The Voice' Contestant Arrested on Suspicion of Running Over Cat in Atlit",
-      "summary_original": "'The Voice' Contestant Arrested on Suspicion of Running Over Cat in Atlit Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yS2xhaF9rdWdqWDJZQ1RyNEdGbHd1YU9haTVNU1N2VV9qS0NsWHJYOWpjNENiQUVjNTFXRW1FOXNEWG9VbjE4SkFNYlBsa21ISE11YQ?oc=5",
-      "published": "2026-11-17T05:42:26+09:00",
+      "title_original": "Beyond politics: 26 UN ambassadors discover another side of Israel at Shalva",
+      "summary_original": "Beyond politics: 26 UN ambassadors discover another side of Israel at Shalva Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42V0dsVHlvOVJOc0o5b3RENnpiR3BsUHh3a1ppZnVLQ1ZFcms2ektmU3hRenpHSTZzb1NKWHFoSmZsYnAwdFh2bkNjVmdBSnBycnVDWkVxZw?oc=5",
+      "published": "2026-11-17T11:12:12+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Ynet News",
-      "title_original": "Israel's caretaker government weighs renewed Iran war as US remains reluctant",
-      "summary_original": "Israel's caretaker government weighs renewed Iran war as US remains reluctant Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaSHhGdmtwWHRmejZHc3Jmdmw3MFdaZ3hLaHIyWmJMa3E4TnI0VjFNLV9HZmp6dm1nMDJuV1J1NWRMQ1NycmNab2lyb184OFpUbGJaRFZn?oc=5",
-      "published": "2026-11-17T05:32:44+09:00",
+      "title_original": "'Antisemitism has become normal': American Jewish Congress president warns of rising hate in US",
+      "summary_original": "'Antisemitism has become normal': American Jewish Congress president warns of rising hate in US Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84dzVjRW16eXpZaWxlMERPYlc1MXJ6T1h2ZXByTVp4SUV1QXVlQlFBQ0c0UkJIUGZvTjE0YVVpMXFUbVktUUVlT2ZZcEVKTDlQbVpaNDdCdVV2cEwySjVlaFU5MXk0Z1p2?oc=5",
+      "published": "2026-11-17T11:09:14+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Ynet News",
-      "title_original": "UN chief: 'Gaza war is deadliest conflict for journalists since founding of organization'",
-      "summary_original": "UN chief: 'Gaza war is deadliest conflict for journalists since founding of organization' Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sT2tHZVVES0QxX2hGdDFBcEctUGxTMzh4V293Z0tkMC1yV1pZa1ZFQi1FYlhWUVpnMkZFVk9hV1BkYVAybGRDbGJFQ0FYOS0tblU3cw?oc=5",
-      "published": "2026-11-17T05:15:13+09:00",
+      "title_original": "Video: Israeli vehicle attacked in Jericho with hammers and axes",
+      "summary_original": "Video: Israeli vehicle attacked in Jericho with hammers and axes Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UQlBPeE5SQlN4ZEROYUNDcm9LVHp1TWVBMzhTMkJueEp6MHJDYnhfMjlXakFyc2c5MjctZFNUMTFOQ0J5dzdZWVYwelJZeVVudzFqXw?oc=5",
+      "published": "2026-11-17T10:30:47+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Ynet News",
-      "title_original": "Israel, UAE in talks to resume flights after flydubai hijacking attempt",
-      "summary_original": "Israel, UAE in talks to resume flights after flydubai hijacking attempt Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaQzF0ekdqM2p5U0ZCdDFQdzctNHM0eTRuTGxWWGcyTVg1R2s5YXRfTUhZLWkwU2dqRjE0RW1JSXVUNjg0c3pPNVJDZ2hBUTMzYXgzRVFvQ2RrWC1NYXdr?oc=5",
-      "published": "2026-11-17T04:17:08+09:00",
+      "title_original": "Report: Russian aircraft entered Japanese airspace",
+      "summary_original": "Report: Russian aircraft entered Japanese airspace Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LRVhtMDZOcnlndVFTVDAwLUNMcEFVY0VTNmNwUW5oWDBtenpuelc1ci1sZWhRTzdsZzZjRUlZV0pGbXRsU25vUjhuckY3c3kzaUpMVg?oc=5",
+      "published": "2026-11-17T10:26:18+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Ynet News",
-      "title_original": "'Intelligence Source' Tells Ynet: Meeting With Netanyahu Was Coincidental. The Names – Lawmaker From Joint List",
-      "summary_original": "'Intelligence Source' Tells Ynet: Meeting With Netanyahu Was Coincidental. The Names – Lawmaker From Joint List Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HOGFqelpHdzFxb2RRUGZXOTVnVGlIZUdNZV9ja0YyQksxMktrc2hpUGhPWnpzd2ZtOWw1SVJtRHZ0WnZtYXljaWhUSGp1ZEFDOTFlUQ?oc=5",
-      "published": "2026-11-17T04:06:25+09:00",
+      "title_original": "IDF: Manhunt Still Underway for Terrorists in Jericho Attack",
+      "summary_original": "IDF: Manhunt Still Underway for Terrorists in Jericho Attack Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uM0kzUDB5N092Nm0tR0NEa1lCNnFzSkJpZkNFWW9YZURHQUIwZVZNNUZqZkxPa09DNFVPN0FtV2R5eDZZVTFyUjFNd1BfZGxKTS0tOA?oc=5",
+      "published": "2026-11-17T10:23:44+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Ynet News",
-      "title_original": "Report: Nvidia not considering reinstating Jensen Huang as CEO",
-      "summary_original": "Report: Nvidia not considering reinstating Jensen Huang as CEO Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qNm8xbHVPLU1la2M4LXhVNHhSd0ZsZTMwWHBWN0xDZlZTUTF0WEg1clJvWk1iV3pSazNwM0VrMVBvSC1PQmEzSDh2QUszX3JiQmItVA?oc=5",
-      "published": "2026-11-17T03:52:16+09:00",
+      "title_original": "Suspected Terror Attack in Jericho: Palestinians Rammed Israeli Vehicle, Attacked Passengers With Axes",
+      "summary_original": "Suspected Terror Attack in Jericho: Palestinians Rammed Israeli Vehicle, Attacked Passengers With Axes Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jRmljZDNnMDllNU9Pa2NuVzFHVFZVcHczcWc4Z1h0RFJGQTJUTkRKTmhYMnRVZE14VXN3aThDSS1zb1A0WXVrODdzQTBwbHVwUU1qUw?oc=5",
+      "published": "2026-11-17T08:05:09+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -425,23 +353,21 @@
       "published": "2026-11-16T01:45:00+09:00",
       "via": "rss",
       "state_media": false
-    },
-    {
-      "source": "Globes",
-      "title_original": "Hapoalim sees shekel at NIS 3/$ if Eisenkot forms gov’t",
-      "summary_original": "Another round of elections could prolong negative sentiment toward Israel, and lead to a decline in investment volumes.",
-      "url": "https://en.globes.co.il/en/article-1001563428#utm_source=RSS",
-      "published": "2026-11-15T23:02:03+09:00",
-      "via": "rss",
-      "state_media": false
     }
   ],
   "unavailable_sources": [
     "Kan (KAN News)",
-    "N12 (Channel 12)"
+    "N12 (Channel 12)",
+    "i24NEWS"
   ],
   "errors": {
     "Kan (KAN News)": [
+      "google_news 실패: HTTPError: HTTP Error 429: Too Many Requests"
+    ],
+    "N12 (Channel 12)": [
+      "google_news 실패: HTTPError: HTTP Error 429: Too Many Requests"
+    ],
+    "i24NEWS": [
       "google_news 실패: HTTPError: HTTP Error 429: Too Many Requests"
     ],
     "Times of Israel": [
