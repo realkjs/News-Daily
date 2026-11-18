@@ -1,0 +1,939 @@
+{
+  "team": "il",
+  "headlines": [
+    {
+      "source": "i24NEWS",
+      "title_original": "Police Inquiry Into Election-day Contacts With Netanyahu’s Office Remains Frozen",
+      "title_ko": "네타냐후 총리실과의 선거일 접촉 관련 경찰 조사, 여전히 동결 상태",
+      "summary_ko": "선거일 네타냐후 총리실과의 접촉에 대한 경찰 조사가 진행되지 않고 동결된 상태다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOS1NyZ1dHaXNobTk2ZFdUOHZSTDN1RnRjWjFvYnRoa0RvdGNTb1pyV01DeUVyUndZTVFzTTVYRmZuTzhnT3hCU3c5UnJ6bUpVUUViem9LRWNGb1NLNXpYc2dzOFZXZ2FJVVFNWE1CRlMzNjVFRTF0RDNEajJENkN4bHVvazUzZUN0Ujdob0NMT1FuNW0yLUI5TndBQlZGYkdBNWU1Q0IwOVBIUmRVcjJNaTV4RHVIQUExNl8wR0hzTzRBcVpYT1d3ZFF4YmE?oc=5",
+      "published": "2026-11-19T03:42:39+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "netanyahu-office-election-day-probe",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "US Warns Iranian Plots Pose Growing Threat At Home And Abroad",
+      "title_ko": "미국, 이란의 음모가 국내외에서 커지는 위협이라고 경고",
+      "summary_ko": "미국이 이란의 음모가 미국 국내외에서 증가하는 위협이라고 경고했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa1NMeWMwb21ucGlFb2c1bktEdmlKUnQ5Wjc4R29vSHY4Ri1mWU5NNUhtR0pmS2NwWGtadUYwVVNsSktJRjctRTQ5Q0FWNlBWNVFCYVhOdDJtUWo0cTNQLWxqM3d6aWhtaXZoa293SlRROEVPbXJrUEJPUTRxeGRQOGRLM1g4QUo2dDRXbUJTc3BQel9za2R2aVlGaGZWcHVlc1JxQ0NYcGFYLWY4b1EwYjNES08xSDBPRlFEbQ?oc=5",
+      "published": "2026-11-19T02:56:25+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-warns-iranian-plots",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Rubio on Iran dirty bomb report: “I am not [worried], but we’re concerned every day about threats | LIVE BLOG",
+      "title_ko": "루비오, 이란 '더티밤' 보도에 \"걱정하지 않지만 매일 위협을 우려\" | 라이브 블로그",
+      "summary_ko": "루비오가 이란 더티밤(방사능 오염 폭탄) 관련 보도에 대해 걱정하지 않지만 위협은 매일 우려한다고 말했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMC1Ceno0ZE1BaFRKeGxNd0ZSQXl4amUxeU5yUlFQTWwxQzBDbUhMeGlDNFlmeWJxcml4X3R3c0lZOTJjb0d2NW95Z1dnY1NXVnRpdExWbS13clJ3RGEwSmdic3FuV0E0STlCNXhzbkFDdXBwNW1oWEYxRHNsVi00SU1VQ2JHUXVLb1h4VkRHcjk1aFhOUEhUUE9FRGJaY1dzR3djVXdlQ3JnNmdBY2pSRVJWaTVyRkZ1Ml9DQmY4dERveDdCZWdzWjFDcjFrdERaUkFnWmwxRmYxei13VjhHeDB3V2JQY1U?oc=5",
+      "published": "2026-11-19T02:54:59+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "iran-dirty-bomb-report",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Breaking news from the Middle East, Israel and around the world",
+      "title_ko": "중동·이스라엘·세계 속보",
+      "summary_ko": "i24NEWS 속보 페이지 제목으로, 구체적 사건 정보 없음. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY3czZ2RrTFo1ZHhTRzRwRkF5RVMzMGFjTkthS2dXRlFVVEE3bnRvOE1tU1pYS05VLVBlNGhjZURYLWwwWXJxSHBLT2xSbUVVLU9qclIzNWVBcUFhRXFDM2tBTmE5Q0JnanpZR3BrUVM4eTNGdlh6VEdnT1NidXVXN1ZzUGx2ZnRNVXdkU1NWSS1iMEU2UndObS1sRU5jNTJDejRHVU9tc2k0SVBTRTFR?oc=5",
+      "published": "2026-11-19T02:40:47+09:00",
+      "tags": [],
+      "event": "i24news-breaking-news-page",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Israeli businessman tied to Iron Dome expansion targeted in alleged Iranian assassination plot - report",
+      "title_ko": "아이언돔 확장 관련 이스라엘 사업가, 이란 암살 음모 표적 의혹 - 보도",
+      "summary_ko": "아이언돔 확장과 연관된 이스라엘 사업가가 이란의 암살 음모 표적이 됐다는 의혹이 보도됐다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOVM2Z0tSOHBXVEJXLVJPVEx5QlcxOVVzN2ptUk9FWm9FX2JMQkVMenY1WEhUT0xsMkp3aGlOQUtkMlZpdkxNeTBRNGxNRVVXVUJfY2ZBZnlYXzhxVS1EOThtMTdQZTZGZmFUbFo1dHVDZzFUN2JHZEpBSDFfaDJmMnlzaFpsZEVfdDFacnRNTzZhMWJCdFRMS2tHa1h6cXNjc0VIWk52RDdxWHM0UUNwUFpnYTZRNmpoNHdzSFI3TDd0UnF4cUsyeUhPNFBLeFluaklKSW9kZDY2cnh4NjUwU0ZUQmt2Zw?oc=5",
+      "published": "2026-11-19T02:36:43+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "iranian-plot-iron-dome-businessman",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "IDF Plans To Cut Reserve Duty And Expand Training In 2027",
+      "title_ko": "이스라엘군, 2027년 예비군 복무 축소·훈련 확대 계획",
+      "summary_ko": "이스라엘군(IDF)이 2027년에 예비군 복무를 줄이고 훈련을 늘릴 계획이다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOEstQVlVaVNsSWJfSzIzMVdMZ3JxdHczMU9jamRzUXQ3VHhoUWJsRHZUbkNSQnlONHlrVEl2cVBucWJnVWhncF9NckI4ZmN6T2cwaFBrM0JBTDZBX3ZRSnRFYXhENkNyRU9QMFppLURUSHdzMUJLNVRCTnBER3hqWlBCNmRaejkyaFZfSU5tazk4WFlEbjZGR2tCNXZxTU5kQ1lZVWlBenNaTmt6?oc=5",
+      "published": "2026-11-19T01:37:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "idf-reserve-duty-cut-2027",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Gummy Bears, News And Latest Headlines",
+      "title_ko": "구미베어 관련 뉴스와 최신 헤드라인",
+      "summary_ko": "구미베어 관련 뉴스 모음 페이지 제목. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QdWViOWdXUHBETEUwYUZpQThuMHF0UXpCYjJMNGlpTVJ5MHRQOWV5Qno1T3BYNTNCYW5kOHYyVE9qSUUxTTZpSnd5SHdySWowZDFtUw?oc=5",
+      "published": "2026-11-19T00:39:47+09:00",
+      "tags": [],
+      "event": "gummy-bears-news-page",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "India Signs $220 Million Deal With IAI To Upgrade Naval Missile Defenses",
+      "title_ko": "인도, IAI와 해군 미사일 방어 개량 2억2천만 달러 계약 체결",
+      "summary_ko": "인도가 이스라엘항공우주산업(IAI)과 해군 미사일 방어체계 개량을 위한 2억2천만 달러 규모 계약을 맺었다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTnZ5dnVwclI5RkNWODdOVmRDZ2VIMTJMcTBwRGxac2o3VEF4cHVfeFEtUEExR0xNMVA4WnFtM0VkSXdvdkNWc1U1TDhuLU9KSHZiS3pzVUVPQ3V5RGZnd1NkTU5PSWZ5LXNvRm1PUWpfOHNyWmdLSURRdGp2V0hZWDZPZXVMblYzVjFyclhvSEZyZnN5dDdMcXYyVjE0WEgteTNOc1dielY2MzhLOUFUUHpCMjFYNDBiYkd5MjRJSlkxSzlITkhOWHVaLWI?oc=5",
+      "published": "2026-11-19T00:34:02+09:00",
+      "tags": [
+        "industry",
+        "business",
+        "geopolitics"
+      ],
+      "event": "india-iai-naval-missile-deal",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "Paul Smith",
+      "title_ko": "폴 스미스",
+      "summary_ko": "인명(블로그 필자 페이지로 추정)만 있는 제목. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qQkJ2UVRuMkRkczN3QkRBTVBGc1BUT1J2WllYQlJNUU5xaFdYZHk2ZVFBNUU0VS0zdENkck9tOGdlVEZpUkNPSFpMV3pMaVF3NmNCZUtteWRjeWVOU3JN?oc=5",
+      "published": "2026-11-19T06:08:33+09:00",
+      "tags": [],
+      "event": "toi-blog-author-paul-smith",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Blogs: Trump Wants Out. Tehran Knows It.",
+      "title_ko": "블로그: 트럼프는 빠져나가고 싶어 한다. 테헤란도 그걸 안다",
+      "summary_ko": "트럼프가 (이란 관련 사안에서) 발을 빼고 싶어 하며 이란도 이를 안다는 내용의 블로그 칼럼. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wWE15R1R6NmxvT1Z1d1NkeUhxZlNXWnpPSUIyQzcyV0ZYd3dYQmpWX1ozRzhWUktHX2ZMOGFqX0kzdFNiUkNMU1VYaXd2WW5HRkVjVGJMdkQtZUZMMHV1MnpMWWFicEdCVWZuUEE4d1JEdw?oc=5",
+      "published": "2026-11-19T06:00:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "toi-blog-trump-wants-out",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "IDF confirms operating in area of Hamas-ruled Gaza to demolish tunnel posing a 'direct threat' to troops",
+      "title_ko": "이스라엘군, 하마스 지배 가자 지역에서 병력에 '직접적 위협'인 터널 파괴 작전 확인",
+      "summary_ko": "이스라엘군이 하마스가 통치하는 가자 지역에서 병력에 직접적 위협이 되는 터널을 파괴하기 위해 작전 중임을 확인했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaVU2bUt5ZHo0NlNROWUwUEFTX2ZMRHVNYWhwVzUxMy1abWxOSW9kb0EwalY0My1MSGktb3VFRlU5bktmaHZLRzFCc3d6eEhqTzZ5Y09lVDdaQ184OHhKVFVQU0xtRy02WlNvRXBfVnJYcXNHeFVtalpWbldtRVN4LXNHdndqSk5jdmdtMXNyREc1a01OUkRMSnBBTlBEZE55S2ZlXzU3NldNNHpXR0lfRkI0Sk92OGhhUEZaci10dzZiZTRNTDZVdWR5R1J4RlZKQV9FbWlQYlFBN0t6QzhyZ3Z3?oc=5",
+      "published": "2026-11-19T04:58:02+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "idf-gaza-tunnel-demolition",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "Yitz Greenman",
+      "title_ko": "이츠 그린먼",
+      "summary_ko": "인명(블로그 필자 페이지로 추정)만 있는 제목. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvcXBIZHJYU211UmdpWWxhbjF4M1RlMElqZTBRUENyRWdMTnhoUEc0NDk1d21RVkhYSEE5aERSampvTVJ6UU1aZFdNNWtCWWRuM2wtZm1abVVkcjVKYU80Nld3OA?oc=5",
+      "published": "2026-11-19T04:53:00+09:00",
+      "tags": [],
+      "event": "toi-blog-author-yitz-greenman",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Fragility of Trust",
+      "title_ko": "신뢰의 취약성",
+      "summary_ko": "블로그 칼럼 제목. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90ekpmRFpJY0dKa0NWSnBQSFcwQldiZy1BQWhtM2xRdVBHNEx0LWtUVGtFV2pfUHlGU2M4YkQyRWE2YmxNZWgxaE4tNDhtSGs1UFZ2NWtveTB2eV8yWlFiVkNjTFBLZw?oc=5",
+      "published": "2026-11-19T04:53:00+09:00",
+      "tags": [],
+      "event": "toi-blog-fragility-of-trust",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "Achdut: The Driving Force of Am Yisrael",
+      "title_ko": "아흐두트(단결): 이스라엘 민족의 원동력",
+      "summary_ko": "블로그 칼럼 제목. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DMHRBWHZiamFvbVJHT2tHWFNFUzE0emtLbjBtdWRJdGhPMUhLZjk0QkduSy1STXg0QTFnZnotWkhTN01uNFlrcUU4QUwzSTZVWm9hSDV0dFpUaEdMMk9lNWVDb3dzcnlQLW1GSVZtcVJqOU9PUmZJSE5JWQ?oc=5",
+      "published": "2026-11-19T04:52:00+09:00",
+      "tags": [],
+      "event": "toi-blog-achdut",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "Do we need to decolonize the Holocaust?",
+      "title_ko": "홀로코스트를 탈식민화해야 하는가?",
+      "summary_ko": "블로그 칼럼 제목. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04R1ZqaG9mVjE4MnNkaUszc0o3OGJldnhvMUhKYm14bllHUEl5ZlVvNTRIVlZBTXRZM0IzNU1PWmV2V0ZQdng5bWhvT3piMWhGSDdfeGhtdXh6aExNaUJGMjdCbUdQTnZZRE5sUDdNZWxlQTlmakJTcUtkcw?oc=5",
+      "published": "2026-11-19T04:47:00+09:00",
+      "tags": [],
+      "event": "toi-blog-decolonize-holocaust",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "CIP Hosts Cultural Café on Jewish Icons in Fashion",
+      "title_ko": "CIP, 패션계 유대인 아이콘 주제 문화 카페 개최",
+      "summary_ko": "CIP가 패션계 유대인 아이콘을 주제로 문화 카페 행사를 열었다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZVk2UU9USU9nVnI2Qi1oYXVHOWNnN1NTcTVmZ1B6bDBvNElseGdaRGxXaHVadF9FNWNGOFRQU19veWJnYVpjc3JYMHA0d296anJqMFJKVVhiMEE5ZEI3ejlYeDQtT1dPSnBrYmRQQmxxOVF6VFlLQTM0VXJFb3dnR3lGYy1NdGw5SXlB?oc=5",
+      "published": "2026-11-19T04:41:00+09:00",
+      "tags": [],
+      "event": "cip-cultural-cafe-fashion",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Eight wounded by car ramming in Arab Israeli town",
+      "title_ko": "아랍계 이스라엘 마을에서 차량 돌진으로 8명 부상",
+      "summary_ko": "경찰 소식통에 따르면 운전자는 행사장 근처에서 음주 상태로 난폭하게 과속한 혐의를 받고 있으며, 수사당국은 고의성 여부를 조사 중이다.",
+      "url": "https://www.haaretz.com/israel-news/israel-crime/2026-11-18/ty-article/.premium/three-wounded-by-car-ramming-in-arab-israeli-town/000001a1-f028-d9ff-a7b5-f1ae4d270000",
+      "published": "2026-11-19T04:51:00+09:00",
+      "tags": [],
+      "event": "kafr-qasim-car-ramming",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Israeli firms face 'quiet boycott' as banks tighten credit, CEO says",
+      "title_ko": "이스라엘 기업, 은행 신용 긴축 속 '조용한 보이콧' 직면 - CEO",
+      "summary_ko": "알로니 헤츠 CEO는 더마커에 은행들이 이스라엘 관련 프로젝트 금융을 꺼리며 일부는 유리한 조건을 철회하거나 금리를 크게 올리고 있다고 말했다.",
+      "url": "https://www.haaretz.com/israel-news/2026-11-18/ty-article/.premium/israeli-firms-face-quiet-boycott-as-banks-tighten-credit-ceo-says/000001a1-ef95-d663-a3b3-ffb797140000",
+      "published": "2026-11-19T04:32:37+09:00",
+      "tags": [
+        "business",
+        "geopolitics"
+      ],
+      "event": "israeli-firms-quiet-boycott-credit",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "What 182 startup exits reveal about the state of Israel's tech industry",
+      "title_ko": "182건의 스타트업 엑시트로 본 이스라엘 테크 산업 현황",
+      "summary_ko": "2025년 해당 스타트업의 51%가 미국 기업에 인수되거나 미국 증시에 상장했다. 2025년 이스라엘 M&A 규모는 GDP의 1.66%였다.",
+      "url": "https://www.haaretz.com/israel-news/tech-news/2026-11-18/ty-article/.premium/what-182-startup-exits-reveal-about-the-state-of-israels-tech-industry/000001a1-efc8-d381-ade5-efe9ab090000",
+      "published": "2026-11-19T03:55:21+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "israel-startup-exits-2025",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Undoing Netanyahu's judicial overhaul: The legal hurdles facing Eisenkot's bloc",
+      "title_ko": "네타냐후 사법개혁 되돌리기: 아이젠코트 진영이 마주한 법적 장애물",
+      "summary_ko": "아이젠코트 진영이 4년간의 민주주의 후퇴 이후 견제와 균형 회복을 목표로 사법개혁 핵심 법률 폐지에 나섰으며, 네타냐후와 측근들은 강하게 반대할 것으로 예상된다.",
+      "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-18/ty-article/.premium/undoing-netanyahus-judicial-overhaul-the-legal-hurdles-facing-eisenkots-bloc/000001a1-ef49-d381-ade5-efe9e3710000",
+      "published": "2026-11-19T03:43:30+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "judicial-overhaul-repeal",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Citing Gaza, newly-elected Democrats vote against Hakeem Jeffries for speaker",
+      "title_ko": "가자 문제 들어 신임 민주당 의원들, 하킴 제프리스 의장 선출에 반대표",
+      "summary_ko": "이 그룹은 '가자 제노사이드 종식' 등 제프리스를 지지할 수 없는 네 가지 이유를 담은 성명을 냈다.",
+      "url": "https://www.haaretz.com/us-news/2026-11-18/ty-article/.premium/citing-gaza-newly-elected-democrats-vote-against-hakeem-jeffries-for-speaker/000001a1-efea-d9ff-a7b5-ffee3a3d0000",
+      "published": "2026-11-19T03:41:25+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-democrats-against-jeffries-gaza",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Herzog issues rare rebuke of police arrest of Arab activists on Election Day",
+      "title_ko": "헤르초그 대통령, 선거일 아랍계 활동가 경찰 체포 이례적 비판",
+      "summary_ko": "헤르초그는 토요일 수류탄 공격으로 여성 1명이 숨지고 3명이 다친 북부 아랍계 마을 카프르 만다를 공식 방문한 자리에서 이같이 말했다.",
+      "url": "https://www.haaretz.com/israel-news/elections/2026-11-18/ty-article/.premium/herzog-issues-rare-rebuke-of-arab-activists-election-day-arrests/000001a1-efa5-d381-ade5-efe555d40000",
+      "published": "2026-11-19T03:10:42+09:00",
+      "tags": [],
+      "event": "herzog-rebukes-election-day-arrests",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "The price of belonging for Jewish students? The right views on Israel",
+      "title_ko": "유대인 학생의 소속감의 대가? 이스라엘에 대한 '올바른' 견해",
+      "summary_ko": "유대인 학생들은 대학과 최대 유대인 학생단체로부터 이스라엘에 대한 견해에 따라 소속감이 결정된다는 같은 메시지를 받고 있다.",
+      "url": "https://www.haaretz.com/israel-news/haaretz-today/2026-11-18/ty-article/.highlight/the-price-of-belonging-for-jewish-students-the-right-views-on-israel/000001a1-efb2-d381-ade5-eff3467b0000",
+      "published": "2026-11-19T02:53:48+09:00",
+      "tags": [],
+      "event": "jewish-students-israel-views",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "British band Portishead albums unavailable on streaming services in Israel",
+      "title_ko": "영국 밴드 포티셰드 앨범, 이스라엘 스트리밍 서비스에서 이용 불가",
+      "summary_ko": "이 밴드는 그간 친팔레스타인 청원에 참여하고 이스라엘의 가자 제노사이드를 비난하며 문화 보이콧을 촉구해 왔다.",
+      "url": "https://www.haaretz.com/life/2026-11-18/ty-article/.premium/british-band-portishead-albums-unavailable-on-streaming-services-in-israel/000001a1-ef51-d9d9-a9a1-effb1be20000",
+      "published": "2026-11-19T02:21:21+09:00",
+      "tags": [],
+      "event": "portishead-streaming-unavailable-israel",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Israel's window of opportunity in the race for the drone market",
+      "title_ko": "드론 시장 경쟁에서 이스라엘에 열린 기회의 창",
+      "summary_ko": "드론 시장 경쟁에서 이스라엘에 기회가 있다는 내용. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NZUE4dFUxSFA3dnJIeDNtdWd5dlhTMnBlRHBhclZsS3dPQS10UlNHQkRxMUJJcFhVc3NPSFVLMEVHUEtEN3dpbUJHa25vSUNFYTdfaHRtMA?oc=5",
+      "published": "2026-11-19T05:53:51+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "israel-drone-market-opportunity",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Haymanot Kasau's family demands answers nearly 1,000 days since her disapperance",
+      "title_ko": "하이마놋 카사우 가족, 실종 약 1,000일 앞두고 해명 요구",
+      "summary_ko": "하이마놋 카사우 실종 약 1,000일을 맞아 가족이 답변을 요구했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoOGRoSGUyV3dvc3M3dlNSREdCSkpwQVI4d0tCbzFEVThjWUFRbGZKbHRLLVpKOWZudEtJZlhxSHpFdV92dlJ6ZFJlZm9lZlZZNGlYckxfZlRZTHFSZUZ3cW8yY3I3aWJwQWt0ckdoNHFJdw?oc=5",
+      "published": "2026-11-19T05:50:25+09:00",
+      "tags": [],
+      "event": "haymanot-kasau-disappearance",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Honey Foundation marks 10 years supporting Jewish leaders in Israel",
+      "title_ko": "허니 재단, 이스라엘 유대인 지도자 지원 10주년",
+      "summary_ko": "허니 재단이 이스라엘 유대인 지도자 지원 10주년을 맞았다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ha0VMRzktY1RjS2pvNGRjLUdnZHNFYlV3SURVYlBRZFA4VzdQeUlCbFdqWEtMUEdrSGl2QUMtV2tCYVhHUm1MaDZ1ZTFGQzJGOUNYNkJvTjVpZWFLMld4T04zRGlSRDQ?oc=5",
+      "published": "2026-11-19T05:13:18+09:00",
+      "tags": [],
+      "event": "honey-foundation-10-years",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Three injured in Kafr Kassem as police investigate suspected impaired driver",
+      "title_ko": "카프르 카셈에서 3명 부상, 경찰은 운전자 약물·음주 상태 의심 수사",
+      "summary_ko": "카프르 카셈에서 3명이 다쳤고 경찰이 운전 능력 저하 상태의 운전자를 의심해 수사 중이다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44TUJMUUtfOUZRQk9tYk42c1FtQmZzc2tUWGwwR1RUalFHbXhQOFhWZWlJTmdUR092QU14N21ZWUhxNkF6WDM1VWZITmJ2TEJwaTRBa3JOMHFkeHVB?oc=5",
+      "published": "2026-11-19T04:42:13+09:00",
+      "tags": [],
+      "event": "kafr-qasim-car-ramming",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Prosecutors indict 51-year-old Israeli man for alleged abuse of children, partner",
+      "title_ko": "검찰, 자녀·동거인 학대 혐의로 51세 이스라엘 남성 기소",
+      "summary_ko": "51세 이스라엘 남성이 자녀와 파트너 학대 혐의로 기소됐다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1maHhqYWNTMzhka3JDUkxoVjZHbHY2MGdCSHhFMV92bFctS2hpbzFxbkxwTmNPMlBRLXZvd2RXVkoxdGlPYnh3bzV4ZTAyT00tSzlCeW91bTUtc1p4LXZpX041MDNra2pKdU9zekZGcllXUQ?oc=5",
+      "published": "2026-11-19T04:14:31+09:00",
+      "tags": [],
+      "event": "indictment-51-year-old-abuse",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Replacing Netanyahu is 'top priority,' Eisenkot-led bloc declares after leaders' meeting in Knesset",
+      "title_ko": "아이젠코트 주도 진영, 크네세트 지도부 회의 후 \"네타냐후 교체가 최우선\" 선언",
+      "summary_ko": "아이젠코트가 이끄는 진영이 크네세트 지도부 회의 후 네타냐후 교체를 최우선 과제로 선언했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PbDdhaUtqbU93aGRtWG03MVUwMWk5eUFQWkR2NW5KSEZuTm9QSnNmaXFtWGtDNVg5LVVudllXYkFTRTd5Rld3NGUxajNITkdzSW83eml3YnRXR2hldTlfd2FDd3hZSFNyd3ZudG9zajBGNXhsT2VMUzNaUQ?oc=5",
+      "published": "2026-11-19T04:08:20+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "post-election-government-formation",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Israel's Knesset advances bills repealing Netanyahu’s judicial overhaul laws",
+      "title_ko": "이스라엘 크네세트, 네타냐후 사법개혁법 폐지 법안 진전",
+      "summary_ko": "크네세트가 네타냐후 정부의 사법개혁법을 폐지하는 법안들을 진전시켰다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRdFlyelhydUZzOFNrOVRIWUcxWDNEWTREb1EwOVVyaDZ5d1pZVVpqWEZQemdUbTd3VzQxUTJCY2d5dHRKMXhFYUY1MzZjOERRcmMxUm9qMmRLdHJSbEVEbnNpZHBqenc5Wk9wSGVhVmhYQWFBcHNoV0IyQQ?oc=5",
+      "published": "2026-11-19T03:57:36+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "judicial-overhaul-repeal",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Benjamin Netanyahu could let Gadi Eisenkot serve as PM first under unity government rotation",
+      "title_ko": "네타냐후, 연립정부 순번제에서 아이젠코트에게 총리직 먼저 넘길 수도",
+      "summary_ko": "통합정부 순번제 하에서 네타냐후가 아이젠코트에게 먼저 총리직을 맡길 가능성이 있다는 내용. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QenZVMUt5Sk1mNy1SaE5uQXJvVzJjZElOR0p2c0JBLVNmd2E0b1dCNmtNaGJOV0hja2hjUFdFN1p4RVhSUVQyWm1kTGFUaHpqMUhqUFJEbzZaNG9hY1hmMVlOVTJYcDFyX2tveFlPaFFESjdDTjNKNFYyaw?oc=5",
+      "published": "2026-11-19T03:57:34+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "post-election-government-formation",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "The princess and the general: Israel steps up diplomacy in Thailand after anti-Israel protests. incidents",
+      "title_ko": "공주와 장군: 반이스라엘 시위·사건 이후 이스라엘, 태국 외교 강화",
+      "summary_ko": "반이스라엘 시위와 사건 이후 이스라엘이 태국에서 외교 활동을 강화했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HLTdZWno1MmJsN3JqNnVVcU5GOXJXbDh4MGV0ai10a2NMa0F4UW5VWV9ybVlwQ2Npb3RKdWVZUHA2MXNWQWc5MzhpMmtWR1hISUhVNk5R?oc=5",
+      "published": "2026-11-19T06:02:10+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "israel-thailand-diplomacy",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "West Bank Resident Arrested for Allegedly Threatening to Kill Jerusalem Deputy Mayor",
+      "title_ko": "서안 거주자, 예루살렘 부시장 살해 협박 혐의로 체포",
+      "summary_ko": "서안지구 주민이 예루살렘 부시장을 살해하겠다고 협박한 혐의로 체포됐다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xZmF2Smxmd3ctTm9jZ1N0SEFRMkVUWk90VGVwOFdNa1BBVjJlTmFsVU5RZlR3M2tmc2FuQXk3clJPSWlGSzFkbWFXR01qS0tscVAwaA?oc=5",
+      "published": "2026-11-19T05:34:09+09:00",
+      "tags": [],
+      "event": "jerusalem-deputy-mayor-threat-arrest",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Woman contracts rabies in central Israel",
+      "title_ko": "이스라엘 중부에서 여성 광견병 감염",
+      "summary_ko": "이스라엘 중부에서 한 여성이 광견병에 감염됐다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLVm1lZ3pDNUF3ZTVDMl9penl2TEF5dUcwOHJ1aXdLajNwQ2xISXYtbGdSaVRBLXY3el9MVkV6am90VmRTa3o4UHkwcmF5UUNkYm1ESg?oc=5",
+      "published": "2026-11-19T05:08:10+09:00",
+      "tags": [],
+      "event": "rabies-case-central-israel",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Assaf Harofeh: Woman Infected With Rabies in Critical Condition",
+      "title_ko": "아사프 하로페 병원: 광견병 감염 여성 위독",
+      "summary_ko": "아사프 하로페 병원에 따르면 광견병에 감염된 여성이 위독한 상태다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95bDU5Skc3VkJmZlBOQTV1eUY4eXdodjV3dkw1NVN0elNLUHlOY1c4Ym9EOW0tRGVXWXdmQ1plU2pIa3Y0MnpkTUs0VG1UYk9UZDBCdw?oc=5",
+      "published": "2026-11-19T05:08:04+09:00",
+      "tags": [],
+      "event": "rabies-case-central-israel",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Activity in Central Gaza Strip: IDF and Shin Bet Destroying Terror Tunnel",
+      "title_ko": "가자지구 중부 작전: 이스라엘군·신베트, 테러 터널 파괴 중",
+      "summary_ko": "이스라엘군과 신베트가 가자지구 중부에서 테러 터널을 파괴하고 있다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1a0dfZk0yVDBOM2lqNElxQTZ1LWxmS1BtdjFpek9vV2Y1akFJVFQ5LVJ6ZHdHMV9RTDdfVzNCNjdnV2hfSm5zZTdlR0JPR1JxQk9vZg?oc=5",
+      "published": "2026-11-19T04:44:52+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "idf-gaza-tunnel-demolition",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Pedestrian struck by motorcycle in Tel Aviv pronounced dead",
+      "title_ko": "텔아비브서 오토바이에 치인 보행자 사망",
+      "summary_ko": "텔아비브에서 오토바이에 치인 보행자가 사망 판정을 받았다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Rc050UHRfZGRhRWRVNlFaZExUTU5uVUV5Ri1fRnpSZjhhckxQZGw4Y1JuYUJVZHlQRVFPVm1nX3lCY3ZtbThtOHZTSFFIaTlGQkg2Ug?oc=5",
+      "published": "2026-11-19T04:31:00+09:00",
+      "tags": [],
+      "event": "tel-aviv-motorcycle-pedestrian-death",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "US Sanctions Smuggling Network and 'Humanitarian Aid Organization' Assisting Hezbollah",
+      "title_ko": "미국, 헤즈볼라 지원 밀수 네트워크와 '인도주의 구호단체' 제재",
+      "summary_ko": "미국이 헤즈볼라를 돕는 밀수 네트워크와 '인도주의 구호단체'를 제재했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aYktyYWVoVF9nRk0zNjZFOEhuYWFGMW9nR25GaUtTT1hoNF9PQVJsNzY0M3JqVHh6TkY3a2ZXVVBqYTFlSFdBWkFQZkhIcWI2ZlhqZA?oc=5",
+      "published": "2026-11-19T04:00:40+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-sanctions-hezbollah-network",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Dramatic footage of ramming moment in Kafr Qasim | Disturbing content",
+      "title_ko": "카프르 카셈 차량 돌진 순간 충격 영상 | 주의 요망",
+      "summary_ko": "카프르 카셈 차량 돌진 순간이 담긴 영상. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OaGdBTlB4R0xxemhnQnVubGVvYjdibW1vcUxzLXBsR0xFWUVuQk1MNzE4VnE3WDJSMWxfQTF1elVwc2JfSGZFdlNuaXBnSDJzdmhEYw?oc=5",
+      "published": "2026-11-19T03:57:29+09:00",
+      "tags": [],
+      "event": "kafr-qasim-car-ramming",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Wed: Discount Bank falls sharply",
+      "title_ko": "수요일: 디스카운트은행 급락",
+      "summary_ko": "디스카운트은행이 3분기 실적 부진으로 하락을 주도했고, 팔로알토네트웍스는 급등했다.",
+      "url": "https://en.globes.co.il/en/article-1001564057#utm_source=RSS",
+      "published": "2026-11-19T01:58:00+09:00",
+      "tags": [
+        "stocks"
+      ],
+      "event": "tase-wed-discount-bank-falls",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Metro construction threatens future of Carmel Market",
+      "title_ko": "메트로 공사로 카르멜 시장 미래 위협",
+      "summary_ko": "텔아비브 부시장 메이탈 레하비는 시장 아래 터널 굴착뿐 아니라 지상에서 시장의 활기를 유지하는 것이 과제라고 말했다.",
+      "url": "https://en.globes.co.il/en/article-1001564029#utm_source=RSS",
+      "published": "2026-11-19T00:12:31+09:00",
+      "tags": [],
+      "event": "tel-aviv-metro-carmel-market",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "flydubai in intensive talks on Israel return",
+      "title_ko": "플라이두바이, 이스라엘 노선 복귀 집중 협상",
+      "summary_ko": "이스라엘은 플라이두바이의 이스라엘 복귀를 이스라엘 항공사의 UAE 복귀와 비공식적으로 연계했다.",
+      "url": "https://en.globes.co.il/en/article-1001563972#utm_source=RSS",
+      "published": "2026-11-18T22:42:00+09:00",
+      "tags": [
+        "business",
+        "geopolitics"
+      ],
+      "event": "flydubai-israel-return-talks",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Shekel at weakest against dollar for nearly a year",
+      "title_ko": "셰켈, 약 1년 만에 달러 대비 최약세",
+      "summary_ko": "글로브스가 최근 셰켈 약세를 이끄는 흐름을 분석했다.",
+      "url": "https://en.globes.co.il/en/article-1001563968#utm_source=RSS",
+      "published": "2026-11-18T21:52:15+09:00",
+      "tags": [
+        "monetary"
+      ],
+      "event": "shekel-weakest-in-a-year",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Control of Elron Ventures sold at 100% premium",
+      "title_ko": "엘론 벤처스 경영권, 100% 프리미엄에 매각",
+      "summary_ko": "아리엘리 EL이 보유 지분 58%를 1억8천만 셰켈에 매각하는 제안을 수용했다.",
+      "url": "https://en.globes.co.il/en/article-1001563964#utm_source=RSS",
+      "published": "2026-11-18T21:36:00+09:00",
+      "tags": [
+        "business",
+        "stocks"
+      ],
+      "event": "elron-ventures-control-sale",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Nvidia Israel Q3 revenue jumped to $21b",
+      "title_ko": "엔비디아 이스라엘 3분기 매출 210억 달러로 급증",
+      "summary_ko": "이스라엘 내 통신칩·장비 매출이 전 분기 대비 25%, 2025년 같은 분기 대비 156% 늘었다.",
+      "url": "https://en.globes.co.il/en/article-1001563948#utm_source=RSS",
+      "published": "2026-11-18T20:06:21+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "nvidia-israel-q3-revenue",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "London Stock Exchange shuts Israel development center",
+      "title_ko": "런던증권거래소, 이스라엘 개발센터 폐쇄",
+      "summary_ko": "런던증권거래소그룹이 30명이 근무하는 페타티크바 개발센터를 폐쇄한다고 소식통이 글로브스에 전했다.",
+      "url": "https://en.globes.co.il/en/article-1001563942#utm_source=RSS",
+      "published": "2026-11-18T19:47:07+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "lseg-closes-israel-dev-center",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Major banks' aggregate third quarter profit down 6%",
+      "title_ko": "주요 은행 3분기 합산 이익 6% 감소",
+      "summary_ko": "이스라엘 5대 은행 이익이 주로 금리 하락과 초과이익 부가세 영향으로 81억 셰켈로 줄었다.",
+      "url": "https://en.globes.co.il/en/article-1001563938#utm_source=RSS",
+      "published": "2026-11-18T19:20:00+09:00",
+      "tags": [
+        "business",
+        "monetary"
+      ],
+      "event": "israel-banks-q3-profit-down",
+      "state_media": false
+    }
+  ],
+  "events": [
+    {
+      "event": "kafr-qasim-car-ramming",
+      "title_ko": "카프르 카셈 차량 돌진 사건",
+      "sources": [
+        "Haaretz",
+        "Jerusalem Post",
+        "Ynet News"
+      ],
+      "count": 3
+    },
+    {
+      "event": "idf-gaza-tunnel-demolition",
+      "title_ko": "이스라엘군 가자 터널 파괴 작전",
+      "sources": [
+        "Times of Israel",
+        "Ynet News"
+      ],
+      "count": 2
+    },
+    {
+      "event": "judicial-overhaul-repeal",
+      "title_ko": "네타냐후 사법개혁법 폐지 추진",
+      "sources": [
+        "Haaretz",
+        "Jerusalem Post"
+      ],
+      "count": 2
+    },
+    {
+      "event": "post-election-government-formation",
+      "title_ko": "선거 후 정부 구성(아이젠코트 진영·순번제)",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 2
+    },
+    {
+      "event": "rabies-case-central-israel",
+      "title_ko": "이스라엘 중부 광견병 감염",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 2
+    },
+    {
+      "event": "netanyahu-office-election-day-probe",
+      "title_ko": "네타냐후 총리실과의 선거일 접촉 관련 경찰 조사, 여전히 동결 상태",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "us-warns-iranian-plots",
+      "title_ko": "미국, 이란의 음모가 국내외에서 커지는 위협이라고 경고",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "iran-dirty-bomb-report",
+      "title_ko": "루비오, 이란 '더티밤' 보도에 \"걱정하지 않지만 매일 위협을 우려\" | 라이브 블로그",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "i24news-breaking-news-page",
+      "title_ko": "중동·이스라엘·세계 속보",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "iranian-plot-iron-dome-businessman",
+      "title_ko": "아이언돔 확장 관련 이스라엘 사업가, 이란 암살 음모 표적 의혹 - 보도",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "idf-reserve-duty-cut-2027",
+      "title_ko": "이스라엘군, 2027년 예비군 복무 축소·훈련 확대 계획",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "gummy-bears-news-page",
+      "title_ko": "구미베어 관련 뉴스와 최신 헤드라인",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "india-iai-naval-missile-deal",
+      "title_ko": "인도, IAI와 해군 미사일 방어 개량 2억2천만 달러 계약 체결",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "toi-blog-author-paul-smith",
+      "title_ko": "폴 스미스",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "toi-blog-trump-wants-out",
+      "title_ko": "블로그: 트럼프는 빠져나가고 싶어 한다. 테헤란도 그걸 안다",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "toi-blog-author-yitz-greenman",
+      "title_ko": "이츠 그린먼",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "toi-blog-fragility-of-trust",
+      "title_ko": "신뢰의 취약성",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "toi-blog-achdut",
+      "title_ko": "아흐두트(단결): 이스라엘 민족의 원동력",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "toi-blog-decolonize-holocaust",
+      "title_ko": "홀로코스트를 탈식민화해야 하는가?",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "cip-cultural-cafe-fashion",
+      "title_ko": "CIP, 패션계 유대인 아이콘 주제 문화 카페 개최",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "israeli-firms-quiet-boycott-credit",
+      "title_ko": "이스라엘 기업, 은행 신용 긴축 속 '조용한 보이콧' 직면 - CEO",
+      "sources": [
+        "Haaretz"
+      ],
+      "count": 1
+    },
+    {
+      "event": "israel-startup-exits-2025",
+      "title_ko": "182건의 스타트업 엑시트로 본 이스라엘 테크 산업 현황",
+      "sources": [
+        "Haaretz"
+      ],
+      "count": 1
+    },
+    {
+      "event": "us-democrats-against-jeffries-gaza",
+      "title_ko": "가자 문제 들어 신임 민주당 의원들, 하킴 제프리스 의장 선출에 반대표",
+      "sources": [
+        "Haaretz"
+      ],
+      "count": 1
+    },
+    {
+      "event": "herzog-rebukes-election-day-arrests",
+      "title_ko": "헤르초그 대통령, 선거일 아랍계 활동가 경찰 체포 이례적 비판",
+      "sources": [
+        "Haaretz"
+      ],
+      "count": 1
+    },
+    {
+      "event": "jewish-students-israel-views",
+      "title_ko": "유대인 학생의 소속감의 대가? 이스라엘에 대한 '올바른' 견해",
+      "sources": [
+        "Haaretz"
+      ],
+      "count": 1
+    },
+    {
+      "event": "portishead-streaming-unavailable-israel",
+      "title_ko": "영국 밴드 포티셰드 앨범, 이스라엘 스트리밍 서비스에서 이용 불가",
+      "sources": [
+        "Haaretz"
+      ],
+      "count": 1
+    },
+    {
+      "event": "israel-drone-market-opportunity",
+      "title_ko": "드론 시장 경쟁에서 이스라엘에 열린 기회의 창",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "haymanot-kasau-disappearance",
+      "title_ko": "하이마놋 카사우 가족, 실종 약 1,000일 앞두고 해명 요구",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "honey-foundation-10-years",
+      "title_ko": "허니 재단, 이스라엘 유대인 지도자 지원 10주년",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "indictment-51-year-old-abuse",
+      "title_ko": "검찰, 자녀·동거인 학대 혐의로 51세 이스라엘 남성 기소",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "israel-thailand-diplomacy",
+      "title_ko": "공주와 장군: 반이스라엘 시위·사건 이후 이스라엘, 태국 외교 강화",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "jerusalem-deputy-mayor-threat-arrest",
+      "title_ko": "서안 거주자, 예루살렘 부시장 살해 협박 혐의로 체포",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "tel-aviv-motorcycle-pedestrian-death",
+      "title_ko": "텔아비브서 오토바이에 치인 보행자 사망",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "us-sanctions-hezbollah-network",
+      "title_ko": "미국, 헤즈볼라 지원 밀수 네트워크와 '인도주의 구호단체' 제재",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "tase-wed-discount-bank-falls",
+      "title_ko": "수요일: 디스카운트은행 급락",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "tel-aviv-metro-carmel-market",
+      "title_ko": "메트로 공사로 카르멜 시장 미래 위협",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "flydubai-israel-return-talks",
+      "title_ko": "플라이두바이, 이스라엘 노선 복귀 집중 협상",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "shekel-weakest-in-a-year",
+      "title_ko": "셰켈, 약 1년 만에 달러 대비 최약세",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "elron-ventures-control-sale",
+      "title_ko": "엘론 벤처스 경영권, 100% 프리미엄에 매각",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "nvidia-israel-q3-revenue",
+      "title_ko": "엔비디아 이스라엘 3분기 매출 210억 달러로 급증",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "lseg-closes-israel-dev-center",
+      "title_ko": "런던증권거래소, 이스라엘 개발센터 폐쇄",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "israel-banks-q3-profit-down",
+      "title_ko": "주요 은행 3분기 합산 이익 6% 감소",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    }
+  ],
+  "unavailable_sources": [
+    "Kan (KAN News)",
+    "N12 (Channel 12)"
+  ]
+}
