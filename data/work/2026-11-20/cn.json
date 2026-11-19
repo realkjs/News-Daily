@@ -1,0 +1,884 @@
+{
+  "team": "cn",
+  "headlines": [
+    {
+      "source": "CCTV",
+      "title_original": "湖北、四川相关部门公开辟谣“建材市场大检查”",
+      "title_ko": "후베이·쓰촨 당국, '건자재 시장 대점검' 소문 공식 부인",
+      "summary_ko": "후베이·쓰촨 관련 부처가 '건자재 시장 대점검' 소문을 공개적으로 부인했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tYlFhZXd0blk1U0tEallYXzdFZ3dnOHcxTlNUWUpBMF9vQWRINWc3Zkd3dW45ekFUUVNvaWJCR2QteXByRFlUSzNSN25Na0l2NkdmV18zMWdqNlRJMVVtWlM0dldBWlgwOXBhNEpjbG1jWm1uNHZsQQ?oc=5",
+      "published": "2026-11-20T03:04:26+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "hubei-sichuan-building-materials-rumor-denial",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "明年起职称评审管理新规将施行",
+      "title_ko": "내년부터 직함(전문기술 자격) 평가 관리 새 규정 시행",
+      "summary_ko": "직함 평가 관리 새 규정이 내년부터 시행된다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HcjZKMWpuX0ZiMmdJY2lscUxhejZHTEN1bzU0MDdDV1BoZ3VXNDFHSmhEQmJNVVJCWTNwcFFlMGQ2dDktRGRTSDFYNU5WckUwUUhaZ2R4N0k2a0dtZ1NGY1BvODktcEVKaWhFY2ozLWZQSUI1SlBXZg?oc=5",
+      "published": "2026-11-20T02:57:31+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "professional-title-evaluation-rules",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "入冬巧养生 中医教你安稳过冬",
+      "title_ko": "겨울철 양생법, 중의학이 알려주는 건강한 겨울나기",
+      "summary_ko": "중의학 관점의 겨울철 건강관리 기사. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XLTRpUjVON3ZCemZrbFVNTUlNZkVGbWJWMzhMR1IyZ0pJUnpJVlNkWGdGM0hjTkExNG9jX0pHbXpGOWtjVU1ObmhIZ1g3dm5XMDJ3Vmp1OXRkSlZMYWdLd2I4eDdBRWJieXd0QzVxYWVoQ0k5MFU0Qw?oc=5",
+      "published": "2026-11-20T02:52:26+09:00",
+      "tags": [],
+      "event": "winter-health-tcm",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "丹麦议会通过涉格陵兰岛安全防卫协议",
+      "title_ko": "덴마크 의회, 그린란드 관련 안보·방위 협정 통과",
+      "summary_ko": "덴마크 의회가 그린란드 관련 안보·방위 협정을 통과시켰다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxNnZWRnpLSzFpMnI0SHF2Ym9VbldpUXZiRXJ5QTJCd2ppeHlLNlJFYk1ibG9lOVdSbUx6aHV0bmVYa1U2QndmTDFCeEJ0dS1LekkwWTgwRkVWaW8tODFCS1pFbVU2bWxwc3RZN1ZnQm1peTE2NUxjdA?oc=5",
+      "published": "2026-11-20T02:39:50+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation"
+      ],
+      "event": "denmark-greenland-defense-agreement",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "“园八条”发布：激活上海文创园区融合新动能",
+      "title_ko": "'위안바탸오(园八条)' 발표: 상하이 문화창의단지 융합 새 동력 활성화",
+      "summary_ko": "상하이가 문화창의단지 관련 8개 조치('园八条')를 발표했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LVUZHUHB5ZjRxc0FGTXdzSGQyZG1jVVZ0UzNMOFVUbjhYbUVPcWxPRWFVcWVlZ19ia0F2dkQwSVJSX0lhMlNKdEdBc0pxRlZPUGs1YU96MlZPbnQydnI3c0RBSEdPM0t1Yl9DYWcxZ082VlNGcmJ4Rg?oc=5",
+      "published": "2026-11-20T02:36:06+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "shanghai-creative-park-measures",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "我国将加快推进流域水风光一体化基地建设",
+      "title_ko": "중국, 유역 수력·풍력·태양광 일체화 기지 건설 가속 추진",
+      "summary_ko": "중국이 유역 단위 수력·풍력·태양광 일체화 기지 건설을 가속한다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14MTlzZmJhNkNaOGxraU9VZE5aZDQ0aTduQ0RzcjZwX055OWo1RWo0YmljZTVuQlZtSDRSVEVNTjVSV1hsa0dCTW10TWNRaDhnRGNXQjE1V1VYYVE3cURjMUlyMWpWRmFjMDRRSWlYa0xvRWxCZUVOQw?oc=5",
+      "published": "2026-11-20T02:28:09+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "china-hydro-wind-solar-bases",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "“中国造”商品车出口专列累计开行1万列",
+      "title_ko": "'중국산' 완성차 수출 전용열차 누적 운행 1만 편 돌파",
+      "summary_ko": "중국산 완성차 수출 전용열차가 누적 1만 편 운행됐다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82aGtMZzlWY3Z2VjBIUFhCZEo3bjlGN1pVUTVWNVoyTGRfM2hLSDY4Q2RXMzdMRjJ5VnA5NHV5bDhwcUJDUlRZX215V3phMHV3d01IbEotaXFFWEFLcEN3dVdXMnZ2SzlqQlFHZ25SM2Z3UkYzME1kNw?oc=5",
+      "published": "2026-11-20T02:22:08+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "china-vehicle-export-trains",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "让水库大坝更好赋能水利高质量发展",
+      "title_ko": "저수지 댐이 수리(水利) 고품질 발전에 더 잘 기여하도록",
+      "summary_ko": "저수지 댐의 수리 고품질 발전 기여에 관한 기사. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5La3BUd3E4bmxCZmhWRE0tMHY4a2hQU1JXX21Jb0MyRVRvT09IYjE4dDE1YVhrVzFES2VXcGlDdUdTREdkRGdvMXBxWGdDTWR6OTlZbllYTy1Cb1JwY3FUc192QmhwWUtfWWJJR0lRM09lU0NkRkQwaQ?oc=5",
+      "published": "2026-11-20T02:10:39+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "china-reservoir-dam-development",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "PUTIN: LIFE CHANGES, SO IT MAKES NO SENSE TO RETURN TO GEOPOLITICAL REALITIES OF THE 1990S",
+      "title_ko": "푸틴: 삶은 변한다, 1990년대 지정학적 현실로 돌아가는 것은 무의미",
+      "summary_ko": "푸틴 대통령이 1990년대의 지정학적 현실로 돌아가는 것은 의미가 없다고 말했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jZ3BDUGw5clBzMjFKNVBxb2lrNXhETkx1eW9uN1NaV2NTSnpOZTFRdTBSVzFNWk8xWFEteWw1NW5qbVJkeHV1V1VKMWtOZ2VZSUo0aTZ5VnR2TVNLbTMxX1VJcXpFaS1JdkpWRDhjclBHN0pMaUVoYQ?oc=5",
+      "published": "2026-11-19T21:28:28+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "putin-remarks-us-relations",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "US envoys Kushner, Witkoff arrive at Berlin summit of Ukraine allies",
+      "title_ko": "미국 특사 쿠슈너·위트코프, 베를린 우크라이나 동맹국 정상회의 도착",
+      "summary_ko": "미국 특사 쿠슈너와 위트코프가 베를린에서 열린 우크라이나 동맹국 회의에 도착했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YeXBsUWJlY2JzWlhIOXNDRFVXaWtIdnFGdFE5eWRtU29tOWlWOVJiNTBJZmlsQnpsV1ZseG5QRGRKSVAzT3BScUpCemg2UUt1LUF5bXlRNG9MekkzXy04aHlSSHdsQkQ5bzN0eUtHWUpUM0FNUEh2UQ?oc=5",
+      "published": "2026-11-19T21:05:33+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "berlin-ukraine-allies-summit",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "RUSSIA'S PUTIN: IN RELATIONS WITH US, IT IS NOT SO EASY TO FOLLOW THROUGH ON AGREEMENTS, BUT TRUMP ADMINISTRATION’S APPROACH GIVES CAUSE FOR OPTIMISM",
+      "title_ko": "푸틴: 미국과의 관계에서 합의 이행은 쉽지 않지만 트럼프 행정부의 접근은 낙관의 근거",
+      "summary_ko": "푸틴 대통령이 미국과의 합의 이행이 쉽지 않지만 트럼프 행정부의 접근 방식은 낙관할 이유를 준다고 말했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzWW9OVWd1ckFoYlVybUc4NlE5Tk1RN3FaUVo5cmJ0bHV3VUJBdzM0aG85QWFYMDV4WVRoMDV0czlFMm0xOE9HWE10WnU3d0dnQ1ZTTDZnTUNUT0wxdl91N0RZTHpLcHF5c2U4UHlqZDVMZmNzWjM2dw?oc=5",
+      "published": "2026-11-19T20:59:57+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "putin-remarks-us-relations",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "ITALY'S INTERIOR MINISTER: THE ONLY CONFIRMED, STRUCTURED CYBERATTACK TARGETED REFRIGERATION SYSTEMS IN THE FOOD DISTRIBUTION SECTOR",
+      "title_ko": "이탈리아 내무장관: 확인된 유일한 조직적 사이버공격은 식품 유통 부문 냉장 시스템 겨냥",
+      "summary_ko": "이탈리아 내무장관은 확인된 유일한 조직적 사이버공격이 식품 유통 부문의 냉장 시스템을 노렸다고 밝혔다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVRUhVRWRVb1BabG9iZktYejZyM1V6UUZjcmtlVWdDV242eDFHV3NlUWd2S0FmbTJQQVl5VUlTNi1yT0tjeW9kZ1NmQXNCMzR5TkhnanBTWnM3SGNzYjZPX3djYWRUZTJ2eVNUN0Rmd2hwMU5mN3NoYw?oc=5",
+      "published": "2026-11-19T20:39:07+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "europe-cyberattack",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "EUROPEAN COMMISSION: DIFFICULT TO JUDGE THE SCALE OF CYBERATTACK, GIVEN THAT INQUIRY IS ONGOING",
+      "title_ko": "EU 집행위원회: 조사 진행 중이라 사이버공격 규모 판단 어려워",
+      "summary_ko": "EU 집행위원회는 조사가 진행 중이어서 사이버공격의 규모를 판단하기 어렵다고 밝혔다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wTXcxemhsMlZYZXVvcGNQaGE0VThGSDF3eklQN3JTTmxjWG9DX3RrMzg5Wjl6LXR0QzdrTnEwbVFDaHk0SnFsYVh4N1pOMk1sSVRWQ284aWN6ck5hS0RJY1VEY1lXRmdMSFZ1TmUtUjRzZ3lqamt2Zw?oc=5",
+      "published": "2026-11-19T20:36:28+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "europe-cyberattack",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "RUSSIA HITS VESSEL IN BLACK SEA - REPORTS",
+      "title_ko": "러시아, 흑해에서 선박 공격 - 보도",
+      "summary_ko": "러시아가 흑해에서 선박을 타격했다는 보도. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kZmlyNE1ISEQxdmRBZFFnLUZGQzRncVJldXJQUHlQRGt0NmkyTjJleUxMR0kxUnlydDdST1AtV0NPY2hoZHMxVXN6NF95Ri1QUDlBdzNtZ1lQQ3VrS0UyTDdCeHFpdGdjMWtGemlsN0ZHMGZEZW95UA?oc=5",
+      "published": "2026-11-19T14:30:08+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "russia-black-sea-vessel-strike",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "Van Gogh painting sells at auction for record $190.4 mn",
+      "title_ko": "반 고흐 그림, 경매서 사상 최고 1억 9,040만 달러에 낙찰",
+      "summary_ko": "반 고흐 그림이 경매에서 기록적인 1억 9,040만 달러에 팔렸다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1TWRjaTYwdVFPVy1CYl94bXdjNDdQbEQ3WVp2R1M4eTN2cTRnZVRIZWRta0ZzOEVFcEl5N2RxT19BTnpVNGlFNlctTW82TV9Oc2tZWWs3WGxGUnYzSW1BYTdmSktCbjZsbk1VMm5wSTFnbzVVZ1JVVQ?oc=5",
+      "published": "2026-11-19T08:28:49+09:00",
+      "tags": [],
+      "event": "van-gogh-record-auction",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "伦敦股市19日下跌",
+      "title_ko": "런던 증시 19일 하락",
+      "summary_ko": "런던 증시가 19일 하락했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mNTQtQlBiRm9ITXA2RWxKTnI1ZmMwanBTdUpWTGYyYWs3aWRKd2pCbnlOckxWWnNTUnFTYXEtWm9udUF5NklPSHFpV1RrUXFCR05oRlo4cldVazRMcS1nc3dXSXZ1TGYyVndqbGVjZ1lvbmZQd0NZbWJ4dFpGV0U?oc=5",
+      "published": "2026-11-20T04:49:09+09:00",
+      "tags": [
+        "stocks"
+      ],
+      "event": "london-stocks-nov19",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "沙特首都最高建筑遭袭受损",
+      "title_ko": "사우디 수도 최고층 건물 공격받아 파손",
+      "summary_ko": "사우디아라비아 수도의 최고층 건물이 공격을 받아 손상됐다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41SVNWUGhvaDFWck9vNmpzT1FuaVpNQUQ4d2hveDBMODhxcU8yRlpISkpGbHd4bS04NFNTMEtqU0lJWnozdFkxc1RvQU1NVUVNbndmci1tRmV0emd5dGJLRzlMV1lldjdCVk9fRVI2RkxmOFAyX2V3eU1Nd0tqeFk?oc=5",
+      "published": "2026-11-20T01:21:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "riyadh-tallest-building-attack",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "聚焦APEC｜“APEC蓝”不再短暂",
+      "title_ko": "APEC 포커스 | 'APEC 블루'는 더 이상 일시적이지 않다",
+      "summary_ko": "'APEC 블루'(정상회의 기간의 맑은 하늘)가 더 이상 일시적이지 않다는 관영 매체 기사. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WUWpGSUZYZGpQVzA1NF9ZRDE3QnVaYkRjbjVjNkI4SzFRRGxQQWVNNkZZY0NpbFRBZHhqUFhlUzdpVnU1NnUtUVo1dGR2cGhvMXFhMGZQNjVDVzdpYm5DMnR6RWJiQzZVaGRnNHVpaEFVWm0wTnY1UlhXUVZJSms?oc=5",
+      "published": "2026-11-20T01:16:16+09:00",
+      "tags": [],
+      "event": "apec-shenzhen",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "Anthropic在美上市 融资规模创纪录",
+      "title_ko": "Anthropic 미국 상장, 자금조달 규모 사상 최대",
+      "summary_ko": "Anthropic이 미국에서 상장했으며 자금조달 규모가 기록적이라고 보도. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Hd2wzRUxkUmpuaGtwVWxGNVhwM1dvY1IzY3VwcmpzQXlNX3kwaE11TUhMQ2tzeUpraFhBbFBQZ3ktcXh3QmZnekFzUWprWU1HN0FsWUNwb1dPYTRfckQ0cjloME54SWJwbVM1WEQ0cXFITmpGSGh0MVR4ajVCUlk?oc=5",
+      "published": "2026-11-20T00:56:16+09:00",
+      "tags": [
+        "stocks",
+        "business"
+      ],
+      "event": "anthropic-ipo",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "塞尔维亚新一届国民议会选举产生议长",
+      "title_ko": "세르비아 새 국회, 의장 선출",
+      "summary_ko": "세르비아 새 국회가 의장을 선출했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZY21tN0c5U3l5alFLSkhYVWRqOEp5X2xabmhTNFVCM0xOemVzRHpmOXZWc2tiSW9LWDFuS05SdFkzbjYxMm9ZY2FBUTNZeUo1c3JNMEsxUUNEenFDUnk2TFVyRWdGTkcxelBuNDYzTzR3TEZfTEZCdHlDUDI0elE?oc=5",
+      "published": "2026-11-20T00:55:44+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "serbia-parliament-speaker",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "恐龙化石展在港揭幕 多件珍稀标本首次亮相",
+      "title_ko": "홍콩서 공룡 화석전 개막, 희귀 표본 다수 첫 공개",
+      "summary_ko": "홍콩에서 공룡 화석 전시가 개막해 희귀 표본 여러 점이 처음 공개됐다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQmFTenZMY1dVZkdvZ2N3QXhuWkdObkpOUGdzOUtUSXh1YXJHUkRYdm0zVktjcGZnOUsxUWh6bGFzNE5jQjJDeXhXSUxhVlh3ZldXR3pkcllqX1BuNkFpejZXaFV1SnRsYWxleDFQbDBYMVZmbWtfOExoQllqeHo3WA?oc=5",
+      "published": "2026-11-20T00:06:52+09:00",
+      "tags": [],
+      "event": "hong-kong-dinosaur-exhibition",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "2027届全国普通高校毕业生规模预计1299万人",
+      "title_ko": "2027년 전국 대학 졸업생 규모 1,299만 명 전망",
+      "summary_ko": "2027년 중국 전국 일반대학 졸업생이 1,299만 명으로 예상된다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVU92YlZtYW90ZHhScUtiWHZVa0U3T0hwa284VUZ0QlUyeWxYeEJIQThEZ1VQeFJjWExTS0t0Ml9Cc1NLWjR5MDJxSVRvRGR4Mm5TU0xHME9DdTZWd0M1WThkTV9INGIwRzBXMzllcXRZRVV3V3FkMzVJbUlHaWlZUHZsZw?oc=5",
+      "published": "2026-11-19T23:19:23+09:00",
+      "tags": [
+        "forecast"
+      ],
+      "event": "china-2027-graduates",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "新开发银行在华发行熊猫债规模突破1000亿元",
+      "title_ko": "신개발은행(NDB), 중국 내 판다본드 발행 규모 1,000억 위안 돌파",
+      "summary_ko": "신개발은행의 중국 내 판다본드 발행 규모가 1,000억 위안을 넘어섰다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYVlsSzA0UGFMSHIyVjFkWGJHMUF0UmNsMlZTYW1zYnJsWVNfU1kwTHVlV1JMOEJTdmFpdm9qU1dYR0pYaWZqaXA1RXR3b0NvcFBDUFl3VzBqWFNhQll6c3RlYzdTZDRHX0c1dGdpZkZRaHdxcy1FUHAtNGNWLXVacWJn?oc=5",
+      "published": "2026-11-19T23:13:27+09:00",
+      "tags": [
+        "monetary",
+        "business"
+      ],
+      "event": "ndb-panda-bonds",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "呼和浩特盛乐国际机场即将转场投运 - 人民网-图片频道",
+      "title_ko": "후허하오터 성러 국제공항, 곧 이전 개항",
+      "summary_ko": "후허하오터 성러 국제공항이 곧 이전해 운영을 시작한다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUM0lzaDUwRDBFNW04VHdBZGVEd1hNM2owMm96d3M1c2NlR1kxR3RDN29WdzFJbUR5d0Flb3FCNUZWaFRILWxpQjdBWVg3Szg0dkM3WUtMbEhEd2RNeFJHVGhhckt0Sjc3?oc=5",
+      "published": "2026-11-20T00:14:00+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "hohhot-shengle-airport",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "李鸿忠在贵州调研时强调 认真贯彻落实党的二十届五中全会精神 以高质量党建引领人大工作高质量发展",
+      "title_ko": "리훙중, 구이저우 시찰서 '20기 5중전회 정신 관철, 고품질 당건설로 인대 업무 고품질 발전 견인' 강조",
+      "summary_ko": "리훙중이 구이저우 시찰에서 20기 5중전회 정신 관철과 당 건설을 통한 인대 업무 발전을 강조했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42OGFKc3RKazg0STkxTU9CN25xWU1fc2JKSlRNaV8ybmNLUWQ3NjF5OEk0VzZJX1dFR2dudHo4cmNEUHp3TnlGcERVNHpEbHFieVVxeVlCTW45M0FKY1NCZFVCUTJwSUN5bW5r?oc=5",
+      "published": "2026-11-19T22:06:00+09:00",
+      "tags": [],
+      "event": "li-hongzhong-guizhou-inspection",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "科技点亮APEC盛会荣耀时刻",
+      "title_ko": "과학기술이 APEC 성회의 영광스러운 순간을 밝히다",
+      "summary_ko": "APEC 회의에 활용된 과학기술을 다룬 관영 매체 기사. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKbmVwN0lEYWVuOV9mbHllbDF6RG1hR2hGdlhiUl9Kd0tVdGFkNTd1R1hzUDNOd1JsdHNuOHp1cjJRMVFLMThycTkwVExGeHNEV3RFdTAtdTRPaDd6M2wwQU15cUZSWGFkSnc?oc=5",
+      "published": "2026-11-19T21:51:00+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "apec-shenzhen",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "习近平主持中俄美元首会晤 - 人民网-图片频道",
+      "title_ko": "시진핑, 중·러·미 정상회담 주재",
+      "summary_ko": "시진핑 주석이 중국·러시아·미국 3국 정상회담을 주재했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41UE0wY1ZneVdKSGlIOU5BRURlOVRqWXVrOXh4ZW5zLXFYeFBybUFYNERVSjdMNDU0R3dLcEtIUVdsMURPY0RyUkdXUTBTV2lXUFpRQTk3eGYxdzFQY3RlVno1cDVyX3VvelRF?oc=5",
+      "published": "2026-11-19T21:19:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "xi-trump-putin-shenzhen-summit",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "石泰峰在陕西、四川调研时强调 深入学习贯彻习近平党建思想 推动全面从严治党各项任务落到实处",
+      "title_ko": "스타이펑, 산시·쓰촨 시찰서 '시진핑 당건설 사상 학습·관철, 전면적 종엄치당 과업 이행' 강조",
+      "summary_ko": "스타이펑이 산시·쓰촨 시찰에서 시진핑 당건설 사상 관철과 전면적 종엄치당을 강조했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NZnJYNUozWjNFaGRUSzNwSE5walJUeEVOOC1NSXZvQkRlTzU0aTk3aW1zTkx3WklCTUROak5teDRQRFZvWDh4XzBya0lkSzdILWp4RnhzS04teHlCSnNvYThuVjFrM2ZXOEE?oc=5",
+      "published": "2026-11-19T20:28:00+09:00",
+      "tags": [],
+      "event": "shi-taifeng-inspection",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "聚力提升国家创新体系整体效能 “2026国是论坛”在京举办",
+      "title_ko": "국가혁신체계 전체 효능 제고 집중, '2026 국시포럼' 베이징서 개최",
+      "summary_ko": "국가혁신체계 효능 제고를 주제로 '2026 국시포럼'이 베이징에서 열렸다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zSFVhMEdsX0d6eGF1bzdzbnV1dl9lZDJIZ1BwV1JZbklEblRtWlhONzFvajVYcnVtWWUzT2R2Njh6bjVqUXFKeDdjQURackk3Q2dsemRfaW9XQzhQTG5jMV9PSm9WdnNMR1JpUVd2RQ?oc=5",
+      "published": "2026-11-19T20:07:00+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "guoshi-forum-2026",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "习近平：三国会晤播下的种子必将生根发芽、开花结果",
+      "title_ko": "시진핑: 3국 회담이 뿌린 씨앗은 반드시 뿌리내리고 꽃피워 열매 맺을 것",
+      "summary_ko": "시진핑 주석이 3국 회담이 뿌린 씨앗이 결실을 맺을 것이라고 말했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwNkIwcm9uVE9HRnZMRUhmMmVNWGNSd2c2UmpmOXFVbDY5ak0xUEh0SzNXemtLazRXYWMyQ3NqcFkxdV9udE1tSGVMeGV5NFVyaXFYR0JVNnI3TEtudTJnX1JKaC1uSG1IUUdweklJcw?oc=5",
+      "published": "2026-11-19T19:55:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "xi-trump-putin-shenzhen-summit",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "习近平：三国会晤播下的种子必将生根发芽、开花结果",
+      "title_ko": "시진핑: 3국 회담이 뿌린 씨앗은 반드시 뿌리내리고 꽃피워 열매 맺을 것",
+      "summary_ko": "시진핑 주석이 3국 회담이 뿌린 씨앗이 결실을 맺을 것이라고 말했다(중국공산당신문망 게재). (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90Ni04Z1B1b1c0MW5lRk5GdzNSbXViaWtBVTVEdzVuV0RVLUd0SWRVUmhtUV9RcWlMT0hiaTJZVkNidDZvVGU5d1R3YkVWU19MdDVfVVAxVDdGLXJYbVBScmVyY011UWVWWkE?oc=5",
+      "published": "2026-11-19T19:55:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "xi-trump-putin-shenzhen-summit",
+      "state_media": true
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "AI models favour US and UK accents, score Chinese and Nigerian ones lowest, study finds",
+      "title_ko": "AI 모델, 미국·영국 억양 선호…중국·나이지리아 억양 최저점 - 연구",
+      "summary_ko": "미국 워싱턴대 연구에 따르면 최첨단 AI 모델들이 같은 내용을 말한 영어 화자를 억양에 따라 다르게 평가해, 면접·시험 채점에서 억양이 점수를 바꿀 수 있다.",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3375132/ai-models-favour-us-and-uk-accents-score-chinese-and-nigerian-ones-lowest-study-finds",
+      "published": "2026-11-20T05:31:24+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "ai-accent-bias-study",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "China-centred order or host duties? Experts weigh in on Xi-Trump-Putin seating",
+      "title_ko": "중국 중심 질서인가 주최국 관례인가? 시진핑·트럼프·푸틴 좌석 배치에 전문가 의견 분분",
+      "summary_ko": "목요일 선전에서 열린 3자 정상회의의 좌석 배치를 두고 전 미국 관리·분석가들 사이에서 주최국 의전인지, 중국이 스스로를 논의 중심에 두려는 의도인지 논쟁이 벌어졌다. 줄리언 게위르츠는 '시진핑이 주재하는 G3, 중국 중심 질서의 놀라운 이미지'라고 말했다.",
+      "url": "https://www.scmp.com/news/china/article/3375131/china-centred-order-or-host-duties-experts-weigh-xi-trump-putin-seating",
+      "published": "2026-11-20T05:05:44+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "xi-trump-putin-shenzhen-summit",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Xi, Trump and Putin ‘peace declaration’ suggests summit is more than a photo op",
+      "title_ko": "시진핑·트럼프·푸틴 '평화선언', 정상회의가 사진 촬영 이상임을 시사",
+      "summary_ko": "선전에서 열린 첫 중·미·러 3자 정상회의가 세계 에너지 시장, 핵 비확산, 글로벌 거버넌스 협력 분야를 담은 공동 '평화선언'을 발표하며 지정학 지형을 흔들었다.",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3375130/xi-trump-and-putin-peace-declaration-suggests-summit-more-photo-op",
+      "published": "2026-11-20T04:51:48+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "xi-trump-putin-shenzhen-summit",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Trump bought up to US$265,000 of Nvidia stock in September, disclosure shows",
+      "title_ko": "트럼프, 9월 엔비디아 주식 최대 26만 5천 달러 매수 - 재산 공개",
+      "summary_ko": "목요일 공개된 트럼프 대통령의 재산 공개에 따르면 그는 9월 엔비디아 주식을 최대 26만 5천 달러 매수하고 최대 1만 5천 달러 매도했다. 이는 젠슨 황 CEO와 중국 스파이 의혹 인물의 관계 보도가 나오기 몇 주 전이다.",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3375129/trump-bought-us265000-nvidia-stock-september-disclosure-shows",
+      "published": "2026-11-20T03:57:18+09:00",
+      "tags": [
+        "stocks",
+        "geopolitics"
+      ],
+      "event": "trump-nvidia-stock-disclosure",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "FCC votes to ban Chinese telecoms from direct access to US phone numbers",
+      "title_ko": "FCC, 중국 통신사의 미국 전화번호 직접 접근 금지 의결",
+      "summary_ko": "미 연방통신위원회(FCC)가 국가안보와 스팸 로보콜 방지를 이유로 차이나모바일·차이나텔레콤·차이나유니콤 등 중국 통신사의 미국 전화번호 직접 접근을 금지하기로 목요일 의결했다.",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3375128/fcc-votes-ban-chinese-telecoms-direct-access-us-phone-numbers",
+      "published": "2026-11-20T03:21:18+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation",
+        "industry"
+      ],
+      "event": "fcc-chinese-telecoms-phone-number-ban",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "4 UK men guilty of sex crimes against drugged woman in case with echoes of Pelicot",
+      "title_ko": "영국 남성 4명, 약물 투여된 여성 대상 성범죄 유죄…펠리코 사건과 유사",
+      "summary_ko": "영국 남성 4명이 당시 남편에 의해 약물에 취한 여성을 성폭행·성학대한 혐의로 목요일 유죄 판결을 받았다. 피해자 조앤 영은 지젤 펠리코처럼 익명권을 포기했다.",
+      "url": "https://www.scmp.com/news/world/europe/article/3375127/4-uk-men-guilty-sex-crimes-against-drugged-woman-case-echoes-pelicot",
+      "published": "2026-11-20T02:46:13+09:00",
+      "tags": [],
+      "event": "uk-drugging-sex-crimes-verdict",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Nasa’s Voyager 1 phones home from an awe-inspiring 1 light-day away",
+      "title_ko": "NASA 보이저 1호, 1광일 거리에서 지구로 신호",
+      "summary_ko": "NASA 보이저 1호가 1광일 거리에서 신호를 보내왔다. 관제팀은 발신 정확히 24시간 뒤인 목요일 신호를 받았으며, 신호는 260억 km 이상을 이동했다.",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3375126/nasas-voyager-1-phones-home-awe-inspiring-1-light-day-away",
+      "published": "2026-11-20T02:02:36+09:00",
+      "tags": [],
+      "event": "voyager-1-one-light-day",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "3 dead, 3 trapped as Georgia building collapses after gas blast",
+      "title_ko": "조지아, 가스 폭발로 건물 붕괴…3명 사망·3명 매몰",
+      "summary_ko": "조지아 트빌리시 포니찰라 지역 5층 주거 건물에서 천연가스 폭발로 추정되는 사고가 나 3명이 숨지고 3명이 잔해에 갇혔다고 당국이 밝혔다.",
+      "url": "https://www.scmp.com/news/world/europe/article/3375125/3-dead-3-trapped-georgia-building-collapses-after-gas-blast",
+      "published": "2026-11-20T00:52:57+09:00",
+      "tags": [],
+      "event": "tbilisi-building-gas-explosion",
+      "state_media": false
+    },
+    {
+      "source": "China Daily",
+      "title_original": "聚焦APEC丨王毅举行中外记者会",
+      "title_ko": "APEC 포커스 | 왕이, 내외신 기자회견 개최",
+      "summary_ko": "왕이 외교부장이 APEC 관련 내외신 기자회견을 열었다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rZmJReExicE5ObWdqOGE5djRFNVJsVTRvVWNiVUd1MzhPNklGRmNnb3RlTTNLajNSaEdPZmQ2dGxtMmdVa2w3d2V1RkdvcmstaWpWMkJnSlFlVTZKVlRSRGN0RmlITlZMRUVOYW5QYktxc3BtaXJaZ1A5MkE?oc=5",
+      "published": "2026-11-20T02:16:34+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "apec-shenzhen",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "大国外交最前线丨在欢迎宴会现场，读懂何为“一湾锦绣通亚太”",
+      "title_ko": "대국외교 최전선 | 환영 만찬 현장에서 읽는 '아태로 통하는 아름다운 만(灣)'",
+      "summary_ko": "APEC 환영 만찬 현장을 다룬 관영 매체 기사. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tLWdmMWh3Q1hxV09nNzk5OTJUb1hQODVINjN0RnFGNkhsZHpGOURaSjFDQ2d0a2J5MGREV2VYRjhITFFyRkI3OHNodnc0bmY2cS1ydlB3X1pNTnJvdVota09sdWVaNjBXOXBQcFdRUWxHNUFzNFZOR09BWUg?oc=5",
+      "published": "2026-11-19T23:56:18+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "apec-shenzhen",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "和合共生｜一辆新能源汽车的出海之路",
+      "title_ko": "화합공생 | 한 신에너지차의 해외 진출 이야기",
+      "summary_ko": "중국 신에너지차의 해외 진출을 다룬 기사. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5aWFdkN2J4R01xc3Z5ZXJtRzZOQ0wzX1FPMUNYMzlPUG9CdjlXRTlQOE9sZkVjYURLa1ptdXF6X3FXT1I5YTB3bk9hRjBYb2JjWG9OaV90UWZrYXY4VHVUZmdQUG9BWjhNcWp4ZTJIOHBrV0N2LVVzN0wtUVY?oc=5",
+      "published": "2026-11-19T23:54:48+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "china-nev-overseas",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "三张明信片 深圳“新友记”",
+      "title_ko": "엽서 세 장으로 본 선전의 '새 친구 이야기'",
+      "summary_ko": "선전을 소재로 한 관영 매체 기사. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNTEZqTUVIUERJV2dGT1F2RXRVejNGUFhTV1A2RlZaT2JsUE4xQkN4UkFMLXJ4TnVCZ3RPb2RmdzhCWmcwNUJyc2doSlpYM2JORUkzcUUzaGZqTzhSV1Y2ejZmeXE0aVJPc2ZONWZCeFowSXVDWVBPNi10aHE?oc=5",
+      "published": "2026-11-19T23:45:07+09:00",
+      "tags": [],
+      "event": "apec-shenzhen",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "看中国，习近平主席向世界推介这四座城市- 中国日报网",
+      "title_ko": "중국을 보라, 시진핑 주석이 세계에 소개한 네 도시",
+      "summary_ko": "시진핑 주석이 세계에 네 도시를 소개했다는 관영 매체 기사. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GQk56dmhxX3FCNGxYMm9weXNCTGQ4emZMalBWeHUtQUVkX0Z6aUNRd3JJVmhmczN3bEttUHdHVFpJbk1kMHVJanc4b0lVQ05weWJSV3pQeEw4NVhBLXlhXzJ6XzN0bDJ0cjdnTUdINk9fSUhBdmlVcTllQ0tfVlE?oc=5",
+      "published": "2026-11-19T23:19:07+09:00",
+      "tags": [],
+      "event": "xi-promotes-four-cities",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "独家视频丨习近平：大国良性互动不是选择题而是必答题- 中国日报网",
+      "title_ko": "독점 영상 | 시진핑: 대국 간 선순환 상호작용은 선택이 아닌 필수 과제",
+      "summary_ko": "시진핑 주석이 대국 간 선순환 상호작용은 선택 문제가 아니라 반드시 답해야 할 문제라고 말했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZDBJdEhVUzVHNVlST0FFR0wyRmp5VEs3clRxVUREQ2RGWFhwb3hWR0NTUmJEU0pzZXNsYnozTGpVTVZDRm1LSFk4N2prekdUZ25LclFQa2l0cGRYN21odENvaXowMXlCSVgtVl9mbjVjeDg2STFnMVpSeDQxekhzdA?oc=5",
+      "published": "2026-11-19T23:15:46+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "xi-trump-putin-shenzhen-summit",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "中俄美元首和平宣言- 中国日报网",
+      "title_ko": "중·러·미 정상 평화선언",
+      "summary_ko": "중·러·미 정상의 평화선언 (중국일보망 게재). (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2lrR2RrdXpfTzNkU0xhUHJkRzh1cVpLWjB0RFVMeFVKMkZVMjNMZG9oUkFYbXJSZ3I4UzVWT2dDamprc0I2MlpyTWZLam90WVFma19wdklHV0xQRVZoQ2pnejdxdFIzRV9UZW9mWU9SZ01GVGU0eTJXQ0lvZjVQVQ?oc=5",
+      "published": "2026-11-19T21:48:58+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "xi-trump-putin-shenzhen-summit",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "习近平：三国会晤播下的种子必将生根发芽、开花结果- 中国日报网",
+      "title_ko": "시진핑: 3국 회담이 뿌린 씨앗은 반드시 뿌리내리고 꽃피워 열매 맺을 것",
+      "summary_ko": "시진핑 주석이 3국 회담이 뿌린 씨앗이 결실을 맺을 것이라고 말했다(중국일보망 게재). (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdTZDbFQ5THVRNnNTc2IwUWtSUFdoR3NZTFY3bXBiMVlLeV9kcVpHUkpFQ3JsTjEtcDN4UzJGbXJtaXZMLXdCaGlJV2E4ZGFVQ2RLaXlCbGdPakR0YS1ld2prZE9PUTVZdXZjRmJJV0Y0T1V2R29vMGtKTUdfNHhvcQ?oc=5",
+      "published": "2026-11-19T21:48:22+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "xi-trump-putin-shenzhen-summit",
+      "state_media": true
+    }
+  ],
+  "events": [
+    {
+      "event": "xi-trump-putin-shenzhen-summit",
+      "title_ko": "중·러·미 3국 정상회의(선전) 및 평화선언",
+      "sources": [
+        "People's Daily",
+        "SCMP (홍콩)",
+        "China Daily"
+      ],
+      "count": 8
+    },
+    {
+      "event": "apec-shenzhen",
+      "title_ko": "APEC 선전 정상회의 관련 보도",
+      "sources": [
+        "Xinhua",
+        "People's Daily",
+        "China Daily"
+      ],
+      "count": 5
+    },
+    {
+      "event": "putin-remarks-us-relations",
+      "title_ko": "푸틴 대미 관계·지정학 발언",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 2
+    },
+    {
+      "event": "europe-cyberattack",
+      "title_ko": "유럽 사이버공격 (이탈리아·EU 집행위 발언)",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 2
+    },
+    {
+      "event": "hubei-sichuan-building-materials-rumor-denial",
+      "title_ko": "후베이·쓰촨 당국, '건자재 시장 대점검' 소문 공식 부인",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "professional-title-evaluation-rules",
+      "title_ko": "내년부터 직함(전문기술 자격) 평가 관리 새 규정 시행",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "winter-health-tcm",
+      "title_ko": "겨울철 양생법, 중의학이 알려주는 건강한 겨울나기",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "denmark-greenland-defense-agreement",
+      "title_ko": "덴마크 의회, 그린란드 관련 안보·방위 협정 통과",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "shanghai-creative-park-measures",
+      "title_ko": "'위안바탸오(园八条)' 발표: 상하이 문화창의단지 융합 새 동력 활성화",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "china-hydro-wind-solar-bases",
+      "title_ko": "중국, 유역 수력·풍력·태양광 일체화 기지 건설 가속 추진",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "china-vehicle-export-trains",
+      "title_ko": "'중국산' 완성차 수출 전용열차 누적 운행 1만 편 돌파",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "china-reservoir-dam-development",
+      "title_ko": "저수지 댐이 수리(水利) 고품질 발전에 더 잘 기여하도록",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "berlin-ukraine-allies-summit",
+      "title_ko": "미국 특사 쿠슈너·위트코프, 베를린 우크라이나 동맹국 정상회의 도착",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 1
+    },
+    {
+      "event": "russia-black-sea-vessel-strike",
+      "title_ko": "러시아, 흑해에서 선박 공격 - 보도",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 1
+    },
+    {
+      "event": "van-gogh-record-auction",
+      "title_ko": "반 고흐 그림, 경매서 사상 최고 1억 9,040만 달러에 낙찰",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 1
+    },
+    {
+      "event": "london-stocks-nov19",
+      "title_ko": "런던 증시 19일 하락",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "riyadh-tallest-building-attack",
+      "title_ko": "사우디 수도 최고층 건물 공격받아 파손",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "anthropic-ipo",
+      "title_ko": "Anthropic 미국 상장, 자금조달 규모 사상 최대",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "serbia-parliament-speaker",
+      "title_ko": "세르비아 새 국회, 의장 선출",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "hong-kong-dinosaur-exhibition",
+      "title_ko": "홍콩서 공룡 화석전 개막, 희귀 표본 다수 첫 공개",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "china-2027-graduates",
+      "title_ko": "2027년 전국 대학 졸업생 규모 1,299만 명 전망",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ndb-panda-bonds",
+      "title_ko": "신개발은행(NDB), 중국 내 판다본드 발행 규모 1,000억 위안 돌파",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "hohhot-shengle-airport",
+      "title_ko": "후허하오터 성러 국제공항, 곧 이전 개항",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "li-hongzhong-guizhou-inspection",
+      "title_ko": "리훙중, 구이저우 시찰서 '20기 5중전회 정신 관철, 고품질 당건설로 인대 업무 고품질 발전 견인' 강조",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "shi-taifeng-inspection",
+      "title_ko": "스타이펑, 산시·쓰촨 시찰서 '시진핑 당건설 사상 학습·관철, 전면적 종엄치당 과업 이행' 강조",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "guoshi-forum-2026",
+      "title_ko": "국가혁신체계 전체 효능 제고 집중, '2026 국시포럼' 베이징서 개최",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ai-accent-bias-study",
+      "title_ko": "AI 모델, 미국·영국 억양 선호…중국·나이지리아 억양 최저점 - 연구",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "trump-nvidia-stock-disclosure",
+      "title_ko": "트럼프, 9월 엔비디아 주식 최대 26만 5천 달러 매수 - 재산 공개",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "fcc-chinese-telecoms-phone-number-ban",
+      "title_ko": "FCC, 중국 통신사의 미국 전화번호 직접 접근 금지 의결",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "uk-drugging-sex-crimes-verdict",
+      "title_ko": "영국 남성 4명, 약물 투여된 여성 대상 성범죄 유죄…펠리코 사건과 유사",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "voyager-1-one-light-day",
+      "title_ko": "NASA 보이저 1호, 1광일 거리에서 지구로 신호",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "tbilisi-building-gas-explosion",
+      "title_ko": "조지아, 가스 폭발로 건물 붕괴…3명 사망·3명 매몰",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "china-nev-overseas",
+      "title_ko": "화합공생 | 한 신에너지차의 해외 진출 이야기",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "xi-promotes-four-cities",
+      "title_ko": "중국을 보라, 시진핑 주석이 세계에 소개한 네 도시",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    }
+  ],
+  "unavailable_sources": [
+    "Global Times",
+    "Caixin"
+  ]
+}

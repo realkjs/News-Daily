@@ -1,0 +1,1402 @@
+{
+  "team": "uk",
+  "headlines": [
+    {
+      "source": "BBC",
+      "title_original": "Shevchenko accuses Mudryk camp of 'baseless slander'",
+      "title_ko": "셰우첸코, 무드리크 측에 '근거 없는 중상' 반박",
+      "summary_ko": "우크라이나 축구 전설 안드리 셰우첸코가, 약물 검사 양성을 우크라이나 축구협회 탓으로 돌린 토트넘 임대 윙어 미하일로 무드리크 측을 '근거 없는 중상'이라고 비난했다.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmgqx908lk44o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T05:44:11+09:00",
+      "tags": [],
+      "event": "mudryk-doping-dispute",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Bowen: Myanmar genocide verdict is historic and could have far-reaching implications",
+      "title_ko": "보언: 미얀마 제노사이드 판결은 역사적이며 광범위한 파장 가능",
+      "summary_ko": "BBC 국제 에디터는 감비아가 미얀마의 제노사이드 의도를 입증한 방식을 법률가들이 연구하게 될 것이라고 썼다.",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly58ndgd0no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T05:02:02+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "icj-myanmar-genocide-ruling",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "title_ko": "유럽 정상들 \"우크라이나 전쟁 종식 위해 러시아와 협상 준비\"",
+      "summary_ko": "우크라이나의 유럽 동맹국들이 베를린 정상회의에서 '단일한' 협상 입장을 갖고 있다고 밝혔다.",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T04:16:21+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "berlin-ukraine-allies-summit",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "England fined for fans' anti-Catholic chants in Spain",
+      "title_ko": "잉글랜드, 스페인 원정 팬들의 반가톨릭 구호로 벌금",
+      "summary_ko": "UEFA가 네이션스리그 스페인 원정 승리 경기에서 나온 잉글랜드 원정 팬들의 반가톨릭 구호를 이유로 잉글랜드에 징계를 내렸다.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmlye2n7p7d9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T04:11:03+09:00",
+      "tags": [],
+      "event": "england-uefa-fine-chants",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "EU-UK talks going down to the wire, says No 10",
+      "title_ko": "총리실 \"EU-영국 협상 막판까지 간다\"",
+      "summary_ko": "EU와 영국은 금요일 정상회의에서 식품 교역과 청년 비자에 관한 새 합의에 도달할 것으로 예상된다.",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T03:55:52+09:00",
+      "tags": [
+        "legislation",
+        "geopolitics"
+      ],
+      "event": "eu-uk-reset-summit",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Pochettino's first Man Utd training session filmed by drone operator",
+      "title_ko": "포체티노의 맨유 첫 훈련, 드론으로 촬영돼",
+      "summary_ko": "한 팬이 캐링턴 훈련장 밖에서 드론으로 마우리시오 포체티노 감독의 맨체스터 유나이티드 첫 훈련을 촬영했다.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6wy9d7wqy7wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T03:45:56+09:00",
+      "tags": [],
+      "event": "pochettino-man-utd-drone",
+      "state_media": false
+    },
+    {
+      "source": "BBC",
+      "title_original": "Faults not fixed in 90% of homes in government insulation scheme",
+      "title_ko": "정부 단열 사업 주택 90%에서 결함 미수리",
+      "summary_ko": "정부 단열 지원 사업에 참여한 주민들이 손상된 주택을 수리받지 못해 어려움을 겪고 있다.",
+      "url": "https://www.bbc.co.uk/news/articles/c65y193gpvkgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T02:59:16+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "uk-insulation-scheme-faults",
+      "state_media": false
+    },
+    {
+      "source": "Sky News",
+      "title_original": "Ambulance service declares 'critical incident'",
+      "title_ko": "런던 구급차 서비스 '중대 사건' 선포",
+      "summary_ko": "런던 구급차 서비스가 3일 연속 하루 7,000건 이상의 신고가 이어지는 등 수요 급증에 대응해 '중대 사건(critical incident)'을 선포했다.",
+      "url": "https://news.sky.com/story/london-ambulance-service-declares-critical-incident-13614111",
+      "published": "2026-11-20T05:28:00+09:00",
+      "tags": [],
+      "event": "london-ambulance-critical-incident",
+      "state_media": false
+    },
+    {
+      "source": "Sky News",
+      "title_original": "EU reveals it suffered 'AI-powered' cyber attack",
+      "title_ko": "EU, 'AI 기반' 사이버 공격 피해 공개",
+      "summary_ko": "EU가 지난달 AI를 활용한 사이버 공격을 받았으며, 그 여파로 일부 디지털 도구가 아직 오프라인 상태라고 밝혔다.",
+      "url": "https://news.sky.com/story/eu-reveals-it-suffered-ai-powered-cyber-attack-13613970",
+      "published": "2026-11-20T00:38:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "eu-ai-cyberattack",
+      "state_media": false
+    },
+    {
+      "source": "Sky News",
+      "title_original": "Burnham says Europe 'ready to enter negotiations' to help end Russia's war in Ukraine",
+      "title_ko": "버넘 \"유럽, 러시아의 우크라이나 전쟁 종식 돕기 위한 협상 준비돼\"",
+      "summary_ko": "앤디 버넘은 유럽이 러시아의 우크라이나 전쟁 종식을 돕기 위해 협상에 나설 준비가 돼 있다고 말했다.",
+      "url": "https://news.sky.com/story/putin-vows-to-retaliate-as-ukraine-hits-prized-crimea-bridge-for-third-time-in-four-days-13613963",
+      "published": "2026-11-19T21:38:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "berlin-ukraine-allies-summit",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "Florida's dry season has been anything but as storms bring record rainfall | ITV News",
+      "title_ko": "건기인데도 폭풍으로 기록적 강우 내린 플로리다",
+      "summary_ko": "플로리다 건기에 폭풍으로 기록적인 비가 내렸다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSlFlbFhUS0VoaEhTWmNpS3o3TGROQy1ERnk0dzAtbGVGOG9YWURfc1phTXZad1J4TGhreVhWVE1FTk1IaC0zVW5HLXZjemFEcWl6clcyVGgtTHBfWmtxOFRxT3Z3eWNINE0xWTBwck9jZnMwUUpQYkQ3R0JXd21kdjBRdWFSbHhRQXN3eWJwWEZxTU9MV290cE1JMWpnZHRzY3JiNW41cGpDVGxvZ2c?oc=5",
+      "published": "2026-11-20T05:10:00+09:00",
+      "tags": [],
+      "event": "florida-record-rainfall",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "ITV Win Latest Competitions",
+      "title_ko": "ITV 경품 이벤트 최신 목록 (기사 아님)",
+      "summary_ko": "ITV 경품 이벤트 안내 페이지. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV0ZKRmRIRU1vOFhwbUxRZXJQbW1kdU10MTdpa0xKNnlNRUhMOEFIUUhzVnNNTmVYaEg1X2RTSTlSS0ZERVhZeTVTVnpIa21IQjZ4U1NRMkllclFPclRKNTM1RmJoUmVQNVNZM3pwM3NEQVRKUHFCVDI3Umlyd1NVbV9ZVHRNZERUaDRnV0NER2VwbTQ?oc=5",
+      "published": "2026-11-20T04:56:33+09:00",
+      "tags": [],
+      "event": "itv-competitions-page",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "Catch up on ITV News Central (East Midlands) - Thursday 19th November",
+      "title_ko": "ITV 뉴스 센트럴(이스트미들랜즈) 다시보기 - 11월 19일 목요일",
+      "summary_ko": "지역 뉴스 다시보기 페이지. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcXpxaGNBdzE4eER6LWxBamRmOGM1eE8zOGpUX1k3Z050RDFDcUhzUVMyem55VkZXMUlTaE40NkVTUk9wMDBhaEQ1UHlRRUF0Q1VLV3otaTFvMmp3M2J2N1BQU2VDT1gwVmVKUFVrc1Z4YlBjZlloOEZkdFFEdmpkNFJKeU1wZW00RGVORFB5MVZWckFWT05GM1BYS2kwNVVHeHBBbHZXZw?oc=5",
+      "published": "2026-11-20T04:51:00+09:00",
+      "tags": [],
+      "event": "itv-central-catch-up",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "Star Wars - A New Hope dubbed into Welsh for the very first time",
+      "title_ko": "'스타워즈: 새로운 희망' 첫 웨일스어 더빙",
+      "summary_ko": "'스타워즈: 새로운 희망'이 처음으로 웨일스어로 더빙됐다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM1BQSUp5blY4b1FBODBXbW1mQzIzUktMYWJYX3p6SzRKLU1NWVJkaHpHNVJ2YTNoZ1p5VDVhb2dSd0ZqemhxU2ZFbjNYR1lHdXVteTRBU2lzZGlkd1pDRFg1cVZNeWprcTYtN19Kekw3a3lyQi1EbkpIZ2lyaG9UWGdTUjlmVHkyU3VEemQ0dUIwTmt1SlViVlBaMTNBSS1qRjlj?oc=5",
+      "published": "2026-11-20T04:48:42+09:00",
+      "tags": [],
+      "event": "star-wars-welsh-dub",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "Poundland faces administration as shelves run short of stock amid funding row | ITV News",
+      "title_ko": "파운드랜드, 자금 분쟁 속 재고 부족…법정관리 위기",
+      "summary_ko": "영국 할인점 파운드랜드가 자금 분쟁 속에 매장 재고가 부족해지며 법정관리(administration) 위기에 처했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd3BHbXVuMmFDa0FiYS1YaFpULXAtY05pQnZ2TU5RNUhsN3FzUXNFMmE5c0lFRWVvVV9meGRQcUZCSHBkRVhPc2cxTWh2bzVlRHQ4ZUlpUWgzNEJwZ1E0MHVnbWV3WXN5Q3M5Zzg5cy10bkZULTRlWDUtWU5OQkx4em1ET29BakdkM1pwbXF2LU5nRXVSNlVPdi1BbnJZZktLWnFhT1lnNVY4enR6SE1LVHVNNzA1Zw?oc=5",
+      "published": "2026-11-20T04:46:29+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "poundland-administration",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "Families in Cornish village in legal battle over 'poor' water supply",
+      "title_ko": "콘월 마을 주민들, '열악한' 상수도 문제로 법적 다툼",
+      "summary_ko": "콘월의 한 마을 가정들이 열악한 상수도 공급을 두고 법적 다툼을 벌이고 있다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcE5zS0dWNndZUWVqZXFHYWoyU0J2b0RpNnBLOFlDSlRIUXpCUGNvbFRaOXN1d0FIbEhlVUwtMUlVT1ljcnBXY0M0UzlEalJnTGhCbVo1UnQxY3lweUl2NlloVjFnMU1wRnlGRGpWR01xS09nQU5MUUFoVzYxTFIwY1E2S2ZDdFliLTgweENscklqd05DVjV2d3JybVpJaXotd2dkclZyNnY?oc=5",
+      "published": "2026-11-20T04:41:38+09:00",
+      "tags": [],
+      "event": "cornwall-water-supply-legal-battle",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "Back to school: La Houguette celebrate 50 years of learning",
+      "title_ko": "라 우게트 학교 개교 50주년 기념",
+      "summary_ko": "라 우게트 학교가 개교 50주년을 맞았다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbExZX3JNM0JoREo0RzNnMzhNU21oSnA4aWJaVGt5bWNJVDM4c3FGcEt0Zy1NbDZnaW4tYzMzOTV2NmxNTHJsZWx1Y1JKUWQ5QV9hYmNHZllqQzMxNzEwaUlWV19XZ3dVZ0dnbjh4dFN2Zzk3ODRneFZZal9GcnluSE01ajZQbWs3eXJTTlQ2UGNwczVLekRSX0FPZVBrdw?oc=5",
+      "published": "2026-11-20T04:30:33+09:00",
+      "tags": [],
+      "event": "la-houguette-50-years",
+      "state_media": false
+    },
+    {
+      "source": "ITV News",
+      "title_original": "Somerset private school's football programme creates pathway for young talent",
+      "title_ko": "서머싯 사립학교 축구 프로그램, 유망주 육성 통로 마련",
+      "summary_ko": "서머싯의 한 사립학교 축구 프로그램이 젊은 선수들의 진로 통로가 되고 있다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZlFpTDdpUk5Ld0EzLUZTUVNFbGoyMVZSU2ZnZm9lZFJyZ05SV2JzMzZFbkJKR1VObjN5SVRZSzAxeHJWMW5zNV8zS3pFSjVMMG0xbnB4eU55Y1p0c1NyUDJqcTR5MEJXNXhHMExYVWVCX1lhbzNwTjJmTkpEbElvLTlnWFI2M1hRbncwT2ROb0tHeXJaY3RXUDJBdng2NEZ6enM2N3N6ZDFxZW5pNjd5LWwyVUZkZw?oc=5",
+      "published": "2026-11-20T04:28:54+09:00",
+      "tags": [],
+      "event": "somerset-school-football",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "Myanmar committed ‘genocide’ against its Rohingya minority – top UN court",
+      "title_ko": "유엔 최고법원 \"미얀마, 로힝야 소수민족에 '제노사이드' 저질러\"",
+      "summary_ko": "국제사법재판소가 미얀마가 로힝야족에 대해 제노사이드를 저질렀다고 판단했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLVZ5UEt1LW44Z2UyazB4VmliMHE3c3RiRVYzZVBlNkg5dVcwcmlMSzU0QVp6VTV1Vl91X19qX29XeTBlMTVWVWtOVnhTcHY2MTNpUDgtTDlMdFdKRVQycUQ0blZWYkd3ZjZ2TjhFMnZJa01pdjIydmxzQ1ZYVVh3dE1oR2pKR0lNeFp3N2N1QTBlMDdpVGpkS2lseFJYck5J?oc=5",
+      "published": "2026-11-20T05:41:15+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "icj-myanmar-genocide-ruling",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "Anthropic: AI company behind Claude chatbot value rises above $2 trillion in stock market offering",
+      "title_ko": "클로드 챗봇 개발사 앤트로픽, 상장으로 기업가치 2조 달러 돌파",
+      "summary_ko": "앤트로픽의 기업가치가 주식시장 공모를 통해 2조 달러를 넘었다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYVBVNEJsUWN0bEVGdERZZnZsRFBxMlZJX2RxUGxlSG5MX0s2RzhKLTZjWkVUUUc5WmY2S0dsVDlEbmZldUNVWW1FMDV6S3U1WlkxRUE5WWg2a1N6c2FRMmlUaGQyM0VUX3BwcUhpZnV4Y1hhMUhvUHc1aXVNd3VPUDREeDVfalJ1SFQzTWp4cjRpMkoxbkhXeTljWFNnQ0tpeml2YV9ycmxTNEpaaHBpZVFiT0JlTllOTDdOT010VUNYRUNa?oc=5",
+      "published": "2026-11-20T05:35:55+09:00",
+      "tags": [
+        "stocks",
+        "industry",
+        "business"
+      ],
+      "event": "anthropic-ipo",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "Trump’s ‘photo op’ with Xi and Putin will ‘raise eyebrows among US allies’ – ex White House China expert",
+      "title_ko": "전 백악관 중국 전문가 \"트럼프의 시진핑·푸틴과 '사진 찍기'에 미 동맹국들 의아해할 것\"",
+      "summary_ko": "전 백악관 중국 전문가가 트럼프의 시진핑·푸틴 회동을 '사진 찍기용'이라며 미국 동맹국들의 우려를 살 것이라고 말했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOekw4WTBuRzYxS2c0S1gzS2FocmVXNm9NUzZmTjVfOE1LMEFQeWExcWxCUm5qdDA2Nkd3NmRiM1I5YjlSaURGeGVzQ1VYUVJtSk9pRXFHY3lLVDMwTmIwVzJHZVJNbHdMcFYxUTRRZVVwTmRxcFZjZzZYdDBzOUtoOVlTUVgtRWlPdjc3eU9mYXIyd1l2dXRkZ3RaVVVNWU5yVXRtc1ZVc2hER0Q0a2E4MHZCT24wWEpWQi1xNVNZTTY4NVZZM0E?oc=5",
+      "published": "2026-11-20T05:35:55+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "trump-xi-putin-summit",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "Trump, Xi and Putin issue ‘joint declaration of peace’ at China summit China",
+      "title_ko": "트럼프·시진핑·푸틴, 중국 정상회의서 '평화 공동선언' 발표",
+      "summary_ko": "트럼프, 시진핑, 푸틴이 중국에서 열린 정상회의에서 '평화 공동선언'을 발표했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEtSeU1RTlFtUmFVSG1qMnd5N2hiY19ITGJXdENRMWxDU0NnMHo3NEozRW10VkRiNXN6ZEFxbnJJX3VnT1B3b0FwcUdVZ0RqbUlCblROeHFvOGxic1YxMkpBMVp1RW9CY0ZzSXNjeTJYZW5JTGdzT2t4ajZhRGJyN2lwWllSdjRaVlFQZ3RLTjZuTmppZ0t0eVM4Z3pBbnloWVE5UmVB?oc=5",
+      "published": "2026-11-20T05:17:39+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "trump-xi-putin-summit",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "Joanne Young case an example of ‘a new facet of domestic abuse’ – Dame Nicole Jacobs",
+      "title_ko": "니콜 제이컵스 \"조앤 영 사건은 가정폭력의 새로운 양상\"",
+      "summary_ko": "가정폭력 커미셔너 니콜 제이컵스가 조앤 영 사건을 가정폭력의 새로운 단면을 보여주는 사례라고 말했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRmtZUGR1eTU1eUp5LVp3enlVbjVPeXJuNlg2TU9pZmNnVWtZSEhHaW8xTS1HQlpCX3dWWHpQajJLOHpFdEhYTzVQaHFlaVYwbDV2bHVEelNyYkl6eURkeC03ZUNYLTZOUm1RQllhZDJXUldvMi1GMW5WVXZtcHBmQWI4QVVQaFBwd3NrU2lOeFVnUkFhSGRLSW5EREljbVV3QzJVb1Z0UU5zTGVZdU84?oc=5",
+      "published": "2026-11-20T04:58:26+09:00",
+      "tags": [],
+      "event": "joanne-young-case",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "Inside Zaporizhzhia: The Ukrainian city under constant attack by Russia",
+      "title_ko": "자포리자 현장: 러시아의 끊임없는 공격 아래 있는 우크라이나 도시",
+      "summary_ko": "러시아의 지속적 공격을 받는 우크라이나 자포리자 현지 보도. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNXM5V0NZY08tZl91RndGaE93cHdNN3NMcU84RUV3QjdiWmd4b0p5UHVhNTAwUmFFc2hJTmtzLVhmM0RwNlBSSmMwRWJiLU5OUGFiWjNYTUZKeWtMS0I3ejRlMkhIUmxBeU9SbHhCTnBTYmdJd1JrODNPVzhyYUZ2VV9NSGhTbUo4dGNsZHo5d19HOFVsdDl5bzJ5MEhCTkxRTUE?oc=5",
+      "published": "2026-11-20T04:49:45+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "zaporizhzhia-under-attack",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "Countdown",
+      "title_ko": "카운트다운 (프로그램 페이지)",
+      "summary_ko": "채널4 프로그램 페이지. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTcDQ4dWpCMW1NbUw1ZnNWSGRYWlRLTWItZ3VnVVFqeVE4STJHNmFXTkJEekhyXzEzLWhsTzRxZE1MYnFLSnB3N1NLaWFuUXhfWGc1VmJKUGt3YzJOcVlpeXI5VGJXUXptOEFNY1E5YUY5LXM?oc=5",
+      "published": "2026-11-20T02:14:08+09:00",
+      "tags": [],
+      "event": "channel4-countdown-page",
+      "state_media": false
+    },
+    {
+      "source": "Channel 4 News",
+      "title_original": "What to watch after I Am Helen",
+      "title_ko": "'아이 엠 헬렌' 다음에 볼 만한 작품 (프로그램 추천)",
+      "summary_ko": "채널4 프로그램 추천 페이지. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxQWNmVVI4T0REVFZrVnAwZXdGZ2d1RDZac1pfdDdRM3h6Nl9zMl9ZeERvMHFUUC12X0VBZWpNMVFETVY2NDVTcm9qSHdITm1VUjUtUXp1bV8wZzhJTzI1TUxzRTdYQzdxSW9lSlFn?oc=5",
+      "published": "2026-11-20T00:52:59+09:00",
+      "tags": [],
+      "event": "channel4-what-to-watch",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Instant view: Anthropic hits $2 trillion market value in debut; major indexes fall",
+      "title_ko": "인스턴트 뷰: 앤트로픽, 데뷔일 시가총액 2조 달러…주요 지수는 하락",
+      "summary_ko": "앤트로픽이 상장 첫날 시가총액 2조 달러에 도달했으나 주요 지수는 하락했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQlRFLVpVV0l1RXpPXzhUdXlUT1ZHQ0NNeUplSXhERGJybFNNRDBVU1RDRktVeTBFYlhOV1dUbE1ldV92NS1zZDJCYkM1U24tMVI0clN1eFplWHdXQlZmX19zS2V2ZWE1Y0RGT3lLQ1dzUzJVS210N19zZXVZSHlVRUt6c3JhLVJ1bzk3cl9LZ0FPeVhmV3ZSYmdRSHpoc0p6VXB6cHhwX2FfQQ?oc=5",
+      "published": "2026-11-20T06:10:24+09:00",
+      "tags": [
+        "stocks",
+        "industry"
+      ],
+      "event": "anthropic-ipo",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Wall Street ends sharply lower as Anthropic's debut fails to revive AI fervor",
+      "title_ko": "앤트로픽 데뷔에도 AI 열기 못 살려…월가 급락 마감",
+      "summary_ko": "앤트로픽 상장이 AI 열기를 되살리지 못한 가운데 뉴욕 증시가 큰 폭으로 하락 마감했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5",
+      "published": "2026-11-20T06:01:02+09:00",
+      "tags": [
+        "stocks"
+      ],
+      "event": "anthropic-ipo",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Anthropic's blockbuster debut tests Wall Street's faith in AI boom",
+      "title_ko": "앤트로픽의 초대형 데뷔, AI 붐에 대한 월가의 믿음을 시험하다",
+      "summary_ko": "앤트로픽 상장이 AI 붐에 대한 월가의 신뢰를 시험대에 올렸다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5",
+      "published": "2026-11-20T05:54:36+09:00",
+      "tags": [
+        "stocks",
+        "industry"
+      ],
+      "event": "anthropic-ipo",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "JPMorgan, Visa, Mastercard say third-party vendors targeted in cyberattack",
+      "title_ko": "JP모건·비자·마스터카드 \"제3자 협력업체가 사이버 공격 표적\"",
+      "summary_ko": "JP모건, 비자, 마스터카드가 자사 제3자 협력업체들이 사이버 공격의 표적이 됐다고 밝혔다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1VHOTlUSTlCVmhEY0dIdi11T2tlc2xPMG16MHhDWkl0SnlBVFl0cHNiZlVPaEtNRERzYXJGa28yUG9DSVZobFBicGFwcXBUWG1icU1RSzYtRUpNV3V4YU1uNkVkNGtQN0tJOVpTMExic1VCMWIxMzhUZm5ISjN4eWJoRFBmSzhZM0x0YlJIRjBJYWJsNlF5WUMxN3NsUE9pWndFLVhTcG1saUE?oc=5",
+      "published": "2026-11-20T05:34:02+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "payments-vendor-cyberattack",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Somalia orders UAE ambassador to leave, citing 'invasion'",
+      "title_ko": "소말리아, '침략' 이유로 UAE 대사 추방",
+      "summary_ko": "소말리아가 '침략'을 이유로 아랍에미리트 대사에게 출국을 명령했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEg3aWNsUnlnMDBWSmdjZGtyWjJrMXROTHFNMXlycC15MU14bzV1UjUwVVJzR1JFek53RDVnV05DSkdtZnVzLUpQdFEyMGFLbDdpZEc0MlNUNzFFVHV2YkxLMnlHd2hBUVA2M1BlaW5OT041Y0s1OERhT1o3YTRXZ2d6aUl4NGs2cFVyRnQ0VmhLOXJUMkRCQWpmZ3FYODMwTU1iekNoelc?oc=5",
+      "published": "2026-11-20T05:09:48+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "somalia-expels-uae-ambassador",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Why China's EVs could throw a wrench into EU, UK trade talks",
+      "title_ko": "중국 전기차가 EU·영국 무역 협상의 걸림돌이 될 수 있는 이유",
+      "summary_ko": "중국산 전기차 문제가 EU-영국 무역 협상에 차질을 줄 수 있다는 분석. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmVWbXJnQkY3VjV6T2FGcnlvendxcEJmWXVhclphaGtWSW00enZvcmJ2Q0RpaVc5bjlhWU9FQzVEUUNfczNralRudWcwaHdVa2txWjJRblJFQWZKcjRpcWNlT1dadXFfTnBpLUpYSXFOMzBBNzZIQUtqaHpVVVVHcTVyVEdablZ0YWc?oc=5",
+      "published": "2026-11-20T05:07:57+09:00",
+      "tags": [
+        "industry",
+        "geopolitics"
+      ],
+      "event": "eu-uk-reset-summit",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "Top UN court finds Myanmar committed genocide against Muslim Rohingya",
+      "title_ko": "유엔 최고법원, 미얀마의 로힝야 무슬림 제노사이드 인정",
+      "summary_ko": "국제사법재판소가 미얀마가 무슬림 로힝야족에 제노사이드를 저질렀다고 판결했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbzZlQXBMbFU3Qzl0M2E2b0tJZHVzejVGQXczQTUxaHJmV1ZMZ3dVTWFGRzhsT1ZvNmdMMVRQVlNyMnVmX1RoUWo4UmtCT2RSX3Y5Q0JjWm9paEtmbXhCLXM0bTR4aXg5eUQ2dWRSZGlaT09VWTF6Q3FuUHFMR0ZqSmc3UWdDRHc2OHpJNE9pX2FmZldBME1xc29YRENBQkE0ZGhORjlTWkpyMzBCSzF5R21lRmcwMFFRNWltZ1FQYmdROXEtVUxXekp5RQ?oc=5",
+      "published": "2026-11-20T05:06:12+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "icj-myanmar-genocide-ruling",
+      "state_media": false
+    },
+    {
+      "source": "Reuters",
+      "title_original": "EXCLUSIVE: Trump official floated ceding Guyanese territory to Venezuela, sources say",
+      "title_ko": "[단독] 소식통 \"트럼프 행정부 당국자, 가이아나 영토 베네수엘라 할양 거론\"",
+      "summary_ko": "소식통에 따르면 트럼프 행정부 당국자가 가이아나 영토 일부를 베네수엘라에 넘기는 방안을 거론했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVnB0WnNKdXV5b0F3V0djaHNNT1JkMGoyVGlmZ2M0anZxRDFRNUEwNDFsS0EtY0VDTmRWSUlCeVNhNWpTZk80SFVGVzR0d1dRbHFRMjlmV2VCSUl0cENEYUx2MGJFckt1TV82S0ljVkdLREllQ2RMZ0RENjluQk43aE9FWHR0eHlTNmxZa2RweU4wY2F0ZXhKU25ENHpoTi15WkdZU2hhZXdUZVJFOUlTQlFhdTFJeTNuTWlxdzZR?oc=5",
+      "published": "2026-11-20T04:27:47+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "guyana-territory-venezuela",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "Anthropic shares jump 17% after record Wall Street listing",
+      "title_ko": "앤트로픽 주가, 월가 사상 최대 상장 후 17% 급등",
+      "summary_ko": "다리오 아모데이가 이끄는 AI 기업 앤트로픽이 규모를 늘린 공모로 810억 달러를 조달했다.",
+      "url": "https://www.ft.com/content/2b203097-7c61-464f-810f-962912a133dd?syn-25a6b1a6=1",
+      "published": "2026-11-20T06:02:09+09:00",
+      "tags": [
+        "stocks",
+        "industry",
+        "business"
+      ],
+      "event": "anthropic-ipo",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "Law firms that caved to Trump brace for scrutiny from new Congress",
+      "title_ko": "트럼프에 굴복한 로펌들, 새 의회의 조사 대비",
+      "summary_ko": "민주당이 대통령과 맺은 합의를 조사하자 해당 로펌들이 외부 변호사를 고용하고 있다.",
+      "url": "https://www.ft.com/content/4e712188-9dfc-4e2a-b997-3dacde95bf08?syn-25a6b1a6=1",
+      "published": "2026-11-20T05:35:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "law-firms-trump-deals-probe",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "Putin invites European leaders to Moscow for talks on Ukraine",
+      "title_ko": "푸틴, 우크라이나 협상 위해 유럽 정상들 모스크바 초청",
+      "summary_ko": "러시아 지도자는 전쟁 종식을 위한 강경한 요구를 완화할 의향이 없다는 신호를 보냈다.",
+      "url": "https://www.ft.com/content/dddd1db4-d9f2-452b-9be8-651b49a8b1c2?syn-25a6b1a6=1",
+      "published": "2026-11-20T03:53:08+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "putin-invites-europe-moscow",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "AMD shares fall after short seller report on China links",
+      "title_ko": "공매도 보고서 '중국 연계' 지적에 AMD 주가 하락",
+      "summary_ko": "엔비디아 스캔들 여파 속 헌터브룩의 경고 이후 이 칩 제조사의 주가가 최대 11% 하락했다.",
+      "url": "https://www.ft.com/content/69fd7870-a2cf-4e75-88bc-a1c4036efded?syn-25a6b1a6=1",
+      "published": "2026-11-20T03:40:23+09:00",
+      "tags": [
+        "stocks",
+        "industry",
+        "geopolitics"
+      ],
+      "event": "amd-short-seller-report",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "US stocks end more than 2% lower in wake of Anthropic debut",
+      "title_ko": "앤트로픽 데뷔 여파로 미 증시 2% 넘게 하락 마감",
+      "summary_ko": "AI 대기업 앤트로픽이 사상 최대 IPO로 810억 달러를 조달한 뒤 거래를 시작했다.",
+      "url": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
+      "published": "2026-11-20T01:19:06+09:00",
+      "tags": [
+        "stocks"
+      ],
+      "event": "anthropic-ipo",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "The key to Anthropic’s value",
+      "title_ko": "앤트로픽 가치의 열쇠",
+      "summary_ko": "이 AI 기업은 IPO 이후 완전한 기업용 기술 플랫폼이 되어야 한다.",
+      "url": "https://www.ft.com/content/aa8290dc-a20a-45af-97ab-1e71f97f236a?syn-25a6b1a6=1",
+      "published": "2026-11-19T22:47:00+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "anthropic-ipo",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "Xi, Trump and Putin hail ‘groundbreaking’ meeting",
+      "title_ko": "시진핑·트럼프·푸틴, '획기적' 회동 자평",
+      "summary_ko": "세계 3대 핵보유국이 핵확산 방지 협의에 합의했다.",
+      "url": "https://www.ft.com/content/3fde6008-d9c4-46a3-89f8-0f7611cd9b3a?syn-25a6b1a6=1",
+      "published": "2026-11-19T22:00:44+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "trump-xi-putin-summit",
+      "state_media": false
+    },
+    {
+      "source": "Financial Times",
+      "title_original": "Ukraine’s western allies meet in Berlin to counter Yalta 2.0 optics",
+      "title_ko": "우크라이나 서방 동맹국들, '얄타 2.0' 인상 불식 위해 베를린 회동",
+      "summary_ko": "러시아·중국·미국 정상이 선전에서 만나는 동안 독일은 40개 대표단을 초청해 키이우에 대한 연대를 과시했다.",
+      "url": "https://www.ft.com/content/b102bd7f-175c-4cd3-8f05-6c9dd10115e1?syn-25a6b1a6=1",
+      "published": "2026-11-19T20:48:38+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "berlin-ukraine-allies-summit",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Arsenal v OL Lyonnes: Women’s Champions League – live",
+      "title_ko": "아스널 대 OL 리오네스: 여자 챔피언스리그 – 생중계",
+      "summary_ko": "여자 챔피언스리그 경기 실시간 중계.",
+      "url": "https://www.theguardian.com/football/live/2026/nov/19/arsenal-v-ol-lyonnes-womens-champions-league-live",
+      "published": "2026-11-20T06:07:27+09:00",
+      "tags": [],
+      "event": "arsenal-lyonnes-uwcl",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Anthropic valued at $2tn as shares begin trading after record-breaking IPO – business live",
+      "title_ko": "앤트로픽, 사상 최대 IPO 후 거래 시작하며 기업가치 2조 달러 – 비즈니스 라이브",
+      "summary_ko": "앤트로픽 IPO와 경제·금융 뉴스 실시간 보도. 앤트로픽은 사상 최대 IPO 후 1.5조 달러 가치로 거래를 시작할 예정이었으며, XTB 리서치 디렉터 캐슬린 브룩스는 앤트로픽이 1.5조 달러 가치에 걸맞게 성장해야 한다고 주장했다.",
+      "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+      "published": "2026-11-20T06:06:54+09:00",
+      "tags": [
+        "stocks",
+        "industry",
+        "business"
+      ],
+      "event": "anthropic-ipo",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Alexander Zverev v Arthur Fils: ATP Finals tennis group stage – live",
+      "title_ko": "알렉산더 즈베레프 대 아르튀르 피스: ATP 파이널스 조별리그 – 생중계",
+      "summary_ko": "토리노 ATP 파이널스 5일차 실시간 중계.",
+      "url": "https://www.theguardian.com/sport/live/2026/nov/19/alexander-zverev-v-arthur-fils-atp-finals-group-stage-live",
+      "published": "2026-11-20T05:59:43+09:00",
+      "tags": [],
+      "event": "atp-finals-zverev-fils",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+      "title_ko": "영국-EU 관계 재설정 협상, 정상회의 앞두고 '막판까지' 간다",
+      "summary_ko": "영국은 청년 이동 제도에서 양보한 것으로 알려졌으며, 양측 협상단은 매년 EU 시민 10만 명의 영국 입국을 허용하는 새 이동 제도에 잠정 합의했다. 더 넓은 합의를 위한 협상은 계속되고 있다.",
+      "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+      "published": "2026-11-20T05:52:05+09:00",
+      "tags": [
+        "legislation",
+        "geopolitics"
+      ],
+      "event": "eu-uk-reset-summit",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Grand Theft Auto fans skip work and pull all-nighters to play new instalment",
+      "title_ko": "GTA 팬들, 신작 즐기려 결근·밤샘",
+      "summary_ko": "기대작 GTA VI가 출시되자 전 세계 게이머들이 밤을 새우고 직장·학교를 빠지며 심야 출시 행사에 참석했다.",
+      "url": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-six-fans-skip-work-pull-all-nighters",
+      "published": "2026-11-20T05:07:23+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "gta-vi-launch",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Judge bans Trump’s restrictions on HIV funds for transgender patients",
+      "title_ko": "법원, HIV 기금 관련 트럼프의 트랜스젠더 환자 제한 조치 금지",
+      "summary_ko": "미 연방 판사는 트럼프 행정부가 연방 HIV 치료 기금을 받는 의료기관에 트랜스젠더 환자의 성별 정체성 인정이나 성별 확정 치료 제공을 금지하는 제한을 둘 수 없다고 판결했다.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/hiv-treatment-trans-patients-trump",
+      "published": "2026-11-20T05:02:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "trump-hiv-funds-transgender-ruling",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Rugby players face anxious wait as judges consider state of concussion case",
+      "title_ko": "럭비 선수들, 뇌진탕 소송 진행 여부 판단 기다리며 불안",
+      "summary_ko": "전직 럭비 선수 수백 명이 경기 관리 단체의 과실로 신경 손상을 입었다며 소송을 냈고, 피고 측은 지연을 이유로 소송 기각을 요구하고 있다.",
+      "url": "https://www.theguardian.com/sport/2026/nov/19/rugby-union-league-players-face-anxious-wait-judges-retire-consider-state-of-concussion-case",
+      "published": "2026-11-20T04:57:19+09:00",
+      "tags": [],
+      "event": "rugby-concussion-case",
+      "state_media": false
+    },
+    {
+      "source": "The Guardian",
+      "title_original": "Thomas Frank admits he has a point to prove after taking reins at Crystal Palace",
+      "title_ko": "토마스 프랑크, 크리스털 팰리스 지휘봉 잡으며 \"증명할 것 있다\"",
+      "summary_ko": "2월 토트넘에서 경질된 프랑크 감독이 피에르 사주의 후임으로 최하위 크리스털 팰리스를 맡아 강등권 탈출을 목표로 한다.",
+      "url": "https://www.theguardian.com/football/2026/nov/19/thomas-frank-crystal-palace-premier-league",
+      "published": "2026-11-20T04:50:10+09:00",
+      "tags": [],
+      "event": "thomas-frank-crystal-palace",
+      "state_media": false
+    },
+    {
+      "source": "The Telegraph",
+      "title_original": "Myanmar guilty of genocide, International Court of Justice rules",
+      "title_ko": "국제사법재판소 \"미얀마, 제노사이드 유죄\"",
+      "summary_ko": "헤이그 재판소는 군부 세력이 로힝야 무슬림 소수민족 1만 명을 '폭력적으로 살해'했다고 판단했다.",
+      "url": "https://www.telegraph.co.uk/global-health/terror-and-security/myanmars-junta-guilty-of-genocide-says-worlds-highest-court/",
+      "published": "2026-11-19T20:26:38+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "icj-myanmar-genocide-ruling",
+      "state_media": false
+    },
+    {
+      "source": "The Telegraph",
+      "title_original": "England feast on Australia chaos to land early Ashes blow",
+      "title_ko": "잉글랜드, 호주의 혼란 틈타 애시스 초반 일격",
+      "summary_ko": "애시스 시리즈에서 잉글랜드가 호주의 혼란을 틈타 초반 우위를 잡았다. (제목 기준)",
+      "url": "https://www.telegraph.co.uk/cricket/2026/11/18/australia-vs-england-score-updates-third-odi-hobart/",
+      "published": "2026-11-19T01:48:22+09:00",
+      "tags": [],
+      "event": "ashes-england-australia",
+      "state_media": false
+    },
+    {
+      "source": "The Telegraph",
+      "title_original": "Households face back-to-back interest rate rises",
+      "title_ko": "가계, 연속 금리 인상 직면",
+      "summary_ko": "가계가 연속적인 금리 인상에 직면해 있다. (제목 기준)",
+      "url": "https://www.telegraph.co.uk/business/2026/11/18/uk-inflation-cpi-bank-of-england-interest-rates-ftse-100/",
+      "published": "2026-11-18T22:46:06+09:00",
+      "tags": [
+        "monetary",
+        "forecast"
+      ],
+      "event": "uk-back-to-back-rate-rises",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Stem cells injected into brains of Alzheimer’s patients in world first",
+      "title_ko": "세계 최초로 알츠하이머 환자 뇌에 줄기세포 주입",
+      "summary_ko": "알츠하이머 환자의 뇌에 줄기세포를 주입하는 시술이 세계 최초로 이뤄졌다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1lNTGI4X1Q4TDFaTGM2SllLV0VORjVpRjZtSjFIVmpRV2NIUG5GWk9xLThSVU9xU1RSb01UTDFXU2x4UVRIVWU2NkVBZlJkekVyYVB5OHZ6czRGZnJFS1pzVGVaT2RxbGkwN1Q2TVZEM0Y3NU1pTHlwTHVRN0hMN29rcXJhSThvdlFDRGdn?oc=5",
+      "published": "2026-11-20T05:53:39+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "alzheimers-stem-cell-trial",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Joanne Young rape trial: four men found guilty of sexual assault",
+      "title_ko": "조앤 영 강간 재판: 남성 4명 성폭행 유죄",
+      "summary_ko": "조앤 영 강간 재판에서 남성 4명이 성폭행 혐의로 유죄 판결을 받았다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWxSZTJ6OXljMENmSUk2YjVoc0J6Ty1oa20zbXV1TTJUZDEyeTNIWks1X3NxMjhfaGhNQUhVSlBfcmRnRldrTngxd2IwOWtZSDg1SkozdWlYWVU2TlU1aDNlckxYTHNweEhOUWZ4U1B0TW1YUWlMejVraHZaX2s2Nlp2MFRvV1ZvdHMyZVZzN2hYczhRWlhlWEtKdEFHeEpBcEE?oc=5",
+      "published": "2026-11-20T05:50:00+09:00",
+      "tags": [],
+      "event": "joanne-young-case",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Latest news & breaking headlines | The Times and The Sunday Times",
+      "title_ko": "최신 뉴스·속보 | 더 타임스 (기사 아님)",
+      "summary_ko": "더 타임스 메인 페이지. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE1rUkwwNVRWQUpTalMyTmJSWVRxR2VTTHQ2RmV1amVFSzlPXzY3SUdfTzVzM0dNNXVzUzZscWV3?oc=5",
+      "published": "2026-11-20T05:30:00+09:00",
+      "tags": [],
+      "event": "times-homepage",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Steve Borthwick blend is maturing nicely and Will Joseph is ideal bolter",
+      "title_ko": "스티브 보스윅의 선수 조합 무르익어…윌 조지프는 이상적인 깜짝 발탁",
+      "summary_ko": "잉글랜드 럭비 대표팀 선수 구성에 관한 칼럼. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa3ZYNkJ2RHZMdUlnRGNTdTRnUldZa2o4ci1iZEswRnpqRFc2UGpYVERqYmFjeXZ2VFlGVXN6M3dsdFB2QWJLRGI4OHJfWjV6UXZUUjMtQk5Sc3FiZ1IzblFlNUJHRHdqU3JkRS1XY3B6TmtweHdNaHlGWlBBcW52ZnhnOF9sX3JBQTBDNlpmbXNxV29BNm42elZaWU9CUUM0ZXNwMjh4YkVwaTlUeC1rbA?oc=5",
+      "published": "2026-11-20T05:20:00+09:00",
+      "tags": [],
+      "event": "england-rugby-borthwick",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "The collapse of Christian faith is loss to all of society",
+      "title_ko": "기독교 신앙의 붕괴는 사회 전체의 손실 (칼럼)",
+      "summary_ko": "기독교 신앙의 쇠퇴가 사회 전체의 손실이라는 논평. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZXRmUjd2akxUV0lFOTctVUFNRnhyVVZ1amJfM2Q2OVpkLTMzS2lCTG05S0JXVzZxb01Cbll0c1JHaXBBc0JMNUEtQ1haNjVjb1ZsOWNGai10dnRFWDFHT3Z5dFhWUE5YOTBwdG1DX3dsZlV6SjEtMm5CQmo2MEp2TEs5Nll3aWFTRW5RVkxucEpmMW5vNHZEOUVNOUpCQkd1?oc=5",
+      "published": "2026-11-20T04:29:45+09:00",
+      "tags": [],
+      "event": "times-christian-faith-column",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Americans could be forgiven for freaking out",
+      "title_ko": "미국인들이 불안해하는 것도 무리가 아니다 (칼럼)",
+      "summary_ko": "미국인들이 불안해할 만하다는 논평. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX00tek84azAxYjBmdWdIVFhiUGtHTUNndUQ1V3FIeTQyUE1Ga2dsMTlTLXZ5S0ZWeWs2S3VuRVoyMktfajhFV1c2czN3WmxoUndieWR4N1JZWXZzdkQtanplcXVYbzdITlhibHJMYUtFTkhNb0JfRmt4OEw1TlNIaEpua1NnZ0ptcENBMFYtTlVQZUc4d21fUA?oc=5",
+      "published": "2026-11-20T04:29:30+09:00",
+      "tags": [],
+      "event": "times-americans-freaking-out",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Dan Sheehan has been No8 only once. Playing him there against Boks is risk",
+      "title_ko": "댄 시핸 8번 기용은 단 한 번뿐…스프링복스전 8번 기용은 모험",
+      "summary_ko": "아일랜드 럭비 댄 시핸의 포지션 기용에 관한 칼럼. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaDB6YlFzX09OblBVREdDa09ocXNYRk1EMWYwRHdDcmJrVzhGQThMM29QY0VjR1JmVWFUWUI2YWp5dnYzdGMzYUxlNVdmRW8yTVFZcUhHZno3YmZtZ2tGYWluRjhHNzF1VkhrUXY3eXhmbU1pYmNPYll1d1Voei16eUZkUE9mNk05eEZFbS1iTTJEVVhhWm1CTXpIOFNBMmxJR3MtanYxcUZadzAycFNSc0U4LWxxRHpPa3c2YVZSdGJzZw?oc=5",
+      "published": "2026-11-20T04:00:00+09:00",
+      "tags": [],
+      "event": "sheehan-no8-springboks",
+      "state_media": false
+    },
+    {
+      "source": "The Times",
+      "title_original": "Did Trump, Putin and Xi just prove they’re less powerful than they think?",
+      "title_ko": "트럼프·푸틴·시진핑, 스스로 생각만큼 강하지 않음을 증명했나? (칼럼)",
+      "summary_ko": "트럼프·푸틴·시진핑 회동에 관한 논평. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTERsRDFsR0pReDBfcFhrRk1UdkZBemlBVGpNZTVrRVZrMUdGQVpKeF9IdzZKeHNRMk1zN1psWUVzRmJwdE5vS3BDOWp3SU14NV9uUUxiM0x4LTNnaG1aNGc0aVkxdFp1OWJUUWNOUDdvZGNzTndVSWVHSDg3WmJHZmIteTdoYW9xa3E3QTFsbXR6YjlPZWd3N1pxVQ?oc=5",
+      "published": "2026-11-20T03:55:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "trump-xi-putin-summit",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Trump, Putin and Xi have sent Europe a humiliating message",
+      "title_ko": "트럼프·푸틴·시진핑이 유럽에 굴욕적 메시지를 보냈다 (칼럼)",
+      "summary_ko": "트럼프·푸틴·시진핑 회동이 유럽에 굴욕적인 메시지라는 논평. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb29mLVhidHJNQll0eDRyVkRTZlVNQlpmMXNIM0NlQU1kcDJNdGV6RmlXZ29XOTFxbHJYU3pGNEpQNGdJTnc2bEl2OXVUNDdjSE4tODdOdGh5dld1b0FKOXpsaVNBeDV0OG5VaGktRGNXN2hLbnlIZ29MU0x4MWI5ZGlEUUZJUTlPVVRNaFcyNWN2R3dpbmE2dDlqUGpBUQ?oc=5",
+      "published": "2026-11-20T04:51:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "trump-xi-putin-summit",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Visa, Mastercard and Chase hit by cyberattack exposing customer data",
+      "title_ko": "비자·마스터카드·체이스, 사이버 공격으로 고객 정보 노출",
+      "summary_ko": "비자, 마스터카드, 체이스가 사이버 공격을 받아 고객 데이터가 노출됐다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT1BEbnp3M1RLYzBDVE1sQ3V5VDE2X0JsODczbXpSZHZqTkVDMVl2RXppZDc3UDZzZEZGVUNpTTN6NURhdHB0YlJGQTFOQk5CbjQxVzBRS3JqVFFFVlBpbFE4VWF0dGhyZjl2RUN2UEZDY1htanlUN3NRQ25xSG9sS1RmN1BTWjFhMWVJMXpMX2pESGdV?oc=5",
+      "published": "2026-11-20T04:45:00+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "payments-vendor-cyberattack",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Trump’s anti-DEI ex-civil rights chief wants ‘bigotry’ out of the GOP",
+      "title_ko": "트럼프의 반DEI 전 민권 책임자 \"공화당에서 '편견' 몰아내야\"",
+      "summary_ko": "트럼프 행정부의 반DEI 성향 전 민권 담당 책임자가 공화당에서 편견을 없애야 한다고 말했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNTlDLXh1UWZBYllhWWtTMzBCaXYtb2FsaU93SkJjMHZKQkQyZ0ZGUVUyMjR6MERXd214ZWpjZ2tGYmVEOFplR1BIcDhDQ0QtUURBSHFCdElnMzg2NEFKbUVwNmxfNFRnc3pZV2dXc25lZDV5Qk15ejEteTRUV0tZSk53ZHJqU0tUVDFsS0luWlFRbmtlQkpNOUh1aGVVUFQ0T2Z2U0xNYzBFNFJ5S2pWajNzbnFkNTQ?oc=5",
+      "published": "2026-11-20T03:58:00+09:00",
+      "tags": [],
+      "event": "ex-civil-rights-chief-gop-bigotry",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Trump scores another legal win as judge makes ruling in New York Times case",
+      "title_ko": "트럼프, 뉴욕타임스 소송 관련 판결로 또 법적 승리",
+      "summary_ko": "뉴욕타임스 관련 사건에서 판사가 트럼프에게 유리한 판결을 내렸다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWXdSa2d6VFZpUkJ6QWJDMW5DcDZGQ2M4eHc1R2pGOUFOX3ZPRlhYOVhzV3drMnVpVTNoSmU2UnpGc053YlJmOC01bHYxTkNVSWszMEdVbjgwOEo4SzJZYmdjMy16UDRVLU0wZjdqakVoc0hCbHdqeWZYT2oyQjJQb3pwdE1OSmxteUtwTE43Q3RneGV6M2M4TFBGMEJBQk5FN09zSzlYZw?oc=5",
+      "published": "2026-11-20T03:57:00+09:00",
+      "tags": [],
+      "event": "trump-nyt-case-ruling",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Trump team reportedly growing frustrated with Markwayne Mullin’s performance",
+      "title_ko": "트럼프 측, 마크웨인 멀린의 성과에 불만 커져 (보도)",
+      "summary_ko": "트럼프 측이 마크웨인 멀린의 업무 성과에 점점 불만을 갖고 있다는 보도. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR3dyRWYxTDA2WGZGRkVULXhWdFR1dnF3SmwwQ1N1NWdna3VGR3ZpNTZqRzBkMHh6MEFtd2JqZ1cyS2tnQ0x4R242Sng1bTBkQi1nWDFXZmlNVGltUWRPLVlZRFpubEVYNHpIc0hzWWFiLWlZeDZGaldHWmRGeUJybkg3VEwyY3dNdjVkMlJBR19ERHozNW9udzAwX0ZhYTBWcWc?oc=5",
+      "published": "2026-11-20T03:48:00+09:00",
+      "tags": [],
+      "event": "trump-team-mullin-frustration",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "London Ambulance Service declares critical incident after 999 calls surge",
+      "title_ko": "런던 구급차 서비스, 999 신고 급증에 중대 사건 선포",
+      "summary_ko": "999 신고 급증으로 런던 구급차 서비스가 중대 사건을 선포했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWkVpNTlkZVhYNFA2VklDOTJPRDdLQTUxUzFzMFhuTUZZVUphMFRuZnFBZTFObHFWMWZ3NkNtREZxQXBhVWlpSVVPTEJCYWhmQzh4ZFRFNlBVYllyUndKUE1yQzZRODFDdkJvbnUxSGdHU0tWN3Q2b21lWV9DT004OFZfekpER2Q2VXpDU2taQ2E2amRqX3g2d1dPSVFNcVB6ZHVWaGtnWDNURDAtYkp5M0lIMEQ?oc=5",
+      "published": "2026-11-20T03:36:00+09:00",
+      "tags": [],
+      "event": "london-ambulance-critical-incident",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Entire Virginia school district shuts down after learning 500 staffers weren’t checked for child abuse complaints",
+      "title_ko": "버지니아 교육구 전체 휴교…직원 500명 아동학대 신고 이력 미확인 드러나",
+      "summary_ko": "버지니아의 한 교육구가 직원 500명에 대한 아동학대 신고 조회가 이뤄지지 않은 사실을 알고 전면 휴교했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUW9SMndEc1NhRUtkREhjOUw1UlIwTXhQcUNDemQyMTdmMDZ1b2FYZHhxX2NWUXlMUlFoODIwRjFseUtIMVBBYzNMRFJrS1JrRDA5azVCV0hNNWJfN1d4eUEyQ1FDNGZncVZTZTJjZC1sb0RKTFhjbXAwUXBPTTdDZllWR0RhY01NQUFMVHN0STBValZaMks4Nm8wcEt0QU96SWszOHhjTllLcUNmbE03MV94YXRtT2xnUFczc1NIQnZyb3c?oc=5",
+      "published": "2026-11-20T03:17:00+09:00",
+      "tags": [],
+      "event": "virginia-school-district-shutdown",
+      "state_media": false
+    },
+    {
+      "source": "The Independent",
+      "title_original": "Argentina calls Princess Anne’s visit to Falkland Islands a ‘provocation’ as tensions rise",
+      "title_ko": "아르헨티나, 앤 공주 포클랜드 방문에 '도발' 반발…긴장 고조",
+      "summary_ko": "아르헨티나가 앤 공주의 포클랜드 제도 방문을 '도발'이라고 비판했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa19JT2Y3akZTS2pCdDd4eTlTQjdrS2JvczFobVA4LWVIcHN5bjJVam94M1BzVWNPcXpCOXRYbUZGZW1oNUtSS1A1ZVJVSkF5ZV9Kc2JxREdoOHpBQlMzc1g2Q1ZfWGZKZGF6Um1yWGwzMGZCUGVpS3NiTE44Mm9PU1c5SHlha2N0NGFPMU81dEU4Vk9oMkNWWGxVSXVXSXphbm8wbkdjcw?oc=5",
+      "published": "2026-11-20T03:12:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "princess-anne-falklands-visit",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "Axis of malice | November 21st 2026",
+      "title_ko": "악의의 축 | 2026년 11월 21일호",
+      "summary_ko": "이코노미스트 2026년 11월 21일호 기사 제목(내용 미상). (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NSXdGV3lQcVVMYlRha1M2MXBJX1BwREQtY2ZzbjdGcTZuSHN5RkY1UzJFbkdMb2Z1em94YXZhX0Vza1JwRFljdDg3Y3BWSmlMdGxqUlVJZTNkTVFob1NJ?oc=5",
+      "published": "2026-11-20T06:02:16+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "economist-axis-of-malice",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "World in Brief: Anthropic’s IPO price; Trump, Xi and Putin to meet in China",
+      "title_ko": "월드 인 브리프: 앤트로픽 IPO 가격; 트럼프·시진핑·푸틴 중국서 회동 예정",
+      "summary_ko": "앤트로픽 IPO 가격과 트럼프·시진핑·푸틴의 중국 회동 예정 소식을 담은 브리핑. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOelpsZlJ5MjBWRERCMDhjV0tWaGl2QVNMQ2ZGTHFXME1kRFZIVS1RZUJaaUREVEJodFI0VGNxM3JHRmNyVzZwSHk2b2lsenJfOWUxblhMZW1KZWw0ZGVYWjRaOXA3a3p2Wlh5R0ZTRy00SUQ2eGI4Zk5pRVdiYVhYaDNRVTRmN3BtTWo1WU5BZkhiRERoNlFR?oc=5",
+      "published": "2026-11-20T05:34:20+09:00",
+      "tags": [
+        "stocks",
+        "geopolitics"
+      ],
+      "event": "anthropic-ipo",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "Leaders",
+      "title_ko": "리더스 (섹션 페이지)",
+      "summary_ko": "이코노미스트 섹션 페이지. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSXBkV2h6SXo1NmZDRE1BRl9jR3lacEY1S1VtS0l0SmJtWWx3V2JsclhieTR4WjA0R0FZdjJ4MWlyTVZwS0g1UERvOWhnMndlR3RPcVV2RkczaGx6ZkwxTTZXT09aQi0zMFlkSUxXa09ZSWo0RDVtamJKUHJPX0ttVTF2Yzd0TlRXMjVR?oc=5",
+      "published": "2026-11-20T05:23:35+09:00",
+      "tags": [],
+      "event": "economist-section-leaders",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "Welfare",
+      "title_ko": "복지 (섹션 페이지)",
+      "summary_ko": "이코노미스트 섹션 페이지. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV3JFNDREQjFIZGVWOHU1NFBVdkY2VGhlenB5NU4zREh1NHRrWjBfaWtzX29OMlJfMlNCUVBOTC1ZdHNNYm1SYUpaQ0Y1djJOTFAyQmRKR280UUJMWnMyTDJPdS1MRFpjWUlzYUNMTUlwaVFTbF9TaDRsSVRlN0JZVkN4Nkptb3JxUVRn?oc=5",
+      "published": "2026-11-20T05:03:55+09:00",
+      "tags": [],
+      "event": "economist-section-welfare",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "Leaders",
+      "title_ko": "리더스 (섹션 페이지)",
+      "summary_ko": "이코노미스트 섹션 페이지. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaldmQmpMMkh1aGtWWFlpMnk1MEFWR1g5LVJNa09xTkh0NXRsOW9uUHVXWHJLUkdiV0JOMHVQMTR3cGJTaW1ObWJxQmFFQVdOeC05cjlZT2ZmNkhRZkhJU0t6LWc1MHVVM0NXNzVQLV90anhXSUF2ZElCSFVBU2REeDFFYlRWXzRiczhz?oc=5",
+      "published": "2026-11-20T05:02:32+09:00",
+      "tags": [],
+      "event": "economist-section-leaders",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "Business",
+      "title_ko": "비즈니스 (섹션 페이지)",
+      "summary_ko": "이코노미스트 섹션 페이지. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRjJ3MXh0MlZHZVVpaU95Q2d2N2ZmNXdyNmpZb1NYbWtGaFl5NHFmdW90aXJlcWpYWVRpS1VMaWhfUUw4ZFo1UjFFUTh5X0pyUW9naHpxMnRvbTdUdXByWFVaanVpclRsNTNVbjFGVmFKMkg3UDQ5LWZzTmwxdkh6QUdmUElORUhkQnV2SQ?oc=5",
+      "published": "2026-11-20T05:01:32+09:00",
+      "tags": [],
+      "event": "economist-section-business",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "Russia",
+      "title_ko": "러시아 (섹션 페이지)",
+      "summary_ko": "이코노미스트 섹션 페이지. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOemdmUm5MY2FXT3hnS3p6aWFiQjdHcHRYd0NoVHBqTXRfd0pfUjQyY0lxV3Z1OS0xaXVnVWwxTF9QN0E2djdCVGZBZ2pQUXlxMThBbkI1TnhiNXpSYXVIbXBWOG9jYVR2MTFMNVBwMm4xR2k5UllscGM1YXFNekdZMzV1a2REUkxIdlE?oc=5",
+      "published": "2026-11-20T04:53:02+09:00",
+      "tags": [],
+      "event": "economist-section-russia",
+      "state_media": false
+    },
+    {
+      "source": "The Economist",
+      "title_original": "Defence",
+      "title_ko": "국방 (섹션 페이지)",
+      "summary_ko": "이코노미스트 섹션 페이지. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMnR4NFJza2Z6WGZiRkU2UnhwVnNrQUlLQjdPMndRVF8ydnNTeG1hUkRFRTdYNHVqUnVUWjJWOGhnRnVjcXRVZVhuNHQ2bkRNaThiMnFGYUMzbkE0MmpfU2pnX2RTSVdCSnNCeUM3c0N2bVE0RGpVYmJBU0hlbzVxNFRrTjFlQXZrZTU4?oc=5",
+      "published": "2026-11-20T04:52:48+09:00",
+      "tags": [],
+      "event": "economist-section-defence",
+      "state_media": false
+    }
+  ],
+  "events": [
+    {
+      "event": "anthropic-ipo",
+      "title_ko": "클로드 챗봇 개발사 앤트로픽, 상장으로 기업가치 2조 달러 돌파",
+      "sources": [
+        "Channel 4 News",
+        "Reuters",
+        "Financial Times",
+        "The Guardian",
+        "The Economist"
+      ],
+      "count": 9
+    },
+    {
+      "event": "icj-myanmar-genocide-ruling",
+      "title_ko": "보언: 미얀마 제노사이드 판결은 역사적이며 광범위한 파장 가능",
+      "sources": [
+        "BBC",
+        "Channel 4 News",
+        "Reuters",
+        "The Telegraph"
+      ],
+      "count": 4
+    },
+    {
+      "event": "trump-xi-putin-summit",
+      "title_ko": "전 백악관 중국 전문가 \"트럼프의 시진핑·푸틴과 '사진 찍기'에 미 동맹국들 의아해할 것\"",
+      "sources": [
+        "Channel 4 News",
+        "Financial Times",
+        "The Times",
+        "The Independent"
+      ],
+      "count": 5
+    },
+    {
+      "event": "berlin-ukraine-allies-summit",
+      "title_ko": "유럽 정상들 \"우크라이나 전쟁 종식 위해 러시아와 협상 준비\"",
+      "sources": [
+        "BBC",
+        "Sky News",
+        "Financial Times"
+      ],
+      "count": 3
+    },
+    {
+      "event": "eu-uk-reset-summit",
+      "title_ko": "총리실 \"EU-영국 협상 막판까지 간다\"",
+      "sources": [
+        "BBC",
+        "Reuters",
+        "The Guardian"
+      ],
+      "count": 3
+    },
+    {
+      "event": "london-ambulance-critical-incident",
+      "title_ko": "런던 구급차 서비스 '중대 사건' 선포",
+      "sources": [
+        "Sky News",
+        "The Independent"
+      ],
+      "count": 2
+    },
+    {
+      "event": "joanne-young-case",
+      "title_ko": "니콜 제이컵스 \"조앤 영 사건은 가정폭력의 새로운 양상\"",
+      "sources": [
+        "Channel 4 News",
+        "The Times"
+      ],
+      "count": 2
+    },
+    {
+      "event": "payments-vendor-cyberattack",
+      "title_ko": "JP모건·비자·마스터카드 \"제3자 협력업체가 사이버 공격 표적\"",
+      "sources": [
+        "Reuters",
+        "The Independent"
+      ],
+      "count": 2
+    },
+    {
+      "event": "mudryk-doping-dispute",
+      "title_ko": "셰우첸코, 무드리크 측에 '근거 없는 중상' 반박",
+      "sources": [
+        "BBC"
+      ],
+      "count": 1
+    },
+    {
+      "event": "england-uefa-fine-chants",
+      "title_ko": "잉글랜드, 스페인 원정 팬들의 반가톨릭 구호로 벌금",
+      "sources": [
+        "BBC"
+      ],
+      "count": 1
+    },
+    {
+      "event": "pochettino-man-utd-drone",
+      "title_ko": "포체티노의 맨유 첫 훈련, 드론으로 촬영돼",
+      "sources": [
+        "BBC"
+      ],
+      "count": 1
+    },
+    {
+      "event": "uk-insulation-scheme-faults",
+      "title_ko": "정부 단열 사업 주택 90%에서 결함 미수리",
+      "sources": [
+        "BBC"
+      ],
+      "count": 1
+    },
+    {
+      "event": "eu-ai-cyberattack",
+      "title_ko": "EU, 'AI 기반' 사이버 공격 피해 공개",
+      "sources": [
+        "Sky News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "florida-record-rainfall",
+      "title_ko": "건기인데도 폭풍으로 기록적 강우 내린 플로리다",
+      "sources": [
+        "ITV News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "itv-competitions-page",
+      "title_ko": "ITV 경품 이벤트 최신 목록 (기사 아님)",
+      "sources": [
+        "ITV News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "itv-central-catch-up",
+      "title_ko": "ITV 뉴스 센트럴(이스트미들랜즈) 다시보기 - 11월 19일 목요일",
+      "sources": [
+        "ITV News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "star-wars-welsh-dub",
+      "title_ko": "'스타워즈: 새로운 희망' 첫 웨일스어 더빙",
+      "sources": [
+        "ITV News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "poundland-administration",
+      "title_ko": "파운드랜드, 자금 분쟁 속 재고 부족…법정관리 위기",
+      "sources": [
+        "ITV News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "cornwall-water-supply-legal-battle",
+      "title_ko": "콘월 마을 주민들, '열악한' 상수도 문제로 법적 다툼",
+      "sources": [
+        "ITV News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "la-houguette-50-years",
+      "title_ko": "라 우게트 학교 개교 50주년 기념",
+      "sources": [
+        "ITV News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "somerset-school-football",
+      "title_ko": "서머싯 사립학교 축구 프로그램, 유망주 육성 통로 마련",
+      "sources": [
+        "ITV News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "zaporizhzhia-under-attack",
+      "title_ko": "자포리자 현장: 러시아의 끊임없는 공격 아래 있는 우크라이나 도시",
+      "sources": [
+        "Channel 4 News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "channel4-countdown-page",
+      "title_ko": "카운트다운 (프로그램 페이지)",
+      "sources": [
+        "Channel 4 News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "channel4-what-to-watch",
+      "title_ko": "'아이 엠 헬렌' 다음에 볼 만한 작품 (프로그램 추천)",
+      "sources": [
+        "Channel 4 News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "somalia-expels-uae-ambassador",
+      "title_ko": "소말리아, '침략' 이유로 UAE 대사 추방",
+      "sources": [
+        "Reuters"
+      ],
+      "count": 1
+    },
+    {
+      "event": "guyana-territory-venezuela",
+      "title_ko": "[단독] 소식통 \"트럼프 행정부 당국자, 가이아나 영토 베네수엘라 할양 거론\"",
+      "sources": [
+        "Reuters"
+      ],
+      "count": 1
+    },
+    {
+      "event": "law-firms-trump-deals-probe",
+      "title_ko": "트럼프에 굴복한 로펌들, 새 의회의 조사 대비",
+      "sources": [
+        "Financial Times"
+      ],
+      "count": 1
+    },
+    {
+      "event": "putin-invites-europe-moscow",
+      "title_ko": "푸틴, 우크라이나 협상 위해 유럽 정상들 모스크바 초청",
+      "sources": [
+        "Financial Times"
+      ],
+      "count": 1
+    },
+    {
+      "event": "amd-short-seller-report",
+      "title_ko": "공매도 보고서 '중국 연계' 지적에 AMD 주가 하락",
+      "sources": [
+        "Financial Times"
+      ],
+      "count": 1
+    },
+    {
+      "event": "arsenal-lyonnes-uwcl",
+      "title_ko": "아스널 대 OL 리오네스: 여자 챔피언스리그 – 생중계",
+      "sources": [
+        "The Guardian"
+      ],
+      "count": 1
+    },
+    {
+      "event": "atp-finals-zverev-fils",
+      "title_ko": "알렉산더 즈베레프 대 아르튀르 피스: ATP 파이널스 조별리그 – 생중계",
+      "sources": [
+        "The Guardian"
+      ],
+      "count": 1
+    },
+    {
+      "event": "gta-vi-launch",
+      "title_ko": "GTA 팬들, 신작 즐기려 결근·밤샘",
+      "sources": [
+        "The Guardian"
+      ],
+      "count": 1
+    },
+    {
+      "event": "trump-hiv-funds-transgender-ruling",
+      "title_ko": "법원, HIV 기금 관련 트럼프의 트랜스젠더 환자 제한 조치 금지",
+      "sources": [
+        "The Guardian"
+      ],
+      "count": 1
+    },
+    {
+      "event": "rugby-concussion-case",
+      "title_ko": "럭비 선수들, 뇌진탕 소송 진행 여부 판단 기다리며 불안",
+      "sources": [
+        "The Guardian"
+      ],
+      "count": 1
+    },
+    {
+      "event": "thomas-frank-crystal-palace",
+      "title_ko": "토마스 프랑크, 크리스털 팰리스 지휘봉 잡으며 \"증명할 것 있다\"",
+      "sources": [
+        "The Guardian"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ashes-england-australia",
+      "title_ko": "잉글랜드, 호주의 혼란 틈타 애시스 초반 일격",
+      "sources": [
+        "The Telegraph"
+      ],
+      "count": 1
+    },
+    {
+      "event": "uk-back-to-back-rate-rises",
+      "title_ko": "가계, 연속 금리 인상 직면",
+      "sources": [
+        "The Telegraph"
+      ],
+      "count": 1
+    },
+    {
+      "event": "alzheimers-stem-cell-trial",
+      "title_ko": "세계 최초로 알츠하이머 환자 뇌에 줄기세포 주입",
+      "sources": [
+        "The Times"
+      ],
+      "count": 1
+    },
+    {
+      "event": "times-homepage",
+      "title_ko": "최신 뉴스·속보 | 더 타임스 (기사 아님)",
+      "sources": [
+        "The Times"
+      ],
+      "count": 1
+    },
+    {
+      "event": "england-rugby-borthwick",
+      "title_ko": "스티브 보스윅의 선수 조합 무르익어…윌 조지프는 이상적인 깜짝 발탁",
+      "sources": [
+        "The Times"
+      ],
+      "count": 1
+    },
+    {
+      "event": "times-christian-faith-column",
+      "title_ko": "기독교 신앙의 붕괴는 사회 전체의 손실 (칼럼)",
+      "sources": [
+        "The Times"
+      ],
+      "count": 1
+    },
+    {
+      "event": "times-americans-freaking-out",
+      "title_ko": "미국인들이 불안해하는 것도 무리가 아니다 (칼럼)",
+      "sources": [
+        "The Times"
+      ],
+      "count": 1
+    },
+    {
+      "event": "sheehan-no8-springboks",
+      "title_ko": "댄 시핸 8번 기용은 단 한 번뿐…스프링복스전 8번 기용은 모험",
+      "sources": [
+        "The Times"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ex-civil-rights-chief-gop-bigotry",
+      "title_ko": "트럼프의 반DEI 전 민권 책임자 \"공화당에서 '편견' 몰아내야\"",
+      "sources": [
+        "The Independent"
+      ],
+      "count": 1
+    },
+    {
+      "event": "trump-nyt-case-ruling",
+      "title_ko": "트럼프, 뉴욕타임스 소송 관련 판결로 또 법적 승리",
+      "sources": [
+        "The Independent"
+      ],
+      "count": 1
+    },
+    {
+      "event": "trump-team-mullin-frustration",
+      "title_ko": "트럼프 측, 마크웨인 멀린의 성과에 불만 커져 (보도)",
+      "sources": [
+        "The Independent"
+      ],
+      "count": 1
+    },
+    {
+      "event": "virginia-school-district-shutdown",
+      "title_ko": "버지니아 교육구 전체 휴교…직원 500명 아동학대 신고 이력 미확인 드러나",
+      "sources": [
+        "The Independent"
+      ],
+      "count": 1
+    },
+    {
+      "event": "princess-anne-falklands-visit",
+      "title_ko": "아르헨티나, 앤 공주 포클랜드 방문에 '도발' 반발…긴장 고조",
+      "sources": [
+        "The Independent"
+      ],
+      "count": 1
+    },
+    {
+      "event": "economist-axis-of-malice",
+      "title_ko": "악의의 축 | 2026년 11월 21일호",
+      "sources": [
+        "The Economist"
+      ],
+      "count": 1
+    },
+    {
+      "event": "economist-section-leaders",
+      "title_ko": "리더스 (섹션 페이지)",
+      "sources": [
+        "The Economist"
+      ],
+      "count": 2
+    },
+    {
+      "event": "economist-section-welfare",
+      "title_ko": "복지 (섹션 페이지)",
+      "sources": [
+        "The Economist"
+      ],
+      "count": 1
+    },
+    {
+      "event": "economist-section-business",
+      "title_ko": "비즈니스 (섹션 페이지)",
+      "sources": [
+        "The Economist"
+      ],
+      "count": 1
+    },
+    {
+      "event": "economist-section-russia",
+      "title_ko": "러시아 (섹션 페이지)",
+      "sources": [
+        "The Economist"
+      ],
+      "count": 1
+    },
+    {
+      "event": "economist-section-defence",
+      "title_ko": "국방 (섹션 페이지)",
+      "sources": [
+        "The Economist"
+      ],
+      "count": 1
+    }
+  ],
+  "unavailable_sources": []
+}
