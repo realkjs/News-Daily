@@ -1,156 +1,138 @@
 {
   "team": "il",
   "team_name_ko": "이스라엘팀",
-  "collected_at": "2026-11-19T06:13:20.426720+09:00",
+  "collected_at": "2026-11-19T10:31:36.700825+09:00",
   "headlines": [
     {
-      "source": "i24NEWS",
-      "title_original": "Police Inquiry Into Election-day Contacts With Netanyahu’s Office Remains Frozen",
-      "summary_original": "Police Inquiry Into Election-day Contacts With Netanyahu’s Office Remains Frozen i24NEWS",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOS1NyZ1dHaXNobTk2ZFdUOHZSTDN1RnRjWjFvYnRoa0RvdGNTb1pyV01DeUVyUndZTVFzTTVYRmZuTzhnT3hCU3c5UnJ6bUpVUUViem9LRWNGb1NLNXpYc2dzOFZXZ2FJVVFNWE1CRlMzNjVFRTF0RDNEajJENkN4bHVvazUzZUN0Ujdob0NMT1FuNW0yLUI5TndBQlZGYkdBNWU1Q0IwOVBIUmRVcjJNaTV4RHVIQUExNl8wR0hzTzRBcVpYT1d3ZFF4YmE?oc=5",
-      "published": "2026-11-19T03:42:39+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "i24NEWS",
-      "title_original": "US Warns Iranian Plots Pose Growing Threat At Home And Abroad",
-      "summary_original": "US Warns Iranian Plots Pose Growing Threat At Home And Abroad i24NEWS",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa1NMeWMwb21ucGlFb2c1bktEdmlKUnQ5Wjc4R29vSHY4Ri1mWU5NNUhtR0pmS2NwWGtadUYwVVNsSktJRjctRTQ5Q0FWNlBWNVFCYVhOdDJtUWo0cTNQLWxqM3d6aWhtaXZoa293SlRROEVPbXJrUEJPUTRxeGRQOGRLM1g4QUo2dDRXbUJTc3BQel9za2R2aVlGaGZWcHVlc1JxQ0NYcGFYLWY4b1EwYjNES08xSDBPRlFEbQ?oc=5",
-      "published": "2026-11-19T02:56:25+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "i24NEWS",
-      "title_original": "Rubio on Iran dirty bomb report: “I am not [worried], but we’re concerned every day about threats | LIVE BLOG",
-      "summary_original": "Rubio on Iran dirty bomb report: “I am not [worried], but we’re concerned every day about threats | LIVE BLOG i24NEWS",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMC1Ceno0ZE1BaFRKeGxNd0ZSQXl4amUxeU5yUlFQTWwxQzBDbUhMeGlDNFlmeWJxcml4X3R3c0lZOTJjb0d2NW95Z1dnY1NXVnRpdExWbS13clJ3RGEwSmdic3FuV0E0STlCNXhzbkFDdXBwNW1oWEYxRHNsVi00SU1VQ2JHUXVLb1h4VkRHcjk1aFhOUEhUUE9FRGJaY1dzR3djVXdlQ3JnNmdBY2pSRVJWaTVyRkZ1Ml9DQmY4dERveDdCZWdzWjFDcjFrdERaUkFnWmwxRmYxei13VjhHeDB3V2JQY1U?oc=5",
-      "published": "2026-11-19T02:54:59+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "i24NEWS",
-      "title_original": "Breaking news from the Middle East, Israel and around the world",
-      "summary_original": "Breaking news from the Middle East, Israel and around the world i24NEWS",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY3czZ2RrTFo1ZHhTRzRwRkF5RVMzMGFjTkthS2dXRlFVVEE3bnRvOE1tU1pYS05VLVBlNGhjZURYLWwwWXJxSHBLT2xSbUVVLU9qclIzNWVBcUFhRXFDM2tBTmE5Q0JnanpZR3BrUVM4eTNGdlh6VEdnT1NidXVXN1ZzUGx2ZnRNVXdkU1NWSS1iMEU2UndObS1sRU5jNTJDejRHVU9tc2k0SVBTRTFR?oc=5",
-      "published": "2026-11-19T02:40:47+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "i24NEWS",
-      "title_original": "Israeli businessman tied to Iron Dome expansion targeted in alleged Iranian assassination plot - report",
-      "summary_original": "Israeli businessman tied to Iron Dome expansion targeted in alleged Iranian assassination plot - report i24NEWS",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOVM2Z0tSOHBXVEJXLVJPVEx5QlcxOVVzN2ptUk9FWm9FX2JMQkVMenY1WEhUT0xsMkp3aGlOQUtkMlZpdkxNeTBRNGxNRVVXVUJfY2ZBZnlYXzhxVS1EOThtMTdQZTZGZmFUbFo1dHVDZzFUN2JHZEpBSDFfaDJmMnlzaFpsZEVfdDFacnRNTzZhMWJCdFRMS2tHa1h6cXNjc0VIWk52RDdxWHM0UUNwUFpnYTZRNmpoNHdzSFI3TDd0UnF4cUsyeUhPNFBLeFluaklKSW9kZDY2cnh4NjUwU0ZUQmt2Zw?oc=5",
-      "published": "2026-11-19T02:36:43+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "i24NEWS",
-      "title_original": "IDF Plans To Cut Reserve Duty And Expand Training In 2027",
-      "summary_original": "IDF Plans To Cut Reserve Duty And Expand Training In 2027 i24NEWS",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOEstQVlVaVNsSWJfSzIzMVdMZ3JxdHczMU9jamRzUXQ3VHhoUWJsRHZUbkNSQnlONHlrVEl2cVBucWJnVWhncF9NckI4ZmN6T2cwaFBrM0JBTDZBX3ZRSnRFYXhENkNyRU9QMFppLURUSHdzMUJLNVRCTnBER3hqWlBCNmRaejkyaFZfSU5tazk4WFlEbjZGR2tCNXZxTU5kQ1lZVWlBenNaTmt6?oc=5",
-      "published": "2026-11-19T01:37:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "i24NEWS",
-      "title_original": "Gummy Bears, News And Latest Headlines",
-      "summary_original": "Gummy Bears, News And Latest Headlines i24NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QdWViOWdXUHBETEUwYUZpQThuMHF0UXpCYjJMNGlpTVJ5MHRQOWV5Qno1T3BYNTNCYW5kOHYyVE9qSUUxTTZpSnd5SHdySWowZDFtUw?oc=5",
-      "published": "2026-11-19T00:39:47+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "i24NEWS",
-      "title_original": "India Signs $220 Million Deal With IAI To Upgrade Naval Missile Defenses",
-      "summary_original": "India Signs $220 Million Deal With IAI To Upgrade Naval Missile Defenses i24NEWS",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTnZ5dnVwclI5RkNWODdOVmRDZ2VIMTJMcTBwRGxac2o3VEF4cHVfeFEtUEExR0xNMVA4WnFtM0VkSXdvdkNWc1U1TDhuLU9KSHZiS3pzVUVPQ3V5RGZnd1NkTU5PSWZ5LXNvRm1PUWpfOHNyWmdLSURRdGp2V0hZWDZPZXVMblYzVjFyclhvSEZyZnN5dDdMcXYyVjE0WEgteTNOc1dielY2MzhLOUFUUHpCMjFYNDBiYkd5MjRJSlkxSzlITkhOWHVaLWI?oc=5",
-      "published": "2026-11-19T00:34:02+09:00",
+      "source": "Times of Israel",
+      "title_original": "The Blogs: National Holocaust Museum, Nottinghamshire, England: Educating Generations",
+      "summary_original": "The Blogs: National Holocaust Museum, Nottinghamshire, England: Educating Generations The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSUVYMlJsV0tDQjM4dXdvdm1QaVM4MHk5NXB2Sk5FQ2FNczc2c0FVd3ljRDlpU2lnaEljZkNUT1l0Vmt6Ry13R0wyeElNaUJmdFEzTWRjM0RPaXNKbjJKUGdiMHBJR19ra1p0SjhoeVN0elBjUXE1WnR0cFp5U3pGZEoySE4wWnQ1dzJtVnhnTkQ2QTU5MWpzZ3pMYVhLeU5RQm1hRHlYRQ?oc=5",
+      "published": "2026-11-19T09:31:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Times of Israel",
-      "title_original": "Paul Smith",
-      "summary_original": "Paul Smith The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qQkJ2UVRuMkRkczN3QkRBTVBGc1BUT1J2WllYQlJNUU5xaFdYZHk2ZVFBNUU0VS0zdENkck9tOGdlVEZpUkNPSFpMV3pMaVF3NmNCZUtteWRjeWVOU3JN?oc=5",
-      "published": "2026-11-19T06:08:33+09:00",
+      "title_original": "The Blogs: Must Politicians Be Willing to Forgive?",
+      "summary_original": "The Blogs: Must Politicians Be Willing to Forgive? The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5na3VtRTBZbjJhRmJfeDc2VV91NTYwdG9mT2R2cjNOcF9mdXhwSFN4VkNmVzBFdDhUcEN4b28ycUVmWDZWYjFXVnU4dngtR25rUEtybHZrejA1SVhxSXkzd0lyYnpULV8zMnNaSnV5aHhWWm9FbkRSOWtCNA?oc=5",
+      "published": "2026-11-19T09:25:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Times of Israel",
-      "title_original": "The Blogs: Trump Wants Out. Tehran Knows It.",
-      "summary_original": "The Blogs: Trump Wants Out. Tehran Knows It. The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wWE15R1R6NmxvT1Z1d1NkeUhxZlNXWnpPSUIyQzcyV0ZYd3dYQmpWX1ozRzhWUktHX2ZMOGFqX0kzdFNiUkNMU1VYaXd2WW5HRkVjVGJMdkQtZUZMMHV1MnpMWWFicEdCVWZuUEE4d1JEdw?oc=5",
-      "published": "2026-11-19T06:00:00+09:00",
+      "title_original": "The Blogs: Vayetzei: Noticing Angels",
+      "summary_original": "The Blogs: Vayetzei: Noticing Angels The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNRzY3YUNqMHhRaDd6VWJobUdGaThsaThiSktUMjdxQlYxU3hfSDBGeUo3T3F1c2d3SFN2elpTc2lwQnFnVkN1MENfOEt1TG5zV1plV3BONkdFM0tERzFIMlF3bXdEMGl2?oc=5",
+      "published": "2026-11-19T08:51:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Times of Israel",
-      "title_original": "IDF confirms operating in area of Hamas-ruled Gaza to demolish tunnel posing a 'direct threat' to troops",
-      "summary_original": "IDF confirms operating in area of Hamas-ruled Gaza to demolish tunnel posing a 'direct threat' to troops The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaVU2bUt5ZHo0NlNROWUwUEFTX2ZMRHVNYWhwVzUxMy1abWxOSW9kb0EwalY0My1MSGktb3VFRlU5bktmaHZLRzFCc3d6eEhqTzZ5Y09lVDdaQ184OHhKVFVQU0xtRy02WlNvRXBfVnJYcXNHeFVtalpWbldtRVN4LXNHdndqSk5jdmdtMXNyREc1a01OUkRMSnBBTlBEZE55S2ZlXzU3NldNNHpXR0lfRkI0Sk92OGhhUEZaci10dzZiZTRNTDZVdWR5R1J4RlZKQV9FbWlQYlFBN0t6QzhyZ3Z3?oc=5",
-      "published": "2026-11-19T04:58:02+09:00",
+      "title_original": "Eisenkot, Fauda, and the Mizrahi Jews",
+      "summary_original": "Eisenkot, Fauda, and the Mizrahi Jews The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15RWJwb05sSVc0di16MXBuRUJfa2UwNURXV3ZfZ1JaMTItSWVKeE5qUEJzT0dqc0xkQnNmb1B6YzJPa0t5cE1hZWZqbGVCM25nckRma21mc01PMm1RQ0ttQjNva2YzMnFJRmYtMzMzVk5KeDI3X2Mw?oc=5",
+      "published": "2026-11-19T08:49:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Times of Israel",
-      "title_original": "Yitz Greenman",
-      "summary_original": "Yitz Greenman The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvcXBIZHJYU211UmdpWWxhbjF4M1RlMElqZTBRUENyRWdMTnhoUEc0NDk1d21RVkhYSEE5aERSampvTVJ6UU1aZFdNNWtCWWRuM2wtZm1abVVkcjVKYU80Nld3OA?oc=5",
-      "published": "2026-11-19T04:53:00+09:00",
+      "title_original": "Jill Szoo Wilson",
+      "summary_original": "Jill Szoo Wilson The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBueHhpVDgwYWtCVmlXVV80TGR4cnFqeEVVUWJVenVZQzNoYUVnODJwOGh6ajBGSlBpbXFFOUlfSUJnaTZHblAxVmtsUkt2ejRTak9CMWNHUjF2ZWMtWHlMQk5uSXlJMHc?oc=5",
+      "published": "2026-11-19T08:46:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Times of Israel",
-      "title_original": "The Fragility of Trust",
-      "summary_original": "The Fragility of Trust The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90ekpmRFpJY0dKa0NWSnBQSFcwQldiZy1BQWhtM2xRdVBHNEx0LWtUVGtFV2pfUHlGU2M4YkQyRWE2YmxNZWgxaE4tNDhtSGs1UFZ2NWtveTB2eV8yWlFiVkNjTFBLZw?oc=5",
-      "published": "2026-11-19T04:53:00+09:00",
+      "title_original": "The Christians Who Looked Away: What Antisemitism Demands of Us Now",
+      "summary_original": "The Christians Who Looked Away: What Antisemitism Demands of Us Now The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQWdsRDY3NlJPNTlPaWRQSlZhNWd4TDFJaDlWSGZyRlFZSDZzYVRHSHl4UWNNTThlOXFrdTA4THVZN1U5OEVDdzZlYnZ2dW05YnFKWkVNTk1NTHRLc0YzemoxdzJ3eDJtY3FwNFVCSWRyaEdrVmNNMTVJSm1udXhwd1N4N1pqLTdnOE1rM3ZXcXdqUlJXeW9TZnZ2NDY4X1ZU?oc=5",
+      "published": "2026-11-19T08:46:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Times of Israel",
-      "title_original": "Achdut: The Driving Force of Am Yisrael",
-      "summary_original": "Achdut: The Driving Force of Am Yisrael The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DMHRBWHZiamFvbVJHT2tHWFNFUzE0emtLbjBtdWRJdGhPMUhLZjk0QkduSy1STXg0QTFnZnotWkhTN01uNFlrcUU4QUwzSTZVWm9hSDV0dFpUaEdMMk9lNWVDb3dzcnlQLW1GSVZtcVJqOU9PUmZJSE5JWQ?oc=5",
-      "published": "2026-11-19T04:52:00+09:00",
+      "title_original": "8 wounded in Kafr Qasim rammings; residents blame politicians’ anti-Arab rhetoric",
+      "summary_original": "8 wounded in Kafr Qasim rammings; residents blame politicians’ anti-Arab rhetoric The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV3pucWZnd3ZiQnNXcEdWV3FWVE9QLWI2d3NqaV9OcXVyVUdaWEo2REI0THdyVW1iTzRfNmp5ZFlnRzM3TU5uZzlvSEk3NzNKN2RneVhTZkVXclNkZWhVcjVLSmV2SlJwYXd1SXhBT2NUYXlRc0lGSlFaM0N1aHQ3RklxQ3BEVGNtZTZ2eE9mNzBSWll6YVZobGJ5WXpqSHgxMTctaFdsR3NBbTBnVTNleHk4dzZXa1FiVkHSAb8BQVVfeXFMUDJtMV83dk01d2JXQzdBcGtwTy1WWS10X1BTRFlrZXZoLUFDLXI4VnRZNXVUcGdoLXpZZ3BNZWFWM3JlVlJ4LW51ZndHal9sanVjd09kR3AwZHYwa3VXYVlIaERJakFyNjA1SnFwaHlKS0pxbkNPSHNTM200a2tzX0tUM3kwOWpZV21PUHZDZkZhZkxSLVJjYllDU0ItbDRGeHRYNDAzbWRxS203eDNnaTUwU0I4YUdBd0tHNW9mUWM?oc=5",
+      "published": "2026-11-19T08:37:34+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Times of Israel",
-      "title_original": "Do we need to decolonize the Holocaust?",
-      "summary_original": "Do we need to decolonize the Holocaust? The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04R1ZqaG9mVjE4MnNkaUszc0o3OGJldnhvMUhKYm14bllHUEl5ZlVvNTRIVlZBTXRZM0IzNU1PWmV2V0ZQdng5bWhvT3piMWhGSDdfeGhtdXh6aExNaUJGMjdCbUdQTnZZRE5sUDdNZWxlQTlmakJTcUtkcw?oc=5",
-      "published": "2026-11-19T04:47:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Times of Israel",
-      "title_original": "CIP Hosts Cultural Café on Jewish Icons in Fashion",
-      "summary_original": "CIP Hosts Cultural Café on Jewish Icons in Fashion The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZVk2UU9USU9nVnI2Qi1oYXVHOWNnN1NTcTVmZ1B6bDBvNElseGdaRGxXaHVadF9FNWNGOFRQU19veWJnYVpjc3JYMHA0d296anJqMFJKVVhiMEE5ZEI3ejlYeDQtT1dPSnBrYmRQQmxxOVF6VFlLQTM0VXJFb3dnR3lGYy1NdGw5SXlB?oc=5",
-      "published": "2026-11-19T04:41:00+09:00",
+      "title_original": "PwC invests 100M+ to train 85,000 employees for AI",
+      "summary_original": "PwC invests 100M+ to train 85,000 employees for AI The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRXhoUS16N1FHWjdSdUd3N1hLdzgtS0hPWEZSSEpBc1Fqb0xRbW5FN3cxTFMybmUzZXF5WUtfa0p1bWhvQm9ieVI2QkhhbWQ0Mkx5N0JZcnNiU19Gb2NacWdPTWxpZERjNWVBbmZSSFF1a0IxX0xpQTJuV1RmVDJKZ0JvTjVfN0U0?oc=5",
+      "published": "2026-11-19T07:34:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Haaretz",
-      "title_original": "Eight wounded by car ramming in Arab Israeli town",
-      "summary_original": "Police sources said the driver was suspected of speeding recklessly near an event hall in the town, possibly under the influence of alcohol, and that investigators were examining whether the incidents were intentional",
+      "title_original": "Daily Cartoon, November 19, 2026",
+      "summary_original": "",
+      "url": "https://www.haaretz.com/opinion/daily-cartoon/2026-11-19/ty-article-opinion/daily-cartoon-november-19-2026/000001a1-f126-d9ff-a7b5-f1ae3d760000",
+      "published": "2026-11-19T09:20:34+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "There is no government without Arabs, nor should there be",
+      "summary_original": "If there are no second-class citizens, voters or elected officials in Israel, there is also no reason to rule out the inclusion in the coalition of representatives of the Arab community",
+      "url": "https://www.haaretz.com/opinion/editorial/2026-11-19/ty-article-opinion/there-is-no-government-without-arabs-nor-should-there-be/000001a1-f047-d6a1-aba5-f647ad0c0000",
+      "published": "2026-11-19T08:15:14+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "The 'beautiful Israeli' has no place for Arab citizens",
+      "summary_original": "The new speaker of the Knesset is not a Kahanist. His racism is dipped in the finest olive oil and sticky as cotton candy. But such covert racists are sometimes even more dangerous than the loud, boisterous ones",
+      "url": "https://www.haaretz.com/opinion/2026-11-19/ty-article-opinion/.premium/the-beautiful-israeli-has-no-place-for-arab-citizens/000001a1-efba-d381-ade5-effb2e490000",
+      "published": "2026-11-19T08:00:38+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "'Unity' without Arabs is racism in Netanyahu's service",
+      "summary_original": "Netanyahu's camp is using bereaved relatives and wounded veterans to delegitimize Arab lawmakers. His opponents must stop seeking absolution for working with Arabs and honor the majority that voted for change",
+      "url": "https://www.haaretz.com/opinion/2026-11-19/ty-article-opinion/.premium/unity-without-arabs-is-racism-in-netanyahus-service/000001a1-f000-d381-ade5-fbe1f44d0000",
+      "published": "2026-11-19T07:59:05+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Jewish lawmakers oppose bill that would allow military chaplains to proselytize",
+      "summary_original": "The Congressional Jewish Caucus warns that provisions in the annual defense bill would leave Jewish and minority soldiers vulnerable to unwanted proselytization under Defense Secretary Pete Hegseth's Pentagon",
+      "url": "https://www.haaretz.com/us-news/2026-11-18/ty-article/.premium/jewish-lawmakers-oppose-bill-that-would-allow-military-chaplains-to-proselytize/000001a1-f081-d6a1-aba5-f68121b00000",
+      "published": "2026-11-19T06:49:50+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Israeli woman in critical condition with rabies in first case since 2024",
+      "summary_original": "A puppy found near Kfar Ruth is suspected of being the source of infection. The case comes two weeks after a four-year-old Palestinian child died of rabies in the West Bank village of Qaffin, north of Tulkarm",
+      "url": "https://www.haaretz.com/israel-news/2026-11-18/ty-article/.premium/israeli-woman-in-critical-condition-with-rabies-in-first-case-since-2024/000001a1-f03e-dd9f-afeb-f3bea1a90000",
+      "published": "2026-11-19T06:14:19+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Eight wounded, one seriously, in car ramming in Arab Israeli town",
+      "summary_original": "Police said the driver, who tested positive for drugs, sped recklessly at several locations in the town, fled and was caught near Tira. Investigators are examining whether the incidents were intentional",
       "url": "https://www.haaretz.com/israel-news/israel-crime/2026-11-18/ty-article/.premium/three-wounded-by-car-ramming-in-arab-israeli-town/000001a1-f028-d9ff-a7b5-f1ae4d270000",
       "published": "2026-11-19T04:51:00+09:00",
       "via": "rss",
@@ -166,63 +148,27 @@
       "state_media": false
     },
     {
-      "source": "Haaretz",
-      "title_original": "What 182 startup exits reveal about the state of Israel's tech industry",
-      "summary_original": "Among the startups, 51 percent were either bought by U.S. companies or went public on U.S. stock exchanges in 2025. The value of Israeli mergers and acquisitions in 2025 amounted to 1.66 percent of the country's GDP",
-      "url": "https://www.haaretz.com/israel-news/tech-news/2026-11-18/ty-article/.premium/what-182-startup-exits-reveal-about-the-state-of-israels-tech-industry/000001a1-efc8-d381-ade5-efe9ab090000",
-      "published": "2026-11-19T03:55:21+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Haaretz",
-      "title_original": "Undoing Netanyahu's judicial overhaul: The legal hurdles facing Eisenkot's bloc",
-      "summary_original": "The Eisenkot bloc is moving to repeal key judicial overhaul laws passed under Netanyahu, aiming to restore checks and balances after four years of democratic erosion. Netanyahu and his allies are expected to fiercely oppose the effort",
-      "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-18/ty-article/.premium/undoing-netanyahus-judicial-overhaul-the-legal-hurdles-facing-eisenkots-bloc/000001a1-ef49-d381-ade5-efe9e3710000",
-      "published": "2026-11-19T03:43:30+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Haaretz",
-      "title_original": "Citing Gaza, newly-elected Democrats vote against Hakeem Jeffries for speaker",
-      "summary_original": "The group released a statement that cited four issues that prevented them from supporting Jeffries, including 'ending the genocide in Gaza'",
-      "url": "https://www.haaretz.com/us-news/2026-11-18/ty-article/.premium/citing-gaza-newly-elected-democrats-vote-against-hakeem-jeffries-for-speaker/000001a1-efea-d9ff-a7b5-ffee3a3d0000",
-      "published": "2026-11-19T03:41:25+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Haaretz",
-      "title_original": "Herzog issues rare rebuke of police arrest of Arab activists on Election Day",
-      "summary_original": "Herzog made the remarks during an official visit to the Arab town of Kafr Manda in northern Israel, where a woman was killed and three other people were wounded in a grenade attack on Saturday",
-      "url": "https://www.haaretz.com/israel-news/elections/2026-11-18/ty-article/.premium/herzog-issues-rare-rebuke-of-arab-activists-election-day-arrests/000001a1-efa5-d381-ade5-efe555d40000",
-      "published": "2026-11-19T03:10:42+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Haaretz",
-      "title_original": "The price of belonging for Jewish students? The right views on Israel",
-      "summary_original": "Jewish students are getting the same message from universities as they are from the country's largest Jewish student organization: your belonging depends on how you view Israel",
-      "url": "https://www.haaretz.com/israel-news/haaretz-today/2026-11-18/ty-article/.highlight/the-price-of-belonging-for-jewish-students-the-right-views-on-israel/000001a1-efb2-d381-ade5-eff3467b0000",
-      "published": "2026-11-19T02:53:48+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Haaretz",
-      "title_original": "British band Portishead albums unavailable on streaming services in Israel",
-      "summary_original": "Over the years, the band has participated in pro-Palestinian petitions and initiatives, accused Israel of committing genocide in Gaza and has called for a cultural boycott of the country",
-      "url": "https://www.haaretz.com/life/2026-11-18/ty-article/.premium/british-band-portishead-albums-unavailable-on-streaming-services-in-israel/000001a1-ef51-d9d9-a9a1-effb1be20000",
-      "published": "2026-11-19T02:21:21+09:00",
-      "via": "rss",
+      "source": "Jerusalem Post",
+      "title_original": "NSA outage disrupted classified US intelligence communications with Mideast amid Iran war - report",
+      "summary_original": "NSA outage disrupted classified US intelligence communications with Mideast amid Iran war - report The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BaDJURjU0X29VVHpZZnl1a3FvSk5xQnRpcDJSR0NDM3FJcWZ5SF9JeGc3YjFqLUxvZ3ZSMDFaWmtnZEdmSXFJMlJabVMtN0FUamRzM1JYYUNOczZKblVz?oc=5",
+      "published": "2026-11-19T08:55:11+09:00",
+      "via": "google_news",
       "state_media": false
     },
     {
       "source": "Jerusalem Post",
-      "title_original": "Israel's window of opportunity in the race for the drone market",
-      "summary_original": "Israel's window of opportunity in the race for the drone market The Jerusalem Post",
+      "title_original": "British lord booed after blaming Jewish attitudes to Israel for antisemitism",
+      "summary_original": "British lord booed after blaming Jewish attitudes to Israel for antisemitism The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mcXpTckNBQ1lfWnU0T0hNcHY2VXB4NEFieWotblQ5a3VRNWtxUEI3dDRfUG5TM2lxdng2TmhCbXFkTmhYQWhWd2I5cENaOG5xdjNmZmdSS1dDNDhtT3U4TURDa0FYcFhSNkE?oc=5",
+      "published": "2026-11-19T08:29:59+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "The race for the drone market and Israel’s window of opportunity - opinion",
+      "summary_original": "The race for the drone market and Israel’s window of opportunity - opinion The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NZUE4dFUxSFA3dnJIeDNtdWd5dlhTMnBlRHBhclZsS3dPQS10UlNHQkRxMUJJcFhVc3NPSFVLMEVHUEtEN3dpbUJHa25vSUNFYTdfaHRtMA?oc=5",
       "published": "2026-11-19T05:53:51+09:00",
       "via": "google_news",
@@ -233,7 +179,7 @@
       "title_original": "Haymanot Kasau's family demands answers nearly 1,000 days since her disapperance",
       "summary_original": "Haymanot Kasau's family demands answers nearly 1,000 days since her disapperance The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoOGRoSGUyV3dvc3M3dlNSREdCSkpwQVI4d0tCbzFEVThjWUFRbGZKbHRLLVpKOWZudEtJZlhxSHpFdV92dlJ6ZFJlZm9lZlZZNGlYckxfZlRZTHFSZUZ3cW8yY3I3aWJwQWt0ckdoNHFJdw?oc=5",
-      "published": "2026-11-19T05:50:25+09:00",
+      "published": "2026-11-19T05:47:19+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -248,46 +194,55 @@
     },
     {
       "source": "Jerusalem Post",
-      "title_original": "Three injured in Kafr Kassem as police investigate suspected impaired driver",
-      "summary_original": "Three injured in Kafr Kassem as police investigate suspected impaired driver The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44TUJMUUtfOUZRQk9tYk42c1FtQmZzc2tUWGwwR1RUalFHbXhQOFhWZWlJTmdUR092QU14N21ZWUhxNkF6WDM1VWZITmJ2TEJwaTRBa3JOMHFkeHVB?oc=5",
-      "published": "2026-11-19T04:42:13+09:00",
+      "title_original": "Muslim Brotherhood in Trump's crosshairs as US, Egypt intensify pressure",
+      "summary_original": "Muslim Brotherhood in Trump's crosshairs as US, Egypt intensify pressure The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yTEY4NHZwZDU5UW4tQ3R2Nzhzel9GMWkxZzEzaEJac2NqdWJ3bHQzTGJiYmtfdzVTNURxWlllQldEWjl1SlB3dmR2ejFKbTRLSDVfeE9tODA1amJo?oc=5",
+      "published": "2026-11-19T05:10:57+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Jerusalem Post",
-      "title_original": "Prosecutors indict 51-year-old Israeli man for alleged abuse of children, partner",
-      "summary_original": "Prosecutors indict 51-year-old Israeli man for alleged abuse of children, partner The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1maHhqYWNTMzhka3JDUkxoVjZHbHY2MGdCSHhFMV92bFctS2hpbzFxbkxwTmNPMlBRLXZvd2RXVkoxdGlPYnh3bzV4ZTAyT00tSzlCeW91bTUtc1p4LXZpX041MDNra2pKdU9zekZGcllXUQ?oc=5",
-      "published": "2026-11-19T04:14:31+09:00",
+      "title_original": "How a 17th-century rabbi’s poem sung by Ofra Haza made it onto the car radio in Grand Theft Auto",
+      "summary_original": "How a 17th-century rabbi’s poem sung by Ofra Haza made it onto the car radio in Grand Theft Auto The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IMG0zYmg1UDZNQVhwcE02eXVwN0JBTWxwYnkyVk0tZU13czBERzRZMFdEVkktWGJzTUxMeGVWT29FbjJQZHpiNVo1LXlrRTk2Mm00Y3JpdTBVOGd1dGRv?oc=5",
+      "published": "2026-11-19T05:04:37+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Jerusalem Post",
-      "title_original": "Replacing Netanyahu is 'top priority,' Eisenkot-led bloc declares after leaders' meeting in Knesset",
-      "summary_original": "Replacing Netanyahu is 'top priority,' Eisenkot-led bloc declares after leaders' meeting in Knesset The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PbDdhaUtqbU93aGRtWG03MVUwMWk5eUFQWkR2NW5KSEZuTm9QSnNmaXFtWGtDNVg5LVVudllXYkFTRTd5Rld3NGUxajNITkdzSW83eml3YnRXR2hldTlfd2FDd3hZSFNyd3ZudG9zajBGNXhsT2VMUzNaUQ?oc=5",
-      "published": "2026-11-19T04:08:20+09:00",
+      "title_original": "Knesset advances bill to ban MKs denying Hamas terror label amid boycott",
+      "summary_original": "Knesset advances bill to ban MKs denying Hamas terror label amid boycott The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ua3hKRkp3dTFCTzFSMjFsNk9hU2VJanZpYTFfS1JHX2UtZEhJbXZ0OUc2V09OUmhTWmhiQUZZTHpVaVVMYTZ4c01ybVJxcV9tNHZZU0ctQkdrUlVJM2ZGWTVRMHNucXZCSWdHVXQ0WU1HdFZvZktVb2JUYw?oc=5",
+      "published": "2026-11-19T04:43:32+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
-      "source": "Jerusalem Post",
-      "title_original": "Israel's Knesset advances bills repealing Netanyahu’s judicial overhaul laws",
-      "summary_original": "Israel's Knesset advances bills repealing Netanyahu’s judicial overhaul laws The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRdFlyelhydUZzOFNrOVRIWUcxWDNEWTREb1EwOVVyaDZ5d1pZVVpqWEZQemdUbTd3VzQxUTJCY2d5dHRKMXhFYUY1MzZjOERRcmMxUm9qMmRLdHJSbEVEbnNpZHBqenc5Wk9wSGVhVmhYQWFBcHNoV0IyQQ?oc=5",
-      "published": "2026-11-19T03:57:36+09:00",
+      "source": "Ynet News",
+      "title_original": "Leaked documents reveal Deutsche Bank's role in Israeli submarine deals",
+      "summary_original": "Leaked documents reveal Deutsche Bank's role in Israeli submarine deals Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wN2IwU2hiNlUyS1BjWVBNMUhmZWVuOFI5Y2RvYzNveWp1OGZLRGVWN1RxaWpsTTZSWEQ5TU9Rb25LY3pTajkxR0dWeEtlVHQycy12emFZUERCVTFJcE1VTUpR?oc=5",
+      "published": "2026-11-19T08:37:35+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
-      "source": "Jerusalem Post",
-      "title_original": "Benjamin Netanyahu could let Gadi Eisenkot serve as PM first under unity government rotation",
-      "summary_original": "Benjamin Netanyahu could let Gadi Eisenkot serve as PM first under unity government rotation The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QenZVMUt5Sk1mNy1SaE5uQXJvVzJjZElOR0p2c0JBLVNmd2E0b1dCNmtNaGJOV0hja2hjUFdFN1p4RVhSUVQyWm1kTGFUaHpqMUhqUFJEbzZaNG9hY1hmMVlOVTJYcDFyX2tveFlPaFFESjdDTjNKNFYyaw?oc=5",
-      "published": "2026-11-19T03:57:34+09:00",
+      "source": "Ynet News",
+      "title_original": "Mamdani: 'Israel Is Committing Genocide, Oct. 7 Serves as Justification for Everything That Followed'",
+      "summary_original": "Mamdani: 'Israel Is Committing Genocide, Oct. 7 Serves as Justification for Everything That Followed' Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqU0g2dmJqS3BELVZDRUlQUW02Tms4RTA3Mjh4SlpiUGdUY21VcHFDOVVrdlBxVGRHRFZIWWlTN0dWbDVMMmRRaVljUWtKUTNXdjlTYg?oc=5",
+      "published": "2026-11-19T07:09:52+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Palestinian Authority asks UNESCO to recognize Jerusalem bagel as its heritage",
+      "summary_original": "Palestinian Authority asks UNESCO to recognize Jerusalem bagel as its heritage Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBNTBnUmEtbm85RDdOVDQ4dl92MGdVcWdObGlUWmJRVmZVbzlrQ2VocVR3VlNYeHd3TWVxWFVvcEd4Q0c1V1ZMemxUbGtPOEJCTVRZTW1ja0dQbFNR?oc=5",
+      "published": "2026-11-19T06:20:48+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -333,33 +288,6 @@
       "summary_original": "Activity in Central Gaza Strip: IDF and Shin Bet Destroying Terror Tunnel Ynetnews",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1a0dfZk0yVDBOM2lqNElxQTZ1LWxmS1BtdjFpek9vV2Y1akFJVFQ5LVJ6ZHdHMV9RTDdfVzNCNjdnV2hfSm5zZTdlR0JPR1JxQk9vZg?oc=5",
       "published": "2026-11-19T04:44:52+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Ynet News",
-      "title_original": "Pedestrian struck by motorcycle in Tel Aviv pronounced dead",
-      "summary_original": "Pedestrian struck by motorcycle in Tel Aviv pronounced dead Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Rc050UHRfZGRhRWRVNlFaZExUTU5uVUV5Ri1fRnpSZjhhckxQZGw4Y1JuYUJVZHlQRVFPVm1nX3lCY3ZtbThtOHZTSFFIaTlGQkg2Ug?oc=5",
-      "published": "2026-11-19T04:31:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Ynet News",
-      "title_original": "US Sanctions Smuggling Network and 'Humanitarian Aid Organization' Assisting Hezbollah",
-      "summary_original": "US Sanctions Smuggling Network and 'Humanitarian Aid Organization' Assisting Hezbollah Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aYktyYWVoVF9nRk0zNjZFOEhuYWFGMW9nR25GaUtTT1hoNF9PQVJsNzY0M3JqVHh6TkY3a2ZXVVBqYTFlSFdBWkFQZkhIcWI2ZlhqZA?oc=5",
-      "published": "2026-11-19T04:00:40+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Ynet News",
-      "title_original": "Dramatic footage of ramming moment in Kafr Qasim | Disturbing content",
-      "summary_original": "Dramatic footage of ramming moment in Kafr Qasim | Disturbing content Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OaGdBTlB4R0xxemhnQnVubGVvYjdibW1vcUxzLXBsR0xFWUVuQk1MNzE4VnE3WDJSMWxfQTF1elVwc2JfSGZFdlNuaXBnSDJzdmhEYw?oc=5",
-      "published": "2026-11-19T03:57:29+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -438,9 +366,13 @@
   ],
   "unavailable_sources": [
     "Kan (KAN News)",
-    "N12 (Channel 12)"
+    "N12 (Channel 12)",
+    "i24NEWS"
   ],
   "errors": {
+    "i24NEWS": [
+      "google_news 실패: HTTPError: HTTP Error 429: Too Many Requests"
+    ],
     "Times of Israel": [
       "rss 실패: HTTPError: HTTP Error 403: Forbidden"
     ]

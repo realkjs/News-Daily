@@ -26,10 +26,11 @@
     "unavailable": []
   },
   "il": {
-    "headlines": 48,
+    "headlines": 40,
     "unavailable": [
       "Kan (KAN News)",
-      "N12 (Channel 12)"
+      "N12 (Channel 12)",
+      "i24NEWS"
     ]
   },
   "ru": {
@@ -37,7 +38,7 @@
     "unavailable": []
   },
   "cn": {
-    "headlines": 45,
+    "headlines": 47,
     "unavailable": [
       "Global Times",
       "Caixin"
