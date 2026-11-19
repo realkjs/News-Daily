@@ -1,0 +1,875 @@
+{
+  "team": "jp",
+  "team_name_ko": "일본팀",
+  "collected_at": "2026-11-20T06:13:38.561568+09:00",
+  "headlines": [
+    {
+      "source": "NHK",
+      "title_original": "林家三平（二代目）",
+      "summary_original": "林家三平（二代目） NHK",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBteTFwcU1ocmc3NUptNFJfWUMycWpXZE81LWhQaHV0eUd1aERFMWU1UkhWdU1yZUJPVGdqeUdqcUUyR1lnY0ZDMFVXWURlaktGN0tuaHJlZF9aa1BlVElJeDZJWS1LUGdPbXJKUGVBVQ?oc=5",
+      "published": "2026-11-20T04:02:14+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "NHK",
+      "title_original": "2026年度「NHK歳末たすけあい」「NHK海外たすけあい」",
+      "summary_original": "2026年度「NHK歳末たすけあい」「NHK海外たすけあい」 NHK",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0taUpsWTB3RWNZcHMyZkNDUU5WOGFldzZTNHNrVGFmZ3pxVURTYkdmbXVFVTlXcW5TT3N6VlNWODN6Y0Q0SVBNWG9DV0c4SVRyU3NZMTNnUlpMUXNNZHc3U05XdzFIcUU?oc=5",
+      "published": "2026-11-19T23:32:43+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "NHK",
+      "title_original": "NHKのど自慢観覧者募集",
+      "summary_original": "NHKのど自慢観覧者募集 NHK",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XWVRVSklsWG9jQ09DU3VYMmtuYXBYaEU3alBmT2pTUVduZC1GaUs2SHJFMElnTGxuSXQ3dWwwOW0tbEFkSmpqb1ZEM0FCQmdZZHUxQ2tPQldiTmtGVlUzRkxDU245dw?oc=5",
+      "published": "2026-11-19T22:19:52+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "NHK",
+      "title_original": "【NHK ONE配信中 函館・七飯スペシャルWEEK】The Wakey Show～ザ・ウェイキー・ショウ",
+      "summary_original": "【NHK ONE配信中 函館・七飯スペシャルWEEK】The Wakey Show～ザ・ウェイキー・ショウ NHK",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RZFQwRzRER1RwUXpFZDhjTWdiaHRkTTFHcWE0clJPYUtiZ0ZRZzJBNEp6WlVabDBBdVhyNDlKZDFkcDM0SkpEQWFIN21pZE9QeE4xRzNCcTl4ekRNRDV1QzUtTk9tYzQ?oc=5",
+      "published": "2026-11-19T22:09:41+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "NHK",
+      "title_original": "佐賀 子どもシェルターで暮らしていた若者が踏み出した新たな一歩",
+      "summary_original": "佐賀 子どもシェルターで暮らしていた若者が踏み出した新たな一歩 NHK",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82cVluUDlQZkU4dmV2NlZjbG5yY3RpTEg3UnhERjFvSGVZUHAwUl9ibzE0NWJHSmJ1V3NRdzdoRU54YTlYcHpudV9IMDVQWXV6MjQ3Qi0zalNBX1RpS0dWMFVn?oc=5",
+      "published": "2026-11-19T21:44:15+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "NHK",
+      "title_original": "世界に誇る高畠のワインを生中継！",
+      "summary_original": "世界に誇る高畠のワインを生中継！ NHK",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXTEdLVnNnWGluaF9hUW5WbWNvX2VBeW9hYXNHZmZuVUhZQldzZWJFdEdrRF9Sd3hHZUZVUnhYTy1BT3Z5S2RqZWNOelFTS2pnNmNjaTgxSy1KdHFNY1drYlVfWFN3Tm8?oc=5",
+      "published": "2026-11-19T21:41:28+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "NHK",
+      "title_original": "北九州ポップカルチャーフェスティバル2026",
+      "summary_original": "北九州ポップカルチャーフェスティバル2026 NHK",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52TVhvLWt5enlpNGxTMzJ3bHRlMndlVHRYNTNGVEVYc2wxZW5fTlpzVlotbThsYXNDRUZtazdTTGRvSk4tQnRNdmVSQTBHRHRBQ1l5Z0RFUEs4dWlsUExVbDZMbi1vcW8?oc=5",
+      "published": "2026-11-19T21:36:55+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "NHK",
+      "title_original": "2026 県知事選挙 新幹線・県立大学・物価高 有権者の声は？",
+      "summary_original": "2026 県知事選挙 新幹線・県立大学・物価高 有権者の声は？ NHK",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3XzJ5bm5ZdnVPVEJuLUVJbFl6NEphak1fdG8zRnF5bUt3VGlUb2k1cnJ6YkNTcFM5OF9xWlU2dlgxS010OUNDcWR0T1FLRkR2Z3BscEluZ05vaFZaa1E4VWp3?oc=5",
+      "published": "2026-11-19T21:25:40+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "乗用車が軽乗用車と正面衝突 子どもを含む4人病院に搬送 路面は圧雪状態…乗用車は夏タイヤ 小樽市",
+      "summary_original": "乗用車が軽乗用車と正面衝突 子どもを含む4人病院に搬送 路面は圧雪状態…乗用車は夏タイヤ 小樽市 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSDBLTUI2enpnMnJGcTB4SHY3WU42TjNtQ0t6Vlhqdldxak8zbkFvTnFaMG9tR3BRekQ5czhCRjJ2eTUxVFl6TXpsTS1oVDV6QVVUT3pxUmdleDJoVUl2VDFLNVBqdVluWk5ZazFMM2o4Z3JWQUNISGcybVlMS2hiaVN3ZVhNUDg?oc=5",
+      "published": "2026-11-20T05:42:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "オレンジとレモンの自然交配からできた「マイヤーレモン」が最盛期 三重・紀北町",
+      "summary_original": "オレンジとレモンの自然交配からできた「マイヤーレモン」が最盛期 三重・紀北町 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR1k1LUdFZXVRSUEwRm81dHZWSGhNcmlWZ1ktdGZzZk00WWNtOFdsSlliMlRiN0k3T2VQbUhwSndzYTNxM012cVFiMmZHVHdaS1NEaEFqTjBmd0tkS0d0d3Q4NkxReW1JdmdScHFKZnZuZW9TbmIwcmo2MVRhdzhVSGRaYw?oc=5",
+      "published": "2026-11-20T00:34:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "「特定盛土等規制区域」に無許可で約8メートル盛り土か･･･ 残土処分業者の社長ら２人を逮捕 三重・尾鷲市",
+      "summary_original": "「特定盛土等規制区域」に無許可で約8メートル盛り土か･･･ 残土処分業者の社長ら２人を逮捕 三重・尾鷲市 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWVdVVktiUGVDdHZGdkwtVDRMdThWbmNJMVFTaTFwc2NOTjNKU3h3eG5sMGJuREVweFdTZ1R3Szc4Y2o4V1ptempHT1VCYnNWcWVub1ZnMFM2bE9XY2RYb3g1UC1EcDJzandxVzdlVkxDdkhldkp0a1gzNkF6QzV4a3JpRW1uNkU?oc=5",
+      "published": "2026-11-20T00:28:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "高市首相が帰国 笑顔で10秒…習主席と握手も 米中露首脳は初の会談 “接近”三者の思惑",
+      "summary_original": "高市首相が帰国 笑顔で10秒…習主席と握手も 米中露首脳は初の会談 “接近”三者の思惑 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EMzdCSS14T2VSNDlpYXo1eEZwMzFvbW1RZUMwNzFjS3FDdmpqdzRkY2ZrUVZRUE95S3pJekNZV0h1c3F6YUZfT2ZiVVB5RXJYaUZHWWYtdmozTVIzWmN1Tmo2Wk0wQjMzZG9jRFJSRUdKQzM1a3JyYVpLV3lTUQ?oc=5",
+      "published": "2026-11-20T00:01:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "【中継】高市首相が帰国 中国の対応…本音は“冷遇”か 習主席との握手も中国メディアはほとんど報じず",
+      "summary_original": "【中継】高市首相が帰国 中国の対応…本音は“冷遇”か 習主席との握手も中国メディアはほとんど報じず 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRnFQZGxWYVNNWUJzM0kxR1RpbFlvYU84bGI1aW9IVmx6U0Q0ZHhWNGFfbXBwWWVIZXRxeUtVSlEyc2lHSWpfTFgtMlhxbVpUamk5bl9uSkFkSzNLcHZhREpqY00zVUEzMG92b0R1ZXIzMjRtZlVIUzVwY2xJM01uSDJDUTk?oc=5",
+      "published": "2026-11-19T23:48:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "20日は北部で雪 中国山地沿いでは積もるところも・広島（19日午後10時54分放送）",
+      "summary_original": "20日は北部で雪 中国山地沿いでは積もるところも・広島（19日午後10時54分放送） 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZlhYdHJsdzFyYzNsNi00cWNsWHQycnZOM2ViUHBYOUpJQ1pHbFNNaVVIWXJHV1YzakpVM0hXdE5MRXhjQUE0bkJteGk3a1JQS2pnY2g2Q0kzeUZiZ3FIRGxLLTVEdmpRTWVKR3BXc2NnYkZmLWh6akd3dGNKaGpoeHUxbkg4ekU?oc=5",
+      "published": "2026-11-19T23:29:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "【動画】トランプ大統領と電話会談終え…高市首相がコメント（2026年11月19日掲載）｜日テレNEWS NNN",
+      "summary_original": "【動画】トランプ大統領と電話会談終え…高市首相がコメント（2026年11月19日掲載）｜日テレNEWS NNN 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zZHQxdnl2UVREeHF5YkFHSFdsMjBLYXRVWTZWTE1GZDgzSUIzMy1PNENwQU9pSVF4blpEUDlDMzUxUldFOHYxdWNlRzNoc05rZUhaTUVWbE5RQ3dSM3ZBUk1HMkJxR2RYZG5WS3FjMkNfSDZZcmxLMmFSa2Rmdw?oc=5",
+      "published": "2026-11-19T23:17:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "愛子さま、日本ゆかりのシンガポール人と懇談 公式訪問3日目（2026年11月19日掲載）｜日テレNEWS NNN",
+      "summary_original": "愛子さま、日本ゆかりのシンガポール人と懇談 公式訪問3日目（2026年11月19日掲載）｜日テレNEWS NNN 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZdllLWWVLNVZuMWlkYWFjdXdldWlOU0NHVXRHS2d1RUdINzBNbDcwb0s4dV9ZZHV3SkZOOFB0Z0N0UFczT05KLUFxTExIbU0zYk9kUXJjUWUyV0o5V1NRYWlNbENKR1prWGsxSzdsRlVYaG9XNFRnb0t2LXo?oc=5",
+      "published": "2026-11-19T23:04:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "【日本のGDP6位転落へ】“AI新時代”に返り咲けるか！？ニッポン経済「ジャパン・アズ・ナンバーワン」あの栄光は何処へ 転落のワケ…国民の実感は【news23】",
+      "summary_original": "【日本のGDP6位転落へ】“AI新時代”に返り咲けるか！？ニッポン経済「ジャパン・アズ・ナンバーワン」あの栄光は何処へ 転落のワケ…国民の実感は【news23】 TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UWWVyWVY1QnFOcUl1UXdoQXFHbGJweXp5RUhrWEpBMVV1aGxMTmlKS0NjMU5nZ1pwblNBbHlhUjFLajRMTS1ZZjdYazRXT3ZDaUt3YzFodDdlYXA4V3FsQjN0Rmg?oc=5",
+      "published": "2026-11-20T06:00:42+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "長野市の通称「七曲り」でトラックの単独事故 スノーシェッドの柱などに衝突 意識不明だった助手席の男性が死亡",
+      "summary_original": "長野市の通称「七曲り」でトラックの単独事故 スノーシェッドの柱などに衝突 意識不明だった助手席の男性が死亡 TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kQTE5MW5NODFfbHlDbHhWajBoV2ZTZG5PSU9tRDdZT3pDWjVIQzBCMlVTUE9zaV9XbWk5aVg3OG1sSFRJb25fdjdtS2tTRko4U3pSa1BqVXo2Zw?oc=5",
+      "published": "2026-11-20T05:04:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "【波浪警報】京都府・舞鶴市、宮津市、京丹後市などに発表 04:50時点",
+      "summary_original": "【波浪警報】京都府・舞鶴市、宮津市、京丹後市などに発表 04:50時点 TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01VDhPUWxSWVBFdFRFN3AxQk55cDFMaktOdVpZUFVRWjg0clVZRVJ2Z2VjREpBcy05djF1V0MyZVU4ZHpibUNzTDQ0dHNWR0JiQkJXNTJtY2ZPQno3d3JwUjltX0Y?oc=5",
+      "published": "2026-11-20T04:50:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "「終末への備え」広がる、米消費者の買いだめ急増－相次ぐシステム障害で不安拡大",
+      "summary_original": "「終末への備え」広がる、米消費者の買いだめ急増－相次ぐシステム障害で不安拡大 TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtMldqY1oxUnlaZDhGNl91SnloWlRIcWtkcVFCMjBHYk00bjZzTC1ocVhwYXRvd2FJZTJReV9vSjAyTkk0YWltaTBIdGRnTGpzSl9zdVZzVXIyVGN0RVpwdy0tQ0dSRzQ?oc=5",
+      "published": "2026-11-20T04:33:27+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "高市総理がトランプ大統領と電話会談 米中ロ首脳会談などについて「詳細な説明あった」",
+      "summary_original": "高市総理がトランプ大統領と電話会談 米中ロ首脳会談などについて「詳細な説明あった」 TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iX1E4U1d0NEl1a28yR1VVMERfZVV5WDZVMVJweTFYVmFnZThzZ1BYSHF3bnQ4Y0M2dVJQWGZUV05zRTNteHNrTlZzTGN2OEl3OW9EaGU1VQ?oc=5",
+      "published": "2026-11-20T04:27:24+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "東京・町田の貴金属店で強盗傷害事件 店員にスプレー噴射しネックレス奪う 男は現在も逃走中 警視庁",
+      "summary_original": "東京・町田の貴金属店で強盗傷害事件 店員にスプレー噴射しネックレス奪う 男は現在も逃走中 警視庁 TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14VFM4YjFXZG9zb3hsV2lQWkVOOUhtSFlJcW1zWl9UUVV0eWdXT0RPRnpoYnoxRGYtVURXWVF5bEo2ZWFaX1NzdlBPN3NVYVVTRUVGVEFnQQ?oc=5",
+      "published": "2026-11-20T04:14:20+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "イラン、ホルムズ海峡でタンカー攻撃を激化－原油安基調に反転リスク",
+      "summary_original": "イラン、ホルムズ海峡でタンカー攻撃を激化－原油安基調に反転リスク TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00UHVTV1NGTUQwTFBMalJKSjhLSm55QTFWU0VqZVlkVkJMUkc2XzliN3RqWVJRWmNmNDMyVm9rRlhjRG0wbzBJbzBYN004RlBCUGdpUFRabHlvSVA0UUZvV3l0YlRCR28?oc=5",
+      "published": "2026-11-20T04:01:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "新潟県で最大震度2の地震 新潟県・上越市",
+      "summary_original": "新潟県で最大震度2の地震 新潟県・上越市 TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZOEJxUlpWNkJtVjliYTFBVnJESjlfTHpZNlNjQ3lvSFE5R3dBSjBrWkVBU0txRWthSGdWdHI0YktnYVllRTFLSGpMT2J6U3pZSjhpbzc4YXJBTnVJMjVkOXg2YW0?oc=5",
+      "published": "2026-11-20T03:47:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "アンソロピック上場 初値は公開価格3割高 NY市場は急落 周辺でAI反対デモも",
+      "summary_original": "アンソロピック上場 初値は公開価格3割高 NY市場は急落 周辺でAI反対デモも テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sSktwU3dQMUJNcVo2S1o1a25LTV82RTNoSlJscHFfdWVCckwxN2FZWVVsZ0tlZjlJZ3BMNkNocHVFT3lpZVlFWFpSMEprQ3REaUZheHM5RWxNNkFnYlJRWFNXQjA0NlFVQUlySl9OX1ZKNmdvUnd2dnF3?oc=5",
+      "published": "2026-11-20T04:48:56+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "高市氏「お礼とお祝いを述べた」日中首脳“10秒握手”日本外交の“成果と現実”",
+      "summary_original": "高市氏「お礼とお祝いを述べた」日中首脳“10秒握手”日本外交の“成果と現実” テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zNl9zWFJVMGEybTZ2UWtIYUVmUWNSRmVORjRaTXJrdEZvTWFhN0VsTDBBZ1RZMWVQRnFZNkdmMmlmbzRTM3VnbWJrUlFOMzZ4NWdZemFJeUltcGF2bVdBYUhiNVd0anN5SVFBS3dFTVU1Zmc?oc=5",
+      "published": "2026-11-20T00:16:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "“AI不正”防止に厳戒態勢も不正摘発相次ぐ 人生が決まる…韓国大学入試",
+      "summary_original": "“AI不正”防止に厳戒態勢も不正摘発相次ぐ 人生が決まる…韓国大学入試 テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10SDQ0OVcxRmJsd3lYQ2JQWmd3QmNSQTVCQWRuTjUtTGxNZmk5QUthekRPTXoyZ2hKb0dPZFNTUGE2NFdFbE5IVVNRN2hLTWY5UGlMTFNwR25xUGFqeDdCSGlZQ095VmtOSzJOMUFZUW1fTUZIbFVnUFd3?oc=5",
+      "published": "2026-11-20T00:01:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "宇都宮のコンビニに車突っ込み小学生2人巻き込む",
+      "summary_original": "宇都宮のコンビニに車突っ込み小学生2人巻き込む テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nbVVkMHB1aHJmVV9rWFNoYVVMX21KWlRYR3ZOTjVzTXFQS1RncU1LMG9LYWVjZE9INnZUQ19wVnA3dU1kVUJFWTlhdDl6LUpoYWlsVTVmNi01dTRXeHQ1UkpPTkZfd1JtX2pCWWdubzI5QQ?oc=5",
+      "published": "2026-11-19T23:58:33+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "ボージョレ・ヌーボー解禁 若者向けの飲み比べイベント開催",
+      "summary_original": "ボージョレ・ヌーボー解禁 若者向けの飲み比べイベント開催 テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmR3hiYUdObmFVc2hjN0RCWXdyM3FaQlduM0tkRjJMRU5aMVI4UWxVYnpYaHlpbTllS0N2WXR0Yk1sTEZtM1FqelAzWDRTWEZGSWpnV1RkQ1ptSDMxY1NhSk93eHU2U3BDLXdyVzdPcHZVUQ?oc=5",
+      "published": "2026-11-19T23:58:32+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "学校再開の矢先に…背後に迫るクマ 間一髪で回避 前橋市内で再びクマ出没",
+      "summary_original": "学校再開の矢先に…背後に迫るクマ 間一髪で回避 前橋市内で再びクマ出没 テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SQnpkMzRBUU5TNXkwN0N6d0JYdW9TS3BXb3ZoSzNMNGhZbGNhcXF4dkNUclJ5Tko0cnFZbFBCcmxYMTZYdXVjSURaWEZJNzRlcGhydlprWWM3Tk9qWjRvVnI2VDNpa3JyTUZscXBlTlU2dw?oc=5",
+      "published": "2026-11-19T23:55:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "介護職員が放火か「火をつければ行かなくていい」 週に1度訪問で間取りを熟知",
+      "summary_original": "介護職員が放火か「火をつければ行かなくていい」 週に1度訪問で間取りを熟知 テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sY2dRZldZVkJuQ0Mzb1hCbHFud25Md1JOeDhJbjh3UFZLdlh3cjZudGo1Tmp4TFdCdlBIMWc1R1Q2Vk1JNVlzMTNZaFFhWmt0bHNGaHl6dm1ONDRDWWRSU0FtNVNEZnpRTlJhRU5Jcngydw?oc=5",
+      "published": "2026-11-19T23:51:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "韓国入試で不正98人摘発 AIスマートグラスの使用も",
+      "summary_original": "韓国入試で不正98人摘発 AIスマートグラスの使用も テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MWmZoQy16NVlTNXUxRVFiZHRWRHJSaFc1TFRrdmZKQVNEcFFGN056ai1tbm9QR2pQSHFMd05lbnBqSURkRVI2dk9ZSUxBbWxOTmp5RWtqMWhfSTloM096dDVXeGdDanR0OFVQZVQ2MWJMb2xKUWU1RXhn?oc=5",
+      "published": "2026-11-19T23:29:14+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "“確保の瞬間”が防犯カメラに…住宅で女性が襲われた強盗殺人未遂事件 関与疑いの男らを警察官が追跡し袋小路に追い込む",
+      "summary_original": "“確保の瞬間”が防犯カメラに…住宅で女性が襲われた強盗殺人未遂事件 関与疑いの男らを警察官が追跡し袋小路に追い込む FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MaVNBSlQ1cXlJU2VRMGFadzhTc2k4em5CWGlPX0ZSZk5lcjdvTDBhN1YtUXNvUEJhTU1QTjQ1N3ppMGlEbHJSRDhiQTg5Zw?oc=5",
+      "published": "2026-11-20T06:00:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "【熊本県】11/20の天気予報",
+      "summary_original": "【熊本県】11/20の天気予報 FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1GZGg0UlY0Z2IxVnF0clp0dFRBNTVvMG5qWV9CZHJZNFNkQW9TZy0tU3Y2SmgybnRfS0VCNlFkNmUySEpkWGozcnRGbzgyUQ?oc=5",
+      "published": "2026-11-20T05:10:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "【神奈川県】11/20の天気予報",
+      "summary_original": "【神奈川県】11/20の天気予報 FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBodk15SHBxdDlyQlM4ZkRGeW5SUTZZNTlLV0o4aDcwdnMtUG9CSFc5c2Z4eGJJakJaS2dYNlJ0Q3BrejlIeTQ3REpSczVSdw?oc=5",
+      "published": "2026-11-20T05:10:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "【福岡県】11/20の天気予報",
+      "summary_original": "【福岡県】11/20の天気予報 FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jcTVXNmlLcmh3STdUV0dleEFXS25FV3F2bzlpVW9rRERLSEpVRDZVaVVhM1Q1bW1XNkNMaTN3U2F0RzhMVC1peXFpbHd5Zw?oc=5",
+      "published": "2026-11-20T05:10:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "【宮崎県】11/20の天気予報",
+      "summary_original": "【宮崎県】11/20の天気予報 FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jN0wySlREaXdWNnFyck9PMDVZeVdmajBjN29tV1I1c0JFUFJ3RWxLd20tLVEyakdrWVZnb3NZTVlvY1NRNTZWVWRJSmZvQQ?oc=5",
+      "published": "2026-11-20T05:10:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "【愛知県】11/20の天気予報",
+      "summary_original": "【愛知県】11/20の天気予報 FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oYlVvb09waGU5Ui13OG5Rem9OOVJ2dWhrMmNiR2ZQRU01Vldfc0lDT2I4cEkwYjJPWUtxckh3YVZVRHZueXNoa3ltV0VkZw?oc=5",
+      "published": "2026-11-20T05:10:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "【北海道(胆振・日高地方)】11/20の天気予報",
+      "summary_original": "【北海道(胆振・日高地方)】11/20の天気予報 FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LdHhEenhzMW1RZE1WV05EZDRQNE5CdGJWeXptOXY5TFdFYmV6R2FBc2JpWG4wZ0V2MzhLb3N4YzBkcEZ5d0x0NHhmZDJEUQ?oc=5",
+      "published": "2026-11-20T05:10:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "【大阪府】11/20の天気予報",
+      "summary_original": "【大阪府】11/20の天気予報 FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFByanV4eW1lcS1XMVRBR19KOXptMXBMdGpxakxLdXQ5clJBU0R4Mzdpbk1NRUdBQ0hqWWJtUjJtcFJGdm51Rko3TmJXRWRydw?oc=5",
+      "published": "2026-11-20T05:10:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "高市総理「日本の利益が損なわれることはない」初の米中露首脳会談めぐり",
+      "summary_original": "高市総理「日本の利益が損なわれることはない」初の米中露首脳会談めぐり テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96enU2ejhfQzVnS2JjSndScS1fclVnd2poWkdMLVcycy1SZ2E2MTB5WnN5a0d0TFo4cFRJTUs0bi1KM3lPTFhFamlLVVVkbklybmlCUQ?oc=5",
+      "published": "2026-11-20T00:32:11+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "【NY市場リポート】米年末商戦 インフレで消費行動は",
+      "summary_original": "【NY市場リポート】米年末商戦 インフレで消費行動は テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BQ1I1bmVxSTJCY0VUMzJBWlV2T0E5RzFXTjZ4WU1JV0NudlNZYXV6N0xVaFJuMllDdnFuUHNJNDUwMmFJbmN4M0stRDRlUXRiVlJTTU1xWVQwMXVjR2tkSg?oc=5",
+      "published": "2026-11-20T00:00:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "ニュース｜ニュース",
+      "summary_original": "ニュース｜ニュース テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jZ2xoQTl6MnVDWXJfZ1JaMlFZRUZCa205cFVXTHhjZUxwTWkwWm04N2hKQktzdXVjLUtYSnQycVZMa0dIRE5jbDJXWUtRdTFTWlFjY3ltTzdpdV9VeWpZ?oc=5",
+      "published": "2026-11-19T23:33:28+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "日経平均反発、NVIDIA好決算で半導体関連上昇 金融株には情報漏洩の影【日経CNBC/きょうのポイント、明日のヒント】",
+      "summary_original": "日経平均反発、NVIDIA好決算で半導体関連上昇 金融株には情報漏洩の影【日経CNBC/きょうのポイント、明日のヒント】 テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XXzlHMkVhUzNVQjBjWHprc0xzMGJ5cWUzN2hNSHhTNGo4ckpBQ2FkME15V2Rnd0hUNlozXzVlVVRSTkw1amZvY0FhaGlqaEg4aGJJLWFUeXc0RmREbWFrQW9MODl1ekk?oc=5",
+      "published": "2026-11-19T23:12:33+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "乗客わずか２人から世界へ！ジップエアはなぜ急成長できたのか？LCCの常識を覆す独自戦略と新たな挑戦･･･未放送のスタジオトークをイッキ見！【カンブリア宮殿／スタジオ完全版】",
+      "summary_original": "乗客わずか２人から世界へ！ジップエアはなぜ急成長できたのか？LCCの常識を覆す独自戦略と新たな挑戦･･･未放送のスタジオトークをイッキ見！【カンブリア宮殿／スタジオ完全版】 テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsb0g3SEEtOFd0eGcyMjJaTUVIVERNeTdRRi1fS2NhR0pidVBvbVRSdXd6NGFFV0xYT3RUSXFiWnBkbDZKZjlGbERRTVVCQkJiNTVUb0JjaDhzazFvYnB1VWh3?oc=5",
+      "published": "2026-11-19T23:06:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "ジップエアー トーキョー 空の快進撃に迫る！｜カンブリア宮殿",
+      "summary_original": "ジップエアー トーキョー 空の快進撃に迫る！｜カンブリア宮殿 テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbk1SZmRkemtnUUxKZi1NN01OcUZMMzZWYWZKSXFlRVVsaGNaaVJIcU9xbTlpRDRpdl96STJLN2tIVEhxMnk1cV81WHFZOFBQQ2VGX0w1ZzUzT0RzNHZ2N1Jva2tjNEpsVEU3V3B5SG8tRFJlNTNVTGExQ2JFLWdmb2czU3V3RE1vMkgtZ1E3RXNDRVBRcUhad1I4a0tqVUtGNkdtaGNCZDBmcktzWG1lSzgwWlpqdw?oc=5",
+      "published": "2026-11-19T23:06:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "LCCの常識を覆す！“お荷物子会社”からの逆転劇と勝利のビジョン～ジップエア トーキョー 深田康裕社長～【カンブリア宮殿／未公開インタビュー】",
+      "summary_original": "LCCの常識を覆す！“お荷物子会社”からの逆転劇と勝利のビジョン～ジップエア トーキョー 深田康裕社長～【カンブリア宮殿／未公開インタビュー】 テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1V3BFR1YzQ2d4ajIycEc5VXhBTGVHMk1KZTJ4UmNIQzNRU0xadG9QSmxiQUNPeWRlVkQ2TGZKeURJRzhJemxJMm9ScldEaURzU1lad0N5TDVYT2JaUXdxcHhB?oc=5",
+      "published": "2026-11-19T23:06:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "米エヌビディア決算 収益倍増 フアン氏辞任後も成長継続へ",
+      "summary_original": "米エヌビディア決算 収益倍増 フアン氏辞任後も成長継続へ テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53eWlsWlZVX3FaTlNLd2RKVUI0aThnRWdTNW12YmN2RWc4YnVqWGNuV1lLRHRhdmFpNXlyaEdIV001cmZGVDNzYXh4WmpCeUdwVy16Zm1acHljandCRVE?oc=5",
+      "published": "2026-11-19T22:43:41+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "NTTデータG中山社長、データ拠点投資で合弁設立「まず米国から」",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQOUC18CE20Y6A111C2000000/",
+      "published": "2026-11-20T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "GVA TECHなど3社、判例検索強化へ連携 27年に3000人獲得へ",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQOUC18C990Y6A111C2000000/",
+      "published": "2026-11-20T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "中部電力、オマーンでSAF実証 乾燥地での原料生産を28年度にも",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQOFD28BWL0Y6A021C2000000/",
+      "published": "2026-11-20T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "ファミマ、AIが脱炭素商品の販促立案 富士通と協業",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQOUC18BVC0Y6A111C2000000/",
+      "published": "2026-11-20T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "東京ガス系TGES社長「ガス自家発電いかし、データ拠点を早期稼働」",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQOUC18BD20Y6A111C2000000/",
+      "published": "2026-11-20T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "日本KFCの名嶋社長「商圏にあわせて柔軟な店舗運営」 出店増に手応え",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQOUC05B8K0V01C26A1000000/",
+      "published": "2026-11-20T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "青森・大鰐町、宿泊税導入を検討 東北の町村で先行事例に",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQOCC05B4O0V01C26A1000000/",
+      "published": "2026-11-20T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "日本車の世界販売、26年度一転マイナスへ 中東不安でガソリン車減速",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQOUC16ARH0W6A111C2000000/",
+      "published": "2026-11-20T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "首里城「大龍柱」の向きはどっち？ 論争の背景に琉球処分と同化政策",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVCF0QYKVCFTPOB002M.html?ref=rss",
+      "published": "2026-11-20T06:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "【そもそも解説】復元された首里城とは？ 沖縄そのものと重なる歴史",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVCM1CPGVCMUTIL027M.html?ref=rss",
+      "published": "2026-11-20T06:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "きっかけはGMO、漏洩対策で通信遮断検討 ネットに「門番」必要か",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVCM4D9VVCMULFA01BM.html?ref=rss",
+      "published": "2026-11-20T06:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "高市首相の「約10秒間の握手」 大国主義の危機に問われる外交手腕",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVCM4S6ZVCMUTFK011M.html?ref=rss",
+      "published": "2026-11-20T06:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "ジェノサイド判決でも変わらぬロヒンギャの日常 難民への支援は縮小",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVCM52KPVCMUHBI028M.html?ref=rss",
+      "published": "2026-11-20T06:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "岐阜の陸自発砲事件、きょう初公判 当時18歳被告の責任能力が争点",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVCM148RVCMOHGB00GM.html?ref=rss",
+      "published": "2026-11-20T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "アンソロピック、初値は公開価格の3割高 AI専業初のIPOに期待",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVCM66V5VCMUHBI00VM.html?ref=rss",
+      "published": "2026-11-20T04:07:44+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "高市首相、台湾めぐり「日中共同声明の立場に変更なし」 会見で表明",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVCM4TFDVCMUTFK00WM.html?ref=rss",
+      "published": "2026-11-19T23:43:38+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "ソマリア政府、ＵＡＥ大使に７２時間以内の国外退去命令…「ソマリランド」支援問題が原因か",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/world/20261120-GYT1T00081/",
+      "published": "2026-11-20T02:01:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "サウジ首都にフーシのミサイル飛来、最も高い建物「ＰＩＦタワー」のガラス割れる…迎撃時の残骸が衝突か",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/world/20261120-GYT1T00065/",
+      "published": "2026-11-20T01:41:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "ＡＰＥＣ首脳会議に合わせた日中首脳会談は行わず…高市首相「互いの国益守るための対話進める」と今後の実現に意欲",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/politics/20261120-GYT1T00004/",
+      "published": "2026-11-20T00:34:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "高市首相、トランプ氏との電話会談で米中露首脳会談などの説明受ける…「率直に意見交換を行った」",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/politics/20261119-GYT1T00402/",
+      "published": "2026-11-20T00:08:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "サイバー攻撃で個人情報などの流出が判明した企業・団体の一覧",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/national/20261009-GYT1T00299/",
+      "published": "2026-11-19T23:58:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "「中国が外国のデータを国家主導で収集」と米議会諮問機関が指摘、国家規模での情報保護を提言",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/world/20261119-GYT1T00334/",
+      "published": "2026-11-19T23:29:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "ＦＩＦＡ会長選に田嶋幸三氏が立候補を届け出、２０１６年以来の選挙戦へ",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/sports/soccer/general/20261119-GYT1T00350/",
+      "published": "2026-11-19T23:22:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "ＭＬＢコミッショナー、各球団が年俸上限定める「サラリーキャップ制」求めていると改めて主張…選手会と交渉難航か",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/sports/mlb/20261119-GYT1T00336/",
+      "published": "2026-11-19T23:04:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "「風邪？でAIへ相談」回答うのみに注意 受診控えで病状悪化も",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261119/k00/00m/040/032000c",
+      "published": "2026-11-20T06:01:10+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "テラ・クライシス:「この薬出して」AI相談の結果を医師に 過度な依存NGなワケ",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261119/k00/00m/040/030000c",
+      "published": "2026-11-20T06:00:16+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "東京都、国への提案要求を拡充 偏在是正や大学定員規制に反対",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261119/k00/00m/310/218000c",
+      "published": "2026-11-20T05:45:10+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "受刑者が育てたメダカ試験販売へ 矯正展で生き物販売は初 広島",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261119/k00/00m/310/307000c",
+      "published": "2026-11-20T05:15:16+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "「夫の暴行を止めていれば…」 3歳暴行死、母親が後悔の言葉",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261119/k00/00m/040/250000c",
+      "published": "2026-11-20T05:00:12+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "5回の通報、顔にあざ…兆候あるも 幼い命なぜ救えなかったか",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261119/k00/00m/040/384000c",
+      "published": "2026-11-20T04:59:10+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "首相「意思疎通は継続」 トランプ氏から米中露会談の説明受ける",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261120/k00/00m/010/001000c",
+      "published": "2026-11-20T00:11:17+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "在日ロヒンギャ「明日から人生変わる」 ICJがジェノサイド認定",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261119/k00/00m/030/454000c",
+      "published": "2026-11-19T23:49:43+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "＜主張＞米中露首脳会談 再び開くことは許されぬ",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261120-3PAW33MU6FJHVA45RP4G26MYIY/",
+      "published": "2026-11-20T05:01:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "＜主張＞米中露首脳会談 再び開くことは許されぬ",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261120-3PAW33MU6FJHVA45RP4G26MYIY/",
+      "published": "2026-11-20T05:01:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "＜朝晴れエッセー＞ナニワの球場",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261120-57XML545OFP4PN3L7PLGJT5QRY/",
+      "published": "2026-11-20T05:00:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "＜主張＞高市首相と中国 首脳会談急ぐ必要はない",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261120-GZPDJBSNDJNYXJWTZG6SVNQNR4/",
+      "published": "2026-11-20T05:00:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "奈良・吉城園 初の夜間公開へ 紅葉照らすライトアップイベント「秋灯り」",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261120-SI5IYSZEQRIVRAWSFBPZV3KKCE/?outputType=asynd",
+      "published": "2026-11-20T05:00:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "＜産経抄＞対日圧力強まるほど「臭う」中国、高市首相は冷遇受けるも",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261120-VSMER45EVBJNZCOYDRHH6K4GUY/",
+      "published": "2026-11-20T05:00:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "＜朝晴れエッセー＞ナニワの球場",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261120-57XML545OFP4PN3L7PLGJT5QRY/",
+      "published": "2026-11-20T05:00:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "＜主張＞高市首相と中国 首脳会談急ぐ必要はない",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261120-GZPDJBSNDJNYXJWTZG6SVNQNR4/",
+      "published": "2026-11-20T05:00:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "COP31 negotiators publish revised deal text with no mention of fossil fuels",
+      "summary_original": "The first draft contained two references to fossil fuels and limiting their use — a topic that deeply divides nations in the negotiations every year.",
+      "url": "https://www.japantimes.co.jp/environment/2026/11/19/climate-change/cop-fossil-fuel-language/",
+      "published": "2026-11-19T21:14:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "Top U.N. court finds Myanmar committed state-sponsored genocide against Muslim Rohingya",
+      "summary_original": "It was the first time the court held a state responsible for genocide.",
+      "url": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/myanmar-rohingya-genocide/",
+      "published": "2026-11-19T21:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "Rakuten Securities rushes to cope with data breach",
+      "summary_original": "The data breach has raised questions about the company's information management system.",
+      "url": "https://www.japantimes.co.jp/business/2026/11/19/companies/rakuten-securities-data-breach/",
+      "published": "2026-11-19T20:55:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "South Korea court orders retrial of ex-PM Han in martial law case",
+      "summary_original": "The 2024 decree issued by the president at the time, Yoon Suk Yeol, plunged the country into chaos, but lasted only around six hours.",
+      "url": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/south-korea-pm-retrial/",
+      "published": "2026-11-19T20:45:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "Takaichi vows to attend deliberations on tax-cut bill ‘in good faith’",
+      "summary_original": "Takaichi made these remarks at a news conference in Shenzhen, China, following a series of diplomatic engagements in the Philippines and China.",
+      "url": "https://www.japantimes.co.jp/news/2026/11/19/japan/politics/takaichi-tax-bill-deliberations/",
+      "published": "2026-11-19T20:31:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "Riyadh’s tallest building damaged as Saudi reports new Houthi attacks",
+      "summary_original": "A skyscraper in Riyadh housing the headquarters of Saudi Arabia's sovereign wealth fund was damaged on Thursday, witnesses said, as the kingdom reported new attacks by Yemen's Houthis.",
+      "url": "https://www.japantimes.co.jp/news/2026/11/19/world/riyadh-saudi-houthi-attacks/",
+      "published": "2026-11-19T20:25:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "Japan government under fire for using conspiracy theory YouTuber in PR",
+      "summary_original": "The government says that the use of the YouTuber is intended to deepen understanding of security policy among people in their 20s and 30s.",
+      "url": "https://www.japantimes.co.jp/news/2026/11/19/japan/conspiracy-theory-youtuber-pr/",
+      "published": "2026-11-19T19:52:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "Nearly 40% disapprove of Takaichi’s China stance, poll shows",
+      "summary_original": "The survey found that 38.4% of respondents disapprove of Takaichi's China stance, higher than the 33.6% who approved it.",
+      "url": "https://www.japantimes.co.jp/news/2026/11/19/japan/politics/takaichi-china-stance-disapprove/",
+      "published": "2026-11-19T19:45:00+09:00",
+      "via": "rss",
+      "state_media": false
+    }
+  ],
+  "unavailable_sources": [
+    "Nikkei Asia"
+  ],
+  "errors": {}
+}
