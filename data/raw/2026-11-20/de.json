@@ -1,14 +1,68 @@
 {
   "team": "de",
   "team_name_ko": "독일팀",
-  "collected_at": "2026-11-20T06:13:38.561568+09:00",
+  "collected_at": "2026-11-20T10:27:05.761915+09:00",
   "headlines": [
     {
       "source": "ARD Tagesschau",
       "title_original": "tagesschau in 100 Sekunden",
       "summary_original": "tagesschau in 100 Sekunden",
-      "url": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1686784.html",
-      "published": "2026-11-20T06:06:28+09:00",
+      "url": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1686824.html",
+      "published": "2026-11-20T09:59:41+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Arbeitskampf: IG Metall startet 24-Stunden-Warnstreiks",
+      "summary_original": "In ganz Deutschland sollen Betriebe einen Tag lang stillstehen - seit Mitternacht rollt die Streikwelle der IG Metall an. Betroffen sind Betriebe der Metall- und Elektroindustrie.",
+      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/warnstreik-ig-metall-126.html",
+      "published": "2026-11-20T09:41:04+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "KI-Unternehmen Anthropic sammelt mehr als 100 Milliarden Dollar durch Ausgabe von Aktien ein",
+      "summary_original": "KI-Unternehmen Anthropic sammelt mehr als 100 Milliarden Dollar durch Ausgabe von Aktien ein",
+      "url": "https://www.tagesschau.de/tagesthemen/video-1686802.html",
+      "published": "2026-11-20T06:41:43+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Champions League: FC Bayern fertigt Austria Wien ab",
+      "summary_original": "Die Fußballerinnen des FC Bayern München haben in der UEFA Women's Champions League einen souveränen 4:0-Sieg über Tabellenschlusslicht Austria Wien eingefahren. Das Spiel fand vor einer Rekordkulisse statt.",
+      "url": "https://www.sportschau.de/regional/br/br-klarer-sieg-im-rekordspiel-fc-bayern-fertigt-austria-wien-ab-102.html",
+      "published": "2026-11-20T06:39:27+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Die Meinung von Stefan Niemann, NDR, zu Deutschlands und Europas Rolle auf der Weltbühne",
+      "summary_original": "Die Meinung von Stefan Niemann, NDR, zu Deutschlands und Europas Rolle auf der Weltbühne",
+      "url": "https://www.tagesschau.de/tagesthemen/video-1686800.html",
+      "published": "2026-11-20T06:35:28+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "\"Koalition der Willigen\" berät in Berlin über Unterstützung der Ukraine",
+      "summary_original": "\"Koalition der Willigen\" berät in Berlin über Unterstützung der Ukraine",
+      "url": "https://www.tagesschau.de/tagesthemen/video-1686798.html",
+      "published": "2026-11-20T06:29:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Erstmals gemeinsames Treffen von Putin, Trump und Xi im Rahmen eines Gipfels in Shenzhen",
+      "summary_original": "Erstmals gemeinsames Treffen von Putin, Trump und Xi im Rahmen eines Gipfels in Shenzhen",
+      "url": "https://www.tagesschau.de/tagesthemen/video-1686796.html",
+      "published": "2026-11-20T06:26:15+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -22,65 +76,47 @@
       "state_media": false
     },
     {
-      "source": "ARD Tagesschau",
-      "title_original": "AfD lässt laut Siegmund Wahl von Ministerpräsident in Sachsen-Anhalt vorziehen",
-      "summary_original": "Die Wahl des Ministerpräsidenten in Sachsen-Anhalt soll früher stattfinden als gedacht, wie AfD-Spitzenkandidat Siegmund nun bestätigte. Er will sich am 8. Dezember zur Wahl stellen - wie er zu einer Mehrheit kommt, ist noch offen.",
-      "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/wahl-ministerpraesident-zeitpunkt-afd-video-social-media-einschaetzung-reporter-frohmueller,afd-siegmund-114.html",
-      "published": "2026-11-20T05:51:59+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ARD Tagesschau",
-      "title_original": "Champions League: FC Bayern fertigt Austria Wien ab",
-      "summary_original": "Die Fußballerinnen des FC Bayern München haben in der UEFA Women's Champions League einen souveränen Sieg über Tabellenschlusslicht Austria Wien eingefahren. Das Spiel fand vor einer Rekordkulisse statt.",
-      "url": "https://www.sportschau.de/regional/br/br-klarer-sieg-im-rekordspiel-fc-bayern-fertigt-austria-wien-ab-102.html",
-      "published": "2026-11-20T05:12:55+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ARD Tagesschau",
-      "title_original": "Strafbefehl gegen Tesla-Werksleiter",
-      "summary_original": "Im Februar hatte die IG Metall Strafanzeige gegen den Werksleiter von Tesla in Grünheide gestellt. Der Vorwurf: üble Nachrede. Nun hat ein Gericht einen Strafbefehl gegen den Mann erlassen. Der Werksleiter wehrt sich vor Gericht.",
-      "url": "https://www.tagesschau.de/inland/regional/brandenburg/strafbefehl-werksleiter-von-tesla-100.html",
-      "published": "2026-11-20T05:07:12+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ARD Tagesschau",
-      "title_original": "tagesschau 20:00 Uhr",
-      "summary_original": "Trump und Xi sowie Putin beenden Dreiergipfel in Shenzhen mit \"Friedenserklärung\", Kanzler Merz begrüßt \"Koalition der Willingen\" für Beratungen zur Ukraine-Unterstützung in Berlin, Internationaler Gerichtshof stuft Verbrechen gegen die Rohingya in Myanmar als Völkermord ein, KI-Unternehmen Anthropic gelingt in den USA Rekord-Börsengang, BSI stuft Gefahrenlage im IT-Bereich als hoch ein, Sechster ",
-      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1686764.html",
-      "published": "2026-11-20T04:34:05+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ARD Tagesschau",
-      "title_original": "Merz will baldige Gespräche mit Russland auf neutralem Boden",
-      "summary_original": "Die \"Koalition der Willigen\" verspricht, der Ukraine \"so lange wie nötig\" zu helfen. Nach dem Gipfel in Berlin rief Kanzler Merz Russlands Präsident Putin auf, die Waffen niederzulegen. Einen Frieden könne es nur mit Beteiligung Europas geben.",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/gipfel-koalition-willige-ukraine-100.html",
-      "published": "2026-11-20T04:22:45+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ARD Tagesschau",
-      "title_original": "Internationaler Gerichtshof stuft Verbrechen gegen Rohingya als Völkermord ein",
-      "summary_original": "Internationaler Gerichtshof stuft Verbrechen gegen Rohingya als Völkermord ein",
-      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1686750.html",
-      "published": "2026-11-20T04:17:11+09:00",
+      "source": "ZDF heute",
+      "title_original": "Zverev vergibt fünf Matchbälle - und siegt dennoch weiter",
+      "summary_original": "Alexander Zverev hat seine makellose Bilanz bei den ATP Finals bewahrt. Gegen den Franzosen Arthur Fils vergab er allerdings fünf Matchbälle. Zudem war er am Ende angeschlagen.",
+      "url": "https://www.zdfheute.de/sport/zverev-atp-finale-100.html",
+      "published": "2026-11-20T08:55:56+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "ZDF heute",
-      "title_original": "Trump, Xi und Putin: Große Worte, wenig Konkretes",
-      "summary_original": "Trump wollte mit Xi und Putin Geschichte schreiben. Doch der Gipfel in Shenzhen brachte vor allem symbolische Gesten statt greifbarer Durchbrüche.",
-      "url": "https://www.zdfheute.de/politik/ausland/trump-xi-putin-shenzen-ergebnis-100.html",
-      "published": "2026-11-20T05:28:00+09:00",
+      "title_original": "Bayern Münchens Tore-Show in Wien: Alara nutzt ihre Chance",
+      "summary_original": "Die Bayern Frauen zeigen in Wien eine 4:0-Torshow. Pernille Harder schießt sich unter die besten drei CL-Torschützinnen, Alara sendet ein Zeichen an den Bundestrainer.",
+      "url": "https://www.zdfheute.de/sport/fussball-frauen-champions-league-fc-bayern-muenchen-austria-wien-100.html",
+      "published": "2026-11-20T08:44:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Van Gogh für 173 Millionen Euro versteigert",
+      "summary_original": "Das Gemälde \"Blühende Kastanienbäume\" von Vincent van Gogh ist für 173 Millionen Euro versteigert worden. Das ist der höchste Preis, der jemals für einen van Gogh gezahlt wurde.",
+      "url": "https://www.zdfheute.de/video/van-gogh-millionen-versteigerung-video-100.html",
+      "published": "2026-11-20T06:56:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Türkei: Imamoglu droht das politische Aus",
+      "summary_original": "Ein Gericht bestätigt die Aberkennung von Ekrem Imamoglus Hochschuldiplom. Für Erdogans wichtigsten Rivalen wird eine Kandidatur 2028 damit immer unwahrscheinlicher.",
+      "url": "https://www.zdfheute.de/politik/ausland/tuerkei-imamoglu-istanbul-diplom-praesidentschaftskandidatur-100.html",
+      "published": "2026-11-20T06:50:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Musk über Spenden an Republikaner: \"Komme mir dumm vor\"",
+      "summary_original": "Rund 500 Millionen Dollar steckte Elon Musk in den Wahlkampf der Republikaner von Donald Trump. Nach den Midterms räumt er ein, dass das viele Geld wenig gebracht habe.",
+      "url": "https://www.zdfheute.de/wirtschaft/elon-musk-wahlkampfspenden-maga-dumm-100.html",
+      "published": "2026-11-20T06:49:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -89,7 +125,7 @@
       "title_original": "Aktuelles zum Krieg in der Ukraine",
       "summary_original": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
       "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
-      "published": "2026-11-20T05:26:00+09:00",
+      "published": "2026-11-20T06:25:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -98,52 +134,16 @@
       "title_original": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
       "summary_original": "Die Lage in Nahost ist weiter angespannt - es kommt immer wieder zu Angriffen. Im Westjordanland spitzt sich die Situation zu. Alle Entwicklungen im Liveblog.",
       "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
-      "published": "2026-11-20T05:26:00+09:00",
+      "published": "2026-11-20T06:25:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "ZDF heute",
-      "title_original": "EU und Großbritannien: Best Buddies statt Brexit?",
-      "summary_original": "Das Brüsseler Gipfeltreffen von Briten und Europäern könnte den Brexit ein Stück weit wieder zurückdrehen. Aber schon kleine Schritte der Annäherung kosten lange Diskussionen.",
-      "url": "https://www.zdfheute.de/politik/ausland/grossbritannien-europa-gipfel-brexit-eu-100.html",
-      "published": "2026-11-20T04:46:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "Bayern-Frauen besiegen tapfere Wienerinnen",
-      "summary_original": "Die Fußballerinnen des FC Bayern München sind im Champions-League-Spiel bei Austria Wien ihrer Favoritenrolle gerecht geworden. Doch es war ein hartes Stück Arbeit.",
-      "url": "https://www.zdfheute.de/sport/fussball-frauen-champions-league-bayern-sieg-wien-100.html",
-      "published": "2026-11-20T04:41:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "Chinas Aufstieg zur Weltmacht: Will Xi die Welt erobern?",
-      "summary_original": "China, Russland und die USA treffen sich zu einem Dreiergipfel. Ist das der Beginn einer neuen Weltordnung? Mirko Drotschmann erklärt, wie das Treffen China in die Karten spielt.",
-      "url": "https://www.zdfheute.de/video/drotschmann-erklaert-china-100.html",
-      "published": "2026-11-20T04:19:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "Wird die Linke die Mieten senken? Ja, aber...",
-      "summary_original": "Vergesellschaftungen, sinkende Mieten, Investitionen - das will Caren Lay (Linke). Nicht bezahlbar, sagt Jan Fleischhauer und fühlt Lay auch in puncto Antisemitismus auf den Zahn.",
-      "url": "https://www.zdfheute.de/politik/deutschland/keine-talkshow-fleischhauer-caren-lay-mieten-100.html",
-      "published": "2026-11-20T04:11:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "Entsteht eine neue Weltordnung?",
-      "summary_original": "Zwei Gipfeltreffen an einem Tag: Während Trump, Putin und Xi über die internationale Sicherheitslage diskutieren, empfängt Merz in Berlin Selenskyj und Vertreter aus 40 Ländern. ZDFheute live",
-      "url": "https://www.zdfheute.de/video/zdfheute-live/ukraine-update-shenzhen-folgen-100.html",
-      "published": "2026-11-20T03:45:00+09:00",
+      "title_original": "Militärökonom Keupp: Putin \"ist ein Vasall Chinas\"",
+      "summary_original": "Der Gipfel in China habe zwischen zwei Großmächten stattgefunden - und einer, die gerne dazugehören würde, sagt der Militärökonom Keupp. Xi habe Putin gezeigt, was seine Rolle sei.",
+      "url": "https://www.zdfheute.de/politik/ausland/putin-xi-trump-treffen-folgen-keupp-100.html",
+      "published": "2026-11-20T06:23:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -221,145 +221,172 @@
     },
     {
       "source": "n-tv",
-      "title_original": "Kanzleramt voller Staatslenker: \"Die Ukrainer sind nicht zu brechen\"",
-      "summary_original": "Sie passen kaum aufs Gruppenfoto: Die Koalition der Willigen trifft sich in Berlin, bleibt einen wichtigen Beschluss schuldig und erreicht doch etwas.",
-      "url": "https://www.n-tv.de/politik/Die-Ukrainer-sind-nicht-zu-brechen-id31555955.html",
-      "published": "2026-11-20T05:29:19+09:00",
+      "title_original": "\"Wenn Leute abweichen, ...\": Trump droht Musk nach dessen Maga-Abkehr",
+      "summary_original": "Die Niederlage der Republikaner bei der US-Kongresswahl hat Elon Musks Loyalität angegriffen. Seine hohen Wahlkampfspenden betrachtet der Tech-Milliardär nun als Fehlinvestition, von der Maga-Bewegung setzt er sich ab. US-Präsident Trump schickt ihm eine kaum verklausulierte Drohung.",
+      "url": "https://www.n-tv.de/politik/Trump-droht-Musk-nach-dessen-Maga-Abkehr-id31556151.html",
+      "published": "2026-11-20T09:59:25+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "n-tv",
-      "title_original": "Hohe Opferzahl bei Kreml-Truppen: Russland nutzt \"GTA VI\"-Hype zur Rekrutierung von Soldaten",
-      "summary_original": "Auch in Russland werden viele Gamer sehnlich auf den Start von \"GTA VI\" gewartet haben. Das russische Verteidigungsministerium wirbt gar mit dem Rockstar-Games-Hit - allerdings nicht fürs Zocken, sondern um neue Rekruten für die Invasion in der Ukraine.",
-      "url": "https://www.n-tv.de/politik/Russland-nutzt-GTA-VI-Hype-zur-Rekrutierung-von-Soldaten-id31555857.html",
-      "published": "2026-11-20T05:16:27+09:00",
+      "title_original": "\"Streit bis tief in die Nacht\": Arbeitgeber von Schwarz-Rot genervt",
+      "summary_original": "Das kräftezehrende Ringen zwischen Union und SPD um die Stromsteuer kommt bei den Arbeitgebern gar nicht gut an. Statt endlich die nötigen großen Reformen anzupacken, verliere sich die Bundesregierung in Selbstbeschäftigung, kritisiert der BDA-Chef.",
+      "url": "https://www.n-tv.de/politik/Arbeitgeber-von-Schwarz-Rot-genervt-id31556146.html",
+      "published": "2026-11-20T09:02:42+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "n-tv",
-      "title_original": "Beteiligung an Kriegsverbrechen?: Menschenrechtler fordern Festnahme von Ex-Mossad-Chef in Deutschland",
-      "summary_original": "Am 25. November soll Ex-Mossad-Chef Barnea im Deutschen Bundestag sprechen. Eine Menschenrechtsorganisation mit Sitz in Berlin fordert, dass es nicht so weit kommt. Sie will Barneas Festnahme wegen möglicher Beteiligung an Kriegsverbrechen erreichen.",
-      "url": "https://www.n-tv.de/politik/Menschenrechtler-fordern-Festnahme-von-Ex-Mossad-Chef-in-Deutschland-id31555860.html",
-      "published": "2026-11-20T05:15:33+09:00",
+      "title_original": "Früherer Vize-Minister Zalikow: Russisches Gericht verurteilt Schoigu-Vertrauten zu Lagerhaft",
+      "summary_original": "Mehr als drei Jahrzehnte lang steigt Ruslan Zalikow an der Seite von Sergej Schoigu in der Machthierarchie des Kreml auf. Nun endet die Karriere des früheren Vize-Verteidigungsministers mit einem drakonischen Urteil: Ein Gericht schickt den 70-Jährigen wegen Korruption ins Gefängnis.",
+      "url": "https://www.n-tv.de/politik/Russisches-Gericht-verurteilt-Schoigu-Vertrauten-zu-Lagerhaft-id31555997.html",
+      "published": "2026-11-20T08:31:38+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "n-tv",
-      "title_original": "Jetzt wartet das Top-Duell: Bayern-Frauen lösen Pflichtaufgabe torreich",
-      "summary_original": "Rekordspiel, Pflichtaufgabe, Aufgalopp: Das Champions-League-Duell der Fußballerinnen des FC Bayern München bei Austria Wien trägt viele Etiketten. So oder so: Es ist ein erfolgreicher, gleichwohl entspannter Abend für den deutschen Serienmeister.",
-      "url": "https://www.n-tv.de/sport/fussball/Bayern-Frauen-loesen-Pflichtaufgabe-torreich-id31555941.html",
-      "published": "2026-11-20T04:52:19+09:00",
+      "title_original": "Streit um \"Magdeburger Weg\": BSW-Chef de Masi sieht AfD-Kurs als \"Ritt auf Rasierklinge\"",
+      "summary_original": "Der BSW-Landesverband in Sachsen-Anhalt sorgt wegen seiner AfD-Nähe innerhalb der Partei für heftige Debatten. Gründerin Wagenknecht hält daran fest, dass gemeinsame Mehrheiten genutzt werden sollen. Parteichef de Masi formuliert dafür eine Bedingung.",
+      "url": "https://www.n-tv.de/politik/BSW-Chef-de-Masi-sieht-AfD-Kurs-als-Ritt-auf-Rasierklinge-id31556116.html",
+      "published": "2026-11-20T08:02:28+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "n-tv",
-      "title_original": "Der \"irre Ire\" schlägt wieder zu: Joey Kelly will neuen Weltrekord aufstellen",
-      "summary_original": "Joey Kelly kämpft mal wieder - zum 21. Mal - beim RTL-Spendenmarathon für die Kinder dieser Welt. Während der \"24h-Blaulicht-Challenge\" ackert er mit 22 Teams, 350 Metern Parcours und jeder Menge Muskelkraft.",
-      "url": "https://www.n-tv.de/panorama/Joey-Kelly-will-neuen-Weltrekord-aufstellen-id31553604.html",
-      "published": "2026-11-20T04:47:14+09:00",
+      "title_original": "\"Wer wird Millionär?: Sophia Thomalla verzockt 125.000 Euro für Kinder",
+      "summary_original": "Eine doppelte Nullnummer trübt das große Promi-Special von \"Wer wird Millionär?\" für Kinder. Sophia Thomalla legt einen irren Lauf hin - verzockt aber alles leichtfertig. Dabei hatte Alexander Zverev noch live im Studio gewarnt.",
+      "url": "https://www.n-tv.de/leute/tv/Sophia-Thomalla-verzockt-125-000-Euro-fuer-Kinder-id31549343.html",
+      "published": "2026-11-20T08:00:39+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "n-tv",
-      "title_original": "Nicht nur an Muskeln gekoppelt: Kann mehr tiefes Bauchfett zu Rückenschmerzen führen?",
-      "summary_original": "Rückenschmerzen sind ein weitverbreitetes Problem. Bewegung und der Aufbau der Muskulatur sollen davor schützen. Eine aktuelle Studie bringt nun einen weiteren Faktor in den wissenschaftlichen Fokus.",
-      "url": "https://www.n-tv.de/wissen/Kann-mehr-tiefes-Bauchfett-zu-Rueckenschmerzen-fuehren-id31553417.html",
-      "published": "2026-11-20T04:11:04+09:00",
+      "title_original": "Frankfurt-\"Tatort\" im Check: Kalter Fall, heißer Krimi?",
+      "summary_original": "Politthriller statt Sonntagsroutine: Im neuen Frankfurter \"Tatort\" taucht ein Killer des iranischen Regimes nach Jahrzehnten wieder auf. Kommissarin Azadi kennt ihn besser, als ihrem Kollegen Kulina lieb ist. Lohnt sich \"4 Finger\"?",
+      "url": "https://www.n-tv.de/leute/tv/Kalter-Fall-heisser-Krimi-id31547578.html",
+      "published": "2026-11-20T08:00:31+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "n-tv",
-      "title_original": "\"Verdammt, ich zieh' nicht\": Matthias Reim will mit 70 mit dem Rauchen aufhören",
-      "summary_original": "\"Sieben Bier, zu viel geraucht, das ist es, was ein Mann so braucht\", heißt es in Matthias Reims Megahit \"Verdammt, ich lieb' dich\". Doch zumindest eine Passage könnte für den Sänger bald überholt sein. Der passionierte Raucher denkt über ein Ende der Qualmerei nach.",
-      "url": "https://www.n-tv.de/leute/Matthias-Reim-will-mit-70-mit-dem-Rauchen-aufhoeren-id31555039.html",
-      "published": "2026-11-20T04:09:33+09:00",
+      "title_original": "Melsungen verpasst Sensation: Magdeburg gewinnt Königsklassen-Krimi trotz medizinischen Notfalls",
+      "summary_original": "Die MT Melsungen verlangt Paris Saint-Germain bis in die Schlussphase alles ab, doch es reicht nicht zur großen Überraschung in der Champions League. Titelverteidiger Magdeburg dagegen gewinnt seinen Krimi. Überschattet wird der Sieg von einer langen Unterbrechung.",
+      "url": "https://www.n-tv.de/sport/handball/Magdeburg-gewinnt-Koenigsklassen-Krimi-trotz-medizinischen-Notfalls-id31556103.html",
+      "published": "2026-11-20T07:00:43+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "n-tv",
-      "title_original": "Klares Signal aus Berlin: Merz: \"Russland muss begreifen: Es ist Zeit, die Waffen niederzulegen\"",
-      "summary_original": "Die Koalition der Willigen in Berlin sendet ein klares Signal: Die Ukraine werde unterstützt, so lange es nötig ist, so Kanzler Merz. Zudem führt er dem Kreml seine immensen Verluste auf dem Schlachtfeld vor Augen. Der Dreiergipfel des US-Präsidenten werde keinen Frieden bringen.",
-      "url": "https://www.n-tv.de/politik/Merz-Russland-muss-begreifen-Es-ist-Zeit-die-Waffen-niederzulegen-id31555538.html",
-      "published": "2026-11-20T04:00:56+09:00",
+      "title_original": "Trotz Anthropic-Börsengang: KI-Krise an der Wall Street hält an",
+      "summary_original": "Der Rekord-Börsengang des KI-Unternehmens Anthropic bringt der Wall Street die Begeisterung für Techwerte nicht zurück. Gespannt warten die US-Anleger nun, wie sich die Newcomer-Aktie entwickelt. Für weitere Nervosität sorgt die Zinssitzung der Fed im Dezember.",
+      "url": "https://www.n-tv.de/wirtschaft/KI-Krise-an-der-Wall-Street-haelt-an-id31556066.html",
+      "published": "2026-11-20T06:59:56+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "WELT",
-      "title_original": "„Ich weiß nicht, wie es weitergehen soll“ – Gaby Köster fürchtet Zwangsversteigerung ihres Hauses",
-      "summary_original": "Seit ihrem Schlaganfall ist Gaby Köster halbseitig gelähmt. Ihre Schulden werden nach eigener Aussage immer größer. Nun fürchtet sie die Zwangsversteigerung ihres Hauses. Sogar einen Spendenaufruf hat sie offenbar erwogen.",
-      "url": "https://www.welt.de/vermischtes/article6aff57c439a3e8110f0e2f9d/gaby-koester-fuerchtet-zwangsversteigerung-ihres-hauses-ich-weiss-nicht-wie-es-weitergehen-soll.html",
-      "published": "2026-11-20T05:41:23+09:00",
+      "title_original": "Wie sich Hubertus Heil in der Machtfrage um den SPD-Parteivorsitz in Stellung bringt",
+      "summary_original": "Bei seinem ersten Besuch an der Parteibasis stößt der frühere Arbeitsminister auf deutliche Unterstützung. Die SPD im Ruhrgebiet hält den 54-jährigen Niedersachsen für den idealen neuen Parteichef.",
+      "url": "https://www.welt.de/politik/deutschland/article6aff97bb39a3e8110f0e3178/parteitag-ruhr-spd-wie-sich-hubertus-heil-in-der-machtfrage-um-den-spd-parteivorsitz-in-stellung-bringt.html",
+      "published": "2026-11-20T10:07:56+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "WELT",
-      "title_original": "Die Wall Street erhält ihre neue Fieberkurve – und der erste Tag ist schon eine Warnung",
-      "summary_original": "Anthropic sammelt beim Börsengang so viel Geld ein wie kein Unternehmen zuvor. Zum Start springt die Aktie um ein Drittel nach oben. Dann kippt die Stimmung – und mit Anthropic wackelt die ganze Wall Street.",
-      "url": "https://www.welt.de/wirtschaft/plus6aff3243e79e7594eb9b6390/anthropic-ipo-die-wall-street-erhaelt-ihre-neue-fieberkurve-und-der-erste-tag-ist-schon-eine-warnung.html",
-      "published": "2026-11-20T04:35:29+09:00",
+      "title_original": "20 Millionen Verlust pro Monat – Lufthansa streicht 1000 Stellen",
+      "summary_original": "Die Lufthansa hat in den ersten neun Monaten 2026 einen operativen Verlust von 180 Millionen Euro gemacht, also 20 Millionen pro Monat. Der Vorstand will deshalb 1000 Stellen streichen und hat weitere Pläne.",
+      "url": "https://www.welt.de/wirtschaft/article6aff94735842ff528b9e0da5/nicht-wettbewerbsfaehig-20-millionen-verlust-pro-monat-lufthansa-streicht-1000-stellen.html",
+      "published": "2026-11-20T09:39:56+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "WELT",
-      "title_original": "„So einen Launch, so einen Hype habe ich noch nie erlebt“",
-      "summary_original": "Zwölf Stunden hat Games-Reporter Andreas Garbe GTA 6 getestet und ist vom Ergebnis begeistert. Doch bei aller Euphorie gibt es einen Punkt rund um die Entstehung des Spiels, den er deutlich kritisiert.",
-      "url": "https://www.welt.de/vermischtes/video6aff48645842ff528b9e0b35/gta-6-im-test-games-reporter-andreas-garbe-ueber-den-mega-hype-und-kritik-an-rockstar-games.html",
-      "published": "2026-11-20T04:19:30+09:00",
+      "title_original": "Zum Internetstar avanciertes Flusspferd Fiona in US-Zoo gestorben",
+      "summary_original": "Mehrere Versuche, eine vom Flusspferd Fiona versehentlich verschluckte Wollmütze zu entfernen, sind gescheitert. „Mit großer Trauer“ teilt der Zoo von Cincinnati jetzt den Tod des weltberühmten Tieres mit.",
+      "url": "https://www.welt.de/vermischtes/article6aff92625842ff528b9e0d93/nach-verschlucken-von-muetze-zum-internetstar-avanciertes-flusspferd-fiona-in-us-zoo-gestorben.html",
+      "published": "2026-11-20T09:33:24+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "WELT",
-      "title_original": "„Das tut uns nicht weh“ – Claudia Major nennt 100 Milliarden für die Ukraine „nicht sehr viel Geld“",
-      "summary_original": "Sicherheitsexpertin Claudia Major hält die Ukraine-Hilfe für Deutschland für finanzierbar und empfiehlt einen Blick in andere Länder. Ein Ende der Unterstützung brächte nach ihrer Einschätzung höhere Kosten.",
-      "url": "https://www.welt.de/politik/ausland/article6aff3b3ae79e7594eb9b640b/ukraine-das-tut-uns-nicht-weh-claudia-major-nennt-100-milliarden-fuer-kiew-nicht-sehr-viel-geld.html",
-      "published": "2026-11-20T04:15:59+09:00",
+      "title_original": "Frauen arbeiten in Europa ab sofort kostenlos",
+      "summary_original": "EU-weit liegt der durchschnittliche Bruttostundenlohn von Männern 11,1 Prozent höher als der von Frauen. Somit arbeiten Frauen über das Jahr gesehen ab dem 20. November kostenlos.",
+      "url": "https://www.welt.de/politik/ausland/article6aff8b495842ff528b9e0d89/gender-pay-gap-frauen-arbeiten-in-europa-ab-sofort-kostenlos.html",
+      "published": "2026-11-20T09:12:37+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "WELT",
-      "title_original": "„Die Welt ist eben nicht multipolar, sondern sie ist bipolar“",
-      "summary_original": "Xi empfängt Trump demonstrativ anders als Putin. Der frühere deutsche Botschafter in China, Michael Schaefer, sieht darin eine klare Botschaft über die neue Machtverteilung zwischen Peking, Washington und Moskau.",
-      "url": "https://www.welt.de/politik/ausland/video6aff3b7cee91e990acae7431/china-gipfel-mit-trump-und-putin-ex-botschafter-michael-schaefer-analysiert-xis-machtstrategie.html",
-      "published": "2026-11-20T03:35:36+09:00",
+      "title_original": "„Haben den Status, den die USA jetzt verloren haben, nie erreicht“ – Lauterbach warnt vor Masern",
+      "summary_original": "Unter anderem müsse die Impfquote in Deutschland steigen, meint der ehemalige Bundesgesundheitsminister Karl Lauterbach. Außerdem spricht er sich für mehr Aufklärung auf, um die hochansteckende Krankheit zu bekämpfen.",
+      "url": "https://www.welt.de/politik/article6aff8b3d39a3e8110f0e3145/ansteckende-krankheit-haben-den-status-den-die-usa-jetzt-verloren-haben-nie-erreicht-lauterbach-warnt-vor-masern.html",
+      "published": "2026-11-20T09:02:19+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "WELT",
-      "title_original": "„Wieder viele allgemeine Phrasen und wenig Konkretes“",
-      "summary_original": "„Dieser Gipfel heute hatte sehr stark eine symbolische Bedeutung“, sagt Sicherheitsexperte Nico Lange zum Treffen der Koalition der Willigen im Kanzleramt: „Der Bundeskanzler und andere wollten den Bildern aus Shenzhen etwas entgegensetzen.“",
-      "url": "https://www.welt.de/politik/ausland/video6aff3e0339a3e8110f0e2e1c/koalition-der-willigen-wieder-viele-allgemeine-phrasen-und-wenig-konkretes.html",
-      "published": "2026-11-20T03:29:56+09:00",
+      "title_original": "Selbst wenn man Frieden schließe — „sie werden versuchen, es wieder zu tun“, warnt Selenskyj",
+      "summary_original": "Merz organisiert das größte internationale Treffen aller Zeiten in der deutschen Regierungszentrale: Bei der „Koalition der Willigen“ besprechen 26 Staats- und Regierungschefs einen kontroversen amerikanischen Vorstoß.",
+      "url": "https://www.welt.de/politik/ausland/plus6aff81cd39a3e8110f0e312c/koalition-der-willigen-selbst-wenn-man-frieden-schliesse-sie-werden-versuchen-es-wieder-zu-tun-warnt-selenskyj.html",
+      "published": "2026-11-20T08:54:33+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "WELT",
-      "title_original": "„Die Finanzierung erscheint mir hoch spekulativ“",
-      "summary_original": "Anthropic ist mit einem Erlös von 107,3 Milliarden Dollar ein Rekord-Börsengang gelungen. „Einen großen Teil des Geldes muss das Unternehmen in seine Entwicklung stecken“, sagt Sandra Navidi, Expertin für transatlantische Wirtschaft.",
-      "url": "https://www.welt.de/wirtschaft/video6aff38e8e79e7594eb9b63eb/anthropic-boersengang-die-finanzierung-erscheint-mir-hoch-spekulativ.html",
-      "published": "2026-11-20T03:12:42+09:00",
+      "title_original": "Klage gegen „New York Times“ zugelassen – Trump fordert 15 Milliarden Schadenersatz",
+      "summary_original": "US-Präsident Donald Trump hat seit 2024 ⁠mehrere Medienunternehmen wegen kritischer Berichterstattung verklagt. Jetzt ließ ein Richter in Florida eine Klage gegen die „New York Times“ zu – Trump fordert 15 Milliarden Dollar.",
+      "url": "https://www.welt.de/politik/ausland/article6aff89605842ff528b9e0d83/wegen-verleumdung-klage-gegen-new-york-times-zugelassen-trump-fordert-15-milliarden-schadenersatz.html",
+      "published": "2026-11-20T08:49:24+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "WELT",
-      "title_original": "Sie wollten einen TÜV-Prüfer „erziehen“ – zwei Brüder müssen zusammen mehr als 32 Jahre in Haft",
-      "summary_original": "Zwei Brüder aus Berlin müssen mehr als 14 Jahre ins Gefängnis. Der Bundesgerichtshof bestätigte Schuldsprüche wegen mehrerer Angriffe und eines versuchten Mordes „aus nichtigem Anlass“.",
-      "url": "https://www.welt.de/vermischtes/article6aff03a19c68d2fcf0c7d254/clan-kriminalitaet-in-berlin-sie-wollten-einen-tuev-pruefer-erziehen-zwei-brueder-muessen-zusammen-mehr-als-32-jahre-in-haft.html",
-      "published": "2026-11-20T03:12:39+09:00",
+      "title_original": "Falsche Zuckerangaben – Coca-Cola ruft Dosen seiner Zitronen-Limo Sprite zurück",
+      "summary_original": "Sprite hat einige Dosen falsch etikettiert. Zuckerfreie Limo sei in Dosen mit klassischer geraten, was bei Risikogruppen gesundheitliche Auswirkungen haben kann. Woran man diese Dosen sofort erkennt.",
+      "url": "https://www.welt.de/vermischtes/article6aff83e95842ff528b9e0d79/getraenke-falsche-zuckerangaben-coca-cola-ruft-dosen-seiner-zitronen-limo-sprite-zurueck.html",
+      "published": "2026-11-20T08:28:21+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Regierungskoalition: Pistorius in Polen – Erinnerungskultur oder Wahlkampf in eigener Sache?",
+      "summary_original": "Beim Besuch des früheren Konzentrationslagers Auschwitz zeigt der Verteidigungsminister Kanzlerformat. Auch sonst meldet er sich auffällig häufig zu Wort. Stehen dahinter höhere Ambitionen?",
+      "url": "https://www.handelsblatt.com/politik/deutschland/regierungskoalition-pistorius-in-polen-erinnerungskultur-oder-wahlkampf-in-eigener-sache/100270841.html",
+      "published": "2026-11-20T09:28:56+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Kommentar: Die Führung der freien Welt liegt jetzt bei Europa",
+      "summary_original": "Donald Trump hat sich beim Dreiergipfel in Shenzhen mit Autokraten verbrüdert. Doch Deutschland und seine Verbündeten schaffen gleichzeitig in Berlin die historische Chance, dagegenzuhalten.",
+      "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-die-fuehrung-der-freien-welt-liegt-jetzt-bei-europa/100271397.html",
+      "published": "2026-11-20T06:49:27+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Rekord-Börsengang: Anthropic-Aktie schließt 17 Prozent im Plus – Deutlicher Kursrückgang im Handelsverlauf",
+      "summary_original": "Der KI-Anbieter feiert den größten Börsengang der Welt. Doch nach anfänglichen Kursgewinnen von über 30 Prozent ebbt die frühe Euphorie merklich ab. Experten suchen nach Gründen.",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/aktien/boersengang-anthropic-schliesst-17-prozent-im-plus-kursrueckgang-im-handelsverlauf/100270027.html",
+      "published": "2026-11-20T06:20:13+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -369,15 +396,6 @@
       "summary_original": "Der größte Börsengang der Welt sorgt selbst in der Weltmetropole New York für Trubel. Dabei passt nicht allen, was Anthropic und die KI-Elite so veranstalten – auch mit Blick auf die Märkte.",
       "url": "https://www.handelsblatt.com/finanzen/maerkte/anthropic-ipo-vor-der-nasdaq-warnen-sie-vor-dem-terminator-und-kursverlusten/100271388.html",
       "published": "2026-11-20T05:26:59+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Handelsblatt",
-      "title_original": "US-Börsen: US-Börsen rutschen nach Anthropic-IPO ins Minus",
-      "summary_original": "Die Euphorie nach dem Börsengang des KI-Entwicklers hält nicht an. Alle wichtigen US-Indizes können ihren starken Handelsbeginn nicht fortsetzen. Anthropic zieht die Aufmerksamkeit auf sich.",
-      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-rutschen-nach-anthropic-ipo-ins-minus/100271288.html",
-      "published": "2026-11-20T05:17:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -418,20 +436,29 @@
       "state_media": false
     },
     {
-      "source": "Handelsblatt",
-      "title_original": "Sachsen-Anhalt: Sondersitzung des Parlaments angesetzt: Siegmund kandidiert am 8. Dezember als Ministerpräsident",
-      "summary_original": "Ulrich Siegmund braucht drei Stimmen aus anderen Fraktionen, um Ministerpräsident zu werden. Die CDU will den Saal verlassen, das BSW sich enthalten – wie er zur Mehrheit kommt, ist offen.",
-      "url": "https://www.handelsblatt.com/politik/deutschland/sachsen-anhalt-afd-erwaegt-ministerpraesidentenwahl-schon-am-8-dezember/100271210.html",
-      "published": "2026-11-20T03:01:23+09:00",
+      "source": "Der Spiegel",
+      "title_original": "USA: Cyberdirektor Sean Cairncross verlässt nach IT-Ausfällen das Weiße Haus",
+      "summary_original": "Er dürfte eine eher arbeitsreiche Woche hinter sich haben – nun braucht er einen neuen Job: Mitten im Chaos um Nvidia und IT-Probleme bei Großkonzernen verlässt Cyber-Direktor Sean Cairncross das Weiße Haus.",
+      "url": "https://www.spiegel.de/ausland/usa-cyberdirektor-sean-cairncross-verlaesst-nach-it-ausfaellen-das-weisse-haus-a-e65eb701-4f48-47bf-86c6-e22b7af6bb47#ref=rss",
+      "published": "2026-11-20T10:18:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "Handelsblatt",
-      "title_original": "Börse: Schwere Vorwürfe: AMD-Aktie verliert nach Shortseller-Bericht zeitweise zweistellig",
-      "summary_original": "AMD galt als möglicher Profiteur des Nvidia-Skandals. Nun wettet ein Leerverkäufer gegen den Chipkonzern. Dessen Software taucht bei einer von den USA gesperrten Firma in China auf.",
-      "url": "https://www.handelsblatt.com/technik/it-internet/boerse-amd-aktie-verliert-nach-shortseller-bericht-deutlich/100271363.html",
-      "published": "2026-11-20T02:44:51+09:00",
+      "source": "Der Spiegel",
+      "title_original": "Zoo von Cincinnati: Flusspferd Fiona stirbt wegen verschluckter Strickmütze",
+      "summary_original": "Sie hatte eine Strickmütze verspeist, die in ihrem Gehege gelandet war. Tierärzte betreuten Flusspferddame Fiona im Zoo von Cincinnati seither rund um die Uhr. Retten konnten sie sie nicht.",
+      "url": "https://www.spiegel.de/panorama/zoo-von-cincinnati-flusspferd-fiona-stirbt-wegen-verschluckter-strickmuetze-a-463d0185-8c32-405c-a16d-c8e952b090bb#ref=rss",
+      "published": "2026-11-20T07:43:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Donald Trump warnt Elon Musk vor Absprung bei MAGA",
+      "summary_original": "Nach dem Wahldebakel der Republikaner bei der Parlamentswahl geht Tech-Milliardär Elon Musk auf Abstand zu Donald Trumps MAGA-Bewegung. Beim Präsidenten kommt das nicht so gut an.",
+      "url": "https://www.spiegel.de/ausland/donald-trump-warnt-elon-musk-vor-absprung-bei-maga-a-86e0a6f3-18e4-477d-8bd8-e7396533f0c5#ref=rss",
+      "published": "2026-11-20T06:32:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -481,29 +508,47 @@
       "state_media": false
     },
     {
-      "source": "Der Spiegel",
-      "title_original": "Kyjiw: Botschaftsgebäude bei russischen Angriffen beschädigt",
-      "summary_original": "Dieses Mal traf es auch die österreichische und die niederländische Botschaft: Eine Welle russischer Angriffe hat mehrere Gebäude in Kyjiw beschädigt. Sowohl Russland als auch die Ukraine melden Todesopfer.",
-      "url": "https://www.spiegel.de/ausland/kyjiw-botschaftsgebaeude-bei-russischen-angriffen-beschaedigt-a-df67b44c-8817-4748-9b7f-f7477d1dc696#ref=rss",
-      "published": "2026-11-20T05:02:00+09:00",
+      "source": "FAZ",
+      "title_original": "17 Prozent Kursplus: Fulminanter Börsenstart für Anthropic",
+      "summary_original": "Der Aktienkurs des KI-Unternehmens macht zum Handelsstart einen gewaltigen Sprung. Die sieben Mitgründer um die Amodei-Geschwister sind jetzt auf dem Papier Multimilliardäre.",
+      "url": "https://www.faz.net/aktuell/finanzen/boersenstart-anthropic-gelingt-kurssprung-um-34-prozent-201699078.html",
+      "published": "2026-11-20T06:56:02+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "Der Spiegel",
-      "title_original": "Großbritannien: Führt Andy Burnham sein Land zurück in die EU?",
-      "summary_original": "Der neue britische Premier sagt offen: Der Brexit hat dem Land geschadet. Manche in Andy Burnhams Partei hoffen längst auf mehr – eine Volksabstimmung über die Rückkehr in die Europäische Union.",
-      "url": "https://www.spiegel.de/ausland/grossbritannien-fuehrt-andy-burnham-sein-land-zurueck-in-die-eu-a-d7a5e0ec-b446-4bb1-bb87-6accdbaed99b#ref=rss",
-      "published": "2026-11-20T04:49:00+09:00",
+      "source": "FAZ",
+      "title_original": "ATP Finals: Zverev trumpft weiter auf – Sorgen um Titelrivale Alcaraz",
+      "summary_original": "Drittes Match, dritter Sieg, dazu Gruppenplatz 1 – für Alexander Zverev läuft es bei den ATP Finals weiter rund. Sportlich trifft das auch auf Carlos Alcaraz zu, aber der Spanier hat andere Probleme.",
+      "url": "https://www.faz.net/aktuell/sport/mehr-sport/atp-finals-zverev-trumpft-weiter-auf-sorgen-um-titelrivale-alcaraz-201700162.html",
+      "published": "2026-11-20T06:37:41+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "Der Spiegel",
-      "title_original": "Frankfurt: Richter wegen Geheimnisverrats verurteilt",
-      "summary_original": "Er chattete mit einem befreundeten Anwalt über geheime Interna – darunter Informationen zu einem Haftbefehl. Das Gericht in Frankfurt sagt: Er habe in einem Fall fahrlässig und in drei weiteren sogar vorsätzlich gehandelt.",
-      "url": "https://www.spiegel.de/panorama/frankfurt-richter-wegen-geheimnisverrats-verurteilt-a-4ffc4d1e-4971-425f-8446-8583928f2fbc#ref=rss",
-      "published": "2026-11-20T04:41:00+09:00",
+      "source": "FAZ",
+      "title_original": "Jeremiaha Maluze: „Die beste Zeit meines Lebens“",
+      "summary_original": "Jeremiaha Maluze überrascht mit seiner Zweikampfstärke und seinem dominanten Kopfballspiel. Zusammen mit Stürmer Younes Ebnoutalib zählt der Verteidiger bei der Eintracht zu den Aufsteigern der Saison.",
+      "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/eintracht-frankfurt/eintracht-frankfurt-jeremiaha-maluze-die-beste-zeit-meines-lebens-201686606.html",
+      "published": "2026-11-20T06:25:46+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Susan Sontag: Eine Frau, die das Meer pflügte?",
+      "summary_original": "Mehr Impact in Schwaben und darüber hinaus: Das DLA Marbach startet eine Reihe zu „Schriftstellerinnen im Archiv“. Die erste, jetzt eröffnete Ausstellung gilt Susan Sontag und ihrem Weg in die deutschsprachige Öffentlichkeit.",
+      "url": "https://www.faz.net/aktuell/feuilleton/buecher/ausstellung-ueber-susan-sontag-im-deutschen-literaturarchiv-201692661.html",
+      "published": "2026-11-20T06:19:43+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "„Heilige Familie“: Ein barockes Meisterwerk kehrt nach Potsdam zurück",
+      "summary_original": "Lange galt die Potsdamer Fassung von Charles Le Bruns „Heiliger Familie“ als verschollen. Dann tauchte das Bild des Hofmalers von Ludwig XIV. bei einer Auktion wieder auf. Jetzt kehrt es ins Neue Palais im Park Sanssouci zurück.",
+      "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/geraubtes-barockgemaelde-kehrt-nach-potsdam-zurueck-201696296.html",
+      "published": "2026-11-20T06:12:47+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -531,51 +576,6 @@
       "summary_original": "Die Frauen des FC Bayern gewinnen bei Austria Wien mit 4:0. Gegen den FC Barcelona können sie nun den direkten Einzug ins Viertelfinale der Champions League perfekt machen.",
       "url": "https://www.faz.net/aktuell/sport/fussball/bayern-frauen-gewinnen-4-0-bei-austria-wien-201700067.html",
       "published": "2026-11-20T05:33:30+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "FAZ",
-      "title_original": "Börsengang von Anthropic: Der Weckruf für Deutschland",
-      "summary_original": "Anthropic geht an die Börse. Deutschland braucht endlich mehr größere Börsengänge.",
-      "url": "https://www.faz.net/aktuell/finanzen/boersen-maerkte/anthropic-boersengang-warum-deutschland-aufwachen-muss-201698877.html",
-      "published": "2026-11-20T04:05:28+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "FAZ",
-      "title_original": "34 Prozent Kursplus: Fulminanter Börsenstart für Anthropic",
-      "summary_original": "Der Aktienkurs des KI-Unternehmens macht zum Handelsstart einen gewaltigen Sprung. Die sieben Mitgründer um die Amodei-Geschwister sind jetzt auf dem Papier Multimilliardäre.",
-      "url": "https://www.faz.net/aktuell/finanzen/boersenstart-anthropic-gelingt-kurssprung-um-34-prozent-201699078.html",
-      "published": "2026-11-20T04:04:23+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "FAZ",
-      "title_original": "Politisches Lebewesen: Fliegen sind dämonische Tiere",
-      "summary_original": "Das menschliche Zusammenleben wird oft mit Bienenvölkern und Ameisenstaaten verglichen, doch eigentlich lernen wir erst von der Fliege etwas über die Abgründe von Politik und Gesellschaft, sagt Davide Giuriato.",
-      "url": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/davide-giuriato-was-die-fliege-ueber-macht-und-politik-verraet-201236320.html",
-      "published": "2026-11-20T04:01:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "FAZ",
-      "title_original": "Rhein-Main-Liveblog: CSL Behring baut Produktion in Marburg aus",
-      "summary_original": "Was ist los in Frankfurt & Hessen? Lesen Sie aktuelle News & Nachrichten im News-Ticker von heute ► Was heute wichtig ist, erfahren Sie bei der F.A.Z.",
-      "url": "https://www.faz.net/aktuell/rhein-main/csl-behring-baut-produktion-in-marburg-aus-groesste-einzelinvestition-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
-      "published": "2026-11-20T04:01:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "FAZ",
-      "title_original": "Myanmar: Wille zum Völkermord?",
-      "summary_original": "Das Urteil aus Den Haag ist wegweisend. Die Frage ist, was daraus in der Praxis folgt – für Israel und die Welt.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/urteil-des-igh-gegen-myanmar-wille-zum-voelkermord-201698628.html",
-      "published": "2026-11-20T03:58:29+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -653,73 +653,73 @@
     },
     {
       "source": "Die Zeit",
+      "title_original": "Masern-Ausbrüche: Karl Lauterbach mahnt zu entschlossenerem Vorgehen gegen Masern",
+      "summary_original": "Die USA haben ihren Status als masernfreies Land verloren. Der ehemalige Bundesgesundheitsminister Lauterbach sagt, auch in Deutschland sei die Impfquote nicht ideal.",
+      "url": "https://www.zeit.de/gesundheit/2026-11/masern-ausbrueche-usa-deutschland-impfquote-karl-lauterbach",
+      "published": "2026-11-20T10:02:43+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Chip-Riese: Kalifornien will von Nvidia Aufklärung zu China-Lieferungen",
+      "summary_original": "",
+      "url": "https://www.zeit.de/news/2026-11/20/kalifornien-will-von-nvidia-aufklaerung-zu-china-lieferungen",
+      "published": "2026-11-20T09:57:43+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Tarifkonflikt: Ganztägiger Warnstreik auf Kieler Werften angelaufen",
+      "summary_original": "",
+      "url": "https://www.zeit.de/news/2026-11/20/ganztaegiger-warnstreik-auf-kieler-werften-angelaufen",
+      "published": "2026-11-20T09:42:31+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Schwetzingen: Zwei Schwerverletzte nach Zusammenstoß auf Landstraße",
+      "summary_original": "",
+      "url": "https://www.zeit.de/news/2026-11/20/zwei-schwerverletzte-nach-zusammenstoss-auf-landstrasse",
+      "published": "2026-11-20T09:32:52+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Auf Gehweg: 26-Jähriger in Weißensee angeschossen - Täter flüchtig",
+      "summary_original": "",
+      "url": "https://www.zeit.de/news/2026-11/20/26-jaehriger-in-weissensee-angeschossen-taeter-fluechtig",
+      "published": "2026-11-20T09:26:48+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Jugendproteste: Schülerkonferenz wirft Bundesregierung falsche Prioritäten vor",
+      "summary_original": "Beim Protesttag will die BSK heute zehn Forderungen zu »notwendigen Maßnahmen« vorstellen. Juso-Chef Philipp Türmer fordert eine Kraftanstrengung fürs Bildungswesen.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-11/bundesschuelerkonferenz-bildungspolitik-demonstration-berlin-genz-regelt",
+      "published": "2026-11-20T09:10:35+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Verteidigungsabkommen mit Polen: Boris Pistorius will Militärpakt mit Polen ausbauen",
+      "summary_original": "In Warschau kündigt der Verteidigungsminister mehr Kooperation in der Rüstungsindustrie an. Nach seinem Besuch in Auschwitz warnt Pistorius vor Rechtsextremen in Europa.",
+      "url": "https://www.zeit.de/politik/2026-11/verteidigungsabkommen-polen-deutschland-russland-nato-ostflanke",
+      "published": "2026-11-20T08:33:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
       "title_original": "Irankrieg: USA beziffern Kriegskosten auf fast 50 Milliarden Dollar",
       "summary_original": "Für die im Iran eingesetzten Waffen sowie deren Ersatz gaben die USA 48 Milliarden Dollar aus. Beschränkung von Trumps Kriegsbefugnissen scheitert im Senat. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
-      "published": "2026-11-20T05:51:03+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "Nach Midterms-Klatsche: Trump warnt Musk vor MAGA-Absprung",
-      "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/19/musk-zu-riesen-wahlkampfspenden-komme-mir-dumm-vor",
-      "published": "2026-11-20T05:46:31+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "Krisenstaat in der Karibik: Haitianische Polizei tötet 34 mutmaßliche Bandenmitglieder",
-      "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/19/haitianische-polizei-toetet-34-mutmassliche-bandenmitglieder",
-      "published": "2026-11-20T05:24:21+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "Ukraine-Gipfel in Berlin: Sogar die USA loben Europa",
-      "summary_original": "Friedrich Merz empfängt die Ukraine-Unterstützer in Berlin. Die zeigen sich beeindruckt von der »Stärke« Europas. Ist das ein Wendepunkt im Ringen um Frieden?",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/ukraine-gipfel-berlin-koalition-der-willigen-friedrich-merz-wolodymyr-selenskyj",
-      "published": "2026-11-20T05:18:25+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "Vollsperrung: Auto fährt bei Riesweiler auf stehenden Lastwagen auf",
-      "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/19/auto-faehrt-bei-riesweiler-auf-stehenden-lastwagen-auf",
-      "published": "2026-11-20T05:08:15+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "Nvidia ohne Jensen Huang: Wackelt jetzt der KI-Boom?",
-      "summary_original": "Jensen Huang ist weg, Nvidia übertrifft trotzdem die Erwartungen. Wie stabil ist ein KI-Boom, der an einem Konzern hängt? In »Was jetzt? – Die Woche«.",
-      "url": "https://www.zeit.de/politik/2026-11/jensen-huang-nvidia-chips-ki-megaspeed-trump-usa-china-was-jetzt-videopodcast",
-      "published": "2026-11-20T05:06:47+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "Bahn: Qualmende Zugbremsen sorgen für Schreckmoment",
-      "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/19/qualmende-zugbremsen-sorgen-fuer-schreckmoment",
-      "published": "2026-11-20T05:05:51+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "Handball: Trotz Notfall-Pause: SC Magdeburg siegt knapp bei GOG",
-      "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/19/trotz-notfall-pause-sc-magdeburg-siegt-knapp-bei-gog",
-      "published": "2026-11-20T04:56:24+09:00",
+      "published": "2026-11-20T08:29:31+09:00",
       "via": "rss",
       "state_media": false
     }
