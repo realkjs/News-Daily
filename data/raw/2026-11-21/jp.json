@@ -1,0 +1,875 @@
+{
+  "team": "jp",
+  "team_name_ko": "일본팀",
+  "collected_at": "2026-11-21T06:13:47.630894+09:00",
+  "headlines": [
+    {
+      "source": "NHK",
+      "title_original": "【随時更新】十勝岳 噴火警戒レベル2「火口周辺規制」 最新の情報を詳しく",
+      "summary_original": "【随時更新】十勝岳 噴火警戒レベル2「火口周辺規制」 最新の情報を詳しく NHK",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5acHhiVnB2NnI3Qjlac3NlTl9EWnhMdjhFRjdOUHpXLTZwMnhUa1RHLXRPakFzVVFVdFRYOHV5U3ZDeVVGYm1JdHIxNUozOVN0TnFJZ0lKVVBlMl9fRHhoenBIczFtMzg?oc=5",
+      "published": "2026-11-21T04:37:21+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "NHK",
+      "title_original": "林家ペー・パー子",
+      "summary_original": "林家ペー・パー子 NHK",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rdTFKN3k0VkdNMEc1czBOaTZRcmxQYkdlWldjd2VsUkFXQWFKRTZWSmc1RW81ZTR0QUYyOXFtMDUyaEQxekJZSjFoQ3FTNUxjUEJ4ZXp5cEdHbzNqVFJxa2UwRnRDVnpfb2ZicmlDWQ?oc=5",
+      "published": "2026-11-21T03:00:35+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "NHK",
+      "title_original": "かながわ番組放送予定（11月20日更新）",
+      "summary_original": "かながわ番組放送予定（11月20日更新） NHK",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55MFBsZEp6bl9iYVRSZGJ4TF9PS1IxOV8tZXR6LWtIZ3B0S3JlRHBPcTZESjhNMUJxRHRzUzA5czd3WGNjNWdVV3VJeFNrbGlwVW1IZS1UZlVPSHRralRMRzg3RzZWdE0?oc=5",
+      "published": "2026-11-21T01:31:50+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "NHK",
+      "title_original": "ホントは『ぎんぎんぎらぎら』だった？！",
+      "summary_original": "ホントは『ぎんぎんぎらぎら』だった？！ NHK",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5icjhCMW1LVHVJOXZEYXlVTXFvR2ZiU3RleEl3amdiRHpHQTY3WnM1dHF6cHUybk9GYWpyNi1YUWtkV3Fva3dfSmI2MG5PM3pnVFZtQmkxWG9tbjJOZ1FHYlg3TQ?oc=5",
+      "published": "2026-11-21T00:34:35+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "NHK",
+      "title_original": "林家ペー・パー子",
+      "summary_original": "林家ペー・パー子 NHK",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxWm9NSDBiZ0U3cTJ3UTg4aTAycFVsUG90MzJvSjVXMGwwejJwcWFLVTBscUFoTXlMNFVqVklfbVBXNWFvNnA1dmJqLV9HOTN3VDd4VTBlcHlCQVplQl9lZWNleGtJRC1xTlN1X1Nmdw?oc=5",
+      "published": "2026-11-21T00:31:14+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "NHK",
+      "title_original": "福岡県議会問題 もっと知りたい【まとめ記事】～福岡放送局のニュース・番組で～",
+      "summary_original": "福岡県議会問題 もっと知りたい【まとめ記事】～福岡放送局のニュース・番組で～ NHK",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JUk1rQVloTGh4dVFlY19QUmJXbHFPbENiQktGSkdaM2J5UW5UYnZmeUFDbDk5X1F2OThCR294S09rWWkzTVgxdzJ2WVMwRmZYZm41RzFsVDB3TEU0V0lYc1FUOGFrdw?oc=5",
+      "published": "2026-11-21T00:27:29+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "NHK",
+      "title_original": "70MAP 毎週木曜「ほっとニュース道央いぶりDAYひだか」で放送",
+      "summary_original": "70MAP 毎週木曜「ほっとニュース道央いぶりDAYひだか」で放送 NHK",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBQVI1ak9pdHZfTUhxRk5PZzdDY1dFUHVodFVQSGRob280bXdNYjNmX2trNDRtNUJaUWdUTC1nY0xEc0FHMWtJZ3FJTjZhV0xLQnJVRDdQRUx1ckZGaTl6bEIyV0NwQk0?oc=5",
+      "published": "2026-11-20T23:11:48+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "NHK",
+      "title_original": "ジュニア・ドラマシリーズ",
+      "summary_original": "ジュニア・ドラマシリーズ NHK",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DV09ybGJBRFd3b0Z2OHJsMHdOZHJyRzJpMFR5WHdqeEFGS0xGVkNHaENkWDNHamlfeEc2NkRVdFFUd3d4c2tHQm9JSlY3cnBtbzZvNTVHSnJETnlrVk5GdVZPVkRUZ3RaR0lzOA?oc=5",
+      "published": "2026-11-20T22:53:24+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "愛知県内の交通取り締まり情報11月21日(土)【発表:愛知県警】（2026年11月20日掲載）｜中京テレビNEWS NNN",
+      "summary_original": "愛知県内の交通取り締まり情報11月21日(土)【発表:愛知県警】（2026年11月20日掲載）｜中京テレビNEWS NNN 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMG1ZaEtNaUdjWFpwZkVpd002Y0U2SmtjVWpFZEg1TDFCYnExQ2xiQUt6eU9aRUxUMlhTbHdaZEpRYTdOUWctTF9KRG9fRTB4V1BYMjBMM0VpSmZSZjNvOHByV09VV1I4ZWlfYXYyUFJaNTRQRzJ3Z3JXSU83OFgwb0FZdzV2TWs?oc=5",
+      "published": "2026-11-21T06:07:55+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "作曲家の久石譲さんに名誉学位 イギリス王立音楽大学（2026年11月20日掲載）｜日テレNEWS NNN",
+      "summary_original": "作曲家の久石譲さんに名誉学位 イギリス王立音楽大学（2026年11月20日掲載）｜日テレNEWS NNN 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMFZ0Ni1KVERmeV9FcEc1MndlVU43enE2TDUyZVlsbmRKTURha2ZKUTVwbzdwRVZ3cVdibmRHOWxWMWMycmdyRkVKdzhhZE9TN2RGLXh5X09oUHItUDFiWG1sYjlDZGFFeEJGOWYwbXJOZk9uOHhON0hpc3l5MFBpN2hPc0M?oc=5",
+      "published": "2026-11-21T01:51:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "福岡県議会の金銭授受疑惑など調査 百条委員会の林泰輔県議が委員を辞任（2026年11月20日掲載）｜日テレNEWS NNN",
+      "summary_original": "福岡県議会の金銭授受疑惑など調査 百条委員会の林泰輔県議が委員を辞任（2026年11月20日掲載）｜日テレNEWS NNN 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wOWFWbkFyd0t4RDZmNVk3RWZ5Y21fckRYZG1MeDk1U19CTjRkZmpwcDRqaFhxM0xWaVBKYV9pdjhTSldicWRpT3BTLWhpTVYwZmQ2WXhKQ3ZEUzQwSDBVWmtIdjJUUHpqclVPbHNMVTBHaXhnU1FWczRyODc?oc=5",
+      "published": "2026-11-21T01:43:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "栃木県で“豚熱”（CSF）感染確認、約1300頭を全国5例目の「選択的殺処分」へ（2026年11月20日掲載）｜日テレNEWS NNN",
+      "summary_original": "栃木県で“豚熱”（CSF）感染確認、約1300頭を全国5例目の「選択的殺処分」へ（2026年11月20日掲載）｜日テレNEWS NNN 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhUGJtUi00VVlUckU0Z1kzMHl0UUNFNFIydG80QjNoOUNBaVJGN2VSdG9MUzIzc0c3SC1IN2ZOc3pCcXc2eExXRjJSaHA4ZGhoWlF6WnZSdkdzUWNFRnRPSXByZFNCYVBrZGtKME9ZUVh1Q0d2WF9QRmwyY3A?oc=5",
+      "published": "2026-11-21T00:20:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "【記者報告】愛子さま、きょうシンガポール公式訪問終え帰国へ 過去に思いを致し未来に向けての交流深める 皇室の“絆”も受け継ぎ",
+      "summary_original": "【記者報告】愛子さま、きょうシンガポール公式訪問終え帰国へ 過去に思いを致し未来に向けての交流深める 皇室の“絆”も受け継ぎ 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94b1c0ck01SlkxWlNkbmNJVjExeUhxZ2NTOW1HV2drRnU2dHBLMTZBTUtEaVhmUFdHUXZWQUY1VWpQZkZ5YTcwM1VTdWlNYzlMT0RrM3d1VVBxT2NRbWJXRXZuX3EyeVBRdVlzbVlMaDd4NjE2dFNXQjFnM2s?oc=5",
+      "published": "2026-11-21T00:00:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "愛子さま、シンガポールの小児がんセンターで闘病中の子どもたちと交流「頑張っていらっしゃいますね」",
+      "summary_original": "愛子さま、シンガポールの小児がんセンターで闘病中の子どもたちと交流「頑張っていらっしゃいますね」 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wVVdIWlpNY0VwNUJ1RHZBU2Y0b2cyMGZkUlFxTUFrVjNXc1FrMlZTZnd6S3RBY0JYOU9xbFREUmxneEtEcEw5ZDE2Nm1wazdpZ0JKSk95WE04UGpvVDVLaGNqT3UycWZ1aVVlYnB3TGY3LWlIR3FXTjJPRnc?oc=5",
+      "published": "2026-11-20T23:21:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "8人に次々暴行か…22歳女逮捕 3歳女児に“平手打ち”も 北海道旭川市（2026年11月20日掲載）｜日テレNEWS NNN",
+      "summary_original": "8人に次々暴行か…22歳女逮捕 3歳女児に“平手打ち”も 北海道旭川市（2026年11月20日掲載）｜日テレNEWS NNN 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DcGpJb2kyZm5LQWNjanQ2VTZyMEFRX2FEYm1MR1N4Qy1hRTRWSEtZTmhWek9uU1VUUWc2a2IzaEUzVDhQTF9UWUpqRGJ1SXIyNEluYmJ0Wnhkb0htWWdpUDExUmxYMU9mQy1IQUZwRWs2YWdOT0ZCWnJDMlk?oc=5",
+      "published": "2026-11-20T22:05:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本テレビ(NTV)",
+      "title_original": "【速報】震源地は熊本県天草・芦北地方 津波の心配なし（2026年11月20日掲載）｜日テレNEWS NNN",
+      "summary_original": "【速報】震源地は熊本県天草・芦北地方 津波の心配なし（2026年11月20日掲載）｜日テレNEWS NNN 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HZkRBQkstbFgyNWFNbm54b0FyaVkzRkk4cGhLb2xKRm94M2ptcDFpS19iVXdhWjMzb3llRUYxTjFrZzhiYUFKQUFIajRSWFExRjZqczFnSEpmNlFpSWRWemNhUzRhWDdzMGplajR6ckVyOUd1b2ZuY2VicEU?oc=5",
+      "published": "2026-11-20T21:50:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "熊本県で最大震度1の地震 熊本県・上天草市",
+      "summary_original": "熊本県で最大震度1の地震 熊本県・上天草市 TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84THRnVzFlUEhJYWtwYUYyVlozeFJFMURreDFVY0l1eWJGTTE1WVp1NHVfb1RmQkkxMFNkNjJiT2Y3Z1c5Z1JXQm9DRnR2cmw1Mi1OVjItdw?oc=5",
+      "published": "2026-11-21T04:46:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "熊本県で最大震度1の地震 熊本県・球磨村",
+      "summary_original": "熊本県で最大震度1の地震 熊本県・球磨村 TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8ycTFWcndyLVJ2U2gtcloySnR3S2VPUUVKSFBPeUp5Q1pjRXZpQ09FMFp2bHRweTdnLVpZUl91M2Z0Q1drRHFoVTNYdEhTejdXNHN6VDlXdw?oc=5",
+      "published": "2026-11-21T04:04:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "鹿児島県で最大震度1の地震 鹿児島県・鹿児島十島村",
+      "summary_original": "鹿児島県で最大震度1の地震 鹿児島県・鹿児島十島村 TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kYi11b1NPNHRaWVVjbWMyNVdHUVc0V2Z2TjZKYTFzdEgtV0VXYXo2akx4TXZpWm5uY1Z0UjZnQ2R0eEg5NmUtNjg3RHlFZEhuU2NMcGptWQ?oc=5",
+      "published": "2026-11-21T02:18:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "米中ロ首脳会談「10点満点で12点」3か国が“自画自賛”…「ヤルタ方式で平和は訪れない」欧州から冷ややかな声【news23】",
+      "summary_original": "米中ロ首脳会談「10点満点で12点」3か国が“自画自賛”…「ヤルタ方式で平和は訪れない」欧州から冷ややかな声【news23】 TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3TUVZaG1oVXZ0bDdfQm5DUTctZWhwaTB0aUd2OWJDZG9ySXNZZ2xvUTUwb21PMVBEVWFCb04tWWVSQmRpTElUQmFsVmVvLS1kNnBibDZfRQ?oc=5",
+      "published": "2026-11-21T02:16:21+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "不同意わいせつ容疑や消防学校でのパワハラ行為などで職員5人を処分 東京消防庁",
+      "summary_original": "不同意わいせつ容疑や消防学校でのパワハラ行為などで職員5人を処分 東京消防庁 TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1URTdXRnRWOHNicDFxSm9fd0xZX21VTjBfbmlCVmRLX3hqUE00Wk9ObFQ1aE1iSXJsMUVWT1dDcWY5MDhnUXUzN29NRHFlRXZ2bHBuc08wRQ?oc=5",
+      "published": "2026-11-21T02:15:41+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "今季最強寒波 各地で“冬の嵐”に… 車が雪道で横転「スピード出していないのに」3連休の天気は？【news23】",
+      "summary_original": "今季最強寒波 各地で“冬の嵐”に… 車が雪道で横転「スピード出していないのに」3連休の天気は？【news23】 TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BMDdJZlQtMmNvak85WWdKUldyMVI3cl9SN2psdFhXM2haQlJBUjN1ekFpQUwtYTNpZm9pbi1hUXdDRGVuVUJFTW1aWjVOT2x3MGZka0pzQQ?oc=5",
+      "published": "2026-11-21T01:49:20+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "「年収」「金融資産」まで…楽天証券で最大1500万口座個人情報流出 強盗など二次被害に不安の声【news23】",
+      "summary_original": "「年収」「金融資産」まで…楽天証券で最大1500万口座個人情報流出 強盗など二次被害に不安の声【news23】 TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aNmJfYWlfdlJuZjdTUldBUUpaZ25tNWF6czFGTGpoNXN4Qkh5QTFRYlM3SENYbDBnOGpHT3ppaXZMVE43VFM3VDc1M3V1M2E2cFZGeHA3RQ?oc=5",
+      "published": "2026-11-21T01:46:20+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TBS",
+      "title_original": "ほかにも3回 関文科大臣パーティーへの官僚参加 これまでの説明は「2回のみ」辞任は否定【news23】",
+      "summary_original": "ほかにも3回 関文科大臣パーティーへの官僚参加 これまでの説明は「2回のみ」辞任は否定【news23】 TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mMVA2TnJUSjlqejFsSWRSYWhmNktXR3IzTDVMYlpxYV83UF9UM2ZDS0Mzc2RzeFBVX1B1Y3M3NUd6Qkw5aU9OdE1XWXNLSEFXWEtJR1dMRQ?oc=5",
+      "published": "2026-11-21T01:39:26+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "トランプ氏 データセンター国外建設認めず 海外建設企業に「巨額の税金課す」と表明",
+      "summary_original": "トランプ氏 データセンター国外建設認めず 海外建設企業に「巨額の税金課す」と表明 テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GMW4za0QtQlBPTGFGb3hKNm9PbEZVOUpNRlcxbUthbFJFUW1sWGxlTDFsMVE0X0oyMWhyT1lBSFVIREpjeDNHWFc2MG9aTTAtdTNlMGR1cEp4X1Zxa1JaZGhUX1RrVFNoZTBZcXBjR1pPcVBxNG5VTTBn?oc=5",
+      "published": "2026-11-21T05:47:35+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "トランプ氏 米中ロ会談は「ここ数年で最も画期的」イランやウクライナ問題を協議",
+      "summary_original": "トランプ氏 米中ロ会談は「ここ数年で最も画期的」イランやウクライナ問題を協議 テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83bVBMZ0RUR01WU1BxaW90VFBjRlVpNDEtU3BnREw4TU1PS3FYVnFaOHg1NWhyT3BTUkJVMi13YjZxTUlOQUVsb1pVYTJ5dlpuX3VRRV9HcERnU1hFb2J1WmFKcklpUUZNRkRIXzJFQVctVndLRm1Zekd3?oc=5",
+      "published": "2026-11-21T05:19:53+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "ウクライナに“過去最大規模”の攻撃 8人死亡 ロシア報復警告後…首都の橋にも被害",
+      "summary_original": "ウクライナに“過去最大規模”の攻撃 8人死亡 ロシア報復警告後…首都の橋にも被害 テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yM3c2ZGpGMGZraGhZUzBVOEdWZlhJME1aM2wtQV94OHpCcURVc0tpNjNyTi1NOU1tTV9tSWRDYWFWdmZoSmI4TjY3ajlManZuN0oydlFVNS1LQ0NqOGxaVnBGOUpTT2k1SFR3V0NsTUFRNVFwLU82S0l3?oc=5",
+      "published": "2026-11-21T03:44:23+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "地震情報",
+      "summary_original": "地震情報 テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGdMd3JVSDBGX3lkRjdKamtQLXY0Rlo4U19FRlZuVkR1amE3VW1KOWw5QWRuRmZuZkpVTVBURUw1VEdoNDZ5dkJkSVZFSEJmblhjV2RPRkJuTmdNX0g2SEo0TUV3bU81Q2hxczhNUldCWTNMRDktMnI1empueDJhZw?oc=5",
+      "published": "2026-11-21T03:03:54+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "アンソロピック株急落 上場翌日に一時12％安 AI株に売り波及",
+      "summary_original": "アンソロピック株急落 上場翌日に一時12％安 AI株に売り波及 テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oSXVEdEhLeGs0T0ZzeWlaY2hKS2pWYkJpd0VUOEdwcVRSVFFkTkc2T3JHSHV4UHc3VEFGeERacEk0Vmt6ZFJUZGVGNVowTWdmenFjRl9LSkh4N2d4aFJEcVpEZi01OW0yMWhhbHlTaDZxX3FpME1EUlh3?oc=5",
+      "published": "2026-11-21T02:45:39+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "EU・英首脳会議 3分野で合意 食品の輸出入簡素化や若者10万人の受け入れなど",
+      "summary_original": "EU・英首脳会議 3分野で合意 食品の輸出入簡素化や若者10万人の受け入れなど テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12Y2Vxb1dzOTlXX2h2UXAtVjJKb21RNG1GYjJMaFJES3RXWTkyRkpZeURMWDhDZzdwWEcxeDVrSkZfTWt5cHZ0cGV4cFh6eWItR19yZjN1MnpYcVpCTldWS2c3LVUzRDdzX08wWWxjSUpKNVU0RE9heU9n?oc=5",
+      "published": "2026-11-21T02:33:12+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "ヨーロッパ各地で学生ら大規模デモ「防衛費より教育」生活環境の改善と未来の投資訴え",
+      "summary_original": "ヨーロッパ各地で学生ら大規模デモ「防衛費より教育」生活環境の改善と未来の投資訴え テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04VjNtX3Fsd1dfRVNmVFNSZjhrWm9NX2lXQkprN3JBTHY1TDFDZW4tTmRRNko5SERhYW1NMmlVMHNPdVpKY1htNlktbTE0dDdYT2hrV0ZxSzM4bDNhcjRHc1F2dElscWZKVFl2Q280X0J6WHFoUExKM0pB?oc=5",
+      "published": "2026-11-21T02:27:04+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ朝日",
+      "title_original": "【画像まとめ】事故で立ち往生“雪被害”相次ぐ 台風並みの暴風も…“初寒波”襲来 3連休にも影響",
+      "summary_original": "【画像まとめ】事故で立ち往生“雪被害”相次ぐ 台風並みの暴風も…“初寒波”襲来 3連休にも影響 テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TYTF3MGhVUDIta1RiMUJyN1RYMVZORGNtS2UyREs3RjVQd0ZYTlJOTDIzRGYwM3hDUTZVZl9lODdoVnpFbWlEVFdLYW53Y1dZSUVNRk5nZU5tYkV2UUhUTTNYNVBRRUtsUmpqenl2Ul9pQUlWRTZXWjRHMA?oc=5",
+      "published": "2026-11-21T01:29:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "【秋田県】11/21の天気予報",
+      "summary_original": "【秋田県】11/21の天気予報 FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mU1hYekx3WHVIaGliaVp5Vk9QR0RuYXEyWXFUc25sY1NkV2VHdEh6WFFfUnRXc2lKeGdTMUxPVGROQWgtNXFmXzFFM1llUQ?oc=5",
+      "published": "2026-11-21T05:10:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "【宮城県】11/21の天気予報",
+      "summary_original": "【宮城県】11/21の天気予報 FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ma2x6aXNLUzNuTUF1emsyQkxhZTI5RXJRSUpybXZEdEdPQ0pMV1BncXFpM1BiZjZUY2o1cTVNZDdSRk1oSk00dWtTYVIwUQ?oc=5",
+      "published": "2026-11-21T05:10:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "【和歌山県】11/21の天気予報",
+      "summary_original": "【和歌山県】11/21の天気予報 FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hWUZPci1sbS1SZERpbkxVejltcnJCS2hOc1ExemFlOTdhTkdCTjFwZDgzRDZXVHhVMVNsNVVyaC1nUmdNaC1LcjhUSnREUQ?oc=5",
+      "published": "2026-11-21T05:10:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "【徳島県】11/21の天気予報",
+      "summary_original": "【徳島県】11/21の天気予報 FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ET2Vpamh4emxmS216SE1wa2tJOUhwcXdmNmpESHdOd2tsbno2YXI5SW92SnhiWTI0UW9ET0ltWDUyWjg0aHRFbVM4M3UyQQ?oc=5",
+      "published": "2026-11-21T05:10:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "【長野県】11/21の天気予報",
+      "summary_original": "【長野県】11/21の天気予報 FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNMEZTMWthcU9hUWVMOEJESkw5UC1qNEFJbjJLU21saVc3ZHRHbW1rUEZxanpwRWhKTm1kelFXNWlGTUtlcnpDTXVVVDRiUQ?oc=5",
+      "published": "2026-11-21T05:10:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "警察庁がサイバー捜査の初動対応専門チーム「FFF」を設置 相次ぐ不正アクセス受け",
+      "summary_original": "警察庁がサイバー捜査の初動対応専門チーム「FFF」を設置 相次ぐ不正アクセス受け FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fdjBvZEkyNnR5UXFpbW54aW50RWQtTEE0eHBVWXRMWE84bVZhYXdMVF9EOVRGWW51Mzh2dXhDQnRVdVh4UHdKeFp0M2Z6UQ?oc=5",
+      "published": "2026-11-21T02:35:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "ポーランドにロシア軍の巡航ミサイル落下 首相「意図的な挑発行為」と非難",
+      "summary_original": "ポーランドにロシア軍の巡航ミサイル落下 首相「意図的な挑発行為」と非難 FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rYVJaaXdjR1ZyWGh1TkU0d3RGbG1Xb0l4aHo5Tk1oNGl4REgwUHVIcm5fVHhidkhPQl9WOVFDcXNyN0NNX1ptM3A4WnFaUQ?oc=5",
+      "published": "2026-11-21T01:46:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "フジテレビ(FNN)",
+      "title_original": "トヨタ 広がる水素の新技術 レースから防災まで",
+      "summary_original": "トヨタ 広がる水素の新技術 レースから防災まで FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qeENlY1ByWVFoV1U3M1VUWnIwSmFfMU5adHQ0NTNyQTM2Q1IzM25wUGRmcnY4M3hPcXduWFNmQWtkSVpXakk5REFmdDYwZw?oc=5",
+      "published": "2026-11-21T01:40:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "国債バブルと経済成長 両立は可能か｜日経モーニングプラスFT（モープラFT）",
+      "summary_original": "国債バブルと経済成長 両立は可能か｜日経モーニングプラスFT（モープラFT） テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YLS1xX3FxTEpONDZQVXVCYzdXM3R5QThZNkxRR1VwbkkwSnkzXzE3dWZQbTJsLUdfXzFjOGJwaDNfaDYxQlBNMGtsYk1aMzAzZFViWlZ1NVRPZDZSX1NfSg?oc=5",
+      "published": "2026-11-21T04:13:05+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "APEC首脳会合開幕 米中露首脳会談へ 米露会談の開催も ウクライナ協議は",
+      "summary_original": "APEC首脳会合開幕 米中露首脳会談へ 米露会談の開催も ウクライナ協議は テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45OUtVUTFzeXVUT2VJWm5Pb0Fla09SMHNKdnF4Qnh4SmQ0UXhmY204cGlNbjd5bEYtLTlMVVI3WVRJVHNVazFSNUduMUlMN0RNQVRLcWJlcmxONXRYMFlz?oc=5",
+      "published": "2026-11-21T04:12:59+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "米ターゲット 見通し引き上げ 値下げで客足伸びる",
+      "summary_original": "米ターゲット 見通し引き上げ 値下げで客足伸びる テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByUkFSa1QyOXh0bFQ5bVhfdm5IeWNpQXRlcXZIeWIyU0VIc1pVWnliQzBJMkc5X1VNSEFVb0pNZGdZSGN3dG45V2YxaFRHRWVDQmc4NVVkTUNhYUV5czNLd2xNNA?oc=5",
+      "published": "2026-11-21T03:49:40+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "日経平均続伸 アンソロピックIPOに期待と不安、半導体株は強弱まちまち【日経CNBC/きょうのポイント、明日のヒント】",
+      "summary_original": "日経平均続伸 アンソロピックIPOに期待と不安、半導体株は強弱まちまち【日経CNBC/きょうのポイント、明日のヒント】 テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLa19uVGo3ZWtmTDhpZmQ5VlRqbXpCX0VDWFVfWjNRUDlPMHF6UmNJQVItLTZqZU90VktjYlYtblc0cjUwZEZsNGpFS3VoWVRrX1RTc3hZUkxKREtLSlhMcjdHeEMtWnc?oc=5",
+      "published": "2026-11-21T02:15:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "【為替見通し】個人投資家のポジションの傾き",
+      "summary_original": "【為替見通し】個人投資家のポジションの傾き テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUVThIY0ZIaC1vUWtGalJERGktNTRzb2N1TDJseGRDaGJKQWFQbktMLW1icXF4bkNyTXZDcm5RQ1hBWVcydEdpYnh6OVVDMHlqeDVIaVFFRDNvTXN0TklTcg?oc=5",
+      "published": "2026-11-21T01:03:14+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "最新の国際ニュース",
+      "summary_original": "最新の国際ニュース テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oTkhOOTZIaXVxc3RjUFBEeVNnVGFJdzNqclZ4YXZWMU15RHJJaVBla3U5cHkyc0FuaFpOZ1AzV194QWtNZ185LWZSZmp6b1N6UzF6ek5JZ004WlUtcUpGbV9mY1c?oc=5",
+      "published": "2026-11-21T00:56:31+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "AIで攻められる時代 AIで企業を守る｜Newsモーニングサテライト（モーサテ）",
+      "summary_original": "AIで攻められる時代 AIで企業を守る｜Newsモーニングサテライト（モーサテ） テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nRldfZ0Z4SnR4RTMyM0pQV0N4dXhyREdicEVZUTcta2hGdG1RZGxTZFpsR003dVh0YUxGdHBKTmhFelYyM0t1TTJKeE9uZFBkMjZkT3Z4VUo4UklV?oc=5",
+      "published": "2026-11-21T00:48:14+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "テレビ東京(日経)",
+      "title_original": "米アンソロピックが上場…日経平均株価は大幅下落のなぜ?▼MBO増加の背景｜ワールドビジネスサテライト（WBS）",
+      "summary_original": "米アンソロピックが上場…日経平均株価は大幅下落のなぜ?▼MBO増加の背景｜ワールドビジネスサテライト（WBS） テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56T2dhU3ZNcG9URXZVS0xIYlF4SVd4cnNIZGxVTXBUR1k2U3ZEYkZyQURKR1FDYmNXMnlQOGZScFE2eVM4S09WdVNCbndBRG9DMXJsc0tUQ29OWmRV?oc=5",
+      "published": "2026-11-20T23:00:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "ラグビー日本代表・佐藤「フィジカルバトルで勝つ」 21の次戦へ調整",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQODH20COQ0Q6A121C2000000/",
+      "published": "2026-11-21T05:05:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "ドイツ国防相「ばかげている」発言で米次官に謝罪 ウクライナ巡り",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQOGN20CXP0Q6A121C2000000/",
+      "published": "2026-11-21T05:01:32+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "フジモリ氏、一問一答 「規律や謙虚さ、熊本出身のおばあちゃんに学んだ」",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQOGN20CJ10Q6A121C2000000/",
+      "published": "2026-11-21T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "イヤホン、「隠れ難聴」対応 ミライスピーカーやオーディオテクニカ",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQOUC19CJK0Z11C26A1000000/",
+      "published": "2026-11-21T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "メタ製VR端末で「牧場物語」 マーベラス、メガネ型発売が契機",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQOUC19CIU0Z11C26A1000000/",
+      "published": "2026-11-21T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "大阪市廃止で経済成長率が上昇？ 都構想の財政試算、問われる根拠",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQOUF18BXM0Y6A111C2000000/",
+      "published": "2026-11-21T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "フジモリ大統領インタビュー「ペルーを南米の玄関口に」 日本企業を誘致",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQOGN20BNG0Q6A121C2000000/",
+      "published": "2026-11-21T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "日本経済新聞",
+      "title_original": "柔道・斉藤立、ロス五輪へ正念場 復帰も100キロ超級一番手は道半ば",
+      "summary_original": "",
+      "url": "https://www.nikkei.com/article/DGXZQODH17BT10X11C26A1000000/",
+      "published": "2026-11-21T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "「要塞」化する阪急の駅、完成いつ？ 開かずの踏切の街で待つ人たち",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVCN2K0WVCNOXIE044M.html?ref=rss",
+      "published": "2026-11-21T06:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "川崎市OB採用は「価格入手を期待」 官製談合巡り協会関係者供述か",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVCN32G6VCNULOB01MM.html?ref=rss",
+      "published": "2026-11-21T06:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "「何で当選できたか分かっているな」期待と恐怖 高市流の自民党統治",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVCM3HFJVCMUTFK02CM.html?ref=rss",
+      "published": "2026-11-21T06:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "高市首相、APECで台湾代表と会談せず 昨年はXに投稿、中国反発",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVCN2551VCNUTFK00KM.html?ref=rss",
+      "published": "2026-11-21T06:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "車検切れドライバーの運転を見逃した疑い 警察官を書類送検・神奈川",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVCN3QVTVCNULOB01CM.html?ref=rss",
+      "published": "2026-11-21T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "未着工の原発計画で交付金165億円 2県3市町、40年続く事例も",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVCM3GB9VCMPLFA005M.html?ref=rss",
+      "published": "2026-11-21T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "公明「大胆な修正ない限り賛成できない」 消費減税めぐり6項目要求",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVCN460DVCNUTFK008M.html?ref=rss",
+      "published": "2026-11-21T05:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "朝日新聞",
+      "title_original": "リニア工事現場で川の水噴出 川崎市麻生区 JR東海、因果関係調査",
+      "summary_original": "",
+      "url": "http://www.asahi.com/articles/ASVCN55PYVCNUTIL023M.html?ref=rss",
+      "published": "2026-11-21T00:52:53+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "フィギュアＧＰ、島田麻央が首位発進…ＳＰ７９点台の高得点「耐えたかなという感じ」「明日は修正したい」",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/sports/winter/20261121-GYT1T00074/",
+      "published": "2026-11-21T02:20:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "ｉＰＳ細胞使い「免疫不全症」治療の新手法、京都大など発表…ウイルス・細菌排除するＴ細胞の「もと」作製",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/medical/20261121-GYT1T00025/",
+      "published": "2026-11-21T01:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "ケイコ・フジモリ大統領「日本とは長いつながり」「成果持って帰れること喜ばしい」…読売新聞インタビュー",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/world/20261121-GYT1T00023/",
+      "published": "2026-11-21T00:45:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "英国とＥＵ、貿易円滑化で合意…ブレグジットによる「ぎくしゃく」から関係再構築へ「リセット」",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/world/20261121-GYT1T00011/",
+      "published": "2026-11-21T00:30:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "［深層ＮＥＷＳ］米中露首脳会談「歴史的だったが、歴史変える会議ではなかった」…垂秀夫・前駐中国大使",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/world/20261121-GYT1T00009/",
+      "published": "2026-11-21T00:10:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "「回転ずし」米出店拡大、健康イメージで伸びる消費…「スシロー」ＮＹに１号店・「くら寿司」は１００店に",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/economy/20261120-GYT1T00472/",
+      "published": "2026-11-21T00:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "「すみはね」さんら人気クリエイターが報道機関４社を取材した動画公開…読売新聞の編集会議や新聞制作の現場を紹介",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/national/20261120-GYT1T00226/",
+      "published": "2026-11-21T00:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "読売新聞",
+      "title_original": "マイクロソフト「アウトルック」など大規模障害、古川デジタル相が原因究明とシステム安定稼働を要請",
+      "summary_original": "",
+      "url": "https://www.yomiuri.co.jp/economy/20261120-GYT1T00408/",
+      "published": "2026-11-20T23:45:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "「イザベラ・バード」を歩く:/15 ゴミ一つない美しい町 新潟",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261113/k00/00m/200/041000c",
+      "published": "2026-11-21T06:00:20+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "いま会いたい:「五輪よりも気候対策」 雪崩に遭遇した選手が気づいた優先順位",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261120/k00/00m/050/191000c",
+      "published": "2026-11-21T06:00:15+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "国際法廷が命じても帰れない ロヒンギャ帰還を阻む二つの壁",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261120/k00/00m/030/343000c",
+      "published": "2026-11-21T05:54:02+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "「共にあることの大切さを」被災地と交流続けるウィーン・フィル",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261118/k00/00m/310/008000c",
+      "published": "2026-11-21T05:45:10+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "ジェノサイド判決、履行迫れるか ミャンマー反発、外交復権も",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261120/k00/00m/030/347000c",
+      "published": "2026-11-21T05:30:14+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "ある日、家の向かいに巨大データセンター 東京の住宅密集地で今",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261120/k00/00m/040/032000c",
+      "published": "2026-11-21T05:30:14+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "西田敏行さんの功績紹介 着用衣装などゆかりの品々展示 福島",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261120/k00/00m/310/023000c",
+      "published": "2026-11-21T05:15:10+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "毎日新聞",
+      "title_original": "ガザ攻撃は「ジェノサイド」 動員されるホロコーストの記憶",
+      "summary_original": "",
+      "url": "https://mainichi.jp/articles/20261120/k00/00m/030/267000c",
+      "published": "2026-11-21T05:00:21+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "女子SPで島田麻央が首位、フィギュアGP2連勝へ好発進 第5戦フィンランディア杯開幕",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261121-WQDEDQSS2RISDHTQZYM4WPSPXA/",
+      "published": "2026-11-21T00:19:40+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "女子SPで島田麻央が首位、フィギュアGP2連勝へ好発進 第5戦フィンランディア杯開幕",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261121-WQDEDQSS2RISDHTQZYM4WPSPXA/",
+      "published": "2026-11-21T00:19:40+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "参政の神谷代表、原子力潜水艦保有に賛同 「持っていい。抑止力として費用対効果良い」",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261120-2RFIMXW25FPRDJJ3R2WEAHQ4JM/",
+      "published": "2026-11-20T23:59:17+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "参政の神谷代表、原子力潜水艦保有に賛同 「持っていい。抑止力として費用対効果良い」",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261120-2RFIMXW25FPRDJJ3R2WEAHQ4JM/",
+      "published": "2026-11-20T23:59:17+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "露軍の巡航ミサイルがポーランド領内に落下 付近では英仏主導の有志国連合部隊が演習中",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261120-QHIFCRLZJBLEHOLDZI4AZIBHFY/?outputType=asynd",
+      "published": "2026-11-20T23:58:47+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "露軍の巡航ミサイルがポーランド領内に落下 付近では英仏主導の有志国連合部隊が演習中",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261120-QHIFCRLZJBLEHOLDZI4AZIBHFY/?outputType=asynd",
+      "published": "2026-11-20T23:58:47+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "リニア中央新幹線工事で川の水噴出 川崎のトンネル工事現場、周囲に影響なし",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261120-HYBLLFW6ORNVDN6MGZECZYGG5A/",
+      "published": "2026-11-20T23:38:15+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "産経新聞",
+      "title_original": "「問題の複雑化を避けるべき」 中国、国際司法裁のロヒンギャ「集団殺害」判決に注文",
+      "summary_original": "",
+      "url": "https://www.sankei.com/article/20261120-GYBVKJRYXFK25FYO6WVWC5TP7E/?outputType=asynd",
+      "published": "2026-11-20T23:37:29+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "Saudis make deal with Japan to replenish depleted oil stockpiles",
+      "summary_original": "The accord is further evidence of how major producers and consumers are taking steps to boost their energy security amid the U.S.-Iran war.",
+      "url": "https://www.japantimes.co.jp/business/2026/11/20/saudi-japan-oil-deal/",
+      "published": "2026-11-20T20:07:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "Takaichi meets with leaders of Chile and Peru in bid to boost ties",
+      "summary_original": "Peruvian President Keiko Fujimori and Chilean President Jose Antonio Kast held their first bilateral summits with Tokyo on Friday.",
+      "url": "https://www.japantimes.co.jp/news/2026/11/20/japan/takaichi-peru-chile-leaders-meet/",
+      "published": "2026-11-20T19:53:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "Japanese see current ties with China and Russia as worst on record, survey shows",
+      "summary_original": "Some 93% of respondents have described Japan-China relations as poor or somewhat poor, the highest since the government began posing the question.",
+      "url": "https://www.japantimes.co.jp/news/2026/11/20/japan/politics/japan-china-russia-ties-survey/",
+      "published": "2026-11-20T18:20:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "Mitsubishi Heavy Industries to take on launch operations for Japan’s H3 rocket",
+      "summary_original": "Transfer of the operations from the Japan Aerospace Exploration Agency will take part in stages and begin with the next launch.",
+      "url": "https://www.japantimes.co.jp/business/2026/11/20/companies/h3-rocket-mitsubishi/",
+      "published": "2026-11-20T17:43:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "From ukiyo-e to ‘Godzilla,’ where do Japanese monsters stand in the Asian imagination?",
+      "summary_original": "\"Myths and Monsters: The Art of Fantasy in Asia\" exhibits some 430 works, surveying two centuries of Asian storytelling, with a heavy focus on Japan.",
+      "url": "https://www.japantimes.co.jp/culture/2026/11/20/art/japanese-monsters-asian-art-exhibition-hong-kong/",
+      "published": "2026-11-20T17:37:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "Indonesia’s Prabowo and China’s Xi discuss future South China Sea cooperation",
+      "summary_original": "Cooperation agreements with China in the waterway have for years made nations wary they could be interpreted as legitimizing Beijing's claims.",
+      "url": "https://www.japantimes.co.jp/news/2026/11/20/asia-pacific/politics/indonesia-south-china-sea-xi/",
+      "published": "2026-11-20T17:31:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "Red card drama at World Cup inspired Kozo Tashima’s run for FIFA presidency",
+      "summary_original": "Tashima said he wanted to restore trust in FIFA.",
+      "url": "https://www.japantimes.co.jp/sports/2026/11/20/soccer/kozo-tashima-red-card/",
+      "published": "2026-11-20T17:28:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Japan Times",
+      "title_original": "Over 15,000 register interest in class action after Rakuten Securities breach",
+      "summary_original": "Access credentials and branch codes for 11.25 million accounts and personal data for 4.47 million were exposed in a recent breach, the firm has said.",
+      "url": "https://www.japantimes.co.jp/news/2026/11/20/japan/crime-legal/rakuten-securities-lawsuit/",
+      "published": "2026-11-20T17:24:00+09:00",
+      "via": "rss",
+      "state_media": false
+    }
+  ],
+  "unavailable_sources": [
+    "Nikkei Asia"
+  ],
+  "errors": {}
+}
