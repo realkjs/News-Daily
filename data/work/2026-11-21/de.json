@@ -1,0 +1,1448 @@
+{
+  "team": "de",
+  "headlines": [
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "tagesschau in 100 Sekunden",
+      "title_ko": "tagesschau 100초 뉴스",
+      "summary_ko": "tagesschau 100초 요약 영상 (제목 기준)",
+      "url": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1687336.html",
+      "published": "2026-11-21T05:34:38+09:00",
+      "tags": [],
+      "event": "tagesschau-100-seconds",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Großbritannien: Schuldsprüche in Vergewaltigungsprozess",
+      "title_ko": "영국: 성폭행 재판서 유죄 판결",
+      "summary_ko": "프랑스의 지젤 펠리코 사건을 연상시키는 사건으로, 영국 여성 조앤 영이 수년간 남편에게 약물을 투여당한 뒤 인터넷에서 성폭행 대상으로 제공됐다. 남성 4명이 유죄 판결을 받았다.",
+      "url": "https://www.tagesschau.de/ausland/europa/joanne-young-100.html",
+      "published": "2026-11-21T05:25:44+09:00",
+      "tags": [],
+      "event": "uk-joanne-young-rape-trial",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Mehr als 100 Betriebe beteiligt: IG Metall setzt weiter auf ganztätige Warnstreiks",
+      "title_ko": "100개 넘는 사업장 참여: IG메탈, 종일 경고파업 계속",
+      "summary_ko": "바이에른의 BMW·아우디, 북부 조선소 등에서 10만 명 이상이 24시간 작업을 중단했다. 새 협상 제안에도 파업 물결은 멈추지 않았고 다음 주에도 이어진다.",
+      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-streik-112.html",
+      "published": "2026-11-21T04:58:08+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "ig-metall-warning-strikes",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Militärübung der \"Koalition der Willigen\" in Polen",
+      "title_ko": "'의지의 연합' 군사훈련, 폴란드에서 실시",
+      "summary_ko": "'의지의 연합'이 폴란드에서 군사훈련을 실시 (제목 기준)",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1687282.html",
+      "published": "2026-11-21T04:36:11+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "coalition-of-willing-exercise-poland",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Tote bei russischen Angriffen auf Brücken in Kiew",
+      "title_ko": "러시아의 키이우 교량 공격으로 사망자 발생",
+      "summary_ko": "러시아가 키이우의 교량들을 공격해 사망자가 발생 (제목 기준)",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1687278.html",
+      "published": "2026-11-21T04:34:57+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "russia-strikes-kyiv-bridges",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "EU und Großbritannien wollen sich wieder annähern",
+      "title_ko": "EU와 영국, 다시 관계 개선 추진",
+      "summary_ko": "EU와 영국이 재접근을 추진 (제목 기준)",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1687276.html",
+      "published": "2026-11-21T04:33:35+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "uk-eu-rapprochement",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Weltklimakonferenz geht in die Verlängerung, Benjamin Weber, ARD Istanbul, zzt. Antalya, mit Informationen",
+      "title_ko": "세계기후회의 연장 진행 — ARD 이스탄불 벤야민 베버 기자(안탈리아 현지) 보도",
+      "summary_ko": "세계기후회의(COP31)가 연장 협상에 들어감 (제목 기준)",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1687274.html",
+      "published": "2026-11-21T04:32:42+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation"
+      ],
+      "event": "cop31-antalya",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "IG Metall weitet Warnstreiks aus",
+      "title_ko": "IG메탈, 경고파업 확대",
+      "summary_ko": "IG메탈이 경고파업을 확대 (제목 기준)",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1687272.html",
+      "published": "2026-11-21T04:32:01+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "ig-metall-warning-strikes",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Aktuelles zum Krieg in der Ukraine",
+      "title_ko": "우크라이나 전쟁 최신 소식",
+      "summary_ko": "2022년 2월부터 러시아가 우크라이나를 상대로 침략 전쟁을 벌이고 있으며 전투가 계속되고 있다. 모든 전개를 라이브 티커로 전한다.",
+      "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
+      "published": "2026-11-21T06:08:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-war-liveblog",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
+      "title_ko": "이란 전쟁·중동 분쟁: 라이브 블로그 전체 뉴스",
+      "summary_ko": "중동 정세는 여전히 긴장 상태로 공격이 반복되고 있으며 요르단강 서안 상황이 악화되고 있다.",
+      "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+      "published": "2026-11-21T06:08:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "middle-east-iran-liveblog",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Gen-Z-Proteste: Demos enden weitgehend friedlich",
+      "title_ko": "Z세대 시위: 대체로 평화적으로 종료",
+      "summary_ko": "'Gen Z regelt' 시위에 전국적으로 수천 명이 참여했다. 대부분 평화적이었으나 예상보다 참가자는 적었다.",
+      "url": "https://www.zdfheute.de/politik/deutschland/gen-z-proteste-schulpolitik-militaerdienst-liveblog-100.html",
+      "published": "2026-11-21T06:04:00+09:00",
+      "tags": [],
+      "event": "gen-z-protests",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "US-Börsen: Abverkauf bei KI-Aktien dauert weiter an",
+      "title_ko": "미국 증시: AI 주식 매도세 지속",
+      "summary_ko": "금요일에도 전 세계 증시 하락이 이어졌다. AI 주식뿐 아니라 다른 종목도 크게 매도됐다.",
+      "url": "https://www.zdfheute.de/wirtschaft/boerse-ki-aktien-verlust-100.html",
+      "published": "2026-11-21T05:48:00+09:00",
+      "tags": [
+        "stocks"
+      ],
+      "event": "global-stock-selloff",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Schock für Bayern: Kane und Olise verletzt ausgewechselt",
+      "title_ko": "바이에른 충격: 케인·올리세 부상 교체",
+      "summary_ko": "쾰른과의 홈경기에서 해리 케인이 일찍 교체됐고 미카엘 올리세는 하프타임에 물러났다.",
+      "url": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-bayern-koeln-kane-verletzt-100.html",
+      "published": "2026-11-21T05:46:00+09:00",
+      "tags": [],
+      "event": "bayern-kane-olise-injury",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "AfD in NRW: Wie die Partei sich intern bekriegt",
+      "title_ko": "NRW 주 AfD: 당내 분열 양상",
+      "summary_ko": "일요일 NRW 주 AfD 전당대회에서 단합을 과시할 예정이지만, 주 지부 내부 갈등이 심하며 폭행 이야기까지 나온다.",
+      "url": "https://www.zdfheute.de/politik/deutschland/afd-nrw-streit-und-konflikte-100.html",
+      "published": "2026-11-21T05:01:00+09:00",
+      "tags": [],
+      "event": "afd-nrw-infighting",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "GTA VI: Diese deutschen Songs sind im Gaming-Radio gelandet",
+      "title_ko": "GTA VI: 게임 라디오에 실린 독일 노래들",
+      "summary_ko": "신작 GTA VI가 이미 큰 성공을 거두고 있으며, 게임 속 가상 라디오에서 여러 독일 아티스트의 곡을 들을 수 있다.",
+      "url": "https://www.zdfheute.de/panorama/gta-vi-soundtrack-musik-radio-kuenstler-deutschland-100.html",
+      "published": "2026-11-21T04:55:00+09:00",
+      "tags": [],
+      "event": "gta-vi-german-songs",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Doppel Krawietz/Pütz gewinnt zum Gruppenabschluss",
+      "title_ko": "크라비에츠/퓌츠 복식조, 조별리그 최종전 승리",
+      "summary_ko": "독일 데이비스컵 복식조 케빈 크라비에츠와 팀 퓌츠가 ATP 파이널스 조별리그를 전승으로 마쳤다.",
+      "url": "https://www.zdfheute.de/sport/tennis-krawietz-puetz-atp-finals-100.html",
+      "published": "2026-11-21T04:36:08+09:00",
+      "tags": [],
+      "event": "atp-finals-krawietz-puetz",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Weltbevölkerungsbericht: Die GenZ ist gebildet, aber verunsichert",
+      "title_ko": "세계인구보고서: Z세대는 교육 수준 높지만 불안",
+      "summary_ko": "젊은이들이 역사상 가장 잘 교육받았지만 동시에 가장 많은 도전에 직면해 있다. 독일 젊은이들은 부모 세대보다 나아질지 묻고 있다.",
+      "url": "https://www.dw.com/de/weltbevölkerungsbericht-die-genz-ist-gebildet-aber-verunsichert/a-80003564?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-21T04:22:00+09:00",
+      "tags": [],
+      "event": "world-population-report-gen-z",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Raketeneinschlag: NATO-Generalsekretär sagt Polen Unterstützung zu",
+      "title_ko": "미사일 피격: 나토 사무총장, 폴란드 지원 약속",
+      "summary_ko": "우크라이나가 밤사이 러시아의 대규모 공격을 받았고, 폴란드 정부는 자국도 피격됐다고 밝혔다. 나토는 회원국 편에 선다고 했다.",
+      "url": "https://www.dw.com/de/raketeneinschlag-nato-generalsekretär-sagt-polen-unterstützung-zu/a-80004889?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-21T00:16:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "missile-strike-poland-nato",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Können sich die deutschen Automobilbauer noch erholen?",
+      "title_ko": "독일 자동차 업계는 회복할 수 있을까?",
+      "summary_ko": "독일 자동차 산업이 국내 투자를 줄이며 미래에 대한 우려가 커지고 있다. 일부 업계 관찰자들은 쇠퇴를 막을 작은 시간적 여유가 아직 있다고 본다.",
+      "url": "https://www.dw.com/de/können-sich-die-deutschen-automobilbauer-noch-erholen/a-80003359?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-21T00:13:00+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "german-auto-industry-outlook",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "ASEAN und China: Die Grenzen diplomatischer Einigung",
+      "title_ko": "아세안과 중국: 외교적 합의의 한계",
+      "summary_ko": "필리핀은 2026년 남중국해 행동규범 체결을 원했지만 중국과 아세안 국가들은 핵심 쟁점에서 계속 다투고 있다.",
+      "url": "https://www.dw.com/de/asean-und-china-die-grenzen-diplomatischer-einigung/a-80002867?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-21T00:10:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "asean-china-south-china-sea-code",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Kinderraub als Kriegswaffe: Hitlers Erbe, Putins System",
+      "title_ko": "전쟁 무기로서의 아동 납치: 히틀러의 유산, 푸틴의 체제",
+      "summary_ko": "나치에 납치됐던 바르바라 파치오르키에비치와 러시아의 아동 납치를 겪은 크세니야 콜딘이 상실과 강제 분리, 귀환의 어려움을 이야기한다.",
+      "url": "https://www.dw.com/de/kinderraub-als-kriegswaffe-hitlers-erbe-putins-system/a-80001588?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-20T23:18:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "child-abduction-war-weapon-feature",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Deutschlands Verteidigungsminister will Militärpakt mit Polen ausbauen",
+      "title_ko": "독일 국방장관, 폴란드와 군사협정 확대 추진",
+      "summary_ko": "보리스 피스토리우스 연방 국방장관이 폴란드를 방문해 홀로코스트 기억과 유럽 방위 강화를 강조했다.",
+      "url": "https://www.dw.com/de/deutschlands-verteidigungsminister-will-militärpakt-mit-polen-ausbauen/a-80000181?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-20T22:25:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "pistorius-poland-defense-pact",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Pax Shenzhen: Viel Rhetorik, wenig Substanz",
+      "title_ko": "팍스 선전: 수사는 많고 실속은 적어",
+      "summary_ko": "세 핵보유국 정상회담은 이란·우크라이나 분쟁에 새로운 해법을 내놓지 못했다. 공동 평화선언에도 의미 있는 진전은 없었다.",
+      "url": "https://www.dw.com/de/pax-shenzhen-viel-rhetorik-wenig-substanz/a-80000510?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-20T22:19:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "shenzhen-trilateral-summit",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Burnham sucht in Brüssel den Exit vom Brexit",
+      "title_ko": "버넘, 브뤼셀에서 '브렉시트 출구' 모색",
+      "summary_ko": "영국이 EU 탈퇴를 결정한 지 10년 만에 재접근이 점차 구체화되고 있다. 버넘 총리가 EU 지도부와 이를 논의한다.",
+      "url": "https://www.dw.com/de/burnham-sucht-in-brüssel-den-exit-vom-brexit/a-80002739?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-20T22:08:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "uk-eu-rapprochement",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Streit um Verpackung: Pfanni-Kloßteig darf nicht mit Nachhaltigkeit werben",
+      "title_ko": "포장 분쟁: 판니 감자반죽, '지속가능성' 광고 금지",
+      "summary_ko": "함부르크 지방법원은 판니 제품의 '지속가능한 재배' 표시가 불명확해 소비자를 오도한다고 판단했다.",
+      "url": "https://www.n-tv.de/wirtschaft/Pfanni-Klossteig-darf-nicht-mit-Nachhaltigkeit-werben-id31560644.html",
+      "published": "2026-11-21T05:48:39+09:00",
+      "tags": [
+        "business",
+        "legislation"
+      ],
+      "event": "pfanni-sustainability-claim-ruling",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Unternehmen hatte Notfallplan: Hacker legen Onlineshop von Hugendubel lahm",
+      "title_ko": "비상계획은 있었다: 해커, 후겐두벨 온라인숍 마비",
+      "summary_ko": "서점 체인 후겐두벨의 웹사이트가 해킹 공격으로 접속 불가 상태다. 회사는 대비가 돼 있었지만 장애가 며칠 더 이어질 수 있다.",
+      "url": "https://www.n-tv.de/wirtschaft/Hacker-legen-Onlineshop-von-Hugendubel-lahm-id31560600.html",
+      "published": "2026-11-21T05:46:10+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "hugendubel-cyberattack",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "FIFA-Boss mit \"Führungsstärke\": Infantino bekommt eine tolle Nachricht aus Südamerika",
+      "title_ko": "'리더십' 내세운 FIFA 회장: 인판티노, 남미서 반가운 소식",
+      "summary_ko": "인판티노는 3월 재선에서 처음으로 두 명의 경쟁 후보와 맞붙는다. 남미에서 논란 많은 현직 회장에 대한 일치된 지지가 나왔다.",
+      "url": "https://www.n-tv.de/sport/fussball/Infantino-bekommt-eine-tolle-Nachricht-aus-Suedamerika-id31560710.html",
+      "published": "2026-11-21T05:42:41+09:00",
+      "tags": [],
+      "event": "fifa-infantino-conmebol-support",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Schock für FC Bayern: Harry Kane und Michael Olise müssen verletzt vom Platz",
+      "title_ko": "바이에른 충격: 해리 케인·미카엘 올리세 부상으로 교체",
+      "summary_ko": "공격수들이 계속 이탈하는 가운데 케인이 1. FC 쾰른전에서 일찍 교체됐고 곧이어 올리세도 물러났다.",
+      "url": "https://www.n-tv.de/sport/fussball/Harry-Kane-und-Michael-Olise-muessen-verletzt-vom-Platz-id31560678.html",
+      "published": "2026-11-21T05:21:22+09:00",
+      "tags": [],
+      "event": "bayern-kane-olise-injury",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Viele Millionen Dollar futsch: NFL-Team wirft Star-Quarterback raus",
+      "title_ko": "수백만 달러 날려: NFL 팀, 스타 쿼터백 방출",
+      "summary_ko": "인디애나폴리스 콜츠가 극히 부진한 시즌 끝에 고액 연봉 쿼터백 대니얼 존스와 결별했다.",
+      "url": "https://www.n-tv.de/sport/nfl/NFL-Team-wirft-Star-Quarterback-raus-id31560677.html",
+      "published": "2026-11-21T05:14:58+09:00",
+      "tags": [],
+      "event": "colts-release-daniel-jones",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Innenpolitische Gründe: Bericht: Trump dringt auf rasche Friedenslösung in der Ukraine",
+      "title_ko": "국내 정치적 이유: 보도 \"트럼프, 우크라이나 조속한 평화 해결 압박\"",
+      "summary_ko": "수개월간의 단절 끝에 워싱턴·키이우·모스크바가 외교 접촉을 재개했다. 언론 보도에 따르면 트럼프 행정부는 빠른 타결을 압박하고 있다.",
+      "url": "https://www.n-tv.de/politik/Bericht-Trump-dringt-auf-rasche-Friedensloesung-in-der-Ukraine-id31560581.html",
+      "published": "2026-11-21T04:53:44+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-peace-trump-deadline",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "DTB-Stars bei Finals unschlagbar: Auch deutsches Doppel rauscht makellos ins Halbfinale",
+      "title_ko": "독일 복식조도 무패로 준결승 진출 — DTB 선수들 파이널스서 무적",
+      "summary_ko": "알렉산더 츠베레프에 이어 크라비에츠·퓌츠 복식조도 ATP 파이널스 조별리그를 무패로 마쳤다.",
+      "url": "https://www.n-tv.de/sport/tennis/Auch-deutsches-Doppel-rauscht-makellos-ins-Halbfinale-id31560607.html",
+      "published": "2026-11-21T04:42:09+09:00",
+      "tags": [],
+      "event": "atp-finals-krawietz-puetz",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Diplomat ausgewiesen: Russland soll Mordkomplott gegen Rapper geplant haben - Dänemark reagiert",
+      "title_ko": "외교관 추방: 러시아, 래퍼 암살 음모 의혹 — 덴마크 대응",
+      "summary_ko": "덴마크인 2명이 미국·우크라이나계 래퍼 공격을 계획한 혐의를 받는다. 덴마크 당국은 러시아 정보기관을 배후로 보고 러시아 대사를 초치했으며 독일 외무부도 입장을 냈다.",
+      "url": "https://www.n-tv.de/politik/Russland-soll-Mordkomplott-gegen-Rapper-geplant-haben-Daenemark-reagiert-id31560504.html",
+      "published": "2026-11-21T04:30:18+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "russia-denmark-rapper-plot",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Die teuerste Wette aller Zeiten",
+      "title_ko": "사상 가장 비싼 베팅",
+      "summary_ko": "설립 6년 만에 앤트로픽이 세계에서 가장 가치 있는 기업 중 하나가 됐다. 초대형 상장 이후 투자자들은 한 가지 질문에 답해야 한다.",
+      "url": "https://www.welt.de/wirtschaft/plus6b0064ca39a3e8110f0e4509/kuenstliche-intelligenz-die-teuerste-wette-aller-zeiten.html",
+      "published": "2026-11-21T04:28:59+09:00",
+      "tags": [
+        "stocks",
+        "industry"
+      ],
+      "event": "anthropic-ipo",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Schafft der FC Bayern ohne die verletzten Kane und Olise noch die Wende?",
+      "title_ko": "케인·올리세 부상 이탈한 바이에른, 역전할 수 있을까?",
+      "summary_ko": "바이에른이 분데스리가 10라운드 개막전에서 1. FC 쾰른과 홈경기를 치른다(라이브 티커).",
+      "url": "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0099d3b237b5b41c9a31cb/bundesliga-schafft-der-fc-bayern-ohne-die-verletzten-kane-und-olise-noch-die-wende.html",
+      "published": "2026-11-21T04:26:58+09:00",
+      "tags": [],
+      "event": "bayern-kane-olise-injury",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Meine Geduld ist langsam am Ende“, sagt Rhein über die Bundesregierung",
+      "title_ko": "라인 헤센 주총리 \"인내심 바닥나고 있다\" — 연방정부 비판",
+      "summary_ko": "CDU 소속 보리스 라인 헤센 주총리가 연방정부를 압박하면서도 메르츠 총리에 대한 지지를 표명했다.",
+      "url": "https://www.welt.de/politik/article6b00959a39a3e8110f0e4930/boris-rhein-kritisiert-bundesregierung-meine-geduld-ist-langsam-am-ende.html",
+      "published": "2026-11-21T04:06:05+09:00",
+      "tags": [],
+      "event": "rhein-criticizes-federal-government",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Hm, wo ist Europa?“, fragt Medwedew – Russland feiert Dreiergipfel",
+      "title_ko": "메드베데프 \"음, 유럽은 어디 있나?\" — 러시아, 3자 정상회담 자축",
+      "summary_ko": "러시아 국영매체들이 푸틴·트럼프·시진핑 회담을 새로운 세계질서의 시작으로 축하하며 러시아를 제3의 초강대국으로 연출하고, 유럽은 관객 역할에 그친다고 묘사한다.",
+      "url": "https://www.welt.de/politik/ausland/article6b007fecb237b5b41c9a304a/treffen-in-shenzhen-hm-wo-ist-europa-fragt-medwedew-russland-feiert-dreiergipfel.html",
+      "published": "2026-11-21T03:56:57+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "shenzhen-trilateral-summit",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Trump fordert von Kiew offenbar Frieden mit Russland bis Anfang Januar",
+      "title_ko": "트럼프, 키이우에 1월 초까지 러시아와 평화 요구한 듯(영상)",
+      "summary_ko": "파이낸셜타임스에 따르면 트럼프 대통령이 젤렌스키 대통령에게 늦어도 1월 초까지 러시아와 평화협정을 맺으라고 요구했다.",
+      "url": "https://www.welt.de/politik/ausland/video6b008f45be487c5437747ab0/ukraine-krieg-trump-fordert-von-kiew-offenbar-frieden-mit-russland-bis-anfang-januar.html",
+      "published": "2026-11-21T03:26:03+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-peace-trump-deadline",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Das wäre die totale Zerstörung des Sozialstaats, auch Deutschlands“",
+      "title_ko": "\"그건 독일 복지국가의 완전한 파괴가 될 것\"",
+      "summary_ko": "좌파당 의원 미르체 에디스가 아프리카·아시아·남미 사람들을 유럽으로 초청했다는 발언에 대해 AfD의 베른트 바우만이 비판했다.",
+      "url": "https://www.welt.de/politik/deutschland/video6b008913be487c5437747a44/linken-einladung-an-migranten-das-waere-die-totale-zerstoerung-des-sozialstaats-auch-deutschlands.html",
+      "published": "2026-11-21T03:03:01+09:00",
+      "tags": [],
+      "event": "linke-edis-migration-remark",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Trump fordert von Kiew offenbar Frieden mit Russland bis Anfang Januar",
+      "title_ko": "트럼프, 키이우에 1월 초까지 러시아와 평화 요구한 듯",
+      "summary_ko": "언론 보도에 따르면 트럼프 행정부가 키이우에 대한 압박을 강화하며 1월까지 러시아와 협정을 맺으라고 요구했다.",
+      "url": "https://www.welt.de/politik/ausland/article6b00811abe487c54377479bd/ukraine-krieg-trump-fordert-laut-financial-times-frieden-mit-russland-bis-anfang-januar-von-kiew.html",
+      "published": "2026-11-21T03:02:09+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-peace-trump-deadline",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "McDonald’s-Besuch und Vespa-Fahrt – die seltsame Reha des Manuel Neuer",
+      "title_ko": "맥도날드 방문과 베스파 주행 — 마누엘 노이어의 이상한 재활",
+      "summary_ko": "발 힘줄 부분 파열로 수주간 결장하는 노이어가 구단 허가를 받아 브라질에서 재활 중이나 SNS 사진이 좋지 않은 인상을 준다.",
+      "url": "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b00822fbe487c54377479d0/in-brasilien-mcdonalds-besuch-und-vespa-fahrt-die-seltsame-reha-des-manuel-neuer.html",
+      "published": "2026-11-21T03:01:39+09:00",
+      "tags": [],
+      "event": "neuer-rehab-brazil",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Energie: Neues Gesetz: Spritpreisdeckel soll doch am 1. Januar starten – aber Reiche plant andere Einschränkungen",
+      "title_ko": "에너지: 새 법안 — 유류가 상한제 1월 1일 시행 추진, 라이헤 장관은 다른 제한 계획",
+      "summary_ko": "한델스블라트 취재에 따르면 경제장관이 휘발유·경유 최고가격 법안을 마련했으나 공급 차질을 우려해 세 가지 조건을 계획하고 있다.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/energie-spritpreisdeckel-startet-doch-am-1.januar-aber-auflagen-geplant/100271661.html",
+      "published": "2026-11-21T05:11:02+09:00",
+      "tags": [
+        "legislation",
+        "industry"
+      ],
+      "event": "fuel-price-cap-law",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Aktien: Anthropic-Aktie stürzt Richtung Ausgabekurs – Ist der KI-Boom nach dem Mega-Börsengang vorbei?",
+      "title_ko": "앤트로픽 주가 공모가 근처로 급락 — 초대형 상장 후 AI 붐 끝났나?",
+      "summary_ko": "상장 이틀째 앤트로픽 주가가 10% 하락 출발했다. 월가는 3년 만에 최장 연속 하락을 향하고 있다.",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/aktien-ist-der-ki-boom-nach-dem-anthropic-boersengang-vorbei/100270470.html",
+      "published": "2026-11-21T05:06:56+09:00",
+      "tags": [
+        "stocks"
+      ],
+      "event": "anthropic-ipo",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Geldpolitik: Fed-Gouverneurin Cook dringt auf weitere Zinserhöhungen",
+      "title_ko": "통화정책: 쿡 연준 이사, 추가 금리 인상 촉구",
+      "summary_ko": "쿡 이사는 현재 금리 수준이 인플레이션 억제에 충분하지 않다며 추가 인상을 요구하고, 대응이 늦으면 미국 가계 부담이 커진다고 경고했다.",
+      "url": "https://www.handelsblatt.com/politik/international/geldpolitik-fed-gouverneurin-cook-dringt-auf-weitere-zinserhoehungen/100271670.html",
+      "published": "2026-11-21T04:54:32+09:00",
+      "tags": [
+        "monetary"
+      ],
+      "event": "fed-cook-rate-hikes",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "US-Börsen: Flucht aus Risikoassets: Ausverkauf an der Nasdaq, S&P im Korrekturmodus",
+      "title_ko": "미국 증시: 위험자산 이탈 — 나스닥 매도세, S&P 조정 국면",
+      "summary_ko": "앤트로픽의 기록적 IPO 하루 만에 전 세계 증시가 하락했다. 투자자들이 위험자산을 팔고 안전자산으로 이동하고 있다.",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/us-boersen-flucht-aus-risikoassets-nasdaq-knickt-ein-sp-unter-7000-punkten/100271593.html",
+      "published": "2026-11-21T04:50:17+09:00",
+      "tags": [
+        "stocks"
+      ],
+      "event": "global-stock-selloff",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "KI-Industrie: Trump warnt US-Konzerne vor Bau von KI-Rechenzentren im Ausland und droht mit „enormen Strafen“",
+      "title_ko": "AI 산업: 트럼프, 미국 기업에 해외 AI 데이터센터 건설 경고하며 '막대한 처벌' 위협",
+      "summary_ko": "데이터센터는 미국 선거에서 논란이었다. 민주당은 규제 강화를 원하지만 대통령은 국내 건설만 지지한다.",
+      "url": "https://www.handelsblatt.com/politik/international/ki-industrie-trump-warnt-us-konzerne-vor-bau-von-ki-rechenzentren-im-ausland/100271667.html",
+      "published": "2026-11-21T04:15:12+09:00",
+      "tags": [
+        "industry",
+        "geopolitics"
+      ],
+      "event": "trump-data-centers-abroad",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Dax aktuell: Dax verliert 660 Zähler und schließt weit unter 26.000 Punkten – „Stimmung nähert sich Panik an“",
+      "title_ko": "닥스: 660포인트 하락하며 26,000선 크게 밑돌아 마감 — \"심리가 패닉에 근접\"",
+      "summary_ko": "나쁜 증시 분위기가 닥스에도 부담을 줬다. 최근 며칠 새 2,000포인트 이상 하락해 1년여 만에 가장 약한 주를 기록했다.",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-verliert-660-punkte-und-schliesst-weit-unter-26.000-punkten/100271464.html",
+      "published": "2026-11-21T02:40:41+09:00",
+      "tags": [
+        "stocks"
+      ],
+      "event": "global-stock-selloff",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "+++ Ukraine-Krieg +++: Trump fordert wohl von Kiew Frieden mit Russland bis Anfang Januar",
+      "title_ko": "우크라이나 전쟁: 트럼프, 키이우에 1월 초까지 러시아와 평화 요구한 듯",
+      "summary_ko": "트럼프: 합의 없으면 미국의 우크라이나 안보 보장도 없다. 러시아가 우크라이나계 래퍼 살해를 위해 덴마크인을 고용했다는 의혹도 전한다(뉴스블로그).",
+      "url": "https://www.handelsblatt.com/politik/international/ukraine-trump-fordert-wohl-von-kiew-frieden-mit-russland-bis-anfang-januar/27982126.html",
+      "published": "2026-11-21T02:24:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-peace-trump-deadline",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Golfstaaten-Abkommen: Katar will 15 Milliarden in Deutschland investieren",
+      "title_ko": "걸프국 협정: 카타르, 독일에 150억 투자 계획",
+      "summary_ko": "카타르 국왕이 독일 국빈 방문에서 150억 유로 투자를 약속했고 총리가 이를 환영했다.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/golfstaaten-abkommen-katar-will-15-milliarden-in-deutschland-investieren/100271648.html",
+      "published": "2026-11-21T01:47:38+09:00",
+      "tags": [
+        "business",
+        "geopolitics"
+      ],
+      "event": "qatar-germany-investment",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Alaska: Trächtiger Finnwal von Kreuzfahrtschiff getötet",
+      "title_ko": "알래스카: 새끼 밴 참고래, 크루즈선에 치여 죽어",
+      "summary_ko": "알래스카 연안에서 암컷 참고래가 크루즈선과 충돌해 배 속 새끼와 함께 죽었다. 참고래는 심각한 멸종위기종이다.",
+      "url": "https://www.spiegel.de/panorama/alaska-traechtiger-finnwal-von-kreuzfahrtschiff-getoetet-a-fde22b7d-97ec-4ae7-b222-70e32d0ca246#ref=rss",
+      "published": "2026-11-21T05:57:00+09:00",
+      "tags": [],
+      "event": "alaska-fin-whale-cruise-ship",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Tom Brady: Ex-Football-Star steigt offenbar beim FC Chelsea ein",
+      "title_ko": "톰 브래디, 첼시 FC 지분 투자하는 듯",
+      "summary_ko": "전 NFL 쿼터백 톰 브래디가 첼시 FC 지분 보유자가 되려 한다.",
+      "url": "https://www.spiegel.de/sport/fussball/tom-brady-ex-football-star-steigt-offenbar-beim-fc-chelsea-ein-a-3ffeb2f1-3990-420f-b94d-4119c73c5699#ref=rss",
+      "published": "2026-11-21T05:53:00+09:00",
+      "tags": [],
+      "event": "tom-brady-chelsea-stake",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Nvidia: US-Börsenaufsicht ermittelt gegen Chip-Riesen",
+      "title_ko": "엔비디아: 미 증권거래위원회, 칩 대기업 조사",
+      "summary_ko": "엔비디아의 위기가 깊어지고 있다. 젠슨 황 관련 스캔들 이후 SEC가 회계 문제 의혹을 조사 중인 것으로 알려졌다.",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-us-boersenaufsicht-ermittelt-gegen-chip-riesen-a-89d79e61-5ac5-4389-aca3-f8e8d8aba4a5#ref=rss",
+      "published": "2026-11-21T05:34:00+09:00",
+      "tags": [
+        "stocks",
+        "industry",
+        "business"
+      ],
+      "event": "nvidia-sec-probe",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Deutsche Bank: Als Hacker aus China in das Geldhaus eindrangen",
+      "title_ko": "도이체방크: 중국 해커가 은행에 침입했을 때",
+      "summary_ko": "10년간 비밀이었던 도이체방크 대상 대형 해킹 사건을 내부 문서가 드러냈으며 은행이 얼마나 허둥댔는지 보여준다.",
+      "url": "https://www.spiegel.de/netzwelt/deutsche-bank-als-hacker-aus-china-in-das-geldhaus-eindrangen-a-72eae30d-1680-44c0-9807-ee586596fab3#ref=rss",
+      "published": "2026-11-21T04:57:00+09:00",
+      "tags": [
+        "business",
+        "geopolitics"
+      ],
+      "event": "deutsche-bank-china-hack",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Melania Trump bei Amazon Prime: Neue Serie über ihr hartes Leben als First Lady",
+      "title_ko": "아마존 프라임 속 멜라니아 트럼프: 영부인의 고된 삶 다룬 새 시리즈",
+      "summary_ko": "영화에 이어 2부작 시리즈가 나왔다.",
+      "url": "https://www.spiegel.de/kultur/melania-trump-bei-amazon-prime-neue-serie-ueber-ihr-hartes-leben-als-first-lady-a-07129638-2780-4cf7-8972-7bd225db4643#ref=rss",
+      "published": "2026-11-21T04:18:00+09:00",
+      "tags": [],
+      "event": "melania-trump-amazon-series",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Genozid-Urteil: Was die Entscheidung des Weltgerichts in Den Haag für Israel bedeutet",
+      "title_ko": "집단학살 판결: 헤이그 국제사법재판소 결정이 이스라엘에 의미하는 것",
+      "summary_ko": "ICJ가 미얀마의 로힝야 학살을 집단학살로 판단했다. 국제법학자 카이 암보스가 판결 이유와 가자 사건에 대한 의미를 설명한다.",
+      "url": "https://www.spiegel.de/ausland/genozid-urteil-was-die-entscheidung-des-weltgerichts-in-den-haag-fuer-israel-bedeutet-a-fe9b69b6-b00f-4162-a1ed-e6120818020a#ref=rss",
+      "published": "2026-11-21T04:16:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "icj-myanmar-genocide-ruling",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Hugendubel ist offline: Hacker legen Onlineshop des Buchhändlers lahm",
+      "title_ko": "후겐두벨 오프라인: 해커, 서점 온라인숍 마비",
+      "summary_ko": "전자책·메일·고객서비스가 모두 중단됐다. 서점 체인 후겐두벨 웹사이트가 해킹 공격으로 보이는 원인으로 다운됐다.",
+      "url": "https://www.spiegel.de/netzwelt/hugendubel-ist-offline-hacker-legen-onlineshop-des-buchhaendlers-lahm-a-9434135c-d09d-4377-8fcf-bf320cb7f57f#ref=rss",
+      "published": "2026-11-21T04:14:00+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "hugendubel-cyberattack",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Daniel Thomas: Britischer Rechtsextremist schlitzte Flüchtlingsboot auf – 15 Monate Haft",
+      "title_ko": "대니얼 토머스: 난민 보트 찢은 영국 극우주의자, 징역 15개월",
+      "summary_ko": "영국해협에서 구조 활동 중 고무보트를 찢은 극우주의자 대니얼 토머스에게 징역형이 선고됐다.",
+      "url": "https://www.spiegel.de/ausland/daniel-thomas-britischer-rechtsextremist-schlitzte-fluechtlingsboot-auf-15-monate-haft-a-638b7171-fe37-4b5f-9bd1-354865b1f6ed#ref=rss",
+      "published": "2026-11-21T04:12:00+09:00",
+      "tags": [],
+      "event": "uk-daniel-thomas-sentenced",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Polen und die Ukraine: Massenmörder oder Helden?",
+      "title_ko": "폴란드와 우크라이나: 학살자인가 영웅인가?",
+      "summary_ko": "우크라이나 봉기군(UPA) 평가를 둘러싼 폴란드와 우크라이나의 역사 논쟁을 다룬다.",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/upa-streit-warum-polen-und-die-ukraine-ueber-geschichte-streiten-201061493.html",
+      "published": "2026-11-21T05:22:46+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "poland-ukraine-upa-dispute",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Vor FIFA-Wahl: Führungsstärke als Argument: Südamerikaner stützen Infantino",
+      "title_ko": "FIFA 선거 앞두고: '리더십' 내세운 남미, 인판티노 지지",
+      "summary_ko": "남미축구연맹 10개 회원국이 2027년 선거를 앞두고 인판티노 지지를 유지했다.",
+      "url": "https://www.faz.net/aktuell/sport/sportpolitik/fifa-praesident-gianni-infantino-wird-von-conmebol-unterstuetzt-201703747.html",
+      "published": "2026-11-21T05:22:04+09:00",
+      "tags": [],
+      "event": "fifa-infantino-conmebol-support",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Gipfeltreffen: Auch in Shenzhen lässt Trump mit sich spielen",
+      "title_ko": "정상회담: 선전에서도 트럼프는 휘둘렸다",
+      "summary_ko": "시진핑은 최대한의 상징성과 최소한의 구체적 결과를 추구했고, 푸틴과 트럼프가 이를 쉽게 만들어 줬다.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/gipfeltreffen-in-shenzen-putin-und-trump-machen-es-xi-leicht-201691480.html",
+      "published": "2026-11-21T05:18:52+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "shenzhen-trilateral-summit",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Bar Embury in Frankfurt: 900 Whiskeys im gepflegten Ambiente",
+      "title_ko": "프랑크푸르트 바 엠버리: 위스키 900종",
+      "summary_ko": "도미니크 팔거가 바 '엠버리'를 새 장소에서 다시 열었다.",
+      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/embury-bar-neuer-standort-gewohnte-perfektion-201678534.html",
+      "published": "2026-11-21T04:48:17+09:00",
+      "tags": [],
+      "event": "frankfurt-embury-bar",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Zweite Bundesliga: Magdeburg springt auf den Relegationsplatz",
+      "title_ko": "2부 분데스리가: 마그데부르크, 승강 플레이오프 순위로 도약",
+      "summary_ko": "1. FC 마그데부르크가 빌레펠트 원정에서 신승해 3위로 올라섰다.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/zweite-fussball-bundesliga-1-fc-magdeburg-gewinnt-gegen-arminia-bielefeld-201304596.html",
+      "published": "2026-11-21T04:38:33+09:00",
+      "tags": [],
+      "event": "2-bundesliga-magdeburg",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Rhein-Main-Liveblog: Demonstrationen in Frankfurt alle beendet",
+      "title_ko": "라인-마인 라이브블로그: 프랑크푸르트 시위 모두 종료",
+      "summary_ko": "프랑크푸르트·헤센 지역 뉴스 티커 (제목 기준)",
+      "url": "https://www.faz.net/aktuell/rhein-main/demos-und-proteste-in-frankfurt-beendet-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
+      "published": "2026-11-21T04:33:00+09:00",
+      "tags": [],
+      "event": "frankfurt-demos-liveblog",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Evonik-Übernahme Gescheitert: Verrannt im Ruhrgebiet",
+      "title_ko": "에보닉 인수 무산: 루르에서 길을 잃다",
+      "summary_ko": "화학기업 BASF가 에보닉 인수 계획을 포기했다. 정치적 역풍을 과소평가했다는 평가다.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/basf-gibt-uebernahme-von-evonik-auf-kamieth-scheitert-an-wuest-201701320.html",
+      "published": "2026-11-21T04:23:44+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "basf-evonik-takeover-dropped",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "„Viel Lärm und basta“: Die Formel 1 plant eine Rolle rückwärts",
+      "title_ko": "\"소음 많고 그게 다\": F1, 역행 계획",
+      "summary_ko": "F1이 더 단순하고 시끄러운 엔진(V8)으로 가능한 빨리 복귀하려 한다. 아우디에 과제가 된다.",
+      "url": "https://www.faz.net/aktuell/sport/formel-1/formel-1-plant-ab-2030-rueckkehr-zu-v8-motoren-201703612.html",
+      "published": "2026-11-21T04:17:36+09:00",
+      "tags": [],
+      "event": "f1-v8-engines-return",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Gen-Z-Proteste: Wie die Jugend versucht, aus Demos eine Bewegung zu machen",
+      "title_ko": "Z세대 시위: 청년들, 시위를 운동으로 만들려는 시도",
+      "summary_ko": "수십 개 도시에서 젊은이들이 다시 시위했다. 학생 대표들은 학부모·교육노조와 연대를 모색하고 있으며 폭력 우려는 남아 있다.",
+      "url": "https://www.sueddeutsche.de/politik/gen-z-proteste-schueler-studierende-frankfurt-berlin-ausschreitungen-gewerkschaften-li.3582673",
+      "published": "2026-11-21T03:58:00+09:00",
+      "tags": [],
+      "event": "gen-z-protests",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "USA: Trump droht US-Firmen wegen Rechenzentren im Ausland",
+      "title_ko": "미국: 트럼프, 해외 데이터센터 건설 미국 기업 위협",
+      "summary_ko": "따르지 않는 기업은 '막대한 세금'을 각오해야 한다고 미 대통령이 말했다.",
+      "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-rechenzentren-li.3578585",
+      "published": "2026-11-21T03:23:00+09:00",
+      "tags": [
+        "industry",
+        "geopolitics"
+      ],
+      "event": "trump-data-centers-abroad",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Europaweite Aktionen: Proteste von „Gen Z regelt“: Hunderte Menschen demonstrieren in München",
+      "title_ko": "'Gen Z regelt' 유럽 전역 시위: 뮌헨서 수백 명 시위",
+      "summary_ko": "시위대는 징병제 재도입 반대와 교육·복지 예산 확대를 요구했다. 참가자 수는 경찰과 주최 측 추산이 크게 엇갈린다.",
+      "url": "https://www.sueddeutsche.de/muenchen/muenchen-gen-z-regelt-demo-protest-koenigsplatz-li.3581103",
+      "published": "2026-11-21T02:24:27+09:00",
+      "tags": [],
+      "event": "gen-z-protests",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Gipfel in Antalya: Giftige Stimmung zwischen armen und reichen Ländern",
+      "title_ko": "안탈리아 정상회의: 빈국·부국 간 험악한 분위기",
+      "summary_ko": "2주간 지지부진하던 기후회의에서 감정이 격해지며 오랜 갈등이 다시 부상했다.",
+      "url": "https://www.sueddeutsche.de/politik/klimakonferenz-cop31-antalya-fossile-energien-klimahilfen-li.3583491",
+      "published": "2026-11-21T02:14:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "cop31-antalya",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Regenstauf: Ermittlungen nach Rattenfund in Norma-Zentrallager",
+      "title_ko": "레겐슈타우프: 노르마 중앙창고 쥐 발견 수사",
+      "summary_ko": "8월 점검에서 노르마 중앙창고에서 쥐와 오염이 발견됐다. 회사는 이후 문제없다고 했지만 검찰이 수사에 나섰다.",
+      "url": "https://www.sueddeutsche.de/bayern/regenstauf-norma-zentrallager-ratten-staatsanwaltschaft-li.3583557",
+      "published": "2026-11-20T23:55:00+09:00",
+      "tags": [],
+      "event": "norma-warehouse-rats",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Grüne Bürgermeisterin: Was Münchens mächtigste Politikerin in der Stadt verändern will",
+      "title_ko": "녹색당 부시장: 뮌헨 최고 실세 정치인이 바꾸려는 것",
+      "summary_ko": "기후·문화·안전 담당 제2부시장 모나 푹스 인터뷰.",
+      "url": "https://www.sueddeutsche.de/muenchen/muenchen-mona-fuchs-buergermeisterin-kultur-interview-li.3575569",
+      "published": "2026-11-20T23:42:41+09:00",
+      "tags": [],
+      "event": "munich-mona-fuchs-interview",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Grünen-Politikerin: Annalena Baerbock wird Beraterin",
+      "title_ko": "녹색당 정치인 안나레나 베어보크, 자문역 맡아",
+      "summary_ko": "전 외무장관 베어보크가 커뮤니케이션 컨설팅사 FGS 글로벌의 시니어 어드바이저로 합류한다.",
+      "url": "https://www.sueddeutsche.de/politik/annalena-baerbock-fgs-global-gruene-beraterin-aussenministerin-li.3583725",
+      "published": "2026-11-20T23:37:08+09:00",
+      "tags": [],
+      "event": "baerbock-fgs-global",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Homeshopping: „Leute, ihr könnt mich mal“",
+      "title_ko": "홈쇼핑: \"여러분, 신경 안 써요\"",
+      "summary_ko": "전 tagesschau 앵커 얀 호퍼가 HSE에서 실내복과 잠옷을 판매하고 있다.",
+      "url": "https://www.sueddeutsche.de/medien/jan-hofer-hosenverkaeufer-tagesschau-ard-homeshopping-li.3573473",
+      "published": "2026-11-20T23:36:40+09:00",
+      "tags": [],
+      "event": "jan-hofer-homeshopping",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Fußball-Bundesliga: Bayern-Sorgen werden größer: Kane und Olise frühzeitig raus",
+      "title_ko": "분데스리가: 바이에른 걱정 커져 — 케인·올리세 조기 교체",
+      "summary_ko": "바이에른의 케인과 올리세가 조기 교체됨 (제목 기준)",
+      "url": "https://www.zeit.de/news/2026-11/20/schreck-fuer-bayern-kane-frueh-verletzt-raus",
+      "published": "2026-11-21T05:57:39+09:00",
+      "tags": [],
+      "event": "bayern-kane-olise-injury",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Fotografie: Bilder des Tages",
+      "title_ko": "사진: 오늘의 사진",
+      "summary_ko": "오늘의 사진 모음 (제목 기준)",
+      "url": "https://www.zeit.de/news/2026-11/20/bilder-des-tages",
+      "published": "2026-11-21T05:53:57+09:00",
+      "tags": [],
+      "event": "zeit-pictures-of-the-day",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Chip-Konzern: Trump will immer noch Huang als Nvidia-Chef zurück",
+      "title_ko": "칩 기업: 트럼프, 여전히 황의 엔비디아 CEO 복귀 원해",
+      "summary_ko": "트럼프가 젠슨 황의 엔비디아 CEO 복귀를 여전히 원함 (제목 기준)",
+      "url": "https://www.zeit.de/news/2026-11/20/trump-will-immer-noch-huang-als-nvidia-chef-zurueck",
+      "published": "2026-11-21T05:51:38+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "nvidia-huang-ceo",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Schulstreiks: Demos gegen Wehrpflicht in Rheinland-Pfalz und Saarland",
+      "title_ko": "학교 파업: 라인란트팔츠·자를란트서 징병제 반대 시위",
+      "summary_ko": "라인란트팔츠와 자를란트에서 징병제 반대 시위 (제목 기준)",
+      "url": "https://www.zeit.de/news/2026-11/20/demos-gegen-wehrpflicht-in-rheinland-pfalz-und-saarland",
+      "published": "2026-11-21T05:45:28+09:00",
+      "tags": [],
+      "event": "gen-z-protests",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Jugendproteste: Vermummte werfen nach Demo Böller Richtung Polizisten",
+      "title_ko": "청년 시위: 시위 후 복면 쓴 이들이 경찰에 폭죽 투척",
+      "summary_ko": "청년 시위 후 복면 쓴 사람들이 경찰 쪽으로 폭죽을 던짐 (제목 기준)",
+      "url": "https://www.zeit.de/news/2026-11/20/gen-z-regelt-demonstration-in-hamburg-durch-innenstadt",
+      "published": "2026-11-21T05:44:03+09:00",
+      "tags": [],
+      "event": "gen-z-protests",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Jugendprotest: «Gen Z regelt»: Tausende protestieren friedlich in Berlin",
+      "title_ko": "청년 시위: 'Gen Z regelt' 베를린서 수천 명 평화 시위",
+      "summary_ko": "베를린에서 수천 명이 'Gen Z regelt' 평화 시위 (제목 기준)",
+      "url": "https://www.zeit.de/news/2026-11/20/gen-z-regelt-tausende-protestieren-in-berlin",
+      "published": "2026-11-21T05:31:23+09:00",
+      "tags": [],
+      "event": "gen-z-protests",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Demonstrationen: Polizei nimmt nach Jugenddemos vier Menschen vorläufig fest",
+      "title_ko": "시위: 경찰, 청년 시위 후 4명 임시 체포",
+      "summary_ko": "청년 시위 후 경찰이 4명을 임시 체포 (제목 기준)",
+      "url": "https://www.zeit.de/news/2026-11/20/polizei-nimmt-nach-jugenddemos-vier-menschen-vorlaeufig-fest",
+      "published": "2026-11-21T05:29:55+09:00",
+      "tags": [],
+      "event": "gen-z-protests",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "COP31: Verhandlungen stocken – Weltklimakonferenz geht in die Verlängerung",
+      "title_ko": "COP31: 협상 난항 — 세계기후회의 연장",
+      "summary_ko": "튀르키예 COP31이 예정된 종료 이후에도 협상을 이어간다. 독일 등은 석탄·석유·가스 퇴출에 대한 분명한 약속을 요구한다.",
+      "url": "https://www.zeit.de/wissenschaft/umwelt/2026-11/weltklimagipfel-tuerkei-abschlusserklaerung-fossile-brennstoffe-gxe",
+      "published": "2026-11-21T05:27:22+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation"
+      ],
+      "event": "cop31-antalya",
+      "state_media": false
+    }
+  ],
+  "events": [
+    {
+      "event": "tagesschau-100-seconds",
+      "title_ko": "tagesschau 100초 뉴스",
+      "sources": [
+        "ARD Tagesschau"
+      ],
+      "count": 1
+    },
+    {
+      "event": "uk-joanne-young-rape-trial",
+      "title_ko": "영국: 성폭행 재판서 유죄 판결",
+      "sources": [
+        "ARD Tagesschau"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ig-metall-warning-strikes",
+      "title_ko": "100개 넘는 사업장 참여: IG메탈, 종일 경고파업 계속",
+      "sources": [
+        "ARD Tagesschau"
+      ],
+      "count": 1
+    },
+    {
+      "event": "coalition-of-willing-exercise-poland",
+      "title_ko": "'의지의 연합' 군사훈련, 폴란드에서 실시",
+      "sources": [
+        "ARD Tagesschau"
+      ],
+      "count": 1
+    },
+    {
+      "event": "russia-strikes-kyiv-bridges",
+      "title_ko": "러시아의 키이우 교량 공격으로 사망자 발생",
+      "sources": [
+        "ARD Tagesschau"
+      ],
+      "count": 1
+    },
+    {
+      "event": "uk-eu-rapprochement",
+      "title_ko": "EU와 영국, 다시 관계 개선 추진",
+      "sources": [
+        "ARD Tagesschau",
+        "Deutsche Welle"
+      ],
+      "count": 2
+    },
+    {
+      "event": "cop31-antalya",
+      "title_ko": "세계기후회의 연장 진행 — ARD 이스탄불 벤야민 베버 기자(안탈리아 현지) 보도",
+      "sources": [
+        "ARD Tagesschau",
+        "Süddeutsche Zeitung",
+        "Die Zeit"
+      ],
+      "count": 3
+    },
+    {
+      "event": "ukraine-war-liveblog",
+      "title_ko": "우크라이나 전쟁 최신 소식",
+      "sources": [
+        "ZDF heute"
+      ],
+      "count": 1
+    },
+    {
+      "event": "middle-east-iran-liveblog",
+      "title_ko": "이란 전쟁·중동 분쟁: 라이브 블로그 전체 뉴스",
+      "sources": [
+        "ZDF heute"
+      ],
+      "count": 1
+    },
+    {
+      "event": "gen-z-protests",
+      "title_ko": "Z세대 시위: 대체로 평화적으로 종료",
+      "sources": [
+        "ZDF heute",
+        "Süddeutsche Zeitung",
+        "Die Zeit"
+      ],
+      "count": 3
+    },
+    {
+      "event": "global-stock-selloff",
+      "title_ko": "미국 증시: AI 주식 매도세 지속",
+      "sources": [
+        "ZDF heute",
+        "Handelsblatt"
+      ],
+      "count": 2
+    },
+    {
+      "event": "bayern-kane-olise-injury",
+      "title_ko": "바이에른 충격: 케인·올리세 부상 교체",
+      "sources": [
+        "ZDF heute",
+        "n-tv",
+        "WELT",
+        "Die Zeit"
+      ],
+      "count": 4
+    },
+    {
+      "event": "afd-nrw-infighting",
+      "title_ko": "NRW 주 AfD: 당내 분열 양상",
+      "sources": [
+        "ZDF heute"
+      ],
+      "count": 1
+    },
+    {
+      "event": "gta-vi-german-songs",
+      "title_ko": "GTA VI: 게임 라디오에 실린 독일 노래들",
+      "sources": [
+        "ZDF heute"
+      ],
+      "count": 1
+    },
+    {
+      "event": "atp-finals-krawietz-puetz",
+      "title_ko": "크라비에츠/퓌츠 복식조, 조별리그 최종전 승리",
+      "sources": [
+        "ZDF heute",
+        "n-tv"
+      ],
+      "count": 2
+    },
+    {
+      "event": "world-population-report-gen-z",
+      "title_ko": "세계인구보고서: Z세대는 교육 수준 높지만 불안",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "missile-strike-poland-nato",
+      "title_ko": "미사일 피격: 나토 사무총장, 폴란드 지원 약속",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "german-auto-industry-outlook",
+      "title_ko": "독일 자동차 업계는 회복할 수 있을까?",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "asean-china-south-china-sea-code",
+      "title_ko": "아세안과 중국: 외교적 합의의 한계",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "child-abduction-war-weapon-feature",
+      "title_ko": "전쟁 무기로서의 아동 납치: 히틀러의 유산, 푸틴의 체제",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "pistorius-poland-defense-pact",
+      "title_ko": "독일 국방장관, 폴란드와 군사협정 확대 추진",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "shenzhen-trilateral-summit",
+      "title_ko": "팍스 선전: 수사는 많고 실속은 적어",
+      "sources": [
+        "Deutsche Welle",
+        "WELT",
+        "FAZ"
+      ],
+      "count": 3
+    },
+    {
+      "event": "pfanni-sustainability-claim-ruling",
+      "title_ko": "포장 분쟁: 판니 감자반죽, '지속가능성' 광고 금지",
+      "sources": [
+        "n-tv"
+      ],
+      "count": 1
+    },
+    {
+      "event": "hugendubel-cyberattack",
+      "title_ko": "비상계획은 있었다: 해커, 후겐두벨 온라인숍 마비",
+      "sources": [
+        "n-tv",
+        "Der Spiegel"
+      ],
+      "count": 2
+    },
+    {
+      "event": "fifa-infantino-conmebol-support",
+      "title_ko": "'리더십' 내세운 FIFA 회장: 인판티노, 남미서 반가운 소식",
+      "sources": [
+        "n-tv",
+        "FAZ"
+      ],
+      "count": 2
+    },
+    {
+      "event": "colts-release-daniel-jones",
+      "title_ko": "수백만 달러 날려: NFL 팀, 스타 쿼터백 방출",
+      "sources": [
+        "n-tv"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ukraine-peace-trump-deadline",
+      "title_ko": "국내 정치적 이유: 보도 \"트럼프, 우크라이나 조속한 평화 해결 압박\"",
+      "sources": [
+        "n-tv",
+        "WELT",
+        "Handelsblatt"
+      ],
+      "count": 3
+    },
+    {
+      "event": "russia-denmark-rapper-plot",
+      "title_ko": "외교관 추방: 러시아, 래퍼 암살 음모 의혹 — 덴마크 대응",
+      "sources": [
+        "n-tv"
+      ],
+      "count": 1
+    },
+    {
+      "event": "anthropic-ipo",
+      "title_ko": "사상 가장 비싼 베팅",
+      "sources": [
+        "WELT",
+        "Handelsblatt"
+      ],
+      "count": 2
+    },
+    {
+      "event": "rhein-criticizes-federal-government",
+      "title_ko": "라인 헤센 주총리 \"인내심 바닥나고 있다\" — 연방정부 비판",
+      "sources": [
+        "WELT"
+      ],
+      "count": 1
+    },
+    {
+      "event": "linke-edis-migration-remark",
+      "title_ko": "\"그건 독일 복지국가의 완전한 파괴가 될 것\"",
+      "sources": [
+        "WELT"
+      ],
+      "count": 1
+    },
+    {
+      "event": "neuer-rehab-brazil",
+      "title_ko": "맥도날드 방문과 베스파 주행 — 마누엘 노이어의 이상한 재활",
+      "sources": [
+        "WELT"
+      ],
+      "count": 1
+    },
+    {
+      "event": "fuel-price-cap-law",
+      "title_ko": "에너지: 새 법안 — 유류가 상한제 1월 1일 시행 추진, 라이헤 장관은 다른 제한 계획",
+      "sources": [
+        "Handelsblatt"
+      ],
+      "count": 1
+    },
+    {
+      "event": "fed-cook-rate-hikes",
+      "title_ko": "통화정책: 쿡 연준 이사, 추가 금리 인상 촉구",
+      "sources": [
+        "Handelsblatt"
+      ],
+      "count": 1
+    },
+    {
+      "event": "trump-data-centers-abroad",
+      "title_ko": "AI 산업: 트럼프, 미국 기업에 해외 AI 데이터센터 건설 경고하며 '막대한 처벌' 위협",
+      "sources": [
+        "Handelsblatt",
+        "Süddeutsche Zeitung"
+      ],
+      "count": 2
+    },
+    {
+      "event": "qatar-germany-investment",
+      "title_ko": "걸프국 협정: 카타르, 독일에 150억 투자 계획",
+      "sources": [
+        "Handelsblatt"
+      ],
+      "count": 1
+    },
+    {
+      "event": "alaska-fin-whale-cruise-ship",
+      "title_ko": "알래스카: 새끼 밴 참고래, 크루즈선에 치여 죽어",
+      "sources": [
+        "Der Spiegel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "tom-brady-chelsea-stake",
+      "title_ko": "톰 브래디, 첼시 FC 지분 투자하는 듯",
+      "sources": [
+        "Der Spiegel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "nvidia-sec-probe",
+      "title_ko": "엔비디아: 미 증권거래위원회, 칩 대기업 조사",
+      "sources": [
+        "Der Spiegel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "deutsche-bank-china-hack",
+      "title_ko": "도이체방크: 중국 해커가 은행에 침입했을 때",
+      "sources": [
+        "Der Spiegel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "melania-trump-amazon-series",
+      "title_ko": "아마존 프라임 속 멜라니아 트럼프: 영부인의 고된 삶 다룬 새 시리즈",
+      "sources": [
+        "Der Spiegel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "icj-myanmar-genocide-ruling",
+      "title_ko": "집단학살 판결: 헤이그 국제사법재판소 결정이 이스라엘에 의미하는 것",
+      "sources": [
+        "Der Spiegel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "uk-daniel-thomas-sentenced",
+      "title_ko": "대니얼 토머스: 난민 보트 찢은 영국 극우주의자, 징역 15개월",
+      "sources": [
+        "Der Spiegel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "poland-ukraine-upa-dispute",
+      "title_ko": "폴란드와 우크라이나: 학살자인가 영웅인가?",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "frankfurt-embury-bar",
+      "title_ko": "프랑크푸르트 바 엠버리: 위스키 900종",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "2-bundesliga-magdeburg",
+      "title_ko": "2부 분데스리가: 마그데부르크, 승강 플레이오프 순위로 도약",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "frankfurt-demos-liveblog",
+      "title_ko": "라인-마인 라이브블로그: 프랑크푸르트 시위 모두 종료",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "basf-evonik-takeover-dropped",
+      "title_ko": "에보닉 인수 무산: 루르에서 길을 잃다",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "f1-v8-engines-return",
+      "title_ko": "\"소음 많고 그게 다\": F1, 역행 계획",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "norma-warehouse-rats",
+      "title_ko": "레겐슈타우프: 노르마 중앙창고 쥐 발견 수사",
+      "sources": [
+        "Süddeutsche Zeitung"
+      ],
+      "count": 1
+    },
+    {
+      "event": "munich-mona-fuchs-interview",
+      "title_ko": "녹색당 부시장: 뮌헨 최고 실세 정치인이 바꾸려는 것",
+      "sources": [
+        "Süddeutsche Zeitung"
+      ],
+      "count": 1
+    },
+    {
+      "event": "baerbock-fgs-global",
+      "title_ko": "녹색당 정치인 안나레나 베어보크, 자문역 맡아",
+      "sources": [
+        "Süddeutsche Zeitung"
+      ],
+      "count": 1
+    },
+    {
+      "event": "jan-hofer-homeshopping",
+      "title_ko": "홈쇼핑: \"여러분, 신경 안 써요\"",
+      "sources": [
+        "Süddeutsche Zeitung"
+      ],
+      "count": 1
+    },
+    {
+      "event": "zeit-pictures-of-the-day",
+      "title_ko": "사진: 오늘의 사진",
+      "sources": [
+        "Die Zeit"
+      ],
+      "count": 1
+    },
+    {
+      "event": "nvidia-huang-ceo",
+      "title_ko": "칩 기업: 트럼프, 여전히 황의 엔비디아 CEO 복귀 원해",
+      "sources": [
+        "Die Zeit"
+      ],
+      "count": 1
+    }
+  ],
+  "unavailable_sources": []
+}
