@@ -1,0 +1,841 @@
+{
+  "team": "cn",
+  "headlines": [
+    {
+      "source": "CCTV",
+      "title_original": "国产120kV冷冻透射电子显微镜发布",
+      "title_ko": "국산 120kV 극저온 투과전자현미경(Cryo-TEM) 발표",
+      "summary_ko": "중국산 120kV 극저온 투과전자현미경이 발표됐다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDTk1ZV0dOenhlNVl6eU1qMDFVcjh4TlZzaTZVbGJxa19mNW1YQVdyZGVILTRWVl9EQjctY2tMY3d5QmFqQnZxX2poMWV2Sy12aWR6Y2diTTZOSS0xVnZ1NHp6emVqeVk3Z0tFOEhhcUN4YzZUaGdlLQ?oc=5",
+      "published": "2026-11-22T05:15:39+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "china-cryo-tem-launch",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "14日面试13日出结果？长安大学回应",
+      "title_ko": "'14일 면접, 13일 결과 발표?' 창안대학 해명",
+      "summary_ko": "창안대학이 면접 전 결과 발표 의혹에 대해 해명했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaWUNaTTlWc3F6bzJSaVZGTWJad0NrU08tUWFsZlpzQ1c2ck5uUjVNbmlTWWVLTTZpVkRaMmZxaVF3OVZuM0VTQm5BbFdCQWQ5amk1ZDIxZFBDejBTTDVXeDdKbVpUTWZvb3BhaGRYUHltaXZpRi1GUQ?oc=5",
+      "published": "2026-11-22T04:06:25+09:00",
+      "tags": [],
+      "event": "changan-university-interview-controversy",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "美军中央司令部否认有F-16战机被伊朗击中",
+      "title_ko": "미군 중부사령부, 이란에 F-16 피격 부인",
+      "summary_ko": "미군 중부사령부가 F-16 전투기가 이란에 피격됐다는 주장을 부인했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VdFlTYmxvaDlLOW4xQzlxdFFVLUc4T3Y5elF4T1VJN3NKcWRlc2Z0Y0tOMW5obWFqZmpyN2FCRVhOZ1NkTGxxRDFCMDJFc24xVUtaY1R2aktQeUl6WVNiR2NULUhRdFlMTDYyTGZpUlVhRjlod0dXVw?oc=5",
+      "published": "2026-11-22T04:01:54+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "iran-f16-shootdown-claim",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "【中国第43次南极考察】“雪龙”号完成物资补给 前往南极中山站",
+      "title_ko": "[중국 제43차 남극 탐사] 쉐룽호 물자 보급 완료, 남극 중산기지로 향해",
+      "summary_ko": "쉐룽호가 물자 보급을 마치고 남극 중산기지로 출발했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QTUtSNVVvdE5HME5DeVVQcC1nQ1RwVG45YWxBY2psaDBlUmpiZzNKVXdiZnQ2OF9LZlFZLWFWNGwtUVgwZ3VMN0ktMnJpZ0RLSVJkQWd6dmhBeGV4Rk5VQUJJRS0tMnFlTnpMWVpMdDdWN3VzZXdxYg?oc=5",
+      "published": "2026-11-22T03:42:00+09:00",
+      "tags": [],
+      "event": "china-43rd-antarctic-expedition",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "伊朗称在波斯湾上空拦截并击中一架美军F-16战机",
+      "title_ko": "이란 \"페르시아만 상공에서 미군 F-16 요격·명중\"",
+      "summary_ko": "이란이 페르시아만 상공에서 미군 F-16 전투기를 요격해 명중시켰다고 주장했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3eGNxdDB6YzFnREMyXzJ6a1phM0NXRlJobmpGYTBLcnNhWUxzSXF2SE9pbXBXSjlLWU8zRmN5R05zQWM5dC04ZjR6bnlaRTRoM3o4anl6U1RJUWdVa3ZQYTFmUU01UjVYRGU4b25SUVo0MVJkZVh0WA?oc=5",
+      "published": "2026-11-22T02:20:02+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "iran-f16-shootdown-claim",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "投资境外上市公司权益受损 投资者如何维权？",
+      "title_ko": "해외 상장사 투자 권익 침해 시 투자자는 어떻게 구제받나?",
+      "summary_ko": "해외 상장 기업 투자 시 투자자 권익 보호 방법을 다룬 기사. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLNklyNHJodUktRFdDSGtOZXdZQUpSOXk3M3VqZHNyWTJBSzB4eHJuVTFtdUdmc1RDT2R1OFd0djlMbzVfaUtHWWQyWWpQbEszdjI5WEhYbW0xVlFYX2k1eExRTGxMRnJmN0JmTmMwb3gzeTBfN1lVcA?oc=5",
+      "published": "2026-11-22T01:57:22+09:00",
+      "tags": [
+        "stocks",
+        "legislation"
+      ],
+      "event": "overseas-listed-investor-protection",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "“沙泉共生”守护记 如何让月牙泉“胖”回来？",
+      "title_ko": "'사막과 샘의 공생' 보호기: 월아천을 어떻게 다시 '살찌울까'",
+      "summary_ko": "둔황 월아천 수량 회복을 위한 보호 활동을 다룬 기사. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYUDUwLTZ5NEdkRWdqWEZRRFpuWGZPMmpuRGtuWEFVV2JXakZVNWk4RHpmWDNYcnlTWTBpRnVlRXdDRmdWOFUtSklaR1d2TEg0eDF1MXJlakhZeDIyTVFGVnZBcjdrNEtCdTYxZFNBSkRLQXpaT0hGSw?oc=5",
+      "published": "2026-11-22T01:52:49+09:00",
+      "tags": [],
+      "event": "crescent-spring-conservation",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "《图书馆奇幻之旅》音乐会在津上演",
+      "title_ko": "'도서관 판타지 여행' 음악회 톈진서 공연",
+      "summary_ko": "'도서관 판타지 여행' 음악회가 톈진에서 열렸다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sblFOUDVJSEtQNTRfVlQ5ZUtDZ0hoakIzR0NOUlg0UC11d2RnUURLTFFxdzJsLXJ0RmkwMzU0RWNHd0Fyem1RZGN2X2Z5Q1RNaGFpaWlwUjJmRWt3eDgybVEzSnAyZE5SZzFHZzZxN0Z4R3pMRDZ6SQ?oc=5",
+      "published": "2026-11-22T01:46:12+09:00",
+      "tags": [],
+      "event": "tianjin-library-concert",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "Greek Coast Guard rescues 51 refugees",
+      "title_ko": "그리스 해안경비대, 난민 51명 구조",
+      "summary_ko": "그리스 해안경비대가 난민 51명을 구조했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NT1FBNnRFS0NJTHdCLVVlMDdwby1pdlozdnZVZjZVbTN2dFh1STFyeGRZWFBWb2FOMVJNc0FiUzdhd2huY1BNT1J0RFh6ZEoyOHFHcGZkN1FPSW81dkZJRG83WVVOQVFURFZ3TU1UaHlMWmFMWXJ0UA?oc=5",
+      "published": "2026-11-21T15:24:21+09:00",
+      "tags": [],
+      "event": "greece-refugee-rescue",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "5.0-magnitude earthquake hits CENTRAL PERU - EMSC",
+      "title_ko": "페루 중부서 규모 5.0 지진 - EMSC",
+      "summary_ko": "페루 중부에서 규모 5.0 지진이 발생했다(EMSC). (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92dDZ0N1UzSW1LeWR3d1NFaWVXZzkzVkpQSmRyell0SVdzV2Nhc19jNkkzS0N2MW8wTlJmenQ0MFpPbmluVXN3OTlEYW9lNVJHaGI1X3ZtcWtmMDhJQVF2WGprZHBtUkJIX3ZkdFJSXzhmNUU1THBHRw?oc=5",
+      "published": "2026-11-21T14:24:25+09:00",
+      "tags": [],
+      "event": "peru-earthquake",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "Saudi Civil Defense: A warning has been issued by the National Early Warning Platform in As Sulayyil Governorate.",
+      "title_ko": "사우디 민방위: 술라일 주에 국가 조기경보 플랫폼 경보 발령",
+      "summary_ko": "사우디 민방위가 술라일 주에 국가 조기경보 플랫폼을 통한 경보를 발령했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xUmp1SlUtX3V6dm0yNkMyTjdTc3N0TVRsVTR3OVA3ZVZDYXJDako5aVFSUnZONGItcGJReDFQc2FQWGpfTHRvQWZtRUxJUjF5UkEzTUkzNWJ1SjVNRXNfS3dsc0tERXBOUVNudFMyRG9iNU45N082cQ?oc=5",
+      "published": "2026-11-21T07:56:53+09:00",
+      "tags": [],
+      "event": "saudi-sulayyil-warning",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "墨西哥抓获大毒枭“矮子伊西德罗”",
+      "title_ko": "멕시코, 거물 마약왕 '차포 이시드로' 체포",
+      "summary_ko": "멕시코가 마약 조직 두목 '차포 이시드로'를 체포했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FbGJBd2xFNkRoV0RrOEFwZ0tURVotZlpDT2RLSHN1VWlzd1RhRkwwYkhHb2tCd2RIUkdmbnQtNERYQ0E1aTE4TlludTlqRUZqTXJtR3RLdl9ZYzZXZ1NnMzRMb1RjQnh1N3lUd2pJamtqN1pxdTBNUHlVZXVlREE?oc=5",
+      "published": "2026-11-22T06:00:56+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "mexico-chapo-isidro-capture",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "伊朗革命卫队称袭击美军在巴林两处基地防空雷达",
+      "title_ko": "이란 혁명수비대 \"바레인 미군기지 2곳 방공레이더 공격\"",
+      "summary_ko": "이란 혁명수비대가 바레인 내 미군 기지 2곳의 방공 레이더를 공격했다고 주장했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPN0hzN3lEVnY0cjhHQVNKVV9Wak9WYkpPajBBZmMyLXdESmd3emhfdVJTQlpaOFpoSWRxMEFMSGY5ZHV3d2lPbDRtQmJudkRReTZLYTliZTRDVVdFRVJQSGdpRXBQMUFxQ2t3VGdFWU1WbEVOVDdJTmZ6LWV2MXc?oc=5",
+      "published": "2026-11-22T06:00:51+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "iran-irgc-bahrain-radar-attack",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "北约秘书长：将捍卫波兰“每一寸领土”",
+      "title_ko": "나토 사무총장: 폴란드 '영토 한 치'도 지킬 것",
+      "summary_ko": "나토 사무총장이 폴란드의 영토를 한 치도 빠짐없이 방어하겠다고 밝혔다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LSzJVVHhhYWR4SHpiRzZvek5odGFwOFd4Z3FvZFRqSTZtVWxkUnVrRDZNTnVLWGxDWm82UTZqWVZITGhHQ0R3akdTV2psVl96eDB1Z1lQS21IaUU1RTBtN1pIQlNDdVBSbGdCcDNMNGVZaEZKWi05YUp4cjlIUlU?oc=5",
+      "published": "2026-11-22T02:45:29+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "nato-poland-defense-pledge",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "伊朗副外长证实调解方卡塔尔代表团访问德黑兰",
+      "title_ko": "이란 외무차관, 중재국 카타르 대표단 테헤란 방문 확인",
+      "summary_ko": "이란 외무차관이 중재국 카타르 대표단의 테헤란 방문을 확인했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iUXBSUllkVzcxSWlaWkUtNE5qQ05waU1yTGNOV0NzY0xEMnBVbVZLVGZGd29PaWM5NFVFYk8tNXVNNVZSMHAwRFhtTkMxalNha1NnMldSZ2s4UkdSOFZSNUtSallVYWU5UzJzSUgzVEJHQXRHTjVVdFFMeVN3QVU?oc=5",
+      "published": "2026-11-22T02:44:29+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "qatar-mediation-iran",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "特朗普称寻求与伊朗达成一项永久性协议",
+      "title_ko": "트럼프 \"이란과 영구적 협정 추구\"",
+      "summary_ko": "트럼프 대통령이 이란과 영구적 협정 체결을 추구한다고 말했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qc0tqREJ0d3pfaFlNM2RBMGZJbTlRZm9BdEVWMkJIM3R2WGdWVHJrdmdKQ1ZsOUdmbmtQSXREbVJBNF9Xc3ZKMWZkNy1hN0VUVXQwRWpBWFVwTThweDdyV0dzRmxIWFRjS1VTU1BBc0lDYWhzaFZHQnhYX1lyVWc?oc=5",
+      "published": "2026-11-22T01:31:07+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "trump-iran-permanent-deal",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "伊朗称击伤F-16战机 美军否认",
+      "title_ko": "이란 \"F-16 격추 손상\" 주장, 미군은 부인",
+      "summary_ko": "이란이 F-16 전투기를 맞혀 손상시켰다고 주장했으나 미군은 부인했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RUVZlY0tNVTlqSXhkVElvd2FySk5KM1d6VTVUQ01aSlZXVm9CeFEzUXUyaklMVVFhakM1blI0MUx3OHJ4eHhmQzBPOU5DSDB0R21hcnhjWjNxazh0VEVscGc1QUE1OFdYYkt2Vk5NaE54aUlVOGNB?oc=5",
+      "published": "2026-11-22T00:34:45+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "iran-f16-shootdown-claim",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "特朗普称没有考虑伊朗政权更迭",
+      "title_ko": "트럼프 \"이란 정권 교체 고려 안 해\"",
+      "summary_ko": "트럼프 대통령이 이란 정권 교체를 고려하지 않고 있다고 말했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JOEpsTkhzeU1CUmN2UHNwWUpZeHNTeEUyWlM4Ny1ZOHRacG1JcDNfM0NKalpkdGUyVU9FYmFWdFpaczRHMm5UT00xY1YzSVVaMzhZalVydWM0aXh0X0t0ZDlDVThjY0xuNVlhbmRVZ01LTFE1bWNCN2RhYUFTaFk?oc=5",
+      "published": "2026-11-22T00:30:40+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "trump-iran-no-regime-change",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "空手道世界杯：中国两支女队首次跻身四强 将争铜牌",
+      "title_ko": "가라테 월드컵: 중국 여자팀 2팀 첫 4강 진출, 동메달 결정전",
+      "summary_ko": "가라테 월드컵에서 중국 여자팀 두 팀이 처음으로 4강에 올라 동메달을 다툰다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSlZVTGV3SGJJaENDTVR0RzQ5NGNsZWVWUVNMajNMT0NDUDFWUTlDTHM0dm92Y2ExLXRNZDR3Z3U2S0xZUVBmOG1PbEVqdGpkb05XM1lJY3dnZ0R0aFViUTkxdGFCUzA0M3A1dTVNOEMxTFAwUnp5Y256TElob3NpVw?oc=5",
+      "published": "2026-11-22T00:19:28+09:00",
+      "tags": [],
+      "event": "karate-world-cup-china",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "第十四届中国中部投资贸易博览会在河南郑州举行 - 人民网-图片频道",
+      "title_ko": "제14회 중국 중부 투자무역박람회 허난 정저우서 개막",
+      "summary_ko": "제14회 중국 중부 투자무역박람회가 허난성 정저우에서 열렸다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54WHNPSm5zYTVzWGZMUEg4LVhuNC11Ny1CU1BRQUVWWnh4WTZEcEN2VGkwaEoxNTBNLVlYdjhGWVZQdndOY2lpX0VBbEwzRHNfSU5mQ2FDdU03SFRURkktdER3aHpUQUFl?oc=5",
+      "published": "2026-11-22T00:29:00+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "central-china-investment-expo",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "亚布力滑雪场正式营业",
+      "title_ko": "야부리 스키장 정식 개장",
+      "summary_ko": "헤이룽장 야부리 스키장이 정식 개장했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03ZlRUVXlGbjRYYnFiUmNsdlI3UEpVeEx4TFFGRklhdWtLQ29IOUZjSjBEVlU3b3UyMFhsN0h1WmZUcDBFRkFsQW93blNFdHpzVWRUMlkzZFpRUmpZUmd6MC1UMGZabS1QcDhn?oc=5",
+      "published": "2026-11-21T22:30:00+09:00",
+      "tags": [],
+      "event": "yabuli-ski-resort-opening",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "为推动亚太合作行稳致远指明方向——国际人士高度评价习近平主席重要讲话",
+      "title_ko": "'아태 협력의 안정적 발전에 방향 제시' — 국제 인사들, 시진핑 주석 연설 높이 평가",
+      "summary_ko": "국제 인사들이 아태 협력에 관한 시진핑 주석의 연설을 높이 평가했다는 보도. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1cTY5Zk5XWm5LVFk2X2tGSHpYbWVpa25OZWxWS2htbnhSMEdmT1NYVXFRdzE0cHJLV2w1VGZrR3Z1TktwRU5FN3BRa1d6YkhWSjRVSXplQWpGVG5IT1pDOHJPRm5weWRlUHhWdDFPOENXZw?oc=5",
+      "published": "2026-11-21T22:19:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "xi-apec-speech",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "微视频｜建设亚太共同体，习主席提出务实倡议",
+      "title_ko": "[마이크로 영상] 아태 공동체 건설, 시 주석 실무적 이니셔티브 제시",
+      "summary_ko": "시진핑 주석이 아태 공동체 건설을 위한 실무적 이니셔티브를 제시했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91YnAtelYxdzdUWTdEMHhnd1BlbXRjeU9WVTk0S0g2X1BpdE1WVzRxcUMxTXRSbjVZbjlHRjZ1OW42ZEVyY2NNS1EwRlE0M2ZhbVRrNWdfMl9YcGwwdWlLUXBVc1N3QWlEajRPWFA3bnotZw?oc=5",
+      "published": "2026-11-21T21:52:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "xi-apec-speech",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "印尼马鲁古省附近海域发生7.2级地震--国际",
+      "title_ko": "인도네시아 말루쿠주 인근 해역 규모 7.2 지진",
+      "summary_ko": "인도네시아 말루쿠주 인근 해역에서 규모 7.2 지진이 발생했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBERWg4RHpxdi10MzZWTmhsYXNuMG1YZGhfekFtMF9kRDVIaG5OYnJmcURVU19vRTZjUXdINVYxZ2ZkbW5GeGN5cDd1QURBNlNuTXNrZFprZlRDd2NEWFdEVUY4M1NtSDZuMXVr?oc=5",
+      "published": "2026-11-21T21:05:00+09:00",
+      "tags": [],
+      "event": "indonesia-maluku-earthquake",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "习近平新时代中国特色社会主义思想海外研究国际论坛（2026）在北京举行李书磊出席开幕式并发表主旨演讲",
+      "title_ko": "시진핑 신시대 중국특색 사회주의 사상 해외연구 국제포럼(2026) 베이징 개최, 리수레이 개막 기조연설",
+      "summary_ko": "시진핑 사상 해외연구 국제포럼이 베이징에서 열렸고 리수레이가 개막식에서 기조연설을 했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qWkppTzdrd25CbEpxSnVqdFRPX1lOdGowOWpmYkxvXzVSS21COWYtVXpvOFFzSk51dXdVdmdNNWNaRVFyYVQ3bzhCOGhEbHZlQWVCcHdMLXM5X3NYNWxjMlJzV0JnLWFfRGd2eThGMA?oc=5",
+      "published": "2026-11-21T21:02:00+09:00",
+      "tags": [],
+      "event": "xi-thought-overseas-forum",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "青海海西州德令哈市发生5.6级地震",
+      "title_ko": "칭하이 하이시주 더링하시 규모 5.6 지진",
+      "summary_ko": "칭하이성 하이시주 더링하시에서 규모 5.6 지진이 발생했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZcmZKaWt4VUhFNjFwNEVnN3ROZjN0RVcteTQ1NjNmZEw2U0VpWlp0S3k4Q1l4VFplazBBNHNJMHpvNHVtaDZUVDBzbWoxUmZENVd4OGVhaXNfZTRnTDVNV21GMFNMbGN6aTJTb2xn?oc=5",
+      "published": "2026-11-21T20:02:00+09:00",
+      "tags": [],
+      "event": "qinghai-delingha-earthquake",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "中国短道速滑队夺得世巡赛首尔站女子3000米接力金牌",
+      "title_ko": "중국 쇼트트랙, 월드투어 서울 대회 여자 3000m 계주 금메달",
+      "summary_ko": "중국 쇼트트랙 대표팀이 월드투어 서울 대회 여자 3000m 계주에서 금메달을 땄다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhV0lmbTYtQkNTblpoazlQQTFsSWxZcHJUQmNKckI2b3k1WnNHc2x2M2dHbEpYVjBMelJhTmZMek4tMXBCUEhrblpMNGZRSW5WNzRrNVVadDQ2TXpjWEFKQ01BcXlEaHVk?oc=5",
+      "published": "2026-11-21T17:40:00+09:00",
+      "tags": [],
+      "event": "short-track-seoul-china",
+      "state_media": true
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "French police officers jailed for racist violence against black man in landmark ruling",
+      "title_ko": "프랑스 경찰관들, 흑인 남성 인종차별 폭행으로 실형 — 획기적 판결",
+      "summary_ko": "프랑스 법원이 6년 전 음악 프로듀서 미셸 제클레르를 폭행한 경찰관 3명에 대해 인종차별적 폭력임을 인정하고 징역 1~2년을 선고했다. 피해자 측 변호인은 '역사적 판결'이라고 평가했다.",
+      "url": "https://www.scmp.com/news/world/europe/article/3375350/french-police-officers-jailed-racist-violence-against-black-man-landmark-ruling",
+      "published": "2026-11-22T05:22:55+09:00",
+      "tags": [],
+      "event": "france-zecler-police-ruling",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Former Italian police chief De Gennaro takes own life amid mafia probe",
+      "title_ko": "이탈리아 전 경찰청장 데 젠나로, 마피아 수사 중 극단적 선택",
+      "summary_ko": "1992년 반마피아 판사 살해 사건 재수사 방해 혐의로 조사받던 지아니 데 젠나로(78) 전 이탈리아 경찰청장이 스스로 목숨을 끊었다고 관계자가 밝혔다. 그는 2000~2007년 경찰청장을 지냈다.",
+      "url": "https://www.scmp.com/news/world/europe/article/3375349/former-italian-police-chief-de-gennaro-takes-own-life-amid-mafia-probe",
+      "published": "2026-11-22T03:21:02+09:00",
+      "tags": [],
+      "event": "italy-de-gennaro-death",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Hong Kong flight makes emergency landing in Philippines after engine fire alert",
+      "title_ko": "홍콩발 항공편, 엔진 화재 경보로 필리핀 비상착륙",
+      "summary_ko": "승객·승무원 146명을 태우고 홍콩에서 파푸아뉴기니로 가던 에어니우기니 PX19편이 엔진 화재 가능성으로 필리핀 다바오 국제공항에 비상착륙했다.",
+      "url": "https://www.scmp.com/news/hong-kong/transport/article/3375347/hong-kong-flight-makes-emergency-landing-philippines-after-engine-fire-alert",
+      "published": "2026-11-22T01:29:39+09:00",
+      "tags": [],
+      "event": "air-niugini-emergency-landing",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Hong Kong pledges extra US$20m to AIIB special fund as bank sets up city office",
+      "title_ko": "홍콩, AIIB 특별기금에 2000만 달러 추가 출연… AIIB 홍콩사무소 개설",
+      "summary_ko": "홍콩이 아시아인프라투자은행(AIIB)의 홍콩 사무소 설립 협정 체결에 따라 AIIB 특별기금에 2000만 달러를 추가 출연한다. 폴 찬 재정사장은 이를 국제금융도시 홍콩에 대한 신뢰의 표시라고 말했다.",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375343/hong-kong-pledges-extra-us20m-aiib-special-fund-bank-sets-city-office",
+      "published": "2026-11-22T00:01:14+09:00",
+      "tags": [
+        "business",
+        "geopolitics"
+      ],
+      "event": "hk-aiib-office-fund",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Mexico captures drug kingpin on FBI’s most wanted list",
+      "title_ko": "멕시코, FBI 최우선 수배 마약왕 체포",
+      "summary_ko": "멕시코 군은 미국 수사당국 10대 수배자 중 한 명인 마약조직 두목 파우스토 이시드로 메사('차포 이시드로')와 조직 간부 2명을 시날로아주 특수부대 작전으로 체포했다고 발표했다.",
+      "url": "https://www.scmp.com/news/world/americas/article/3375342/mexico-captures-drug-kingpin-fbis-most-wanted-list",
+      "published": "2026-11-21T23:00:45+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "mexico-chapo-isidro-capture",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Why a slow-paced show about broken friendships is China’s antidote to AI fatigue",
+      "title_ko": "느린 우정 리얼리티쇼가 중국의 'AI 피로' 해독제가 된 이유",
+      "summary_ko": "깨진 우정을 다룬 느린 전개의 중국 리얼리티쇼가 AI 동반자·알고리즘 숏드라마 확산 속에서 '살아 있는 느낌(huorengan)'에 대한 전국적 성찰을 불러일으키며 문화 현상이 됐다.",
+      "url": "https://www.scmp.com/news/china/politics/article/3375328/why-slow-paced-show-about-broken-friendships-chinas-antidote-ai-fatigue",
+      "published": "2026-11-21T23:00:05+09:00",
+      "tags": [],
+      "event": "china-friendship-reality-show",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Indonesia, EU sign ‘ambitious’ trade deal",
+      "title_ko": "인도네시아·EU '야심찬' 무역협정 서명",
+      "summary_ko": "EU와 인도네시아가 브뤼셀에서 시장 개방 무역협정에 공식 서명해 내년 초 발효의 길을 열었다. 폰데어라이엔 EU 집행위원장과 아이르랑가 하르타르토 인도네시아 경제조정장관이 참석했다.",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3375341/indonesia-eu-sign-ambitious-trade-deal",
+      "published": "2026-11-21T22:46:13+09:00",
+      "tags": [
+        "geopolitics",
+        "business",
+        "legislation"
+      ],
+      "event": "eu-indonesia-trade-deal",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Asian Gaelic Games brings 2-day celebration of all things Irish to Hong Kong",
+      "title_ko": "아시안 게일릭 게임, 홍콩서 이틀간 아일랜드 문화 축제",
+      "summary_ko": "아일랜드와 역내 아마추어 선수 700여 명이 30주년을 맞은 아시안 게일릭 게임 참가를 위해 홍콩을 찾았다.",
+      "url": "https://www.scmp.com/sport/other-sport/article/3375337/asian-gaelic-games-brings-2-day-celebration-all-things-irish-hong-kong",
+      "published": "2026-11-21T21:52:29+09:00",
+      "tags": [],
+      "event": "asian-gaelic-games-hk",
+      "state_media": false
+    },
+    {
+      "source": "China Daily",
+      "title_original": "中国驻纽约总领馆举行孙中山先生诞辰160周年纪念活动",
+      "title_ko": "주뉴욕 중국 총영사관, 쑨원 탄생 160주년 기념행사 개최",
+      "summary_ko": "주뉴욕 중국 총영사관이 쑨원 탄생 160주년 기념행사를 열었다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11WUROdkRTNUVzTHgyZ2tVa3Jra0tDVWlGbFpobjMycmhzeEYwdFlZUDRCeHlaM2k0Z3phemE4SFpYbzltUk9lck9FUm1iUWxLMlpnQkFIeWRtWmJGNTdMNWc3c1RqelpqcmllcDNkTFNRWldWWnNhY1hsTjU?oc=5",
+      "published": "2026-11-22T03:33:30+09:00",
+      "tags": [],
+      "event": "sun-yat-sen-160th-anniversary",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "2026年北京TOP街舞国际公开赛启幕",
+      "title_ko": "2026 베이징 TOP 브레이킹 국제오픈 개막",
+      "summary_ko": "2026 베이징 TOP 스트리트댄스 국제오픈 대회가 개막했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41WjFJc196ODBEZDhOc0ZHbzVRSDhSaVZYWUw3eEkxazM0RFFsekhycFdtb2lfYUdRSXBmZE03R1dDbWRDN3hnekF2SlZMQ1JrR3JzZlF2dFdaVW5rZTZIb2JDNENZN3cyNURBV0pNRFJxeFZDR1dpOFZLTXk?oc=5",
+      "published": "2026-11-21T23:23:17+09:00",
+      "tags": [],
+      "event": "beijing-top-breaking-open",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "经济日报：“温差”待消弭 信心不可失",
+      "title_ko": "경제일보: '온도차'는 해소해야, 자신감은 잃지 말아야",
+      "summary_ko": "경제일보 논평: 경제 '온도차' 해소 필요와 자신감 유지를 강조. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLMTVRSk9fSkVXXzFIZUhCVDFWTHVyTHVnTHQwazdKU3FKSlRfQXA2TjRqd01peHJzX1ZzMlBYY0ljajhTR2plbF9RNGxHNEp6a3Y2bGFYTktONkNaNlFZcUdiZXhCZzdKUGwxM1hCSW9fVGtOWlhULU5HMA?oc=5",
+      "published": "2026-11-21T23:08:06+09:00",
+      "tags": [
+        "forecast"
+      ],
+      "event": "economic-daily-confidence-commentary",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "这五年，中国-东盟经贸合作持续提质扩容",
+      "title_ko": "지난 5년, 중국-아세안 경제무역 협력 질적 향상·규모 확대 지속",
+      "summary_ko": "중국-아세안 경제무역 협력이 지난 5년간 질과 규모 면에서 확대됐다는 보도. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qZk53bzhmcmlOMU0tRURfV1dQM3dsUnQ1bDcyRHYyOGZaUU1HZUZzV3czR0ItUFBHYl8yY0NXUGtBaTBETktWTnZrNnB0Mzh0WlhBazJqWWRmak1aX2ItMXVGUWZVcEl6SmlrX0g0bWRQMnFMYVFvLUZjeGo?oc=5",
+      "published": "2026-11-21T23:05:35+09:00",
+      "tags": [
+        "business",
+        "geopolitics"
+      ],
+      "event": "china-asean-trade-cooperation",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "数万家智能工厂背后，AI到底改变了什么？",
+      "title_ko": "수만 개 스마트공장 뒤에서 AI는 무엇을 바꿨나?",
+      "summary_ko": "수만 개 스마트공장에서 AI가 가져온 변화를 다룬 기사. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IajczcUVSUFhYbC1QRTlxcWU1RnBNb3NsZ01aNW16TDM1VjRiMkMwZTk1SWQ0UmVKbTdxMFdRdzBodE1yTWlwQldjOW1BWkdvR0dpWlRoU3djNHRhRGJZeE41bThWYTVtS2VZOThBZjNGM3RWMzBtZDU2dDc?oc=5",
+      "published": "2026-11-21T22:55:50+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "china-ai-smart-factories",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "“经”彩新图景丨结构向优、动能向新 我国消费市场潜能不断释放",
+      "title_ko": "[경제 신풍경] 구조 고도화·동력 혁신, 중국 소비시장 잠재력 지속 발현",
+      "summary_ko": "중국 소비시장의 구조가 개선되고 잠재력이 계속 발현되고 있다는 보도. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KZ0F0c0o4dDcwVDRfRS0wa2NNdGd5MEdyc0M1UW5DVVRBOFVObElqakM3M0c0M05fUzBnNEpqbkhIS01ZWVkya1JtSlJrNXNLWlhRT2V0TjdRZk16TE5WUXRPRURWcllEV3JkWjkxYlUtOGRKVjJnZHFXbnI?oc=5",
+      "published": "2026-11-21T22:55:24+09:00",
+      "tags": [
+        "business",
+        "forecast"
+      ],
+      "event": "china-consumer-market-potential",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "第八季朝阳职工文体嘉年华 欢乐跑成功举办",
+      "title_ko": "제8회 차오양 직공 문체 카니발 펀런 성황리 개최",
+      "summary_ko": "제8회 차오양구 직공 문화체육 카니발 펀런 행사가 열렸다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9oTkFzS1JKM2RPeHRzTzVpVUJJSDhZMmdOc011bHpId2FyQlJSTTcyOGJwSnN4RUpqT0k0ZXhnaWJqUDBNS3F4LW1Zbldpem1RNGFxZnZqLWdicTNxR3hoeTUwSnpJRFFZRF9oYWsxMHBVQnRtTS1DX2kzd1E?oc=5",
+      "published": "2026-11-21T22:29:47+09:00",
+      "tags": [],
+      "event": "chaoyang-workers-fun-run",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "为推动亚太合作行稳致远指明方向——国际人士高度评价习近平主席重要讲话- 中国日报网",
+      "title_ko": "'아태 협력의 안정적 발전에 방향 제시' — 국제 인사들, 시진핑 주석 연설 높이 평가",
+      "summary_ko": "국제 인사들이 아태 협력에 관한 시진핑 주석의 연설을 높이 평가했다는 보도. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeGtzRFRQNFZNMm9wei1EcnBLemJUNHE2Nkltd2t2cVA4SkcxbDk4S3NfaTQ1U2htLU1OWUtRRlZMdkp1WTZ3WkE1RFBQVUpsc0xIcnZRaHlzVnJGbnU1VkVRRlU4aWY1Q0toRXQtZnV4Ml9DTnJmc3lTdm1NVXgzVg?oc=5",
+      "published": "2026-11-21T22:25:37+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "xi-apec-speech",
+      "state_media": true
+    }
+  ],
+  "events": [
+    {
+      "event": "china-cryo-tem-launch",
+      "title_ko": "국산 120kV 극저온 투과전자현미경(Cryo-TEM) 발표",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "changan-university-interview-controversy",
+      "title_ko": "'14일 면접, 13일 결과 발표?' 창안대학 해명",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "iran-f16-shootdown-claim",
+      "title_ko": "미군 중부사령부, 이란에 F-16 피격 부인",
+      "sources": [
+        "CCTV",
+        "Xinhua"
+      ],
+      "count": 3
+    },
+    {
+      "event": "china-43rd-antarctic-expedition",
+      "title_ko": "[중국 제43차 남극 탐사] 쉐룽호 물자 보급 완료, 남극 중산기지로 향해",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "overseas-listed-investor-protection",
+      "title_ko": "해외 상장사 투자 권익 침해 시 투자자는 어떻게 구제받나?",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "crescent-spring-conservation",
+      "title_ko": "'사막과 샘의 공생' 보호기: 월아천을 어떻게 다시 '살찌울까'",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "tianjin-library-concert",
+      "title_ko": "'도서관 판타지 여행' 음악회 톈진서 공연",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "greece-refugee-rescue",
+      "title_ko": "그리스 해안경비대, 난민 51명 구조",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 1
+    },
+    {
+      "event": "peru-earthquake",
+      "title_ko": "페루 중부서 규모 5.0 지진 - EMSC",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 1
+    },
+    {
+      "event": "saudi-sulayyil-warning",
+      "title_ko": "사우디 민방위: 술라일 주에 국가 조기경보 플랫폼 경보 발령",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 1
+    },
+    {
+      "event": "mexico-chapo-isidro-capture",
+      "title_ko": "멕시코, 거물 마약왕 '차포 이시드로' 체포",
+      "sources": [
+        "Xinhua",
+        "SCMP (홍콩)"
+      ],
+      "count": 2
+    },
+    {
+      "event": "iran-irgc-bahrain-radar-attack",
+      "title_ko": "이란 혁명수비대 \"바레인 미군기지 2곳 방공레이더 공격\"",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "nato-poland-defense-pledge",
+      "title_ko": "나토 사무총장: 폴란드 '영토 한 치'도 지킬 것",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "qatar-mediation-iran",
+      "title_ko": "이란 외무차관, 중재국 카타르 대표단 테헤란 방문 확인",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "trump-iran-permanent-deal",
+      "title_ko": "트럼프 \"이란과 영구적 협정 추구\"",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "trump-iran-no-regime-change",
+      "title_ko": "트럼프 \"이란 정권 교체 고려 안 해\"",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "karate-world-cup-china",
+      "title_ko": "가라테 월드컵: 중국 여자팀 2팀 첫 4강 진출, 동메달 결정전",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "central-china-investment-expo",
+      "title_ko": "제14회 중국 중부 투자무역박람회 허난 정저우서 개막",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "yabuli-ski-resort-opening",
+      "title_ko": "야부리 스키장 정식 개장",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "xi-apec-speech",
+      "title_ko": "'아태 협력의 안정적 발전에 방향 제시' — 국제 인사들, 시진핑 주석 연설 높이 평가",
+      "sources": [
+        "People's Daily",
+        "China Daily"
+      ],
+      "count": 3
+    },
+    {
+      "event": "indonesia-maluku-earthquake",
+      "title_ko": "인도네시아 말루쿠주 인근 해역 규모 7.2 지진",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "xi-thought-overseas-forum",
+      "title_ko": "시진핑 신시대 중국특색 사회주의 사상 해외연구 국제포럼(2026) 베이징 개최, 리수레이 개막 기조연설",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "qinghai-delingha-earthquake",
+      "title_ko": "칭하이 하이시주 더링하시 규모 5.6 지진",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "short-track-seoul-china",
+      "title_ko": "중국 쇼트트랙, 월드투어 서울 대회 여자 3000m 계주 금메달",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "france-zecler-police-ruling",
+      "title_ko": "프랑스 경찰관들, 흑인 남성 인종차별 폭행으로 실형 — 획기적 판결",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "italy-de-gennaro-death",
+      "title_ko": "이탈리아 전 경찰청장 데 젠나로, 마피아 수사 중 극단적 선택",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "air-niugini-emergency-landing",
+      "title_ko": "홍콩발 항공편, 엔진 화재 경보로 필리핀 비상착륙",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "hk-aiib-office-fund",
+      "title_ko": "홍콩, AIIB 특별기금에 2000만 달러 추가 출연… AIIB 홍콩사무소 개설",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "china-friendship-reality-show",
+      "title_ko": "느린 우정 리얼리티쇼가 중국의 'AI 피로' 해독제가 된 이유",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "eu-indonesia-trade-deal",
+      "title_ko": "인도네시아·EU '야심찬' 무역협정 서명",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "asian-gaelic-games-hk",
+      "title_ko": "아시안 게일릭 게임, 홍콩서 이틀간 아일랜드 문화 축제",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "sun-yat-sen-160th-anniversary",
+      "title_ko": "주뉴욕 중국 총영사관, 쑨원 탄생 160주년 기념행사 개최",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "beijing-top-breaking-open",
+      "title_ko": "2026 베이징 TOP 브레이킹 국제오픈 개막",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "economic-daily-confidence-commentary",
+      "title_ko": "경제일보: '온도차'는 해소해야, 자신감은 잃지 말아야",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "china-asean-trade-cooperation",
+      "title_ko": "지난 5년, 중국-아세안 경제무역 협력 질적 향상·규모 확대 지속",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "china-ai-smart-factories",
+      "title_ko": "수만 개 스마트공장 뒤에서 AI는 무엇을 바꿨나?",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "china-consumer-market-potential",
+      "title_ko": "[경제 신풍경] 구조 고도화·동력 혁신, 중국 소비시장 잠재력 지속 발현",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "chaoyang-workers-fun-run",
+      "title_ko": "제8회 차오양 직공 문체 카니발 펀런 성황리 개최",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    }
+  ],
+  "unavailable_sources": [
+    "Global Times",
+    "Caixin"
+  ]
+}
