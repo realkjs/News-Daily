@@ -1,9 +1,7 @@
 {
   "us": {
-    "headlines": 80,
-    "unavailable": [
-      "CNN"
-    ]
+    "headlines": 88,
+    "unavailable": []
   },
   "kr": {
     "headlines": 112,
@@ -28,7 +26,7 @@
     "unavailable": []
   },
   "il": {
-    "headlines": 39,
+    "headlines": 37,
     "unavailable": [
       "Kan (KAN News)",
       "N12 (Channel 12)",

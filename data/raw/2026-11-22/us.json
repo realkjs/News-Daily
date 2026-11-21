@@ -1,77 +1,185 @@
 {
   "team": "us",
   "team_name_ko": "미국팀",
-  "collected_at": "2026-11-22T06:13:34.235276+09:00",
+  "collected_at": "2026-11-22T08:57:09.509441+09:00",
   "headlines": [
     {
+      "source": "CNN",
+      "title_original": "'Like a bake-off': Inside Vance and Rubio's apparent audition for 2028",
+      "summary_original": "'Like a bake-off': Inside Vance and Rubio's apparent audition for 2028 CNN",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZW90V2dqZlhmbkxYZ3lsSnQyN05DQlVoMmxLLVpiMHJac1BUdjg1NFVBYTRfOXBRS2g5dHBkc3l5cTVTRlJqd1FFTlZiN2NQaWt3Ukw4NVB5Ry0wNzJiOU9vVmUzV3hraUlPX1M5YUhvZXJlUG5uTWEzeGROWWFYTFdBaGNBdmtOM0RVZF84ZElldFNxVzdwNGhJeXR6NmFRZXk1REFkZ1JhcllqRDA0MUZnR3lxSHdMZ1pkbG5hbmJRcU8zR2RTc0FFQkpHenR0STR6ZXE3aVNrbWc3ZjlIMEtEdnhwY0dVUFFTZUhSMWpydHpibEZRWGlvVDU?oc=5",
+      "published": "2026-11-22T05:14:06+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "CNN",
+      "title_original": "Sitemap - November 2026",
+      "summary_original": "Sitemap - November 2026 CNN",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12YTdhRzNSTC1qWWd4eUdOYjF4S2J3NklRT25pZWpfSnBTSFBLb2pxdjRzdVRaV2NOQlRVazJhMVVXYnRkbzJfSzIyTWpzbGR1ejRtQTU0MEl5S2xrUElUdENrcw?oc=5",
+      "published": "2026-11-22T04:02:46+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "CNN",
+      "title_original": "Biden-era spending law found unconstitutional by federal appeals court",
+      "summary_original": "Biden-era spending law found unconstitutional by federal appeals court CNN",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWXdmM2hubTVUaGl4dnNMQ0JJTGo1S0gzd0tYVW1XMUQ1N2lQdzlmN1E5d2tVclVoQl9fX3hub2RlMlU3cUxqZVNTQnRSY2RLR2xxZ3pDQWZ2VnBxZGlzLUs1SkdlLUItY0NNN20wV0pxNGswSUoyRjJWNUwtMEg2VXY2TkphTjAtQWxWb3ZFSHB0b1hiSVdaVA?oc=5",
+      "published": "2026-11-22T03:58:15+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "CNN",
+      "title_original": "Iraq power station explosion kills at least four",
+      "summary_original": "Iraq power station explosion kills at least four CNN",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUnc4dy1QQWZfUEdqR3BQaWFwZHdFVGpXMUQ1NkwzMldfV2tLOXAwU3R6ck9aN1h1cU9YQXFELUFQY0RnV3p5WE1sdkt6Rmg4dTc1Y0M2TFhSQ3djWFd4SFE5SURtUFVNZGhRXzh3ZEE5Y29MZk5LRlFlR0M4OWltaGZaRE13dnB4WmNBYnhrNm1ZV0FEd2U0ZktXVkdDTXFsX2c?oc=5",
+      "published": "2026-11-22T03:26:20+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "CNN",
+      "title_original": "Trump directs federal contractors to coordinate with White House on congressional requests for information",
+      "summary_original": "Trump directs federal contractors to coordinate with White House on congressional requests for information CNN",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaEdKbmthM0F6WDR3MUdUOWx3aDdxUjROSmVaX252LWRDQ3BaOFl4anM3eXJaU2FIYnlONzd3S0dwcjE2QlVKUlBzT25uUGpDR3pGTVI1MEtoMUNHMndDMnhKUEc3OE1IZXNvT05lVmozelhMVU95ekZRX05BNHY5OGYtTndHcUltQ0xpUEFlazgyQmxNWnYxSjZnTjRHRVkyV3BoekZhSFJVNjlj?oc=5",
+      "published": "2026-11-22T03:02:38+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "CNN",
+      "title_original": "The world is on the verge of a religious shift. What’s driving it?",
+      "summary_original": "The world is on the verge of a religious shift. What’s driving it? CNN",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYTV6MjdCS0ZSLWZkNlphbmdHLVNhb2tndllyLVItYkxsLXFMSHhWc0JLal9GellpMWEtb1ZPSk5XMHJnUUp4ZFZTM0lDVkswemFXRDRlLTBuTlN2TXNuZE5TVk9LcFdNZXZMbDlpWkdPZlNIczdncF9jXzJZTUwxbjgtNzRnU0lQZnNDNGNjWVczU0djeUVUMXFIWHdxdk9sZUVIQ2o2dV9HMUdvZHZ3?oc=5",
+      "published": "2026-11-22T02:18:23+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "CNN",
+      "title_original": "AI stocks lose their shine as Anthropic debuts | CNN Business",
+      "summary_original": "AI stocks lose their shine as Anthropic debuts | CNN Business CNN",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONUk2bWRjWURBZW5PV0QtMFZKSGJ5aXhBTHdsaXo2azA4Q1V6YkVhWmZnNnM1QkFmX3NfaUJuS2VOU2swdUthTVE3ZEpkY085bkFvTXlSYVhyMV8wTG04dUZNLWVWOU5RWDlPZ0xtRk00OGNjbDZOaGV3dVRNcUNldEVwQWMtajdOS0p3MS1QQ2ZSbFNyTEJEQXU2WUtjc29HQTREMklXd1VPZw?oc=5",
+      "published": "2026-11-22T02:15:02+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "CNN",
+      "title_original": "Coincidence or conspiracy? Smerconish on America’s outage anxiety",
+      "summary_original": "Coincidence or conspiracy? Smerconish on America’s outage anxiety CNN",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNakFJVEE3U0hXQklhd2ZiWXAxTGFUMGxEb2NnMTB1Skg5cGNJV0lmcmhtNTNXVWd6UnAza05ZbFRvWmYzYWRjWVNIZkxOY2VTWklVekUyNnU3UklSS280aS1OaXBUbTkxbks5b2VHeUhlVXRYc2EwN3c1Q2tzRV8talpRMWpnX0ZhNWM4blRUTTdnd3pQYUtZYmhRY2lQcXdYeVlvaExlRy1RS2M?oc=5",
+      "published": "2026-11-22T02:08:31+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
       "source": "Fox News",
-      "title_original": "How to Bet on Week 12’s Biggest CFB Matchups Including Tennessee vs LSU, Georgia vs South Carolina",
-      "summary_original": "How to bet Week 12’s biggest college football games, with promos from BetMGM, Fanatics, FanDuel, Hard Rock Bet, Underdog and Betr for LSU-Tennessee and Georgia-South Carolina.",
-      "url": "https://www.foxnews.com/outkick-betting/how-bet-week-12s-biggest-cfb-matchups-including-tennessee-vs-lsu-georgia-vs-south-carolina",
-      "published": "2026-11-22T05:57:21+09:00",
+      "title_original": "Las Vegas Grand Prix betting guide: How to bet Saturday night's race on the strip",
+      "summary_original": "Las Vegas Grand Prix betting picks: Kimi Antonelli to win at +470, Lando Norris podium, Charles Leclerc podium at +350 and Oscar Piastri as biggest mover.",
+      "url": "https://www.foxnews.com/outkick-betting/las-vegas-grand-prix-betting-guide-bet-saturday-nights-race-strip",
+      "published": "2026-11-22T08:25:45+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Fox News",
-      "title_original": "Fanatics Sportsbook Promo Code FOXNEWS: Get $1000 in FanCash for Tennessee-LSU, Georgia-South Carolina",
-      "summary_original": "Fanatics Sportsbook promo code FOXNEWS gives new users up to $1,000 in FanCash, a 100% bet match up to $100 a day for 10 days, for LSU-Tennessee and Georgia-South Carolina.",
-      "url": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews-get-1000-fancash-tennessee-lsu-georgia-south-carolina",
-      "published": "2026-11-22T05:56:59+09:00",
+      "title_original": "Trump says Roger Clemens should be in the Baseball Hall of Fame 'immediately,' won't fully back Barry Bonds",
+      "summary_original": "Fresh off pardoning Pete Rose, President Donald Trump said Roger Clemens belongs in the Baseball Hall of Fame immediately, citing his seven Cy Youngs.",
+      "url": "https://www.foxnews.com/outkick-sports/trump-says-roger-clemens-should-baseball-hall-fame-immediately-wont-fully-back-barry-bonds",
+      "published": "2026-11-22T08:02:03+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Fox News",
-      "title_original": "Grand Theft Auto VI mania could endanger marriages as relationship coach exposes red flag",
-      "summary_original": "Couples brace for Grand Theft Auto VI's release as relationship expert Matthew Hussey shares advice on balancing gaming passion with real relationships.",
-      "url": "https://www.foxnews.com/health/grand-theft-auto-vi-mania-endanger-marriages-relationship-coach-exposes-red-flag",
-      "published": "2026-11-22T05:53:49+09:00",
+      "title_original": "Sammy Kershaw responds to 'sellout' critics after attending 2026 CMA Awards red carpet",
+      "summary_original": "Sammy Kershaw says talks with the Country Music Association went in a positive direction after he claimed he and wife Mendy were denied red carpet access.",
+      "url": "https://www.foxnews.com/entertainment/sammy-kershaw-responds-sellout-critics-attending-2026-cma-awards-red-carpet",
+      "published": "2026-11-22T07:59:48+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Fox News",
-      "title_original": "As a hot sleeper, I live in these Cozy Earth pajamas every winter — now 20% off for FOX readers",
-      "summary_original": "Cozy Earth bamboo pajamas are breathable and perfect for hot sleepers and they're 15% off for Black Friday.",
-      "url": "https://www.foxnews.com/deals/cozy-earth-bamboo-pajamas",
-      "published": "2026-11-22T05:51:52+09:00",
+      "title_original": "Retired FBI agent warns NCIC breach could threaten police safety during traffic stops",
+      "summary_original": "Retired FBI agent Jason Pack warns a hack of the National Crime Information Center could endanger officers at traffic stops if records were altered.",
+      "url": "https://www.foxnews.com/politics/retired-fbi-agent-warns-ncic-breach-could-threaten-police-safety-traffic-stops",
+      "published": "2026-11-22T07:47:07+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Fox News",
-      "title_original": "Army cadets sneak into Navy's stadium to leave a special message in the upper deck",
-      "summary_original": "Army cadets snuck in after 1:00 a.m. to change \"Go Navy\" to \"Go Army\" before Navy vs. Memphis, keeping the rivalry alive despite NIL and the transfer portal era.",
-      "url": "https://www.foxnews.com/outkick-sports/army-cadets-sneak-navy-stadium-leave-special-message-upper-deck",
-      "published": "2026-11-22T05:50:18+09:00",
+      "title_original": "Utah vs TCU prediction, odds and best bets: Utah faces a big time trap spot",
+      "summary_original": "Utah vs. TCU betting preview: Why TCU +7.5, the Horned Frogs moneyline and the under 46.5 are the plays for Saturday night in Fort Worth.",
+      "url": "https://www.foxnews.com/outkick-betting/utah-vs-tcu-prediction-odds-best-bets-utah-faces-big-time-trap-spot",
+      "published": "2026-11-22T07:41:40+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Fox News",
-      "title_original": "Gifts for men who say they don't want anything (but really do)",
-      "summary_original": "Find top Black Friday deals on gifts from reputable brands like Apple, YETI and DeWalt, with options for every guy, from AirPods and power drills to slippers, dashcams and more.",
-      "url": "https://www.foxnews.com/deals/gifts-for-him",
-      "published": "2026-11-22T05:38:58+09:00",
+      "title_original": "No 10 BYU survives Kansas in triple overtime thriller to keep College Football Playoff hopes alive",
+      "summary_original": "No. 10 BYU outlasted Kansas in a triple-overtime thriller on Saturday, keeping their College Football Playoff hopes alive behind Bear Bachmeier.",
+      "url": "https://www.foxnews.com/outkick-sports/no-10-byu-survives-kansas-triple-overtime-thriller-keep-college-football-playoff-hopes-alive",
+      "published": "2026-11-22T07:20:29+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Fox News",
-      "title_original": "Former press secretary Katie Zacharia criticizes GOP over midterm losses, says party isn’t ‘good at winning’",
-      "summary_original": "Katie Zacharia, who served just five days as White House press secretary, says Republicans are \"terrible at the offense\" after losing nine Senate seats.",
-      "url": "https://www.foxnews.com/media/former-press-secretary-katie-zacharia-criticizes-gop-midterm-losses-party-isnt-good-winning",
-      "published": "2026-11-22T05:32:22+09:00",
+      "title_original": "Las Vegas Grand Prix Odds: How to Bet on F1 Las Vegas With BetMGM, FanDuel, and More",
+      "summary_original": "Las Vegas Grand Prix odds and betting promos for F1 on the Strip, with offers from BetMGM, FanDuel, Fanatics and Hard Rock Bet plus a play at each book.",
+      "url": "https://www.foxnews.com/outkick-betting/las-vegas-grand-prix-odds-how-bet-f1-las-vegas-betmgm-fanduel-more",
+      "published": "2026-11-22T07:11:54+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Fox News",
-      "title_original": "With each 3, Tennessee hoops sharp-shooter is helping wins pile up while making kids' wildest dreams come true",
-      "summary_original": "Tyler Lundblade's 3-pointers fuel Tennessee basketball and the Swishes for Wishes drive, with fans donating to Make-A-Wish East Tennessee each make.",
-      "url": "https://www.foxnews.com/outkick-sports/tennessee-hoops-sharp-shooter-helping-wins-pile-up-making-kids-wildest-dreams-come-true",
-      "published": "2026-11-22T05:25:54+09:00",
+      "title_original": "College Football Betting Promos: $2,000+ to be Claimed Before Tennessee-LSU, Georgia-South Carolina",
+      "summary_original": "College football betting promos worth $2,000+ from BetMGM, Fanatics, Hard Rock Bet, FanDuel, Underdog and Betr before LSU-Tennessee and Georgia-South Carolina.",
+      "url": "https://www.foxnews.com/outkick-betting/college-football-betting-promos-2000-claimed-before-tennessee-lsu-georgia-south-carolina",
+      "published": "2026-11-22T07:03:31+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "NBC News",
+      "title_original": "At least four injured after rapper OsamaSon’s New York show",
+      "summary_original": "At least four people were injured following rapper OsamaSon’s concert in New York City on Thursday evening, police said.",
+      "url": "https://www.nbcnews.com/news/us-news/least-four-injured-rapper-osamasons-new-york-show-rcna610614",
+      "published": "2026-11-22T07:39:59+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "NBC News",
+      "title_original": "At least four injured after rapper OsamaSon’s New York show",
+      "summary_original": "At least four people were injured following rapper OsamaSon’s concert in New York City on Thursday evening, police said.",
+      "url": "https://www.nbcnews.com/news/us-news/least-four-injured-rapper-osamasons-new-york-show-rcna610614",
+      "published": "2026-11-22T07:39:59+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "NBC News",
+      "title_original": "Princeton neuroscientist detained by ICE at D.C. airport after leaving conference",
+      "summary_original": "U.S. Immigration and Customs Enforcement arrested a Princeton University Ph.D.",
+      "url": "https://www.nbcnews.com/news/us-news/princeton-neuroscientist-eva-yi-xie-ice-detained-rcna610603",
+      "published": "2026-11-22T06:22:17+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "NBC News",
+      "title_original": "Princeton neuroscientist detained by ICE at D.C. airport after leaving conference",
+      "summary_original": "U.S. Immigration and Customs Enforcement arrested a Princeton University Ph.D.",
+      "url": "https://www.nbcnews.com/news/us-news/princeton-neuroscientist-eva-yi-xie-ice-detained-rcna610603",
+      "published": "2026-11-22T06:22:17+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -112,38 +220,47 @@
       "state_media": false
     },
     {
-      "source": "NBC News",
-      "title_original": "Denmark accuses Russia of plotting to kill Ukrainian American rapper on its soil",
-      "summary_original": "COPENHAGEN, Denmark — Authorities thwarted the attempted killing of a Ukrainian American citizen on Danish soil in a plot allegedly orchestrated by Russian intelligence services, the Danish prime minister’s office said Friday.",
-      "url": "https://www.nbcnews.com/world/europe/denmark-accuses-russia-plotting-kill-ukrainian-american-rapper-soil-rcna610542",
-      "published": "2026-11-21T19:15:12+09:00",
+      "source": "CBS News",
+      "title_original": "Princeton student detained by ICE at Reagan Airport after conference",
+      "summary_original": "Eva Yi Xie, a third-year Ph.D. Princeton student, was detained following a presentation she gave at the Society for Neuroscience.",
+      "url": "https://www.cbsnews.com/news/princeton-student-ice/",
+      "published": "2026-11-22T08:54:15+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "NBC News",
-      "title_original": "Trump calls Xi and Putin a notable word, and we finally get ‘GTA VI’ after all: The news quiz",
-      "summary_original": "Anthropic hits the stock market, the U.S. loses a vaccination elimination status, and a major donor distances himself from MAGA.",
-      "url": "https://www.nbcnews.com/news/news-quiz/trump-xi-putin-gta-news-quiz-rcna610276",
-      "published": "2026-11-21T19:15:00+09:00",
+      "source": "CBS News",
+      "title_original": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
+      "summary_original": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
+      "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/",
+      "published": "2026-11-22T08:25:36+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "NBC News",
-      "title_original": "Trump calls Xi and Putin a notable word, and we finally get ‘GTA VI’ after all: The news quiz",
-      "summary_original": "Anthropic hits the stock market, the U.S. loses a vaccination elimination status, and a major donor distances himself from MAGA.",
-      "url": "https://www.nbcnews.com/news/news-quiz/trump-xi-putin-gta-news-quiz-rcna610276",
-      "published": "2026-11-21T19:15:00+09:00",
+      "source": "CBS News",
+      "title_original": "Violence breaks out in Mexico after capture of drug kingpin wanted by FBI",
+      "summary_original": "Fausto Isidro Meza-Flores is allegedly the leader of a cartel responsible for drug distribution and importation.",
+      "url": "https://www.cbsnews.com/news/mexico-drug-kingpin-arrest-fausto-isidro-meza-flores-sinaloa/",
+      "published": "2026-11-22T07:30:10+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "NBC News",
-      "title_original": "FBI investigating potential breach of its crime database",
-      "summary_original": "The FBI is investigating an apparent breach of its National Crime Information Center, two people briefed on the matter told NBC News Friday.",
-      "url": "https://www.nbcnews.com/politics/justice-department/fbi-investigating-potential-breach-crime-database-rcna610536",
-      "published": "2026-11-21T13:19:51+09:00",
+      "source": "CBS News",
+      "title_original": "Lock of George Washington's hair sells at auction for $4,000",
+      "summary_original": "South Carolina-based auction house Richmond Auctions said George Washington's lock of hair was sold for $4,000.",
+      "url": "https://www.cbsnews.com/news/george-washington-lock-of-hair-auction/",
+      "published": "2026-11-22T07:10:36+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CBS News",
+      "title_original": "Princess Kate reflects on healing in new documentary: \"Cancer does change you\"",
+      "summary_original": "The princess reflects on her cancer journey in the documentary and speaks to others about their experiences.",
+      "url": "https://www.cbsnews.com/news/catherine-princess-of-wales-heal-documentary-cancer-healing/",
+      "published": "2026-11-22T06:57:14+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -153,24 +270,6 @@
       "summary_original": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
       "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
       "published": "2026-11-22T05:30:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "CBS News",
-      "title_original": "Violence breaks out in Mexico after capture of drug kingpin wanted by FBI",
-      "summary_original": "Fausto Isidro Meza-Flores is allegedly the leader of a cartel responsible for drug distribution and importation.",
-      "url": "https://www.cbsnews.com/news/mexico-drug-kingpin-arrest-fausto-isidro-meza-flores-sinaloa/",
-      "published": "2026-11-22T04:58:01+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "CBS News",
-      "title_original": "Lock of George Washington's hair sells at auction for $4,000",
-      "summary_original": "South Carolina-based auction house Richmond Auctions said George Washington's lock of hair was sold for $4,000.",
-      "url": "https://www.cbsnews.com/news/george-washington-lock-of-hair-auction/",
-      "published": "2026-11-22T04:12:45+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -193,47 +292,20 @@
       "state_media": false
     },
     {
-      "source": "CBS News",
-      "title_original": "Trump vows to work with Democrats to cap credit card interest rates",
-      "summary_original": "President Trump says he will work with the incoming Democratic Congress to cap credit card interest rates.",
-      "url": "https://www.cbsnews.com/news/trump-credit-card-rates-democrats-politics/",
-      "published": "2026-11-22T03:27:57+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "CBS News",
-      "title_original": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
-      "summary_original": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
-      "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/",
-      "published": "2026-11-22T02:54:42+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "CBS News",
-      "title_original": "Families frustrated with Pentagon probe of deadly drone strike",
-      "summary_original": "The Pentagon is preparing to release findings of its investigation into the attack that killed six U.S. soldiers in Kuwait early in the Iran war.",
-      "url": "https://www.cbsnews.com/news/pentagon-troops-killed-iran-port-shuaiba-kuwait-families/",
-      "published": "2026-11-22T02:02:37+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
       "source": "ABC News",
       "title_original": "Cartel leader on FBI's most wanted list arrested",
       "summary_original": "Fausto Isidro Meza Flores, known as \"Chapo Isidro,\" was captured in an operation in Sinaloa.",
       "url": "https://abcnews.com/International/mexican-cartel-leader-fbis-10-wanted-fugitive-list/story?id=138346100",
-      "published": "2026-11-22T06:00:02+09:00",
+      "published": "2026-11-22T07:00:02+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "ABC News",
-      "title_original": "Taiwan warns Canada’s Carney that deeper ties with China come with risks",
-      "summary_original": "Canadian Prime Minister Mark Carney has tried to deepen trade ties with China.",
-      "url": "https://abcnews.com/International/wireStory/taiwan-warns-canada-faces-china-risks-carney-cautioned-138346706",
-      "published": "2026-11-22T05:50:14+09:00",
+      "title_original": "At least 24 dead in Nigeria when boat going to funeral capsizes",
+      "summary_original": "Authorities haven't said how many passengers were believed to be on board.",
+      "url": "https://abcnews.com/International/wireStory/24-dead-nigeria-boat-capsizes-carrying-people-funeral-138348287",
+      "published": "2026-11-22T06:54:54+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -296,7 +368,7 @@
       "title_original": "Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests",
       "summary_original": "For over 20 years, according to the U.S. officials, his criminal organization smuggled heroin, methamphetamine, cocaine, and marijuana into the U.S.",
       "url": "https://www.cnbc.com/2026/11/21/mexico-drug-lord-el-chapo-isidro.html",
-      "published": "2026-11-22T05:13:49+09:00",
+      "published": "2026-11-22T07:09:16+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -437,37 +509,55 @@
     },
     {
       "source": "AP",
-      "title_original": "FBI investigating apparent hack of its key national criminal justice database, AP source says",
-      "summary_original": "FBI investigating apparent hack of its key national criminal justice database, AP source says AP News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX3JOVy03eEI4NG1USFRxZkwtd0FLc0tfWk1zMWJSX0xDeHR1Rmwwd0hoQ2RXMG15ejRzWEJJZFh5WU5la2tvWE9kNjJQOG9rVEh4MUlUQl9Cam5KR1FKNnl4UWhLRmVBMGVfT3Q1dXlsZ2lfUHlXLUV3a0ZjaE16ZzJTMFBSbW9RRHc?oc=5",
-      "published": "2026-11-22T05:52:00+09:00",
+      "title_original": "AP News Search",
+      "summary_original": "AP News Search AP News",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5Ddkx6R0xLWkl5RE5BRGdWM1ZXV3QtOUFzUmhDR2NjV0VReTZ0b01ZWFJHejVfeE1zenZTRUNB?oc=5",
+      "published": "2026-11-22T08:46:15+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "AP",
-      "title_original": "11 killed in burst of violence in northern Mexico after capture of cartel leader",
-      "summary_original": "11 killed in burst of violence in northern Mexico after capture of cartel leader AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa2RiNXlYT1VFSmc3cEJmU0N4QW9Ydk9rX1RBZ3hvakVOYWtIa1ZDdGlhVm8wSUp5MUk2bWg0TFNyc2lvN3VXazhaamp3WTZBOVpqXzBPcnV5OVVGREVtU1FNVDBXb2d2ck5mVmhybmptaUtCMGRJNEt0UGhxU25fM0JWZE5NSUF2NmRxZVlZOGJSaUpncmt6dnFkNEpDdG9ZejlidXU5RnJUdm8?oc=5",
-      "published": "2026-11-22T05:43:00+09:00",
+      "title_original": "March Madness | 2026 NCAA Tournament",
+      "summary_original": "March Madness | 2026 NCAA Tournament AP News",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ET1V0NzRXSmNVQXdpWVV1MTJsSWN5SVdsdjJXeVl2X3hNUGJ5eTRTQnEtSFM0XzduZXNIWUtDckVZTFpYc0Z1TmFtTzA?oc=5",
+      "published": "2026-11-22T08:33:18+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "AP",
-      "title_original": "College sports",
-      "summary_original": "College sports AP News",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fSTVmVF9lbm9YLWNlRWlMU3hCTEYtNGg5X2xxZm5JLTlMSkkwS2JweXFTdDRzRnRLaVhtaG12OHhjR3hwdGVpTno2RzIwQQ?oc=5",
-      "published": "2026-11-22T05:00:31+09:00",
+      "title_original": "San Francisco braces for massive tides. Mayor urges residents to reconsider travel",
+      "summary_original": "San Francisco braces for massive tides. Mayor urges residents to reconsider travel AP News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVTczNHdJNmo2V09VMDFuX2U1Sk9WYkFQSGNyaXBUNlFZdDVoT0hSSE51V3ZLR2dCX3ZMN0liTXZRcERnaXN2OFBpUUluRnhidHdRU05zYlJMVTFyWGQ1RmdMRzNEUDJ0WHJmWmp0VkpBb2VQWERMd3hwdzBIV3JnS1ZjMVdhUloyRDNVSHRnZEtqRlRpdmRnbm9jSDJ6WEp0dEZTRVZB?oc=5",
+      "published": "2026-11-22T08:27:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "AP",
-      "title_original": "Japan",
-      "summary_original": "Japan AP News",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5hMWI2YTQzSno1c0NFckp0UkN2US1aY3U5QlJZSXJjMl9PNTdhdGNlMEpVVEduZk1oNTdpZENGeVB4dw?oc=5",
-      "published": "2026-11-22T04:59:51+09:00",
+      "title_original": "Men’s college basketball",
+      "summary_original": "Men’s college basketball AP News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtNkNoaUZuSmkyb0o3VmM1UGJQbkRxS21KTmR3VWJnekJEUUpDWnk0VXQ1ZDVfY0VHYkdlZWl0UnJaRm5lNE1naG54TGVpTHZ0ejlWaXhqVWpmUQ?oc=5",
+      "published": "2026-11-22T08:10:19+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "AP",
+      "title_original": "Haiti | Latest News & Updates",
+      "summary_original": "Haiti | Latest News & Updates AP News",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBkbVB2NlkzVUNscFQzODVxUlRpN3pTVFBNZ1FVdjlxdXVTaGdNT1hxVkl3bzZlS2FPUmVNcnZrLUhodw?oc=5",
+      "published": "2026-11-22T07:52:11+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "AP",
+      "title_original": "Golf",
+      "summary_original": "Golf AP News",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9RUlJ6amlDc3NsdWNwM2ZpeU1OQnBiMWxWbGhWMUVHWmZSY0taVTZsRnNyWC00ZTQxd3RjcS15SzQ?oc=5",
+      "published": "2026-11-22T07:51:26+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -476,43 +566,43 @@
       "title_original": "Democrats who swept into the Senate promised change. A leadership vote is testing them early",
       "summary_original": "Democrats who swept into the Senate promised change. A leadership vote is testing them early AP News",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdnJOSnBfdXFJdTl2aXIxcjZaSVlnYnE1NjdaQkRwQUYwVFFGNFR3N3hCaWMzM2pDQzFFNVhMaXZGcE83V2FfMVBheUhtcTF5eHFFbkRUbnNyLV9OV1VzWl9uM1RGeTZUQVUtNTNHWFZkM2FFaXdnMEI4eVFWcVJMZnNfLVZzTmlnbGh3OUc5MkRrUVBGSFpielBZQkZpdzFEYlhaZkhRcWdIZTU2WlZWRkkyR0Y1SUFaLVBF?oc=5",
-      "published": "2026-11-22T04:52:00+09:00",
+      "published": "2026-11-22T07:49:00+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "AP",
-      "title_original": "AP News Search",
-      "summary_original": "AP News Search AP News",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5Ddkx6R0xLWkl5RE5BRGdWM1ZXV3QtOUFzUmhDR2NjV0VReTZ0b01ZWFJHejVfeE1zenZTRUNB?oc=5",
-      "published": "2026-11-22T04:51:36+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "AP",
-      "title_original": "Soccer",
-      "summary_original": "Soccer AP News",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBfZHpFVUZWQUc5bHNGTFMxVF9QSkh2RUlzRVRMMEFSR3diQjdYWjIzMUllOHRFWGJ6SmVNZzNCaWFPUFk?oc=5",
-      "published": "2026-11-22T04:51:06+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "AP",
-      "title_original": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news",
-      "summary_original": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news AP News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUVlUcjlPZURmRnhmY2JJZVVBTkhfUEM2bmhqRDZfQkZJMTBEc2hQSDdRVFQ0N1BjTW1rMXNrSnM4R0R6SVcyZXJpWEVVU3hkU0dsX0otVk1HNV9abFFBTkVUeXMtdHk2WVFUcEVFOVVUVlZUeTFUdXBuVzVHMVFmeFdFVExwTWtJVC1sd0dEVDVSdXdHZUhVRDc4MU5rYU1laFBn?oc=5",
-      "published": "2026-11-22T04:38:00+09:00",
+      "title_original": "College football | Latest News & Updates",
+      "summary_original": "College football | Latest News & Updates AP News",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+      "published": "2026-11-22T07:30:38+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "New York Times",
-      "title_original": "The Army Plans to Blow Up Tons of Toxic Explosives in Iowa. It Rejected a Safer Option.",
+      "title_original": "Trump Moves to Restrict Congressional Oversight of Contractors",
+      "summary_original": "The president’s executive order is the latest effort to blunt Democratic plans to investigate the administration’s actions.",
+      "url": "https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html",
+      "published": "2026-11-22T08:24:11+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "New York Times",
+      "title_original": "The Army Rejected a Cleaner Option to Destroy Lead-Laced Explosives in Iowa",
       "summary_original": "The Army had hired a firm to turn the explosives into harmless waste, but then dropped it in favor of a controlled blast that could launch lead dust across Iowa.",
       "url": "https://www.nytimes.com/2026/11/21/climate/army-lead-azide-blast.html",
-      "published": "2026-11-22T05:46:57+09:00",
+      "published": "2026-11-22T07:57:09+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "New York Times",
+      "title_original": "What to Know About the Planned Explosion in Iowa",
+      "summary_original": "The Army intends to detonate a stockpile of lead azide on Monday at a facility in southeastern Iowa, sending a plume of toxic lead dust into the nearby community.",
+      "url": "https://www.nytimes.com/2026/11/21/climate/what-to-know-about-the-planned-explosion-in-iowa.html",
+      "published": "2026-11-22T07:41:17+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -521,16 +611,7 @@
       "title_original": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
       "summary_original": "The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government.",
       "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
-      "published": "2026-11-22T05:28:34+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "New York Times",
-      "title_original": "Trump Moves to Restrict Congressional Oversight of Contractors",
-      "summary_original": "The president’s executive order is the latest effort to blunt Democratic plans to investigate the administration’s actions.",
-      "url": "https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html",
-      "published": "2026-11-22T05:20:24+09:00",
+      "published": "2026-11-22T06:12:23+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -571,29 +652,47 @@
       "state_media": false
     },
     {
-      "source": "New York Times",
-      "title_original": "A New Trump Tactic to Restrict Transit Funding: Rewrite the Rules",
-      "summary_original": "The changes could make it harder for dozens of projects across the country to get funding they have pursued for years.",
-      "url": "https://www.nytimes.com/2026/11/21/upshot/trump-transit-grants.html",
-      "published": "2026-11-21T22:54:46+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
       "source": "Wall Street Journal",
-      "title_original": "Exclusive | SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
-      "summary_original": "Exclusive | SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang WSJ",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjl2b0tzT1ROT2plV1p5RHhQd3hXOEJKRFhOZ1ItZExOQV9oVGkzTU9tcEEyTXhjNHRKQVExRTNRdEtlY24zUFhmS0h0c21FUVVrVVh0NGF2SXFmdm1wcmVRLUlCcG5CMGRIZklSdVBkVElkS3lwRF9LaGg4YzU5b0dsZXlveWxSNzhGYzJlZmRSRkhvUWZRTHB3?oc=5",
-      "published": "2026-11-22T06:05:26+09:00",
+      "title_original": "Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street",
+      "summary_original": "Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JbVhpeHhGSEl5RUVUcjc3NHdLSnYxcDJ0dWxHV2U0MkU0SUFNckVhQjdxMEx3YXIwOE95VC12OEhuUjN3M0dTVXZTU3FYNFFVMzJpZU1WRnR1N3FmX2YzR0t3?oc=5",
+      "published": "2026-11-22T08:48:21+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Wall Street Journal",
-      "title_original": "A Navy Fighter Pilot’s Worst Fear: Forgetting His Uncrustables",
-      "summary_original": "A Navy Fighter Pilot’s Worst Fear: Forgetting His Uncrustables WSJ",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHBZMUZZOXBSSGxPWXdaU3c1N1RiUk1HbUpPcEc3UGdIQTB5OXVEVGNDNlZQZ0xzWWtieDdmUk01Z0RwaTJQQlRQSUV2UDFWcFdJSXhqa0dHZU4zdDh4RklibG5wY0hEQ0FsY1lIVnNqeXd2bl8wQ1dLd2F2a0xLM0lHbjg2dHJSVU1LSmpHNURHUnUzVGNocVE3WQ?oc=5",
-      "published": "2026-11-22T06:01:35+09:00",
+      "title_original": "U.S. Natural Gas Futures Relinquish Some Gains",
+      "summary_original": "U.S. Natural Gas Futures Relinquish Some Gains WSJ",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTk5uVTQwS2hlbEFKdHdvRnF4clQxb0M5SGlCaU9teXlROU0tWWN0MU9rZ1loWFp4OXBUYnRxTmFYZUJzY1ZoWHhZbXlVcWpRVlZaOFBrdzB1VW82TTBCb0hMdnp2LWp1S3FLbnk1TkpSZkpRMlRKTDJNLVkyNTNBdDh5ODJPVmlHaEYwcFpaZjYwYXRZRlFRRlhHOFZFNkE?oc=5",
+      "published": "2026-11-22T08:40:10+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_original": "Exclusive | Kevin Durant Lists U-Shaped Arizona House for $13.9 Million",
+      "summary_original": "Exclusive | Kevin Durant Lists U-Shaped Arizona House for $13.9 Million WSJ",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWVJ3N0tZNkptaWllay1oY0ZEQjl6T3RYbEZNNHdnbEZHUWtMc0JjT2s5TFA2eUNsZ0dkWFJER3diUzA2TkY1M0FTZmJiNkh3Y214QzM4ampwZWF3Z25rQ3BjaDB4aXlraF9nQU4zaHZ5ZE1tbzRBQ2hWbVVvZWVLcVBITTlSYl9PR3piVGdlZXNzUU5uUEJjRlBBUQ?oc=5",
+      "published": "2026-11-22T08:00:21+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_original": "The Morning Risk Report: The Jensen Huang Saga Has Reinvigorated Washington’s China Hawks",
+      "summary_original": "The Morning Risk Report: The Jensen Huang Saga Has Reinvigorated Washington’s China Hawks WSJ",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR2ZEOTJmX0VLNUsxVzlVY1htTXVSZjI2VktWajU2Z2VQRDlxVjlpemxfS1RHWTNCcHJUOGcwdU9CRTdBNDlCMWJpVkJ2M2hnenBCVHVnUWY1bUhFbmp1dWJPU2hFY3M2ZUV6cGEycFh5endDbENjbFZtZ2MwMlAzM1JHU1VMdXJ6UTI3T0dhN21KVXFZOUF6cTZ2ZVJvdW9hMnpPWjB6Wmx5Uk9CQWpiZnpxZDVsSlZIdzVUc3dFbVpHRHdLVFp4MjVzVGxoeFQ3SXBWMlVXOA?oc=5",
+      "published": "2026-11-22T07:53:21+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_original": "Week Ahead for FX, Bonds: Fed Minutes, U.K. Data in Focus",
+      "summary_original": "Week Ahead for FX, Bonds: Fed Minutes, U.K. Data in Focus WSJ",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVEJHdUxfSTJ2V0R4aVFfa3JEbjI4UHpfdmt1d3FWQmdoQk9lbTgtTG5HZUdWTHZFcHlnNWk1MzNSaG5pQVg3eGNvRVhZZjV3cGJwTkROcURLU05LUXpQSHpDd1dpcnBOU2lLVzVSS1pSMDJuZ1R2U1ltQWI5N0NaZzU3SzVtQWFqYW00TDlla0I4MG4z?oc=5",
+      "published": "2026-11-22T07:48:05+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -602,53 +701,44 @@
       "title_original": "P&G to Cut Up to 30% of Product-Supply Workers Amid Automation Push",
       "summary_original": "P&G to Cut Up to 30% of Product-Supply Workers Amid Automation Push WSJ",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOWNEUUhHMUFTQjdHbDF1dVlhWmwxbjkyNzBXM2JBRXdqVFRlcjMwTG9lWWRWRTV2bXlzQkdUX2lyUE1zT2pUSzVmTDF2akJKVjNtWFhfRVhQSXhwdEpZb3FOSWcwYnFiSTlCYWNwLWNfVXdweC1XVzg5Y1hRaE56M2diNWV1OTRiMzhZUV9KUm1ZYjZnQXlEN3phejJaMkJPaUVQQWxRNA?oc=5",
-      "published": "2026-11-22T05:57:50+09:00",
+      "published": "2026-11-22T07:27:50+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Wall Street Journal",
-      "title_original": "Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street",
-      "summary_original": "Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JbVhpeHhGSEl5RUVUcjc3NHdLSnYxcDJ0dWxHV2U0MkU0SUFNckVhQjdxMEx3YXIwOE95VC12OEhuUjN3M0dTVXZTU3FYNFFVMzJpZU1WRnR1N3FmX2YzR0t3?oc=5",
-      "published": "2026-11-22T05:45:29+09:00",
+      "title_original": "Opinion | The (Low) Reconciliation Odds",
+      "summary_original": "Opinion | The (Low) Reconciliation Odds WSJ",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mM1NNSWFnR192ZzN2cXhHSE9HN21QQUR2V0pUb3laT2lqeC1rRDB6Ui1yb0VnaW9RQ1poUGo2VXdJVDFXYnZFRTUxNjNaVFU1ampWYWpvRUQ1Z3lrb0VIQ0FsZWlxYm10NHl0QVVJaXg3QQ?oc=5",
+      "published": "2026-11-22T07:08:10+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "Wall Street Journal",
-      "title_original": "The Bond Market’s Surprising Take on the AI Trade",
-      "summary_original": "The Bond Market’s Surprising Take on the AI Trade WSJ",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM2xMWEY1STg1NndVTGM0aVRTSGFkb1FkWjRaRDJ2ZExWNVdIRUR0WG1JN1Ftb0hmRnJoSDQzNGlEX19aTVB3THpWNkpyeTZWR01fMlh6dkU4eTJ0ZENjc29RaEo0VkhxRng2V1lwdkM4S2E0TXZoMC02VTFGMkExdWtzZ1g5dVh6OEZSQVBfSmt0V01PSXNjX2lQSQ?oc=5",
-      "published": "2026-11-22T05:41:20+09:00",
+      "title_original": "What Jensen Huang’s Downfall Means for Big Tech",
+      "summary_original": "What Jensen Huang’s Downfall Means for Big Tech WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObWJ4blhBYWxVaU1JbDJ2clNtYkJ2Z3JWTTdYMTExdldMYzdxdFlDRnhENEMtTlQ2OUpKSWFvdzlGdTV3eWNOZVV3QmY5VF95d1BSZWlsdlZWMWlCTnE0aElsUHdoZGNrcUVvc01zdGgwMmlHbnFiUHFNVmJreG5aRC1KUk11WXc?oc=5",
+      "published": "2026-11-22T07:08:08+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
-      "source": "Wall Street Journal",
-      "title_original": "Japan Consumer Inflation Reinforces Rate-Hike Expectations",
-      "summary_original": "Japan Consumer Inflation Reinforces Rate-Hike Expectations WSJ",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ29mc3Fqd1V5SnRGYk9vckRWS2M1eUlWSHI3UVcxcHZ5Q1I3SnJkTWpKZ2twNnRFREl3QjFQa2tnUDdhUEZwQlQ2Sjg2QkVsQXN0bmtVV2I5dzR3RU5WNngwVllxRThldXlPbXQ5UU9PZUdvX204LUtGalhocnNBNmJBenYzSzhaR25xQy1ualAxM1VfY0FlN3JR?oc=5",
-      "published": "2026-11-22T05:40:44+09:00",
-      "via": "google_news",
+      "source": "Washington Post",
+      "title_original": "Poland says Russian missiles hit its territory; Trump calls it a mistake",
+      "summary_original": "Poland also joined other European countries in expressing outrage over allegations of a thwarted plot linked to Moscow to kill a U.S.-Ukrainian rapper on Danish soil.",
+      "url": "https://www.washingtonpost.com/world/2026/11/21/poland-says-russian-missiles-hit-its-territory-trump-calls-it-mistake/",
+      "published": "2026-11-22T07:28:30+09:00",
+      "via": "rss",
       "state_media": false
     },
     {
-      "source": "Wall Street Journal",
-      "title_original": "In Retirement, He Found a Way to Combine Fishing and Helping Sick Children",
-      "summary_original": "In Retirement, He Found a Way to Combine Fishing and Helping Sick Children WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUThLcGZwUEVoeGZzZWRwXzBIWVlqSFdwMFNJQ0dKN0drUXh0QnIwZmFERjF4azFOQk82WEVGeXlreW5ES1hFQmFKaDR6dUlZYTA3Y2pqV1dOSVI1SlB1MUM1ampmTmNDLWNJd2pPNlIzMlpUSFRnR0pjYVZUSF9JZkZnd1U2TnpYLXFR?oc=5",
-      "published": "2026-11-22T05:37:52+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Wall Street Journal",
-      "title_original": "Opinion | Blue City Blues",
-      "summary_original": "Opinion | Blue City Blues WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yT0ZYUEhhaDRhTWZFRzVNaF9sMlZjOVYxeWpTZG5fcktJMkluOFdQblA0MVlkQmVzOFhhc1Iwd1IxX0RMdG1jZ0g0VUxDejkyZ0tUX1dQb2xUMi11N2xXN3hB?oc=5",
-      "published": "2026-11-22T05:31:57+09:00",
-      "via": "google_news",
+      "source": "Washington Post",
+      "title_original": "Researchers tracked a long-legged bird’s migration. He flew 6,800 miles.",
+      "summary_original": "Conservationists say the journey made by the bird, a bar-tailed godwit called Phil, was an \"incredible feat.\"",
+      "url": "https://www.washingtonpost.com/the-seven/2026/11/21/researchers-tracked-bar-tailed-godwit-called-phil-migrating-6800-miles/",
+      "published": "2026-11-22T07:00:00+09:00",
+      "via": "rss",
       "state_media": false
     },
     {
@@ -689,15 +779,6 @@
     },
     {
       "source": "Washington Post",
-      "title_original": "Poland says Russian missiles hit its territory; Trump calls it a ‘mistake’",
-      "summary_original": "Polish Prime Minister Donald Tusk claimed Russia deliberately violated his country's airspace while a military exercise was underway.",
-      "url": "https://www.washingtonpost.com/world/2026/11/21/poland-says-russian-missiles-hit-its-territory-trump-calls-it-mistake/",
-      "published": "2026-11-22T00:56:44+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Washington Post",
       "title_original": "France reckons with rampant sexual abuse of schoolchildren",
       "summary_original": "In Paris, 235 criminal investigations have been opened, prosecutors said last month, as France confronts institutional failures to protect victims of sexual violence.",
       "url": "https://www.washingtonpost.com/world/2026/11/21/france-reckons-with-rampant-sex-abuse-schoolchildren/",
@@ -713,19 +794,8 @@
       "published": "2026-11-21T07:15:00+09:00",
       "via": "rss",
       "state_media": false
-    },
-    {
-      "source": "Washington Post",
-      "title_original": "Four men guilty of assaulting woman drugged and advertised for sex by husband",
-      "summary_original": "Joanne Young said then-husband “betrayed” her “in the most horrific way.”",
-      "url": "https://www.washingtonpost.com/the-seven/2026/11/20/four-men-guilty-assaulting-joanne-young-who-was-drugged-by-her-husband/",
-      "published": "2026-11-21T00:15:00+09:00",
-      "via": "rss",
-      "state_media": false
     }
   ],
-  "unavailable_sources": [
-    "CNN"
-  ],
+  "unavailable_sources": [],
   "errors": {}
 }

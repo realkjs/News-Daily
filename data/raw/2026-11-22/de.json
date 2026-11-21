@@ -1,8 +1,44 @@
 {
   "team": "de",
   "team_name_ko": "독일팀",
-  "collected_at": "2026-11-22T06:13:34.235276+09:00",
+  "collected_at": "2026-11-22T08:57:09.509441+09:00",
   "headlines": [
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Kolumbien: UNICEF besorgt über die anhaltende Rekrutierung von Kindern als Guerillasoldaten",
+      "summary_original": "Kolumbien: UNICEF besorgt über die anhaltende Rekrutierung von Kindern als Guerillasoldaten",
+      "url": "https://www.tagesschau.de/tagesthemen/video-1687820.html",
+      "published": "2026-11-22T07:29:42+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Münchner Autobahn A99 wegen Brückenabriss gesperrt",
+      "summary_original": "Münchner Autobahn A99 wegen Brückenabriss gesperrt",
+      "url": "https://www.tagesschau.de/tagesthemen/video-1687818.html",
+      "published": "2026-11-22T07:26:50+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Weltklimakonferenz in Antalya: Noch keine Einigung auf Abschlusserklärung",
+      "summary_original": "Weltklimakonferenz in Antalya: Noch keine Einigung auf Abschlusserklärung",
+      "url": "https://www.tagesschau.de/tagesthemen/video-1687816.html",
+      "published": "2026-11-22T07:22:07+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "ATP Finals: Zverev steht im Endspiel gegen Alcaraz",
+      "summary_original": "Die Tennis-Nummer-eins trifft im Finale auf die Nummer zwei: Nach Carlos Alcaraz hat auch Alexander Zverev die Halbfinal-Hürde genommen. Der Hamburger besiegte dazu seinen Angstgegner.",
+      "url": "https://www.sportschau.de/tennis/atp/zverev-folgt-alcaraz-ins-traumfinale,spielbericht-atp-finals-zverev-medvedev-100.html",
+      "published": "2026-11-22T06:31:58+09:00",
+      "via": "rss",
+      "state_media": false
+    },
     {
       "source": "ARD Tagesschau",
       "title_original": "Scheitert die UN-Klimakonferenz in Antalya?",
@@ -40,38 +76,20 @@
       "state_media": false
     },
     {
-      "source": "ARD Tagesschau",
-      "title_original": "Niederlande: Handfester Protest gegen PFAS-Verseuchung",
-      "summary_original": "Rund um die Chemiefabrik Chemours in den Niederlanden sollen die Bürger kein Obst aus ihren Gärten mehr essen. Dort werden Kunststoffe hergestellt, die zu den sogenannten Ewigkeitschemikalien gehören. Dagegen wehren sich die Bürger. Von O. Chladkova.",
-      "url": "https://www.tagesschau.de/ausland/europa/niederlande-protest-gegen-pfas-100.html",
-      "published": "2026-11-22T04:54:06+09:00",
+      "source": "ZDF heute",
+      "title_original": "Howerla: Urlaub vom Krieg auf dem höchsten Berg der Ukraine",
+      "summary_original": "Auf dem Gipfel des Hoverla in der Ukraine ist es ruhig. Viele Ukrainer besteigen den Berg um zur Ruhe zu kommen, um dem Krieg der ihre Heimat mehr als nur körperlich zu entkommen.",
+      "url": "https://www.zdfheute.de/video/heute-journal/hassanzadeh-berg-ukraine-100.html",
+      "published": "2026-11-22T07:20:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "ARD Tagesschau",
-      "title_original": "tagesschau 20:00 Uhr",
-      "summary_original": "Weiter keine Einigung auf der Weltklimakonferenz COP31, Zahl der Schweinehalter in Deutschland sinkt, Altersvorsorgedepot als Nachfolge für Riesterrente, Medienbericht: Gutachten für das Verkehrsministerium hält streckenbasierte Maut für alle für sinnvoll, Sperrung wegen Brückenabriss auf der A99 bei München, Tote und Verletzte bei russischem Raketenangriff auf ukrainische Stadt Krywyj Rih, Bilanz",
-      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1687780.html",
-      "published": "2026-11-22T04:34:05+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ARD Tagesschau",
-      "title_original": "Russische Armee greift Südukrainische Industriestadt Krywyj Rih an",
-      "summary_original": "Russische Armee greift Südukrainische Industriestadt Krywyj Rih an",
-      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1687772.html",
-      "published": "2026-11-22T04:29:44+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ARD Tagesschau",
-      "title_original": "Vollsperrung der A99 bei München wegen Brückenabriss",
-      "summary_original": "Vollsperrung der A99 bei München wegen Brückenabriss",
-      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1687770.html",
-      "published": "2026-11-22T04:27:01+09:00",
+      "source": "ZDF heute",
+      "title_original": "Zverev folgt Alcaraz ins Endspiel der ATP Finals",
+      "summary_original": "Das Traumfinale bei den ATP Finals der besten Tennisprofis ist perfekt. Am Sonntag sind mit Alexander Zverev und Carlos Alcaraz die beiden Turnier-Topfavoriten unter sich.",
+      "url": "https://www.zdfheute.de/sport/tennis-atp-finals-alexander-zverev-endspiel-100.html",
+      "published": "2026-11-22T06:36:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -126,24 +144,6 @@
       "summary_original": "Das deutsche Doppel Kevin Krawietz und Tim Pütz ist bei den ATP Finals ausgeschieden. Gegen das Doppel Théo Arribagé und Albano Olivettiaus Frankreich verloren sie am Ende knapp.",
       "url": "https://www.zdfheute.de/sport/tennis-atp-finals-kevin-krawietz-tim-puetz-aus-ende-100.html",
       "published": "2026-11-22T04:39:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "Umgang mit Musiala: Scharfe Kritik an Bayern-Bossen",
-      "summary_original": "Nach öffentlichen Zweifeln an Jamal Musialas Zukunft gerät die Bayern-Führung unter Druck. Die Spielergewerkschaft Fifpro schlägt Alarm, auch bei Mitgliedern regt sich Widerstand.",
-      "url": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-bayern-kane-musiala-verletzung-100.html",
-      "published": "2026-11-22T03:46:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "DSV-Adler enttäuschen zum Auftakt in Lillehammer",
-      "summary_original": "Enttäuschung bei den DSV-Männern zum Auftakt des Einzel-Weltcups im Skispringen in Lillehammer. Auch die Frauen hatten nichts mit dem Sieg zu tun.",
-      "url": "https://www.zdfheute.de/sport/wintersport/wintersport-skispringen-maenner-frauen-lillehammer-weltcup-enttaeuschung-dsv-100.html",
-      "published": "2026-11-22T03:29:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -221,6 +221,42 @@
     },
     {
       "source": "n-tv",
+      "title_original": "Hochzeit mit Maxx Morando : Miley Cyrus lehnt vor dem Jawort alle Jobs ab",
+      "summary_original": "Miley Cyrus hat sich in den vergangenen Wochen wegen ihrer bevorstehenden Hochzeit offenbar rar gemacht. Laut einem US-Bericht soll die Sängerin sogar große Angebote ausgeschlagen haben, um sich auf die Planung ihres großen Tages zu fokussieren.",
+      "url": "https://www.n-tv.de/leute/Miley-Cyrus-lehnt-vor-dem-Jawort-alle-Jobs-ab-id31562714.html",
+      "published": "2026-11-22T08:38:45+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Knappe Mehrheiten in Israel: Eisenkot lädt Netanjahus Likud zu Koalitionsgesprächen",
+      "summary_original": "Oppositionschef Eisenkot verfehlt bei Parlamentswahlen in Israel eine klare Mehrheit, ist aber mit der Regierungsbildung beauftragt. Nun lädt er den Likud von Premier Netanjahu zu Gesprächen ein. Die Konstellation ist heikel.",
+      "url": "https://www.n-tv.de/politik/Eisenkot-laedt-Netanjahus-Likud-zu-Koalitionsgespraechen-id31562704.html",
+      "published": "2026-11-22T08:00:14+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Demonstrantin festgenommen: FDP-Politikerin bei Pro-Palästina-Demo verletzt",
+      "summary_original": "Nach einer propalästinensischen Kundgebung in Berlin geraten zwei Demonstrantinnen mit der FDP-Politikerin Karoline Preisler aneinander. Die 55-Jährige geht mutmaßlich nach einem Tritt zu Boden und klagt über Übelkeit. Eine 25-Jährige wird festgenommen.",
+      "url": "https://www.n-tv.de/politik/FDP-Politikerin-bei-Pro-Palaestina-Demo-verletzt-id31562697.html",
+      "published": "2026-11-22T07:29:55+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "VfL kassiert zwei Blitz-Treffer: St. Pauli siegt schlechte Stimmung weg",
+      "summary_original": "Am 12. Spieltag der 2. Fußball-Bundesliga holt der FC St. Pauli einen nicht nur tabellarisch wichtigen Sieg. Die Kiezkicker tun auch was für die Stimmung. Der VfL Bochum wird dagegen zweimal überrumpelt und bleibt im Mittelfeld hängen.",
+      "url": "https://www.n-tv.de/sport/fussball/St-Pauli-siegt-schlechte-Stimmung-weg-id31562678.html",
+      "published": "2026-11-22T06:32:50+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
       "title_original": "Giganten-Endspiel ist perfekt: Alexander Zverev spielt gegen Alcaraz um Finals-Titel",
       "summary_original": "Alexander Zverev steht bei den ATP Finals zum dritten Mal im Endspiel. Im Halbfinale besiegt der Weltranglistenerste seinen einstigen Angstgegner Daniiel Medwedew souverän. Nun kommt es zum Traumfinale.",
       "url": "https://www.n-tv.de/sport/tennis/Alexander-Zverev-spielt-gegen-Alcaraz-um-Finals-Titel-id31562666.html",
@@ -256,38 +292,56 @@
       "state_media": false
     },
     {
-      "source": "n-tv",
-      "title_original": "Auch gegen VfB tor- und sieglos: Schalke kann Heimfluch einfach nicht abschütteln",
-      "summary_original": "Der Arena-Torfluch geht weiter: Auch nach dem zehnten Spieltag der Fußball-Bundesliga müssen die Fans des FC Schalke 04 auf das erste Heimtor seit der Rückkehr ins Oberhaus warten. Immerhin: Gegen den VfB Stuttgart erkämpft der schwer angeschlagene Aufsteiger wenigstens einen Punkt.",
-      "url": "https://www.n-tv.de/sport/fussball/Schalke-kann-Heimfluch-einfach-nicht-abschuetteln-id31562625.html",
-      "published": "2026-11-22T04:29:58+09:00",
+      "source": "WELT",
+      "title_original": "Schon elf Tote – Festnahme von Drogen-Boss löst in Mexiko heftige Gewalt aus",
+      "summary_original": "Nach der Verhaftung des mexikanischen Drogen-Bosses „Chapo Isidro“ herrscht Gewalt auf den Straßen im Nordwesten Mexikos. Von brennenden Fahrzeugen, Schüssen, Militärhubschraubern und elf Toten ist die Rede.",
+      "url": "https://www.welt.de/politik/ausland/article6b022ab65842ff528b9e34ce/chapo-isidro-schon-elf-tote-festnahme-von-drogen-boss-loest-in-mexiko-heftige-gewalt-aus.html",
+      "published": "2026-11-22T08:46:51+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "n-tv",
-      "title_original": "Drei Matchbälle vergeben: Deutsches Doppel kommt vom Abgrund zurück und verliert doch noch",
-      "summary_original": "Was für ein Drama, was für eine Nervenschlacht: Das deutsche Doppel Kevin Krawietz und Tim Pütz verliert bei den ATP Finals ein dramatisches Halbfinale. Beide Teams wehren jeweils drei Matchbälle in Serie ab, am Ende jubeln die Franzosen Arribage und Olivetti.",
-      "url": "https://www.n-tv.de/sport/tennis/Deutsches-Doppel-kommt-vom-Abgrund-zurueck-und-verliert-doch-noch-id31562608.html",
-      "published": "2026-11-22T04:19:43+09:00",
+      "source": "WELT",
+      "title_original": "Russland nicht provozieren – Bundeswehr ändert Kräfte-Verlegung nach Litauen",
+      "summary_original": "Um das richtige Maß an Abschreckung zu finden, unnötige Provokationen aber zu vermeiden, hat die Bundeswehr die Kräfte der 10. Panzerdivision für eine Großübung statt per Konvoi mit der Bahn nach Litauen verlegt.",
+      "url": "https://www.welt.de/politik/deutschland/article6b0228355842ff528b9e34bc/geplante-grossuebung-russland-nicht-provozieren-bundeswehr-aendert-kraefte-verlegung-nach-litauen.html",
+      "published": "2026-11-22T08:34:09+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "n-tv",
-      "title_original": "Gastteam Tor und Sieg geklaut: Technische Panne sorgt für Eishockey-Skandal",
-      "summary_original": "Im Spiel der Deutschen Eishockey-Liga zwischen Nürnberg und Augsburg kommt es zu einer folgenschweren Panne: Mit Ablauf der Verlängerung treffen die Gäste aus Nürnberg vermeintlich zum Sieg. Doch das Tor wird nicht gegeben - weil Spieluhr und Videobeweis fehlerhaft synchronisiert werden. Am Ende verlieren die Nürnberger Tor und Spiel.",
-      "url": "https://www.n-tv.de/sport/Technische-Panne-sorgt-fuer-Eishockey-Skandal-id31562609.html",
-      "published": "2026-11-22T04:18:57+09:00",
+      "source": "WELT",
+      "title_original": "Eisenkot lädt Netanjahus Likud-Partei doch zu Koalitionsgesprächen ein",
+      "summary_original": "Möglich wären Bündnisse entweder mit den ultraorthodoxen oder den arabischen Parteien oder eine Regierung der nationalen Einheit, wie Netanjahu sie fordert. Kurz nach Eisenkots Ankündigung stellte der Likud Bedingungen.",
+      "url": "https://www.welt.de/politik/ausland/article6b020ec639a3e8110f0e5d96/israel-eisenkot-laedt-netanjahus-likud-partei-doch-zu-koalitionsgespraechen-ein.html",
+      "published": "2026-11-22T07:12:03+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "n-tv",
-      "title_original": "Im Winter oft menschenleer : So schützen Sie Schuppen und Gartenhaus vor Einbrechern",
-      "summary_original": "Von Alarmanlage bis Zusatzschloss: Ihr Haus ist gut vor Einbruch geschützt. Aber wie sieht es mit Schuppen oder Gartenhaus aus? Dort befinden sich oft Dinge, die es wert sind, gesichert zu werden.",
-      "url": "https://www.n-tv.de/ratgeber/So-schuetzen-Sie-Schuppen-und-Gartenhaus-vor-Einbrechern-id31437369.html",
-      "published": "2026-11-22T04:03:10+09:00",
+      "source": "WELT",
+      "title_original": "St. Pauli gleich zweimal hellwach – Bochum verliert am Millerntor",
+      "summary_original": "Der FC St. Pauli hat sich dank Blitztoren den Sieg im Topspiel der Zweiten Liga geholt. Die Hamburger besiegten Bochum. Beim VfL beeindruckte vor allem Uwe Rösler, der trotz nasskalten Wetters in kurzen Hosen coachte.",
+      "url": "https://www.welt.de/sport/fussball/2-bundesliga/article6b020f0139a3e8110f0e5da4/2-liga-fc-st-pauli-gleich-zweimal-hellwach-vfl-bochum-verliert-am-millerntor.html",
+      "published": "2026-11-22T07:01:12+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Nach den Pfiffen der Zuschauer macht Zverev das Traumfinale perfekt",
+      "summary_original": "Alexander Zverev hatte sich in seinem Halbfinale zunächst den Unmut der Zuschauer zugezogen. Dann beschwerte er sich über eine grelle Anzeige. Am Ende aber erreichte er dennoch zum dritten Mal in seiner Karriere das Endspiel der ATP Finals.",
+      "url": "https://www.welt.de/sport/tennis/article6b020c165842ff528b9e3421/atp-finals-nach-den-pfiffen-der-zuschauer-macht-zverev-das-traumfinale-perfekt.html",
+      "published": "2026-11-22T06:39:30+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Die Explosion ließ das Meer schaukeln“ – Umweltschützer schwimmt durch Straße von Hormus",
+      "summary_original": "Lewis Pugh schwamm drei Tage aus Protest gegen die durch den Krieg verursachten Umweltschäden durch die strategisch wichtige Meerenge. Der Umweltschützer erlebte mit, wie ein Öltanker wenige Kilometer entfernt getroffen wurde.",
+      "url": "https://www.welt.de/vermischtes/article6b020b00de2d9d52fb686038/iran-krieg-die-explosion-liess-das-meer-schaukeln-umweltschuetzer-schwimmt-durch-strasse-von-hormus.html",
+      "published": "2026-11-22T06:31:30+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -310,63 +364,18 @@
       "state_media": false
     },
     {
-      "source": "WELT",
-      "title_original": "Akuter Darmverschluss – Brasiliens Ex-Präsident Bolsonaro auf Intensivstation",
-      "summary_original": "Der frühere brasilianische Präsident leidet an Unterleibsproblemen, seit er bei einem Messer-Attentat 2018 schwer verletzt worden war. Laut dem Krankenhaus ist Jair Bolsonaro „bei Bewusstsein, wach und atmet selbständig“.",
-      "url": "https://www.welt.de/politik/ausland/article6b01f39f5842ff528b9e333c/klinisch-stabil-akuter-darmverschluss-brasiliens-ex-praesident-bolsonaro-auf-intensivstation.html",
-      "published": "2026-11-22T04:58:28+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "WELT",
-      "title_original": "„Die ärmste Sau“ – Spielergewerkschaft und Matthäus springen Musiala bei",
-      "summary_original": "Die verbalen Attacken der Bayern-Führung rund um Jamal Musialas Comeback rufen Fifpro und Lothar Matthäus auf den Plan. Insbesondere die Spielergewerkschaft kritisiert die Klubverantwortlichen scharf.",
-      "url": "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b01e0a59d1767cbac691b70/fc-bayern-die-aermste-sau-spielergewerkschaft-und-matthaeus-springen-musiala-bei.html",
-      "published": "2026-11-22T04:37:56+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "WELT",
-      "title_original": "„Halt’s Maul“-Rufe im Rathaus – Demonstranten stören Beratungen zu Spar-Haushalt",
-      "summary_original": "Nürnberg muss knapp 70 Millionen Euro sparen. Die Linke und ein Bündnis lehnen Kürzungen im sozialen und kulturellen Bereich ab. Bei den Haushaltsberatungen eskaliert der Protest: Eine Stadträtin wird bedrängt, der Oberbürgermeister beschimpft.",
-      "url": "https://www.welt.de/politik/deutschland/article6b01e3e25842ff528b9e326a/nuernberg-halts-maul-rufe-im-rathaus-demonstranten-stoeren-beratungen-zu-spar-haushalt.html",
-      "published": "2026-11-22T04:24:20+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "WELT",
-      "title_original": "Auch Hütter mittendrin – In der Nachspielzeit brennen Kabak die Sicherungen durch",
-      "summary_original": "In der Schlussphase des knappen Frankfurter Sieges gegen Hoffenheim kommt es zu einer intensiven Rudelbildung. Auslöser ist eine Tätlichkeit Ozan Kabaks. Aber auch Eintracht-Trainer Adi Hütter ist beteiligt. Anschließend erklärt er sein Verhalten.",
-      "url": "https://www.welt.de/sport/fussball/bundesliga/article6b01c60b5842ff528b9e30da/frankfurt-auch-huetter-mittendrin-in-der-nachspielzeit-brennen-kabak-die-sicherungen-durch.html",
-      "published": "2026-11-22T03:33:24+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "WELT",
-      "title_original": "„Wahre kreative Seele“ – Schmuckunternehmer Paolo Bulgari stirbt mit 89",
-      "summary_original": "Paolo Bulgari ist tot. Der Enkel des Firmengründers Sotirio Bulgari und Experte für Edelsteine prägte das italienische Schmuckhaus seit 1960. Seine Familie würdigt ihn als den „größten Juwelier der heutigen Zeit“.",
-      "url": "https://www.welt.de/vermischtes/article6b01de5539a3e8110f0e5ae1/unternehmensgruppe-wahre-kreative-seele-schmuckunternehmer-paolo-bulgari-stirbt-mit-89.html",
-      "published": "2026-11-22T03:30:03+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "WELT",
-      "title_original": "Nmecha verzichtet auf seinen Torjubel – „Bedeutet aber nicht, dass ich ihn nicht wieder mache“",
-      "summary_original": "Ausgerechnet der zuletzt wegen seines religiös überzogen wirkenden Jubels im Fokus stehende Felix Nmecha erlöst den BVB in Mönchengladbach. Hinterher erklärt er sich zu den Debatten um seine Gesten.",
-      "url": "https://www.welt.de/sport/fussball/bundesliga/borussia-dortmund/article6b01d54939a3e8110f0e5a43/bvb-nmecha-verzichtet-auf-seinen-torjubel-bedeutet-aber-nicht-dass-ich-ihn-nicht-wieder-mache.html",
-      "published": "2026-11-22T03:29:20+09:00",
+      "source": "Handelsblatt",
+      "title_original": "EU-Haushalt: Costa will 204 Milliarden sparen – Merz reicht das nicht",
+      "summary_original": "Neue Digitalsteuer, weniger Geld für Verteidigung und Kohäsion: Der Haushaltsplan des EU-Ratspräsidenten stellt gleich mehrere Prioritäten des Kanzlers infrage.",
+      "url": "https://www.handelsblatt.com/politik/international/eu-haushalt-costa-will-204-milliarden-sparen-merz-reicht-das-nicht/100271749.html",
+      "published": "2026-11-22T07:45:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Handelsblatt",
       "title_original": "Ostsee: Russisches Frachtschiff nach Drohnenangriff vor Finnland in Brand",
-      "summary_original": "Finnland vermutet die Ukraine hinter dem Angriff. Der Frachter trieb in finnische Gewässer, wo die Behörden den Luft- und Seeverkehr einschränkten.",
+      "summary_original": "Finnland vermutet die Ukraine hinter dem Angriff. Estland schickt ein Marineschiff, um Finnland bei den Löscharbeiten zu unterstützen.",
       "url": "https://www.handelsblatt.com/politik/international/ostsee-russisches-frachtschiff-nach-drohnenangriff-vor-finnland-in-brand/100271784.html",
       "published": "2026-11-22T04:46:09+09:00",
       "via": "rss",
@@ -427,11 +436,20 @@
       "state_media": false
     },
     {
-      "source": "Handelsblatt",
-      "title_original": "KI: KI soll berühmtestes Problem der Mathematik gelöst haben",
-      "summary_original": "Ein Anthropic-Mitarbeiter will mit Claude die Riemannsche Vermutung bewiesen haben – die Beweisführung würde mehr als 250.000 Seiten füllen. Ob sie stimmt, müssen Fachleute noch prüfen.",
-      "url": "https://www.handelsblatt.com/technik/ki/ki-ki-soll-beruehmtestes-problem-der-mathematik-geloest-haben/100271770.html",
-      "published": "2026-11-21T23:22:00+09:00",
+      "source": "Der Spiegel",
+      "title_original": "Wahl in Israel: Gadi Eisenkot trifft Benjamin Netanyahus Partei zu Koalitionsgesprächen",
+      "summary_original": "Die israelische Partei Jaschar hat die amtierende Likud-Partei zu Koalitionsgesprächen eingeladen. Am Tag zuvor hatte der Oppositionsführer Gadi Eisenkot noch eine Minderheitsregierung in den Raum gestellt.",
+      "url": "https://www.spiegel.de/ausland/wahl-in-israel-gadi-eisenkot-trifft-benjamin-netanyahus-partei-zu-koalitionsgespraechen-a-5350748d-252f-43b2-ada8-8c0279780790#ref=rss",
+      "published": "2026-11-22T07:22:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Frankreich: Deutlich weniger Teilnehmer am sechsten Protestsamstag",
+      "summary_original": "Die Proteste gegen steigende Lebenshaltungskosten in Frankreich flachen ab. In manchen Städten kam es erneut zu Ausschreitungen.",
+      "url": "https://www.spiegel.de/ausland/frankreich-deutlich-weniger-teilnehmer-am-sechsten-protestsamstag-a-4e6b94d5-2440-450f-a18e-6fba793ebcf8#ref=rss",
+      "published": "2026-11-22T06:22:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -455,7 +473,7 @@
     },
     {
       "source": "Der Spiegel",
-      "title_original": "Polen: Flugobjekt in Polen war russische Rakete – Nato spricht von einem »gefährlichen Vorfall«",
+      "title_original": "Polen: Abgestürztes Flugobjekt war russische Rakete",
       "summary_original": "Drei militärische Flugobjekte schlugen im Südosten Polens ein, laut Ministerpräsident Donald Tusk eine »Provokation« Putins. Nun schaltet sich Nato-Generalsekretär Mark Rutte ein.",
       "url": "https://www.spiegel.de/ausland/polen-flugobjekt-in-polen-war-russische-rakete-nato-spricht-von-einem-gefaehrlichen-vorfall-a-e82b2c83-f347-4ef6-b4b6-970b0d909be3#ref=rss",
       "published": "2026-11-22T04:50:00+09:00",
@@ -482,7 +500,7 @@
     },
     {
       "source": "Der Spiegel",
-      "title_original": "Paolo Bulgari ist tot",
+      "title_original": "Paolo Bulgari ist tot: »Der größte Juwelier unserer Zeit« stirbt mit 89 Jahren",
       "summary_original": "Schon Audrey Hepburn und Elizabeth Taylor trugen Schmuck der Luxusmarke Bulgari. Nun ist Firmenchef Paolo Bulgari im Alter von 89 Jahren gestorben.",
       "url": "https://www.spiegel.de/panorama/leute/paolo-bulgari-ist-tot-a-ab7092f4-e320-4cd2-8262-9f86d8399442#ref=rss",
       "published": "2026-11-22T04:00:00+09:00",
@@ -490,20 +508,20 @@
       "state_media": false
     },
     {
-      "source": "Der Spiegel",
-      "title_original": "Thore Schölermann über den Wechsel vom Moderator zum McDonald's-Unternehmer",
-      "summary_original": "Tausche Millionenpublikum gegen Fast-Food-Franchise: Moderator Thore Schölermann betreibt nun drei McDonald’s-Filialen. Im Interview erklärt er den ungewöhnlichen Wechsel – und sagt, was die Jobs gemein haben.",
-      "url": "https://www.spiegel.de/wirtschaft/thore-schoelermann-ueber-den-wechsel-vom-moderator-zum-mcdonalds-unternehmer-a-db3f070f-19e6-4d63-97b9-02ac76a21c37#ref=rss",
-      "published": "2026-11-22T03:29:00+09:00",
+      "source": "FAZ",
+      "title_original": "Zweite Bundesliga: St. Pauli schlägt Bochum dank doppeltem Blitzstart",
+      "summary_original": "Gegen Bochum trifft St. Pauli in beiden Halbzeiten früh und springt durch den 2:0-Sieg auf Rang acht der Tabelle. Der VfL hängt weiter im Mittelfeld fest.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/zweite-bundesliga-fc-st-pauli-gewinnt-2-0-gegen-vfl-bochum-201304609.html",
+      "published": "2026-11-22T06:35:10+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "Der Spiegel",
-      "title_original": "EU und Indonesien unterzeichnen weitreichenden Handelspakt",
-      "summary_original": "Die EU gewinnt die drittgrößte Demokratie der Welt als Partner: Indonesien. Schon bald sollen dadurch etwa Zölle auf europäische Autos entfallen, das ostasiatische Land will mehr wichtige Batterierohstoffe liefern.",
-      "url": "https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-weitreichenden-handelspakt-a-169be32d-6dd7-4308-8329-005d9e97b0bc#ref=rss",
-      "published": "2026-11-22T03:25:00+09:00",
+      "source": "FAZ",
+      "title_original": "ATP Finals in turin: Zverev erreicht Traumfinale gegen Alcaraz",
+      "summary_original": "Carlos Alcaraz legt vor, Alexander Zverev nach: Die Topfavoriten machen den Titel bei den ATP Finals unter sich aus. Im Halbfinale gegen den Russen Medwedew kann sich der Deutsche auf seine große Stärke verlassen.",
+      "url": "https://www.faz.net/aktuell/sport/mehr-sport/atp-finals-in-turin-alexander-zverev-erreicht-traumfinale-gegen-carlos-alcaraz-201705427.html",
+      "published": "2026-11-22T06:22:22+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -558,24 +576,6 @@
       "summary_original": "NATO-Generalsekretär beschwört Bündnistreue nach Abstürzen militärischer Flugobjekte in Polen +++ Chefin von Wildberries offenbar zurückgetreten +++ Russisches Frachtschiff nach Drohnenangriff vor Finnland in Brand +++ alle Neuigkeiten im Liveblog",
       "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-rutte-nato-wird-jeden-zentimeter-von-polen-verteidigen-faz-110683325.html",
       "published": "2026-11-22T04:23:04+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "FAZ",
-      "title_original": "„Bühne frei für Athena“: In der Werkstatt des Parthenon",
-      "summary_original": "Wie hat der Ostgiebel des Parthenon ausgesehen? Mit dem „Parthenon-Puzzle“ zeigt das Frankfurter Liebieghaus das Ergebnis von 40 Jahren Forschung seines Kurators Vinzenz Brinkmann.",
-      "url": "https://www.faz.net/aktuell/rhein-main/kultur/parthenon-puzzle-geloest-so-sah-der-ostgiebel-des-tempels-einmal-aus-accg-201691350.html",
-      "published": "2026-11-22T04:01:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "FAZ",
-      "title_original": "Wirtschaftsgeschichte: Kaum einer wollte den Kapitalismus – trotzdem setzte er sich durch",
-      "summary_original": "Von wegen historische Notwendigkeit: Der Wirtschaftshistoriker Trevor Jackson erzählt die Geschichte des Kapitalismus als Aneinanderreihung von Zufällen. Die Folgen habe fast niemand überblickt.",
-      "url": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/wie-die-welt-zur-ware-wurde-trevor-jackson-zur-geschichte-des-kapitalismus-201314097.html",
-      "published": "2026-11-22T03:59:10+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -653,73 +653,73 @@
     },
     {
       "source": "Die Zeit",
-      "title_original": "IGH-Urteil: Frankreich will UN-Sicherheitsrat zur Lage in Myanmar einberufen",
-      "summary_original": "Der IGH hatte Myanmar einen Völkermord an den Rohingya vorgeworfen und ihren Schutz gefordert. Weil die Junta sich weigert, soll sich die UN damit befassen.",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/igh-urteil-myanmar-rohingya-voelkermord-un-sicherheitsrat-frankreich",
-      "published": "2026-11-22T05:54:14+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "Bundesliga, 10. Spieltag – Samstag: Dortmund zieht an Tabellenspitze, Leipzig gewinnt torreich in Berlin",
-      "summary_original": "Borussia Dortmund hat die Tabellenführung übernommen, Freiburg ist jetzt punktgleich mit den Bayern. In Frankfurt wurden zwei Elfmeter verschossen. Die Spielberichte",
-      "url": "https://www.zeit.de/sport/2026-11/bundesliga-10-spieltag-bayer-leverkusen-paderborn-frankfurt-hoffenheim-union-berlin-leipzig-moenchengladbach-dortmund-elversberg-freiburg-schalke-stuttgart",
-      "published": "2026-11-22T05:48:13+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "In Eschwege: Linke in Hessen bestätigt Führungsduo",
+      "title_original": "Verkehr: Lkw-Fahrer mit 3,2 Promille gestoppt",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/21/linke-in-hessen-bestaetigt-fuehrungsduo",
-      "published": "2026-11-22T05:32:20+09:00",
+      "url": "https://www.zeit.de/news/2026-11/22/lkw-fahrer-mit-3-2-promille-gestoppt",
+      "published": "2026-11-22T08:42:46+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Demonstrationen: Aktivistin Preisler geht bei Demo in Handgemenge zu Boden",
+      "title_original": "Freihandel: EU und Indonesien unterzeichnen Handelsabkommen",
+      "summary_original": "Die EU hat nach langen Verhandlungen ein Handelsabkommen mit dem weltgrößten Inselstaat unterzeichnet. Damit fallen etwa indonesische Zölle auf europäische Autos weg.",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/freihandelsabkommen-eu-indonesien-zolle-rohstoffe",
+      "published": "2026-11-22T08:28:22+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Regierungsbildung in Israel: Gadi Eisenkot sondiert Koalition mit rechter Likud-Partei",
+      "summary_original": "Israels Oppositionschef Gadi Eisenkot hat die Likud-Partei des amtierenden Premiers Benjamin Netanjahu zu Koalitionsgesprächen eingeladen. Die stellt bereits Forderungen.",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/israel-gadi-eisenkot-regierungsbildung-likud-benjamin-netanjahu",
+      "published": "2026-11-22T08:08:28+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Großeinsatz des Militärs: Mexiko: Festnahme von Drogenboss löst tödliche Gewalt aus",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/21/aktivistin-preisler-geht-bei-demo-in-handgemenge-zu-boden",
-      "published": "2026-11-22T05:28:02+09:00",
+      "url": "https://www.zeit.de/news/2026-11/22/mexiko-festnahme-von-drogenboss-loest-toedliche-gewalt-aus",
+      "published": "2026-11-22T08:01:06+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "DVV-Pokal: Volleyball: SSC scheitert im Pokal erneut an Stuttgart",
+      "title_original": "Schleichende Steuererhöhung: Söder: Bayern will Ausgleich kalter Progression mittragen",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/21/volleyball-ssc-scheitert-im-pokal-erneut-an-stuttgart",
-      "published": "2026-11-22T05:19:30+09:00",
+      "url": "https://www.zeit.de/news/2026-11/22/soeder-bayern-will-ausgleich-kalter-progression-mittragen",
+      "published": "2026-11-22T08:01:05+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Handball-Bundesliga: ThSV Eisenach feiert dritten Saisonsieg",
+      "title_original": "Tarife: Metaller-Warnstreiks im Norden werden fortgesetzt",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/21/thsv-eisenach-feiert-dritten-saisonsieg",
-      "published": "2026-11-22T05:04:13+09:00",
+      "url": "https://www.zeit.de/news/2026-11/22/metaller-warnstreiks-im-norden-werden-fortgesetzt",
+      "published": "2026-11-22T08:01:04+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Amerikanische Literaturszene: Ihr findet uns im Club",
-      "summary_original": "Botox, Vibratoren und zum Lesen in die Disco: Die New Yorker Literaturszene revolutioniert die Art, wie Werk und Autor inszeniert werden. Stürzen wir uns auf ihre Partys.",
-      "url": "https://www.zeit.de/feuilleton/literatur/2026-11/amerikanische-literaturszene-new-york-downtown-girls",
-      "published": "2026-11-22T04:44:35+09:00",
+      "title_original": "Kalenderblatt: Was geschah am 22. November?",
+      "summary_original": "",
+      "url": "https://www.zeit.de/news/2026-11/21/was-geschah-am-22-november",
+      "published": "2026-11-22T07:55:04+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Drohnenangriff auf »Sparta II«: Finnland bestätigt Drohnenangriff auf russisches Schiff in der Ostsee",
-      "summary_original": "Ein russischer Frachter ist im Finnischen Meerbusen von einer Drohne angegriffen worden und in Brand geraten. Finnlands Militär geht von einem ukrainischen Angriff aus.",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/drohnenangriff-sparta-2-russisches-frachtschiff-ostsee-gogland-gxe",
-      "published": "2026-11-22T04:31:29+09:00",
+      "title_original": "Gelbwestenbewegung: Sozialproteste in Frankreich münden in Gewalt",
+      "summary_original": "Das sechste Wochenende in Folge haben Zehntausende Franzosen gegen hohe Preise und andere Missstände demonstriert. Erneut kam es zu Brandstiftungen und Sachbeschädigung.",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/proteste-frankreich-gelbwesten-weniger-teilnehmer-gewalt",
+      "published": "2026-11-22T07:15:35+09:00",
       "via": "rss",
       "state_media": false
     }
