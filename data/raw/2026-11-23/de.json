@@ -1,0 +1,729 @@
+{
+  "team": "de",
+  "team_name_ko": "독일팀",
+  "collected_at": "2026-11-23T06:13:04.625980+09:00",
+  "headlines": [
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Bremen schlägt den HSV im Nordderby klar",
+      "summary_original": "Werder Bremen bleibt die Bundesliga-Überraschung. Mit einem deutlichen 4:0-Erfolg im Nordderby gegen den Hamburger SV halten die Grün-Weißen den Anschluss an die Spitzengruppe.",
+      "url": "https://www.sportschau.de/fussball/bundesliga/bremen-haemmert-hsv-im-nordderby-weg,spielbericht-werder-bremen-hamburger-sv-104.html",
+      "published": "2026-11-23T05:07:14+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "tagesschau in 100 Sekunden",
+      "summary_original": "tagesschau in 100 Sekunden",
+      "url": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1688196.html",
+      "published": "2026-11-23T05:04:30+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "tagesschau 20:00 Uhr",
+      "summary_original": "Klimakonferenz COP31 im türkischen Antalya endet ohne Einigung auf gemeinsame Abschlusserklärung, CSU-Chef Söder fordert schnelle Entscheidungen zur Rentenreform, Kritik am Vorschlag um Selbstzahler-Termine für Kassenpatienten bei Fachärzten, Laut Plänen von Bundesjustizministerin Hubig sollen Femizide künftig eindeutig als Mord geahndet werden können, Russischer Frachter treibt nach ukrainischem ",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1688180.html",
+      "published": "2026-11-23T05:04:03+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Buhrufe und Pfiffe gegen BVB-Boss Cramer wegen Fall Nmecha",
+      "summary_original": "Der religiös motivierte Kronen-Jubel von BVB-Fußballer Nmecha hat für Diskussionen gesorgt. Bei der Mitgliederversammlung des Vereins äußerte sich Geschäftsführer Cramer nur indirekt. Nmecha sei ein \"tadelloser Mensch\". Dafür gab es einige Buhrufe.",
+      "url": "https://www.tagesschau.de/sport/mitgliederversammlung-bvb-fall-nmecha-100.html",
+      "published": "2026-11-23T04:58:18+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Nach Drohnenangriff: \"Sparta II\" wird in russische Gewässer geschleppt",
+      "summary_original": "Am Samstag war der russische Frachter \"Sparta II\" in der Ostsee von einer Drohne getroffen worden und in Brand geraten. Laut finnischem Grenzschutz hat das Schiff Schlagseite, kann aber in russische Gewässer geschleppt werden.",
+      "url": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-102.html",
+      "published": "2026-11-23T04:53:03+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Tennis: Alcaraz zu stark - Zverev verpasst Titel bei ATP Finals",
+      "summary_original": "Nichts zu holen gegen Carlos Alcaraz: Alexander Zverev hat das Endspiel bei den ATP Finals verloren. Dabei war das Match zu Beginn deutlich, zum Ende hochspannend.",
+      "url": "https://www.sportschau.de/tennis/atp/zverev-verpasst-finals-titel,finale-zverev-alcaraz-100.html",
+      "published": "2026-11-23T04:31:47+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "tagesschau mit Gebärdensprache",
+      "summary_original": "tagesschau mit Gebärdensprache",
+      "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12388.html",
+      "published": "2026-11-23T04:30:04+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "TK-Chef Baas: Mehr Geld schafft keine Arzttermine",
+      "summary_original": "Schneller zum Facharzt gegen Bezahlung? Die Einschätzung von Kassenärzte-Chef Gassen hat Kritik ausgelöst. Mehr Geld löse das Problem nicht, sagt TK-Chef Baas im Bericht aus Berlin - und fordert stattdessen ein grundlegend neues System.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-arzttermine-baas-100.html",
+      "published": "2026-11-23T04:24:22+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Weihnachtszeit offiziell eingeläutet",
+      "summary_original": "Mehr als 14 Millionen LED-Lichter, 500 Drohnen und ein Feuerwerk: Madrid hat die Weihnachtszeit mit einer spektakulären Zeremonie vor 150.000 Zuschauern eröffnet.",
+      "url": "https://www.zdfheute.de/video/weihnachten-madrid-spanien-100.html",
+      "published": "2026-11-23T05:18:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Wüst zu Söder-Vorschlag: Müssen \"die Realität anerkennen\"",
+      "summary_original": "Nordrhein-Westfalens Ministerpräsident Wüst verteidigt im ZDF die Entscheidung für eine Stromsteuersenkung. Die kalte Progression sei \"nicht das Mittel der Wahl\" gewesen, sagt er.",
+      "url": "https://www.zdfheute.de/politik/deutschland/hendrik-wuest-cdu-koalition-stromsteuer-ukraine-100.html",
+      "published": "2026-11-23T04:58:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
+      "summary_original": "Die Lage in Nahost ist weiter angespannt - es kommt immer wieder zu Angriffen. Im Westjordanland spitzt sich die Situation zu. Alle Entwicklungen im Liveblog.",
+      "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+      "published": "2026-11-23T04:56:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Frachtschiff \"Sparta II\" in russische Gewässer geschleppt",
+      "summary_original": "Nach einem ukrainischen Drohnenangriff wird der Frachter \"Sparta II\" in russische Gewässer geschleppt. Finnlands Regierungschef Orpo warnt vor dem Überschwappen des Krieges.",
+      "url": "https://www.zdfheute.de/politik/ausland/frachtschiff-abgeschleppt-ukraine-krieg-russland-100.html",
+      "published": "2026-11-23T04:29:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Zverev unterliegt überragendem Alcaraz",
+      "summary_original": "Alexander Zverev hat einen weiteren großen Titel im Jahr 2026 verpasst. Der 29-Jährige verlor das Endspiel der ATP Finals gegen Carlos Alcaraz klar.",
+      "url": "https://www.zdfheute.de/sport/tennis-atp-finals-turin-endspiel-zverev-alcaraz-100.html",
+      "published": "2026-11-23T04:16:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Njinmah zweifach: Bremen gewinnt hitziges Nordderby",
+      "summary_original": "Der SV Werder Bremen hat das Nordderby gegen den HSV gewonnen. Mann des Tages war Justin Njinmah mit zwei erzielten Treffern.",
+      "url": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-sv-werder-bremen-hamburger-sv-tore-ergebnis-26-27-100.html",
+      "published": "2026-11-23T03:54:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Aktuelles zum Krieg in der Ukraine",
+      "summary_original": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
+      "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
+      "published": "2026-11-23T03:33:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Union: Wachsende Kritik an Merz",
+      "summary_original": "Auch nach der Einigung auf eine Stromsteuersenkung für 2027 kommt Schwarz-Rot in Berlin nicht zur Ruhe. In der Union brodelt es weiter. Kritik gibt es an den Maßnahmen und am Kanzler.",
+      "url": "https://www.zdfheute.de/video/berlin-direkt/merz-kritik-union-spd-streit-haushalt-stromsteuersenkung-100.html",
+      "published": "2026-11-23T03:10:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Kinderraub als Kriegswaffe: Hitlers Erbe, Putins System",
+      "summary_original": "Als Kind von den Nazis verschleppt, als junge Frau mit dem Kinderraub durch Russland konfrontiert: Barbara Paciorkiewicz und Ksenija Koldin erzählen von Verlust, gewaltsamer Trennung und schwieriger Heimkehr.",
+      "url": "https://www.dw.com/de/kinderraub-als-kriegswaffe-hitlers-erbe-putins-system/a-80001588?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-23T05:30:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Die COP31 scheiterte an der Frage, wie gefährdete Länder unterstützt werden sollen und wie das Ende von Kohle, Öl und Gas gestaltet werden soll",
+      "summary_original": "Nach zwei Wochen zäher Verhandlungen ist der Klimagipfel COP31 ohne Einigung zu Ende gegangen. Damit wird der Ausstieg aus den fossilen Brennstoffen wieder fraglich. Ungelöst ist auch die Finanzierung der Klimaanpassung.",
+      "url": "https://www.dw.com/de/die-cop31-scheiterte-an-der-frage-wie-gefährdete-länder-unterstützt-werden-sollen-und-wie-das-ende-von-kohle-öl-und-gas-gestaltet-werden-soll/a-80014116?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-23T01:31:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Deutschland plant schärferes Vorgehen gegen Femizide",
+      "summary_original": "Wer eine Frau aus Besitzdenken oder wegen einer Trennung tötet, soll künftig leichter als Mörder verurteilt werden. Ein Gesetzentwurf sieht dafür Änderungen im Strafgesetzbuch vor.",
+      "url": "https://www.dw.com/de/deutschland-plant-schärferes-vorgehen-gegen-femizide/a-80013513?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-22T21:34:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "UN-Klimakonferenz COP31 ist in Antalya gescheitert",
+      "summary_original": "Der türkische Entwurf für den Abschlusstext des Klimagipfels hat Öl, Kohle und Gas nicht erwähnt. Zu viele Delegationen haben ihre Zustimmung verweigert.",
+      "url": "https://www.dw.com/de/un-klimakonferenz-cop31-ist-in-antalya-gescheitert/a-80012944?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-22T21:19:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "EU und Indonesien besiegeln Handelsabkommen",
+      "summary_original": "Mit einem neuen Abkommen wollen EU und Indonesien Handel und Investitionen ausbauen. Besonders wichtig für Europa: der Zugang zu Rohstoffen wie Nickel und Kobalt für die Batterieindustrie.",
+      "url": "https://www.dw.com/de/eu-und-indonesien-besiegeln-handelsabkommen/a-80012521?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-22T17:18:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Spende an Nawalny: Russische Ornithologin sitzt in Haft",
+      "summary_original": "Sofia Rosenfeld hat ihr Leben der Erforschung arktischer Wasservögel gewidmet. Wegen Spenden im Wert von 22 Euro muss sie für dreieinhalb Jahre in Haft. Freunde und Familie kämpfen für ihre Freilassung.",
+      "url": "https://www.dw.com/de/spende-an-nawalny-russische-ornithologin-sitzt-in-haft/a-80009856?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-22T14:19:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "IT-Ausfälle in den USA: Zwischen Systemfehlern und Budgetkürzungen",
+      "summary_original": "Eine Serie mysteriöser IT-Pannen erschüttert die USA. Zwar erklärt die Regierung, es gebe keine Hinweise auf Hackerattacken. Und doch hagelt es Kritik: Hat die Trump-Regierung bei der Cyberabwehr viel zu massiv gekürzt?",
+      "url": "https://www.dw.com/de/it-ausfälle-in-den-usa-zwischen-systemfehlern-und-budgetkürzungen/a-80002682?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-22T05:14:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Kongo ist über geplanten Abschiebe-Deal mit Ruanda empört",
+      "summary_original": "Viele Millionen Euro kämen einem Land zugute, das in der Region sein \"Unwesen\" treibe, sagt die kongolesische Außenministerin Kayikwamba Wagner. Auch der Wissenschaftliche Dienst des Bundestages meldet Bedenken an.",
+      "url": "https://www.dw.com/de/kongo-ist-über-geplanten-abschiebe-deal-mit-ruanda-empört/a-80010037?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-22T00:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "\"Tatort\": Die ganze Wahrheit: Schon wieder ein heißer Cold Case aus Frankfurt",
+      "summary_original": "Ein iranischer Bombenleger, der nach fast 30 Jahren plötzlich wieder durch Frankfurt läuft - und eine Kommissarin, die ihren Kollegen etwas verheimlicht: Mit \"4 Finger\" wagt sich der Frankfurter \"Tatort\" an einen lupenreinen Politthriller. Ob das Konzept aufgeht?",
+      "url": "https://www.n-tv.de/leute/tv/Schon-wieder-ein-heisser-Cold-Case-aus-Frankfurt-id31547797.html",
+      "published": "2026-11-23T05:45:35+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Hochzeit mit Schlagzeuger: Miley Cyrus ist wieder unter der Haube",
+      "summary_original": "Miley Cyrus teilt auf Instagram Eindrücke ihrer Trauung mit Maxx Morando. Umgeben von Rosen zeigt sich das Paar in Palm Springs. Prominente Gäste und ein besonderer Ort machen die Feier komplett.",
+      "url": "https://www.n-tv.de/leute/Miley-Cyrus-ist-wieder-unter-der-Haube-id31564616.html",
+      "published": "2026-11-23T05:33:48+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Streit um kalte Progression: Söder erhält bei Steuerforderung Zuspruch von den Grünen",
+      "summary_original": "Markus Söder dringt auf weitere Entlastungen für Steuerzahler. Aus Baden-Württemberg kommt dafür Unterstützung, allerdings verbunden mit deutlicher Kritik an der bisherigen Ausgabenpolitik der Union.",
+      "url": "https://www.n-tv.de/politik/Soeder-erhaelt-bei-Steuerforderung-Zuspruch-von-den-Gruenen-id31564614.html",
+      "published": "2026-11-23T04:48:10+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Alcaraz gnadenlos: Zverevs schmerzhafter Kampf wird nicht belohnt",
+      "summary_original": "Lange sieht es so aus, als würde Alexander Zverev im Endspiel der ATP Finals gegen Carlos Alcaraz furchtbar untergehen. Dann aber kämpft sich der Deutsche zurück ins Match. In der entscheidenden Phase wird Zverev von Schmerzen geplagt, erkämpft sich trotzdem Satzbälle - doch am Ende gewinnt Alcaraz.",
+      "url": "https://www.n-tv.de/sport/tennis/Zverevs-schmerzhafter-Kampf-wird-nicht-belohnt-id31564607.html",
+      "published": "2026-11-23T04:17:38+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Höchste Saisonpleite: Wirtz macht Pochettinos United-Debüt zum Desaster",
+      "summary_original": "Mauricio Pochettino soll den Absturz von Manchester United aufhalten. Zum Start seiner Mission kassiert der Argentinier allerdings erst mal die höchste Pleite der Saison - und das auch noch gegen den Erzrivalen. Der deutsche Nationalspieler Florian Wirtz hilft beim Desaster kräftig mit.",
+      "url": "https://www.n-tv.de/sport/fussball/Wirtz-macht-Pochettinos-United-Debuet-zum-Desaster-id31564562.html",
+      "published": "2026-11-23T03:58:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Auch EU-Bürger darunter: Prozesse um mutmaßliche IS-Kämpfer beginnen im Irak",
+      "summary_original": "Im Irak sind die ersten mutmaßlichen IS-Kämpfer vor Gericht erschienen. Es ist der Beginn von tausenden Prozessen gegen ehemalige Angehörige des Islamischen Staats. Diese sind unter anderem in Gefängnissen im Irak untergebracht, teilweise ganze Familien mit Kindern.",
+      "url": "https://www.n-tv.de/politik/Prozesse-um-mutmassliche-IS-Kaempfer-beginnen-im-Irak-id31564331.html",
+      "published": "2026-11-23T03:54:06+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Werder feiert: HSV geht im Nordderby furchtbar unter",
+      "summary_original": "Am 10. Spieltag der Fußball-Bundesliga kommt es zum ersten Nordderby der Saison. Und es wird dem SV Werder Bremen in bester Erinnerung bleiben. Für den Hamburger SV dagegen ist es ein ganz bitterer Abend. Toptorjäger Niclas Füllkrug trifft ganz am Ende auch noch.",
+      "url": "https://www.n-tv.de/sport/fussball/HSV-geht-im-Nordderby-furchtbar-unter-id31564559.html",
+      "published": "2026-11-23T03:35:10+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Lisa Baum ist \"stabil\": Deutsche Nationalspielerin mit Atemmaske vom Platz getragen",
+      "summary_original": "Großer Schreck im Duell der Frauen-Teams des FC Arsenal und West Ham United: Kurz nach der Pause bricht die deutsche Nationalspielerin Lisa Baum abseits des Balles zusammen. Nach mehrminütiger Behandlung wird sie mit einer Atemmaske vom Platz gebracht. Wenig später gibt es vorsichtig Entwarnung.",
+      "url": "https://www.n-tv.de/sport/fussball/Deutsche-Nationalspielerin-mit-Atemmaske-vom-Platz-getragen-id31564523.html",
+      "published": "2026-11-23T03:18:32+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Der Glaube, dass der Markt es richtet, ist empirisch gescheitert“, sagt Linken-Politikerin Lay",
+      "summary_original": "Linken-Politikerin Caren Lay hält die Vergesellschaftung von Wohnungen für ein Mittel gegen hohe Mieten in Berlin. Die Finanzierungsfrage bleibt aber offen. Deutlich grenzt sie sich von antisemitischen Tendenzen ihrer Partei ab.",
+      "url": "https://www.welt.de/vermischtes/article6b0346135842ff528b9e43ae/keine-talkshow-eingesperrt-mit-jan-fleischhauer-der-glaube-dass-der-markt-es-richtet-ist-empirisch-gescheitert-sagt-linken-politikerin-lay.html",
+      "published": "2026-11-23T06:06:52+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Pochettino geht beim Debüt in Liverpool unter – starker Wirtz trifft",
+      "summary_original": "Manchester Uniteds freier Fall setzt sich auch unter neuem Trainer fort. Die Red Devils kamen bei Erzrivale Liverpool unter die Räder und sind nun Vorletzter. Das Team spielte allerdings bereits nach acht Minuten in Unterzahl.",
+      "url": "https://www.welt.de/sport/fussball/internationale-ligen/article6b0345af5842ff528b9e43a3/manchester-united-pochettino-geht-beim-debuet-in-liverpool-unter-starker-wirtz-trifft.html",
+      "published": "2026-11-23T05:49:58+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Zverev vergibt drei Satzbälle und verliert das Endspiel gegen Alcaraz",
+      "summary_original": "Carlos Alcaraz hat die ATP Finals gewonnen und sich damit in einen erlauchten Kreis gespielt. Der Spanier ist der vierte Spieler, der alle fünf großen Turniere gewinnen konnte. Alexander Zverev konnte seine Chance auf einen dritten Satz nicht nutzen.",
+      "url": "https://www.welt.de/sport/tennis/article6b03406b3b1a22514b912f6a/atp-finals-zverev-vergibt-drei-satzbaelle-und-verliert-das-endspiel-gegen-alcaraz.html",
+      "published": "2026-11-23T05:14:36+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "NRW-Ministerpräsident Wüst weist Söders Forderung zur kalten Progression zurück",
+      "summary_original": "Der Streit um die kalte Progression bleibt in der Union offen. NRW-Ministerpräsident Hendrik Wüst verweist auf den Bundeshaushalt und verteidigt die Senkung der Stromsteuer.",
+      "url": "https://www.welt.de/politik/article6b0342633b1a22514b912f88/berlin-direkt-nrw-ministerpraesident-wuest-weist-soeders-forderung-zur-kalten-progression-zurueck.html",
+      "published": "2026-11-23T04:34:45+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Mitten im Spiel bricht Nationalspielerin Lisa Baum plötzlich zusammen",
+      "summary_original": "Im Sommer wechselte Lisa Baum aus Leipzig nach London. Am Sonntag spielte die 19-Jährige mit dem FC Arsenal gegen West Ham und ging nach einer halben Stunde unvermittelt zu Boden. Ihr Zustand ist stabil.",
+      "url": "https://www.welt.de/sport/fussball/article6b032cfd39a3e8110f0e6f2f/fc-arsenal-mitten-im-spiel-bricht-nationalspielerin-lisa-baum-ploetzlich-zusammen.html",
+      "published": "2026-11-23T03:17:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Inakzeptabel“ – UN‑Gebäude bei Drohnenangriff beschädigt",
+      "summary_original": "Ein Drohnenangriff auf ein Wohngebiet in Khartum hat ein UN-Gebäude beschädigt. Im Krieg zwischen Armee und RSF verändern Drohnen das Kampfgeschehen.",
+      "url": "https://www.welt.de/politik/article6b03283739a3e8110f0e6ee8/konflikt-im-sudan-inakzeptabel-ungebaeude-bei-drohnenangriff-beschaedigt.html",
+      "published": "2026-11-23T03:05:35+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Deutsche Skispringer erleben beim Weltcup-Auftakt ein Debakel",
+      "summary_original": "Die deutschen Skispringer haben beim Weltcup-Auftakt in Lillehammer Rätsel aufgegeben. Der neue Bundestrainer erlebte einen ernüchternden Start. Mit Philipp Raimund schaffte es nur ein DSV-Adler in den zweiten Durchgang.",
+      "url": "https://www.welt.de/sport/wintersport/article6b0323dc39a3e8110f0e6e9a/neuer-bundestrainer-deutsche-skispringer-erleben-beim-weltcup-auftakt-ein-debakel.html",
+      "published": "2026-11-23T02:59:29+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Merz ist einer der wenigen Spitzenpolitiker, die verstanden haben, was die Stunde geschlagen hat“",
+      "summary_original": "„Zeit“-Journalistin Mariam Lau sieht in der Union große Enttäuschung über Bundeskanzler Friedrich Merz. Seine Außenpolitik bleibt für sie dennoch ein Argument für seine Kanzlerschaft.",
+      "url": "https://www.welt.de/politik/deutschland/article6b0304925842ff528b9e3fac/lau-bei-ronzheimer-merz-ist-einer-der-wenigen-spitzenpolitiker-die-verstanden-haben-was-die-stunde-geschlagen-hat.html",
+      "published": "2026-11-23T02:55:27+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Statistik: Führt Bürokratieabbau in den wirtschaftlichen Blindflug? Wie Deutschland um die richtige Balance ringt",
+      "summary_original": "Mit einer großen Reform will die Bundesregierung die Unternehmen von Statistikpflichten befreien, ohne die Datengrundlage über die Wirtschaft zu gefährden. Kann das gut gehen?",
+      "url": "https://www.handelsblatt.com/politik/konjunktur/statistik-buerokratieabbau-gegen-oekonomie-wann-wird-es-schaedlich/100267313.html",
+      "published": "2026-11-23T02:08:51+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Gastkommentar: Europa muss bei der Diversifizierung Druck machen",
+      "summary_original": "Die EU muss ihre Marktmacht bündeln, um Abhängigkeiten zu bekämpfen. Firmen fürchten Kosten und Bürokratie, doch es geht auch anders, argumentiert Geoökonomie-Experte Tobias Gehrke.",
+      "url": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-europa-muss-bei-der-diversifizierung-druck-machen/100270690.html",
+      "published": "2026-11-23T01:32:53+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "USA: US-Unternehmen setzen vermehrt auf „Dynamic Pricing“",
+      "summary_original": "Zuerst Kinotickets, jetzt sogar Seniorenwohnungen – US-Unternehmen setzen zunehmend auf dynamische Preise. Behörden sehen den Einsatz persönlicher Kundendaten aber kritisch.",
+      "url": "https://www.handelsblatt.com/politik/international/usa-us-unternehmen-setzen-vermehrt-auf-dynamic-pricing/100271873.html",
+      "published": "2026-11-23T01:15:42+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Kraftstoff: Preisdeckel könnte Sprit 7,5 Cent pro Liter vergünstigen – Höchstpreise würden fast jeden Tag greifen",
+      "summary_original": "Handelsblatt-Berechnungen zum neuen Spritpreisdeckel-Vorschlag von Wirtschaftsministerin Reiche zeigen: Der Höchstpreis würde regelmäßig greifen – vor allem um eine bestimmte Uhrzeit.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/kraftstoff-preisdeckel-koennte-sprit-bis-zu-75-cent-pro-liter-verguenstigen/100271834.html",
+      "published": "2026-11-23T01:13:17+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "COP31: Abschlusserklärung „nicht zustimmungsfähig“: Einigung bei Weltklimakonferenz gescheitert",
+      "summary_original": "Der Streit um den Ausstieg aus fossilen Energien bringt das Gipfeltreffen in Antalya zum Scheitern. Nach zwei Wochen endet die Konferenz ohne Abschlusserklärung.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/cop31-einigung-bei-weltklimakonferenz-gescheitert/100270720.html",
+      "published": "2026-11-23T01:04:59+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Märkte Insight: Der unglaubliche Energiehunger der KI-Industrie",
+      "summary_original": "Ein neuer Report legt den gigantischen Strombedarf von Rechenzentren in den kommenden zehn Jahren offen. Anleger sollten auf die Ausrüster des digitalen Goldrauschs setzen, meint Jakob Blume.",
+      "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/maerkte-insight-der-unglaubliche-energiehunger-der-ki-industrie/100269633.html",
+      "published": "2026-11-23T00:19:12+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Geldanlage: Welche Sektoren vom demografischen Wandel profitieren",
+      "summary_original": "Die Bevölkerung wird immer älter. Das hat Auswirkungen auf die Wirtschaft: Denn alte Menschen konsumieren anders als junge. Welche Branchen daher auch für Anleger interessant sein können.",
+      "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-welche-sektoren-vom-demografischen-wandel-profitieren/100269798.html",
+      "published": "2026-11-22T23:59:37+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Deep Read: Zehn Wochen vom vertraulichen Brief bis zum Aus: So scheiterte der Milliarden-Plan von BASF",
+      "summary_original": "BASF-Chef Kamieth wollte mit Evonik einen global mächtigen Chemie-Champion schaffen. Doch sein Management unterschätzte den politischen Widerstand. Rekonstruktion eines Fehlschlags.",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/basf-und-evonik-der-zerplatzte-traum-vom-deutschen-chemie-champion/100271483.html",
+      "published": "2026-11-22T23:57:27+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Libyen: Explosion auf russischem Schiff – ukrainischer Angriff vermutet",
+      "summary_original": "In einem Hafen der ostlibyschen Stadt Bengasi hat es eine Explosion auf einem russischen Kriegsschiff gegeben. Die Behörden gehen von einem Drohnenangriff aus.",
+      "url": "https://www.spiegel.de/ausland/libyen-explosion-auf-russischem-schiff-ukrainischer-angriff-vermutet-a-bc74e064-fd7a-4770-aebd-0d742578cfeb#ref=rss",
+      "published": "2026-11-23T05:41:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "ATP Finals: Alexander Zverev verpasst Krönung seines Traumjahres gegen Carlos Alcaraz",
+      "summary_original": "Er gewann die Grand-Slam-Turniere in Paris und New York, wurde erstmals die Nummer eins der Tenniswelt. Der Prestigesieg gegen den Topstar Carlos Alcaraz gelang Alexander Zverev aber nicht.",
+      "url": "https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-verpasst-kroenung-seines-traumjahres-gegen-carlos-alcaraz-a-8eff0478-ee60-4c90-bba6-7c36949c79ae#ref=rss",
+      "published": "2026-11-23T04:48:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Premier League: Pochettino soll United retten, erlebt 0:4-Debakel in Liverpool",
+      "summary_original": "Mauricio Pochettino gab seinen Job als US-Nationaltrainer auf, um Manchester United zu alten Erfolgen zurückzuführen. Beim Start zeigte sich: Das wird sehr schwer. An diesem Tag lag das auch an Florian Wirtz.",
+      "url": "https://www.spiegel.de/sport/fussball/premier-league-pochettino-soll-united-retten-erlebt-0-4-debakel-in-liverpool-a-dba1119d-5a88-4669-b7f3-b5057efb1cc9#ref=rss",
+      "published": "2026-11-23T04:25:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "FC Arsenal: Lisa Baum bricht im Spiel mit Atemnot zusammen",
+      "summary_original": "Ihr Zustand soll stabil sein, doch die Bilder waren schockierend: Mit einer Atemmaske musste die deutsche Fußballerin Lisa Baum bei einem Ligaspiel ihres Vereins FC Arsenal vom Feld gebracht werden.",
+      "url": "https://www.spiegel.de/sport/fussball/fc-arsenal-lisa-baum-bricht-im-spiel-mit-atemnot-zusammen-a-f95f7696-4847-4505-9f22-ff09f760bee4#ref=rss",
+      "published": "2026-11-23T04:16:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "»Im Verhör«: Korrupte Justiz (3): Wie man sich einen Staatsanwalt kauft - SPIEGEL TV",
+      "summary_original": "Drogenboss »Kosta« kann sein Glück kaum glauben. Seine Bande konnte einen deutschen Staatsanwalt korrumpieren. Ab jetzt wissen die Kriminellen, wie sie der Überwachung der Staatsanwaltschaft Hannover entgehen können.",
+      "url": "https://www.spiegel.de/panorama/justiz/im-verhoer-korrupte-justiz-3-wie-man-sich-einen-staatsanwalt-kauft-spiegel-tv-a-508e2f16-03cb-4944-87cb-67ccba1d98e8#ref=rss",
+      "published": "2026-11-23T04:14:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Umgang mit Trauer: Wenn der Friedhof zum Ort für Freundinnen und Feiern wird",
+      "summary_original": "Warum meine engsten Freundinnen und ich uns regelmäßig auf dem Friedhof treffen. Und dort gemeinsam ganz glückselig sind.",
+      "url": "https://www.spiegel.de/psychologie/umgang-mit-trauer-wenn-der-friedhof-zum-ort-fuer-freundinnen-und-feiern-wird-a-c029ae9a-d194-4f77-91c4-281b5bbfb8f3#ref=rss",
+      "published": "2026-11-23T04:13:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Ukraine-Krieg: »Der Ukraine steht der härteste Kriegswinter bevor« – Militärexperte Franz-Stefan Gady",
+      "summary_original": "Kyjiws Soldaten werden an der Front taktisch immer besser und machen kleine Fortschritte. Doch der Militärexperte Franz-Stefan Gady warnt: Russlands Kraft ist trotz gigantischer Verluste noch lange nicht erschöpft.",
+      "url": "https://www.spiegel.de/ausland/ukraine-krieg-der-ukraine-steht-der-haerteste-kriegswinter-bevor-militaerexperte-franz-stefan-gady-a-a540c544-b586-4a52-b06a-63b32f4c8233#ref=rss",
+      "published": "2026-11-23T04:13:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Billy Joel versteigert Motorradsammlung für zwei Millionen Dollar",
+      "summary_original": "Billy Joel hat in seinem Leben mehr als 100 Motorräder besessen, 69 Maschinen kamen nun für den guten Zweck unter den Hammer. Für Aufsehen sorgte eine Triumph Bonneville aus dem Jahr 1978.",
+      "url": "https://www.spiegel.de/panorama/leute/billy-joel-versteigert-motorradsammlung-fuer-zwei-millionen-dollar-a-2494a781-6b22-4e11-b34f-451b41a4c23b#ref=rss",
+      "published": "2026-11-23T04:10:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Streit um Mineralbrunnen: Der Kulturkampf ums Trinkwasser",
+      "summary_original": "Deutschland ist wasserreich, auch nach einem heißen Sommer und langer Trockenheit. Aber wer welches Wasser trinken soll, ist umstrittener denn je.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mineralwasser-in-deutschland-ein-kulturgut-unter-druck-201275604.html",
+      "published": "2026-11-23T05:53:39+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Energiewirtschaft macht Druck: Ein Krisengipfel für die Stromnetze",
+      "summary_original": "Rechenzentren und Industrie warten oft Jahre auf Stromanschlüsse. Jetzt fordern die Netzbetreiber ein Treffen mit Bund und Ländern.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/stromnetze-bdew-und-vku-fordern-krisengipfel-mit-katherina-reiche-201701678.html",
+      "published": "2026-11-23T05:47:58+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "EU-Annäherung: Burnhams Unterhändler wird auch von Brexiteers respektiert",
+      "summary_original": "Hamish Falconer ist britischer Chefunterhändler für die Annäherung an die EU. Ihm ist es in kurzer Zeit gelungen, Anerkennung auf beiden Seiten des Brexit-Grabens zu erringen.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/burnhams-eu-unterhaendler-falconer-wird-auch-von-brexiteers-respektiert-201703442.html",
+      "published": "2026-11-23T05:46:31+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Pilze und Korallen: Ist die Natur nicht selbst eine Künstlerin?",
+      "summary_original": "Horst Bredekamp erweitert den Kunstbegriff so weit, dass auch Pilze, Korallen und Bakterien dazugehören. Sein Essay zeigt, wie eng künstlerische Gestaltung und wissenschaftliche Erkenntnis miteinander verwoben sind.",
+      "url": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/pilze-korallen-bakterien-auch-die-natur-kann-kunst-sein-201614718.html",
+      "published": "2026-11-23T05:46:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Empörung im Fall Döpfner: Ihr Steuerflüchtlinge",
+      "summary_original": "Der Fall Döpfner steht sinnbildlich für eine Steuerpolitik, in der es längst mehr um die Wirkung populärer Aussagen geht als um stringente Konzepte. Hört auf zu jammern – und handelt!",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/doepfner-und-die-erbschaftsteuer-wann-handelt-die-politik-201706122.html",
+      "published": "2026-11-23T04:56:55+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Business-Ticker: Hugendubel-Onlineshop nach Hackerangriff weiter nicht erreichbar",
+      "summary_original": "FT-Bericht: Alice Huang hat Kontakte zu Chipschmugglern +++ IT-Panne sorgt für Verspätungen bei US-Airline Delta +++ alle Neuigkeiten im Unternehmen-Liveblog",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-hugendubel-onlineshop-nach-hackerangriff-weiter-nicht-erreichbar-faz-200452404.html",
+      "published": "2026-11-23T04:49:37+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Neue Uhren: Herbstzeit am Handgelenk",
+      "summary_original": "Es wird wieder früh dunkel. Wenn schon die Zeit gegen uns läuft, dann doch zumindest in einem anderen Gehäuse. Wir stellen 17 Uhren-Neuheiten vor.",
+      "url": "https://www.faz.net/aktuell/neue-uhren-im-herbst-201665593.html",
+      "published": "2026-11-23T04:32:19+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "„Hannah Montana“: Miley Cyrus teilt Bilder ihrer Hochzeit",
+      "summary_original": "Die US-Sängerin heiratet den Schlagzeuger Maxx Morando. Jetzt teilt sie ihr Hochzeitsglück.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/miley-cyrus-heiratet-maxx-morando-in-palm-springs-201707506.html",
+      "published": "2026-11-23T04:30:39+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Bundespolitik: Wüst weist Söders Forderung zur kalten Progression zurück",
+      "summary_original": "Bayerns Ministerpräsident hatte sich für einen sofortigen Ausgleich der Steuermehrbelastung ausgesprochen. Man habe bereits anders entschieden, erwidert sein Amtskollege aus Nordrhein-Westfalen.",
+      "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-wuest-soeder-kalte-progression-li.3580621",
+      "published": "2026-11-23T05:10:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Bundesliga: Bremen überrollt den HSV, Augsburg feiert Gregoritsch",
+      "summary_original": "Im Nordderby gelingen einem Werder-Stürmer beim 4:0 zwei Tore, wodurch Bremen an den Europapokalplätzen dranbleibt. In Augsburg fliegt ein Trainer vom Platz – und ein Österreicher trifft doppelt.",
+      "url": "https://www.sueddeutsche.de/sport/werder-bremen-hsv-nordderby-bundesliga-li.3584474",
+      "published": "2026-11-23T03:41:18+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Women’s Super League: Nationalspielerin Lisa Baum bricht auf dem Platz zusammen",
+      "summary_original": "Sorgen um eine deutsche Fußballerin: Während eines Spiels erleidet Lisa Baum vom FC Arsenal wegen Atemnot einen Zusammenbruch. Der Klub gibt leichte Entwarnung.",
+      "url": "https://www.sueddeutsche.de/sport/lisa-baum-frauenfussball-zusammenbruch-li.3584471",
+      "published": "2026-11-23T03:10:25+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Podcast: „Auf den Punkt“: Klimakonferenz gescheitert: Einmalig in der Klima-Diplomatie der vergangenen 20 Jahre",
+      "summary_original": "Die Verhandler der UN-Klimakonferenz, der COP 31, können sich nicht auf eine Abschlusserklärung einigen. Warum darin auch eine Chance liegt.",
+      "url": "https://www.sueddeutsche.de/politik/cop-31-un-klimakonferenz-antalya-2026-klimaschutz-scheitern-analyse-li.3584251",
+      "published": "2026-11-23T00:57:43+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Debatte um Gehaltsverzicht: Musialas jüngste Absence erklärt Rummenigges kalte Botschaft – rechtfertigt sie aber nicht",
+      "summary_original": "Der FC Bayern sendet über die Öffentlichkeit Signale an Musialas Berater. Es ist die streitbare Fortsetzung von diplomatischen Bemühungen, die schon vor Wochen begannen.",
+      "url": "https://www.sueddeutsche.de/sport/bayern-musiala-rummenigge-hoeness-kommentar-li.3584241",
+      "published": "2026-11-23T00:02:59+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "COP31: Klimagipfel endet ohne entscheidenden Beschluss",
+      "summary_original": "Bis Sonntag verhandeln die Staaten in Antalya, aber eine gemeinsame Linie finden sie nicht. Am Ende stellen sich die Europäer gegen eine Erklärung, in der noch nicht einmal die Wurzel des Klimaproblems erwähnt wird.",
+      "url": "https://www.sueddeutsche.de/politik/cop31-klimagipfel-antalya-fossile-energie-eu-li.3583984",
+      "published": "2026-11-22T23:55:53+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "AfD in Nordrhein-Westfalen: Wie viel Remigration darf’s denn sein?",
+      "summary_original": "Die AfD in Nordrhein-Westfalen steht vor der wichtigsten Wahl ihrer Geschichte. Nur: Sie ist zutiefst gespalten. Der Streit dreht sich um ein Kernkonzept der Radikalen in der Partei. Beim Parteitag gelingt noch mal ein Kompromiss. Fürs Erste.",
+      "url": "https://www.sueddeutsche.de/politik/afd-nordrhein-westfalen-martin-vincentz-remigration-parteitag-landtagswahl-li.3581449",
+      "published": "2026-11-22T23:23:38+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "COP31 in Antalya: Klimakonferenz scheitert an zentralem Abschlusstext",
+      "summary_original": "Es seien keine Beschlüsse gefasst worden, sagt Konferenz-Präsident Murat Kurum. Mehrere Staaten lehnten den vorgelegten „Antalya-Pakt“ ab – auch die EU. Stark kritisiert wurde, dass der Abschied von fossilen Energien darin zu kurz komme.",
+      "url": "https://www.sueddeutsche.de/politik/cop31-antalya-klimagipfel-einigung-gescheitert-li.3584161",
+      "published": "2026-11-22T22:26:42+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Captagon, Cannabis, Betäubungsmittel: Syrische Behörden vernichten tonnenweise konfiszierte Drogen",
+      "summary_original": "400 Millionen Tabletten des Aufputschmittels Captagon und Tonnen weiterer Rauschmittel sind in Syrien entsorgt worden. Die Machthaber bekämpfen die Drogenproduktion.",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/syrien-drogen-captagon-baschar-al-assad",
+      "published": "2026-11-23T05:58:16+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "»Tatort« Frankfurt am Main: Ich dachte, ich sehe einen Geist",
+      "summary_original": "Mit einigem Fingerspitzengefühl macht dieser »Tatort« aus Frankfurt am Main einen Anschlag auf iranische Exilanten zu seinem Thema. Ein Glanzstück der Saison.",
+      "url": "https://www.zeit.de/feuilleton/film/2026-11/tatort-frankfurt-ard-4-finger-azadi-kulina-iran",
+      "published": "2026-11-23T05:45:06+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "0:1 beim MSV Duisburg: Nach Unterbrechung: Hansa verliert Topspiel in Unterzahl",
+      "summary_original": "",
+      "url": "https://www.zeit.de/news/2026-11/22/nach-unterbrechung-hansa-verliert-topspiel-in-unterzahl",
+      "published": "2026-11-23T05:38:48+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Drohnenangriffe im Sudan: UN melden Angriff auf Wohngebiet in sudanesischer Hauptstadt",
+      "summary_original": "In der Provinz Khartum im Sudan sind Drohnenangriffe auf Wohnhäuser gemeldet worden. Drei Menschen wurden getötet, auch eine UN-Einrichtung sei beschädigt worden.",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/sudan-drohnenangriffe-khartum-armee-rsf-un",
+      "published": "2026-11-23T05:32:04+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Antisemitismus: Israels Botschafter würdigt Mut von verletzter Aktivistin",
+      "summary_original": "",
+      "url": "https://www.zeit.de/news/2026-11/22/israels-botschafter-wuerdigt-mut-von-verletzter-aktivistin",
+      "published": "2026-11-23T05:12:25+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Kalte Progression: Grüne werfen Söder »öffentliches Lamentieren« vor",
+      "summary_original": "CSU-Chef Markus Söder fordert »dringend einen Ausgleich der kalten Progression«. Die Opposition wirft ihm Inszenierung vor und warnt, er verspiele damit Vertrauen.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/kalte-progression-ausgleich-markus-soeder-britta-hasselmann-gxe",
+      "published": "2026-11-23T05:00:32+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "ATP Finals im Tennis: Keine Krönung: Zverev mit Final-Pleite gegen Alcaraz",
+      "summary_original": "",
+      "url": "https://www.zeit.de/news/2026-11/22/keine-kroenung-zverev-mit-final-pleite-gegen-alcaraz",
+      "published": "2026-11-23T04:56:54+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "ATP Finals: Alexander Zverev verpasst dritten Titel bei ATP Finals",
+      "summary_original": "Carlos Alcaraz besiegt Alexander Zverev im Endspiel der ATP Finals. Zverev macht zu viele Fehler, aus Frust wirft er seinen Schläger auf den Boden.",
+      "url": "https://www.zeit.de/sport/2026-11/atp-finals-finale-alexander-zverev-carlos-alcaraz-turin",
+      "published": "2026-11-23T04:56:50+09:00",
+      "via": "rss",
+      "state_media": false
+    }
+  ],
+  "unavailable_sources": [],
+  "errors": {}
+}
