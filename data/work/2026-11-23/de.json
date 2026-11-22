@@ -1,0 +1,1427 @@
+{
+  "team": "de",
+  "headlines": [
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Bremen schlägt den HSV im Nordderby klar",
+      "title_ko": "브레멘, 북부 더비에서 함부르크 SV에 완승",
+      "summary_ko": "베르더 브레멘이 북부 더비에서 함부르크 SV를 4:0으로 꺾고 분데스리가 선두권 추격을 이어갔다.",
+      "url": "https://www.sportschau.de/fussball/bundesliga/bremen-haemmert-hsv-im-nordderby-weg,spielbericht-werder-bremen-hamburger-sv-104.html",
+      "published": "2026-11-23T05:07:14+09:00",
+      "tags": [],
+      "event": "bundesliga-nordderby-bremen-hsv",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "tagesschau in 100 Sekunden",
+      "title_ko": "타게스샤우 100초 뉴스",
+      "summary_ko": "뉴스 요약 영상 프로그램으로, 원자료 요약에 구체적 내용이 없다.",
+      "url": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1688196.html",
+      "published": "2026-11-23T05:04:30+09:00",
+      "tags": [],
+      "event": "tagesschau-100-sekunden",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "tagesschau 20:00 Uhr",
+      "title_ko": "타게스샤우 20시 뉴스",
+      "summary_ko": "튀르키예 안탈리아 COP31이 공동 폐막 선언 없이 끝났고, 죌더 CSU 대표가 연금개혁 조속 결정을 촉구했으며, 법무장관 후비히 계획에 따라 페미사이드를 살인으로 처벌하는 방안 등이 보도됐다. 우크라이나 공격을 받은 러시아 화물선 표류 소식도 포함됐다.",
+      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1688180.html",
+      "published": "2026-11-23T05:04:03+09:00",
+      "tags": [
+        "geopolitics",
+        "legislation"
+      ],
+      "event": "tagesschau-20-uhr-bulletin",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Buhrufe und Pfiffe gegen BVB-Boss Cramer wegen Fall Nmecha",
+      "title_ko": "BVB 대표 크라머, 은메차 사건으로 야유 받아",
+      "summary_ko": "도르트문트 선수 은메차의 종교적 동기의 세리머니가 논란이 된 가운데, 회원총회에서 크라머 대표가 간접적으로만 입장을 밝혀 야유를 받았다.",
+      "url": "https://www.tagesschau.de/sport/mitgliederversammlung-bvb-fall-nmecha-100.html",
+      "published": "2026-11-23T04:58:18+09:00",
+      "tags": [],
+      "event": "bvb-nmecha-controversy",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Nach Drohnenangriff: \"Sparta II\" wird in russische Gewässer geschleppt",
+      "title_ko": "드론 공격 후 '스파르타 II', 러시아 해역으로 예인",
+      "summary_ko": "토요일 발트해에서 드론에 맞아 화재가 난 러시아 화물선 '스파르타 II'가 기울었지만 러시아 해역으로 예인될 수 있다고 핀란드 국경수비대가 밝혔다.",
+      "url": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-102.html",
+      "published": "2026-11-23T04:53:03+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "sparta-ii-baltic-drone-attack",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Tennis: Alcaraz zu stark - Zverev verpasst Titel bei ATP Finals",
+      "title_ko": "테니스: 알카라스에 막혀 즈베레프, ATP 파이널스 우승 놓쳐",
+      "summary_ko": "알렉산더 즈베레프가 ATP 파이널스 결승에서 카를로스 알카라스에게 패했다.",
+      "url": "https://www.sportschau.de/tennis/atp/zverev-verpasst-finals-titel,finale-zverev-alcaraz-100.html",
+      "published": "2026-11-23T04:31:47+09:00",
+      "tags": [],
+      "event": "atp-finals-zverev-alcaraz",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "tagesschau mit Gebärdensprache",
+      "title_ko": "수어 타게스샤우",
+      "summary_ko": "수어 통역 뉴스 프로그램으로, 원자료 요약에 구체적 내용이 없다.",
+      "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12388.html",
+      "published": "2026-11-23T04:30:04+09:00",
+      "tags": [],
+      "event": "tagesschau-gebaerdensprache",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "TK-Chef Baas: Mehr Geld schafft keine Arzttermine",
+      "title_ko": "TK 대표 바스: 돈을 더 내도 진료 예약은 늘지 않는다",
+      "summary_ko": "유료로 전문의 진료를 빨리 받게 하자는 보험의협회장 가센의 구상이 비판을 받는 가운데, 공보험사 TK 대표 바스는 돈으로 문제가 해결되지 않는다며 근본적으로 새로운 시스템을 요구했다.",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-arzttermine-baas-100.html",
+      "published": "2026-11-23T04:24:22+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "specialist-appointment-paid-proposal",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Weihnachtszeit offiziell eingeläutet",
+      "title_ko": "크리스마스 시즌 공식 개막",
+      "summary_ko": "마드리드가 1,400만 개 이상의 LED 조명, 드론 500대, 불꽃놀이로 15만 명 관중 앞에서 크리스마스 시즌 개막 행사를 열었다.",
+      "url": "https://www.zdfheute.de/video/weihnachten-madrid-spanien-100.html",
+      "published": "2026-11-23T05:18:00+09:00",
+      "tags": [],
+      "event": "madrid-christmas-opening",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Wüst zu Söder-Vorschlag: Müssen \"die Realität anerkennen\"",
+      "title_ko": "뷔스트, 죌더 제안에 \"현실을 인정해야\"",
+      "summary_ko": "노르트라인베스트팔렌 주총리 뷔스트가 ZDF에서 전기세 인하 결정을 옹호하며 물가연동 소득세 조정(kalte Progression)은 \"선택할 수단이 아니었다\"고 말했다.",
+      "url": "https://www.zdfheute.de/politik/deutschland/hendrik-wuest-cdu-koalition-stromsteuer-ukraine-100.html",
+      "published": "2026-11-23T04:58:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "cold-progression-tax-dispute",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
+      "title_ko": "이란 전쟁·중동 분쟁: 라이브블로그 종합",
+      "summary_ko": "중동 정세가 계속 긴장된 가운데 공격이 반복되고 있으며 요르단강 서안 상황이 악화되고 있다.",
+      "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+      "published": "2026-11-23T04:56:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "middle-east-iran-war-liveblog",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Frachtschiff \"Sparta II\" in russische Gewässer geschleppt",
+      "title_ko": "화물선 '스파르타 II', 러시아 해역으로 예인",
+      "summary_ko": "우크라이나 드론 공격을 받은 화물선 '스파르타 II'가 러시아 해역으로 예인되며, 핀란드 오르포 총리는 전쟁의 확산을 경고했다.",
+      "url": "https://www.zdfheute.de/politik/ausland/frachtschiff-abgeschleppt-ukraine-krieg-russland-100.html",
+      "published": "2026-11-23T04:29:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "sparta-ii-baltic-drone-attack",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Zverev unterliegt überragendem Alcaraz",
+      "title_ko": "즈베레프, 압도적인 알카라스에 패배",
+      "summary_ko": "29세 즈베레프가 ATP 파이널스 결승에서 알카라스에게 완패해 2026년 또 하나의 큰 타이틀을 놓쳤다.",
+      "url": "https://www.zdfheute.de/sport/tennis-atp-finals-turin-endspiel-zverev-alcaraz-100.html",
+      "published": "2026-11-23T04:16:00+09:00",
+      "tags": [],
+      "event": "atp-finals-zverev-alcaraz",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Njinmah zweifach: Bremen gewinnt hitziges Nordderby",
+      "title_ko": "은진마 멀티골: 브레멘, 격렬한 북부 더비 승리",
+      "summary_ko": "베르더 브레멘이 함부르크 SV와의 북부 더비에서 이겼고 저스틴 은진마가 두 골을 넣었다.",
+      "url": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-sv-werder-bremen-hamburger-sv-tore-ergebnis-26-27-100.html",
+      "published": "2026-11-23T03:54:00+09:00",
+      "tags": [],
+      "event": "bundesliga-nordderby-bremen-hsv",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Aktuelles zum Krieg in der Ukraine",
+      "title_ko": "우크라이나 전쟁 최신 소식",
+      "summary_ko": "2022년 2월 시작된 러시아의 우크라이나 침공 전쟁이 계속되고 있으며, 관련 소식을 실시간으로 전하는 라이브티커다.",
+      "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
+      "published": "2026-11-23T03:33:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-war-liveblog",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Union: Wachsende Kritik an Merz",
+      "title_ko": "기민·기사연합 내 메르츠 비판 확산",
+      "summary_ko": "2027년 전기세 인하 합의 이후에도 기민·기사연합-사민당 연정은 진정되지 않고 있으며, 연합 내부에서 조치와 총리에 대한 비판이 나온다.",
+      "url": "https://www.zdfheute.de/video/berlin-direkt/merz-kritik-union-spd-streit-haushalt-stromsteuersenkung-100.html",
+      "published": "2026-11-23T03:10:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "merz-coalition-criticism",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Kinderraub als Kriegswaffe: Hitlers Erbe, Putins System",
+      "title_ko": "전쟁 무기로서의 아동 납치: 히틀러의 유산, 푸틴의 체제",
+      "summary_ko": "어릴 때 나치에 끌려간 여성과 러시아의 아동 납치를 겪은 젊은 여성이 상실과 강제 분리, 귀환의 어려움을 이야기한다.",
+      "url": "https://www.dw.com/de/kinderraub-als-kriegswaffe-hitlers-erbe-putins-system/a-80001588?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-23T05:30:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "russia-child-abduction-feature",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Die COP31 scheiterte an der Frage, wie gefährdete Länder unterstützt werden sollen und wie das Ende von Kohle, Öl und Gas gestaltet werden soll",
+      "title_ko": "COP31, 취약국 지원과 화석연료 퇴출 방식을 두고 결렬",
+      "summary_ko": "2주간의 협상 끝에 COP31이 합의 없이 끝나 화석연료 퇴출이 다시 불투명해졌고 기후 적응 재원 문제도 풀리지 않았다.",
+      "url": "https://www.dw.com/de/die-cop31-scheiterte-an-der-frage-wie-gefährdete-länder-unterstützt-werden-sollen-und-wie-das-ende-von-kohle-öl-und-gas-gestaltet-werden-soll/a-80014116?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-23T01:31:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "cop31-antalya-failure",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Deutschland plant schärferes Vorgehen gegen Femizide",
+      "title_ko": "독일, 페미사이드 대응 강화 추진",
+      "summary_ko": "소유욕이나 결별을 이유로 여성을 살해한 경우 살인죄로 처벌하기 쉽게 하는 형법 개정안이 마련됐다.",
+      "url": "https://www.dw.com/de/deutschland-plant-schärferes-vorgehen-gegen-femizide/a-80013513?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-22T21:34:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "femicide-murder-law-reform",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "UN-Klimakonferenz COP31 ist in Antalya gescheitert",
+      "title_ko": "유엔 기후회의 COP31, 안탈리아에서 결렬",
+      "summary_ko": "튀르키예가 낸 폐막문 초안에 석유·석탄·가스 언급이 없어 너무 많은 대표단이 동의를 거부했다.",
+      "url": "https://www.dw.com/de/un-klimakonferenz-cop31-ist-in-antalya-gescheitert/a-80012944?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-22T21:19:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "cop31-antalya-failure",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "EU und Indonesien besiegeln Handelsabkommen",
+      "title_ko": "EU·인도네시아, 무역협정 체결",
+      "summary_ko": "EU와 인도네시아가 무역·투자 확대를 위한 협정을 맺었으며, 유럽에는 배터리 산업용 니켈·코발트 등 원자재 접근이 특히 중요하다.",
+      "url": "https://www.dw.com/de/eu-und-indonesien-besiegeln-handelsabkommen/a-80012521?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-22T17:18:00+09:00",
+      "tags": [
+        "industry",
+        "geopolitics"
+      ],
+      "event": "eu-indonesia-trade-agreement",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Spende an Nawalny: Russische Ornithologin sitzt in Haft",
+      "title_ko": "나발니 후원 이유로 러시아 조류학자 수감",
+      "summary_ko": "북극 물새를 연구해 온 소피야 로젠펠트가 22유로 상당의 후원으로 3년 반 형을 받아 수감 중이며, 지인과 가족이 석방을 위해 싸우고 있다.",
+      "url": "https://www.dw.com/de/spende-an-nawalny-russische-ornithologin-sitzt-in-haft/a-80009856?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-22T14:19:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "russia-rosenfeld-navalny-donation",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "IT-Ausfälle in den USA: Zwischen Systemfehlern und Budgetkürzungen",
+      "title_ko": "미국 IT 장애: 시스템 오류와 예산 삭감 사이",
+      "summary_ko": "미국에서 의문의 IT 장애가 잇따르는 가운데 정부는 해킹 정황이 없다고 하지만, 트럼프 정부가 사이버 방어 예산을 과도하게 줄였다는 비판이 나온다.",
+      "url": "https://www.dw.com/de/it-ausfälle-in-den-usa-zwischen-systemfehlern-und-budgetkürzungen/a-80002682?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-22T05:14:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-it-outages",
+      "state_media": false
+    },
+    {
+      "source": "Deutsche Welle",
+      "title_original": "Kongo ist über geplanten Abschiebe-Deal mit Ruanda empört",
+      "title_ko": "콩고, 독일-르완다 추방 협정 계획에 반발",
+      "summary_ko": "콩고 외무장관 카이퀌바 바그너는 수백만 유로가 지역에서 '해악'을 끼치는 나라에 돌아간다고 비판했고, 연방의회 학술조사처도 우려를 제기했다.",
+      "url": "https://www.dw.com/de/kongo-ist-über-geplanten-abschiebe-deal-mit-ruanda-empört/a-80010037?maca=de-rss-de-all-1119-rdf",
+      "published": "2026-11-22T00:00:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "germany-rwanda-deportation-deal",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "\"Tatort\": Die ganze Wahrheit: Schon wieder ein heißer Cold Case aus Frankfurt",
+      "title_ko": "'타토르트' 프랑크푸르트 편, 또 하나의 뜨거운 미제사건",
+      "summary_ko": "거의 30년 만에 프랑크푸르트에 다시 나타난 이란인 폭탄범과 동료에게 비밀을 숨긴 형사를 다룬 정치 스릴러 '4 Finger'를 소개한다.",
+      "url": "https://www.n-tv.de/leute/tv/Schon-wieder-ein-heisser-Cold-Case-aus-Frankfurt-id31547797.html",
+      "published": "2026-11-23T05:45:35+09:00",
+      "tags": [],
+      "event": "tatort-frankfurt-4-finger",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Hochzeit mit Schlagzeuger: Miley Cyrus ist wieder unter der Haube",
+      "title_ko": "마일리 사이러스, 드러머와 재혼",
+      "summary_ko": "마일리 사이러스가 팜스프링스에서 맥스 모란도와 결혼한 모습을 인스타그램에 공개했다.",
+      "url": "https://www.n-tv.de/leute/Miley-Cyrus-ist-wieder-unter-der-Haube-id31564616.html",
+      "published": "2026-11-23T05:33:48+09:00",
+      "tags": [],
+      "event": "miley-cyrus-wedding",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Streit um kalte Progression: Söder erhält bei Steuerforderung Zuspruch von den Grünen",
+      "title_ko": "물가연동 소득세 조정 논쟁: 죌더 감세 요구에 녹색당 일부 지지",
+      "summary_ko": "죌더가 납세자 추가 부담 완화를 요구하자 바덴뷔르템베르크에서 지지가 나왔지만, 기민·기사연합의 지출 정책에 대한 강한 비판도 함께 나왔다.",
+      "url": "https://www.n-tv.de/politik/Soeder-erhaelt-bei-Steuerforderung-Zuspruch-von-den-Gruenen-id31564614.html",
+      "published": "2026-11-23T04:48:10+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "cold-progression-tax-dispute",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Alcaraz gnadenlos: Zverevs schmerzhafter Kampf wird nicht belohnt",
+      "title_ko": "알카라스 압승: 즈베레프의 고통스러운 분투는 보상받지 못해",
+      "summary_ko": "ATP 파이널스 결승에서 크게 밀리던 즈베레프가 추격해 통증 속에 세트 포인트까지 잡았지만 결국 알카라스가 이겼다.",
+      "url": "https://www.n-tv.de/sport/tennis/Zverevs-schmerzhafter-Kampf-wird-nicht-belohnt-id31564607.html",
+      "published": "2026-11-23T04:17:38+09:00",
+      "tags": [],
+      "event": "atp-finals-zverev-alcaraz",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Höchste Saisonpleite: Wirtz macht Pochettinos United-Debüt zum Desaster",
+      "title_ko": "시즌 최다 점수차 패배: 비르츠, 포체티노의 맨유 데뷔전을 참사로",
+      "summary_ko": "맨체스터 유나이티드 재건에 나선 포체티노 감독이 데뷔전에서 숙적에게 시즌 최다 점수차 패배를 당했고, 독일 대표 플로리안 비르츠가 크게 기여했다.",
+      "url": "https://www.n-tv.de/sport/fussball/Wirtz-macht-Pochettinos-United-Debuet-zum-Desaster-id31564562.html",
+      "published": "2026-11-23T03:58:00+09:00",
+      "tags": [],
+      "event": "liverpool-manutd-pochettino-debut",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Auch EU-Bürger darunter: Prozesse um mutmaßliche IS-Kämpfer beginnen im Irak",
+      "title_ko": "EU 시민 포함: 이라크서 IS 가담 혐의자 재판 시작",
+      "summary_ko": "이라크에서 IS 대원 혐의자들의 첫 재판이 열렸으며, 수천 건의 재판이 이어질 예정이다.",
+      "url": "https://www.n-tv.de/politik/Prozesse-um-mutmassliche-IS-Kaempfer-beginnen-im-Irak-id31564331.html",
+      "published": "2026-11-23T03:54:06+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "iraq-is-fighter-trials",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Werder feiert: HSV geht im Nordderby furchtbar unter",
+      "title_ko": "베르더 환호: 함부르크 SV, 북부 더비 참패",
+      "summary_ko": "분데스리가 10라운드 시즌 첫 북부 더비에서 브레멘이 이겼고 막판 니클라스 퓔크루크도 득점했다.",
+      "url": "https://www.n-tv.de/sport/fussball/HSV-geht-im-Nordderby-furchtbar-unter-id31564559.html",
+      "published": "2026-11-23T03:35:10+09:00",
+      "tags": [],
+      "event": "bundesliga-nordderby-bremen-hsv",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Lisa Baum ist \"stabil\": Deutsche Nationalspielerin mit Atemmaske vom Platz getragen",
+      "title_ko": "리자 바움 '안정': 독일 대표 선수, 산소마스크 쓴 채 실려 나가",
+      "summary_ko": "아스널 대 웨스트햄 여자 경기 후반 직후 독일 대표 리자 바움이 쓰러져 산소마스크를 쓰고 실려 나갔으며, 이후 조심스러운 안정 소식이 나왔다.",
+      "url": "https://www.n-tv.de/sport/fussball/Deutsche-Nationalspielerin-mit-Atemmaske-vom-Platz-getragen-id31564523.html",
+      "published": "2026-11-23T03:18:32+09:00",
+      "tags": [],
+      "event": "lisa-baum-collapse",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Der Glaube, dass der Markt es richtet, ist empirisch gescheitert“, sagt Linken-Politikerin Lay",
+      "title_ko": "\"시장이 해결한다는 믿음은 실증적으로 실패\" — 좌파당 정치인 라이",
+      "summary_ko": "좌파당 카렌 라이는 베를린 고임대료 대책으로 주택 사회화를 주장했지만 재원 문제는 미해결이며, 당내 반유대주의 경향과는 선을 그었다.",
+      "url": "https://www.welt.de/vermischtes/article6b0346135842ff528b9e43ae/keine-talkshow-eingesperrt-mit-jan-fleischhauer-der-glaube-dass-der-markt-es-richtet-ist-empirisch-gescheitert-sagt-linken-politikerin-lay.html",
+      "published": "2026-11-23T06:06:52+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "left-party-housing-socialization",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Pochettino geht beim Debüt in Liverpool unter – starker Wirtz trifft",
+      "title_ko": "포체티노, 리버풀 원정 데뷔전 대패 — 비르츠 득점",
+      "summary_ko": "새 감독 체제에서도 맨유의 추락이 이어져 숙적 리버풀에 대패하고 리그 19위가 됐다. 맨유는 8분 만에 수적 열세에 놓였다.",
+      "url": "https://www.welt.de/sport/fussball/internationale-ligen/article6b0345af5842ff528b9e43a3/manchester-united-pochettino-geht-beim-debuet-in-liverpool-unter-starker-wirtz-trifft.html",
+      "published": "2026-11-23T05:49:58+09:00",
+      "tags": [],
+      "event": "liverpool-manutd-pochettino-debut",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Zverev vergibt drei Satzbälle und verliert das Endspiel gegen Alcaraz",
+      "title_ko": "즈베레프, 세트 포인트 3개 놓치고 알카라스에 결승 패배",
+      "summary_ko": "알카라스가 ATP 파이널스에서 우승하며 5대 대회를 모두 제패한 네 번째 선수가 됐다.",
+      "url": "https://www.welt.de/sport/tennis/article6b03406b3b1a22514b912f6a/atp-finals-zverev-vergibt-drei-satzbaelle-und-verliert-das-endspiel-gegen-alcaraz.html",
+      "published": "2026-11-23T05:14:36+09:00",
+      "tags": [],
+      "event": "atp-finals-zverev-alcaraz",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "NRW-Ministerpräsident Wüst weist Söders Forderung zur kalten Progression zurück",
+      "title_ko": "뷔스트 NRW 주총리, 죌더의 물가연동 소득세 조정 요구 거부",
+      "summary_ko": "기민·기사연합 내 논쟁이 이어지는 가운데 뷔스트는 연방예산을 들어 전기세 인하를 옹호했다.",
+      "url": "https://www.welt.de/politik/article6b0342633b1a22514b912f88/berlin-direkt-nrw-ministerpraesident-wuest-weist-soeders-forderung-zur-kalten-progression-zurueck.html",
+      "published": "2026-11-23T04:34:45+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "cold-progression-tax-dispute",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Mitten im Spiel bricht Nationalspielerin Lisa Baum plötzlich zusammen",
+      "title_ko": "경기 중 국가대표 리자 바움 갑자기 쓰러져",
+      "summary_ko": "여름에 라이프치히에서 아스널로 이적한 19세 리자 바움이 웨스트햄전 도중 쓰러졌으며 상태는 안정적이다.",
+      "url": "https://www.welt.de/sport/fussball/article6b032cfd39a3e8110f0e6f2f/fc-arsenal-mitten-im-spiel-bricht-nationalspielerin-lisa-baum-ploetzlich-zusammen.html",
+      "published": "2026-11-23T03:17:01+09:00",
+      "tags": [],
+      "event": "lisa-baum-collapse",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Inakzeptabel“ – UN‑Gebäude bei Drohnenangriff beschädigt",
+      "title_ko": "\"용납 불가\" — 드론 공격으로 유엔 건물 피해",
+      "summary_ko": "하르툼 주거지역에 대한 드론 공격으로 유엔 건물이 손상됐으며, 수단 정부군과 RSF 간 전쟁에서 드론이 전투 양상을 바꾸고 있다.",
+      "url": "https://www.welt.de/politik/article6b03283739a3e8110f0e6ee8/konflikt-im-sudan-inakzeptabel-ungebaeude-bei-drohnenangriff-beschaedigt.html",
+      "published": "2026-11-23T03:05:35+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "sudan-khartoum-drone-attack-un",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "Deutsche Skispringer erleben beim Weltcup-Auftakt ein Debakel",
+      "title_ko": "독일 스키점프, 월드컵 개막전에서 참패",
+      "summary_ko": "릴레함메르 월드컵 개막전에서 새 감독 체제의 독일 스키점프팀은 필립 라이문트만 2라운드에 진출했다.",
+      "url": "https://www.welt.de/sport/wintersport/article6b0323dc39a3e8110f0e6e9a/neuer-bundestrainer-deutsche-skispringer-erleben-beim-weltcup-auftakt-ein-debakel.html",
+      "published": "2026-11-23T02:59:29+09:00",
+      "tags": [],
+      "event": "ski-jumping-world-cup-lillehammer",
+      "state_media": false
+    },
+    {
+      "source": "WELT",
+      "title_original": "„Merz ist einer der wenigen Spitzenpolitiker, die verstanden haben, was die Stunde geschlagen hat“",
+      "title_ko": "\"메르츠는 시대 상황을 이해한 몇 안 되는 정치인\"",
+      "summary_ko": "차이트 기자 마리암 라우는 기민·기사연합 안에서 메르츠 총리에 대한 실망이 크지만 외교정책은 여전히 그의 총리직을 뒷받침하는 논거라고 봤다.",
+      "url": "https://www.welt.de/politik/deutschland/article6b0304925842ff528b9e3fac/lau-bei-ronzheimer-merz-ist-einer-der-wenigen-spitzenpolitiker-die-verstanden-haben-was-die-stunde-geschlagen-hat.html",
+      "published": "2026-11-23T02:55:27+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "merz-coalition-criticism",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Statistik: Führt Bürokratieabbau in den wirtschaftlichen Blindflug? Wie Deutschland um die richtige Balance ringt",
+      "title_ko": "통계 관료주의 축소, 경제 깜깜이 비행 초래하나",
+      "summary_ko": "연방정부가 대대적 개혁으로 기업의 통계 보고 의무를 줄이려 하지만, 경제 데이터 기반이 훼손될 수 있다는 우려가 있다.",
+      "url": "https://www.handelsblatt.com/politik/konjunktur/statistik-buerokratieabbau-gegen-oekonomie-wann-wird-es-schaedlich/100267313.html",
+      "published": "2026-11-23T02:08:51+09:00",
+      "tags": [
+        "legislation",
+        "business"
+      ],
+      "event": "statistics-bureaucracy-reform",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Gastkommentar: Europa muss bei der Diversifizierung Druck machen",
+      "title_ko": "기고: 유럽은 공급망 다변화를 밀어붙여야",
+      "summary_ko": "지경학 전문가 토비아스 게르케는 EU가 시장 지배력을 모아 의존도를 낮춰야 하며, 기업의 비용·관료주의 우려에도 다른 방식이 가능하다고 주장한다.",
+      "url": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-europa-muss-bei-der-diversifizierung-druck-machen/100270690.html",
+      "published": "2026-11-23T01:32:53+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "eu-supply-diversification-op-ed",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "USA: US-Unternehmen setzen vermehrt auf „Dynamic Pricing“",
+      "title_ko": "미국 기업, '다이내믹 프라이싱' 확대",
+      "summary_ko": "영화표에서 시니어 주택까지 미국 기업이 동적 가격제를 늘리고 있으나 당국은 개인 고객 데이터 활용을 비판적으로 본다.",
+      "url": "https://www.handelsblatt.com/politik/international/usa-us-unternehmen-setzen-vermehrt-auf-dynamic-pricing/100271873.html",
+      "published": "2026-11-23T01:15:42+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "us-dynamic-pricing",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Kraftstoff: Preisdeckel könnte Sprit 7,5 Cent pro Liter vergünstigen – Höchstpreise würden fast jeden Tag greifen",
+      "title_ko": "연료: 가격상한제로 휘발유 리터당 최대 7.5센트 인하 가능 — 상한가 거의 매일 적용",
+      "summary_ko": "라이헤 경제장관의 새 연료가격 상한제 제안을 한델스블라트가 계산한 결과, 상한가가 특히 특정 시간대에 정기적으로 적용될 것으로 나타났다.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/kraftstoff-preisdeckel-koennte-sprit-bis-zu-75-cent-pro-liter-verguenstigen/100271834.html",
+      "published": "2026-11-23T01:13:17+09:00",
+      "tags": [
+        "legislation",
+        "industry"
+      ],
+      "event": "fuel-price-cap-reiche",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "COP31: Abschlusserklärung „nicht zustimmungsfähig“: Einigung bei Weltklimakonferenz gescheitert",
+      "title_ko": "COP31: 폐막선언 '동의 불가' — 기후회의 합의 결렬",
+      "summary_ko": "화석연료 퇴출을 둘러싼 갈등으로 안탈리아 회의가 2주 만에 폐막선언 없이 끝났다.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/cop31-einigung-bei-weltklimakonferenz-gescheitert/100270720.html",
+      "published": "2026-11-23T01:04:59+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "cop31-antalya-failure",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Märkte Insight: Der unglaubliche Energiehunger der KI-Industrie",
+      "title_ko": "마켓 인사이트: AI 산업의 엄청난 에너지 수요",
+      "summary_ko": "새 보고서가 향후 10년 데이터센터의 막대한 전력 수요를 제시했으며, 필자 야코프 블루메는 투자자가 장비 공급업체에 주목해야 한다고 본다.",
+      "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/maerkte-insight-der-unglaubliche-energiehunger-der-ki-industrie/100269633.html",
+      "published": "2026-11-23T00:19:12+09:00",
+      "tags": [
+        "industry",
+        "stocks",
+        "forecast"
+      ],
+      "event": "ai-datacenter-power-demand",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Geldanlage: Welche Sektoren vom demografischen Wandel profitieren",
+      "title_ko": "자산운용: 인구 고령화로 수혜 보는 업종",
+      "summary_ko": "고령화로 소비 패턴이 바뀌면서 투자자에게 흥미로운 업종들을 소개한다.",
+      "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-welche-sektoren-vom-demografischen-wandel-profitieren/100269798.html",
+      "published": "2026-11-22T23:59:37+09:00",
+      "tags": [
+        "stocks",
+        "forecast"
+      ],
+      "event": "demographic-change-sectors",
+      "state_media": false
+    },
+    {
+      "source": "Handelsblatt",
+      "title_original": "Deep Read: Zehn Wochen vom vertraulichen Brief bis zum Aus: So scheiterte der Milliarden-Plan von BASF",
+      "title_ko": "심층: 비밀 서한에서 무산까지 10주 — BASF 수십억 유로 계획은 이렇게 실패했다",
+      "summary_ko": "BASF 카미트 CEO는 에보닉과 세계적 화학 챔피언을 만들려 했지만 경영진이 정치적 저항을 과소평가했다는 재구성 기사다.",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/basf-und-evonik-der-zerplatzte-traum-vom-deutschen-chemie-champion/100271483.html",
+      "published": "2026-11-22T23:57:27+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "basf-evonik-merger-failure",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Libyen: Explosion auf russischem Schiff – ukrainischer Angriff vermutet",
+      "title_ko": "리비아: 러시아 선박 폭발 — 우크라이나 공격 추정",
+      "summary_ko": "리비아 동부 벵가지 항구에서 러시아 군함에 폭발이 있었고 당국은 드론 공격으로 보고 있다.",
+      "url": "https://www.spiegel.de/ausland/libyen-explosion-auf-russischem-schiff-ukrainischer-angriff-vermutet-a-bc74e064-fd7a-4770-aebd-0d742578cfeb#ref=rss",
+      "published": "2026-11-23T05:41:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "libya-benghazi-russian-ship-explosion",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "ATP Finals: Alexander Zverev verpasst Krönung seines Traumjahres gegen Carlos Alcaraz",
+      "title_ko": "ATP 파이널스: 즈베레프, 알카라스에 막혀 '꿈의 해' 대관식 무산",
+      "summary_ko": "프랑스오픈·US오픈을 제패하고 처음 세계 1위에 오른 즈베레프였지만 알카라스를 상대로 한 승리는 이루지 못했다.",
+      "url": "https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-verpasst-kroenung-seines-traumjahres-gegen-carlos-alcaraz-a-8eff0478-ee60-4c90-bba6-7c36949c79ae#ref=rss",
+      "published": "2026-11-23T04:48:00+09:00",
+      "tags": [],
+      "event": "atp-finals-zverev-alcaraz",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Premier League: Pochettino soll United retten, erlebt 0:4-Debakel in Liverpool",
+      "title_ko": "프리미어리그: 맨유 구원 나선 포체티노, 리버풀 원정 0:4 참패",
+      "summary_ko": "미국 대표팀 감독직을 내려놓고 맨유에 온 포체티노가 첫 경기에서 0:4로 졌으며, 비르츠의 활약도 한몫했다.",
+      "url": "https://www.spiegel.de/sport/fussball/premier-league-pochettino-soll-united-retten-erlebt-0-4-debakel-in-liverpool-a-dba1119d-5a88-4669-b7f3-b5057efb1cc9#ref=rss",
+      "published": "2026-11-23T04:25:00+09:00",
+      "tags": [],
+      "event": "liverpool-manutd-pochettino-debut",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "FC Arsenal: Lisa Baum bricht im Spiel mit Atemnot zusammen",
+      "title_ko": "아스널: 리자 바움, 경기 중 호흡곤란으로 쓰러져",
+      "summary_ko": "상태는 안정적이라고 하지만 독일 선수 리자 바움이 산소마스크를 쓴 채 실려 나가는 장면은 충격적이었다.",
+      "url": "https://www.spiegel.de/sport/fussball/fc-arsenal-lisa-baum-bricht-im-spiel-mit-atemnot-zusammen-a-f95f7696-4847-4505-9f22-ff09f760bee4#ref=rss",
+      "published": "2026-11-23T04:16:00+09:00",
+      "tags": [],
+      "event": "lisa-baum-collapse",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "»Im Verhör«: Korrupte Justiz (3): Wie man sich einen Staatsanwalt kauft - SPIEGEL TV",
+      "title_ko": "'심문 중': 부패한 사법 (3) 검사를 매수하는 법 — 슈피겔 TV",
+      "summary_ko": "마약조직 보스 '코스타'의 조직이 독일 검사를 매수해 하노버 검찰의 감시를 피하는 방법을 알게 됐다는 내용이다.",
+      "url": "https://www.spiegel.de/panorama/justiz/im-verhoer-korrupte-justiz-3-wie-man-sich-einen-staatsanwalt-kauft-spiegel-tv-a-508e2f16-03cb-4944-87cb-67ccba1d98e8#ref=rss",
+      "published": "2026-11-23T04:14:00+09:00",
+      "tags": [],
+      "event": "spiegel-tv-corrupt-prosecutor",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Umgang mit Trauer: Wenn der Friedhof zum Ort für Freundinnen und Feiern wird",
+      "title_ko": "애도의 방식: 묘지가 친구들과 축하하는 장소가 될 때",
+      "summary_ko": "필자가 가까운 친구들과 정기적으로 묘지에서 만나 함께 행복을 느끼는 이유를 다룬 글이다.",
+      "url": "https://www.spiegel.de/psychologie/umgang-mit-trauer-wenn-der-friedhof-zum-ort-fuer-freundinnen-und-feiern-wird-a-c029ae9a-d194-4f77-91c4-281b5bbfb8f3#ref=rss",
+      "published": "2026-11-23T04:13:00+09:00",
+      "tags": [],
+      "event": "grief-cemetery-essay",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Ukraine-Krieg: »Der Ukraine steht der härteste Kriegswinter bevor« – Militärexperte Franz-Stefan Gady",
+      "title_ko": "우크라이나 전쟁: \"우크라이나에 가장 혹독한 전쟁 겨울이 온다\" — 군사전문가 가디",
+      "summary_ko": "우크라이나군이 전술적으로 나아지며 작은 진전을 이루고 있지만, 가디는 막대한 손실에도 러시아의 힘이 아직 소진되지 않았다고 경고했다.",
+      "url": "https://www.spiegel.de/ausland/ukraine-krieg-der-ukraine-steht-der-haerteste-kriegswinter-bevor-militaerexperte-franz-stefan-gady-a-a540c544-b586-4a52-b06a-63b32f4c8233#ref=rss",
+      "published": "2026-11-23T04:13:00+09:00",
+      "tags": [
+        "geopolitics",
+        "forecast"
+      ],
+      "event": "ukraine-war-winter-outlook",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Billy Joel versteigert Motorradsammlung für zwei Millionen Dollar",
+      "title_ko": "빌리 조엘, 오토바이 컬렉션 200만 달러에 경매",
+      "summary_ko": "빌리 조엘이 보유했던 오토바이 중 69대가 자선 경매에 나왔으며 1978년식 트라이엄프 보네빌이 주목받았다.",
+      "url": "https://www.spiegel.de/panorama/leute/billy-joel-versteigert-motorradsammlung-fuer-zwei-millionen-dollar-a-2494a781-6b22-4e11-b34f-451b41a4c23b#ref=rss",
+      "published": "2026-11-23T04:10:00+09:00",
+      "tags": [],
+      "event": "billy-joel-motorcycle-auction",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Streit um Mineralbrunnen: Der Kulturkampf ums Trinkwasser",
+      "title_ko": "생수를 둘러싼 갈등: 식수 문화전쟁",
+      "summary_ko": "독일은 더운 여름과 긴 가뭄 뒤에도 물이 풍부하지만, 누가 어떤 물을 마셔야 하는지는 어느 때보다 논쟁적이다.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mineralwasser-in-deutschland-ein-kulturgut-unter-druck-201275604.html",
+      "published": "2026-11-23T05:53:39+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "mineral-water-debate",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Energiewirtschaft macht Druck: Ein Krisengipfel für die Stromnetze",
+      "title_ko": "에너지업계 압박: 전력망 위기 정상회의 요구",
+      "summary_ko": "데이터센터와 산업체가 전력망 연결을 수년씩 기다리는 가운데 망 사업자들이 연방·주 정부와의 회의를 요구했다.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/stromnetze-bdew-und-vku-fordern-krisengipfel-mit-katherina-reiche-201701678.html",
+      "published": "2026-11-23T05:47:58+09:00",
+      "tags": [
+        "industry",
+        "legislation"
+      ],
+      "event": "power-grid-crisis-summit",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "EU-Annäherung: Burnhams Unterhändler wird auch von Brexiteers respektiert",
+      "title_ko": "EU 관계 개선: 버넘의 협상대표, 브렉시트 찬성파도 인정",
+      "summary_ko": "영국의 EU 관계 개선 수석 협상대표 해미시 팔코너가 짧은 기간에 브렉시트 양측 모두에서 인정을 얻었다.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/burnhams-eu-unterhaendler-falconer-wird-auch-von-brexiteers-respektiert-201703442.html",
+      "published": "2026-11-23T05:46:31+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "uk-eu-rapprochement",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Pilze und Korallen: Ist die Natur nicht selbst eine Künstlerin?",
+      "title_ko": "버섯과 산호: 자연 자체가 예술가인가?",
+      "summary_ko": "호르스트 브레데캄프가 버섯·산호·박테리아까지 포함하도록 예술 개념을 확장한 에세이를 소개한다.",
+      "url": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/pilze-korallen-bakterien-auch-die-natur-kann-kunst-sein-201614718.html",
+      "published": "2026-11-23T05:46:00+09:00",
+      "tags": [],
+      "event": "bredekamp-nature-art-essay",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Empörung im Fall Döpfner: Ihr Steuerflüchtlinge",
+      "title_ko": "되프너 사건에 대한 분노: 너희 조세도피자들",
+      "summary_ko": "되프너 사건은 일관된 개념보다 대중적 발언의 효과가 중시되는 조세정책을 상징한다며 정치권의 행동을 촉구하는 논평이다.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/doepfner-und-die-erbschaftsteuer-wann-handelt-die-politik-201706122.html",
+      "published": "2026-11-23T04:56:55+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "doepfner-inheritance-tax-debate",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Business-Ticker: Hugendubel-Onlineshop nach Hackerangriff weiter nicht erreichbar",
+      "title_ko": "비즈니스 티커: 후겐두벨 온라인숍, 해킹 이후 여전히 접속 불가",
+      "summary_ko": "FT 보도에 따르면 앨리스 황이 칩 밀수업자와 접촉했으며, IT 장애로 미국 델타항공 지연이 발생했다는 등 기업 소식을 전하는 라이브블로그다.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-hugendubel-onlineshop-nach-hackerangriff-weiter-nicht-erreichbar-faz-200452404.html",
+      "published": "2026-11-23T04:49:37+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "hugendubel-cyberattack",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "Neue Uhren: Herbstzeit am Handgelenk",
+      "title_ko": "새 시계: 손목 위의 가을",
+      "summary_ko": "일찍 어두워지는 계절을 맞아 17종의 신상 시계를 소개한다.",
+      "url": "https://www.faz.net/aktuell/neue-uhren-im-herbst-201665593.html",
+      "published": "2026-11-23T04:32:19+09:00",
+      "tags": [],
+      "event": "new-watches-autumn",
+      "state_media": false
+    },
+    {
+      "source": "FAZ",
+      "title_original": "„Hannah Montana“: Miley Cyrus teilt Bilder ihrer Hochzeit",
+      "title_ko": "'한나 몬타나' 마일리 사이러스, 결혼식 사진 공개",
+      "summary_ko": "미국 가수 마일리 사이러스가 드러머 맥스 모란도와 결혼하고 사진을 공유했다.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/miley-cyrus-heiratet-maxx-morando-in-palm-springs-201707506.html",
+      "published": "2026-11-23T04:30:39+09:00",
+      "tags": [],
+      "event": "miley-cyrus-wedding",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Bundespolitik: Wüst weist Söders Forderung zur kalten Progression zurück",
+      "title_ko": "연방정치: 뷔스트, 죌더의 물가연동 소득세 조정 요구 거부",
+      "summary_ko": "바이에른 주총리가 세 부담 증가분의 즉각 보전을 주장했으나 뷔스트 NRW 주총리는 이미 다르게 결정했다고 반박했다.",
+      "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-wuest-soeder-kalte-progression-li.3580621",
+      "published": "2026-11-23T05:10:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "cold-progression-tax-dispute",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Bundesliga: Bremen überrollt den HSV, Augsburg feiert Gregoritsch",
+      "title_ko": "분데스리가: 브레멘, 함부르크 SV 압도 — 아우크스부르크는 그레고리치 환호",
+      "summary_ko": "북부 더비 4:0 승리로 브레멘이 유럽대항전 진출권을 추격했고, 아우크스부르크에서는 감독 퇴장과 그레고리치의 멀티골이 나왔다.",
+      "url": "https://www.sueddeutsche.de/sport/werder-bremen-hsv-nordderby-bundesliga-li.3584474",
+      "published": "2026-11-23T03:41:18+09:00",
+      "tags": [],
+      "event": "bundesliga-nordderby-bremen-hsv",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Women’s Super League: Nationalspielerin Lisa Baum bricht auf dem Platz zusammen",
+      "title_ko": "여자 슈퍼리그: 국가대표 리자 바움, 경기장에서 쓰러져",
+      "summary_ko": "아스널의 리자 바움이 경기 중 호흡곤란으로 쓰러졌고 구단은 다소 안심할 만한 소식을 전했다.",
+      "url": "https://www.sueddeutsche.de/sport/lisa-baum-frauenfussball-zusammenbruch-li.3584471",
+      "published": "2026-11-23T03:10:25+09:00",
+      "tags": [],
+      "event": "lisa-baum-collapse",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Podcast: „Auf den Punkt“: Klimakonferenz gescheitert: Einmalig in der Klima-Diplomatie der vergangenen 20 Jahre",
+      "title_ko": "팟캐스트 '아우프 덴 풍크트': 기후회의 결렬, 지난 20년 기후외교에서 전례 없는 일",
+      "summary_ko": "COP31 협상단이 폐막선언에 합의하지 못했으며, 이것이 오히려 기회가 될 수 있다는 이유를 다룬다.",
+      "url": "https://www.sueddeutsche.de/politik/cop-31-un-klimakonferenz-antalya-2026-klimaschutz-scheitern-analyse-li.3584251",
+      "published": "2026-11-23T00:57:43+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "cop31-antalya-failure",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Debatte um Gehaltsverzicht: Musialas jüngste Absence erklärt Rummenigges kalte Botschaft – rechtfertigt sie aber nicht",
+      "title_ko": "연봉 삭감 논쟁: 무시알라의 최근 부재가 루메니게의 냉정한 메시지를 설명하지만 정당화하진 않는다",
+      "summary_ko": "FC 바이에른이 공개 발언을 통해 무시알라 측 에이전트에게 신호를 보내고 있다는 논평이다.",
+      "url": "https://www.sueddeutsche.de/sport/bayern-musiala-rummenigge-hoeness-kommentar-li.3584241",
+      "published": "2026-11-23T00:02:59+09:00",
+      "tags": [],
+      "event": "bayern-musiala-contract-debate",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "COP31: Klimagipfel endet ohne entscheidenden Beschluss",
+      "title_ko": "COP31: 기후정상회의, 결정적 합의 없이 종료",
+      "summary_ko": "안탈리아에서 공동 노선을 찾지 못했고, 유럽은 기후 문제의 근원조차 언급하지 않은 선언에 반대했다.",
+      "url": "https://www.sueddeutsche.de/politik/cop31-klimagipfel-antalya-fossile-energie-eu-li.3583984",
+      "published": "2026-11-22T23:55:53+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "cop31-antalya-failure",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "AfD in Nordrhein-Westfalen: Wie viel Remigration darf’s denn sein?",
+      "title_ko": "노르트라인베스트팔렌 AfD: '재이주(Remigration)'는 어디까지?",
+      "summary_ko": "주의회 선거를 앞둔 NRW AfD가 급진파의 핵심 개념인 '재이주'를 두고 깊이 분열했으나 전당대회에서 일단 타협했다.",
+      "url": "https://www.sueddeutsche.de/politik/afd-nordrhein-westfalen-martin-vincentz-remigration-parteitag-landtagswahl-li.3581449",
+      "published": "2026-11-22T23:23:38+09:00",
+      "tags": [],
+      "event": "afd-nrw-remigration-dispute",
+      "state_media": false
+    },
+    {
+      "source": "Süddeutsche Zeitung",
+      "title_original": "COP31 in Antalya: Klimakonferenz scheitert an zentralem Abschlusstext",
+      "title_ko": "안탈리아 COP31: 핵심 폐막문 놓고 결렬",
+      "summary_ko": "쿠룸 의장은 아무 결정도 채택되지 않았다고 밝혔으며, EU를 포함한 여러 나라가 화석연료 퇴출 내용이 부족한 '안탈리아 협약'을 거부했다.",
+      "url": "https://www.sueddeutsche.de/politik/cop31-antalya-klimagipfel-einigung-gescheitert-li.3584161",
+      "published": "2026-11-22T22:26:42+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "cop31-antalya-failure",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Captagon, Cannabis, Betäubungsmittel: Syrische Behörden vernichten tonnenweise konfiszierte Drogen",
+      "title_ko": "캡타곤·대마초: 시리아 당국, 압수 마약 수톤 폐기",
+      "summary_ko": "시리아에서 캡타곤 4억 정과 수톤의 다른 마약이 폐기됐으며, 집권 세력은 마약 생산 단속에 나서고 있다.",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/syrien-drogen-captagon-baschar-al-assad",
+      "published": "2026-11-23T05:58:16+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "syria-captagon-destruction",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "»Tatort« Frankfurt am Main: Ich dachte, ich sehe einen Geist",
+      "title_ko": "'타토르트' 프랑크푸르트: 유령을 본 줄 알았다",
+      "summary_ko": "이란 망명자 대상 테러를 주제로 한 프랑크푸르트 '타토르트'를 이번 시즌 걸작으로 평가한 리뷰다.",
+      "url": "https://www.zeit.de/feuilleton/film/2026-11/tatort-frankfurt-ard-4-finger-azadi-kulina-iran",
+      "published": "2026-11-23T05:45:06+09:00",
+      "tags": [],
+      "event": "tatort-frankfurt-4-finger",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "0:1 beim MSV Duisburg: Nach Unterbrechung: Hansa verliert Topspiel in Unterzahl",
+      "title_ko": "MSV 뒤스부르크전 0:1: 경기 중단 후 한자 로스토크, 수적 열세 속 빅매치 패배",
+      "summary_ko": "한자 로스토크가 경기 중단 이후 수적 열세 속에 MSV 뒤스부르크에 0:1로 졌다 (제목 기준)",
+      "url": "https://www.zeit.de/news/2026-11/22/nach-unterbrechung-hansa-verliert-topspiel-in-unterzahl",
+      "published": "2026-11-23T05:38:48+09:00",
+      "tags": [],
+      "event": "hansa-rostock-duisburg",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Drohnenangriffe im Sudan: UN melden Angriff auf Wohngebiet in sudanesischer Hauptstadt",
+      "title_ko": "드론 공격: 유엔, 수단 수도 주거지역 피격 보고",
+      "summary_ko": "하르툼주 주택가에 드론 공격이 보고돼 3명이 숨지고 유엔 시설도 손상됐다.",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/sudan-drohnenangriffe-khartum-armee-rsf-un",
+      "published": "2026-11-23T05:32:04+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "sudan-khartoum-drone-attack-un",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Antisemitismus: Israels Botschafter würdigt Mut von verletzter Aktivistin",
+      "title_ko": "반유대주의: 이스라엘 대사, 부상당한 활동가의 용기 치하",
+      "summary_ko": "이스라엘 대사가 부상당한 활동가의 용기를 치하했다 (제목 기준)",
+      "url": "https://www.zeit.de/news/2026-11/22/israels-botschafter-wuerdigt-mut-von-verletzter-aktivistin",
+      "published": "2026-11-23T05:12:25+09:00",
+      "tags": [],
+      "event": "israel-ambassador-activist",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Kalte Progression: Grüne werfen Söder »öffentliches Lamentieren« vor",
+      "title_ko": "물가연동 소득세 조정: 녹색당, 죌더에 '공개적 푸념' 비판",
+      "summary_ko": "죌더가 물가연동 소득세 조정의 시급한 보전을 요구하자 야당은 연출이라며 신뢰를 잃을 것이라고 경고했다.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/kalte-progression-ausgleich-markus-soeder-britta-hasselmann-gxe",
+      "published": "2026-11-23T05:00:32+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "cold-progression-tax-dispute",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "ATP Finals im Tennis: Keine Krönung: Zverev mit Final-Pleite gegen Alcaraz",
+      "title_ko": "ATP 파이널스: 즈베레프, 알카라스에 결승 패배로 우승 무산",
+      "summary_ko": "즈베레프가 ATP 파이널스 결승에서 알카라스에게 졌다 (제목 기준)",
+      "url": "https://www.zeit.de/news/2026-11/22/keine-kroenung-zverev-mit-final-pleite-gegen-alcaraz",
+      "published": "2026-11-23T04:56:54+09:00",
+      "tags": [],
+      "event": "atp-finals-zverev-alcaraz",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "ATP Finals: Alexander Zverev verpasst dritten Titel bei ATP Finals",
+      "title_ko": "ATP 파이널스: 즈베레프, 세 번째 우승 놓쳐",
+      "summary_ko": "알카라스가 결승에서 즈베레프를 이겼으며, 실책이 많았던 즈베레프는 좌절감에 라켓을 내던졌다.",
+      "url": "https://www.zeit.de/sport/2026-11/atp-finals-finale-alexander-zverev-carlos-alcaraz-turin",
+      "published": "2026-11-23T04:56:50+09:00",
+      "tags": [],
+      "event": "atp-finals-zverev-alcaraz",
+      "state_media": false
+    }
+  ],
+  "events": [
+    {
+      "event": "atp-finals-zverev-alcaraz",
+      "title_ko": "테니스: 알카라스에 막혀 즈베레프, ATP 파이널스 우승 놓쳐",
+      "sources": [
+        "ARD Tagesschau",
+        "ZDF heute",
+        "n-tv",
+        "WELT",
+        "Der Spiegel",
+        "Die Zeit"
+      ],
+      "count": 7
+    },
+    {
+      "event": "cop31-antalya-failure",
+      "title_ko": "COP31, 취약국 지원과 화석연료 퇴출 방식을 두고 결렬",
+      "sources": [
+        "Deutsche Welle",
+        "Handelsblatt",
+        "Süddeutsche Zeitung"
+      ],
+      "count": 6
+    },
+    {
+      "event": "cold-progression-tax-dispute",
+      "title_ko": "뷔스트, 죌더 제안에 \"현실을 인정해야\"",
+      "sources": [
+        "ZDF heute",
+        "n-tv",
+        "WELT",
+        "Süddeutsche Zeitung",
+        "Die Zeit"
+      ],
+      "count": 5
+    },
+    {
+      "event": "bundesliga-nordderby-bremen-hsv",
+      "title_ko": "브레멘, 북부 더비에서 함부르크 SV에 완승",
+      "sources": [
+        "ARD Tagesschau",
+        "ZDF heute",
+        "n-tv",
+        "Süddeutsche Zeitung"
+      ],
+      "count": 4
+    },
+    {
+      "event": "lisa-baum-collapse",
+      "title_ko": "리자 바움 '안정': 독일 대표 선수, 산소마스크 쓴 채 실려 나가",
+      "sources": [
+        "n-tv",
+        "WELT",
+        "Der Spiegel",
+        "Süddeutsche Zeitung"
+      ],
+      "count": 4
+    },
+    {
+      "event": "liverpool-manutd-pochettino-debut",
+      "title_ko": "시즌 최다 점수차 패배: 비르츠, 포체티노의 맨유 데뷔전을 참사로",
+      "sources": [
+        "n-tv",
+        "WELT",
+        "Der Spiegel"
+      ],
+      "count": 3
+    },
+    {
+      "event": "sparta-ii-baltic-drone-attack",
+      "title_ko": "드론 공격 후 '스파르타 II', 러시아 해역으로 예인",
+      "sources": [
+        "ARD Tagesschau",
+        "ZDF heute"
+      ],
+      "count": 2
+    },
+    {
+      "event": "merz-coalition-criticism",
+      "title_ko": "기민·기사연합 내 메르츠 비판 확산",
+      "sources": [
+        "ZDF heute",
+        "WELT"
+      ],
+      "count": 2
+    },
+    {
+      "event": "tatort-frankfurt-4-finger",
+      "title_ko": "'타토르트' 프랑크푸르트 편, 또 하나의 뜨거운 미제사건",
+      "sources": [
+        "n-tv",
+        "Die Zeit"
+      ],
+      "count": 2
+    },
+    {
+      "event": "miley-cyrus-wedding",
+      "title_ko": "마일리 사이러스, 드러머와 재혼",
+      "sources": [
+        "n-tv",
+        "FAZ"
+      ],
+      "count": 2
+    },
+    {
+      "event": "sudan-khartoum-drone-attack-un",
+      "title_ko": "\"용납 불가\" — 드론 공격으로 유엔 건물 피해",
+      "sources": [
+        "WELT",
+        "Die Zeit"
+      ],
+      "count": 2
+    },
+    {
+      "event": "tagesschau-100-sekunden",
+      "title_ko": "타게스샤우 100초 뉴스",
+      "sources": [
+        "ARD Tagesschau"
+      ],
+      "count": 1
+    },
+    {
+      "event": "tagesschau-20-uhr-bulletin",
+      "title_ko": "타게스샤우 20시 뉴스",
+      "sources": [
+        "ARD Tagesschau"
+      ],
+      "count": 1
+    },
+    {
+      "event": "bvb-nmecha-controversy",
+      "title_ko": "BVB 대표 크라머, 은메차 사건으로 야유 받아",
+      "sources": [
+        "ARD Tagesschau"
+      ],
+      "count": 1
+    },
+    {
+      "event": "tagesschau-gebaerdensprache",
+      "title_ko": "수어 타게스샤우",
+      "sources": [
+        "ARD Tagesschau"
+      ],
+      "count": 1
+    },
+    {
+      "event": "specialist-appointment-paid-proposal",
+      "title_ko": "TK 대표 바스: 돈을 더 내도 진료 예약은 늘지 않는다",
+      "sources": [
+        "ARD Tagesschau"
+      ],
+      "count": 1
+    },
+    {
+      "event": "madrid-christmas-opening",
+      "title_ko": "크리스마스 시즌 공식 개막",
+      "sources": [
+        "ZDF heute"
+      ],
+      "count": 1
+    },
+    {
+      "event": "middle-east-iran-war-liveblog",
+      "title_ko": "이란 전쟁·중동 분쟁: 라이브블로그 종합",
+      "sources": [
+        "ZDF heute"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ukraine-war-liveblog",
+      "title_ko": "우크라이나 전쟁 최신 소식",
+      "sources": [
+        "ZDF heute"
+      ],
+      "count": 1
+    },
+    {
+      "event": "russia-child-abduction-feature",
+      "title_ko": "전쟁 무기로서의 아동 납치: 히틀러의 유산, 푸틴의 체제",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "femicide-murder-law-reform",
+      "title_ko": "독일, 페미사이드 대응 강화 추진",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "eu-indonesia-trade-agreement",
+      "title_ko": "EU·인도네시아, 무역협정 체결",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "russia-rosenfeld-navalny-donation",
+      "title_ko": "나발니 후원 이유로 러시아 조류학자 수감",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "us-it-outages",
+      "title_ko": "미국 IT 장애: 시스템 오류와 예산 삭감 사이",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "germany-rwanda-deportation-deal",
+      "title_ko": "콩고, 독일-르완다 추방 협정 계획에 반발",
+      "sources": [
+        "Deutsche Welle"
+      ],
+      "count": 1
+    },
+    {
+      "event": "iraq-is-fighter-trials",
+      "title_ko": "EU 시민 포함: 이라크서 IS 가담 혐의자 재판 시작",
+      "sources": [
+        "n-tv"
+      ],
+      "count": 1
+    },
+    {
+      "event": "left-party-housing-socialization",
+      "title_ko": "\"시장이 해결한다는 믿음은 실증적으로 실패\" — 좌파당 정치인 라이",
+      "sources": [
+        "WELT"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ski-jumping-world-cup-lillehammer",
+      "title_ko": "독일 스키점프, 월드컵 개막전에서 참패",
+      "sources": [
+        "WELT"
+      ],
+      "count": 1
+    },
+    {
+      "event": "statistics-bureaucracy-reform",
+      "title_ko": "통계 관료주의 축소, 경제 깜깜이 비행 초래하나",
+      "sources": [
+        "Handelsblatt"
+      ],
+      "count": 1
+    },
+    {
+      "event": "eu-supply-diversification-op-ed",
+      "title_ko": "기고: 유럽은 공급망 다변화를 밀어붙여야",
+      "sources": [
+        "Handelsblatt"
+      ],
+      "count": 1
+    },
+    {
+      "event": "us-dynamic-pricing",
+      "title_ko": "미국 기업, '다이내믹 프라이싱' 확대",
+      "sources": [
+        "Handelsblatt"
+      ],
+      "count": 1
+    },
+    {
+      "event": "fuel-price-cap-reiche",
+      "title_ko": "연료: 가격상한제로 휘발유 리터당 최대 7.5센트 인하 가능 — 상한가 거의 매일 적용",
+      "sources": [
+        "Handelsblatt"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ai-datacenter-power-demand",
+      "title_ko": "마켓 인사이트: AI 산업의 엄청난 에너지 수요",
+      "sources": [
+        "Handelsblatt"
+      ],
+      "count": 1
+    },
+    {
+      "event": "demographic-change-sectors",
+      "title_ko": "자산운용: 인구 고령화로 수혜 보는 업종",
+      "sources": [
+        "Handelsblatt"
+      ],
+      "count": 1
+    },
+    {
+      "event": "basf-evonik-merger-failure",
+      "title_ko": "심층: 비밀 서한에서 무산까지 10주 — BASF 수십억 유로 계획은 이렇게 실패했다",
+      "sources": [
+        "Handelsblatt"
+      ],
+      "count": 1
+    },
+    {
+      "event": "libya-benghazi-russian-ship-explosion",
+      "title_ko": "리비아: 러시아 선박 폭발 — 우크라이나 공격 추정",
+      "sources": [
+        "Der Spiegel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "spiegel-tv-corrupt-prosecutor",
+      "title_ko": "'심문 중': 부패한 사법 (3) 검사를 매수하는 법 — 슈피겔 TV",
+      "sources": [
+        "Der Spiegel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "grief-cemetery-essay",
+      "title_ko": "애도의 방식: 묘지가 친구들과 축하하는 장소가 될 때",
+      "sources": [
+        "Der Spiegel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ukraine-war-winter-outlook",
+      "title_ko": "우크라이나 전쟁: \"우크라이나에 가장 혹독한 전쟁 겨울이 온다\" — 군사전문가 가디",
+      "sources": [
+        "Der Spiegel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "billy-joel-motorcycle-auction",
+      "title_ko": "빌리 조엘, 오토바이 컬렉션 200만 달러에 경매",
+      "sources": [
+        "Der Spiegel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "mineral-water-debate",
+      "title_ko": "생수를 둘러싼 갈등: 식수 문화전쟁",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "power-grid-crisis-summit",
+      "title_ko": "에너지업계 압박: 전력망 위기 정상회의 요구",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "uk-eu-rapprochement",
+      "title_ko": "EU 관계 개선: 버넘의 협상대표, 브렉시트 찬성파도 인정",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "bredekamp-nature-art-essay",
+      "title_ko": "버섯과 산호: 자연 자체가 예술가인가?",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "doepfner-inheritance-tax-debate",
+      "title_ko": "되프너 사건에 대한 분노: 너희 조세도피자들",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "hugendubel-cyberattack",
+      "title_ko": "비즈니스 티커: 후겐두벨 온라인숍, 해킹 이후 여전히 접속 불가",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "new-watches-autumn",
+      "title_ko": "새 시계: 손목 위의 가을",
+      "sources": [
+        "FAZ"
+      ],
+      "count": 1
+    },
+    {
+      "event": "bayern-musiala-contract-debate",
+      "title_ko": "연봉 삭감 논쟁: 무시알라의 최근 부재가 루메니게의 냉정한 메시지를 설명하지만 정당화하진 않는다",
+      "sources": [
+        "Süddeutsche Zeitung"
+      ],
+      "count": 1
+    },
+    {
+      "event": "afd-nrw-remigration-dispute",
+      "title_ko": "노르트라인베스트팔렌 AfD: '재이주(Remigration)'는 어디까지?",
+      "sources": [
+        "Süddeutsche Zeitung"
+      ],
+      "count": 1
+    },
+    {
+      "event": "syria-captagon-destruction",
+      "title_ko": "캡타곤·대마초: 시리아 당국, 압수 마약 수톤 폐기",
+      "sources": [
+        "Die Zeit"
+      ],
+      "count": 1
+    },
+    {
+      "event": "hansa-rostock-duisburg",
+      "title_ko": "MSV 뒤스부르크전 0:1: 경기 중단 후 한자 로스토크, 수적 열세 속 빅매치 패배",
+      "sources": [
+        "Die Zeit"
+      ],
+      "count": 1
+    },
+    {
+      "event": "israel-ambassador-activist",
+      "title_ko": "반유대주의: 이스라엘 대사, 부상당한 활동가의 용기 치하",
+      "sources": [
+        "Die Zeit"
+      ],
+      "count": 1
+    }
+  ],
+  "unavailable_sources": []
+}
