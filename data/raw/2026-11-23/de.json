@@ -1,14 +1,59 @@
 {
   "team": "de",
   "team_name_ko": "독일팀",
-  "collected_at": "2026-11-23T06:13:04.625980+09:00",
+  "collected_at": "2026-11-23T09:29:43.715009+09:00",
   "headlines": [
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "FC Augsburgs Befreiungsschlag verschärft Krise von Mainz 05",
+      "summary_original": "Der FC Augsburg hat in der Bundesliga trotz einer Roten Karte für Trainer Baum erstmals seit dem zweiten Spieltag wieder gewonnen. Der 3:1-Sieg verschärft die Krise des 1. FSV Mainz 05.",
+      "url": "https://www.sportschau.de/fussball/bundesliga/augsburger-befreiungsschlag-verschaerft-mainzer-krise,spielbericht-fc-augsburg-mainz-05-100.html",
+      "published": "2026-11-23T08:00:09+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "BVB holt sich mit 1:0-Sieg in Mönchengladbach die Tabellenführung",
+      "summary_original": "Der BVB ist neuer Tabellenführer der Fußball-Bundesliga. Beim hart erkämpften Auswärtssieg bei Borussia Mönchengladbach profitierten die Schwarz-Gelben ausgerechnet von einem Patzer des bis dahin überragenden Gladbacher Torhüters.",
+      "url": "https://www.sportschau.de/regional/wdr/wdr-bvb-holt-sich-in-moenchengladbach-die-tabellenfuehrung-100.html",
+      "published": "2026-11-23T08:00:08+09:00",
+      "via": "rss",
+      "state_media": false
+    },
     {
       "source": "ARD Tagesschau",
       "title_original": "Bremen schlägt den HSV im Nordderby klar",
       "summary_original": "Werder Bremen bleibt die Bundesliga-Überraschung. Mit einem deutlichen 4:0-Erfolg im Nordderby gegen den Hamburger SV halten die Grün-Weißen den Anschluss an die Spitzengruppe.",
       "url": "https://www.sportschau.de/fussball/bundesliga/bremen-haemmert-hsv-im-nordderby-weg,spielbericht-werder-bremen-hamburger-sv-104.html",
-      "published": "2026-11-23T05:07:14+09:00",
+      "published": "2026-11-23T08:00:04+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Regierungskoalition diskutiert weiterhin über die Rentenreform",
+      "summary_original": "Regierungskoalition diskutiert weiterhin über die Rentenreform",
+      "url": "https://www.tagesschau.de/tagesthemen/video-1688220.html",
+      "published": "2026-11-23T07:01:22+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "Die Meinung von Janina Schreiber, SWR, zum Scheitern der Weltklimakonferenz",
+      "summary_original": "Die Meinung von Janina Schreiber, SWR, zum Scheitern der Weltklimakonferenz",
+      "url": "https://www.tagesschau.de/tagesthemen/video-1688218.html",
+      "published": "2026-11-23T06:57:58+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ARD Tagesschau",
+      "title_original": "COP31 ohne Abschlusserklärung: Was haben die Klimakonferenzen seit 2015 gebracht?",
+      "summary_original": "COP31 ohne Abschlusserklärung: Was haben die Klimakonferenzen seit 2015 gebracht?",
+      "url": "https://www.tagesschau.de/tagesthemen/video-1688216.html",
+      "published": "2026-11-23T06:56:45+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -31,65 +76,11 @@
       "state_media": false
     },
     {
-      "source": "ARD Tagesschau",
-      "title_original": "Buhrufe und Pfiffe gegen BVB-Boss Cramer wegen Fall Nmecha",
-      "summary_original": "Der religiös motivierte Kronen-Jubel von BVB-Fußballer Nmecha hat für Diskussionen gesorgt. Bei der Mitgliederversammlung des Vereins äußerte sich Geschäftsführer Cramer nur indirekt. Nmecha sei ein \"tadelloser Mensch\". Dafür gab es einige Buhrufe.",
-      "url": "https://www.tagesschau.de/sport/mitgliederversammlung-bvb-fall-nmecha-100.html",
-      "published": "2026-11-23T04:58:18+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ARD Tagesschau",
-      "title_original": "Nach Drohnenangriff: \"Sparta II\" wird in russische Gewässer geschleppt",
-      "summary_original": "Am Samstag war der russische Frachter \"Sparta II\" in der Ostsee von einer Drohne getroffen worden und in Brand geraten. Laut finnischem Grenzschutz hat das Schiff Schlagseite, kann aber in russische Gewässer geschleppt werden.",
-      "url": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-102.html",
-      "published": "2026-11-23T04:53:03+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ARD Tagesschau",
-      "title_original": "Tennis: Alcaraz zu stark - Zverev verpasst Titel bei ATP Finals",
-      "summary_original": "Nichts zu holen gegen Carlos Alcaraz: Alexander Zverev hat das Endspiel bei den ATP Finals verloren. Dabei war das Match zu Beginn deutlich, zum Ende hochspannend.",
-      "url": "https://www.sportschau.de/tennis/atp/zverev-verpasst-finals-titel,finale-zverev-alcaraz-100.html",
-      "published": "2026-11-23T04:31:47+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ARD Tagesschau",
-      "title_original": "tagesschau mit Gebärdensprache",
-      "summary_original": "tagesschau mit Gebärdensprache",
-      "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12388.html",
-      "published": "2026-11-23T04:30:04+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ARD Tagesschau",
-      "title_original": "TK-Chef Baas: Mehr Geld schafft keine Arzttermine",
-      "summary_original": "Schneller zum Facharzt gegen Bezahlung? Die Einschätzung von Kassenärzte-Chef Gassen hat Kritik ausgelöst. Mehr Geld löse das Problem nicht, sagt TK-Chef Baas im Bericht aus Berlin - und fordert stattdessen ein grundlegend neues System.",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-arzttermine-baas-100.html",
-      "published": "2026-11-23T04:24:22+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
       "source": "ZDF heute",
-      "title_original": "Weihnachtszeit offiziell eingeläutet",
-      "summary_original": "Mehr als 14 Millionen LED-Lichter, 500 Drohnen und ein Feuerwerk: Madrid hat die Weihnachtszeit mit einer spektakulären Zeremonie vor 150.000 Zuschauern eröffnet.",
-      "url": "https://www.zdfheute.de/video/weihnachten-madrid-spanien-100.html",
-      "published": "2026-11-23T05:18:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "ZDF heute",
-      "title_original": "Wüst zu Söder-Vorschlag: Müssen \"die Realität anerkennen\"",
-      "summary_original": "Nordrhein-Westfalens Ministerpräsident Wüst verteidigt im ZDF die Entscheidung für eine Stromsteuersenkung. Die kalte Progression sei \"nicht das Mittel der Wahl\" gewesen, sagt er.",
-      "url": "https://www.zdfheute.de/politik/deutschland/hendrik-wuest-cdu-koalition-stromsteuer-ukraine-100.html",
-      "published": "2026-11-23T04:58:00+09:00",
+      "title_original": "Demokraten im Repräsentantenhaus so stark wie zuletzt 1992",
+      "summary_original": "Die US-Demokraten werden ab Januar sowohl das Repräsentantenhaus als auch den Senat kontrollieren. Damit könnte sich erheblicher Widerstand gegen Präsident Donald Trump bilden.",
+      "url": "https://www.zdfheute.de/politik/ausland/usa-demokraten-repraesentantenhaus-midterms-wahl-100.html",
+      "published": "2026-11-23T09:25:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -98,52 +89,61 @@
       "title_original": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
       "summary_original": "Die Lage in Nahost ist weiter angespannt - es kommt immer wieder zu Angriffen. Im Westjordanland spitzt sich die Situation zu. Alle Entwicklungen im Liveblog.",
       "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
-      "published": "2026-11-23T04:56:00+09:00",
+      "published": "2026-11-23T09:16:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "ZDF heute",
-      "title_original": "Frachtschiff \"Sparta II\" in russische Gewässer geschleppt",
-      "summary_original": "Nach einem ukrainischen Drohnenangriff wird der Frachter \"Sparta II\" in russische Gewässer geschleppt. Finnlands Regierungschef Orpo warnt vor dem Überschwappen des Krieges.",
-      "url": "https://www.zdfheute.de/politik/ausland/frachtschiff-abgeschleppt-ukraine-krieg-russland-100.html",
-      "published": "2026-11-23T04:29:00+09:00",
+      "title_original": "Bitterer Abend für den FC Bayern gegen Köln",
+      "summary_original": "Der FC Bayern im Pech: Gegen den 1. FC Köln reicht es zuhause nur zu einem Punkt. Viel schwerer wiegen aber die Verletzungen von Harry Kane und Michael Olise.",
+      "url": "https://www.zdfheute.de/sport/fussball-bundesliga/video/fc-bayern-muenchen-1-fc-koeln-saison-2026-27-100.html",
+      "published": "2026-11-23T08:00:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "ZDF heute",
-      "title_original": "Zverev unterliegt überragendem Alcaraz",
-      "summary_original": "Alexander Zverev hat einen weiteren großen Titel im Jahr 2026 verpasst. Der 29-Jährige verlor das Endspiel der ATP Finals gegen Carlos Alcaraz klar.",
-      "url": "https://www.zdfheute.de/sport/tennis-atp-finals-turin-endspiel-zverev-alcaraz-100.html",
-      "published": "2026-11-23T04:16:00+09:00",
+      "title_original": "Werder vermöbelt HSV im Nordderby",
+      "summary_original": "Werder geht als klarer Sieger aus dem Nordderby und erteilt dem HSV dabei eine Lehrstunde. Und nicht nur das: Beim souveränen Erfolg ist ein Treffer schöner als der andere.",
+      "url": "https://www.zdfheute.de/sport/fussball-bundesliga/video/werder-bremen-hamburger-sv-saison-2026-27-100.html",
+      "published": "2026-11-23T08:00:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "ZDF heute",
-      "title_original": "Njinmah zweifach: Bremen gewinnt hitziges Nordderby",
-      "summary_original": "Der SV Werder Bremen hat das Nordderby gegen den HSV gewonnen. Mann des Tages war Justin Njinmah mit zwei erzielten Treffern.",
-      "url": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-sv-werder-bremen-hamburger-sv-tore-ergebnis-26-27-100.html",
-      "published": "2026-11-23T03:54:00+09:00",
+      "title_original": "Batz-Patzer verhilft BVB zum Sieg in Gladbach",
+      "summary_original": "Borussia Dortmund ist neuer Tabellenführer der Bundesliga. Mit dem knappen Erfolg in Mönchengladbach zieht der BVB an den Bayern vorbei. Zum Sieg verhilft ein Torwart-Fehler.",
+      "url": "https://www.zdfheute.de/sport/fussball-bundesliga/video/borussia-moenchengladbach-borussia-dortmund-saison-2026-27-100.html",
+      "published": "2026-11-23T08:00:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "ZDF heute",
-      "title_original": "Aktuelles zum Krieg in der Ukraine",
-      "summary_original": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
-      "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
-      "published": "2026-11-23T03:33:00+09:00",
+      "title_original": "Leipzig zeigt Union die Grenzen auf",
+      "summary_original": "Rasenballsport Leipzig legt bei Union Berlin einen beeindruckenden Auftritt hin. Ein Strafstoß bricht den Bann, dann zerlegen die Leipziger das Heimteam in seine Einzelteile.",
+      "url": "https://www.zdfheute.de/sport/fussball-bundesliga/video/union-berlin-rasenballsport-leipzig-saison-2026-27-100.html",
+      "published": "2026-11-23T08:00:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "ZDF heute",
-      "title_original": "Union: Wachsende Kritik an Merz",
-      "summary_original": "Auch nach der Einigung auf eine Stromsteuersenkung für 2027 kommt Schwarz-Rot in Berlin nicht zur Ruhe. In der Union brodelt es weiter. Kritik gibt es an den Maßnahmen und am Kanzler.",
-      "url": "https://www.zdfheute.de/video/berlin-direkt/merz-kritik-union-spd-streit-haushalt-stromsteuersenkung-100.html",
-      "published": "2026-11-23T03:10:00+09:00",
+      "title_original": "Schalkes Torhymne bleibt auch gegen VfB stumm",
+      "summary_original": "Schalke-Fans müssen weiter auf den ersten Heimtreffer ihres Teams warten. Beim Remis gegen den VfB zeigt S04 eine reife Leistung, lässt aber wieder gute Chancen ungenutzt.",
+      "url": "https://www.zdfheute.de/sport/fussball-bundesliga/video/fc-schalke-04-vfb-stuttgart-saison-2026-27-100.html",
+      "published": "2026-11-23T08:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ZDF heute",
+      "title_original": "Leverkusen nimmt SC Paderborn auseinander",
+      "summary_original": "Bayer Leverkusen fährt einen deutlichen Sieg gegen den SC Paderborn ein. Der Aufsteiger ist dabei komplett chancenlos. Bayer-Stürmer Patrik Schick stellt einen Klub-Rekord auf.",
+      "url": "https://www.zdfheute.de/sport/fussball-bundesliga/video/bayer-leverkusen-sc-paderborn-saison-2026-27-100.html",
+      "published": "2026-11-23T08:00:00+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -221,6 +221,69 @@
     },
     {
       "source": "n-tv",
+      "title_original": "Streit um kalte Progression: SPD-Haushälter erklärt Söder-Vorstoß für chancenlos",
+      "summary_original": "Eigentlich ist keiner dafür, dass Lohnerhöhungen der Bürger über die kalte Progression beim Staat landen. CSU-Chef Söder tadelt das kurz vor der Verabschiedung des Etats. Aus der SPD kommt Gegenwind.",
+      "url": "https://www.n-tv.de/politik/SPD-Haushaelter-erklaert-Soeder-Vorstoss-fuer-chancenlos-id31564763.html",
+      "published": "2026-11-23T09:23:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Bild \"zu intim\"? : Tallulah Willis löscht Foto mit Bruce Willis und gelobt Besserung",
+      "summary_original": "Tallulah Willis hatte am Samstag ein Foto mit ihrem Vater Bruce Willis geteilt. Inzwischen ist der Beitrag verschwunden, und die Tochter meldet sich mit einer selbstkritischen Erklärung bei ihren Followern. Viele reagieren darauf mit Nachsicht.",
+      "url": "https://www.n-tv.de/leute/Tallulah-Willis-loescht-Foto-mit-Bruce-Willis-und-gelobt-Besserung-id31564754.html",
+      "published": "2026-11-23T08:41:05+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Thanksgiving-Teams sind heiß: Cowboys schreiben Geschichte, Taylor Swift jubelt doppelt",
+      "summary_original": "Die kommende Woche steht in der NFL ganz im Zeichen von Thanksgiving. Gleich drei Spiele finden am Donnerstag statt und alle Teams reisen mit Rückenwind an, denn alle haben am Sonntag davor gewonnen, teils sogar mit historischen Leistungen.",
+      "url": "https://www.n-tv.de/sport/nfl/Cowboys-schreiben-Geschichte-Taylor-Swift-jubelt-doppelt-id31564758.html",
+      "published": "2026-11-23T08:02:08+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "\"SPD braucht Politikwechsel\": Gabriel stärkt Klingbeil und gibt Heil einen mit",
+      "summary_original": "Der langjährige SPD-Chef Gabriel mischt sich in die Führungsdebatte seiner Partei ein. Dass in Krisenzeiten gegen Klingbeil agitiert werde, schaffe ein Machtvakuum. Der Kandidatur von Heil kann der Sozialdemokrat gar nichts Gutes abgewinnen. Der sei hauptverantwortlich für die Misere.",
+      "url": "https://www.n-tv.de/politik/Gabriel-staerkt-Klingbeil-und-gibt-Heil-einen-mit-id31564676.html",
+      "published": "2026-11-23T08:01:10+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Ukrainischer Drohnenangriff?: Russisches Kriegsschiff sinkt nach Explosion in libyschem Hafen",
+      "summary_original": "Eine Explosion im Hafen von Bengasi alarmiert die libysche Regierung. Ein russisches Kriegsschiff ist gesunken, nachdem es wohl von ukrainischen Seedrohen getroffen wurde. Eine offizielle Bestätigung gibt es nicht.",
+      "url": "https://www.n-tv.de/politik/Russisches-Kriegsschiff-sinkt-nach-Explosion-in-libyschem-Hafen-id31564737.html",
+      "published": "2026-11-23T07:34:50+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Für seine Zeit als König: Will Prinz William seinem Bruder Harry den Titel streichen?",
+      "summary_original": "Ein Royal-Experte will erfahren haben, wie Prinz William die Monarchie umbauen möchte, sobald er den Thron von Vater Charles übernimmt. Für seinen Bruder Harry und dessen Familie hätten die Pläne weitreichende Folgen. Aber auch Williams eigene Kinder wären womöglich betroffen.",
+      "url": "https://www.n-tv.de/leute/Will-Prinz-William-seinem-Bruder-Harry-den-Titel-streichen-id31564728.html",
+      "published": "2026-11-23T07:18:49+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
+      "title_original": "Hodges sieht Lücken: Ex-US-General hält Nato nicht gewappnet für russischen Luftkrieg",
+      "summary_original": "Für einen möglichen russischen Angriffskrieg sieht der frühere US-General Hodges die Nato schlecht aufgestellt. Der Ex-Militär warnt vor allem vor Attacken auf Häfen, Bahnstrecken und Brücken. Zudem mangele es an Flugabwehrmunition.",
+      "url": "https://www.n-tv.de/politik/Ex-US-General-haelt-Nato-nicht-gewappnet-fuer-russischen-Luftkrieg-id31564659.html",
+      "published": "2026-11-23T06:36:19+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "n-tv",
       "title_original": "\"Tatort\": Die ganze Wahrheit: Schon wieder ein heißer Cold Case aus Frankfurt",
       "summary_original": "Ein iranischer Bombenleger, der nach fast 30 Jahren plötzlich wieder durch Frankfurt läuft - und eine Kommissarin, die ihren Kollegen etwas verheimlicht: Mit \"4 Finger\" wagt sich der Frankfurter \"Tatort\" an einen lupenreinen Politthriller. Ob das Konzept aufgeht?",
       "url": "https://www.n-tv.de/leute/tv/Schon-wieder-ein-heisser-Cold-Case-aus-Frankfurt-id31547797.html",
@@ -229,65 +292,29 @@
       "state_media": false
     },
     {
-      "source": "n-tv",
-      "title_original": "Hochzeit mit Schlagzeuger: Miley Cyrus ist wieder unter der Haube",
-      "summary_original": "Miley Cyrus teilt auf Instagram Eindrücke ihrer Trauung mit Maxx Morando. Umgeben von Rosen zeigt sich das Paar in Palm Springs. Prominente Gäste und ein besonderer Ort machen die Feier komplett.",
-      "url": "https://www.n-tv.de/leute/Miley-Cyrus-ist-wieder-unter-der-Haube-id31564616.html",
-      "published": "2026-11-23T05:33:48+09:00",
+      "source": "WELT",
+      "title_original": "Gerwyn Price gewinnt den Grand Slam und setzt eine Spitze gegen Littler und Humphries",
+      "summary_original": "Fünf Jahre hatte Gerwyn Price auf einen großen Einzeltitel gewartet. Nun beendete er die Durststrecke bei seinem Lieblingsturnier. Fünf Highfinishs und sechs Legs in Folge legten den Grundstein zum Sieg über Gian van Veen.",
+      "url": "https://www.welt.de/sport/darts/article6b03451839a3e8110f0e70ca/darts-gerwyn-price-gewinnt-den-grand-slam-und-setzt-eine-spitze-gegen-littler-und-humphries.html",
+      "published": "2026-11-23T06:41:44+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "n-tv",
-      "title_original": "Streit um kalte Progression: Söder erhält bei Steuerforderung Zuspruch von den Grünen",
-      "summary_original": "Markus Söder dringt auf weitere Entlastungen für Steuerzahler. Aus Baden-Württemberg kommt dafür Unterstützung, allerdings verbunden mit deutlicher Kritik an der bisherigen Ausgabenpolitik der Union.",
-      "url": "https://www.n-tv.de/politik/Soeder-erhaelt-bei-Steuerforderung-Zuspruch-von-den-Gruenen-id31564614.html",
-      "published": "2026-11-23T04:48:10+09:00",
+      "source": "WELT",
+      "title_original": "Israels Botschafter würdigt Mut von verletzter Aktivistin und FDP‑Politikerin Preisler",
+      "summary_original": "Israels Botschafter Ron Prosor dankt der verletzten FDP-Politikerin Karoline Preisler für ihren Einsatz gegen Judenhass. Eine Demonstrationsteilnehmerin wurde nach dem Angriff festgenommen.",
+      "url": "https://www.welt.de/vermischtes/kriminalitaet/article6b035c170e350969f7b71391/ron-prosor-israels-botschafter-wuerdigt-mut-von-verletzter-aktivistin-und-fdppolitikerin-preisler.html",
+      "published": "2026-11-23T06:30:52+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "n-tv",
-      "title_original": "Alcaraz gnadenlos: Zverevs schmerzhafter Kampf wird nicht belohnt",
-      "summary_original": "Lange sieht es so aus, als würde Alexander Zverev im Endspiel der ATP Finals gegen Carlos Alcaraz furchtbar untergehen. Dann aber kämpft sich der Deutsche zurück ins Match. In der entscheidenden Phase wird Zverev von Schmerzen geplagt, erkämpft sich trotzdem Satzbälle - doch am Ende gewinnt Alcaraz.",
-      "url": "https://www.n-tv.de/sport/tennis/Zverevs-schmerzhafter-Kampf-wird-nicht-belohnt-id31564607.html",
-      "published": "2026-11-23T04:17:38+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "n-tv",
-      "title_original": "Höchste Saisonpleite: Wirtz macht Pochettinos United-Debüt zum Desaster",
-      "summary_original": "Mauricio Pochettino soll den Absturz von Manchester United aufhalten. Zum Start seiner Mission kassiert der Argentinier allerdings erst mal die höchste Pleite der Saison - und das auch noch gegen den Erzrivalen. Der deutsche Nationalspieler Florian Wirtz hilft beim Desaster kräftig mit.",
-      "url": "https://www.n-tv.de/sport/fussball/Wirtz-macht-Pochettinos-United-Debuet-zum-Desaster-id31564562.html",
-      "published": "2026-11-23T03:58:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "n-tv",
-      "title_original": "Auch EU-Bürger darunter: Prozesse um mutmaßliche IS-Kämpfer beginnen im Irak",
-      "summary_original": "Im Irak sind die ersten mutmaßlichen IS-Kämpfer vor Gericht erschienen. Es ist der Beginn von tausenden Prozessen gegen ehemalige Angehörige des Islamischen Staats. Diese sind unter anderem in Gefängnissen im Irak untergebracht, teilweise ganze Familien mit Kindern.",
-      "url": "https://www.n-tv.de/politik/Prozesse-um-mutmassliche-IS-Kaempfer-beginnen-im-Irak-id31564331.html",
-      "published": "2026-11-23T03:54:06+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "n-tv",
-      "title_original": "Werder feiert: HSV geht im Nordderby furchtbar unter",
-      "summary_original": "Am 10. Spieltag der Fußball-Bundesliga kommt es zum ersten Nordderby der Saison. Und es wird dem SV Werder Bremen in bester Erinnerung bleiben. Für den Hamburger SV dagegen ist es ein ganz bitterer Abend. Toptorjäger Niclas Füllkrug trifft ganz am Ende auch noch.",
-      "url": "https://www.n-tv.de/sport/fussball/HSV-geht-im-Nordderby-furchtbar-unter-id31564559.html",
-      "published": "2026-11-23T03:35:10+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "n-tv",
-      "title_original": "Lisa Baum ist \"stabil\": Deutsche Nationalspielerin mit Atemmaske vom Platz getragen",
-      "summary_original": "Großer Schreck im Duell der Frauen-Teams des FC Arsenal und West Ham United: Kurz nach der Pause bricht die deutsche Nationalspielerin Lisa Baum abseits des Balles zusammen. Nach mehrminütiger Behandlung wird sie mit einer Atemmaske vom Platz gebracht. Wenig später gibt es vorsichtig Entwarnung.",
-      "url": "https://www.n-tv.de/sport/fussball/Deutsche-Nationalspielerin-mit-Atemmaske-vom-Platz-getragen-id31564523.html",
-      "published": "2026-11-23T03:18:32+09:00",
+      "source": "WELT",
+      "title_original": "Wie Freuding die Bundeswehr für den modernen Krieg rüsten will",
+      "summary_original": "Unbemannte Systeme in Masse, erstmals Kamikaze-Drohnen und KI im Gefechtsstand: Bei der Übung „Freedom Shield II“ erprobt das Heer in Litauen eine neue Art der Kriegsführung.",
+      "url": "https://www.welt.de/politik/deutschland/plus6afee42bc1e8003ef73c43e7/designierter-generalinspekteur-wie-freuding-die-bundeswehr-fuer-den-modernen-krieg-ruesten-will.html",
+      "published": "2026-11-23T06:17:56+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -333,33 +360,6 @@
       "summary_original": "Im Sommer wechselte Lisa Baum aus Leipzig nach London. Am Sonntag spielte die 19-Jährige mit dem FC Arsenal gegen West Ham und ging nach einer halben Stunde unvermittelt zu Boden. Ihr Zustand ist stabil.",
       "url": "https://www.welt.de/sport/fussball/article6b032cfd39a3e8110f0e6f2f/fc-arsenal-mitten-im-spiel-bricht-nationalspielerin-lisa-baum-ploetzlich-zusammen.html",
       "published": "2026-11-23T03:17:01+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "WELT",
-      "title_original": "„Inakzeptabel“ – UN‑Gebäude bei Drohnenangriff beschädigt",
-      "summary_original": "Ein Drohnenangriff auf ein Wohngebiet in Khartum hat ein UN-Gebäude beschädigt. Im Krieg zwischen Armee und RSF verändern Drohnen das Kampfgeschehen.",
-      "url": "https://www.welt.de/politik/article6b03283739a3e8110f0e6ee8/konflikt-im-sudan-inakzeptabel-ungebaeude-bei-drohnenangriff-beschaedigt.html",
-      "published": "2026-11-23T03:05:35+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "WELT",
-      "title_original": "Deutsche Skispringer erleben beim Weltcup-Auftakt ein Debakel",
-      "summary_original": "Die deutschen Skispringer haben beim Weltcup-Auftakt in Lillehammer Rätsel aufgegeben. Der neue Bundestrainer erlebte einen ernüchternden Start. Mit Philipp Raimund schaffte es nur ein DSV-Adler in den zweiten Durchgang.",
-      "url": "https://www.welt.de/sport/wintersport/article6b0323dc39a3e8110f0e6e9a/neuer-bundestrainer-deutsche-skispringer-erleben-beim-weltcup-auftakt-ein-debakel.html",
-      "published": "2026-11-23T02:59:29+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "WELT",
-      "title_original": "„Merz ist einer der wenigen Spitzenpolitiker, die verstanden haben, was die Stunde geschlagen hat“",
-      "summary_original": "„Zeit“-Journalistin Mariam Lau sieht in der Union große Enttäuschung über Bundeskanzler Friedrich Merz. Seine Außenpolitik bleibt für sie dennoch ein Argument für seine Kanzlerschaft.",
-      "url": "https://www.welt.de/politik/deutschland/article6b0304925842ff528b9e3fac/lau-bei-ronzheimer-merz-ist-einer-der-wenigen-spitzenpolitiker-die-verstanden-haben-was-die-stunde-geschlagen-hat.html",
-      "published": "2026-11-23T02:55:27+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -437,6 +437,60 @@
     },
     {
       "source": "Der Spiegel",
+      "title_original": "Belgien: Streik-Tag legt Flugverkehr am Montag lahm",
+      "summary_original": "Wer am Montag nach Belgien fliegen will – oder von dort starten möchte – hat schlechte Karten: Die Fluglotsen legen ihre Arbeit nieder. Von dem Streiktag könnten auch der öffentliche Nahverkehr, Schulen und die Müllabfuhr betroffen sein.",
+      "url": "https://www.spiegel.de/wirtschaft/service/belgien-streik-tag-legt-flugverkehr-am-montag-lahm-a-6cd7989a-03e5-4c6f-8c81-3d11ba1e05dc#ref=rss",
+      "published": "2026-11-23T09:24:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Syrien: Fünf Kinder sterben bei Explosion einer Landmine in Idlib",
+      "summary_original": "Anti-Personen-Minen sind ein düsteres Erbe der Ära Assad in Syrien. Nun hat es im Nordwesten des Landes einen besonders tragischen Zwischenfall mit einem solchen Sprengsatz gegeben.",
+      "url": "https://www.spiegel.de/ausland/syrien-fuenf-kinder-sterben-bei-explosion-einer-landmine-in-idlib-a-0ed9f39a-c436-4611-bae9-e6316c5c081a#ref=rss",
+      "published": "2026-11-23T09:21:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Krieg in Sudan: Uno-Gebäude bei Drohnenangriff beschädigt",
+      "summary_original": "Bei einem Drohnenangriff in der sudanesischen Hauptstadt Khartum sind nah Angaben der Uno mehrere Gebäude in einem Wohngebiet schwer beschädigt worden, darunter eins der Vereinten Nationen.",
+      "url": "https://www.spiegel.de/ausland/krieg-in-sudan-uno-gebaeude-bei-drohnenangriff-beschaedigt-a-c4b398b9-f7f6-40a0-a92c-3377e276a67a#ref=rss",
+      "published": "2026-11-23T07:14:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Markus Söder: Hendrik Wüst lehnt Forderung zur kalten Progression ab",
+      "summary_original": "NRW-Ministerpräsident Wüst stellt sich gegen die Forderung von Markus Söder, die kalte Progression auszugleichen. Man habe sich auf die Senkung der Stromsteuer geeinigt, mehr gebe der Haushalt nicht her.",
+      "url": "https://www.spiegel.de/wirtschaft/markus-soeder-hendrik-wuest-lehnt-forderung-zur-kalten-progression-ab-a-fe4d16ef-8ba6-485a-9e27-fa42a09f1cb5#ref=rss",
+      "published": "2026-11-23T06:33:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Midterms in den USA: Demokraten erreichen im Repräsentantenhaus historisch starke Mehrheit",
+      "summary_original": "In den USA baut sich die blaue Welle bei den Zwischenwahlen weiter auf: Die Demokraten haben nach einem knappen Sieg in North Carolina eine historische Marke erreicht. Und es sind noch Wahlkreise offen.",
+      "url": "https://www.spiegel.de/ausland/midterms-in-den-usa-demokraten-erreichen-im-repraesentantenhaus-historisch-starke-mehrheit-a-6b42898d-ee86-41e7-a545-8275e28ea40d#ref=rss",
+      "published": "2026-11-23T06:27:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
+      "title_original": "Finnland: »Sparta II« nach Brand in russische Gewässer geschleppt",
+      "summary_original": "»Die beste und sicherste Lösung für Finnland«: Der vor der finnischen Küste durch einen Drohnenangriff in Brand geratene Frachter ist laut Grenzschutz in russisches Territorium zurückgeführt worden.",
+      "url": "https://www.spiegel.de/ausland/finnland-sparta-ii-nach-brand-in-russische-gewaesser-geschleppt-a-3b64d5c4-f5b2-4c52-929a-d8dd06f0ddf3#ref=rss",
+      "published": "2026-11-23T06:19:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Der Spiegel",
       "title_original": "Libyen: Explosion auf russischem Schiff – ukrainischer Angriff vermutet",
       "summary_original": "In einem Hafen der ostlibyschen Stadt Bengasi hat es eine Explosion auf einem russischen Kriegsschiff gegeben. Die Behörden gehen von einem Drohnenangriff aus.",
       "url": "https://www.spiegel.de/ausland/libyen-explosion-auf-russischem-schiff-ukrainischer-angriff-vermutet-a-bc74e064-fd7a-4770-aebd-0d742578cfeb#ref=rss",
@@ -454,56 +508,20 @@
       "state_media": false
     },
     {
-      "source": "Der Spiegel",
-      "title_original": "Premier League: Pochettino soll United retten, erlebt 0:4-Debakel in Liverpool",
-      "summary_original": "Mauricio Pochettino gab seinen Job als US-Nationaltrainer auf, um Manchester United zu alten Erfolgen zurückzuführen. Beim Start zeigte sich: Das wird sehr schwer. An diesem Tag lag das auch an Florian Wirtz.",
-      "url": "https://www.spiegel.de/sport/fussball/premier-league-pochettino-soll-united-retten-erlebt-0-4-debakel-in-liverpool-a-dba1119d-5a88-4669-b7f3-b5057efb1cc9#ref=rss",
-      "published": "2026-11-23T04:25:00+09:00",
+      "source": "FAZ",
+      "title_original": "Claus-Dieter Wollitz: Man kann noch immer alles erzählen",
+      "summary_original": "Wer den Ausrüsterwechsel des DFB-Teams mit der 50+1-Regel in einen Topf wirft, kann viel erzählen, wenn der Tag lang ist. Cottbus-Coach Claus-Dieter Wollitz tritt den Beweis an.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/dfb-ausruester-claus-dieter-wollitz-die-klopp-kappe-und-der-adidas-protest-201706422.html",
+      "published": "2026-11-23T06:29:51+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "Der Spiegel",
-      "title_original": "FC Arsenal: Lisa Baum bricht im Spiel mit Atemnot zusammen",
-      "summary_original": "Ihr Zustand soll stabil sein, doch die Bilder waren schockierend: Mit einer Atemmaske musste die deutsche Fußballerin Lisa Baum bei einem Ligaspiel ihres Vereins FC Arsenal vom Feld gebracht werden.",
-      "url": "https://www.spiegel.de/sport/fussball/fc-arsenal-lisa-baum-bricht-im-spiel-mit-atemnot-zusammen-a-f95f7696-4847-4505-9f22-ff09f760bee4#ref=rss",
-      "published": "2026-11-23T04:16:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Der Spiegel",
-      "title_original": "»Im Verhör«: Korrupte Justiz (3): Wie man sich einen Staatsanwalt kauft - SPIEGEL TV",
-      "summary_original": "Drogenboss »Kosta« kann sein Glück kaum glauben. Seine Bande konnte einen deutschen Staatsanwalt korrumpieren. Ab jetzt wissen die Kriminellen, wie sie der Überwachung der Staatsanwaltschaft Hannover entgehen können.",
-      "url": "https://www.spiegel.de/panorama/justiz/im-verhoer-korrupte-justiz-3-wie-man-sich-einen-staatsanwalt-kauft-spiegel-tv-a-508e2f16-03cb-4944-87cb-67ccba1d98e8#ref=rss",
-      "published": "2026-11-23T04:14:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Der Spiegel",
-      "title_original": "Umgang mit Trauer: Wenn der Friedhof zum Ort für Freundinnen und Feiern wird",
-      "summary_original": "Warum meine engsten Freundinnen und ich uns regelmäßig auf dem Friedhof treffen. Und dort gemeinsam ganz glückselig sind.",
-      "url": "https://www.spiegel.de/psychologie/umgang-mit-trauer-wenn-der-friedhof-zum-ort-fuer-freundinnen-und-feiern-wird-a-c029ae9a-d194-4f77-91c4-281b5bbfb8f3#ref=rss",
-      "published": "2026-11-23T04:13:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Der Spiegel",
-      "title_original": "Ukraine-Krieg: »Der Ukraine steht der härteste Kriegswinter bevor« – Militärexperte Franz-Stefan Gady",
-      "summary_original": "Kyjiws Soldaten werden an der Front taktisch immer besser und machen kleine Fortschritte. Doch der Militärexperte Franz-Stefan Gady warnt: Russlands Kraft ist trotz gigantischer Verluste noch lange nicht erschöpft.",
-      "url": "https://www.spiegel.de/ausland/ukraine-krieg-der-ukraine-steht-der-haerteste-kriegswinter-bevor-militaerexperte-franz-stefan-gady-a-a540c544-b586-4a52-b06a-63b32f4c8233#ref=rss",
-      "published": "2026-11-23T04:13:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Der Spiegel",
-      "title_original": "Billy Joel versteigert Motorradsammlung für zwei Millionen Dollar",
-      "summary_original": "Billy Joel hat in seinem Leben mehr als 100 Motorräder besessen, 69 Maschinen kamen nun für den guten Zweck unter den Hammer. Für Aufsehen sorgte eine Triumph Bonneville aus dem Jahr 1978.",
-      "url": "https://www.spiegel.de/panorama/leute/billy-joel-versteigert-motorradsammlung-fuer-zwei-millionen-dollar-a-2494a781-6b22-4e11-b34f-451b41a4c23b#ref=rss",
-      "published": "2026-11-23T04:10:00+09:00",
+      "source": "FAZ",
+      "title_original": "Liveblog Ukrainekrieg: Russisches Kriegsschiff sinkt nach Explosion in libyschem Hafen",
+      "summary_original": "Drohnenangriff gilt als Ursache +++ Vor Finnland getroffener Frachter „Sparta II“ wird wohl nach Russland geschleppt +++ alle Neuigkeiten im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-russisches-kriegsschiff-nach-explosion-in-libyschem-hafen-gesunken-faz-110683325.html",
+      "published": "2026-11-23T06:26:54+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -562,20 +580,11 @@
       "state_media": false
     },
     {
-      "source": "FAZ",
-      "title_original": "Neue Uhren: Herbstzeit am Handgelenk",
-      "summary_original": "Es wird wieder früh dunkel. Wenn schon die Zeit gegen uns läuft, dann doch zumindest in einem anderen Gehäuse. Wir stellen 17 Uhren-Neuheiten vor.",
-      "url": "https://www.faz.net/aktuell/neue-uhren-im-herbst-201665593.html",
-      "published": "2026-11-23T04:32:19+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "FAZ",
-      "title_original": "„Hannah Montana“: Miley Cyrus teilt Bilder ihrer Hochzeit",
-      "summary_original": "Die US-Sängerin heiratet den Schlagzeuger Maxx Morando. Jetzt teilt sie ihr Hochzeitsglück.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/miley-cyrus-heiratet-maxx-morando-in-palm-springs-201707506.html",
-      "published": "2026-11-23T04:30:39+09:00",
+      "source": "Süddeutsche Zeitung",
+      "title_original": "Krieg in der Ukraine: Russisches Kriegsschiff sinkt nach Explosion in libyschem Hafen",
+      "summary_original": "Die ostlibysche Regierung vermutet, dass eine Drohne das Schiff getroffen hat. Russland und die Ukraine äußern sich bisher nicht zu dem Vorfall.",
+      "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-drohne-libyen-explosion-schiff-russland-li.3571967",
+      "published": "2026-11-23T06:19:41+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -643,83 +652,74 @@
       "state_media": false
     },
     {
-      "source": "Süddeutsche Zeitung",
-      "title_original": "COP31 in Antalya: Klimakonferenz scheitert an zentralem Abschlusstext",
-      "summary_original": "Es seien keine Beschlüsse gefasst worden, sagt Konferenz-Präsident Murat Kurum. Mehrere Staaten lehnten den vorgelegten „Antalya-Pakt“ ab – auch die EU. Stark kritisiert wurde, dass der Abschied von fossilen Energien darin zu kurz komme.",
-      "url": "https://www.sueddeutsche.de/politik/cop31-antalya-klimagipfel-einigung-gescheitert-li.3584161",
-      "published": "2026-11-22T22:26:42+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
       "source": "Die Zeit",
-      "title_original": "Captagon, Cannabis, Betäubungsmittel: Syrische Behörden vernichten tonnenweise konfiszierte Drogen",
-      "summary_original": "400 Millionen Tabletten des Aufputschmittels Captagon und Tonnen weiterer Rauschmittel sind in Syrien entsorgt worden. Die Machthaber bekämpfen die Drogenproduktion.",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/syrien-drogen-captagon-baschar-al-assad",
-      "published": "2026-11-23T05:58:16+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "»Tatort« Frankfurt am Main: Ich dachte, ich sehe einen Geist",
-      "summary_original": "Mit einigem Fingerspitzengefühl macht dieser »Tatort« aus Frankfurt am Main einen Anschlag auf iranische Exilanten zu seinem Thema. Ein Glanzstück der Saison.",
-      "url": "https://www.zeit.de/feuilleton/film/2026-11/tatort-frankfurt-ard-4-finger-azadi-kulina-iran",
-      "published": "2026-11-23T05:45:06+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "0:1 beim MSV Duisburg: Nach Unterbrechung: Hansa verliert Topspiel in Unterzahl",
+      "title_original": "Handball: SC Magdeburg vorerst ohne Omar Ingi Magnusson",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/22/nach-unterbrechung-hansa-verliert-topspiel-in-unterzahl",
-      "published": "2026-11-23T05:38:48+09:00",
+      "url": "https://www.zeit.de/news/2026-11/23/sc-magdeburg-vorerst-ohne-omar-ingi-magnusson",
+      "published": "2026-11-23T09:07:04+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Drohnenangriffe im Sudan: UN melden Angriff auf Wohngebiet in sudanesischer Hauptstadt",
-      "summary_original": "In der Provinz Khartum im Sudan sind Drohnenangriffe auf Wohnhäuser gemeldet worden. Drei Menschen wurden getötet, auch eine UN-Einrichtung sei beschädigt worden.",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/sudan-drohnenangriffe-khartum-armee-rsf-un",
-      "published": "2026-11-23T05:32:04+09:00",
+      "title_original": "Krieg gegen die Ukraine: Russisches Kriegsschiff sinkt in libyschem Hafen",
+      "summary_original": "Das Schiff ist mutmaßlich von ukrainischen Drohnen angegriffen worden. Bei einem Angriff auf ein Dorf in der Nähe von Kyjiw sind mehrere Menschen gestorben. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "published": "2026-11-23T08:15:16+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Antisemitismus: Israels Botschafter würdigt Mut von verletzter Aktivistin",
+      "title_original": "Lisa Baum: Fußballnationalspielerin Baum bricht im Spiel zusammen",
+      "summary_original": "Während eines Spiels des FC Arsenal gegen West Ham United ist Lisa Baum kollabiert. Der Klub gibt erste Entwarnung, der Zustand der deutschen Fußballerin sei stabil.",
+      "url": "https://www.zeit.de/sport/2026-11/lisa-baum-fc-arsenal-zusammenbruch-west-ham-united",
+      "published": "2026-11-23T08:13:48+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Notfallversorgung: Olaf Lies mahnt Nachbesserungen bei Notfallversorgung an",
+      "summary_original": "Der Bundesrat hat das Gesetz zur Notfallversorgung gebilligt. Niedersachsens Ministerpräsident sorgt sich um die Finanzierung und warnt vor »Versorgung zweiter Klasse«.",
+      "url": "https://www.zeit.de/gesundheit/2026-11/notfallversorgung-reform-olaf-lies-rettungsdienst-finanzierung",
+      "published": "2026-11-23T08:11:02+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Kalenderblatt: Was geschah am 23. November?",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/22/israels-botschafter-wuerdigt-mut-von-verletzter-aktivistin",
-      "published": "2026-11-23T05:12:25+09:00",
+      "url": "https://www.zeit.de/news/2026-11/22/was-geschah-am-23-november",
+      "published": "2026-11-23T07:55:04+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "Kalte Progression: Grüne werfen Söder »öffentliches Lamentieren« vor",
-      "summary_original": "CSU-Chef Markus Söder fordert »dringend einen Ausgleich der kalten Progression«. Die Opposition wirft ihm Inszenierung vor und warnt, er verspiele damit Vertrauen.",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/kalte-progression-ausgleich-markus-soeder-britta-hasselmann-gxe",
-      "published": "2026-11-23T05:00:32+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Die Zeit",
-      "title_original": "ATP Finals im Tennis: Keine Krönung: Zverev mit Final-Pleite gegen Alcaraz",
+      "title_original": "Verkehr: Fußgänger stirbt bei Verkehrsunfall in Cloppenburg",
       "summary_original": "",
-      "url": "https://www.zeit.de/news/2026-11/22/keine-kroenung-zverev-mit-final-pleite-gegen-alcaraz",
-      "published": "2026-11-23T04:56:54+09:00",
+      "url": "https://www.zeit.de/news/2026-11/22/fussgaenger-stirbt-bei-verkehrsunfall-in-cloppenburg",
+      "published": "2026-11-23T07:48:28+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Die Zeit",
-      "title_original": "ATP Finals: Alexander Zverev verpasst dritten Titel bei ATP Finals",
-      "summary_original": "Carlos Alcaraz besiegt Alexander Zverev im Endspiel der ATP Finals. Zverev macht zu viele Fehler, aus Frust wirft er seinen Schläger auf den Boden.",
-      "url": "https://www.zeit.de/sport/2026-11/atp-finals-finale-alexander-zverev-carlos-alcaraz-turin",
-      "published": "2026-11-23T04:56:50+09:00",
+      "title_original": "Fußball-Bundesliga: Pyro und Brände: Polizei nach Nordderby dennoch zufrieden",
+      "summary_original": "",
+      "url": "https://www.zeit.de/news/2026-11/22/pyro-und-braende-polizei-nach-nordderby-dennoch-zufrieden",
+      "published": "2026-11-23T07:30:27+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Die Zeit",
+      "title_original": "Unfall auf B26: 93-jähriger Fußgänger von Auto erfasst und schwer verletzt",
+      "summary_original": "",
+      "url": "https://www.zeit.de/news/2026-11/22/93-jaehriger-fussgaenger-von-auto-erfasst-und-schwer-verletzt",
+      "published": "2026-11-23T06:28:01+09:00",
       "via": "rss",
       "state_media": false
     }

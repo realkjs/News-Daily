@@ -1,8 +1,17 @@
 {
   "team": "fr",
   "team_name_ko": "프랑스팀",
-  "collected_at": "2026-11-23T06:13:04.625980+09:00",
+  "collected_at": "2026-11-23T09:29:43.715009+09:00",
   "headlines": [
+    {
+      "source": "France 24",
+      "title_original": "Elections générales en RD Congo, la Symocel doute de la possibilité de tenir les délais",
+      "summary_original": "En RD Congo, se dirige-t-on vers un report des élections générales ? Les scrutins sont prévus en décembre 2028. Dans un rapport publié en novembre, la Symocel, l’une des missions d’observation électorale, doute de la possibilité de tenir ce délai...",
+      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261122-elections-g%C3%A9n%C3%A9rales-en-rd-congo-la-symocel-doute-de-la-possibilit%C3%A9-de-tenir-les-d%C3%A9lais",
+      "published": "2026-11-23T06:42:57+09:00",
+      "via": "rss",
+      "state_media": false
+    },
     {
       "source": "France 24",
       "title_original": "Libye : deux navires attaqués par des drones maritimes, dont un bateau russe",
@@ -67,11 +76,20 @@
       "state_media": false
     },
     {
-      "source": "France 24",
-      "title_original": "De la Seine-Saint-Denis à la Nasa, retour sur le parcours d'Allan Petre",
-      "summary_original": "L'ingénieur aérospatial Allan Petre a intégré la Nasa a 24 ans, ce qui fait de lui l'un des plus jeunes Français à y parvenir. Il publie \"Astro Allan\", une bande-dessinée retraçant son parcours.",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261122-de-la-seine-saint-denis-%C3%A0-la-nasa-retour-sur-le-parcours-d-allan-petre",
-      "published": "2026-11-23T01:38:38+09:00",
+      "source": "franceinfo (France 2)",
+      "title_original": "Cyberattaque au CHU de Guadeloupe : plusieurs jours de perturbations à prévoir, le plan blanc déclenché",
+      "summary_original": "Une cyberattaque touche actuellement le Centre hospitalier universitaire (CHU) de Guadeloupe et perturbe le fonctionnement de l’établissement. Survenue le 21 novembre, elle affecte les systèmes informatiques et téléphoniques, principalement sur le site de Chauvel, avec des répercussions sur celui de Belle-Plaine. Les consultations et les interventions non urgentes sont déprogrammées. Les équipes d",
+      "url": "https://la1ere.franceinfo.fr/guadeloupe/cyberattaque-au-chu-de-guadeloupe-plusieurs-jours-de-perturbations-a-prevoir-l-hopital-s-organise-1760535.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-23T07:16:16+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "Le Mans renverse Marseille au Vélodrome et met un terme à la série de l'OM en Ligue 1",
+      "summary_original": "Le promu sarthois se donne de l'air et sort de la zone rouge grâce à sa victoire surprise, dimanche soir, à Marseille (3-2).",
+      "url": "https://www.franceinfo.fr/sports/foot/ligue-1/le-mans-renverse-marseille-au-velodrome-et-met-un-terme-a-la-serie-de-l-om-en-ligue-1_8295227.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-23T06:56:32+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -80,7 +98,16 @@
       "title_original": "\"Ça devient lassant\" : avec la répétition des inondations dans le Pas-de-Calais, des quartiers vont-ils bientôt être désertés ?",
       "summary_original": "De nouvelles alertes inondations ont été émises pour l'Ain et le Jura, tandis que la Corse est également sur ses gardes en raison de vents violents accompagnés de fortes précipitations. Du côté du Pas-de-Calais, la situation n'est toujours pas stabilisée, dimanche 22 novembre, alors que 850 logements ont été inondés. La répétition de ces épisodes pousse les habitants à s'interroger : seront-ils un",
       "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/ca-devient-lassant-avec-la-repetition-des-inondations-dans-le-pas-de-calais-des-quartiers-vont-ils-bientot-etre-desertes_8295173.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-23T05:14:16+09:00",
+      "published": "2026-11-23T06:46:09+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "La tension monte entre l'Europe et la Russie après plusieurs incidents militaires",
+      "summary_original": "La Finlande a dû alerter l'Otan après deux incidents qualifiés de graves, samedi 21 novembre. Il faut ajouter à cela une alerte aérienne sur la principale base navale russe dans l'enclave de Kaliningrad. La Finlande, qui partage 1 340 kilomètres de frontières avec la Russie, est la cible récurrente d'opérations hybrides de Moscou.",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-tension-monte-entre-l-europe-et-la-russie-apres-plusieurs-incidents-militaires_8295158.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-23T06:44:10+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -121,30 +148,12 @@
       "state_media": false
     },
     {
-      "source": "franceinfo (France 2)",
-      "title_original": "\"Je ne gouvernerai pas avec le RN\", déclare David Lisnard, candidat du parti Nouvelle Energie à la présidentielle",
-      "summary_original": "Dans un message publié sur le réseau social X, le maire de Cannes a mis en avant des divergences sur les questions économiques.",
-      "url": "https://www.franceinfo.fr/elections/je-ne-gouvernerai-pas-avec-le-rn-declare-david-lisnard-candidat-du-parti-nouvelle-energie-a-la-presidentielle_8295167.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-23T04:47:14+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "franceinfo (France 2)",
-      "title_original": "Carlos Alcaraz éteint le n°1 mondial Alexander Zverev pour décrocher le premier Masters de sa carrière",
-      "summary_original": "L'Espagnol a remporté le choc face à l'Allemand en deux manches (6-2, 7-6 [9-7]), dimanche à Turin, pour remporter son premier \"tournoi des maîtres\".",
-      "url": "https://www.franceinfo.fr/sports/tennis/masters/carlos-alcaraz-eteint-le-n-1-mondial-alexander-zverev-pour-decrocher-le-premier-masters-de-sa-carriere_8295140.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-23T04:45:22+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "franceinfo (France 2)",
-      "title_original": "La tension monte entre l'Europe et la Russie après plusieurs incidents militaires",
-      "summary_original": "La Finlande a dû alerter l'Otan après deux incidents qualifiés de graves, samedi 21 novembre. Il faut ajouter à cela une alerte aérienne sur la principale base navale russe dans l'enclave de Kaliningrad. La Finlande, qui partage 1 340 kilomètres de frontières avec la Russie, est la cible récurrente d'opérations hybrides de Moscou.",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-tension-monte-entre-l-europe-et-la-russie-apres-plusieurs-incidents-militaires_8295158.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-23T04:43:53+09:00",
-      "via": "rss",
+      "source": "TF1 Info",
+      "title_original": "Présidentielle 2027 : « Route Nationale » avec Bruno Retailleau",
+      "summary_original": "Présidentielle 2027 : « Route Nationale » avec Bruno Retailleau TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWjY5NDVfanQ1aDJPZld5X05ZZW9hSUU1aWQyMEpTSnJqd2hERko3aG9mR2ZsR3BQWFd5cWJCOXlqTFNLSTdTZlkwcHRjQmZzcThva0w5MTVrMEtxdm1BTEo4VWlnNFMtd2d3NC1xLUJZbWZxU256Vk11RnpodklwMlNaYXJUaHFJeTF5NXRfOHV2ZVZDOHh0UHdBdG1JdHZrRE9JMW1rV2FqakZmbi1rektwa0xkR2lyRzFhVW1Uaw?oc=5",
+      "published": "2026-11-23T09:10:08+09:00",
+      "via": "google_news",
       "state_media": false
     },
     {
@@ -152,34 +161,43 @@
       "title_original": "Chaînes de boulangeries : leurs stratégies pour vous séduire",
       "summary_original": "Chaînes de boulangeries : leurs stratégies pour vous séduire TF1 Info",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRzF2aUNWaFhMTHlEMm5HVFJZVFF4REFIWjg5TU9MNktsRDlkVTRzVGFscDh6M3BhTGFna0NGaTVjeHN1UWZGeHpycWxGdGhNOG5rMnlrbXpuWnZ5Wkd6aVJnWk0wVk5XQV94QUl6dlBVWTUzVURUYmFEX0xLdzNPV1RqTkhXcUVWRnVXQ0h0bjNTamRnY3ZhNHY5ZFhTN0p5NVAzVE5XNXhfSWduYjBZeEFqcTdhOGVQTGFB?oc=5",
-      "published": "2026-11-23T05:50:19+09:00",
+      "published": "2026-11-23T08:50:07+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "TF1 Info",
-      "title_original": "Maisons abandonnées : un trésor convoité",
-      "summary_original": "Maisons abandonnées : un trésor convoité TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDVmQ2k1aHlUZXliWkJDY281REVFSzBjYTN1OUduTGpvQTFZaHRrM3E5MklNVHItcE45YWpxT3ZtN1Q5RHpWTXRxakozS3NhTTNJREI0cU1VVFo3OTV4ZWtHZFpFd04zU25wNTdzQzdRbnFmRmpJNVhWbS03Z3NpN180WWRaMnJTdno1RGhXWXdJU2liV2JBUmlPYXdYZTFWZjJuVVZOSQ?oc=5",
-      "published": "2026-11-23T05:40:18+09:00",
+      "title_original": "Grands excès de vitesse : l'impossible combat ?",
+      "summary_original": "Grands excès de vitesse : l'impossible combat ? TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUHRkbU8tZkZiY0VKNHJ6ZVFjcDlXS21OR2hxQnV4TEhIQ1RsQ1Z2Wmc4TUQ3aVFsS1FhdDQ4VFQ4WlNBcnUzZGVjSy1NRDYzczcxMUl3cXZsd2Z4b2lZbXRFRURDTXg4ckdkUVV4dFltc0FmSnR1OFZ5M2YyczFQaXVPTDNsTnpCMlR3VFZlVUloRmlORUVXOTJPMi1hb1pfSy12c2ZRalRodW9XeXBTRzZKcmNCR3JQU2tj?oc=5",
+      "published": "2026-11-23T08:40:08+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "TF1 Info",
-      "title_original": "Sept à huit du dimanche 22 novembre 2026",
-      "summary_original": "Sept à huit du dimanche 22 novembre 2026 TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc1g1dDF3SWJrNXc3QWJpcElmQTJyWGhPWFpBX3Y1Z0FtckdYd3VJV2JxVXdBbHZDNU9CUkFhNjNlMkNCMFAxUzBrVnZhZjBJXzU1MWtLcVJuczlBMzBLbXBiNUVDRDhYeTJQQjlaMTVpWTZvTzJab3BYNnFtQnVtU2tNX3k0UnlZdVlpMnJzOXFiV1RvdGRXNTVXVnVmQUtVeGc?oc=5",
-      "published": "2026-11-23T05:40:14+09:00",
+      "title_original": "20H Haddad du dimanche 22 novembre 2026",
+      "summary_original": "20H Haddad du dimanche 22 novembre 2026 TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZlcxLW1VVW1oOURhRU1KMGhsT2hNUHE5YVM4WUhNaGh5QTYtdzQwSEVkVndtNVQ2XzlLbF96OEMwVTFFaDlaQWhnaFpEbjBGc1BXTnVlZUxINGZvMElOTjZWZFlGLVY2djYtOTdmXzJQbGcxenB4ZExwVWdJeHZxZW9SWmpFYXpFVXJSQjVDSllHVE9DclUwNXVYN21OZ1Rr?oc=5",
+      "published": "2026-11-23T08:40:07+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "TF1 Info",
-      "title_original": "Gazole à moins de deux euros : pour combien de temps ?",
-      "summary_original": "Gazole à moins de deux euros : pour combien de temps ? TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaVlZUF8zTDRsZ0pBNVFIMGFvTzVMeG44VGxhNjRoR0ctQ2ZiNTlEcTQzMEJMUXU5S1JHekFpd3lIRGtvanZ2YzdxcjFTSndkVDFocFpGLXU0cnhhR1hoZlo2NE4wTWpYWmRvUl9lUUdBZFlQeThPUTBZVFFna09RalJhTDl1YWkxUWZ6SVhwMWdna003ZUs4Nk5kc1VGX3lHcWlPNldINW1wSkhSTjA1Xw?oc=5",
-      "published": "2026-11-23T05:35:14+09:00",
+      "title_original": "220 000 Bretons bientôt sans eau potable ?",
+      "summary_original": "220 000 Bretons bientôt sans eau potable ? TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa3lmUmVCNHcta2E3RkdZOXlNeGR1RGRIV1VrVjlCWVJBUU1oQmFNaW9OUnJOQlNwN0NFMmRMMGRHdFl3VHl5NFRJQnBDYWxQc3Z3TmY1WnRRa05UNkx3ZkVXTzlWSmJrS3ZMcDRQZE9oaC1xQWpkcEF3M1ZRQkY3VlNxbDFVUEM3TkxfV0ZNenkzbWZneWJGOTF0d2VLMmNpSmdz?oc=5",
+      "published": "2026-11-23T08:35:12+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Les prix des carburants baissent enfin, mais jusqu'à quand",
+      "summary_original": "Les prix des carburants baissent enfin, mais jusqu'à quand TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTzhDcU9WdG4tb0pkVnNsU3VNdHl2Q2FjX09RYk91eUE3N3lIY25xZTZuY21pUW8weFBuZEtSMzhYNm5wZlBfYTMycm91VExrRDVXY3pBRW5TV0JTamktdFZfdU5kV2VXYld0SzBrTTVFeVF2bTQ4TjlwUnJuTGRodDBDOTlTYWhqUVhpVjN3amdIQ092TnBLeEZjeGd6Y2NaSTNualIwXzhIclNFLTlsT1pDb1dKdF9aVUQ2SThR?oc=5",
+      "published": "2026-11-23T08:35:11+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -188,106 +206,124 @@
       "title_original": "Illuminations de Noël - Feu! Chatterton : \"Les Champs-Elysées, c’est un symbole de l’enchantement français\"",
       "summary_original": "Illuminations de Noël - Feu! Chatterton : \"Les Champs-Elysées, c’est un symbole de l’enchantement français\" TF1 Info",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUlBfMHgzcjhPaG9EZG1GampzNllhR01RXzlUbGpxVnpYSExrNzc1VVg2WE1JNGVYRVlPNVRKWDMxYTVPRzlianprOVpZVTNjZm5qak1LdUpnT2NjTkFtdTJHRm1qRERpMVcwdV81WklQTEM5R2lyQzR3UENrVW95TEhkSjl3LXNDQm9JZDl1UVBGYmU0bUxLdHhkN2ltT0xmYk1RM0lJS2hpUWh6MGtDM3RqTEhja0FOaUVYcDBTODljSTRqbEIzZmFjaURSZmdsX2cyejg2WS0wWVVwR29tYmkzUmpGem9VX2JzZURKWXZYa0xD?oc=5",
-      "published": "2026-11-23T05:30:11+09:00",
+      "published": "2026-11-23T08:25:15+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "TF1 Info",
-      "title_original": "LCI Direct du dimanche 22 novembre 2026",
-      "summary_original": "LCI Direct du dimanche 22 novembre 2026 TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTFNwdXc2TTV1V20xb3M1eTZRVm1FYnpZUWJpSWZZM05YUVRuY3JSTnVVTXB4UFJ0VzhTY0NOd2gwTS00M19sV3pWWXVLWmdzUjdqbDBSR3JycHZZczQtQjdKeHpjeDEzSXIyYnRZeG1fbmh0WGdOdjRDdnhLMDlEY2hhbmpSdjRwQU5OdDAyZTNob09xYjB4bUo4QlFab0dM?oc=5",
-      "published": "2026-11-23T05:24:21+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "Propos racistes et salut nazi dans une école de police : la justice se saisit de l'affaire",
-      "summary_original": "Propos racistes et salut nazi dans une école de police : la justice se saisit de l'affaire TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObTRGVG45WWlPbEpnemE3cjAycWNPa29SckNmY0w0blAzbGhqZG5aNEdwN2xoY2NCbVM2UENjazFCejllZzV5TUMtX3Y2NzNGWWg1V1AtOHdyRDg5WGk0bXhacURGRWlwNjlIUUpjMGxGS05xb2NRb3dsWXA3N1F3QmVoRFhFNm82VWVLdjJNMGdTdEU1UnZTRk84cDdjNS1KNW5faWZNT1JhdzZkTGpJcmpqRXY3MUVPRnZUenFxdnlXOGFxYUZ1dVdDVU9nRlA0d0NUWjQyZTd6STE2eTlvemhfemVYNDg4RUxScUU4Ql9MOFE?oc=5",
-      "published": "2026-11-23T05:17:21+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "Météo du 22 novembre 2026 : Prévisions météo à 21h02",
-      "summary_original": "Météo du 22 novembre 2026 : Prévisions météo à 21h02 TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSHlFOW84WXg3NnRQOHZhMDRwRnVTZFVtNUxScUVUemZ0YWRLOHRQTWtVcWVuTVFkeHJhcmhaa0haWmwta2JNbWdyNmhGY2NHaWl1RHZWaDVIT0t3R1E3ZmVBek11eFVTemphcW5ObzVrN0tqV0M3SThqYXlsRWEwd2otYm9zNFVEeVhoV0dmZW92U3FjQWJrUnBmaHF3OGc3ME5NVGVpeXJ4X1N3dEI4?oc=5",
-      "published": "2026-11-23T05:15:30+09:00",
+      "title_original": "Cargo échoué : seulement quelques heures pour agir",
+      "summary_original": "Cargo échoué : seulement quelques heures pour agir TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeEdWYkpoZzBfT1d2S2hzV2FGbE1UZU5oRmFncG51bHM4ZC1HUThVZG15OU1wY29CSU9nWnl2UUdMNzZJajEtbko2ekpYeUJSY05HSmJxOXFIbWxydTNwYm90Mk4zTFNCQXA1SjRYamZKUzJUUWtmT0doY3FXQ0J2Z3BXakpoZC1DUHVQa0VRQmxKRi1wNVR1d09yd09HS1FUUHZfWjMzV2pUcnpRaFBYbjBUcEhXNzJlVUVIS2pvTzhBZw?oc=5",
+      "published": "2026-11-23T08:20:12+09:00",
       "via": "google_news",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "\"Je suis profondément honorée d'être ici\": Cate Blanchett a inauguré les illuminations de Noël sur les Champs-Élysées",
-      "summary_original": "Ce dimanche 22 novembre, Cate Blanchett a inauguré les illuminations de Noël sur les Champs-Élysées. Cette année signe aussi le retour du marché de Noël en bas de l'avenue, près de la place de la Concorde.",
-      "url": "https://www.bfmtv.com/culture/video-je-suis-profondement-honoree-d-etre-ici-cate-blanchett-a-inaugure-les-illuminations-de-noel-sur-les-champs-elysees_VN-202611220431.html",
-      "published": "2026-11-23T06:03:40+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BFMTV",
-      "title_original": "Lisnard : \"Macroniste masqué\" ou invité surprise ? - 22/11",
+      "title_original": "2027 : vers de nouveaux candidats surprise ? - 22/11",
       "summary_original": "Chaque week-end, Léopold Audebert vous accompagne de 21h à 00h dans BFM Grand Soir.",
-      "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-lisnard-macroniste-masque-ou-invite-surprise-22-11_VN-202611220426.html",
-      "published": "2026-11-23T05:56:12+09:00",
+      "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-2027-vers-de-nouveaux-candidats-surprise-22-11_VN-202611220475.html",
+      "published": "2026-11-23T08:07:22+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Retrait de sa candidature à l'élection présidentielle: l'interview en intégralité de François Ruffin",
-      "summary_original": "Dans son communiqué publié ce samedi 21 novembre, le député ex-insoumis n'apporte son soutien à aucun candidat et souhaite \"bon courage et bonne campagne\" aux \"candidats de gauche encore en lice\", sans les citer.",
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-retrait-de-sa-candidature-a-l-election-presidentielle-l-interview-en-integralite-de-francois-ruffin_VN-202611220430.html",
-      "published": "2026-11-23T05:52:17+09:00",
+      "title_original": "Après l'euphorie, retour à la réalité: l'OM s'est-il vu trop beau?",
+      "summary_original": "Après cinq victoires d'affilée en Ligue 1, la série de l'OM s'est achevée ce dimanche soir au Vélodrome, sur la victoire renversante du Mans (3-2) en clôture de la 11e journée de championnat. Comme un brutal retour sur terre pour une équipe retombée dans ses travers du début de saison.",
+      "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/apres-l-euphorie-retour-a-la-realite-l-om-s-est-il-vu-trop-beau_AV-202611220471.html",
+      "published": "2026-11-23T07:59:54+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "François Ruffin : \"Je sais le risque qui est devant nous\" - 22/11",
+      "title_original": "2027 : vers de nouveaux candidats surprise ? - 22/11",
       "summary_original": "Chaque week-end, Léopold Audebert vous accompagne de 21h à 00h dans BFM Grand Soir.",
-      "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-francois-ruffin-je-sais-le-risque-qui-est-devant-nous-22-11_VN-202611220432.html",
-      "published": "2026-11-23T05:48:23+09:00",
+      "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-2027-vers-de-nouveaux-candidats-surprise-22-11_VN-202611220473.html",
+      "published": "2026-11-23T07:56:11+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Sur Raphaël Glucksmann, \"il y a encore des progrès à faire\", déclare François Ruffin, ancien candidat à l'élection présidentielle",
-      "summary_original": "Dans son communiqué publié ce samedi 21 novembre, le député ex-insoumis n'apporte son soutien à aucun candidat et souhaite \"bon courage et bonne campagne\" aux \"candidats de gauche encore en lice\", sans les citer.",
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-sur-raphael-glucksmann-il-y-a-encore-des-progres-a-faire-declare-francois-ruffin-ancien-candidat-a-l-election-presidentielle_VN-202611220420.html",
-      "published": "2026-11-23T05:36:23+09:00",
+      "title_original": "\"On a senti l’équipe se liquéfier\": les explications de Bruno Genesio sur l’effondrement de l’OM face au Mans",
+      "summary_original": "Après avoir mené 2-0 à la pause, l’OM s’est fait renverser par Le Mans devant son public, ce dimanche, en clôture de la 11e journée de Ligue 1 (2-3). Un revers difficile à avaler pour Bruno Genesio, qui a vu son équipe perdre totalement pied en fin de match sur la pelouse du Vélodrome.",
+      "url": "https://rmcsport.bfmtv.com/football/ligue-1/on-a-senti-l-equipe-se-liquefier-les-explications-de-bruno-genesio-sur-l-effondrement-de-l-om-face-au-mans_AV-202611220468.html",
+      "published": "2026-11-23T07:53:28+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "\"Je ne souhaite qu'une chose, que Jean-Luc Mélenchon me donne tort\", assure François Ruffin, ancien candidat à l'élection présidentielle",
-      "summary_original": "Dans son communiqué publié ce samedi 21 novembre, le député ex-insoumis n'apporte son soutien à aucun candidat et souhaite \"bon courage et bonne campagne\" aux \"candidats de gauche encore en lice\", sans les citer.",
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-je-ne-souhaite-qu-une-chose-que-jean-luc-melenchon-me-donne-tort-assure-francois-ruffin-ancien-candidat-a-l-election-presidentielle_VN-202611220419.html",
-      "published": "2026-11-23T05:34:27+09:00",
+      "title_original": "Tondelier, Ruffin : la gauche capitule face à Mélenchon ? - 22/11",
+      "summary_original": "Chaque week-end, Léopold Audebert vous accompagne de 21h à 00h dans BFM Grand Soir.",
+      "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-tondelier-ruffin-la-gauche-capitule-face-a-melenchon-22-11_VN-202611220469.html",
+      "published": "2026-11-23T07:51:54+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "\"Je n'ai pas d'adversaires à gauche, j'ai un adversaire, c'est Marine Le Pen\", affirme François Ruffin, ancien candidat à l'élection présidentielle",
-      "summary_original": "Dans son communiqué publié ce samedi 21 novembre, le député ex-insoumis n'apporte son soutien à aucun candidat et souhaite \"bon courage et bonne campagne\" aux \"candidats de gauche encore en lice\", sans les citer.",
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-je-n-ai-pas-d-adversaires-a-gauche-j-ai-un-adversaire-c-est-marine-le-pen-affirme-francois-ruffin-ancien-candidat-a-l-election-presidentielle_VN-202611220418.html",
-      "published": "2026-11-23T05:34:08+09:00",
+      "title_original": "\"J’ai senti les Français unis\": les sœurs de Pengo Bossio Wangi, tué dans l'attentat raciste de Trappes, témoignent",
+      "summary_original": "Dans un entretien fleuve accordé à nos confrères de Libération les deux sœurs, Ritsia et Tiffany Brou, de Pengo Bossio Wangi, 26 ans, mort dans l'attentat raciste de Trappes, témoignent de leur sidération et de leur crainte de voir le racisme monter en France.",
+      "url": "https://www.bfmtv.com/societe/j-ai-senti-les-francais-unis-les-s-urs-de-pengo-bossio-wangi-tue-dans-l-attentat-raciste-de-trappes-temoignent_AN-202611220464.html",
+      "published": "2026-11-23T07:48:01+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Retrait de sa candidature à l'élection présidentielle: \"Je dis aux autres faites mieux\", lance François Ruffin",
-      "summary_original": "Dans son communiqué publié ce samedi 21 novembre, le député ex-insoumis n'apporte son soutien à aucun candidat et souhaite \"bon courage et bonne campagne\" aux \"candidats de gauche encore en lice\", sans les citer.",
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-retrait-de-sa-candidature-a-l-election-presidentielle-je-dis-aux-autres-faites-mieux-lance-francois-ruffin_VN-202611220417.html",
-      "published": "2026-11-23T05:29:05+09:00",
+      "title_original": "Ruffin se retire : \"Je leur souhaite bonne chance\" - 22/11",
+      "summary_original": "Chaque week-end, Léopold Audebert vous accompagne de 21h à 00h dans BFM Grand Soir.",
+      "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-ruffin-se-retire-je-leur-souhaite-bonne-chance-22-11_VN-202611220465.html",
+      "published": "2026-11-23T07:44:02+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Retrait de la candidature de François Ruffin à l'élection présidentielle: \"Il a été extrêmement responsable\", déclare Léa Balage El Mariky, députée Les Écologistes",
+      "summary_original": "À cinq mois de la présidentielle, David Lisnard, candidat de droite libérale, plaide pour une primaire de la droite et du centre, mais en déclarant qu'il ne soutiendra pas obligatoirement son vainqueur. À gauche, l'ex-insoumis François Ruffin a déclaré prendre \"acte de l'impasse\" de sa candidature pour 2027 et se retirer de la course à l'Élysée.",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-retrait-de-la-candidature-de-francois-ruffin-a-l-election-presidentielle-il-a-ete-extremement-responsable-declare-lea-balage-el-mariky-deputee-les-ecologistes_VN-202611220460.html",
+      "published": "2026-11-23T07:41:42+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "EN DIRECT, guerre en Ukraine : deux navires, dont un russe, ciblés par des attaques de drones à Benghazi, en Libye, selon les autorités locales",
+      "summary_original": "Les autorités de l’est de la Libye ont annoncé dimanche qu’un deuxième navire avait subi une attaque de drone au large de Benghazi, quelques heures après qu’un bateau russe a été pris pour cible dans le port de cette ville.",
+      "url": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-deux-navires-dont-un-russe-cibles-par-des-attaques-de-drones-a-benghazi-en-libye-selon-les-autorites-locales_6814183_3210.html",
+      "published": "2026-11-23T07:57:04+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "A Angers, militants identitaires et antifascistes se toisent en marge d’un rassemblement interdit contre le « racisme anti-Blancs »",
+      "summary_original": "L’agression de trois étudiants, le 2 octobre sur la terrasse d’un bar à Angers, a mobilisé, dimanche, 200 activistes de l’ultradroite identitaire.",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/22/a-angers-militants-identitaires-et-antifascistes-se-toisent-en-marge-d-un-rassemblement-interdit-contre-le-racisme-anti-blancs_6814249_823448.html",
+      "published": "2026-11-23T07:42:42+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Guadeloupe : le CHU victime d’une « cyberattaque de grande ampleur », le plan blanc déclenché",
+      "summary_original": "L’activité du centre hospitalier, dont le système d’information et la téléphonie sont très affectés, a été déprogrammée « sur la semaine qui vient » afin de « réserver la prise en charge des patients déjà présents et des cas les plus urgents », a annoncé son directeur, Eric Guyadier.",
+      "url": "https://www.lemonde.fr/outre-mer/article/2026/11/22/guadeloupe-le-chu-victime-d-une-cyberattaque-de-grande-ampleur-le-plan-blanc-declenche_6814248_1840826.html",
+      "published": "2026-11-23T06:54:52+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Carlos Alcaraz, sacré pour la première fois aux finales ATP, complète sa collection",
+      "summary_original": "Déjà vainqueur des quatre tournois du Grand Chelem, le tennisman espagnol a remporté, dimanche à Turin, le « tournoi des maîtres » en battant le numéro 1 mondial, Alexander Zverev (6-2, 7-6 [9-7]), au terme d’une explication qui a tourné court.",
+      "url": "https://www.lemonde.fr/sport/article/2026/11/22/carlos-alcaraz-sacre-pour-la-premiere-fois-aux-finales-atp-complete-sa-collection_6814247_3242.html",
+      "published": "2026-11-23T06:21:31+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -297,15 +333,6 @@
       "summary_original": "La manifestation a été organisée à l’appel du principal parti d’opposition de Turquie, le Yeni Parti (« Nouveau Parti »), après que la chaîne d’opposition Sözcü TV a vu ses bureaux perquisitionnés, mardi, plusieurs de ses dirigeants arrêtés, et un administrateur nommé à sa tête par le gouvernement.",
       "url": "https://www.lemonde.fr/international/article/2026/11/22/a-istanbul-des-milliers-de-manifestants-ont-denonce-la-mise-sous-tutelle-des-medias-d-opposition-par-l-etat_6814246_3210.html",
       "published": "2026-11-23T04:58:35+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "Au festival Entrevues, à Belfort, le docufiction « I Plant My Hand in the Garden » récompensé par le Grand Prix Janine Bazin",
-      "summary_original": "La 41ᵉ édition, qui s’est achevée dimanche 22 novembre, a été marquée par de nombreux récits inventifs, autour de la migration.",
-      "url": "https://www.lemonde.fr/culture/article/2026/11/22/au-festival-entrevues-a-belfort-le-docufiction-i-plant-my-hand-in-the-garden-recompense-par-le-grand-prix-janine-bazin_6814244_3246.html",
-      "published": "2026-11-23T04:30:04+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -329,37 +356,10 @@
     },
     {
       "source": "Le Monde",
-      "title_original": "EN DIRECT, guerre en Ukraine : un cargo russe en feu à Benghazi, les autorités de l’est de la Libye suspectent une attaque de drones",
-      "summary_original": "Dans un communiqué, le gouvernement basé à Benghazi a annoncé « qu’il est probable qu’il ait été visé par une attaque de drones », et que « le navire était en route pour la Russie et que son escale avait pour but de se ravitailler en carburant et en vivres ».",
-      "url": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-un-cargo-russe-en-feu-a-benghazi-les-autorites-de-l-est-de-la-libye-suspectent-une-attaque-de-drones_6814183_3210.html",
-      "published": "2026-11-23T03:43:43+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
       "title_original": "Choose France : 273 projets industriels seront présentés lors de ce sommet dévolu aux entreprises tricolores",
       "summary_original": "Cette édition, réservée aux entreprises françaises qui investissent dans le pays, décompte 14,9 milliards d’euros d’investissements nouveaux, soit 81 projets inédits, notamment dans les secteurs de la santé, de la cosmétique, ou des biocarburants.",
       "url": "https://www.lemonde.fr/economie-francaise/article/2026/11/22/choose-france-273-projets-industriels-seront-presentes-lors-de-ce-sommet-devolu-aux-entreprises-tricolores_6814240_1656968.html",
-      "published": "2026-11-23T03:42:12+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "La Corse placée en vigilance orange pour des vents violents à partir de lundi ; l’Ain et le Jura touchés par de fortes pluies et face à des risques d’inondations",
-      "summary_original": "Des pointes jusqu’à 170 km/h seront possibles dans la péninsule du Cap-Corse, lundi, alors que des cumuls de pluie exceptionnels sont attendus sur le Haut-Jura et les plateaux, dimanche. Dans le Pas-de-Calais, la vigilance orange est maintenue pour la Canche.",
-      "url": "https://www.lemonde.fr/climat/article/2026/11/22/la-corse-placee-en-vigilance-orange-pour-des-vents-violents-a-partir-de-lundi-l-ain-et-le-jura-touches-par-de-fortes-pluies-et-face-a-des-risques-d-inondations_6814193_1652613.html",
-      "published": "2026-11-23T03:09:17+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "L’ascension éclair de la paire française Arribagé-Olivetti, sacrés « maîtres » des finales ATP à peine un an après leurs débuts",
-      "summary_original": "Les Français l’ont emporté, dimanche à Turin, en finale du tournoi des maîtres face à la paire Arévalo-Pavic (3-6, 7-6, 10-6). Une victoire qui vient couronner une première saison presque parfaite.",
-      "url": "https://www.lemonde.fr/sport/article/2026/11/22/l-ascension-eclair-de-la-paire-francaise-arribage-olivetti-sacres-maitres-des-finales-atp-a-peine-un-an-apres-leurs-debuts_6814235_3242.html",
-      "published": "2026-11-23T02:09:44+09:00",
+      "published": "2026-11-23T03:42:11+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -419,15 +419,6 @@
     },
     {
       "source": "Les Echos",
-      "title_original": "Historique Actions Nixxy - NIXX US75630B5012",
-      "summary_original": "Historique Actions Nixxy - NIXX US75630B5012 Investir Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdVJKSkRJSnFpa1V0emxHSnBwVTJVOWVQQ1EwdlFkWHFyYmwzVW1kV0V6aWMxN284cE9DOHRnRFkwLURKSEpVc2JWTkE3NkFtenR5Q2pEWDUxQVl5Rm40a1ZaRkFlX2l0NEdwc3h3d2FUWnhKYkZMcjlzTE9tdFhoOWVZRXZlM3V2TFE?oc=5",
-      "published": "2026-11-23T02:28:42+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Les Echos",
       "title_original": "Société Actions Lichen CN Ltd - LICN KYG5479G1249",
       "summary_original": "Société Actions Lichen CN Ltd - LICN KYG5479G1249 Investir Les Echos",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU0ZkMWdvSXdLU0NxVUV6S2dZTlFhWkJXUDUyQzRaNjVxMlFBdVRDdmRCQUdKY3IxVE4xaGhtMmRqdVF0Q1YyMkt5cklVVVM3YXhKUEZyUmFWcUZyV1RFXzZ3T1BTM2pRcC1IY2NVRXhuMnZ6UEtCczRHV2wxeVZxRS1tVGpkQmU2SG53QlJFX1U?oc=5",
@@ -436,20 +427,56 @@
       "state_media": false
     },
     {
+      "source": "Les Echos",
+      "title_original": "Actualités & conseils Actions Avenzo Therape - AVZO US0539281073",
+      "summary_original": "Actualités & conseils Actions Avenzo Therape - AVZO US0539281073 Investir Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLWhxekJyeHdJUkpQd2FZNm5VQ0Rwd3NXOUNrX2JlZ0R0ajhvOEFoMzNRYTlFdzFoemdFc1FrUlJiUWkycGxFMTBGNzBnZldpZzlwbU5LOTlMNTZKOTBGaGItUWl2VlZkV2cySzRHbjRXdWJwT25iOUVDU2x3aURHOWIwcDRHVGZ3TnlLWEVsdmRCb2tEeVJKSGt1ZUNaYTZOdmc?oc=5",
+      "published": "2026-11-23T02:28:41+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
       "source": "Le Figaro",
-      "title_original": "Présidentielle 2027 : pour David Lisnard, une primaire sans Édouard Philippe n’aurait « aucun sens »",
-      "summary_original": "Invité dimanche du « Grand Oral 2027 BFMTV-Le Figaro », le candidat Nouvelle Énergie à l’Élysée, porté par sa percée dans les sondages, pose ses conditions à une primaire.",
-      "url": "https://www.lefigaro.fr/elections/presidentielles/primaires-droite/presidentielle-2027-pour-david-lisnard-une-primaire-sans-edouard-philippe-n-aurait-aucun-sens-20261122",
-      "published": "2026-11-23T05:34:01+09:00",
+      "title_original": "Ligue 1 : giflé au Vélodrome par Le Mans, Marseille rate l’occasion de grimper sur le podium",
+      "summary_original": "Après avoir inscrit deux buts en première période, l’OM a cédé au retour des vestiaires (2-3) et vu sa série de cinq victoires en championnat brutalement s’arrêter.",
+      "url": "https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-gifle-au-velodrome-par-le-mans-marseille-rate-l-occasion-de-grimper-sur-le-podium-20261122",
+      "published": "2026-11-23T08:08:14+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Le Figaro",
-      "title_original": "Tennis : Alcaraz fait plier Zverev et remporte son premier Masters ATP",
-      "summary_original": "Après avoir dominé la rencontre de bout en bout, Alcaraz a dû finalement s’employer pour venir à bout de Zverev dans le deuxième set (6-2, 7-6) et remporter le Masters pour la première fois de sa carrière.",
-      "url": "https://www.lefigaro.fr/sports/tennis/tennis-alcaraz-fait-plier-zverev-et-remporte-son-premier-masters-atp-20261122",
-      "published": "2026-11-23T04:48:42+09:00",
+      "title_original": "Coupe Davis : «Je ne crois pas que ma participation soit en danger», Zverev espère être à Bologne malgré sa cheville douloureuse",
+      "summary_original": "L’Allemand, numéro 1 mondial, ne croit pas que sa participation à la phase finale de la Coupe Davis, du 24 au 29 novembre à Bologne, soit remise en cause par ses problèmes à une cheville, a-t-il déclaré dimanche en marge du Masters ATP.",
+      "url": "https://www.lefigaro.fr/sports/tennis/coupe-davis/coupe-davis-je-ne-crois-pas-que-ma-participation-soit-en-danger-zverev-espere-etre-a-bologne-malgre-sa-cheville-douloureuse-20261122",
+      "published": "2026-11-23T07:34:03+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "« Tout le monde chez nous n’est pas de gauche » : quand le vote RN progresse chez les personnes LGBT",
+      "summary_original": "ENQUÊTE - En se présentant comme le protecteur des minorités sexuelles face aux agressions homophobes, le parti de Marine Le Pen dépasse LFI dans les intentions de vote chez les LGBT.",
+      "url": "https://www.lefigaro.fr/actualite-france/tout-le-monde-chez-nous-n-est-pas-de-gauche-quand-le-vote-rn-progresse-chez-les-personnes-lgbt-20261122",
+      "published": "2026-11-23T06:18:50+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "«Notre presse a été réduite au silence» : des milliers de personnes manifestent à Istanbul contre la fermeture de médias d'opposition",
+      "summary_original": "La manifestation était organisée à l’appel du principal parti d’opposition après la descente de police mardi à Istanbul au siège d’une chaîne d’opposition. La liberté de la presse est soumise à une pression constante depuis dix ans en Turquie.",
+      "url": "https://www.lefigaro.fr/international/notre-presse-a-ete-reduite-au-silence-des-milliers-de-personnes-manifestent-a-istanbul-contre-la-fermeture-de-medias-d-opposition-20261122",
+      "published": "2026-11-23T06:02:33+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Présidentielle 2027 : pour David Lisnard, une primaire sans Édouard Philippe n’aurait « aucun sens »",
+      "summary_original": "Invité dimanche du « Grand Oral 2027 BFMTV-Le Figaro », le candidat Nouvelle Énergie à l’Élysée, porté par sa percée dans les sondages, pose ses conditions à une primaire.",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/primaires-droite/presidentielle-2027-pour-david-lisnard-une-primaire-sans-edouard-philippe-n-aurait-aucun-sens-20261122",
+      "published": "2026-11-23T05:34:01+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -473,37 +500,10 @@
     },
     {
       "source": "Le Figaro",
-      "title_original": "« Tout le monde chez nous n’est pas de gauche » : quand le vote RN progresse chez les personnes LGBT",
-      "summary_original": "ENQUÊTE - En se présentant comme le protecteur des minorités sexuelles face aux agressions homophobes, le parti de Marine Le Pen dépasse LFI dans les intentions de vote chez les LGBT.",
-      "url": "https://www.lefigaro.fr/actualite-france/tout-le-monde-chez-nous-n-est-pas-de-gauche-quand-le-vote-rn-progresse-chez-les-personnes-lgbt-20261122",
-      "published": "2026-11-23T04:18:33+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
       "title_original": "PSG : après sa rupture des ligaments croisés face à Nice, Doué victime d’une tentative de cambriolage dans les Yvelines",
       "summary_original": "Sorti sur civière à Nice ce samedi, l’attaquant parisien, victime d’une rupture du ligament croisé du genou droit, a également été confronté à une tentative de cambriolage à son domicile, selon le Parisien.",
       "url": "https://www.lefigaro.fr/sports/football/ligue-1/psg-apres-sa-rupture-des-ligaments-croises-face-a-nice-doue-victime-d-une-tentative-de-cambriolage-dans-les-yvelines-20261122",
       "published": "2026-11-23T04:00:33+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "La règle d’or peut-elle vraiment contraindre la France à sortir de la spirale infernale de la dette ?",
-      "summary_original": "DÉCRYPTAGE - Ce mécanisme, plébiscité par plusieurs candidats à l’élection présidentielle, interdirait aux parlementaires de voter une loi de finances dépassant un certain niveau de déficit public.",
-      "url": "https://www.lefigaro.fr/conjoncture/la-regle-d-or-peut-elle-vraiment-contraindre-la-france-a-sortir-de-la-spirale-infernale-de-la-dette-20261122",
-      "published": "2026-11-23T03:40:24+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "EN DIRECT - Présidentielle 2027 : David Lisnard assure qu’il ne gouvernera pas avec le RN et qu’il n’a pas «voulu devenir ministre macroniste»",
-      "summary_original": "Le maire de Cannes dit combattre «depuis toujours le social-étatisme», dont Marine Le Pen serait, selon lui, «une version».",
-      "url": "https://www.lefigaro.fr/politique/en-direct-presidentielle-2027-david-lisnard-voit-une-primaire-comme-un-moyen-d-exclure-les-macronistes-20261122",
-      "published": "2026-11-23T03:33:03+09:00",
       "via": "rss",
       "state_media": false
     },
