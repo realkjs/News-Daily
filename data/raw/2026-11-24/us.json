@@ -1,0 +1,801 @@
+{
+  "team": "us",
+  "team_name_ko": "미국팀",
+  "collected_at": "2026-11-24T06:13:06.503409+09:00",
+  "headlines": [
+    {
+      "source": "CNN",
+      "title_original": "House Ethics panel finds Democratic Rep. Jimmy Gomez made unwanted sexual advances toward former staffer",
+      "summary_original": "House Ethics panel finds Democratic Rep. Jimmy Gomez made unwanted sexual advances toward former staffer CNN",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT0RON1p4R1hVNURrOFUwU3hCMElqZV96ZDNLUlNDQ1RLV1N3WnN6QXgzcEpBeXFTS0prdFBGdk9aQmZnOVZhSFREeEdIU0lLbUJMOEhlSHpoOEZ5WEZhQ3FHVkVUTkh0eElvNllYY3ZlQXBtcng0STVNZTFHZ2lLVmVpWjIzY0x3OV9iYVUxcw?oc=5",
+      "published": "2026-11-24T04:51:12+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "CNN",
+      "title_original": "7-year-old boy rescued after 14 hours trapped in debris of Russian strike",
+      "summary_original": "7-year-old boy rescued after 14 hours trapped in debris of Russian strike CNN",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQktHTlMwcHV3QmNyajV5UVNrcHlRYVVER21VX1A0bE1aRjNHUzZuZkVLS3NHc2xtUEEtV1NVMXdESGEyeDM3Q0xSYmJYakQtaXR1ZEM0NktoVlpoTFdnZXVYTk1YRFlNcGg5V2U1TjlSQUxmVjRUa19HVGVHYkZ2Rl81UC1xdzlvRmUtd1NXejgzaW5RUHlLRTM5bGhCYWltQVN2cA?oc=5",
+      "published": "2026-11-24T04:28:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "CNN",
+      "title_original": "‘Like a kidnapping’: Passenger describes ICE arrest on Seattle airport jetway",
+      "summary_original": "‘Like a kidnapping’: Passenger describes ICE arrest on Seattle airport jetway CNN",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZWxPRTlIUWRseWVjZ1JtVFVWNy14aWxvRTNLZ2ZZY1pFSWRMbUtoX0c0WlFDbDFROFRYUWFBd2Vrc0xDNFlxYVhsY2lESEhKdmFYZTltbTRXc1EyV2JhTGMwWkdIdUNMdWVXVG1IS3pwc3RmRm5wc3o5WWI0cWdhdThub3YzN1F6VGZiRGNrV1ZrUml5cjdVaXNQLUxLUXpwbk9fZUJyTGpuY3lId21obVN1ZlAtQ09uYkE?oc=5",
+      "published": "2026-11-24T04:05:55+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "CNN",
+      "title_original": "The Situation Room with Wolf Blitzer and Pamela Brown",
+      "summary_original": "The Situation Room with Wolf Blitzer and Pamela Brown CNN",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaC1TRWF6QURBNXpOYnJWLWFhX2RhcG84U2VNa1JYR1MwR0s3QldIX1lNUmdPQ1NZVWFtMWtCMTVNVHl6Ty0tSnVMWlhpaXc5TFhEa3VhcHE5cHYtTnhjN3luTDg5aTJ1YlpqRjJnNkVabE9PSE9TX25qNW9rZ3ZPN2Raa1d3dmg0VklkMGNtZXhVem9iOThVR0w4aHlZaGpWb005MWJtSVdZTVFfQUJwdGt4WFozSW5mN2JDNmpOcEFhX3djcjRGVkpVcmlMbGlzSXhUWg?oc=5",
+      "published": "2026-11-24T03:59:08+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "CNN",
+      "title_original": "COP31 was a ‘disaster,’ says climate scientist",
+      "summary_original": "COP31 was a ‘disaster,’ says climate scientist CNN",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5SOVpkUEpnVTE0eVFiSFpwMERrMUxBZllyZmg1dm5NNDhMc0U3dktORzlkS1JKWFdBWEtFMENic1JtdHAzcmVzTERDdkpHZTM5Z0U4Sloydl90Z3kxZERFbDU1SzJpV0czNVg0bW9YTm5TOUVUTHZmZXRJSQ?oc=5",
+      "published": "2026-11-24T03:47:12+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "CNN",
+      "title_original": "Dems must make new promise to be on 2028 debate stage: ‘I will denounce the outside spending.’",
+      "summary_original": "Dems must make new promise to be on 2028 debate stage: ‘I will denounce the outside spending.’ CNN",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcGdHRTZsVms1ZjdjbGtoWjZjNFg5eDVfa3RXREhrSnlWdmthZVVVYUJISDg5WDRibzhTU1pnWDZ1cEI4c1RFTS1ndHlzaEg4enl0bFpYeFdLZ3hCY2dPbm9sa2U3dlBJOGJSOWlJbGloeFpsemROYnp5NGhGUGhfOENyb0pyYTEzcWpzWVJHRGE?oc=5",
+      "published": "2026-11-24T03:46:39+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "CNN",
+      "title_original": "I tested most of Dyson’s products. These are the best Dyson Black Friday deals to grab",
+      "summary_original": "I tested most of Dyson’s products. These are the best Dyson Black Friday deals to grab CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelo5UVVkanc3UkJIZjdlNnFTbUtBY0hWcnhJaU53SzJjVVQxV0tLUzNYUGdWekg4OTU2RnZsRVF4ajhINTRxZGlhaTNnOERIaTd3MnFUNnFDMTExbk1IQzl3Q3pQSmMwRklscllLeXUxRi1yUVBaa1lhTVByTVY2UHFRR3dsODZD?oc=5",
+      "published": "2026-11-24T03:36:53+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "CNN",
+      "title_original": "Transition to clean energy ‘irreversible’, says UN climate strategist",
+      "summary_original": "Transition to clean energy ‘irreversible’, says UN climate strategist CNN",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRTBiNUVCaWVJWk0wQVh1Z2pBaGpFWndudnZmZnU4SjNqdEtSR0pfNGh0b3JlNEVWOG1TUWhLaGdVVm5mTlZSSWMzQzFzYmQ1NEF5WGlteFliMXZFcTd2YnVmN0toSW1TaVh6S0Fud1ZQZVNKUUFJRDA4WHlaZTMxZA?oc=5",
+      "published": "2026-11-24T03:30:16+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Fox News",
+      "title_original": "California nursing student and mom arrested months after man’s body turns up in ravine: police",
+      "summary_original": "A truck driver's call near Livermore, California, led police to Marcelino Perez Jimenez's body in a ravine and a murder investigation reaching San Jose.",
+      "url": "https://www.foxnews.com/us/california-nursing-student-mom-arrested-months-after-mans-body-turns-up-ravine-cops",
+      "published": "2026-11-24T06:04:16+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Fox News",
+      "title_original": "NFL refs continue to be shockingly bad, Tom Jackson was our childhood & has fantasy football lost its luster?",
+      "summary_original": "Tom Jackson and Chris Berman's \"NFL Primetime\" defined Sunday nights before RedZone existed, and fans are mourning a piece of their childhood.",
+      "url": "https://www.foxnews.com/outkick-sports/nfl-refs-continue-shockingly-bad-tom-jackson-childhood-fantasy-football-lost-luster",
+      "published": "2026-11-24T05:31:25+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Fox News",
+      "title_original": "States rally behind Catholic church in first-of-its-kind Supreme Court fight over prayer shrine",
+      "summary_original": "A Kentucky Catholic community's Virgin Mary prayer grotto sparked a neighbors' zoning fight now at the Supreme Court in a RLUIPA religious liberty case.",
+      "url": "https://www.foxnews.com/politics/states-rally-behind-catholic-church-first-of-its-kind-supreme-court-fight-prayer-shrine",
+      "published": "2026-11-24T05:23:27+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Fox News",
+      "title_original": "College basketball gets a new No. 1 as three teams fall out of the AP top five in a single week",
+      "summary_original": "Houston jumps from No. 8 to No. 1 in the AP Top 25 after winning the Players Era title in Las Vegas, earning a record 55 of 59 first-place votes.",
+      "url": "https://www.foxnews.com/outkick-sports/college-basketball-new-no-1-three-teams-fall-ap-top-five-single-week",
+      "published": "2026-11-24T05:15:09+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Fox News",
+      "title_original": "Best Sportsbook Promos for Monday Night Football: Claim $2000+ on Commanders vs Bengals",
+      "summary_original": "The best sportsbook promos for Monday Night Football, with $2,000+ in bonuses from BetMGM, Fanatics, FanDuel, bet365, Hard Rock Bet, Underdog and Betr for Bengals at Commanders.",
+      "url": "https://www.foxnews.com/outkick-betting/best-sportsbook-promos-monday-night-football-claim-2000-commanders-vs-bengals",
+      "published": "2026-11-24T05:06:08+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Fox News",
+      "title_original": "Russia could launch nuclear-capable satellite within weeks, Western intelligence warns: report",
+      "summary_original": "Western intelligence reportedly warns Russia's nuclear satellite could launch in 60 days, threatening thousands of United States and allied satellites.",
+      "url": "https://www.foxnews.com/world/russia-could-launch-nuclear-capable-satellite-within-weeks-western-intelligence-warns-report",
+      "published": "2026-11-24T05:05:36+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Fox News",
+      "title_original": "US urges Americans in historic region to stay alert after 'dangerous' airspace incident",
+      "summary_original": "U.S. Mission Poland is warning Americans to be cautious after suspected Russian missiles and a drone crashed in southeastern Poland, near the Ukrainian border.",
+      "url": "https://www.foxnews.com/travel/us-urges-americans-historic-region-stay-alert-dangerous-airspace-incident",
+      "published": "2026-11-24T05:05:23+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Fox News",
+      "title_original": "Bet365 Bonus Code: Bet $10, Get $200 on Monday Night Football, Commanders vs Bengals",
+      "summary_original": "bet365 gives new users $200 in bonus bets, win or lose, when they bet $10 on Bengals at Commanders on Monday Night Football.",
+      "url": "https://www.foxnews.com/outkick-betting/bet365-bonus-code-bet-10-get-200-monday-night-football-commanders-vs-bengals",
+      "published": "2026-11-24T05:02:26+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "NBC News",
+      "title_original": "Trump postpones planned detonation of toxic drums at Iowa army facility",
+      "summary_original": "President Donald Trump said Monday he had ordered the Army not to go forward with the planned detonation of a Iowa bunker filled with drums of lead azide until the courts weigh in.",
+      "url": "https://www.nbcnews.com/science/environment/trump-postpones-planned-detonation-toxic-drums-iowa-army-facility-rcna610945",
+      "published": "2026-11-24T04:13:20+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "NBC News",
+      "title_original": "Trump postpones planned detonation of toxic drums at Iowa army facility",
+      "summary_original": "President Donald Trump said Monday he had ordered the Army not to go forward with the planned detonation of a Iowa bunker filled with drums of lead azide until the courts weigh in.",
+      "url": "https://www.nbcnews.com/science/environment/trump-postpones-planned-detonation-toxic-drums-iowa-army-facility-rcna610945",
+      "published": "2026-11-24T04:13:20+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "NBC News",
+      "title_original": "Congress reacts with anger and skepticism about Jensen Huang reinstatement",
+      "summary_original": "The stock market was thrilled with the announcement that Jensen Huang was returning as CEO of Nvidia, but lawmakers on both sides of the aisle reacted with shock — and said they still expect him to answer questions next week on Capitol Hill.",
+      "url": "https://www.nbcnews.com/politics/congress/congress-criticism-jensen-huang-nvidia-reinstated-ceo-trump-rcna610926",
+      "published": "2026-11-24T03:37:25+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "NBC News",
+      "title_original": "U.S. Army veteran mauled to death by pack of dogs in Georgia",
+      "summary_original": "A Georgia family on Monday was preparing to bury an Army veteran and mother of three who was mauled to death last week by a pack of dogs.",
+      "url": "https://www.nbcnews.com/news/us-news/us-army-veteran-mauled-death-pack-dogs-georgia-rcna610896",
+      "published": "2026-11-24T03:11:12+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "NBC News",
+      "title_original": "Bo Derek and John Corbett adopted Gene Hackman’s dog, Bear, after actor’s death",
+      "summary_original": "Hollywood power couple Bo Derek and John Corbett adopted Gene Hackman’s dog after the actor and his wife were found dead last year at their New Mexico home.",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/bo-derek-john-corbett-adopted-gene-hackmans-dog-bear-actors-death-rcna610884",
+      "published": "2026-11-24T01:37:29+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "NBC News",
+      "title_original": "Sheila Mangubat, ‘90 Day Fiancé’ star, dies at 35",
+      "summary_original": "Sheila Mangubat, a fan favorite cast member of reality TV hit “90 Day Fiancé: Before the 90 Days,” has died, according to her former husband-to-be and a family member.",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/sheila-mangubat-90-day-fiance-star-dies-35-rcna610890",
+      "published": "2026-11-24T01:30:51+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "NBC News",
+      "title_original": "President Trump hosts an exclusive dinner for meme coin investors",
+      "summary_original": "President Trump hosts an exclusive dinner at his golf club for investors in his cryptocurrency meme coin. NBC News’ Monica Alba reports on questions from Democratic senators and the growing political fallout surrounding the event.",
+      "url": "https://www.nbcnews.com/video/president-trump-hosts-an-exclusive-dinner-for-meme-coin-investors-274019909510",
+      "published": "2026-11-24T01:14:21+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "NBC News",
+      "title_original": "Trump says he spoke ‘directly and indirectly’ with Nvidia’s board about reinstating Jensen Huang",
+      "summary_original": "President Donald Trump said he spoke with Nvidia’s board members about reinstating Jensen Huang as CEO, telling CNBC on Monday morning that he sought to provide assurances to address their concerns about national security.",
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-nvidia-board-reinstates-jensen-huang-rcna610882",
+      "published": "2026-11-24T00:39:46+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CBS News",
+      "title_original": "Why the Army says it needs to detonate unstable explosives in Iowa",
+      "summary_original": "The U.S. Army plans to detonate 68 drums of lead azide in Iowa despite local leaders and residents raising concerns.",
+      "url": "https://www.cbsnews.com/news/lead-azide-detonation-iowa-army-explosives/",
+      "published": "2026-11-24T06:05:59+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CBS News",
+      "title_original": "Trump says he convinced Nvidia board to reinstate Jensen Huang",
+      "summary_original": "President Trump claimed the government \"has no reason to believe\" Jensen Huang's return is a national security risk.",
+      "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-trump-comment-national-security-risk/",
+      "published": "2026-11-24T06:02:08+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CBS News",
+      "title_original": "Trump, tech CEOs cheer Huang's return, but lawmakers question board",
+      "summary_original": "President Trump and prominent tech figures applauded Huang's reinstatement as CEO, though some lawmakers criticized the move as \"reckless.\"",
+      "url": "https://www.cbsnews.com/news/trump-elon-musk-business-leaders-cheer-jensen-huang-ceo-nvidia/",
+      "published": "2026-11-24T05:55:56+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CBS News",
+      "title_original": "Jimmy Gomez to resign after Ethics panel finds evidence of misconduct",
+      "summary_original": "The bipartisan committee said Rep. Jimmy Gomez made unwanted sexual advances and sexual contact with a House staffer.",
+      "url": "https://www.cbsnews.com/news/house-ethics-investigation-jimmy-gomez-sexual-misconduct/",
+      "published": "2026-11-24T05:50:30+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CBS News",
+      "title_original": "Democrats have flipped 47 House seats. Here's the breakdown.",
+      "summary_original": "Democrats won control of the House by flipping dozens of Republican-held seats, picking up perennial swing districts and seats that were once considered deep red.",
+      "url": "https://www.cbsnews.com/news/house-districts-flipped-2026-midterm-elections/",
+      "published": "2026-11-24T05:38:43+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CBS News",
+      "title_original": "Did GOP efforts to redistrict the House turn into a dummymander?",
+      "summary_original": "Republicans undertook a historic effort to redraw several states' congressional districts mid-decade in an attempt to maintain control of the House.",
+      "url": "https://www.cbsnews.com/news/dummymander-republican-redistricting-congress-trump/",
+      "published": "2026-11-24T05:38:05+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CBS News",
+      "title_original": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
+      "summary_original": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
+      "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/",
+      "published": "2026-11-24T05:36:11+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CBS News",
+      "title_original": "Taking on credit card debt to buy food",
+      "summary_original": "According to a recent survey, about 63% of Americans are using credit cards to buy increasingly expensive groceries – and many are having trouble paying off that food debt.",
+      "url": "https://www.cbsnews.com/news/taking-on-credit-card-debt-to-buy-food/",
+      "published": "2026-11-24T05:35:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ABC News",
+      "title_original": "LIVE: ABC News Live",
+      "summary_original": "24/7 coverage of breaking news and live events",
+      "url": "https://abcnews.com/video/41463246/",
+      "published": "2026-11-24T06:05:34+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ABC News",
+      "title_original": "Trump says he 'convinced' Nvidia board to reinstate Jensen Huang",
+      "summary_original": "Jensen Huang has been reinstated as president and CEO of Nvidia.",
+      "url": "https://abcnews.com/Politics/made-deal-trump-convinced-nvidia-board-reinstate-jensen/story?id=138373104",
+      "published": "2026-11-24T05:12:16+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ABC News",
+      "title_original": "NYC Mayor Mamdani to undergo surgery this week following soccer injury",
+      "summary_original": "\"I'm scared; it will be my first surgery,\" Mamdani said during an unrelated news conference on Monday.",
+      "url": "https://abcnews.com/US/nyc-mayor-mamdani-undergo-surgery-week-soccer-injury/story?id=138380557",
+      "published": "2026-11-24T04:12:44+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ABC News",
+      "title_original": "Trump says he has ordered military to hold off on Iowa explosives detonation for now",
+      "summary_original": "Trump said he wants the OK from the federal appeals court and incoming Iowa governor to proceed.",
+      "url": "https://abcnews.com/Politics/trump-ordered-military-hold-off-iowa-explosives-detonation/story?id=138384845",
+      "published": "2026-11-24T04:09:26+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ABC News",
+      "title_original": "WATCH: Celebrating Tom Jackson's extraordinary life and legacy",
+      "summary_original": "The ESPN legend and former All-Pro linebacker died at 75.",
+      "url": "https://abcnews.com/video/138372830/",
+      "published": "2026-11-24T02:15:51+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ABC News",
+      "title_original": "WATCH: How AI tools can help lock in the lowest prices for holiday shopping",
+      "summary_original": "More than 40% of consumers have used AI assistants for online shopping, according to Adobe, and ABC News’ Becky Worley tried them to see how they can help with your shopping.",
+      "url": "https://abcnews.com/video/138373151/",
+      "published": "2026-11-24T01:19:02+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ABC News",
+      "title_original": "WATCH: NFL Sunday’s biggest moments",
+      "summary_original": "“GMA” has highlights from the San Francisco 49ers-Minnesota Vikings and Kansas City Chiefs-Arizona Cardinals games, plus a preview of Monday night's Cincinnati Bengals-Washington Commanders matchup.",
+      "url": "https://abcnews.com/video/138373307/",
+      "published": "2026-11-23T22:39:26+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "ABC News",
+      "title_original": "FBI's national crime database targeted in hack, Trump says",
+      "summary_original": "President Donald Trump confirmed on Saturday that the FBI’s National Crime Information Center database was targeted in a hack.",
+      "url": "https://abcnews.com/US/fbis-national-crime-database-targeted-hack-trump/story?id=138347810",
+      "published": "2026-11-23T20:53:51+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CNBC",
+      "title_original": "Dow soars 1,400 points; Nasdaq surges 6% in its best day since April 2025 as Jensen Huang returns to Nvidia",
+      "summary_original": "U.S. equities surged on Monday after Nvidia reinstated Jensen Huang as CEO.",
+      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
+      "published": "2026-11-24T06:10:49+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CNBC",
+      "title_original": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
+      "summary_original": "The Nvidia board said it had input from senior levels of the U.S. government.",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "published": "2026-11-24T06:08:05+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CNBC",
+      "title_original": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
+      "summary_original": "CrowdStrike and competitors have shelled out billions to ramp up defenses in the wake of AI cyberattacks.",
+      "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
+      "published": "2026-11-24T06:04:03+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CNBC",
+      "title_original": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+      "summary_original": "The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027.",
+      "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+      "published": "2026-11-24T06:02:17+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CNBC",
+      "title_original": "Jensen Huang cheered by Nvidia employees after return, pledges to be a better CEO",
+      "summary_original": "Nvidia's Jensen Huang admitted to an affair in a note to employees on Nov. 8 and resigned as CEO on Nov. 12.",
+      "url": "https://www.cnbc.com/2026/11/23/jensen-huang-nvidia-ceo-return.html",
+      "published": "2026-11-24T05:57:41+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CNBC",
+      "title_original": "Nvidia breathes new life into the AI trade. Plus, Qnity inks a smart deal to get stronger",
+      "summary_original": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/investingclub/2026/11/23/nvidia-breathes-new-life-into-the-ai-trade-plus-qnity-inks-a-smart-deal-to-get-stronger.html",
+      "published": "2026-11-24T05:03:25+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CNBC",
+      "title_original": "Average 401(k), IRA balances fall as more workers raid their accounts, Fidelity says",
+      "summary_original": "Retirement account balances fell in the third quarter amid market swings, according to Fidelity. At the same time, more savers tapped their accounts for cash.",
+      "url": "https://www.cnbc.com/2026/11/23/fidelity-401k-ira-balances-q3-2026.html",
+      "published": "2026-11-24T04:54:35+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "CNBC",
+      "title_original": "Trump administration proposes rule that could curb ESG investing in 401(k)s",
+      "summary_original": "The Labor Department proposed a regulation Monday that seeks to curb uptake of ESG funds in workplace retirement plans such as 401(k)s.",
+      "url": "https://www.cnbc.com/2026/11/23/labor-department-esg-401k-rule.html",
+      "published": "2026-11-24T04:46:28+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "‘Key Man Risk’ Meets ‘Too Big to Fail’",
+      "summary_original": "The Jentervation!",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-23/-key-man-risk-meets-too-big-to-fail",
+      "published": "2026-11-24T05:22:04+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "‘Party Is Back On’: Roundhill’s Drew Pettit",
+      "summary_original": "Drew Pettit, chief investment strategist at Roundhill Investments, joins Scarlet Fu and Eric Balchunas on “Bloomberg ETF IQ.” They discuss the shocking return of Jensen Huang as CEO of Nvidia. (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-23/-party-is-back-on-roundhill-s-drew-pettit-video",
+      "published": "2026-11-24T05:11:58+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Brazil Mining Agency Shortfalls Threaten Critical Minerals Push",
+      "summary_original": "Brazil’s ambition to be a critical minerals powerhouse is running up against problems of its own making: chronic budget and staffing shortages at the country’s mining regulator.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/brazil-mining-agency-shortfalls-threaten-critical-minerals-push",
+      "published": "2026-11-24T05:11:19+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Nvidia Surge Crushes Short-Leveraged Funds With Losses Up to 92%",
+      "summary_original": "For investors betting against Nvidia Corp., Monday’s big rebound turned a lucrative wager into a financial wrecking ball.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-s-big-rebound-hammers-leveraged-funds-betting-on-a-fall",
+      "published": "2026-11-24T04:58:41+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "CFTC Awards Multiple Whistleblowers Over $11 Million for Tips",
+      "summary_original": "The US derivatives regulator doled out more than $11 million in whistleblower awards to 14 people who shared key information to help Commodity Futures Trading Commission staff bring successful enforcement cases.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/cftc-awards-multiple-whistleblowers-over-11-million-for-tips",
+      "published": "2026-11-24T04:56:46+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Roundhill’s Pettit Discusses Jensen Huang’s Return",
+      "summary_original": "Drew Pettit, chief investment strategist at Roundhill Investments, joins Scarlet Fu and Eric Balchunas on “Bloomberg ETF IQ.” They discuss the shocking return of Jensen Huang as CEO of Nvidia. (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-23/roundhill-s-pettit-discusses-jensen-huang-s-return-video",
+      "published": "2026-11-24T04:50:58+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "A Great Time To Diversify: Todd Sohn",
+      "summary_original": "Todd Sohn, chief ETF strategist at Baird Strategas, joins Scarlet Fu and Eric Balchunas on “Bloomberg ETF IQ.” They discuss that Nvidia’s board reinstated Jensen Huang in one of the most startling corporate comebacks in history, sending the stock on its biggest rally in decades. (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-23/a-great-time-to-diversify-todd-sohn-video",
+      "published": "2026-11-24T04:46:25+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Bloomberg",
+      "title_original": "Everyone Surprised by Huang’s Return: ProShares’ Kang",
+      "summary_original": "Inkoo Kang, executive director of tactical products at ProShares, joins Scarlet Fu and Eric Balchunas on “Bloomberg ETF IQ.” They discuss the ProShares Ultra NVDA ETF (ticker: NVDB) and the firm’s new Anthropic ETFs. (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-23/everyone-surprised-by-huang-s-return-proshares-kang-video",
+      "published": "2026-11-24T04:23:35+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "AP",
+      "title_original": "US stocks surge and recover half of last week’s plunge after Jensen Huang returns as Nvidia’s CEO",
+      "summary_original": "US stocks surge and recover half of last week’s plunge after Jensen Huang returns as Nvidia’s CEO AP News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNF9ZLU84V2VPZHBHcGx0V3p5TVVoV21zbUYyQWFOWU96ZjBmcExvQ1lpVmtFRzl5RVpXdFg3TGhUM3ZHM282MkdnMVgxZ2lwUTRkcm9KaWlHMEcyZ3R6amZIM25vMFRRM0l1OXNxMFFSQVVnR3hzY3BNb1NyUWwxa2hLMndRMkpVZ2l2X0N2Z3JFcmRVMzRMZldCbzlEZkpGZjNmTVJZdw?oc=5",
+      "published": "2026-11-24T06:04:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "AP",
+      "title_original": "Trump will target Newsom in speech to a Justice Department transformed by pursuit of his adversaries",
+      "summary_original": "Trump will target Newsom in speech to a Justice Department transformed by pursuit of his adversaries AP News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWFjLURJa1hNVkMxMm9oTFozQkFlRlFLcnQ1M3VidldBSGV0am5ILURoX2tBRW81OHF2ZHVaOWV0UmprWFJLOVRrVmVqZnYwclA2bXBFRFFhZWFnUGV4aHZOSjFNR2VCbG9wNURZQ3AzY1J4SnR4RE9ISGFMSE1VcGdOZVhPWDB3Unhudi04eFB1Q3EtQ19YTWh4SzdRa2Rp?oc=5",
+      "published": "2026-11-24T05:23:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "AP",
+      "title_original": "Trump orders the Army not to detonate bomb-making chemicals in Iowa without court approval",
+      "summary_original": "Trump orders the Army not to detonate bomb-making chemicals in Iowa without court approval AP News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYnFzVFZqMjBjY2Y1cll0UUxLU2VQMktTZDQ5QmFpaENUUzBXeHJJRS1nQUtpLUdhYVFVbnUxaGI1d1lWc0lwSUM1MWVNcGY0MlVEY3dDbFRXbGxMX3BvRzMzYnFhcTZFUG1xcTh6bDRlQVNhR1JlVmxxVEJ6S2xCZjZxRDgtcGFZWndwUUJ3RkdGLWFDakE?oc=5",
+      "published": "2026-11-24T05:08:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "AP",
+      "title_original": "Nvidia board reinstates Jensen Huang as CEO just days after rejecting his offer to return",
+      "summary_original": "Nvidia board reinstates Jensen Huang as CEO just days after rejecting his offer to return AP News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbUdPNnFZNXVRRHJqeGNYX0ptRk1oUW85OHlueHM2aW5teGxVWmViTWdKOGVTTVBYdWNVTjA3M2d4NUFfQ1Fac2g2ZzVZZ0hMdnZ6V1RQdFRmdWNfZlFzNnRYNmR0YWsxUjFIaTNYR2c5V3RQUHdVVUx4X1loaHF6dEcyNF9fQQ?oc=5",
+      "published": "2026-11-24T05:07:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "AP",
+      "title_original": "Small US trucking firms scramble to survive mounting diesel costs",
+      "summary_original": "Small US trucking firms scramble to survive mounting diesel costs AP News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLWFXUGpHX1BmYW5IQ2MyQ2kzUlh4RzVDYkhRQTJQYm9aQUF0ZFItUHlfVDB2NFNrZUVKOEVHVEtnUWVQcG5xaFJPbUw1RHdyVDdtY2UxZ01oN0t6eEIxR3dRUGZYdnZwTV9NUHlpWmkwejN1QzFhcHpESUxTVXFud3ctNTNjVjBuUmxMR0JzVVZLZHNBYXU2RkRROFNtZ0FKb1JSbg?oc=5",
+      "published": "2026-11-24T05:07:00+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "AP",
+      "title_original": "Immigration",
+      "summary_original": "Immigration AP News",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBySVUtSnV5U1NPYXI2a2tlb1BidXFsSGNrOUdRUFo5b29xanY5RmtOYzZ6YXBDbk4yODJsTEd4ZC1kckdwLXdQa0h3?oc=5",
+      "published": "2026-11-24T04:57:54+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "AP",
+      "title_original": "Fires",
+      "summary_original": "Fires AP News",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBPaVVjajlCY09pVFY5UWFvaUhMUFlhWEZ4ajJ5MkxmZlhUcGpDMUp6dG15Rk92dWlqXzFHV2lLaGp4Zw?oc=5",
+      "published": "2026-11-24T04:44:19+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "AP",
+      "title_original": "Golf",
+      "summary_original": "Golf AP News",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9RUlJ6amlDc3NsdWNwM2ZpeU1OQnBiMWxWbGhWMUVHWmZSY0taVTZsRnNyWC00ZTQxd3RjcS15SzQ?oc=5",
+      "published": "2026-11-24T04:43:16+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "New York Times",
+      "title_original": "As Tides Near Record Levels in California, a Storm Threatens to Make Things Worse",
+      "summary_original": "High tides reaching two or more feet above normal may cause flooding this week, forecasters warned.",
+      "url": "https://www.nytimes.com/2026/11/23/weather/california-king-tides-storm.html",
+      "published": "2026-11-24T06:09:53+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "New York Times",
+      "title_original": "In Iowa, Confusion Over Ammunition Explosion as Trump Calls for Delay",
+      "summary_original": "President Trump said on Monday that the Army should wait to detonate a cache of dangerous explosives until a legal challenge is decided. His comments added to a confusing situation.",
+      "url": "https://www.nytimes.com/2026/11/23/climate/iowa-army-ammunition-explosion.html",
+      "published": "2026-11-24T06:09:46+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "New York Times",
+      "title_original": "Turning the Lens Around: Bob Woodward Takes On Bob Woodward",
+      "summary_original": "In a new memoir, the most celebrated journalist of his era finally tells his own story. It was “liberating,” he said in an interview. “Nothing is hidden here.”",
+      "url": "https://www.nytimes.com/2026/11/23/us/politics/bob-woodward-book-secrets.html",
+      "published": "2026-11-24T05:46:43+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "New York Times",
+      "title_original": "Jensen Huang’s Return Shows the Lengths Trump Will Go to Keep A.I. Booming",
+      "summary_original": "President Trump intervened on behalf of the returning Nvidia chief in a bid to boost a key company driving the stock market.",
+      "url": "https://www.nytimes.com/2026/11/23/business/trump-jensen-huang-nvidia.html",
+      "published": "2026-11-24T05:21:44+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "New York Times",
+      "title_original": "Trump Is Said to Have Directed Effort to Reinstate Nvidia Chief",
+      "summary_original": "President Trump decided he wanted to do whatever he could to help Jensen Huang get his old job back, two people familiar with the matter said.",
+      "url": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html",
+      "published": "2026-11-24T04:55:09+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "New York Times",
+      "title_original": "This Is How the Democrats Win MAHA Voters",
+      "summary_original": "It’s time Democrats to do what Robert F. Kennedy Jr. has so far failed to: make America healthier.",
+      "url": "https://www.nytimes.com/2026/11/23/opinion/republicans-maha-democrats-health.html",
+      "published": "2026-11-24T04:41:38+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "New York Times",
+      "title_original": "The National Popular Vote and the End of the Electoral College as We Know It",
+      "summary_original": "A presidential election in which the winner is decided by who gets the most votes is almost a reality.",
+      "url": "https://www.nytimes.com/2026/11/23/opinion/national-popular-vote.html",
+      "published": "2026-11-24T04:40:42+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "New York Times",
+      "title_original": "Amy Nelson Was a Corporate Feminist Darling. Then a Corporation Upended Her Life.",
+      "summary_original": "Amy Nelson, a champion of women in the “girlboss” era, found her family in Amazon’s cross hairs and found herself in a new role as anti-corporate crusader.",
+      "url": "https://www.nytimes.com/2026/11/23/style/amy-nelson-riveter-amazon-fbi-investigation.html",
+      "published": "2026-11-24T04:33:21+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_original": "Flippers Are Making a Killing in Pittsburgh—and Losing Their Shirts in Texas",
+      "summary_original": "Flippers Are Making a Killing in Pittsburgh—and Losing Their Shirts in Texas WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWWNBaW5KTUVhVW40MElVdm15Uk94U2ZXa3NZYWFiVlVpaldoZ2hmbFVvZnhRWTNzV2gxVGJMcDB2blY2cDM5NU93Skt6a0huWWRHRU56VGVUaW16U3FyaGh1Sk5mTHUyWTVJTjRLbkFVdWxRc00xdnhKSzVzakhTNFI3RDV5QUVWOXltVGRUeXYta3laamJXY1AtNWdwb0lfTTNDc3hMRTN3dGpuczVFSjNsenNoamxLa3dGekhscF9yTXZwc19rVQ?oc=5",
+      "published": "2026-11-24T06:07:10+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_original": "Union Pacific CEO Apologizes as March Remark Fuels Opposition to Merger",
+      "summary_original": "Union Pacific CEO Apologizes as March Remark Fuels Opposition to Merger WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVnRremxyWXlsMVdTck9wWTQ4OHRjN2kzTldiWmxWT1BHZzQ4SjdTa0F3dGlxdzlqMGhfeGt4dXlOZE9nV0Nhd0ctWUhxejcxQUFSc0JHcUsxVVFrZDA5MmExSGs5WktCcG0xRjhaNEhuQjQ0TnI0WWE0blpCbm54dHRrVktwLWRqXzlSZnhjbEZENGpMYVh4NEJsWXlaZjBDVXg1SGR3dmpHN05fU2FCYkhMVUVlcVJn?oc=5",
+      "published": "2026-11-24T06:04:32+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_original": "The Russian POW Camp Where Sex Abuse Became Part of the System",
+      "summary_original": "The Russian POW Camp Where Sex Abuse Became Part of the System WSJ",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSUFIWDN5aGMwZVlveC05RHRTc2ZkTExGTHZ6eXpGVWJDeGJXUmR5VlV6d1l4MzE5VGdrVERWUmZzVUU1dWRqaklFRUxvd2xOSHY4SVJydGtsbzJVbVdWNm52d3kzcmMwQ1p0UTNrYnhXSi1uREtNeEZoSndwZWNHUHdGMVdIMmVKaUVxbVliRGNDTl8wT2Z0OGVnR0RlQ29BVGJCVVduQQ?oc=5",
+      "published": "2026-11-24T06:01:12+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_original": "The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation",
+      "summary_original": "The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmRRX05leU91eDNOcGU0ZjVxQ0N2MVpwQ3lCZXFsNUVDcDlySkJ5RFZfLTR5QkwyUF91TzFkSDNpYTlPMzZTaFhfWmJ4TEpKTVAzTEJhNGVYRFltRmRMVDJfdUVpcFoyYnRRRGNEX3ZKRU96bjVxYjZEQ2V0WWFZOXhDb3dTT2FfTGpVTWtjX1JLeVpXUzN3OFlSdm5DdXJ1YzlHSnNJa3pjT0FDX3c?oc=5",
+      "published": "2026-11-24T05:59:19+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_original": "Opinion | Guess Who’s Coming to Mecca",
+      "summary_original": "Opinion | Guess Who’s Coming to Mecca WSJ",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8ybWdzZVB0Q2ozbXNnR1BUXzBZRnBIcG45TEI4ZTZBQklITlIzS1IyM0tCcl9HQXBOMzF3RlNtZ2s1MkR6Z2RjWF9XVXN5aVlaYzlEYi0tYjVzbVVJY21IRjAycElXa3FnOXBUTHpobGI?oc=5",
+      "published": "2026-11-24T05:58:57+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_original": "P&G to Cut Up to 30% of Product-Supply Workers Amid Automation Push",
+      "summary_original": "P&G to Cut Up to 30% of Product-Supply Workers Amid Automation Push WSJ",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOWNEUUhHMUFTQjdHbDF1dVlhWmwxbjkyNzBXM2JBRXdqVFRlcjMwTG9lWWRWRTV2bXlzQkdUX2lyUE1zT2pUSzVmTDF2akJKVjNtWFhfRVhQSXhwdEpZb3FOSWcwYnFiSTlCYWNwLWNfVXdweC1XVzg5Y1hRaE56M2diNWV1OTRiMzhZUV9KUm1ZYjZnQXlEN3phejJaMkJPaUVQQWxRNA?oc=5",
+      "published": "2026-11-24T05:58:02+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_original": "Why Anthropic Is Hiring a $400,000-a-Year Natural-Gas Supply Manager ? Climate & Energy for Nov. 19",
+      "summary_original": "Why Anthropic Is Hiring a $400,000-a-Year Natural-Gas Supply Manager ? Climate & Energy for Nov. 19 WSJ",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORzBDN3JMY1l3Q2dKa0tuZ2tVSm52Sl9YQWNucjl3dk1zd1hGZFZUZFppdFVhUjZ0dEphRFUzc1B4R0VZdzd5UGotcHM2NGZrd0FubTF4cFpkTHpEZDVHWUN5QTk1T0kxemtMaDl1d2FkQnVDVnJoWVkyNVdhcENYTlBWLXYtYWs4Nm5EQ3J4eHpjU0ctTWxsV0RMODh4SVhEM1ZxeHYzYzlkR19BV2VBeElrSU92RFU?oc=5",
+      "published": "2026-11-24T05:56:39+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Wall Street Journal",
+      "title_original": "Exclusive | SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
+      "summary_original": "Exclusive | SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang WSJ",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjl2b0tzT1ROT2plV1p5RHhQd3hXOEJKRFhOZ1ItZExOQV9oVGkzTU9tcEEyTXhjNHRKQVExRTNRdEtlY24zUFhmS0h0c21FUVVrVVh0NGF2SXFmdm1wcmVRLUlCcG5CMGRIZklSdVBkVElkS3lwRF9LaGg4YzU5b0dsZXlveWxSNzhGYzJlZmRSRkhvUWZRTHB3?oc=5",
+      "published": "2026-11-24T05:55:13+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "Washington Post",
+      "title_original": "NATO calls urgent meeting as string of incidents escalates Russia tensions",
+      "summary_original": "“We are not in war, but we are certainly not in peace anymore, either,” Germany’s foreign minister said after Russian missiles crashed onto Polish territory.",
+      "url": "https://www.washingtonpost.com/world/2026/11/23/nato-calls-urgent-meeting-string-incidents-escalates-russia-tensions/",
+      "published": "2026-11-24T03:58:51+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Washington Post",
+      "title_original": "Ukraine says it sank Russian warship off coast of Libya, far from front line",
+      "summary_original": "Kyiv has regularly carried out attacks on Moscow’s military and shadow fleet, though most have taken place in the immediate waters of the Black and Azov seas.",
+      "url": "https://www.washingtonpost.com/world/2026/11/23/ukraine-says-it-sank-russian-warship-off-coast-libya-far-front-line/",
+      "published": "2026-11-24T02:30:38+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Washington Post",
+      "title_original": "For Netanyahu, losing power could mean losing key shield in corruption trial",
+      "summary_original": "Out of office, the longtime Israeli leader would have to contest a criminal trial and other legal problems without the power of the prime minister’s post.",
+      "url": "https://www.washingtonpost.com/world/2026/11/23/netanyahu-fights-stay-power-charges-could-send-him-prison/",
+      "published": "2026-11-23T21:18:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Washington Post",
+      "title_original": "Iranian president turns out office lights to urge citizens to save energy",
+      "summary_original": "Iran has some of the world's largest oil and natural gas reserves but is facing an energy crisis because of U.S. economic sanctions and a naval blockade.",
+      "url": "https://www.washingtonpost.com/world/2026/11/22/iranian-president-turns-out-office-lights-urge-citizens-save-energy/",
+      "published": "2026-11-23T06:00:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Washington Post",
+      "title_original": "COP31 negotiations break down as countries fail to agree on climate deal",
+      "summary_original": "A fight over whether to mention fossil fuels caused the talks, which had become the longest in summit history, to fall apart. It was the first such collapse in over a decade.",
+      "url": "https://www.washingtonpost.com/climate-environment/2026/11/22/cop31-negotiations-break-down-countries-fail-agree-climate-deal/",
+      "published": "2026-11-23T04:07:33+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Washington Post",
+      "title_original": "Mark Carney brings Trump impersonator onstage to joke about U.S.-Canada ties",
+      "summary_original": "The Trump impersonator appeared at an annual press dinner where the Canadian prime minister typically delivers a roast.",
+      "url": "https://www.washingtonpost.com/world/2026/11/22/mark-carney-brings-trump-impersonator-onstage-joke-about-us-canada-ties/",
+      "published": "2026-11-23T01:45:30+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Washington Post",
+      "title_original": "Ukrainian city moves to remote learning as Russian strikes disrupt utilities",
+      "summary_original": "The southern Odesa region has suffered the most extensive damage to its energy infrastructure amid a wave of recent Russian airstrikes.",
+      "url": "https://www.washingtonpost.com/world/2026/11/22/ukrainian-city-moves-remote-learning-russian-strikes-disrupt-utilities/",
+      "published": "2026-11-23T01:05:40+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Washington Post",
+      "title_original": "Arson attacks by Israeli settlers in West Bank add to tense political debate",
+      "summary_original": "Opposition leader Gadi Eisenkot called the attacks “Jewish terrorism,” while Netanyahu backers accused Eisenkot of courting Arab parties to form a government.",
+      "url": "https://www.washingtonpost.com/world/2026/11/22/arson-attacks-by-israeli-settlers-west-bank-add-tense-political-debate/",
+      "published": "2026-11-22T21:44:16+09:00",
+      "via": "rss",
+      "state_media": false
+    }
+  ],
+  "unavailable_sources": [],
+  "errors": {}
+}
