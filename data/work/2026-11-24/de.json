@@ -1,0 +1,1408 @@
+{
+ "team": "de",
+ "headlines": [
+  {
+   "source": "ARD Tagesschau",
+   "title_original": "tagesschau in 100 Sekunden",
+   "title_ko": "tagesschau 100초 뉴스",
+   "summary_ko": "tagesschau의 100초 요약 뉴스 영상이다. (제목 기준)",
+   "url": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1688774.html",
+   "published": "2026-11-24T05:41:16+09:00",
+   "tags": [],
+   "event": "tagesschau-100-seconds",
+   "state_media": false
+  },
+  {
+   "source": "ARD Tagesschau",
+   "title_original": "Mehr Stromspar-Checks für Haushalte mit wenig Geld geplant",
+   "title_ko": "저소득 가구 대상 '전기 절약 점검' 확대 계획",
+   "summary_ko": "전기 절약 점검 사업의 재원이 3년 더 확보돼 저소득 가구가 무료 상담과 보조금을 받을 수 있게 됐다.",
+   "url": "https://www.tagesschau.de/wirtschaft/verbraucher/stromspar-checks-kostenlose-energieberatung-bundesumweltministerium-100.html",
+   "published": "2026-11-24T05:11:45+09:00",
+   "tags": [],
+   "event": "stromspar-check-funding",
+   "state_media": false
+  },
+  {
+   "source": "ARD Tagesschau",
+   "title_original": "Nvidia holt Jensen Huang zurück an die Firmenspitze",
+   "title_ko": "엔비디아, 젠슨 황을 다시 최고경영자로 복귀시켜",
+   "summary_ko": "엔비디아가 젠슨 황을 회사 수장으로 복귀시켰다. (제목 기준)",
+   "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1688746.html",
+   "published": "2026-11-24T04:40:01+09:00",
+   "tags": [
+    "business",
+    "industry"
+   ],
+   "event": "nvidia-huang-return",
+   "state_media": false
+  },
+  {
+   "source": "ARD Tagesschau",
+   "title_original": "Ukrainisches Militär versenkt zwei russische Schiffe mit Waffenlieferungen vor Libyen",
+   "title_ko": "우크라이나군, 리비아 앞바다에서 무기 실은 러시아 선박 2척 격침",
+   "summary_ko": "우크라이나군이 리비아 앞바다에서 무기를 실은 러시아 선박 2척을 격침했다. (제목 기준)",
+   "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1688728.html",
+   "published": "2026-11-24T04:37:49+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "ukraine-sinks-russian-ships-libya",
+   "state_media": false
+  },
+  {
+   "source": "ARD Tagesschau",
+   "title_original": "Dokumentation \"Krieg im Weltraum\": Plant Russland einen Atomsprengkopf im All?",
+   "title_ko": "다큐멘터리 '우주 전쟁': 러시아는 우주에 핵탄두를 배치하려 하나?",
+   "summary_ko": "러시아의 우주 핵탄두 배치 가능성을 다룬 다큐멘터리다. (제목 기준)",
+   "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1688732.html",
+   "published": "2026-11-24T04:35:25+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "russia-nuclear-weapon-space",
+   "state_media": false
+  },
+  {
+   "source": "ARD Tagesschau",
+   "title_original": "NATO-Chef Rutte und Kanzler Merz beraten über russische Marschflugkörper in Polen",
+   "title_ko": "뤼터 나토 사무총장과 메르츠 총리, 폴란드에 떨어진 러시아 순항미사일 논의",
+   "summary_ko": "뤼터 나토 사무총장과 메르츠 총리가 폴란드의 러시아 순항미사일 문제를 논의했다. (제목 기준)",
+   "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1688726.html",
+   "published": "2026-11-24T04:20:28+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "russian-cruise-missiles-poland",
+   "state_media": false
+  },
+  {
+   "source": "ARD Tagesschau",
+   "title_original": "tagesschau 20:00 Uhr",
+   "title_ko": "tagesschau 20시 뉴스",
+   "summary_ko": "엔비디아의 젠슨 황 복귀, 폴란드 내 러시아 순항미사일 관련 베를린 나토 협의, 리비아 앞바다 러시아 군함 격침, 다큐 '우주 전쟁' 등을 다룬 본방송이다.",
+   "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1688738.html",
+   "published": "2026-11-24T04:18:34+09:00",
+   "tags": [],
+   "event": "tagesschau-20-uhr-broadcast",
+   "state_media": false
+  },
+  {
+   "source": "ARD Tagesschau",
+   "title_original": "Nvidia setzt Jensen Huang wieder als Chef ein - auf Druck Trumps?",
+   "title_ko": "엔비디아, 젠슨 황 CEO 재선임 - 트럼프 압력 때문?",
+   "summary_ko": "젠슨 황이 짧은 사임 후 엔비디아 수장으로 복귀하며, 트럼프 대통령은 자신이 영향력을 행사했다고 자랑했다. 이것이 논란을 부를 수 있다고 보도했다.",
+   "url": "https://www.tagesschau.de/wirtschaft/huang-nvidia-chef-trump-demokraten-100.html",
+   "published": "2026-11-24T04:07:24+09:00",
+   "tags": [
+    "business"
+   ],
+   "event": "nvidia-huang-return",
+   "state_media": false
+  },
+  {
+   "source": "ZDF heute",
+   "title_original": "Deutsche Bank: Grüne Deals oder schmutzige Geschäfte?",
+   "title_ko": "도이체방크: 친환경 거래인가 더러운 사업인가?",
+   "summary_ko": "제빙 도이체방크 CEO는 기후 보호 강화를 약속했으나, 은행 유출 문건에 따르면 내부 경고에도 석탄·가스·석유 관련 논란 사업을 유지했다.",
+   "url": "https://www.zdfheute.de/wirtschaft/deutsche-bank-klima-fossile-100.html",
+   "published": "2026-11-24T05:47:00+09:00",
+   "tags": [
+    "business"
+   ],
+   "event": "deutsche-bank-fossil-leak",
+   "state_media": false
+  },
+  {
+   "source": "ZDF heute",
+   "title_original": "EU will Teilnahme an Sportevents unter Russland-Flagge verbieten",
+   "title_ko": "EU, 러시아 국기 아래 스포츠 행사 참가 금지 추진",
+   "summary_ko": "EU가 러시아 선수·팀의 러시아 국기 아래 EU 내 스포츠 행사 참가를 금지하려 하며, 제재 패키지에는 추가 조치도 담겼다.",
+   "url": "https://www.zdfheute.de/sport/sportpolitik-eu-will-russland-flagge-bei-sportevents-verbieten-100.html",
+   "published": "2026-11-24T05:21:00+09:00",
+   "tags": [
+    "geopolitics",
+    "legislation"
+   ],
+   "event": "eu-russia-sanctions-package",
+   "state_media": false
+  },
+  {
+   "source": "ZDF heute",
+   "title_original": "Merz: Keine Nato-Aufnahme der Ukraine 2008 war Fehler",
+   "title_ko": "메르츠: 2008년 우크라이나 나토 가입 불허는 실수",
+   "summary_ko": "메르츠 총리가 뤼터 나토 사무총장과의 회동에서 2008년 우크라이나 나토 가입 불허를 실수라고 했고, 러시아에 새로운 도발을 경고했다.",
+   "url": "https://www.zdfheute.de/politik/ausland/merz-ukraine-nato-nicht-aufnahme-fehler-100.html",
+   "published": "2026-11-24T04:31:00+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "nato-berlin-ukraine-membership",
+   "state_media": false
+  },
+  {
+   "source": "ZDF heute",
+   "title_original": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
+   "title_ko": "이란 전쟁과 중동 분쟁: 라이브 블로그",
+   "summary_ko": "중동 정세가 계속 긴장 상태로 공격이 반복되며 요르단강 서안 상황이 악화되고 있다는 라이브 블로그다.",
+   "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+   "published": "2026-11-24T04:19:00+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "iran-war-middle-east-liveblog",
+   "state_media": false
+  },
+  {
+   "source": "ZDF heute",
+   "title_original": "Fall Huang: Nvidia zwischen Alternativlosigkeit und Versagen",
+   "title_ko": "황 사태: 대안 없음과 실패 사이의 엔비디아",
+   "summary_ko": "간첩 의혹 이후 젠슨 황이 엔비디아 수장에 복귀해 회사가 투자자와 미 대통령 압력에 굴복했으며, 증시는 환호했다.",
+   "url": "https://www.zdfheute.de/wirtschaft/unternehmen/nvidia-chef-jensen-huang-rueckkehr-100.html",
+   "published": "2026-11-24T04:14:00+09:00",
+   "tags": [
+    "business",
+    "stocks"
+   ],
+   "event": "nvidia-huang-return",
+   "state_media": false
+  },
+  {
+   "source": "ZDF heute",
+   "title_original": "Bayern auch von Hoffenheim nicht zu stoppen",
+   "title_ko": "바이에른, 호펜하임도 못 막아",
+   "summary_ko": "FC 바이에른 여자팀이 호펜하임을 1-0으로 꺾고 리그 53경기 연속 무패로 남자팀 기록과 타이를 이뤘다.",
+   "url": "https://www.zdfheute.de/sport/fussball-bundesliga-frauen/video/fc-bayern-muenchen-tsg-hoffenheim-frauen-saison-2026-27-100.html",
+   "published": "2026-11-24T04:08:00+09:00",
+   "tags": [],
+   "event": "fc-bayern-women-unbeaten-record",
+   "state_media": false
+  },
+  {
+   "source": "ZDF heute",
+   "title_original": "Marschflugkörper-Einschläge als Drohung Russlands?",
+   "title_ko": "순항미사일 낙하는 러시아의 위협?",
+   "summary_ko": "러시아 순항미사일이 폴란드 내 국제 군사훈련 인근에 떨어져, 우크라이나 지원국을 위협하려는 것인지 묻는 기사다.",
+   "url": "https://www.zdfheute.de/politik/ausland/polen-marschflugkoerper-ukraine-krieg-russland-100.html",
+   "published": "2026-11-24T04:02:00+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "russian-cruise-missiles-poland",
+   "state_media": false
+  },
+  {
+   "source": "ZDF heute",
+   "title_original": "Aktuelles zum Krieg in der Ukraine",
+   "title_ko": "우크라이나 전쟁 최신 소식",
+   "summary_ko": "2022년 2월부터 이어지는 러시아의 우크라이나 침공 관련 라이브 티커다.",
+   "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
+   "published": "2026-11-24T03:38:00+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "ukraine-war-liveblog",
+   "state_media": false
+  },
+  {
+   "source": "Deutsche Welle",
+   "title_original": "Atombombe im All: Was Russland vorhaben soll - und was das für den Westen bedeutet",
+   "title_ko": "우주 핵폭탄: 러시아의 계획과 서방에 대한 의미",
+   "summary_ko": "서방 정보기관들은 러시아가 올해 안에 핵무장 위성을 우주에 올릴 수 있다고 경고하며, 그 목적·폭발 영향·독일의 대비 상태를 짚었다.",
+   "url": "https://www.dw.com/de/atombombe-im-all-was-russland-vorhaben-soll-und-was-das-für-den-westen-bedeutet/a-80026072?maca=de-rss-de-all-1119-rdf",
+   "published": "2026-11-24T04:43:00+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "russia-nuclear-weapon-space",
+   "state_media": false
+  },
+  {
+   "source": "Deutsche Welle",
+   "title_original": "NATO-Treffen in Berlin: Keine Einstimmigkeit zu einem Beitritt der Ukraine",
+   "title_ko": "베를린 나토 회의: 우크라이나 가입에 만장일치 없어",
+   "summary_ko": "젤렌스키 대통령이 신속한 나토 가입을 요구했지만, 베를린 나토 의원총회에서 필요한 만장일치가 없음이 드러났다.",
+   "url": "https://www.dw.com/de/nato-treffen-in-berlin-keine-einstimmigkeit-zu-einem-beitritt-der-ukraine/a-80022579?maca=de-rss-de-all-1119-rdf",
+   "published": "2026-11-24T03:23:00+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "nato-berlin-ukraine-membership",
+   "state_media": false
+  },
+  {
+   "source": "Deutsche Welle",
+   "title_original": "Russische Angriffe verursachen hohe Schäden. Dennoch investieren deutsche Unternehmen weiter in der Ukraine und setzen auf den Wiederaufbau",
+   "title_ko": "러시아 공격 피해 커도 독일 기업들은 우크라이나 투자 지속, 재건에 기대",
+   "summary_ko": "수백만 규모의 피해, 불안한 에너지 공급, 인력 부족에도 독일 기업들은 새 시장과 장기 성장을 기대하며 우크라이나에 남아 있다.",
+   "url": "https://www.dw.com/de/russische-angriffe-verursachen-hohe-schäden-dennoch-investieren-deutsche-unternehmen-weiter-in-der-ukraine-und-setzen-auf-den-wiederaufbau/a-80019538?maca=de-rss-de-all-1119-rdf",
+   "published": "2026-11-24T03:23:00+09:00",
+   "tags": [
+    "business",
+    "geopolitics"
+   ],
+   "event": "german-firms-ukraine-investment",
+   "state_media": false
+  },
+  {
+   "source": "Deutsche Welle",
+   "title_original": "Der Fall Musiala beim FC Bayern: Fürsorge oder kommerzieller Druck?",
+   "title_ko": "FC 바이에른의 무시알라 사례: 배려인가 상업적 압박인가?",
+   "summary_ko": "결신 발작(압상스)을 겪는 무시알라가 복귀를 준비하는 가운데 구단 수뇌부가 인터뷰에서 그의 고액 연봉의 정당성을 의문시하며 압박하고 있다.",
+   "url": "https://www.dw.com/de/der-fall-musiala-beim-fc-bayern-fürsorge-oder-kommerzieller-druck/a-80018033?maca=de-rss-de-all-1119-rdf",
+   "published": "2026-11-23T23:57:00+09:00",
+   "tags": [],
+   "event": "musiala-salary-dispute",
+   "state_media": false
+  },
+  {
+   "source": "Deutsche Welle",
+   "title_original": "Paukenschlag: Jensen Huang wieder Chef von Nvidia",
+   "title_ko": "깜짝 발표: 젠슨 황, 엔비디아 CEO 복귀",
+   "summary_ko": "엔비디아가 공동창업자 젠슨 황을 즉시 사장 겸 CEO로 복귀시킨다고 발표했다.",
+   "url": "https://www.dw.com/de/paukenschlag-jensen-huang-wieder-chef-von-nvidia/a-80022063?maca=de-rss-de-all-1119-rdf",
+   "published": "2026-11-23T23:43:00+09:00",
+   "tags": [
+    "business",
+    "industry"
+   ],
+   "event": "nvidia-huang-return",
+   "state_media": false
+  },
+  {
+   "source": "Deutsche Welle",
+   "title_original": "Deutsche Experten vor dem EU-Westbalkan-Gipfel: Unter der Regierung der Studentenliste muss sich Serbien zwischen Aufbruch und Kontinuität entscheiden",
+   "title_ko": "EU-서발칸 정상회의 앞둔 독일 전문가들: 학생 명단 정부 하의 세르비아, 개혁과 연속성 사이 선택해야",
+   "summary_ko": "세르비아 새 지도부가 EU에 희망과 회의를 동시에 낳고 있으며, 독일 전문가들은 개혁 기회와 함께 EU 노선·코소보·러시아 문제의 미해결을 지적했다.",
+   "url": "https://www.dw.com/de/deutsche-experten-vor-dem-eu-westbalkan-gipfel-unter-der-regierung-der-studentenliste-muss-sich-serbien-zwischen-aufbruch-und-kontinuität-entscheiden/a-80019985?maca=de-rss-de-all-1119-rdf",
+   "published": "2026-11-23T23:31:00+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "serbia-eu-western-balkans-summit",
+   "state_media": false
+  },
+  {
+   "source": "Deutsche Welle",
+   "title_original": "Indonesien: Dutzende Vermisste nach Brand in Süßwarenfabrik",
+   "title_ko": "인도네시아: 과자 공장 화재로 수십 명 실종",
+   "summary_ko": "자카르타 인근 공장 대형 화재 피해 규모가 아직 불분명하며 구조대가 실종자를 수색 중이고 희생자 신원 확인에 수주가 걸릴 수 있다.",
+   "url": "https://www.dw.com/de/indonesien-dutzende-vermisste-nach-brand-in-süßwarenfabrik/a-80020954?maca=de-rss-de-all-1119-rdf",
+   "published": "2026-11-23T22:37:00+09:00",
+   "tags": [],
+   "event": "indonesia-candy-factory-fire",
+   "state_media": false
+  },
+  {
+   "source": "Deutsche Welle",
+   "title_original": "Angst vor schweren Krankheiten in Deutschland wächst",
+   "title_ko": "독일에서 중병에 대한 두려움 커져",
+   "summary_ko": "암이 여전히 가장 두려운 질병이며 뇌졸중·치매·정신질환에 대한 우려도 늘고, 건강에 신경 쓰는 사람도 증가하고 있다.",
+   "url": "https://www.dw.com/de/angst-vor-schweren-krankheiten-in-deutschland-wächst/a-80018197?maca=de-rss-de-all-1119-rdf",
+   "published": "2026-11-23T19:59:00+09:00",
+   "tags": [],
+   "event": "germany-disease-fear-survey",
+   "state_media": false
+  },
+  {
+   "source": "n-tv",
+   "title_original": "\"Unser wundervoller Amari\": Influencer-Paar Julian und Palina Claßen verkündet Geburt ihres Sohnes",
+   "title_ko": "인플루언서 부부 율리안·팔리나 클라센, 아들 출산 발표",
+   "summary_ko": "유튜버 율리안 클라센(Julienco)과 아내 팔리나가 부모가 됐다.",
+   "url": "https://www.n-tv.de/leute/Influencer-Paar-Julian-und-Palina-Classen-verkuendet-Geburt-ihres-Sohnes-id31569153.html",
+   "published": "2026-11-24T06:00:58+09:00",
+   "tags": [],
+   "event": "classen-influencer-birth",
+   "state_media": false
+  },
+  {
+   "source": "n-tv",
+   "title_original": "\"Unglückliche Kommunikation\": Verlag bewirbt Essay mit Nacktbildern von Gisèle Pelicot",
+   "title_ko": "출판사, 지젤 펠리코 나체 사진으로 에세이 홍보 논란",
+   "summary_ko": "한 출판사가 지젤 펠리코 성폭행 당시 사진을 홍보용으로 보냈다는 의혹이 제기됐고, 펠리코는 충격을 표하며 법적 대응을 예고했다.",
+   "url": "https://www.n-tv.de/panorama/Verlag-bewirbt-Essay-mit-Nacktbildern-von-Gisele-Pelicot-id31569142.html",
+   "published": "2026-11-24T05:55:02+09:00",
+   "tags": [],
+   "event": "pelicot-photos-publisher",
+   "state_media": false
+  },
+  {
+   "source": "n-tv",
+   "title_original": "\"Wir lieben dich, Jensen\": Huang wird nach Comeback in Nvidia-Zentrale gefeiert",
+   "title_ko": "\"사랑해요, 젠슨\": 황, 복귀 후 엔비디아 본사에서 환대",
+   "summary_ko": "복귀 몇 시간 뒤 본사에 나타난 젠슨 황을 직원들이 스캔들성 사임에도 박수와 환호로 맞았다.",
+   "url": "https://www.n-tv.de/wirtschaft/Huang-wird-nach-Comeback-in-Nvidia-Zentrale-gefeiert-id31569111.html",
+   "published": "2026-11-24T05:07:48+09:00",
+   "tags": [
+    "business"
+   ],
+   "event": "nvidia-huang-return",
+   "state_media": false
+  },
+  {
+   "source": "n-tv",
+   "title_original": "Männer-Rekord egalisiert: FC Bayern baut historische Serie im Verwaltungsmodus aus",
+   "title_ko": "남자팀 기록 타이: FC 바이에른 여자팀, 역사적 무패 행진 이어가",
+   "summary_ko": "레나 오버도르프 복귀전에서 바이에른 여자팀이 무패 행진을 이어가며 남자팀 기록과 같아졌다.",
+   "url": "https://www.n-tv.de/sport/fussball/FC-Bayern-baut-historische-Serie-im-Verwaltungsmodus-aus-id31569132.html",
+   "published": "2026-11-24T05:01:06+09:00",
+   "tags": [],
+   "event": "fc-bayern-women-unbeaten-record",
+   "state_media": false
+  },
+  {
+   "source": "n-tv",
+   "title_original": "Reisners Blick auf die Front: \"Ein Atomsprengkopf im All ist brandgefährlich\"",
+   "title_ko": "라이스너 대령: \"우주 핵탄두는 극히 위험\"",
+   "summary_ko": "나토 정보에 따르면 러시아가 올해 안에 우주에 핵탄두를 올리려 하며, 라이스너 대령이 우주 핵폭발이 지상에 미칠 영향을 설명했다.",
+   "url": "https://www.n-tv.de/politik/Ein-Atomsprengkopf-im-All-ist-brandgefaehrlich-id31568821.html",
+   "published": "2026-11-24T04:42:53+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "russia-nuclear-weapon-space",
+   "state_media": false
+  },
+  {
+   "source": "n-tv",
+   "title_original": "Teil von \"Frauenschutzpaket\": Union will Femizide als Mord einstufen",
+   "title_ko": "'여성 보호 패키지'의 일환: 기민·기사연합, 페미사이드를 살인죄로 규정 추진",
+   "summary_ko": "CDU/CSU가 페미사이드를 살인으로 처벌해야 한다고 밝히고 공공·디지털 영역 전반의 여성 폭력 보호 강화를 요구했다.",
+   "url": "https://www.n-tv.de/politik/Union-will-Femizide-als-Mord-einstufen-id31568895.html",
+   "published": "2026-11-24T04:15:30+09:00",
+   "tags": [
+    "legislation"
+   ],
+   "event": "femicide-murder-law",
+   "state_media": false
+  },
+  {
+   "source": "n-tv",
+   "title_original": "\"Milliardärsfreunde\": US-Demokraten werfen Trump bei Huang-Comeback Interessenkonflikt vor",
+   "title_ko": "\"억만장자 친구들\": 미 민주당, 황 복귀에 트럼프 이해충돌 의혹 제기",
+   "summary_ko": "사임 11일 만에 황이 복귀하자 의회 민주당이 유착 의혹을 제기하며 위원회 청문회를 예고했고, 트럼프의 개인 주식 거래도 주목받고 있다.",
+   "url": "https://www.n-tv.de/politik/US-Demokraten-werfen-Trump-bei-Huang-Comeback-Interessenkonflikt-vor-id31569035.html",
+   "published": "2026-11-24T04:14:56+09:00",
+   "tags": [
+    "business"
+   ],
+   "event": "nvidia-huang-return",
+   "state_media": false
+  },
+  {
+   "source": "n-tv",
+   "title_original": "\"Ein großartiger Erfolg\": Genveränderte Tabakpflanze kann Mittel gegen Krebs herstellen",
+   "title_ko": "\"큰 성공\": 유전자 변형 담배 식물이 항암제 생산",
+   "summary_ko": "연구팀이 담배 유사 식물로 항암 성분 파클리탁셀을 생산하게 했으나 실용화까지는 아직 과제가 남았다.",
+   "url": "https://www.n-tv.de/wissen/Genveraenderte-Tabakpflanze-kann-Mittel-gegen-Krebs-herstellen-id31568183.html",
+   "published": "2026-11-24T04:10:33+09:00",
+   "tags": [],
+   "event": "gm-tobacco-paclitaxel",
+   "state_media": false
+  },
+  {
+   "source": "WELT",
+   "title_original": "„Krieg darf sich nicht auf Ostsee ausweiten“ – Pistorius mahnt Ukraine",
+   "title_ko": "\"전쟁이 발트해로 번져선 안 돼\" - 피스토리우스, 우크라이나에 경고",
+   "summary_ko": "피스토리우스 국방장관이 우크라이나 국방장관 방문 중 발트해 러시아 화물선 공격에 대해 우크라이나에 특별한 책임이 있다고 말했다.",
+   "url": "https://www.welt.de/politik/deutschland/article6b04998339a3e8110f0e94e6/ukraine-krieg-krieg-darf-sich-nicht-auf-ostsee-ausweiten-pistorius-mahnt-kiew.html",
+   "published": "2026-11-24T05:26:11+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "ukraine-attack-russian-freighter-baltic",
+   "state_media": false
+  },
+  {
+   "source": "WELT",
+   "title_original": "Nato verlegt Awacs-Flugzeug nach Polen und verstärkt Luftraumüberwachung",
+   "title_ko": "나토, 폴란드에 AWACS기 배치하고 영공 감시 강화",
+   "summary_ko": "지난주 러시아 순항미사일 3기가 폴란드 영공에 침입해 추락하자 나토가 대응에 나섰다.",
+   "url": "https://www.welt.de/politik/ausland/article6b049f56619e3d0ef1eedca6/nato-ostflanke-nato-verlegt-awacs-flugzeug-nach-polen-und-verstaerkt-luftraumueberwachung.html",
+   "published": "2026-11-24T05:24:54+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "russian-cruise-missiles-poland",
+   "state_media": false
+  },
+  {
+   "source": "WELT",
+   "title_original": "„Glaube, dieser Film wird ganz ganz wichtig sein“",
+   "title_ko": "\"이 영화는 매우 중요할 것\"",
+   "summary_ko": "케이트 왕세자빈이 새 BBC 다큐에서 암 진단과 심리적 영향을 감정적으로 이야기했으며 영국 내 반응을 전했다.",
+   "url": "https://www.welt.de/videos/video6b0498fbafd1d98aae07f678/doku-ueber-prinzessin-kate-glaube-dieser-film-wird-ganz-ganz-wichtig-sein.html",
+   "published": "2026-11-24T05:00:54+09:00",
+   "tags": [],
+   "event": "princess-kate-bbc-documentary",
+   "state_media": false
+  },
+  {
+   "source": "WELT",
+   "title_original": "„Selenskyj hat hier eine Aktion gestartet, die vielleicht der eine oder andere nicht gestartet hätte“",
+   "title_ko": "\"젤렌스키는 다른 이라면 하지 않았을 작전을 시작했다\"",
+   "summary_ko": "퇴역 해군 제독 닐손은 우크라이나의 러시아 선박 공격이 정당하지 않다고 보면서도 이유는 있다고 평가하고, 해상 드론의 지중해 진입 경로를 설명했다.",
+   "url": "https://www.welt.de/videos/video6b0487f25842ff528b9e63ad/russische-schiffe-bombardiert-selenskyj-hat-hier-eine-aktion-gestartet-die-vielleicht-der-eine-oder-andere-nicht-gestartet-haette.html",
+   "published": "2026-11-24T04:28:29+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "ukraine-sinks-russian-ships-libya",
+   "state_media": false
+  },
+  {
+   "source": "WELT",
+   "title_original": "„Eigentlich überlegt man sich das, bevor man jemanden aufstellt, ob der da reinpasst“",
+   "title_ko": "\"원래 후보를 세우기 전에 적합한지 고민하는 법\"",
+   "summary_ko": "역사학자 크나베는 바네사 엠데를 둘러싼 갈등으로 베를린 연정 협상이 위기라고 보며 앞날을 비관했다.",
+   "url": "https://www.welt.de/videos/video6b0482d939a3e8110f0e938e/ausschlussverfahren-gegen-emde-eigentlich-ueberlegt-man-sich-das-bevor-man-jemanden-aufstellt-ob-der-da-reinpasst.html",
+   "published": "2026-11-24T04:21:00+09:00",
+   "tags": [],
+   "event": "berlin-coalition-emde-dispute",
+   "state_media": false
+  },
+  {
+   "source": "WELT",
+   "title_original": "Plötzlich bittet Kanadas Premier ein Trump-Double auf die Bühne",
+   "title_ko": "캐나다 총리, 갑자기 트럼프 흉내꾼을 무대에 불러",
+   "summary_ko": "미·캐나다 관계가 긴장된 가운데 카니 총리가 트럼프 모창가를 통해 미 대통령을 풍자하면서 자기 풍자도 보였다.",
+   "url": "https://www.welt.de/politik/ausland/article6b04845c39a3e8110f0e93a7/po-sprueche-und-ymca-tanz-ploetzlich-bittet-kanadas-premier-ein-trump-double-auf-die-buehne.html",
+   "published": "2026-11-24T04:07:17+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "carney-trump-impersonator",
+   "state_media": false
+  },
+  {
+   "source": "WELT",
+   "title_original": "Unionsfraktionschef Frei gegen Aufweichung der Rentenpläne – SPD kritisiert Haushaltsverfahren",
+   "title_ko": "프라이 원내대표, 연금안 완화 반대 - 사민당은 예산 절차 비판",
+   "summary_ko": "기민·기사연합과 사민당이 무감액 조기연금을 두고 계속 대립하며, 프라이 원내대표는 조기퇴직 감액 확대를 고수했다.",
+   "url": "https://www.welt.de/politik/deutschland/article6b0483645842ff528b9e6375/schwarz-rot-unionsfraktionschef-frei-gegen-aufweichung-der-rentenplaene-spd-kritisiert-haushaltsverfahren.html",
+   "published": "2026-11-24T04:05:23+09:00",
+   "tags": [
+    "legislation"
+   ],
+   "event": "germany-pension-dispute",
+   "state_media": false
+  },
+  {
+   "source": "WELT",
+   "title_original": "Deutschland beteiligt sich an Plänen für Abschiebezentrum in Ruanda ab 2027",
+   "title_ko": "독일, 2027년부터 르완다 추방센터 계획 참여",
+   "summary_ko": "오스트리아·독일·덴마크·네덜란드·그리스가 내년 르완다에 첫 추방센터 개설을 계획하고 있다.",
+   "url": "https://www.welt.de/politik/video6b048c0939a3e8110f0e93e8/migration-deutschland-beteiligt-sich-an-plaenen-fuer-abschiebezentrum-in-ruanda-ab-2027.html",
+   "published": "2026-11-24T03:55:41+09:00",
+   "tags": [
+    "legislation",
+    "geopolitics"
+   ],
+   "event": "rwanda-deportation-center",
+   "state_media": false
+  },
+  {
+   "source": "Handelsblatt",
+   "title_original": "Nvidia: „Ich habe sie überzeugt“: Wie Trump Huangs Rückkehr für sich reklamiert",
+   "title_ko": "엔비디아: \"내가 설득했다\" - 트럼프, 황 복귀를 자기 공으로",
+   "summary_ko": "트럼프 대통령은 황 복귀의 결정적 요인이 자신이라고 보며, JD 밴스도 핵심 역할을 했다고 전해졌다.",
+   "url": "https://www.handelsblatt.com/politik/international/nvidia-wie-trump-huangs-rueckkehr-fuer-sich-reklamiert/100272157.html",
+   "published": "2026-11-24T06:08:30+09:00",
+   "tags": [
+    "business"
+   ],
+   "event": "nvidia-huang-return",
+   "state_media": false
+  },
+  {
+   "source": "Handelsblatt",
+   "title_original": "Chipkonzern: Jensen Huang kehrt als Nvidia-Chef zurück – Aktie steigt um 30 Prozent",
+   "title_ko": "젠슨 황 엔비디아 CEO 복귀 - 주가 30% 상승",
+   "summary_ko": "혼외 관계 보도로 사임했던 젠슨 황이 다시 경영을 맡았으며 트럼프의 역할이 주목된다. 주가 30% 상승은 제목 기준(단일 출처).",
+   "url": "https://www.handelsblatt.com/technik/ki/nvidia-huang-kehrt-als-konzernchef-zurueck-aktie-legt-um-30-prozent-zu/100272106.html",
+   "published": "2026-11-24T05:22:39+09:00",
+   "tags": [
+    "business",
+    "stocks"
+   ],
+   "event": "nvidia-huang-return",
+   "state_media": false
+  },
+  {
+   "source": "Handelsblatt",
+   "title_original": "Voestalpine: Deutsche Bank sieht „Kaufgelegenheit“ bei dieser Österreich-Aktie",
+   "title_ko": "뵈스트알피네: 도이체방크, 이 오스트리아 주식에 '매수 기회'",
+   "summary_ko": "뵈스트알피네 주가가 연중 최저 수준이지만 애널리스트들은 잠재력을 보며 1월이 관건이라고 했다.",
+   "url": "https://www.handelsblatt.com/finanzen/maerkte/aktien/voestalpine-deutsche-bank-sieht-kaufgelegenheit-bei-dieser-oesterreich-aktie/100271582.html",
+   "published": "2026-11-24T05:08:41+09:00",
+   "tags": [
+    "stocks"
+   ],
+   "event": "voestalpine-buy-rating",
+   "state_media": false
+  },
+  {
+   "source": "Handelsblatt",
+   "title_original": "Wall Street: Sprunghafter Anstieg der Kurse: Nasdaq nach Huang-Rückkehr sechs Prozent im Plus",
+   "title_ko": "월가: 황 복귀 후 나스닥 6% 급등",
+   "summary_ko": "급락 이후 투자자들이 대거 매수에 나섰고 개장과 함께 엔비디아의 큰 영향력이 다시 드러났다.",
+   "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nasdaq-nach-huang-rueckkehr-sechs-prozent-im-plus/100272031.html",
+   "published": "2026-11-24T04:43:11+09:00",
+   "tags": [
+    "stocks"
+   ],
+   "event": "nvidia-huang-return",
+   "state_media": false
+  },
+  {
+   "source": "Handelsblatt",
+   "title_original": "Industrie: „Müssen Abhängigkeit schnell reduzieren“: BMW und Rheinmetall planen Handelshaus für Rohstoffe",
+   "title_ko": "\"의존도 빨리 줄여야\": BMW·라인메탈, 원자재 공동 구매 무역회사 설립 계획",
+   "summary_ko": "중국 의존을 줄이기 위해 여러 기업이 원자재 공동 구매에 나서며 연방정부도 역할을 맡을 전망이다.",
+   "url": "https://www.handelsblatt.com/unternehmen/industrie/industrie-bmw-und-rheinmetall-planen-handelshaus-fuer-rohstoffe/100271875.html",
+   "published": "2026-11-24T04:33:06+09:00",
+   "tags": [
+    "industry",
+    "business",
+    "geopolitics"
+   ],
+   "event": "bmw-rheinmetall-raw-materials-trading",
+   "state_media": false
+  },
+  {
+   "source": "Handelsblatt",
+   "title_original": "Deep Read: 1,2 Milliarden Nutzer, doch die meisten zahlen nichts: Der ChatGPT-Macher will sich neu erfinden",
+   "title_ko": "이용자 12억, 대부분 무료: ChatGPT 개발사의 재창조 시도",
+   "summary_ko": "경쟁사 앤트로픽은 상장했고 오픈AI는 상장을 연기했으며, 올트먼은 기업 고객과 에이전트로 만회를 노린다.",
+   "url": "https://www.handelsblatt.com/technik/ki/openai-der-chatgpt-entwickler-muss-sich-neu-erfinden/100268812.html",
+   "published": "2026-11-24T04:32:32+09:00",
+   "tags": [
+    "business",
+    "industry"
+   ],
+   "event": "openai-strategy-reset",
+   "state_media": false
+  },
+  {
+   "source": "Handelsblatt",
+   "title_original": "Arken Labs: Seriengründer Pausder will mit KI-Start-up den Brückenbau beschleunigen",
+   "title_ko": "아르켄 랩스: 연쇄 창업가 파우스더, AI 스타트업으로 교량 건설 가속 추진",
+   "summary_ko": "느린 인허가가 인프라 투자 최대 장애로 꼽히는 가운데 Thermondo 창업자의 새 스타트업이 이를 바꾸려 한다.",
+   "url": "https://www.handelsblatt.com/technik/forschung-innovation/arken-labs-seriengruender-pausder-will-brueckenbau-per-ki-beschleunigen/100272121.html",
+   "published": "2026-11-24T03:00:00+09:00",
+   "tags": [
+    "business",
+    "industry"
+   ],
+   "event": "arken-labs-startup",
+   "state_media": false
+  },
+  {
+   "source": "Handelsblatt",
+   "title_original": "Nvidia: Huang-Comeback löst Erleichterungs-Rally aus: So schätzen Experten jetzt die Lage an den Märkten ein",
+   "title_ko": "엔비디아: 황 복귀에 안도 랠리 - 전문가들의 시장 전망",
+   "summary_ko": "황 복귀로 AI 의구심이 지속적으로 해소될지는 불분명하며 자산군별 전망을 짚었다.",
+   "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nvidia-so-schaetzen-experten-nach-huangs-comeback-die-lage-an-den-boersen-ein/100271952.html",
+   "published": "2026-11-24T02:57:18+09:00",
+   "tags": [
+    "stocks",
+    "forecast"
+   ],
+   "event": "nvidia-huang-return",
+   "state_media": false
+  },
+  {
+   "source": "Der Spiegel",
+   "title_original": "Ann-Katrin Berger: Nationaltorhüterin wechselt vom US-Club Gotham FC zu Union Berlin",
+   "title_ko": "국가대표 골키퍼 안카트린 베르거, 미 고담FC에서 우니온 베를린으로 이적",
+   "summary_ko": "우니온 베를린이 독일의 대표적 여자 축구선수를 분데스리가로 영입했다.",
+   "url": "https://www.spiegel.de/sport/fussball/ann-katrin-berger-nationaltorhueterin-wechselt-vom-us-club-gotham-fc-zu-union-berlin-a-6b31424e-43a2-4929-af19-fbd4940d83b0#ref=rss",
+   "published": "2026-11-24T06:09:00+09:00",
+   "tags": [],
+   "event": "berger-union-berlin-transfer",
+   "state_media": false
+  },
+  {
+   "source": "Der Spiegel",
+   "title_original": "Nvidia: Jensen Huang kehrt auf Druck von Donald Trump zurück",
+   "title_ko": "엔비디아: 젠슨 황, 트럼프 압력으로 복귀",
+   "summary_ko": "사임한 엔비디아 CEO가 트럼프 압력으로 돌아온 것은 시가총액과 기술력이 크면 같은 규칙이 적용되지 않음을 보여준다는 논평이다.",
+   "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-jensen-huang-kehrt-auf-druck-von-donald-trump-zurueck-a-24b07e86-c1ee-4a84-833e-61d4784dd87f#ref=rss",
+   "published": "2026-11-24T05:59:00+09:00",
+   "tags": [
+    "business"
+   ],
+   "event": "nvidia-huang-return",
+   "state_media": false
+  },
+  {
+   "source": "Der Spiegel",
+   "title_original": "Jared Kushner: Donald Trumps Schwiegersohn und Chefvermittler wird immer reicher",
+   "title_ko": "트럼프 사위이자 수석 중재자 재러드 쿠슈너, 갈수록 부유해져",
+   "summary_ko": "쿠슈너는 우크라이나·가자·이란 전쟁 중재에서 성과가 없었지만 재산은 크게 늘렸다.",
+   "url": "https://www.spiegel.de/ausland/jared-kushner-donald-trumps-schwiegersohn-und-chefvermittler-wird-immer-reicher-a-b3af0ff4-f30f-4dc3-b727-5a3a03cc5901#ref=rss",
+   "published": "2026-11-24T04:43:00+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "kushner-wealth",
+   "state_media": false
+  },
+  {
+   "source": "Der Spiegel",
+   "title_original": "Iran: Sängerin Parastu Ahmadi wegen Verstoß gegen Kopftuchpflicht ausgepeitscht",
+   "title_ko": "이란: 가수 파라스투 아마디, 히잡 의무 위반으로 태형",
+   "summary_ko": "언론 보도에 따르면 히잡 없이 노래한 이란 가수 아마디가 태형을 받았고 인권단체가 강하게 비판했다.",
+   "url": "https://www.spiegel.de/ausland/iran-saengerin-parastu-ahmadi-wegen-verstoss-gegen-kopftuchpflicht-ausgepeitscht-a-aeda6a6e-0556-4654-83fc-4e5fa7e97e2e#ref=rss",
+   "published": "2026-11-24T04:35:00+09:00",
+   "tags": [],
+   "event": "parastoo-ahmadi-flogging",
+   "state_media": false
+  },
+  {
+   "source": "Der Spiegel",
+   "title_original": "Jamal Musiala: Experte widerspricht Hoeneß und Rummenigge im Gehaltsstreit",
+   "title_ko": "자말 무시알라: 전문가, 연봉 논쟁에서 회네스·루메니게 반박",
+   "summary_ko": "결신 발작을 겪는 무시알라에게 회네스와 루메니게가 연봉 포기를 요구했으나 전문가들이 반박했다.",
+   "url": "https://www.spiegel.de/sport/fussball/jamal-musiala-experte-widerspricht-hoeness-und-rummenigge-im-gehaltsstreit-a-1dbe4b48-7717-4e39-aaf2-2eeb8d3a8633#ref=rss",
+   "published": "2026-11-24T03:44:00+09:00",
+   "tags": [],
+   "event": "musiala-salary-dispute",
+   "state_media": false
+  },
+  {
+   "source": "Der Spiegel",
+   "title_original": "BYD: Aktie fällt nach EU-Verkaufsverbot für Ti7-SUV wegen Defender-Ähnlichkeit",
+   "title_ko": "BYD: 디펜더 유사성으로 EU 내 Ti7 SUV 판매금지, 주가 하락",
+   "summary_ko": "법원이 BYD Ti7이 랜드로버 디펜더와 너무 닮았다며 EU 판매를 금지했고, BYD 주가가 하락했으며 회사는 법적 대응을 예고했다.",
+   "url": "https://www.spiegel.de/wirtschaft/unternehmen/byd-aktie-faellt-nach-eu-verkaufsverbot-fuer-ti7-suv-wegen-defender-aehnlichkeit-a-d3dce60e-82ac-4c8f-b443-41e969718b32#ref=rss",
+   "published": "2026-11-24T03:21:00+09:00",
+   "tags": [
+    "business",
+    "stocks",
+    "legislation"
+   ],
+   "event": "byd-ti7-eu-sales-ban",
+   "state_media": false
+  },
+  {
+   "source": "Der Spiegel",
+   "title_original": "Femizide sollen als Mord statt als Totschlag gelten",
+   "title_ko": "페미사이드, 고살 대신 살인으로 처벌 추진",
+   "summary_ko": "현재 파트너·전 파트너의 여성 살해가 일관되게 종신형으로 이어지지 않으며, 후비히 법무장관이 '신호 효과 있는 명확화'를 추진한다.",
+   "url": "https://www.spiegel.de/panorama/justiz/femizide-sollen-als-mord-statt-als-totschlag-gelten-a-1844be5a-94c4-4dc9-a684-9cd2e2d32106#ref=rss",
+   "published": "2026-11-24T02:52:00+09:00",
+   "tags": [
+    "legislation"
+   ],
+   "event": "femicide-murder-law",
+   "state_media": false
+  },
+  {
+   "source": "Der Spiegel",
+   "title_original": "Formel-1-Fahrer Charles Leclerc: Nur eine kleine Berührung - Haltungsnote",
+   "title_ko": "F1 드라이버 샤를 르클레르: 작은 접촉 - 태도 점수",
+   "summary_ko": "팀 내 2인자가 되기 싫었던 르클레르가 오히려 그 반대 결과를 낳았을 수 있다는 칼럼이다.",
+   "url": "https://www.spiegel.de/sport/formel-1-fahrer-charles-leclerc-nur-eine-kleine-beruehrung-haltungsnote-a-562da4a9-4606-4183-befe-f4b6cd03d72b#ref=rss",
+   "published": "2026-11-24T02:51:00+09:00",
+   "tags": [],
+   "event": "leclerc-ferrari-column",
+   "state_media": false
+  },
+  {
+   "source": "FAZ",
+   "title_original": "Rückkehr zu Nvidia: Huang will „beim zweiten Mal ein besserer Chef sein“",
+   "title_ko": "엔비디아 복귀: 황 \"두 번째엔 더 나은 CEO 되겠다\"",
+   "summary_ko": "불륜 문제로 물러났던 황이 복귀했고 트럼프가 역할을 한 것으로 보이며, 환호하는 직원들 앞에서 '겸손'을 다짐했다.",
+   "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-beruft-ex-chef-huang-zurueck-an-die-firmenspitze-accg-201709972.html",
+   "published": "2026-11-24T06:10:49+09:00",
+   "tags": [
+    "business"
+   ],
+   "event": "nvidia-huang-return",
+   "state_media": false
+  },
+  {
+   "source": "FAZ",
+   "title_original": "Business-Ticker: Trump postet bizarre Fotomontage zu Huang-Rückkehr",
+   "title_ko": "비즈니스 티커: 트럼프, 황 복귀 관련 기괴한 합성사진 게시",
+   "summary_ko": "로슈 유방암 치료제 미국 승인, 레고 포르투갈 신공장에 10억 유로 이상 투자, 크라우드스트라이크의 지스케일러 인수 추진 등이 함께 실렸다.",
+   "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-trump-postet-bizarre-fotomontage-zu-huang-rueckkehr-faz-200452404.html",
+   "published": "2026-11-24T06:10:17+09:00",
+   "tags": [
+    "business"
+   ],
+   "event": "nvidia-huang-return",
+   "state_media": false
+  },
+  {
+   "source": "FAZ",
+   "title_original": "Nvidia-Affäre: Huangs Comeback stinkt zum Himmel",
+   "title_ko": "엔비디아 사태: 황의 복귀는 악취가 진동한다",
+   "summary_ko": "트럼프 압력으로 공동창업자를 복귀시킨 것은 터무니없는 일이며 회사에 좋은지도 의문이라는 논평이다.",
+   "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jensen-huang-und-nvidia-das-comeback-stinkt-zum-himmel-201710277.html",
+   "published": "2026-11-24T06:06:00+09:00",
+   "tags": [
+    "business"
+   ],
+   "event": "nvidia-huang-return",
+   "state_media": false
+  },
+  {
+   "source": "FAZ",
+   "title_original": "Designgaleristen: Mommsenstraße als Schaufenster der Moderne",
+   "title_ko": "디자인 갤러리스트들: 몸젠 거리, 모더니즘의 쇼윈도",
+   "summary_ko": "베를린 같은 거리에 있는 두 디자인 갤러리와 바우하우스~이탈리아 아방가르드 가구를 소개했다.",
+   "url": "https://www.faz.net/aktuell/besser-leben/stil/bauhaus-und-italienische-avantgarde-zwei-designgalerien-in-der-berliner-mommsenstrasse-201614634.html",
+   "published": "2026-11-24T05:21:15+09:00",
+   "tags": [],
+   "event": "berlin-design-galleries",
+   "state_media": false
+  },
+  {
+   "source": "FAZ",
+   "title_original": "Adorno-Vorlesungen: Das neue Gesicht des Kapitalismus",
+   "title_ko": "아도르노 강연: 자본주의의 새 얼굴",
+   "summary_ko": "호주 사회학자 멜린다 쿠퍼가 가산제적 창업자 권력과 반동적 사고의 새 연합을 다뤘다.",
+   "url": "https://www.faz.net/aktuell/feuilleton/melinda-coopers-adorno-vorlesungen-untersuchen-den-patrimonialen-kapitalismus-201706358.html",
+   "published": "2026-11-24T05:19:53+09:00",
+   "tags": [],
+   "event": "adorno-lectures-cooper",
+   "state_media": false
+  },
+  {
+   "source": "FAZ",
+   "title_original": "„Gedemütigt“: Verlag verschickt Nacktbilder von Gisèle Pelicot zu Werbezwecken",
+   "title_ko": "\"모욕당했다\": 출판사, 홍보 목적으로 지젤 펠리코 나체 사진 발송",
+   "summary_ko": "프랑스 출판사가 전 남편의 에세이 홍보를 위해 그가 찍은 펠리코 나체 사진을 여러 매체에 보냈고 펠리코가 소송을 제기했다.",
+   "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/verlag-verschickt-nacktbilder-von-gisele-pelicot-zu-werbezwecken-201710908.html",
+   "published": "2026-11-24T05:18:56+09:00",
+   "tags": [],
+   "event": "pelicot-photos-publisher",
+   "state_media": false
+  },
+  {
+   "source": "FAZ",
+   "title_original": "KI am Gral der Mathematik: Riemanns Vermutung stimmt, aber niemand weiß, warum",
+   "title_ko": "수학의 성배에 선 AI: 리만 가설은 참이지만 아무도 이유를 모른다",
+   "summary_ko": "리만 가설이 AI 도움으로 증명됐고 같은 날 한 연구자가 AI 없는 증명의 개요를 내놓아 수학계에 문화전쟁이 벌어지고 있다.",
+   "url": "https://www.faz.net/aktuell/feuilleton/debatten/riemannsche-vermutung-warum-der-ki-beweis-unverstaendlich-bleibt-201708351.html",
+   "published": "2026-11-24T05:15:59+09:00",
+   "tags": [],
+   "event": "riemann-hypothesis-ai-proof",
+   "state_media": false
+  },
+  {
+   "source": "FAZ",
+   "title_original": "Gescheiterte Klimakonferenz: Die Fossilen sind nicht der Feind",
+   "title_ko": "실패한 기후회의: 화석연료가 적은 아니다",
+   "summary_ko": "특정 에너지원을 악마화해서는 기후를 구할 수 없으며 CCS와 원자력을 포함해 배출을 줄여야 한다는 논평이다.",
+   "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/weltklimakonferenz-in-antalya-was-aus-dem-scheitern-folgen-muss-201709336.html",
+   "published": "2026-11-24T04:54:45+09:00",
+   "tags": [
+    "industry"
+   ],
+   "event": "climate-conference-failure-opinion",
+   "state_media": false
+  },
+  {
+   "source": "Süddeutsche Zeitung",
+   "title_original": "Bundespolitik: Merz: Bericht über russische Atombewaffnung im All „schockierend“",
+   "title_ko": "메르츠: 러시아 우주 핵무장 보도 '충격적'",
+   "summary_ko": "메르츠 총리는 러시아가 핵무장 위성을 쏠 수 있다는 SZ·NDR·WDR 보도에 우려를 표했고, 피스토리우스 국방장관은 신중을 당부했다.",
+   "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-berichte-russland-atomwaffen-all-schockierend-li.3580621",
+   "published": "2026-11-24T04:17:47+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "russia-nuclear-weapon-space",
+   "state_media": false
+  },
+  {
+   "source": "Süddeutsche Zeitung",
+   "title_original": "Nvidia: „Ich habe den Deal abgeschlossen“",
+   "title_ko": "엔비디아: \"내가 거래를 성사시켰다\"",
+   "summary_ko": "트럼프는 간첩 사건에도 황이 CEO로 복귀한 것을 자기 공으로 여기며, 양당 의원들이 이를 비판했다.",
+   "url": "https://www.sueddeutsche.de/politik/jensen-huang-donald-trump-nvidia-rueckkehr-usa-aktien-li.3584998",
+   "published": "2026-11-24T03:44:05+09:00",
+   "tags": [
+    "business"
+   ],
+   "event": "nvidia-huang-return",
+   "state_media": false
+  },
+  {
+   "source": "Süddeutsche Zeitung",
+   "title_original": "KI-Konzerne: Was der Personenkult um den Nvidia-Chef über uns aussagt",
+   "title_ko": "AI 기업: 엔비디아 CEO 개인숭배가 말해주는 것",
+   "summary_ko": "황의 몰락과 재기는 직원·투자자·언론이 권력자를 우상화하며 판단력을 잃는 모습을 비춘다는 분석이다.",
+   "url": "https://www.sueddeutsche.de/wirtschaft/jensen-huang-nvidia-kuenstliche-intelligenz-macht-essay-kommentar-li.3581957",
+   "published": "2026-11-24T02:03:00+09:00",
+   "tags": [
+    "business"
+   ],
+   "event": "nvidia-huang-return",
+   "state_media": false
+  },
+  {
+   "source": "Süddeutsche Zeitung",
+   "title_original": "Geldanlage: Wie sicher ist das Geld im Altersvorsorgedepot?",
+   "title_ko": "재테크: 노후대비 투자계좌의 돈은 얼마나 안전한가?",
+   "summary_ko": "노후대비 투자계좌(Altersvorsorgedepot)의 적립금이 실업·사망·운용사 파산 시 어떻게 되는지 설명했다.",
+   "url": "https://www.sueddeutsche.de/wirtschaft/altersvorsorgedepot-avd-etf-sicherheit-li.3570753",
+   "published": "2026-11-24T01:51:05+09:00",
+   "tags": [
+    "legislation"
+   ],
+   "event": "altersvorsorgedepot-explainer",
+   "state_media": false
+  },
+  {
+   "source": "Süddeutsche Zeitung",
+   "title_original": "Prozess: Auto-Crash vor dem Pilates-Kurs: Cathy Hummels muss sich vor Gericht verteidigen",
+   "title_ko": "필라테스 전 교통사고: 캐시 후멜스, 법정에서 변론",
+   "summary_ko": "인플루언서 후멜스가 2024년 다른 차를 들이받고 운동하러 갔다는 혐의로 재판을 받고 있으며, 감정서가 불리하게 작용하고 있다.",
+   "url": "https://www.sueddeutsche.de/muenchen/muenchen-cathy-hummels-fahrerflucht-amtsgericht-unfall-li.3583797",
+   "published": "2026-11-24T01:19:56+09:00",
+   "tags": [],
+   "event": "cathy-hummels-trial",
+   "state_media": false
+  },
+  {
+   "source": "Süddeutsche Zeitung",
+   "title_original": "Sicherheitspolitik: Geheimdienste fürchten: Russland vor atomarer Aufrüstung im All",
+   "title_ko": "안보정책: 정보기관들 \"러시아, 우주 핵무장 임박\" 우려",
+   "summary_ko": "나토 내에 궤도 핵무기 배치가 임박했다는 시나리오가 돌고 있으며 독일은 대비가 부족하다고 보도했다.",
+   "url": "https://www.sueddeutsche.de/politik/russland-atomwaffe-weltraum-nato-sputnik-s-satelliten-bundeswehr-aufruestung-li.3582627",
+   "published": "2026-11-24T01:00:00+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "russia-nuclear-weapon-space",
+   "state_media": false
+  },
+  {
+   "source": "Süddeutsche Zeitung",
+   "title_original": "Podcast: „Auf den Punkt“: Was eine russische Atombombe im All bedeuten würde",
+   "title_ko": "팟캐스트 '아우프 덴 풍크트': 러시아 우주 핵폭탄이 의미하는 것",
+   "summary_ko": "서방 정보기관과 군은 러시아가 올해 안에 위성에 핵탄두를 탑재하려 한다고 보고 있다.",
+   "url": "https://www.sueddeutsche.de/politik/auf-den-punkt-russland-atombombe-weltraum-satellit-2026-li.3584667",
+   "published": "2026-11-24T00:57:18+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "russia-nuclear-weapon-space",
+   "state_media": false
+  },
+  {
+   "source": "Süddeutsche Zeitung",
+   "title_original": "Spionageaffäre: Nvidia beruft Ex-Chef Huang zurück an die Firmenspitze",
+   "title_ko": "간첩 사건: 엔비디아, 전 CEO 황을 다시 수장으로",
+   "summary_ko": "간첩 스캔들로 사임한 CEO가 즉시 복귀하며, 트럼프가 이를 지지했고 엔비디아 주가가 급등했다.",
+   "url": "https://www.sueddeutsche.de/wirtschaft/nvidia-jensen-huang-rueckkehr-chef-aktien-auswirkung-li.3584897",
+   "published": "2026-11-24T00:48:14+09:00",
+   "tags": [
+    "business",
+    "stocks"
+   ],
+   "event": "nvidia-huang-return",
+   "state_media": false
+  },
+  {
+   "source": "Die Zeit",
+   "title_original": "Jensen Huang: Ein krasser Powermove (5/5)",
+   "title_ko": "젠슨 황: 엄청난 파워 무브 (5/5)",
+   "summary_ko": "젠슨 황 복귀에 증시는 환호하고 미 대통령도 크게 기뻐하지만 의문이 많이 남았다.",
+   "url": "https://www.zeit.de/wirtschaft/2026-11/jensen-huang-nvidia-ceo-boerse-aktie",
+   "published": "2026-11-24T05:57:06+09:00",
+   "tags": [
+    "business",
+    "stocks"
+   ],
+   "event": "nvidia-huang-return",
+   "state_media": false
+  },
+  {
+   "source": "Die Zeit",
+   "title_original": "Brexit-Debatte: Andy Burnham verteidigt Annäherung an die EU im britischen Parlament",
+   "title_ko": "브렉시트 논쟁: 앤디 버넘, 영국 의회에서 EU와의 관계 개선 옹호",
+   "summary_ko": "영국 총리가 EU와의 긴밀한 협력을 주장하며 브렉시트에서 벗어나면 경제를 부양할 수 있다고 말했다.",
+   "url": "https://www.zeit.de/politik/ausland/2026-11/andy-burnham-grossbritannien-eu-abkommen-brexit",
+   "published": "2026-11-24T05:45:30+09:00",
+   "tags": [
+    "geopolitics"
+   ],
+   "event": "uk-burnham-eu-rapprochement",
+   "state_media": false
+  },
+  {
+   "source": "Die Zeit",
+   "title_original": "Tiere: Löwenalarm hält Istanbul in Atem - dann kommt die Entwarnung",
+   "title_ko": "동물: 사자 경보에 이스탄불 긴장 - 이후 해제",
+   "summary_ko": "이스탄불에서 사자 경보가 내려졌다가 해제됐다. (제목 기준)",
+   "url": "https://www.zeit.de/news/2026-11/23/loewe-in-istanbul-gesichtet-polizei-startet-suchaktion",
+   "published": "2026-11-24T05:44:42+09:00",
+   "tags": [],
+   "event": "istanbul-lion-alert",
+   "state_media": false
+  },
+  {
+   "source": "Die Zeit",
+   "title_original": "Parastoo Ahmadi: Bekannte iranische Sängerin nach Konzert mit 74 Hieben ausgepeitscht",
+   "title_ko": "파라스투 아마디: 이란 유명 가수, 콘서트 후 태형 74대",
+   "summary_ko": "콘서트에서 복장 규정을 어긴 아마디가 수십 대의 태형을 받았고 인권단체가 경악했다.",
+   "url": "https://www.zeit.de/politik/ausland/2026-11/parastoo-ahmadi-iran-auspeitschung-musik-youtube-kopftuch",
+   "published": "2026-11-24T05:04:37+09:00",
+   "tags": [],
+   "event": "parastoo-ahmadi-flogging",
+   "state_media": false
+  },
+  {
+   "source": "Die Zeit",
+   "title_original": "Jensen Huang: Jensen Huang hätte nie zurückkehren dürfen. Aber es ging nicht anders",
+   "title_ko": "젠슨 황은 절대 돌아와선 안 됐다. 하지만 다른 방법이 없었다",
+   "summary_ko": "실리콘밸리는 어떤 도덕보다 스타 경영자를 더 필요로 한다는 논평이다.",
+   "url": "https://www.zeit.de/digital/2026-11/jensen-huang-nvidia-ceo-kapitalismus",
+   "published": "2026-11-24T04:58:08+09:00",
+   "tags": [
+    "business"
+   ],
+   "event": "nvidia-huang-return",
+   "state_media": false
+  },
+  {
+   "source": "Die Zeit",
+   "title_original": "Kollision an Bahnübergang: Radfahrer von Zug erfasst und tödlich verletzt",
+   "title_ko": "건널목 충돌: 자전거 운전자 열차에 치여 숨져",
+   "summary_ko": "건널목에서 자전거 운전자가 열차에 치여 숨졌다. (제목 기준)",
+   "url": "https://www.zeit.de/news/2026-11/23/mann-an-bahnuebergang-von-zug-erfasst-und-toedlich-verletzt",
+   "published": "2026-11-24T04:46:46+09:00",
+   "tags": [],
+   "event": "railway-crossing-cyclist-death",
+   "state_media": false
+  },
+  {
+   "source": "Die Zeit",
+   "title_original": "Chip-Riese: Nach Trump-Eingreifen: Nvidia holt Firmenchef Huang zurück",
+   "title_ko": "반도체 거인: 트럼프 개입 후 엔비디아, 황 CEO 복귀",
+   "summary_ko": "트럼프 개입 후 엔비디아가 황을 CEO로 복귀시켰다. (제목 기준)",
+   "url": "https://www.zeit.de/news/2026-11/23/nvidia-holt-firmenchef-huang-zurueck",
+   "published": "2026-11-24T04:40:46+09:00",
+   "tags": [
+    "business"
+   ],
+   "event": "nvidia-huang-return",
+   "state_media": false
+  },
+  {
+   "source": "Die Zeit",
+   "title_original": "Bedeutende Mediziner-Ehrung: Feier für Nobelpreisträger Nagel an Würzburger Uni",
+   "title_ko": "의학 주요 영예: 뷔르츠부르크대, 노벨상 수상자 나겔 축하 행사",
+   "summary_ko": "뷔르츠부르크대에서 노벨상 수상자 나겔을 축하하는 행사가 열렸다. (제목 기준)",
+   "url": "https://www.zeit.de/news/2026-11/23/feier-fuer-nobelpreistraeger-nagel-an-wuerzburger-uni",
+   "published": "2026-11-24T04:34:55+09:00",
+   "tags": [],
+   "event": "nagel-nobel-wuerzburg",
+   "state_media": false
+  }
+ ],
+ "events": [
+  {
+   "event": "nvidia-huang-return",
+   "title_ko": "엔비디아, 젠슨 황 CEO 복귀(트럼프 개입 논란·주가 급등)",
+   "sources": [
+    "ARD Tagesschau",
+    "ZDF heute",
+    "Deutsche Welle",
+    "n-tv",
+    "Handelsblatt",
+    "Der Spiegel",
+    "FAZ",
+    "Süddeutsche Zeitung",
+    "Die Zeit"
+   ],
+   "count": 9
+  },
+  {
+   "event": "russia-nuclear-weapon-space",
+   "title_ko": "러시아 우주 핵무기 배치 우려",
+   "sources": [
+    "ARD Tagesschau",
+    "Deutsche Welle",
+    "n-tv",
+    "Süddeutsche Zeitung"
+   ],
+   "count": 4
+  },
+  {
+   "event": "russian-cruise-missiles-poland",
+   "title_ko": "러시아 순항미사일 폴란드 낙하와 나토 대응",
+   "sources": [
+    "ARD Tagesschau",
+    "ZDF heute",
+    "WELT"
+   ],
+   "count": 3
+  },
+  {
+   "event": "ukraine-sinks-russian-ships-libya",
+   "title_ko": "우크라이나, 리비아 앞바다 러시아 선박 격침",
+   "sources": [
+    "ARD Tagesschau",
+    "WELT"
+   ],
+   "count": 2
+  },
+  {
+   "event": "nato-berlin-ukraine-membership",
+   "title_ko": "베를린 나토 회의: 우크라이나 가입 논의",
+   "sources": [
+    "ZDF heute",
+    "Deutsche Welle"
+   ],
+   "count": 2
+  },
+  {
+   "event": "fc-bayern-women-unbeaten-record",
+   "title_ko": "바이에른, 호펜하임도 못 막아",
+   "sources": [
+    "ZDF heute",
+    "n-tv"
+   ],
+   "count": 2
+  },
+  {
+   "event": "musiala-salary-dispute",
+   "title_ko": "FC 바이에른의 무시알라 사례: 배려인가 상업적 압박인가?",
+   "sources": [
+    "Deutsche Welle",
+    "Der Spiegel"
+   ],
+   "count": 2
+  },
+  {
+   "event": "pelicot-photos-publisher",
+   "title_ko": "출판사, 지젤 펠리코 나체 사진으로 에세이 홍보 논란",
+   "sources": [
+    "n-tv",
+    "FAZ"
+   ],
+   "count": 2
+  },
+  {
+   "event": "femicide-murder-law",
+   "title_ko": "'여성 보호 패키지'의 일환: 기민·기사연합, 페미사이드를 살인죄로 규정 추진",
+   "sources": [
+    "n-tv",
+    "Der Spiegel"
+   ],
+   "count": 2
+  },
+  {
+   "event": "parastoo-ahmadi-flogging",
+   "title_ko": "이란: 가수 파라스투 아마디, 히잡 의무 위반으로 태형",
+   "sources": [
+    "Der Spiegel",
+    "Die Zeit"
+   ],
+   "count": 2
+  },
+  {
+   "event": "tagesschau-100-seconds",
+   "title_ko": "tagesschau 100초 뉴스",
+   "sources": [
+    "ARD Tagesschau"
+   ],
+   "count": 1
+  },
+  {
+   "event": "stromspar-check-funding",
+   "title_ko": "저소득 가구 대상 '전기 절약 점검' 확대 계획",
+   "sources": [
+    "ARD Tagesschau"
+   ],
+   "count": 1
+  },
+  {
+   "event": "tagesschau-20-uhr-broadcast",
+   "title_ko": "tagesschau 20시 뉴스",
+   "sources": [
+    "ARD Tagesschau"
+   ],
+   "count": 1
+  },
+  {
+   "event": "deutsche-bank-fossil-leak",
+   "title_ko": "도이체방크: 친환경 거래인가 더러운 사업인가?",
+   "sources": [
+    "ZDF heute"
+   ],
+   "count": 1
+  },
+  {
+   "event": "eu-russia-sanctions-package",
+   "title_ko": "EU, 러시아 국기 아래 스포츠 행사 참가 금지 추진",
+   "sources": [
+    "ZDF heute"
+   ],
+   "count": 1
+  },
+  {
+   "event": "iran-war-middle-east-liveblog",
+   "title_ko": "이란 전쟁과 중동 분쟁: 라이브 블로그",
+   "sources": [
+    "ZDF heute"
+   ],
+   "count": 1
+  },
+  {
+   "event": "ukraine-war-liveblog",
+   "title_ko": "우크라이나 전쟁 최신 소식",
+   "sources": [
+    "ZDF heute"
+   ],
+   "count": 1
+  },
+  {
+   "event": "german-firms-ukraine-investment",
+   "title_ko": "러시아 공격 피해 커도 독일 기업들은 우크라이나 투자 지속, 재건에 기대",
+   "sources": [
+    "Deutsche Welle"
+   ],
+   "count": 1
+  },
+  {
+   "event": "serbia-eu-western-balkans-summit",
+   "title_ko": "EU-서발칸 정상회의 앞둔 독일 전문가들: 학생 명단 정부 하의 세르비아, 개혁과 연속성 사이 선택해야",
+   "sources": [
+    "Deutsche Welle"
+   ],
+   "count": 1
+  },
+  {
+   "event": "indonesia-candy-factory-fire",
+   "title_ko": "인도네시아: 과자 공장 화재로 수십 명 실종",
+   "sources": [
+    "Deutsche Welle"
+   ],
+   "count": 1
+  },
+  {
+   "event": "germany-disease-fear-survey",
+   "title_ko": "독일에서 중병에 대한 두려움 커져",
+   "sources": [
+    "Deutsche Welle"
+   ],
+   "count": 1
+  },
+  {
+   "event": "classen-influencer-birth",
+   "title_ko": "인플루언서 부부 율리안·팔리나 클라센, 아들 출산 발표",
+   "sources": [
+    "n-tv"
+   ],
+   "count": 1
+  },
+  {
+   "event": "gm-tobacco-paclitaxel",
+   "title_ko": "\"큰 성공\": 유전자 변형 담배 식물이 항암제 생산",
+   "sources": [
+    "n-tv"
+   ],
+   "count": 1
+  },
+  {
+   "event": "ukraine-attack-russian-freighter-baltic",
+   "title_ko": "\"전쟁이 발트해로 번져선 안 돼\" - 피스토리우스, 우크라이나에 경고",
+   "sources": [
+    "WELT"
+   ],
+   "count": 1
+  },
+  {
+   "event": "princess-kate-bbc-documentary",
+   "title_ko": "\"이 영화는 매우 중요할 것\"",
+   "sources": [
+    "WELT"
+   ],
+   "count": 1
+  },
+  {
+   "event": "berlin-coalition-emde-dispute",
+   "title_ko": "\"원래 후보를 세우기 전에 적합한지 고민하는 법\"",
+   "sources": [
+    "WELT"
+   ],
+   "count": 1
+  },
+  {
+   "event": "carney-trump-impersonator",
+   "title_ko": "캐나다 총리, 갑자기 트럼프 흉내꾼을 무대에 불러",
+   "sources": [
+    "WELT"
+   ],
+   "count": 1
+  },
+  {
+   "event": "germany-pension-dispute",
+   "title_ko": "프라이 원내대표, 연금안 완화 반대 - 사민당은 예산 절차 비판",
+   "sources": [
+    "WELT"
+   ],
+   "count": 1
+  },
+  {
+   "event": "rwanda-deportation-center",
+   "title_ko": "독일, 2027년부터 르완다 추방센터 계획 참여",
+   "sources": [
+    "WELT"
+   ],
+   "count": 1
+  },
+  {
+   "event": "voestalpine-buy-rating",
+   "title_ko": "뵈스트알피네: 도이체방크, 이 오스트리아 주식에 '매수 기회'",
+   "sources": [
+    "Handelsblatt"
+   ],
+   "count": 1
+  },
+  {
+   "event": "bmw-rheinmetall-raw-materials-trading",
+   "title_ko": "\"의존도 빨리 줄여야\": BMW·라인메탈, 원자재 공동 구매 무역회사 설립 계획",
+   "sources": [
+    "Handelsblatt"
+   ],
+   "count": 1
+  },
+  {
+   "event": "openai-strategy-reset",
+   "title_ko": "이용자 12억, 대부분 무료: ChatGPT 개발사의 재창조 시도",
+   "sources": [
+    "Handelsblatt"
+   ],
+   "count": 1
+  },
+  {
+   "event": "arken-labs-startup",
+   "title_ko": "아르켄 랩스: 연쇄 창업가 파우스더, AI 스타트업으로 교량 건설 가속 추진",
+   "sources": [
+    "Handelsblatt"
+   ],
+   "count": 1
+  },
+  {
+   "event": "berger-union-berlin-transfer",
+   "title_ko": "국가대표 골키퍼 안카트린 베르거, 미 고담FC에서 우니온 베를린으로 이적",
+   "sources": [
+    "Der Spiegel"
+   ],
+   "count": 1
+  },
+  {
+   "event": "kushner-wealth",
+   "title_ko": "트럼프 사위이자 수석 중재자 재러드 쿠슈너, 갈수록 부유해져",
+   "sources": [
+    "Der Spiegel"
+   ],
+   "count": 1
+  },
+  {
+   "event": "byd-ti7-eu-sales-ban",
+   "title_ko": "BYD: 디펜더 유사성으로 EU 내 Ti7 SUV 판매금지, 주가 하락",
+   "sources": [
+    "Der Spiegel"
+   ],
+   "count": 1
+  },
+  {
+   "event": "leclerc-ferrari-column",
+   "title_ko": "F1 드라이버 샤를 르클레르: 작은 접촉 - 태도 점수",
+   "sources": [
+    "Der Spiegel"
+   ],
+   "count": 1
+  },
+  {
+   "event": "berlin-design-galleries",
+   "title_ko": "디자인 갤러리스트들: 몸젠 거리, 모더니즘의 쇼윈도",
+   "sources": [
+    "FAZ"
+   ],
+   "count": 1
+  },
+  {
+   "event": "adorno-lectures-cooper",
+   "title_ko": "아도르노 강연: 자본주의의 새 얼굴",
+   "sources": [
+    "FAZ"
+   ],
+   "count": 1
+  },
+  {
+   "event": "riemann-hypothesis-ai-proof",
+   "title_ko": "수학의 성배에 선 AI: 리만 가설은 참이지만 아무도 이유를 모른다",
+   "sources": [
+    "FAZ"
+   ],
+   "count": 1
+  },
+  {
+   "event": "climate-conference-failure-opinion",
+   "title_ko": "실패한 기후회의: 화석연료가 적은 아니다",
+   "sources": [
+    "FAZ"
+   ],
+   "count": 1
+  },
+  {
+   "event": "altersvorsorgedepot-explainer",
+   "title_ko": "재테크: 노후대비 투자계좌의 돈은 얼마나 안전한가?",
+   "sources": [
+    "Süddeutsche Zeitung"
+   ],
+   "count": 1
+  },
+  {
+   "event": "cathy-hummels-trial",
+   "title_ko": "필라테스 전 교통사고: 캐시 후멜스, 법정에서 변론",
+   "sources": [
+    "Süddeutsche Zeitung"
+   ],
+   "count": 1
+  },
+  {
+   "event": "uk-burnham-eu-rapprochement",
+   "title_ko": "브렉시트 논쟁: 앤디 버넘, 영국 의회에서 EU와의 관계 개선 옹호",
+   "sources": [
+    "Die Zeit"
+   ],
+   "count": 1
+  },
+  {
+   "event": "istanbul-lion-alert",
+   "title_ko": "동물: 사자 경보에 이스탄불 긴장 - 이후 해제",
+   "sources": [
+    "Die Zeit"
+   ],
+   "count": 1
+  },
+  {
+   "event": "railway-crossing-cyclist-death",
+   "title_ko": "건널목 충돌: 자전거 운전자 열차에 치여 숨져",
+   "sources": [
+    "Die Zeit"
+   ],
+   "count": 1
+  },
+  {
+   "event": "nagel-nobel-wuerzburg",
+   "title_ko": "의학 주요 영예: 뷔르츠부르크대, 노벨상 수상자 나겔 축하 행사",
+   "sources": [
+    "Die Zeit"
+   ],
+   "count": 1
+  }
+ ],
+ "unavailable_sources": []
+}
