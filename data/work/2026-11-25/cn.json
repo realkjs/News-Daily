@@ -1,0 +1,864 @@
+{
+  "team": "cn",
+  "headlines": [
+    {
+      "source": "CCTV",
+      "title_original": "美国防部寻求部分企业协助生产军用无人机",
+      "title_ko": "미 국방부, 일부 기업에 군용 드론 생산 협조 요청",
+      "summary_ko": "미국 국방부가 일부 기업에 군용 드론 생산 협조를 요청했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rUzJvcmtTQW9aZ21GLUMtRkxLdkFQbTJZN19oLUpSRDlhYzY3VTREZGo2XzRyOEE4Q2czc1dCQy1RN0lqem5JbUUzdGY4RXV1RWk5bmNjRV80RUhLVGZkZkRaWWpGdnVDSWVsMVJRTDNuUElVeUppZQ?oc=5",
+      "published": "2026-11-25T05:07:48+09:00",
+      "tags": [
+        "industry",
+        "geopolitics"
+      ],
+      "event": "us-pentagon-military-drone-production",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "年末影片上新 多元业态释放消费潜力",
+      "title_ko": "연말 신작 영화 개봉, 다양한 업태가 소비 잠재력 방출",
+      "summary_ko": "연말 신작 영화 개봉과 다양한 업태가 소비 잠재력을 끌어내고 있다는 보도. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43SGMyb1RNN1lLRFo3bjVKcXB1WDV5VXY4YzBXUXh1bG43eGt0Y2k1czhOdnFUU1dueEJNMDVoeVhnRlByUy1USnlIVjktTm5mN2h0OTlacW41M1RMdm5HUHdFNGdDZHFzMm9BNVpkRVlvM01HMXAzcg?oc=5",
+      "published": "2026-11-25T05:07:39+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "china-year-end-consumption",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "多轮磋商难破僵局 以组阁博弈现三重动向",
+      "title_ko": "여러 차례 협상에도 교착 못 풀어… 이스라엘 연정 구성 신경전에 세 가지 움직임",
+      "summary_ko": "이스라엘 연립정부 구성 협상이 여러 차례 진행됐으나 교착 상태다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMTUJ6NEF0NGZJcGxtRXJWWjlVa3Z3U0Z6VkI2U2R2M2JsSllYZERQa3F3MWdEUkJ2VkYxTGQ5MW13ZlJYTEttZ0NfenJvdFpic3QtRmx5cjdRVFNxTkVKejdRV3hBYUZsZzJVLU5iM0FjNGxJNGRNRw?oc=5",
+      "published": "2026-11-25T05:07:30+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "israel-coalition-talks",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "照护“一老一小”，服务体系如何搭建？",
+      "title_ko": "'노인·아동' 돌봄 서비스 체계, 어떻게 구축하나",
+      "summary_ko": "노인과 아동 돌봄 서비스 체계 구축 방안을 다룬 기사. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CWUJqZFVZVVE0YTFlMVlQd2ZfUUNEc25ScGVPcG15M0ctR1VreDRleGtUMVRhakQ5V1FkeUdFUGJUT0xRZW0tSV94b2pZZGZ5V0RGSHlrMXdaSndUMlBHYUFOYUpURzMxVmJXckVBeW44cTdmMFpGeg?oc=5",
+      "published": "2026-11-25T05:05:42+09:00",
+      "tags": [],
+      "event": "china-elderly-child-care-system",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "泽连斯基证实乌方在芬兰湾袭击俄货船",
+      "title_ko": "젤렌스키, 우크라이나의 핀란드만 러시아 화물선 공격 확인",
+      "summary_ko": "젤렌스키 대통령이 우크라이나 측의 핀란드만 러시아 화물선 공격을 확인했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GOW56d3FVcHdvNDZ6YTg1UlcyNGZxamxuUV9mX0dsNFpPajJteU04TkMwY01jQm1EZWlnbEtNb2N1azRhTG02MmdZNHBjRWZwY0k5a29JUWZubi1iVGxGSE1iNm02QUNGbWNPSDNHNWJqY1dLM2oySA?oc=5",
+      "published": "2026-11-25T04:54:03+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-strikes-russian-cargo-ship-gulf-of-finland",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "老挝正式退出联合国最不发达国家行列",
+      "title_ko": "라오스, 유엔 최빈개도국 명단에서 공식 졸업",
+      "summary_ko": "라오스가 유엔 최빈개발도상국(LDC) 지위에서 공식적으로 벗어났다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iWmhIeG1BTkRTMURLR1FkZEFaY3FEVzBJSndFY1VrYnZteHppUk81TUhKQkU3M3dhTHFUWlBiZHdLbXM5eERfdVd5bGtzOE5KTUo0UjFmRFo2b3FrMm9zaTRWbUpscXpERG92aWlBaFAyUUU1RENTdQ?oc=5",
+      "published": "2026-11-25T04:51:48+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "laos-graduates-un-ldc",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "秋冬体检季 血脂筛查注意啥？专家解读",
+      "title_ko": "가을·겨울 건강검진 시즌, 혈중지질 검사 시 유의점은? 전문가 해설",
+      "summary_ko": "건강검진 시즌 혈중지질 검사 유의사항에 대한 전문가 해설. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1idXg2VGdhZjBzNFlJenRLZHpYZ1ViM2ZSQnRFR0RnYkRHbnFRYzFoNEh0Z3FkcXp2X0xuWWFRNHhzRFlnNnZTUUI5eFA5aWJPeTFTUWpwTHVZV0RteUtrWDJqQ0dsTjVYX2JTTU80bVVBWWdRNmc1NQ?oc=5",
+      "published": "2026-11-25T04:07:20+09:00",
+      "tags": [],
+      "event": "health-lipid-screening-tips",
+      "state_media": true
+    },
+    {
+      "source": "CCTV",
+      "title_original": "跨年度“三连超级月亮”来了！这份赏月指南请收好",
+      "title_ko": "연말연시 '3연속 슈퍼문' 온다… 달 관측 가이드",
+      "summary_ko": "연말부터 연초까지 세 차례 연속 슈퍼문이 뜬다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wY3JBUkdWWHhEaVRkUEh2czQ4TkdDM25KTmkyaTA5TnFid3dPTElfT1Y3NGhVVFZGNmVZVy1DS3JCcEFyc1hJcS1nSXpyMjVQcUYtbjYyUXRaamhBalRId1pmM19vTG05Y1NVTVZvakdRUUU5WjlOVA?oc=5",
+      "published": "2026-11-25T04:07:11+09:00",
+      "tags": [],
+      "event": "supermoon",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "NORWAY AND UKRAINE TO EXPAND COOPERATION ON ANTI-DRONE AIR DEFENCE SYSTEM",
+      "title_ko": "노르웨이·우크라이나, 대드론 방공 시스템 협력 확대",
+      "summary_ko": "노르웨이와 우크라이나가 대드론 방공 시스템 협력을 확대한다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZR2gzX0Raa2ZJc2dDQmwyTloxbmNmZE5iUzRoRTNRVW9FOFRTUnZzanhPckNaZmQ1c2piT2tjRGV1bVVYNU55MjlFRkUwcnFoRTJ6cnV1eElLUExtdlZrTkhqNEZ3c0FDaXRFMmNVTGZmMlM3UFhicg?oc=5",
+      "published": "2026-11-24T18:28:24+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "norway-ukraine-anti-drone-cooperation",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "SOUTH KOREA SAYS SUSPECTED DPRK AIRCRAFT WAS IN 'DANGER ZONE' AND CIVIL DEFENSE WARNING WAS BRIEFLY ISSUED - SAFETY MINISTRY",
+      "title_ko": "한국 \"북한 추정 항공기 '위험 구역' 진입, 민방위 경보 잠시 발령\" - 행정안전부",
+      "summary_ko": "한국 정부가 북한 추정 항공기가 '위험 구역'에 있었고 민방위 경보가 잠시 발령됐다고 밝혔다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuQ0hmTF90cjhMZU5HWVZPOERCSzlkY0YyUHJDdnlFamFDSDY5YWd3MDJVQmdhbUR5Z2pYTU9BQnBEWGhsUUlkcXdGTW11UmNQN0tiZ2VGTDYydVRyOFlYQUxNN0I4ZnlkLVdjSGVlelQtX1hINlRhNg?oc=5",
+      "published": "2026-11-24T08:14:24+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "south-korea-airspace-intrusion-warning",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "SOUTH KOREA LIFTS SECURITY WARNING AFTER RUSSIA AIRCRAFT EXITS AREA - SAFETY MINISTRY",
+      "title_ko": "러시아 항공기 이탈 후 한국, 안보 경보 해제 - 행정안전부",
+      "summary_ko": "러시아 항공기가 해당 구역을 벗어난 뒤 한국이 안보 경보를 해제했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aVzhnZ2VWWkNZQUZZVWhyOVJZVmNrLTNXY2tfSDJuZktWc0EtWkJLWFhNNzNPLWU1WENGSElBOFpUMlF6UXpTUEhoNFlJU1loYWF0VU9zUXQwQURXNU5zTi05X202YmxORnIzckN5b1ZBd2NTWTdreQ?oc=5",
+      "published": "2026-11-24T07:59:35+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "south-korea-airspace-intrusion-warning",
+      "state_media": true
+    },
+    {
+      "source": "CGTN",
+      "title_original": "SOUTH KOREA ISSUES SECURITY WARNING FOR ISLAND OFF EAST COAST AFTER RUSSIAN AIRCRAFT INTRUDES SOUTH KOREA AIRSPACE - REPORTS",
+      "title_ko": "러시아 항공기 영공 침범에 한국, 동해안 섬 지역 안보 경보 발령 - 보도",
+      "summary_ko": "러시아 항공기가 한국 영공을 침범해 동해안 섬 지역에 안보 경보가 발령됐다는 보도. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KZFFjQk0zenRDOVBFSFkxUy10RF9ielVjOTEzLWJJeGhUX0RyalJncklQdjZMWFZuZUc2ZGUteTJfdVN5SG1vZHpaOFBFM0JXUVQtbUVodnBjdlZ4REh6NG9JZTBHczZoTzNudE5nNEhhYkJyUkNaWQ?oc=5",
+      "published": "2026-11-24T07:59:18+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "south-korea-airspace-intrusion-warning",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "国际油价24日上涨",
+      "title_ko": "국제유가 24일 상승",
+      "summary_ko": "국제유가가 24일 상승했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NQ1ZpRks3eU9fWnNpcm1wa0MxVUlkekdrak9KbzVnbHdmcW15VEloQlMtcjJON0JxVnBqTk5yRm9tS0FoaDVQZ21kRElQdzFfX081RW9YQmMyQ3IzTTJ0Z2lscHE1UGhXTTJXbWl3Nm0wTUlWMjdN?oc=5",
+      "published": "2026-11-25T05:31:33+09:00",
+      "tags": [
+        "business",
+        "stocks"
+      ],
+      "event": "oil-price-rise-nov24",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "土耳其一军用直升机坠毁致5人死亡",
+      "title_ko": "튀르키예 군용 헬기 추락, 5명 사망",
+      "summary_ko": "튀르키예에서 군용 헬기가 추락해 5명이 숨졌다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkS2g2cEwzX1NsdzdCb0cyNVBveXVDRmx4d1RWdDUyVkF2TXdRUE5uWTUxTmMwNWpuN2xONjd6NUlyRTdjQU5CM3o1N285c0l3OUE4d09CYmFLQWpiamVIQWIydm5Fd2xqXzVLT1lsMkw0eElsUzRn?oc=5",
+      "published": "2026-11-25T04:37:01+09:00",
+      "tags": [],
+      "event": "turkey-military-helicopter-crash",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "沙特首都最高建筑一周内再次遭袭 11人受伤",
+      "title_ko": "사우디 수도 최고층 건물, 일주일 새 또 공격받아 11명 부상",
+      "summary_ko": "사우디 리야드 최고층 건물이 일주일 내 다시 공격받아 11명이 다쳤다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yNUluTXd4d2gwR0I4dTBPOE1JVEU5Sl9fVWtTdnh1N1lsZEZHbzlnSk5OX29PRjdsWG9xOU1NZEtnd0pqMF9UNkpUUmV2dEMyYmpRQlYxNDVLQ3pRV1JfTVdlOHN5bWFlTUFiQ2l2YlhpaUQ5SjRR?oc=5",
+      "published": "2026-11-25T01:06:49+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "riyadh-pif-tower-attack",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "俄国防部称打击乌能源设施和海上船只",
+      "title_ko": "러 국방부 \"우크라이나 에너지 시설·해상 선박 타격\"",
+      "summary_ko": "러시아 국방부가 우크라이나 에너지 시설과 해상 선박을 타격했다고 밝혔다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83OTU1cnZpRjYwMl9HZW44aGVnbE5wQmZ2Z20ySUVKeHk2aXZiWW9Ebjk1cWhhOEctazFNUXg0NnNibUQzRWlob0NBMkNXQ010SGktMUhEQWt1cWF0NFpsWXdtbFpDdXdBSzF5bmRneG5NYmV6dkRN?oc=5",
+      "published": "2026-11-25T00:57:34+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "russia-strikes-ukraine-energy-and-ships",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "哥伦比亚梅塔省政府大楼遭袭致23人受伤",
+      "title_ko": "콜롬비아 메타주 청사 공격받아 23명 부상",
+      "summary_ko": "콜롬비아 메타주 정부 청사가 공격받아 23명이 다쳤다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OQnd3azh2OFlSLXIxdV9NTkIzaTloWUVkX3BXNzE4QkdFWDJVaENPaEZaYlhjcVBaYnFEREZBY0lqbzVFazFxeDNXXzk0TFI5S0Q0Q2JBUWNiYS1QX3QwcXlVS0R0TFE2ajNiR29NTkFZTXp6ckZMVzlEQnNaMmM?oc=5",
+      "published": "2026-11-25T00:38:00+09:00",
+      "tags": [],
+      "event": "colombia-meta-government-building-attack",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "挪威与乌克兰讨论扩大反无人机合作",
+      "title_ko": "노르웨이·우크라이나, 대드론 협력 확대 논의",
+      "summary_ko": "노르웨이와 우크라이나가 대드론 협력 확대를 논의했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oS2JfR0J4ZGkwSC0zTTY1V05nbjdaTmJUa1RPZU1HNTNPNjJlYUktMkdkdFpOQUVGZTVVR3ppVVJlT1l5MDJ0WnMyV0IzNTB3aHJkREF3SDBzR1VxMzBNbzk3QzBkQWVJTlZrYV91UnBQSlZPcFBWU1N5Vm9nTkU?oc=5",
+      "published": "2026-11-24T23:47:28+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "norway-ukraine-anti-drone-cooperation",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "沙特主导联军称利雅得一栋大楼遭“恐怖袭击”",
+      "title_ko": "사우디 주도 연합군 \"리야드 건물 '테러 공격' 받아\"",
+      "summary_ko": "사우디 주도 연합군이 리야드의 한 건물이 '테러 공격'을 받았다고 밝혔다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83bFlkWjlnOTFWeEd6ZndUa1VveTNVc1VOWkkzWTVzQ1pGblNLWHF3RzZqeDN2VFNVamJHSzVYd1BHWXJjaExFU09JMFJZTjJNU2dRREh6c0VFRlVqcHNnQTBiR3ZBd0VJc21lVDVHUEhaUEViVTZoOXh0dGR3Sk0?oc=5",
+      "published": "2026-11-24T22:51:46+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "riyadh-pif-tower-attack",
+      "state_media": true
+    },
+    {
+      "source": "Xinhua",
+      "title_original": "以色列称打死哈马斯内部安全机构负责人",
+      "title_ko": "이스라엘 \"하마스 내부보안기구 책임자 사살\"",
+      "summary_ko": "이스라엘이 하마스 내부보안기구 책임자를 사살했다고 주장했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTWTVZeFMtMVpoOHBMZFl3V3pZYXFkcll2WWs3U0VaaWFBTUszQlhwdEpXdmUzaEQ1WnVXcVFzUk0wTUtfaHNVQm5VdF8tcnJKTlNDQ1pFdXNOemY4a2VOQVpGenpVUDZvSk5rUGhzM2VQOWZITjZr?oc=5",
+      "published": "2026-11-24T22:35:34+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "israel-kills-hamas-internal-security-chief",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "转播：神舟二十四号载人飞行任务--经济·科技",
+      "title_ko": "중계: 선저우 24호 유인 비행 임무",
+      "summary_ko": "선저우 24호 유인 우주비행 임무 중계. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CaDBMSnQ5ZlVORGdHa0VBTDlvbFNOZkVJWGJGNWNrSUlLc0Z5eE5YeG5RaTdQZ18xOEtqcjgwYjlPUDVFM2k0X1RmeERFT0VKQzZZci11QUtlbzRFNGs3YW5NNmhRc183dWZkTWFTSQ?oc=5",
+      "published": "2026-11-25T05:50:00+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "shenzhou-24-crewed-mission",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "央行将开展8000亿元MLF操作--经济·科技",
+      "title_ko": "인민은행, 8,000억 위안 MLF 운영 예정",
+      "summary_ko": "중국 인민은행이 8,000억 위안 규모의 중기유동성지원창구(MLF) 운영을 실시한다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UWFMtN1Z2WGdtYm9CemlXS05HUk1mREtFVWJlWnNzeTg5Y0R3YmVhVWtBUm5DMGJabGhicE1HNk93OTVGUmxNaFJOeDd3MVRYTWItTDFZNzA4QjRXQUVKbldzZnAtbU1TSlVSa3lB?oc=5",
+      "published": "2026-11-24T21:52:00+09:00",
+      "tags": [
+        "monetary"
+      ],
+      "event": "pboc-mlf-800bn",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "陈吉宁涉嫌严重违纪违法正接受中央纪委国家监委审查调查",
+      "title_ko": "천지닝, 심각한 기율·법률 위반 혐의로 중앙기율검사위·국가감찰위 조사 중",
+      "summary_ko": "천지닝이 심각한 기율·법률 위반 혐의로 중앙기율검사위원회·국가감찰위원회의 심사·조사를 받고 있다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kcXNKQWVNTk5qamJURlFZN01fTlZxQlFnd2QtTHI4WFFad3ViVk5ZN0o5TE1oX2F3M0txOU1QTVBGMHI4Y1N2ZEZTN1FzMjI1RWVYTEpWLWJtd19Ld2VuX2JSeVV1dHRnWjhUb2EtYw?oc=5",
+      "published": "2026-11-24T20:30:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "chen-jining-ccdi-investigation",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "我国牵头推动全球首个生成式人工智能治理国际标准提案--经济·科技",
+      "title_ko": "중국, 세계 최초 생성형 AI 거버넌스 국제표준 제안 주도",
+      "summary_ko": "중국이 세계 첫 생성형 인공지능 거버넌스 국제표준 제안을 주도하고 있다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GRGxvTGtGckhYdDdZVUZicUZmdTRHOTlLV2tpRWV6Q3d2RER2cDVtSjMxQ1ZWY2JqckhKb3lnMlZqSl9jRnFocFVjbTU1RW9JMU4tME1ldUpTVzVvVUc4UlA2QTkwU3FsOUt3anl3?oc=5",
+      "published": "2026-11-24T20:14:00+09:00",
+      "tags": [
+        "industry",
+        "legislation",
+        "geopolitics"
+      ],
+      "event": "china-genai-governance-intl-standard",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "全球化加速，荣耀机器人与奥运冠军同台亮相米兰半马",
+      "title_ko": "글로벌화 가속… 아너 로봇, 올림픽 챔피언과 밀라노 하프마라톤 등장",
+      "summary_ko": "아너(Honor)의 로봇이 올림픽 챔피언과 함께 밀라노 하프마라톤에 등장했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wN0xpb2pSeU82R2lTUV8xMG1kekNIUWZrM3UySHJFYVFpa0VYbERQdHlXQkRDNThaSWM5anFFZTlWVXcwSldoM0sySFM3cG9Eb2VIcGlaU2VibHhMakEyVVhOVXNTOUlXU2c?oc=5",
+      "published": "2026-11-24T19:48:00+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "honor-robot-milan-half-marathon",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "三台“巨肺”就位！“华龙一号”有新进展 - 人民网-福建频道",
+      "title_ko": "대형 '거대 폐' 3대 설치… '화룽 1호' 새 진전",
+      "summary_ko": "'화룽 1호' 원전에 대형 설비 3대가 설치되는 등 진전이 있었다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56cEZ2U3ppWWhMai1IamI2V1c5dHVNZ3hUaGRhMlkwUlVuUHpINnpLSW9EaGRxUC1SRkxPdHZnWGpJT2RZRTE3aVZTaE9wYUxLREh0alJXeU5oSXBoaTVJLUtXdWU5VWRaUWc?oc=5",
+      "published": "2026-11-24T19:10:00+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "hualong-one-nuclear-progress",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "走红的蔡滩沙滩有了“安全守门人”",
+      "title_ko": "인기 차이탄 해변에 '안전 지킴이' 생겨",
+      "summary_ko": "인기를 끈 후베이 차이탄 해변에 안전 관리 인력이 배치됐다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01TkptRjB5Qm41Qjd2emNJUi1SQ3d1dU9GM2VQUzhkLUFFNTdMaEdYdkFyMHRFU3E5U01YQW4yODQ2dkJhb09kd25YZnRCNlFKckJqQUZ3Zm9FVWFfcUhBbDJWZTVPRkh1VGc?oc=5",
+      "published": "2026-11-24T18:17:00+09:00",
+      "tags": [],
+      "event": "caitan-beach-safety",
+      "state_media": true
+    },
+    {
+      "source": "People's Daily",
+      "title_original": "2026腾冲科学家论坛将于12月4日至6日举办",
+      "title_ko": "2026 텅충 과학자 포럼 12월 4~6일 개최",
+      "summary_ko": "2026 텅충 과학자 포럼이 12월 4~6일 열린다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Fa2ZfVWhjaVZkWkk5ckVfaGN6ckF4NGtMa2x1Q01RWXl4SUgwWlRyQ3NnQm9nNGhFSlhCcWVMYnNXeFZxODF1TmZZb2tydUl1WUNkM195UmJJcUw3cEJZczNzUmdLUy1IOXc?oc=5",
+      "published": "2026-11-24T18:03:00+09:00",
+      "tags": [],
+      "event": "tengchong-scientist-forum-2026",
+      "state_media": true
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Huawei guilty on 10 of 12 counts after 2-month battle in US courtroom",
+      "title_ko": "화웨이, 미 법정 2개월 공방 끝 12개 혐의 중 10개 유죄",
+      "summary_ko": "약 7년간 이어진 화웨이와 자회사 3곳에 대한 미국 형사재판에서 브루클린 배심원단이 은행·전신 사기, 영업비밀 절취 공모, 제재 회피 등 12개 혐의 중 10개에 유죄를 평결했다. 공갈(조직범죄) 및 사법방해 공모 혐의는 무죄였다.",
+      "url": "https://www.scmp.com/news/us/article/3375673/huawei-guilty-10-12-counts-after-2-month-battle-us-courtroom",
+      "published": "2026-11-25T05:36:38+09:00",
+      "tags": [
+        "business",
+        "legislation",
+        "geopolitics"
+      ],
+      "event": "huawei-us-trial-verdict",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Trump awards Rudy Giuliani the Medal of Freedom, highest US civilian honour",
+      "title_ko": "트럼프, 루디 줄리아니에 미국 최고 민간 훈장 '자유의 메달' 수여",
+      "summary_ko": "트럼프 대통령이 9·11 이후 전국적 인물이 됐고 2020년 대선 결과 뒤집기 시도를 도운 전 뉴욕시장 루디 줄리아니(82)에게 자유의 메달을 수여했다.",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3375672/trump-awards-rudy-giuliani-medal-freedom-highest-us-civilian-honour",
+      "published": "2026-11-25T05:04:33+09:00",
+      "tags": [],
+      "event": "trump-giuliani-medal-of-freedom",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Russian oligarch Potanin gives evidence in blockbuster UK divorce trial",
+      "title_ko": "러 올리가르히 포타닌, 영국 '초대형 이혼 재판'서 증언",
+      "summary_ko": "제재 대상 러시아 올리가르히 블라디미르 포타닌이 모스크바에서 화상으로 런던 법정에 이틀간 증언했다. 전 부인 나탈리아 포타니나가 약 300억 달러로 추정되는 재산 분할을 요구하고 있다.",
+      "url": "https://www.scmp.com/news/world/europe/article/3375671/russian-oligarch-potanin-gives-evidence-blockbuster-uk-divorce-trial",
+      "published": "2026-11-25T03:03:12+09:00",
+      "tags": [],
+      "event": "potanin-uk-divorce-trial",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Gisele Pelicot slams publisher for using nude images from her rape case in book promo",
+      "title_ko": "지젤 펠리코, 성폭행 사건 나체 사진을 책 홍보에 쓴 출판사 비판",
+      "summary_ko": "지젤 펠리코가 파리의 한 출판사가 전 남편이 찍은 자신의 나체 사진을 자신의 투쟁을 다룬 책 홍보에 사용한 데 깊은 충격을 받았다고 밝혔다.",
+      "url": "https://www.scmp.com/news/world/europe/article/3375670/gisele-pelicot-slams-publisher-using-nude-images-her-rape-case-book-promo",
+      "published": "2026-11-25T01:42:33+09:00",
+      "tags": [],
+      "event": "gisele-pelicot-publisher-images",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Bloom KKCA Academy prepares future-ready learners through project-based education",
+      "title_ko": "블룸 KKCA 아카데미, 프로젝트 기반 교육으로 미래 인재 양성",
+      "summary_ko": "광고 파트너가 제작한 콘텐츠로, 블룸 KKCA 아카데미가 기업가적 사고방식 함양을 교육 철학으로 내세운다는 내용이다.",
+      "url": "https://www.scmp.com/presented/news/hong-kong/education/topics/leadership-tomorrow/article/3375431/bloom-kkca-academy-prepares-future-ready-learners-through-project-based-education",
+      "published": "2026-11-25T01:00:12+09:00",
+      "tags": [],
+      "event": "bloom-kkca-academy-advertorial",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Saudi condemns ‘terrorist attack’ after Riyadh skyscraper hit twice in a week",
+      "title_ko": "사우디, 리야드 초고층 빌딩 일주일 새 두 차례 피격에 '테러 공격' 규탄",
+      "summary_ko": "목격자들에 따르면 사우디 국부펀드가 입주한 리야드 최고층 80층 PIF 타워가 며칠 만에 다시 공격받았으며, 예멘 후티 반군과 싸우는 연합군은 이를 '테러 공격'으로 규탄했다.",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3375667/saudi-condemns-terrorist-attack-after-riyadh-skyscraper-hit-twice-week",
+      "published": "2026-11-25T00:35:18+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "riyadh-pif-tower-attack",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Ex-husband named his father as Abby Choi’s killer to avoid charges, court hears",
+      "title_ko": "전 남편 \"기소 피하려 아버지를 애비 초이 살해범으로 지목\" 법정 진술",
+      "summary_ko": "고 애비 초이의 전 남편 알렉스 콩이 고등법원에서 경찰의 오도로 부정확한 진술을 했으며, 아버지를 살해범으로 지목하면 기소를 피할 수 있다고 생각했다고 말했다.",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375661/ex-husband-named-his-father-abby-chois-killer-avoid-charges-court-hears",
+      "published": "2026-11-25T00:03:57+09:00",
+      "tags": [],
+      "event": "abby-choi-murder-trial",
+      "state_media": false
+    },
+    {
+      "source": "SCMP (홍콩)",
+      "title_original": "Gleneagles Hospital Hong Kong’s eHealth access suspended after leak of patients’ data",
+      "title_ko": "홍콩 글렌이글스 병원, 환자 정보 유출 후 eHealth 접근 정지",
+      "summary_ko": "홍콩 보건당국이 글렌이글스 병원의 모바일 앱을 통한 환자 정보 유출 의심 사건 후 해당 병원의 eHealth(전자건강기록) 등록을 정지했다.",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3375662/gleneagles-hospital-hong-kongs-ehealth-access-suspended-after-leak-patients-data",
+      "published": "2026-11-24T23:21:27+09:00",
+      "tags": [],
+      "event": "gleneagles-hk-patient-data-leak",
+      "state_media": false
+    },
+    {
+      "source": "China Daily",
+      "title_original": "详解黄仁勋回归内幕",
+      "title_ko": "젠슨 황 '복귀' 내막 상세 분석",
+      "summary_ko": "젠슨 황의 '복귀' 내막을 다룬 기사. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RMHNLampvanhMTDZRT25WNVFMMW9fTzFadVhzQWJwUl85TjQ3c1hTLXh6SUJBMDl2NklTZ0IyX0t4V0lUNE1sYW02WnB5UXc2dkRnZnRLU3FnTnY3dGZOdm5ZcHpZdlBDUWIxTU1NWnlrQWNJRVp1RU93bjY?oc=5",
+      "published": "2026-11-24T23:03:41+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "jensen-huang-return",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "时评丨中俄美元首历史性会晤 为什么在中国？",
+      "title_ko": "시평: 중·러·미 정상 역사적 회동, 왜 중국에서인가?",
+      "summary_ko": "중·러·미 3국 정상의 역사적 회동이 중국에서 열리는 이유를 다룬 논평. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSlV5TjVsVkZLX3VQUVE1dy1tYmJWYlFBZFpoN1l1eGRFX3F1dHNSWVZVM2l2d3hnalMxVG9PU09Kd2lObEgyVW9SOGNZRTlqdndTb0FWYlItdk9sMVRvS0ppeWlWYUhidkVBeHY5ZVhRdUxNZVhjaVh3QkoxQ0N1cw?oc=5",
+      "published": "2026-11-24T22:24:41+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "china-russia-us-leaders-summit",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "“史诗长征”——诗行二万五千里，重走地球红飘带- 中国日报网",
+      "title_ko": "'서사시 장정' — 2만5천 리 시구로 다시 걷는 지구의 붉은 띠",
+      "summary_ko": "장정을 주제로 한 시 문화 콘텐츠. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ092N2NPb2NteTBBRWVES3hBMVVYZ2VPTjBaWFR6aU5rTjdZNTZtQUlfLS1NOXhFWlA2Q0FWbHdraXRIbHZlalZBamRGQklPQW16Y3c4a3hyY2NaYnBBb0h3VVpJd0RtOGVYRktxbWE1WmFCUWFwQnJLUUNKQXpuaA?oc=5",
+      "published": "2026-11-24T22:22:13+09:00",
+      "tags": [],
+      "event": "epic-long-march-poetry",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "我国牵头推动全球首个生成式人工智能治理国际标准提案",
+      "title_ko": "중국, 세계 최초 생성형 AI 거버넌스 국제표준 제안 주도",
+      "summary_ko": "중국이 세계 첫 생성형 인공지능 거버넌스 국제표준 제안을 주도하고 있다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ldUpVY0Q2V2VIWVlNRVB2UXhNZ3M0Yl85ZFlQbnVXTkZkLUNhODdiek1ERUFmY2lFVGdZdmgwS0N0UjQ0WURlcHJJZlBDX2VicUtncHNGNnpMazFKRnZOUmNDSmhPam4tM2xVRWw0eXJLdHA5d2JCQ0xmNm0?oc=5",
+      "published": "2026-11-24T22:15:00+09:00",
+      "tags": [
+        "industry",
+        "legislation",
+        "geopolitics"
+      ],
+      "event": "china-genai-governance-intl-standard",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "在深圳，一位墨西哥主厨带来家乡味道- 中国日报网",
+      "title_ko": "선전에서 멕시코 셰프가 고향의 맛을 선보이다",
+      "summary_ko": "선전의 한 멕시코 셰프에 관한 기사. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWklkcDUtZWRIeFUyR3gwQXNaYU5tZlZpNEZtUmtYcFZldkFEcGdsMENlM3Q1aUhjTDF0NWZyOGpoNG9yNjN5aGhKa0ViRktwYTdNWDBQc2x1RVQwN2tHX2p2V2ZwbHRBUGtaV2xKaDN0WkwxNkUtQlR3eUJJVXRwdQ?oc=5",
+      "published": "2026-11-24T22:08:45+09:00",
+      "tags": [],
+      "event": "shenzhen-mexican-chef",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "“超级月亮”现身天宇",
+      "title_ko": "'슈퍼문' 하늘에 떠",
+      "summary_ko": "슈퍼문이 관측됐다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Qbl9mWnNGNTV6d09YN0lUVkpJTGZBQXFCR2tTbzZybDhuM2IxMFhJWEQ5TGFmRnB4bzljeHFSZjczRXNuY0dacW9NZzNzN1F6WkpfaTQ2b1FOUnY4V2xab1FXYVNOQ091R3lyVGJ4OGlRNU1UTzVyVG1jSUo?oc=5",
+      "published": "2026-11-24T22:06:02+09:00",
+      "tags": [],
+      "event": "supermoon",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "天天学习｜全球之治- 中国日报网",
+      "title_ko": "매일 학습 | 글로벌 거버넌스",
+      "summary_ko": "'글로벌 거버넌스'를 주제로 한 시진핑 사상 학습 콘텐츠. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94VldRLUNKSnlqMzVKY3JVWFh6QXdkTXdOaEdGampuYll0WnprVGxFTHdJWkZCaUx6cnZnbWlfdlMxazBaZ2xDSjBJNF94NXNJVWRZQ0hBcGF1c2xjWXNpeDl2RzFSbWZIenZJVEs2bVBobGdnMElySEhYZ0hQNEE?oc=5",
+      "published": "2026-11-24T21:41:24+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "daily-study-global-governance",
+      "state_media": true
+    },
+    {
+      "source": "China Daily",
+      "title_original": "秒懂党代会｜报告里“人工智能+”，究竟加在哪里？",
+      "title_ko": "한눈에 보는 당대회 | 보고서의 '인공지능+', 어디에 더하나?",
+      "summary_ko": "당대회 보고서의 '인공지능+' 정책을 해설한 기사. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mV0lMbEZoY1ZELUxiNm1EZXM0empuTzlKTVlVQ085WkhFVWFlcUF2c0tWbWNEUTVHeThobXAxdEl3MWFCaTZhX3lPejU4OVljQzMzVUJib3dTM0tzaHg2WXJRWmFtaTNQSzJUckxjMXF3ZHlsZ2ozbkw0QnI?oc=5",
+      "published": "2026-11-24T20:43:28+09:00",
+      "tags": [
+        "industry",
+        "legislation"
+      ],
+      "event": "party-congress-ai-plus",
+      "state_media": true
+    }
+  ],
+  "events": [
+    {
+      "event": "south-korea-airspace-intrusion-warning",
+      "title_ko": "한국 \"북한 추정 항공기 '위험 구역' 진입, 민방위 경보 잠시 발령\" - 행정안전부",
+      "sources": [
+        "CGTN"
+      ],
+      "count": 3
+    },
+    {
+      "event": "riyadh-pif-tower-attack",
+      "title_ko": "사우디 수도 최고층 건물, 일주일 새 또 공격받아 11명 부상",
+      "sources": [
+        "Xinhua",
+        "SCMP (홍콩)"
+      ],
+      "count": 3
+    },
+    {
+      "event": "supermoon",
+      "title_ko": "연말연시 '3연속 슈퍼문' 온다… 달 관측 가이드",
+      "sources": [
+        "CCTV",
+        "China Daily"
+      ],
+      "count": 2
+    },
+    {
+      "event": "norway-ukraine-anti-drone-cooperation",
+      "title_ko": "노르웨이·우크라이나, 대드론 방공 시스템 협력 확대",
+      "sources": [
+        "CGTN",
+        "Xinhua"
+      ],
+      "count": 2
+    },
+    {
+      "event": "china-genai-governance-intl-standard",
+      "title_ko": "중국, 세계 최초 생성형 AI 거버넌스 국제표준 제안 주도",
+      "sources": [
+        "People's Daily",
+        "China Daily"
+      ],
+      "count": 2
+    },
+    {
+      "event": "us-pentagon-military-drone-production",
+      "title_ko": "미 국방부, 일부 기업에 군용 드론 생산 협조 요청",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "china-year-end-consumption",
+      "title_ko": "연말 신작 영화 개봉, 다양한 업태가 소비 잠재력 방출",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "israel-coalition-talks",
+      "title_ko": "여러 차례 협상에도 교착 못 풀어… 이스라엘 연정 구성 신경전에 세 가지 움직임",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "china-elderly-child-care-system",
+      "title_ko": "'노인·아동' 돌봄 서비스 체계, 어떻게 구축하나",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ukraine-strikes-russian-cargo-ship-gulf-of-finland",
+      "title_ko": "젤렌스키, 우크라이나의 핀란드만 러시아 화물선 공격 확인",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "laos-graduates-un-ldc",
+      "title_ko": "라오스, 유엔 최빈개도국 명단에서 공식 졸업",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "health-lipid-screening-tips",
+      "title_ko": "가을·겨울 건강검진 시즌, 혈중지질 검사 시 유의점은? 전문가 해설",
+      "sources": [
+        "CCTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "oil-price-rise-nov24",
+      "title_ko": "국제유가 24일 상승",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "turkey-military-helicopter-crash",
+      "title_ko": "튀르키예 군용 헬기 추락, 5명 사망",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "russia-strikes-ukraine-energy-and-ships",
+      "title_ko": "러 국방부 \"우크라이나 에너지 시설·해상 선박 타격\"",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "colombia-meta-government-building-attack",
+      "title_ko": "콜롬비아 메타주 청사 공격받아 23명 부상",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "israel-kills-hamas-internal-security-chief",
+      "title_ko": "이스라엘 \"하마스 내부보안기구 책임자 사살\"",
+      "sources": [
+        "Xinhua"
+      ],
+      "count": 1
+    },
+    {
+      "event": "shenzhou-24-crewed-mission",
+      "title_ko": "중계: 선저우 24호 유인 비행 임무",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "pboc-mlf-800bn",
+      "title_ko": "인민은행, 8,000억 위안 MLF 운영 예정",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "chen-jining-ccdi-investigation",
+      "title_ko": "천지닝, 심각한 기율·법률 위반 혐의로 중앙기율검사위·국가감찰위 조사 중",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "honor-robot-milan-half-marathon",
+      "title_ko": "글로벌화 가속… 아너 로봇, 올림픽 챔피언과 밀라노 하프마라톤 등장",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "hualong-one-nuclear-progress",
+      "title_ko": "대형 '거대 폐' 3대 설치… '화룽 1호' 새 진전",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "caitan-beach-safety",
+      "title_ko": "인기 차이탄 해변에 '안전 지킴이' 생겨",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "tengchong-scientist-forum-2026",
+      "title_ko": "2026 텅충 과학자 포럼 12월 4~6일 개최",
+      "sources": [
+        "People's Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "huawei-us-trial-verdict",
+      "title_ko": "화웨이, 미 법정 2개월 공방 끝 12개 혐의 중 10개 유죄",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "trump-giuliani-medal-of-freedom",
+      "title_ko": "트럼프, 루디 줄리아니에 미국 최고 민간 훈장 '자유의 메달' 수여",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "potanin-uk-divorce-trial",
+      "title_ko": "러 올리가르히 포타닌, 영국 '초대형 이혼 재판'서 증언",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "gisele-pelicot-publisher-images",
+      "title_ko": "지젤 펠리코, 성폭행 사건 나체 사진을 책 홍보에 쓴 출판사 비판",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "bloom-kkca-academy-advertorial",
+      "title_ko": "블룸 KKCA 아카데미, 프로젝트 기반 교육으로 미래 인재 양성",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "abby-choi-murder-trial",
+      "title_ko": "전 남편 \"기소 피하려 아버지를 애비 초이 살해범으로 지목\" 법정 진술",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "gleneagles-hk-patient-data-leak",
+      "title_ko": "홍콩 글렌이글스 병원, 환자 정보 유출 후 eHealth 접근 정지",
+      "sources": [
+        "SCMP (홍콩)"
+      ],
+      "count": 1
+    },
+    {
+      "event": "jensen-huang-return",
+      "title_ko": "젠슨 황 '복귀' 내막 상세 분석",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "china-russia-us-leaders-summit",
+      "title_ko": "시평: 중·러·미 정상 역사적 회동, 왜 중국에서인가?",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "epic-long-march-poetry",
+      "title_ko": "'서사시 장정' — 2만5천 리 시구로 다시 걷는 지구의 붉은 띠",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "shenzhen-mexican-chef",
+      "title_ko": "선전에서 멕시코 셰프가 고향의 맛을 선보이다",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "daily-study-global-governance",
+      "title_ko": "매일 학습 | 글로벌 거버넌스",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    },
+    {
+      "event": "party-congress-ai-plus",
+      "title_ko": "한눈에 보는 당대회 | 보고서의 '인공지능+', 어디에 더하나?",
+      "sources": [
+        "China Daily"
+      ],
+      "count": 1
+    }
+  ],
+  "unavailable_sources": [
+    "Global Times",
+    "Caixin"
+  ]
+}
