@@ -1,8 +1,62 @@
 {
   "team": "fr",
   "team_name_ko": "프랑스팀",
-  "collected_at": "2026-11-24T06:13:06.503409+09:00",
+  "collected_at": "2026-11-24T13:27:35.247149+09:00",
   "headlines": [
+    {
+      "source": "France 24",
+      "title_original": "En direct : Tripoli veut des explications après les attaques contre des navires russes à Benghazi",
+      "summary_original": "Le gouvernement libyen d'union nationale, basé à Tripoli, a réclamé lundi des explications à Kiev après des attaques contre des navires russes près de Benghazi, tandis que l'exécutif rival de l'Est a demandé une enquête internationale sur une présumée présence militaire ukrainienne en Libye. Suivez notre direct.",
+      "url": "https://www.france24.com/fr/europe/20261124-en-direct-ukraine-russie-libye-attaques-benghazi-zelensky-poutine",
+      "published": "2026-11-24T13:00:56+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Au Yémen, les Houthis déplorent 25 morts ou disparus dans des frappes saoudiennes",
+      "summary_original": "Une agence de presse houthie fait état mardi de 25 morts ou disparus après des frappes aériennes de l'Arabie saoudite contre des autocars et des camions dans le sud du Yémen. Cette attaque fait suite à des bombardements dans la province côtière voisine de Hodeïda, contrôlée par les Houthis, qui ont fait au moins 17 morts.",
+      "url": "https://www.france24.com/fr/moyen-orient/20261124-yemen-houthis-deplorent-25-morts-disparus-frappes-saoudiennes",
+      "published": "2026-11-24T12:30:10+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Megaspeed, société singapourienne au cœur du scandale Nvidia, placée sur liste noire américaine",
+      "summary_original": "Le ministère du Commerce américain a décidé lundi de placer sur liste noire la société singapourienne Megaspeed et ses filiales, suspectées d'avoir contourné l'embargo des États-Unis en fournissant des puces Nvidia à la Chine.",
+      "url": "https://www.france24.com/fr/%C3%A9co-tech/20261123-megaspeed-societe-singapour-scandale-nvidia-placee-liste-noire-etats-unis-chine",
+      "published": "2026-11-24T07:56:06+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Le chef de l'ONU espère voir d'ici un an un mécanisme pour limiter les risques posés par l'IA",
+      "summary_original": "Antonio Guterres a appelé lundi les États membres des Nations unies à élaborer, \"d'ici l'année prochaine, un cadre multilatéral de gestion des risques liés à l'IA\". Pour le chef de l'ONU, la première étape pourrait être de convenir de mesures de sécurité communes, d'un système d'évaluation et d'exigences minimales en matière de contrôle indépendant.",
+      "url": "https://www.france24.com/fr/%C3%A9co-tech/20261123-intelligence-artificielle-chef-onu-guterres-espere-voir-d-ici-un-an-mecanisme-pour-limiter-risques-ia",
+      "published": "2026-11-24T07:42:46+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Génocide des Rohingya en Birmanie : 14 pays reconnaissent la décision de la CIJ",
+      "summary_original": "Le Royaume-Uni, l'Espagne, le Canada, l'Australie et dix autres pays ont affirmé lundi reconnaître la décision de la Cour internationale de justice, qui a reconnu la semaine dernière le génocide commis par la Birmanie contre les Rohingya. Ils exhortent la Birmanie à se \"conformer pleinement à ses obligations en vertu du droit international, y compris à la décision de la Cour\".",
+      "url": "https://www.france24.com/fr/asie-pacifique/20261123-birmanie-genocide-rohingya-14-pays-reconnaissent-decision-cij",
+      "published": "2026-11-24T07:31:48+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "RD Congo : une messe interdite, tensions entre l'Eglise et les autorités",
+      "summary_original": "L'Eglise catholique est-elle dans le viseur des autorités congolaises ? Ces derniers jours elles ont empêché deux évènements : une marche à Lubumbashi et une messe à Kinshasa. Dans le même temps en République démocratique du Congo, on attend toujours la nomination du comité d'organisation du dialogue national. Les précisions de notre correspondante Aurélie Bazzara-Kibangula.",
+      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261123-rd-congo-une-messe-interdite-tensions-entre-l-eglise-et-les-autorit%C3%A9s",
+      "published": "2026-11-24T06:44:25+09:00",
+      "via": "rss",
+      "state_media": false
+    },
     {
       "source": "France 24",
       "title_original": "Terres rares : Emmanuel Macron annonce que la France va se doter de \"stocks stratégiques\"",
@@ -22,137 +76,110 @@
       "state_media": false
     },
     {
-      "source": "France 24",
-      "title_original": "Présidentielle : qui pourra rassembler ?",
-      "summary_original": "À moins de cinq mois du premier tour de la présidentielle, prévu le 18 avril, la course à l’Élysée s’annonce particulièrement disputée. Dernier en date à entrer dans la course : Dominique de Villepin, qui a officialisé sa candidature vendredi. Plusieurs candidats de la droite et du centre veulent s’affronter dans une primaire afin de désigner un seul représentant, mais l’idée ne fait pas l’unanimi",
-      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261123-pr%C3%A9sidentielle-qui-pourra-rassembler",
-      "published": "2026-11-24T04:58:31+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "France 24",
-      "title_original": "\"Notre avenir plutôt que leurs guerres\" : en Europe, la jeunesse se mobilise contre le réarmement",
-      "summary_original": "Berlin, Paris, Madrid, Milan, Vienne... Depuis vendredi, partout en Europe, des centaines de milliers de jeunes manifestent autour de deux mots d'ordre : pour l'avenir de la jeunesse, contre la vie chère. Ils dénoncent notamment la hausse des budgets militaires qui, selon eux, se fait au détriment de l'éducation, du climat et des services publics.",
-      "url": "https://www.france24.com/fr/europe/20261123-notre-avenir-plut%C3%B4t-guerres-europe-jeunesse-mobilise-contre-r%C3%A9armement",
-      "published": "2026-11-24T03:35:22+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "France 24",
-      "title_original": "Sénégal : le pétrole tient-il ses promesses depuis le premier baril en 2024 ?",
-      "summary_original": "🇸🇳 Deux ans après le premier baril de pétrole de Sangomar, le Sénégal peine encore à transformer ses ressources énergétiques en bénéfices pour sa population. Entre cherté du gaz domestique et une année marquée par des coupures d'électricité pendant l'été, le ministre de l'Energie et du pétrole reste optimiste.",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261123-s%C3%A9n%C3%A9gal-le-p%C3%A9trole-tient-il-ses-promesses-depuis-le-premier-baril-en-2024",
-      "published": "2026-11-24T03:33:17+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "France 24",
-      "title_original": "Échec de la COP31 : et maintenant ?",
-      "summary_original": "La COP31 s’est achevée sans accord sur la sortie des énergies fossiles ni avancée majeure sur le financement climatique. Un nouvel échec pour la diplomatie climatique, alors que le réchauffement s’accélère. Les COP peuvent-elles encore faire avancer la lutte contre le changement climatique ? Laurence Tubiana, présidente de la Fondation européenne pour le climat et ancienne négociatrice de l’Accord",
-      "url": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261123-%C3%A9chec-de-la-cop31-et-maintenant",
-      "published": "2026-11-24T02:46:12+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "France 24",
-      "title_original": "Navires russes ciblés en Libye : l'Ukraine étend le domaine de la lutte",
-      "summary_original": "Le président Volodymyr Zelensky a revendiqué lundi l'attaque de deux navires russes au large de Benghazi, dans l'est de la Libye. Une opération spectaculaire destinée à frapper la logistique russe et remettre le dossier ukrainien au cœur des préoccupations internationales.",
-      "url": "https://www.france24.com/fr/europe/20261123-navires-russes-cibl%C3%A9s-libye-face-moscou-ukraine-%C3%A9tend-domaine-lutte",
-      "published": "2026-11-24T02:23:47+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "France 24",
-      "title_original": "Football : l'Afrique soutient la réélection de Gianni Infantino à la tête de la FIFA",
-      "summary_original": "⚽ La CAF affiche son soutien à Gianni Infantino pour un nouveau mandat à la tête de la FIFA. L’annonce a été faite par Patrice Motsepe, président de l'instance du football africain, lors de sa 48e assemblée générale ordinaire, samedi à Abuja au Nigéria.",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261123-footbal-l-afrique-soutient-la-r%C3%A9%C3%A9lection-de-gianni-infantino-%C3%A0-la-t%C3%AAte-de-la-fifa",
-      "published": "2026-11-24T02:19:59+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "franceinfo (France 2)",
-      "title_original": "S'il est élu, Dominique de Villepin prévoit d'organiser \"un rassemblement\" et convoquera le Congrès au lendemain de l'élection présidentielle",
-      "summary_original": "Interrogé sur franceinfo et France 2 lundi, l'ancien Premier ministre a expliqué prévoir, s'il parvient à être élu, de réunir les parlementaires pour leur demander \"de s'entendre et d'être capable de déterminer la formation d'un gouvernement de mission\".",
-      "url": "https://www.franceinfo.fr/elections/video-s-il-est-elu-dominique-de-villepin-prevoit-d-organiser-un-rassemblement-et-convoquera-le-congres-au-lendemain-de-l-election-presidentielle_8296740.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-24T05:51:01+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
       "source": "franceinfo (France 2)",
       "title_original": "La France va se doter de \"stocks stratégiques\" de terres rares et \"métaux prioritaires\", annonce l'Elysée",
       "summary_original": "Ce projet sera piloté par la Caisse des dépôts qui doit désormais consulter les industriels des secteurs stratégiques utilisant ces matières premières incontournables.",
       "url": "https://www.franceinfo.fr/economie/industrie/la-france-va-se-doter-de-stocks-strategiques-de-terres-rares-et-metaux-prioritaires-annonce-l-elysee_8296749.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-24T05:23:10+09:00",
+      "published": "2026-11-24T08:34:43+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "franceinfo (France 2)",
-      "title_original": "\"J'ai une phobie de l'eau maintenant\" : les sinistrés du Pas-de-Calais épuisés par les inondations",
-      "summary_original": "Le niveau de la Canche baisse ce lundi 23 novembre, mais la décrue est lente après les inondations, dans le Pas-de-Calais. À Aix-en-Issart, une habitante rencontrée par France Télévisions vit toujours à l’hôtel, épuisée par les intempéries à répétition. Comme elle, d’autres sinistrés attendent de pouvoir rentrer chez eux.",
-      "url": "https://www.franceinfo.fr/france/hauts-de-france/pas-de-calais/j-ai-une-phobie-de-l-eau-maintenant-les-sinistres-du-pas-de-calais-epuises-par-les-inondations_8296695.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-24T05:14:42+09:00",
+      "title_original": "Une intersyndicale des étudiants et des enseignants du supérieur appelle à la mobilisation le 26 novembre",
+      "summary_original": "\"Après des semaines de mobilisation inédite, les réponses du gouvernement restent insuffisantes\", affirment lundi dans un communiqué commun des syndicats de l'enseignement supérieur et des organisations étudiantes.",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-intersyndicale-des-etudiants-et-des-enseignants-du-superieur-appelle-a-la-mobilisation-le-26-novembre_8296851.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-24T08:29:58+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "franceinfo (France 2)",
-      "title_original": "L'encaissement de plus d'un million de chèques bloqué à cause d'une grève d'agents des finances publiques à Rennes",
-      "summary_original": "Ces agents travaillent dans un centre des finances publiques qui gère l'encaissement des chèques pour le paiement des amendes ou encore des factures d'hôpitaux. La fermeture du site est prévue prochainement.",
-      "url": "https://www.franceinfo.fr/economie/greve/l-encaissement-de-plus-d-un-million-de-cheques-bloque-a-cause-d-une-greve-d-agents-des-finances-publiques-a-rennes_8296731.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-24T05:08:23+09:00",
+      "title_original": "Jordan Bardella affirme qu'\"à sa connaissance\" personne au RN n'a bénéficié de fuites et juge \"étrange\" le \"timing\" de la perquisition du siège de son parti",
+      "summary_original": "\"J'espère (...) que la perquisition qui a eu lieu\" le 9 novembre \"n'avait aucun autre but que le but qui a été mentionné à l'occasion de cette affaire\", a avancé le président du RN sur BFMTV lundi soir.",
+      "url": "https://www.franceinfo.fr/politique/front-national/jordan-bardella-affirme-qu-a-sa-connaissance-personne-au-rn-n-a-beneficie-de-fuites-et-juge-etrange-le-timing-de-la-perquisition-du-siege-de-son-parti_8296713.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-24T07:56:02+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "franceinfo (France 2)",
-      "title_original": "Les députés socialistes saisissent le Conseil constitutionnel sur la loi instaurant une présomption d'usage légal des armes",
-      "summary_original": "Le texte prévoit que \"lorsqu'ils font usage de leurs armes\", policiers et gendarmes \"sont présumés avoir agi\" dans le cadre de la loi. Les députés socialistes s'inquiètent notamment, dans leur saisine, de la difficulté à renverser cette présomption de légalité.",
-      "url": "https://www.franceinfo.fr/politique/les-deputes-socialistes-saisissent-le-conseil-constitutionnel-sur-la-loi-instaurant-une-presomption-d-usage-legal-des-armes_8296668.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-24T04:54:33+09:00",
+      "title_original": "\"Il y a des matins où je n'arrivais même plus à me lever\" : alerte au CBD ultra-toxique, vendu sur internet et jusqu'en boutiques",
+      "summary_original": "Les boutiques de CBD, où l'on peut acheter légalement des fleurs de chanvre ou des liquides à vapoter, se sont multipliées en France. Mais que contiennent vraiment les produits vendus sous l’étiquette “CBD” ? Les autorités sanitaires ont recensé plusieurs centaines d’intoxications après la consommation de produits présentés comme du CBD, qui contiennent pour certains des drogues de synthèse.",
+      "url": "https://www.franceinfo.fr/sante/drogue-addictions/il-y-a-des-matins-ou-je-n-arrivais-meme-plus-a-me-lever-alerte-au-cbd-ultra-toxique-vendu-sur-internet-et-jusqu-en-boutiques_8296758.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-24T07:38:29+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "franceinfo (France 2)",
-      "title_original": "Environ 50 000 étudiants de l'Université de Lille n'auront plus cours en présentiel jusqu'à la fin du semestre",
-      "summary_original": "Suite à une décision du président de l'Université de Lille, Régis Bordet, la plupart des campus resteront fermés jusqu'au 18 décembre. Une décision prise dans un contexte de mobilisation des étudiants.",
-      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/environ-50-000-etudiants-de-l-universite-de-lille-n-auront-plus-cours-en-presentiel-jusqu-a-la-fin-du-semestre_8296719.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-24T04:53:47+09:00",
+      "title_original": "La vigilance orange crues est levée dans le Pas-de-Calais, mais \"il reste beaucoup à faire\" selon la préfecture",
+      "summary_original": "Dans son bulletin de 22 heures, Vigicrues a passé la Canche en vigilance jaune, assurant que \"la décrue\" du fleuve côtier \"est en cours\" et que \"le temps sec sur ce secteur depuis samedi permet une baisse progressive des niveaux\".",
+      "url": "https://www.franceinfo.fr/france/hauts-de-france/pas-de-calais/la-vigilance-orange-crues-est-levee-dans-le-pas-de-calais-mais-il-reste-beaucoup-a-faire-selon-la-prefecture_8296836.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-24T07:36:54+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "franceinfo (France 2)",
-      "title_original": "Après des messages racistes dans une école de police, Laurent Nuñez dit \"condamner avec la plus grande fermeté\" des propos et des faits \"inacceptables\"",
-      "summary_original": "Le ministre de l'Intérieur a évoqué sur X, lundi, des déclarations \"qui, encore moins qu'ailleurs, n'ont pas leur place au sein d'une institution chargée de former les futurs officiers de la police nationale.\"",
-      "url": "https://www.franceinfo.fr/faits-divers/apres-des-messages-racistes-dans-une-ecole-de-police-laurent-nunez-dit-condamner-avec-la-pus-grande-fermete-des-propos-et-des-faits-inacceptables_8296632.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-24T04:44:29+09:00",
+      "title_original": "Six députés de la France insoumise vont porter plainte pour des menaces de mort anonymes",
+      "summary_original": "Les députés Eric Coquerel, Antoine Léaument, Sarah Legrain, Marie Mesmeur, Thomas Portes et Carlos Martens Bilongo doivent se rendre mardi au commissariat pour déposer cette plainte commune.",
+      "url": "https://www.franceinfo.fr/societe/justice/six-deputes-de-la-france-insoumise-vont-porter-plainte-pour-des-menaces-de-mort-anonymes_8296824.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-24T07:18:21+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "franceinfo (France 2)",
-      "title_original": "Pays pétroliers offensifs, Européens à sec, organisateurs largués... Qui est responsable de l'échec de la COP31 sur le climat ?",
-      "summary_original": "Les discussions ont notamment bloqué sur la mention explicite des énergies fossiles dans la déclaration finale.",
-      "url": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/pays-petroliers-offensifs-europeens-a-sec-organisateurs-largues-qui-est-responsable-de-l-echec-de-la-cop31-sur-le-climat_8295716.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-24T03:53:09+09:00",
+      "title_original": "Le gouvernement essuie un revers inattendu au Sénat sur la défiscalisation des heures supplémentaires et demande une seconde délibération",
+      "summary_original": "L'exécutif proposait, dans un amendement, de passer le plafond à 10 000 euros contre 7 500 aujourd'hui. La mesure a été rejetée de justesse, suscitant la \"surprise\" du ministre des Comptes publics, David Amiel.",
+      "url": "https://www.franceinfo.fr/politique/parlement-francais/senat/le-gouvernement-essuie-un-revers-inattendu-au-senat-sur-la-defiscalisation-des-heures-supplementaires-et-demande-une-seconde-deliberation_8296815.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-24T07:04:17+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "Michel Zecler : \"Les policiers qui m'ont tapé se sont dit que je ne sentais pas les coups...\"",
+      "summary_original": "Michel Zecler est producteur de musique et auteur de \"Rester debout\" (Plon). Dans \"C Ce Soir\", ce 23 novembre 2026, il revient sur le verdict de la justice après la violente agression qu'il a subie par des policiers, dans son studio de musique, en novembre 2020.",
+      "url": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/les-policiers-qui-m-ont-tape-se-sont-dit-que-je-ne-sentais-pas-les-coups-michel-zecler_8296704.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-24T06:55:01+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "TF1 Info",
-      "title_original": "Le temps s'est arrêté : cette mairie récupère une maison abandonnée depuis 15 ans",
-      "summary_original": "Le temps s'est arrêté : cette mairie récupère une maison abandonnée depuis 15 ans TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdnh6dzRXMjQtQjZUY2xBX201VWh6X2JBajA1UkxGY3Vfa0U5WjRNSUlRWk1wSmRwd3ZuZXd0N3lzQUJIZGw1QnpKd3ZGVDhaWHRMMjNScVlpS1IxY3VYaTY0WS1zamxrWFdEbFBIcll4RW1hTmRTdDZOcm1abDEtVHhLcFV2c3VIMEphZVBvajlMdmZybHFSaXplNVJtRjJWT1dEYUJ2ODA3cS1keWZTOC1tUml2cG9Pc01DMWhfV282MEQ2bHZDbmF0QmVYblJQeFdFancxbFhBSERXSm9WUFVCY0ZWa1lwMWp0RVZxd3Y?oc=5",
-      "published": "2026-11-24T06:00:33+09:00",
+      "title_original": "Agriculture, éducation, pouvoir d'achat… Lecornu propose aux parlementaires un compromis sur le budget",
+      "summary_original": "Agriculture, éducation, pouvoir d'achat… Lecornu propose aux parlementaires un compromis sur le budget TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYlZweW9GQ3FNZVdXTmljYk5Kb2JYclIwS3VEeDAtRkNzTjRlVU9VUGcwVm1HeThDakFOOVFPTTRVY1FETFEwMy1GanV6ZXlqUEh2SHFkNWdEWUVuVURJMGc3WmprcE9BZDdaWEhsUHJPOWFya3VFS2tXLW5WcEFDR2RPcDFSSkRuUk10UXdJeFlYV3VwSUhsMUxBLUtUVW1hNEVwT2ZsUGhlVkFkaUV4SHRuU2g2SWVCeFB5NWtzR3o2aVRPNzdZMUthY1hOWnNsLVdnSVlwaS1mVlJMMWlzS0YxZXdncGlZeTk4?oc=5",
+      "published": "2026-11-24T07:01:33+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Pourtant très apprécié des Français, pourquoi le billet de 5 euros est-il une \"denrée rare\" dans nos portefeuilles",
+      "summary_original": "Pourtant très apprécié des Français, pourquoi le billet de 5 euros est-il une \"denrée rare\" dans nos portefeuilles TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaFBrZHBTOGVhY1NIaWROeGFpcnFyU2ZwZ1FMQk1mTWZWbC1oWjk5UFBSREdvNUFwOXBXSE93R2VVYWZOdTI5ZkFYNVdPNXJQRVhZRVpNN1FRbkQ2QmQzSGtMSFgxTGg5aGRCOFF3QkdJRnczUXNERmY5UmtsdXRHaXJwcGQwdm9sLW9TT0Nxai0wWmpZOC1RT1Bqc2JrcDRwNllJQkU4dnlEaXBuajRLLUtiZUdYNHBDSk0xY2Izcy00LThFRWNrZ2p1Q05vbEg4VFBMQWZ0SDRaQlJwM0Mwbm13eDZ5SGM?oc=5",
+      "published": "2026-11-24T06:58:15+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Qui sont les creveurs de pneus en série ?",
+      "summary_original": "Qui sont les creveurs de pneus en série ? TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa0hnSkNXZk5hMlYwRzZseTNzNWFuRHlGMEY1YWFhU19DZ1BlNThpZ2EtemkzcTdzY01WMmFNWExoUkdsOVh2RjBDNkk1OU05anlKemlQZHc1LVJYVFRXMVhyWE1FY2dOQ3M1akxwcHI0ci1BaW90TkttRWdNd1I5dXVqeFpWSElFWDBtQnRwX3d3dDlxaE1QRXFPUl9TT2JaN3RxRWlYZU9STnpKMEpyVFRtWkFPQQ?oc=5",
+      "published": "2026-11-24T06:25:15+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "La taille d'une signature en dit long sur la personnalité et l'estime de soi, selon des chercheurs",
+      "summary_original": "La taille d'une signature en dit long sur la personnalité et l'estime de soi, selon des chercheurs TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV2RNeVRWUkZWalEwZjdySHpmYXlXZHA5b2VoRnBXbllrVkpSRjFzT09jWXRETUwxYm8xSEdiOVZUYWhSQ3JTLUFWX0gyQ2gtTVB5UUt4NVVwOVRtUUliTV8tT3JzZWg3QmJYNjUtbEhjMWdzWHpwN1lINm5JN25NWnZ3VGxyWmFhNkhaaWVqT2hQMVV4YjlyNXhZVHJVaVJVS1QwdldCUm1ZOE5EUUVFOXpFRTZ4M1oxdkhWeGRFWF9Mak1sTnk2QXdHS1Q1SG85emlZdS1TX3g?oc=5",
+      "published": "2026-11-24T06:00:58+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -167,6 +194,24 @@
     },
     {
       "source": "TF1 Info",
+      "title_original": "25 ans après le traumatisme AZF : les usines de retour",
+      "summary_original": "25 ans après le traumatisme AZF : les usines de retour TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZnJ4OHJJYnJadEkwTmo5ZkdmRW9saXp6bWhhcTlyVEY4VGtSX29BRWZPOGs0MmNMNld4R0F0cGgwVGdzTVEzN2RGdzdRS3gwRGhhMFlQUkFQbGtHU3loemJXNXZTQm1vMlczM1VKb2I3M3VnNGgtc2NYWDdMZE9TSnZWQzdham1PdF9DWXpWTk94YVNZQTQ0UlZKa1l6cVRGMG1RdTFybnBIdC1LdU1rWTRWVkI1VmM?oc=5",
+      "published": "2026-11-24T05:55:16+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Quand le chausson s'invite dans la rue",
+      "summary_original": "Quand le chausson s'invite dans la rue TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmJHS2hDS1hLQlRWZmQzMjVaM0RFQ2V1ZkN3VUQ4dDREWkJKMkVHQW5MOURIdDRUT2ZaMGVmU0RfczJRU1BuMHVDS045TGcyVnRSTzJDZDRWSGhnQ09qamVXZmRTdFFSMEcwWUZsQm5UUWxrRXBUbi16YjlEODRsQ0tOSkdjUngzUDFYaTVyUEdjOEFNTXlXeEN0RmJsTjlW?oc=5",
+      "published": "2026-11-24T05:35:15+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
       "title_original": "La France va se doter de \"stocks stratégiques\" de minerais critiques, comme pour le pétrole",
       "summary_original": "La France va se doter de \"stocks stratégiques\" de minerais critiques, comme pour le pétrole TF1 Info",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzRLU08xbVh6N2ZaWTZFQ0JkN0x6cFdOazd6ZlJpY3RoSlVodFhVeWRLZ2JNMlQ1LXBKTUNXWUhBYTI0VURJcmo3aWRQWVhZVFVBaUhienYyam1zODg0U2hPWlFMTEVFM1hCSW5ON3ptVmNyRzZsX2UtNlBsXzZNWnFCZzl2cVhaaURMZ2M2d3JWMk5UaFBXVjVXamlKM2tKcDJkOGc0T2Z1QUNfWXBvanBQRXhUaUdIdVNxcm94aXllbFNTdVZSSng0Z19sUQ?oc=5",
@@ -175,119 +220,128 @@
       "state_media": false
     },
     {
-      "source": "TF1 Info",
-      "title_original": "Tapage nocturne : un maire et son fils roués de coups",
-      "summary_original": "Tapage nocturne : un maire et son fils roués de coups TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUk5blpfeTZrVERVREFLaklkNjVydk8yS3pKZ2RrbUJyN1lObXpCdzBkWmF2MGZtSUZXLU5aMjRkMG5xRURsb2xCaDFvMDRITnNlUi03QmJQQmx3UnpWUlE4elh5UUs1ZzczVmZiMlMxU0tTbkp4WFRNcEphdWhPTUNZbHNPVjRYMWU1QUlQZWNVUXhPY1pPWU5hVkpvNVBrNEhSaXZiLUhrRG1MT0l0RzdqTzNyOS0zNzlJdmNWNTJUN2tNN1E?oc=5",
-      "published": "2026-11-24T05:10:20+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "L'homme à l'origine des fuites de vidéos de GTA VI condamné à sept ans de prison",
-      "summary_original": "L'homme à l'origine des fuites de vidéos de GTA VI condamné à sept ans de prison TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVVBwVExYY2RMMGtRdzBncGdySHU5QkVSSDJCdXJXVE5BM2dlak5SdV9vRlBpbWpsTHRDUU1sc1ZDeFN6MVZIVGtMa1VxV0NzQ1RhQUFjclZEVXQ0Z3V4dG1KSEIxZ0hUZWxMR1pBajBveFpTSXkyWVJSR2FhenJESFlpWWJtakV2QVBJY3UtSTR4SlRBT0NzTnVIU2paTTVEVk1XMlNveWZiV1NMWTdNOEktSFpvdGdPLUZpMUctUEVRR3JpRXJuS1Rn?oc=5",
-      "published": "2026-11-24T05:04:50+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "Un pêcheur rapatrié à terre par les sauveteurs pour assister à la naissance de son troisième enfant",
-      "summary_original": "Un pêcheur rapatrié à terre par les sauveteurs pour assister à la naissance de son troisième enfant TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWmVkWF9fMVhjREVHRWlFemZhck1La2tKMUFxUUxEZ0lZN3Y2X0RfV25IZjU4MDMxcF9tRmxLZU1kZkJualVBU1Y0VnFhbjJBSlNXZEV1YWhsRlB3TTl1Mlp6a19ZZzFGTU5pY2JlN0JTM0NSZEs1UUlyWnIzQUI3UmtfR1NfdDg2M2xGdndscGFuQkhTMENFM0NOS0xCZUxZNDhfSXFBRVNJQ2NkMGpqMkJjY2oxQm5jS2lvWUF0bDZjUXFZRkpRck9Tc0JNbURsbzNJTDA3dHNqVG8?oc=5",
-      "published": "2026-11-24T05:00:31+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "Des compagnons... surprenants",
-      "summary_original": "Des compagnons... surprenants TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQREYzUm5GeWh2bkdxanpFMWFYeHoxWEh3UmduRHp1d082VUpwN3p4QzRrbnA0TWNRU01nZnZxaUxGS0RtV0w1M3lOcTk3dGlhNDVSaXhLeWE4VjNEMk1xcm1jWl9zSmVNYVJFMHowRWdkaUI4RmFXUklmcTc2c1prcjRaNjFWSnpuWWV3MDZsU29TNS1SWnRxLUxScFU3d1l3VWhVWQ?oc=5",
-      "published": "2026-11-24T05:00:15+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "Miss France 2027 - \"Je vérifie trois fois que j'ai bien fermé la porte\" : l'interview décalée de Candice Gauch, Miss Languedoc",
-      "summary_original": "Miss France 2027 - \"Je vérifie trois fois que j'ai bien fermé la porte\" : l'interview décalée de Candice Gauch, Miss Languedoc TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdk53RjFIQkJSRWdYYmtGNUFNTFI0QlpHaW56X2lpWFBtN0hXOXZhVUt6VDhrejBJX1NHN0xqdWRoRWZBaUNWVmFxT3daak1HR25fajRLR2dkcjN2TVlhRnNVWDJkdk45VkdsV0xnS0oySXBEMC0zOFpTQmNnTkxzZlZsQ2gzV0NVdU9tQ3NxRms3OFhjRGxJNHA0UkdFX1BZRjZIcmd0MzZldy1oSW56SElOQmhrV0h6b2ZLcTJCM2toZEJwcjNIRjBrSmdqb0RXWmZmLVFGcV9QWDlJTzBQX3A4WklTcm9HNmFZdzduSVRkWFBBaVE?oc=5",
-      "published": "2026-11-24T05:00:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
       "source": "BFMTV",
-      "title_original": "À lire sur le site Tech&Co : Microsoft célèbre les 25 ans de la Xbox, par Sylvain Trinel - 23/11",
-      "summary_original": "Ce lundi 23 novembre, Sylvain Trinel, journaliste BFM Tech, est revenu sur les séries de podcast pour raconter l'histoire de la Xbox. Cette chronique est à voir ou écouter du lundi au jeudi dans Tech&Co, la quotidienne, présentée par François Sorel sur BFM Business.",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-a-lire-sur-le-site-tech-co-microsoft-celebre-les-25-ans-de-la-xbox-par-sylvain-trinel-23-11_VN-202611230887.html",
-      "published": "2026-11-24T05:47:12+09:00",
+      "title_original": "Migrants expulsés au Rwanda: \"Humainement, ça questionne\", selon Prisca Thevenot, députée \"Renaissance\" des Hauts-de-Seine, soutien de Gabriel Attal",
+      "summary_original": "Prisca Thevenot, députée \"Renaissance\" des Hauts-de-Seine, soutien de Gabriel Attal, était invitée sur le plateau de BFMTV, ce lundi 23 novembre.",
+      "url": "https://www.bfmtv.com/politique/video-migrants-expulses-au-rwanda-humainement-ca-questionne-selon-prisca-thevenot-deputee-renaissance-des-hauts-de-seine-soutien-de-gabriel-attal_VN-202611230956.html",
+      "published": "2026-11-24T08:00:18+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Primaire: en septembre, Édouard Philippe \"a proposé aux candidats de la droite et du centre de se rencontrer et de discuter\", assure Jérémie Patrier-Leitus, député \"Horizons\"",
-      "summary_original": "Jérémie Patrier-Leitus, député \"Horizons\" du Calvados, porte-parole d'Édouard Philippe, était invité sur le plateau de BFMTV, ce lundi 23 novembre.",
-      "url": "https://www.bfmtv.com/politique/elections/video-primaire-en-septembre-edouard-philippe-a-propose-aux-candidats-de-la-droite-et-du-centre-de-se-rencontrer-et-de-discuter-assure-jeremie-patrier-leitus-depute-horizons_VN-202611230883.html",
-      "published": "2026-11-24T05:39:41+09:00",
+      "title_original": "Migrants expulsés au Rwanda: quelles sont les conditions ?",
+      "summary_original": "Cinq pays de l'Union Européenne, dont le Danemark et l'Allemagne, s'accordent pour expulser des demandeurs d'asile déboutés vers le Rwanda.",
+      "url": "https://www.bfmtv.com/international/video-migrants-expulses-au-rwanda-quelles-sont-les-conditions_VN-202611230950.html",
+      "published": "2026-11-24T07:43:52+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Dépôt de Bobigny après les violences du 17 octobre: le procureur annonce des travaux \"dans les six prochains mois\"",
-      "summary_original": "Le procureur de Bobigny, Alexandre de Bosschère, a été auditionné ce lundi 23 novembre, à l'Assemblée nationale, sur les violences du 17 octobre.",
-      "url": "https://www.bfmtv.com/police-justice/video-depot-de-bobigny-apres-les-violences-du-17-octobre-le-procureur-annonce-des-travaux-dans-les-six-prochains-mois_VN-202611230880.html",
-      "published": "2026-11-24T05:37:25+09:00",
+      "title_original": "Présidentielle: le projet de David Lisnard pour 2027",
+      "summary_original": "Pendant que la bataille pour l'élection présidentielle s'organise - avec la percée de David Lisnard qui se confirme à droite selon un dernier sondage - Emmanuel Macron veut continuer à peser sur la politique française. Le chef de l'État a confirmé envisager une révision constitutionnelle pour faire adopter une règle d'or budgétaire.",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-le-projet-de-david-lisnard-pour-2027_VN-202611230939.html",
+      "published": "2026-11-24T07:32:58+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Jensen Huang est de retour au siège de Nvidia, accueilli avec ferveur par les salariés",
-      "summary_original": "Le conseil d'administration de Nvidia a annoncé lundi la réintégration immédiate de Jensen Huang comme directeur général et président du géant américain des puces, dix jours après sa démission liée à un scandale mêlant adultère, espionnage et contrebande. Ce coup de théâtre intervient après des appels répétés de Donald Trump, proche de Jensen Huang, à réintégrer cette figure emblématique de la tec",
-      "url": "https://www.bfmtv.com/tech/video-jensen-huang-est-de-retour-au-siege-de-nvidia-accueilli-avec-ferveur-par-les-salaries_VN-202611230877.html",
-      "published": "2026-11-24T05:32:13+09:00",
+      "title_original": "\"Il y a un commencement de chute de Marine Le Pen dans les sondages\", observe François Piquemal, député LFI",
+      "summary_original": "Pendant que la bataille pour l'élection présidentielle s'organise - avec la percée de David Lisnard qui se confirme à droite selon un dernier sondage - Emmanuel Macron veut continuer à peser sur la politique française. Le chef de l'État a confirmé envisager une révision constitutionnelle pour faire adopter une règle d'or budgétaire.",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-il-y-a-un-commencement-de-chute-de-marine-le-pen-dans-les-sondages-observe-francois-piquemal-depute-lfi_VN-202611230938.html",
+      "published": "2026-11-24T07:32:34+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Le Débrief de la tech - Lundi 23 novembre",
-      "summary_original": "Ce lundi 23 novembre, François Sorel a reçu Bogdan Bodnar, journaliste La Tribune, Stan Larroque, directeur des opérations chez Parrot, et Frédéric Simottel, journaliste BFM Business, dans l'émission Tech & Co, la quotidienne. Retrouvez l'émission du lundi au jeudi et réécoutez la en podcast.",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-le-debrief-de-la-tech-lundi-23-novembre_VN-202611230884.html",
-      "published": "2026-11-24T05:29:32+09:00",
+      "title_original": "Présidentielle: \"Le bloc central est en train de mourir\", analyse Alexandre Ouizille, sénateur PS de l'Oise et directeur de campagne de Raphaël Glucksmann",
+      "summary_original": "Alexandre Ouizille, sénateur PS de l'Oise et directeur de campagne de Raphaël Glucksmann, était invité sur le plateau de BFMTV, ce lundi 23 novembre.",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-le-bloc-central-est-en-train-de-mourir-analyse-alexandre-ouizille-senateur-ps-de-l-oise-et-directeur-de-campagne-de-raphael-glucksmann_VN-202611230933.html",
+      "published": "2026-11-24T07:23:39+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Un homme de 30 ans tué par balles près d'un camp de migrants dans le Nord",
-      "summary_original": "Dimanche 22 novembre, un homme de 30 ans a été tué par balles près d'un camp de migrants de Loon-Plage (Nord).",
-      "url": "https://www.bfmtv.com/grand-littoral/un-homme-de-30-ans-tue-par-balles-pres-d-un-camp-de-migrants-dans-le-nord_AD-202611230872.html",
-      "published": "2026-11-24T05:23:44+09:00",
+      "title_original": "Melania Trump accueille le sapin de Noël de la Maison-Blanche",
+      "summary_original": "À Washington, la Première dame des États-Unis, Melania Trump, reçoit le sapin de Noël de la Maison-Blanche, ce lundi 23 novembre.",
+      "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-melania-trump-accueille-le-sapin-de-noel-de-la-maison-blanche_VN-202611230930.html",
+      "published": "2026-11-24T07:16:12+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Bruno Zerbib (Orange) : Orange dévoile sa vision de l'avenir des réseaux - 23/11",
-      "summary_original": "Bruno Zerbib, directeur exécutif en charge de l'Innovation chez Orange, était l'invité de François Sorel dans Tech & Co, la quotidienne, ce lundi 23 novembre. Il s'est penché sur l'enjeu de l'événement Orange OpenTech, la vision de l'entreprise concernant l'avenir des réseaux et de l'IA, sur BFM Business. Retrouvez l'émission du lundi au jeudi et réécoutez la en podcast.",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-bruno-zerbib-orange-orange-devoile-sa-vision-de-l-avenir-des-reseaux-23-11_VN-202611230874.html",
-      "published": "2026-11-24T05:23:04+09:00",
+      "title_original": "Écrits antisémites: Jordan Bardella reconnait \"une faute\" de Laure Lavalette mais invoque \"une inattention\"",
+      "summary_original": "Sur le plateau de BFMTV ce lundi 23 novembre, Jordan Bardella a reconnu \"une faute\" de la part de Laure Lavalette, députée RN accusée d'avoir cautionné des écrits antisémites, sans toutefois lui retirer son soutien.",
+      "url": "https://www.bfmtv.com/politique/front-national/ecrits-antisemites-jordan-bardella-reconnait-une-faute-de-laure-lavalette-mais-invoque-une-inattention_AD-202611230926.html",
+      "published": "2026-11-24T07:09:13+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Le Tech Flash : Nvidia réintègre Jensen Huang par Léa Benaim - 23/11",
-      "summary_original": "Ce lundi 23 novembre, dans Le Tech Flash, Léa Benaim est revenue sur la réintégration de Jensen Huang à la tête de Nvidia, l'interruption du lancement d'Ariane 6 à Kourou, l'annonce du rachat de Zscaler par CrowdStrike, la menace de sanction fiscale de D. Trump pour empêcher la délocalisation de centres de données, et le record sur les ventes du GTA 6. Cette chronique est à voir ou écouter du lund",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-le-tech-flash-nvidia-reintegre-jensen-huang-par-lea-benaim-23-11_VN-202611230863.html",
-      "published": "2026-11-24T05:12:02+09:00",
+      "title_original": "David Lisnard, l'outsider qui bouscule la campagne - 23/11",
+      "summary_original": "Chaque soir, Maxime Switek vous accompagne de 21h à 00h dans BFM Grand Soir.",
+      "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-david-lisnard-l-outsider-qui-bouscule-la-campagne-23-11_VN-202611230931.html",
+      "published": "2026-11-24T07:03:41+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Inflation : pourquoi la hausse des cours de l’énergie tarde à se répercuter sur l’ensemble des prix en France",
+      "summary_original": "L’atonie de l’activité économique française et la remontée du chômage freinent la répercussion de l’envolée des cours du pétrole et du gaz à l’ensemble de l’économie. Mais la donne pourrait changer.",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/24/inflation-pourquoi-la-hausse-des-cours-de-l-energie-tarde-a-se-repercuter-sur-l-ensemble-des-prix-en-france_6814604_3234.html",
+      "published": "2026-11-24T13:00:12+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Les séries de la semaine : « Blade Runner 2099 », « Le Cinéma selon Cunk », « The Altruists » et « Snake Killer »",
+      "summary_original": "Chaque mardi, La Matinale du « Monde » propose une sélection de séries à découvrir sur petit écran. Aujourd’hui, notamment, une histoire du cinéma en 90 minutes, livrée par une créature issue du cerveau retors de Charlie Brooker.",
+      "url": "https://www.lemonde.fr/culture/article/2026/11/24/les-series-de-la-semaine-blade-runner-2099-le-cinema-selon-cunk-the-altruists-et-snake-killer_6814603_3246.html",
+      "published": "2026-11-24T12:30:10+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Au Chili, mon concierge bien aimé, à la fois tour de contrôle et confident",
+      "summary_original": "Les concierges officient dans la plupart des immeubles du pays andin, répondant aujourd’hui au fort sentiment d’insécurité. Si leurs missions évoluent au gré de l’urbanisation et des technologies, ils restent un précieux pilier social.",
+      "url": "https://www.lemonde.fr/international/article/2026/11/24/au-chili-mon-concierge-bien-aime-a-la-fois-tour-de-controle-et-confident_6814570_3210.html",
+      "published": "2026-11-24T11:30:14+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Six députés LFI portent plainte pour des menaces de mort anonymes",
+      "summary_original": "Les courriers haineux reçus par les élus « insoumis », qui dénoncent une inaction des autorités, comportaient aussi des croix gammées.",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/24/six-deputes-lfi-portent-plainte-pour-des-menaces-de-mort-anonymes_6814471_3224.html",
+      "published": "2026-11-24T09:09:13+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "EN DIRECT, Jensen Huang réintégré chez Nvidia à la surprise générale : le dirigeant accueilli sous les applaudissements de centaines de salariés ; Wall Street clôture en très forte hausse",
+      "summary_original": "Le conseil d’administration de Nvidia a annoncé, lundi, la réintégration immédiate de Jensen Huang comme directeur général et président du géant américain des puces, dix jours après sa démission liée à un scandale mêlant adultère, espionnage et contrebande. Plusieurs parlementaires, démocrates et républicains, réclament des explications.",
+      "url": "https://www.lemonde.fr/international/live/2026/11/24/en-direct-jensen-huang-reintegre-chez-nvidia-a-la-surprise-generale-le-dirigeant-accueilli-sous-les-applaudissements-de-centaines-de-salaries-wall-street-cloture-en-tres-forte-hausse_6814407_3210.html",
+      "published": "2026-11-24T08:46:27+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Jordan Bardella déplore la « faute » de la députée RN Laure Lavalette, accusée d’avoir cautionné des écrits antisémites dans les années 1990",
+      "summary_original": "Le président du Rassemblement national écarte toutefois toute sanction contre la porte-parole de campagne de Marine Le Pen et lui et lui assure son soutien.",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/23/jordan-bardella-deplore-la-faute-de-la-deputee-rn-laure-lavalette-accusee-d-avoir-cautionne-des-ecrits-antisemites-dans-les-annees-1990_6814453_823448.html",
+      "published": "2026-11-24T06:51:35+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -310,57 +364,30 @@
       "state_media": false
     },
     {
-      "source": "Le Monde",
-      "title_original": "Les Etats-Unis annoncent de nouvelles sanctions pour priver l’Iran de rentrées d’argent",
-      "summary_original": "Des milliards de dollars de transactions suspectes liées à l’Iran ont été détectés par le régulateur américain FinCEN entre 2025 et 2026, selon le Trésor.",
-      "url": "https://www.lemonde.fr/international/article/2026/11/23/les-etats-unis-annoncent-de-nouvelles-sanctions-pour-priver-l-iran-de-rentrees-d-argent_6814450_3210.html",
-      "published": "2026-11-24T05:37:04+09:00",
-      "via": "rss",
+      "source": "Les Echos",
+      "title_original": "Dissolution anticipée - Seine-Saint-Denis - ALP01589080 - Les Echos",
+      "summary_original": "Dissolution anticipée - Seine-Saint-Denis - ALP01589080 Les Echos - Annonces légales",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVWtSWllSeVQtblVVc3hrLTN4VTZza2toeS1IQlpOWTB2Qkw4ZndYQ2l6Y1I3aFhNZ3VFY0JacE5IWW5tNEFLN2FNaXFacEdsdTFCNUs0UXJEOE1jVDhQNUdqM1h2WVM0RlNwYTRDZkY4bHUxM0JlaHdWZjNVY1ZqdU16djBxM1N3RmczRGNNOUs4cThRNlVQWVkyeUtDUQ?oc=5",
+      "published": "2026-11-24T06:27:29+09:00",
+      "via": "google_news",
       "state_media": false
     },
     {
-      "source": "Le Monde",
-      "title_original": "Le prix de L’Équerre d’argent distingue la restructuration du Musée des arts décoratifs et du design de Bordeaux",
-      "summary_original": "Le jury de cette 44ᵉ édition a récompensé, lundi, le projet réalisé par l’agence Antoine Dufour pour le soin apporté aux détails, la grande finesse du dessin et la maîtrise de toutes les dimensions du processus de transformation.",
-      "url": "https://www.lemonde.fr/culture/article/2026/11/23/le-prix-de-l-equerre-d-argent-distingue-la-restructuration-du-musee-des-arts-decoratifs-et-du-design-de-bordeaux_6814448_3246.html",
-      "published": "2026-11-24T05:33:06+09:00",
-      "via": "rss",
+      "source": "Les Echos",
+      "title_original": "Budget : la lettre de Sébastien Lecornu aux parlementaires",
+      "summary_original": "Budget : la lettre de Sébastien Lecornu aux parlementaires Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMVE1b2EyVndodV9mOTdvN3BoQUMycEloSVJkamxzbmpIQlNscEppYklLazAtVmhRS3JtU0hoTkFFZ3JYeE9PMWZTeW1hejRRMl94Tk5RWlJpanU0ZUxmX3lzVHpReWVjOHA2ejN1eFVXQkRhWGRSUmxHRTdOY2Jzc0VpTnJmMmNORWF0U05wTXRqSnA5dy1VbmZ6YWJGSFJ6TUJRUEJJQnhNMzBHcTRLM3FwalptMnM?oc=5",
+      "published": "2026-11-24T06:24:44+09:00",
+      "via": "google_news",
       "state_media": false
     },
     {
-      "source": "Le Monde",
-      "title_original": "Une enquête ouverte dans une école de police de Seine-et-Marne après des accusations de racisme, de salut nazi et d’agression sexuelle",
-      "summary_original": "La justice a été saisie le 29 octobre par le commandant de l’établissement situé à Cannes-Ecluse, sur la base de l’article 40 du code de procédure pénale, qui oblige les agents publics à signaler d’éventuelles infractions pénales.",
-      "url": "https://www.lemonde.fr/societe/article/2026/11/23/une-enquete-ouverte-dans-une-ecole-de-police-de-seine-et-marne-apres-des-accusations-de-racisme-de-salut-nazi-et-d-agression-sexuelle_6814447_3224.html",
-      "published": "2026-11-24T05:12:35+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "Grand Paris Express : l’ouverture de la nouvelle ligne 18 du métro plus compromise que jamais",
-      "summary_original": "Valérie Pécresse, présidente de la région Ile-de-France, a convoqué une réunion d’urgence avec les acteurs concernés et enjoint Alstom, concepteur du système d’automatisation, à trouver « des solutions pour fiabiliser son logiciel ».",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/23/grand-paris-express-l-ouverture-de-la-nouvelle-ligne-18-du-metro-plus-compromise-que-jamais_6814446_3234.html",
-      "published": "2026-11-24T04:57:41+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "L’Union européenne veut « interdire l’affichage des symboles russes » dans les compétitions sportives sur son sol",
-      "summary_original": "La Commission européenne n’entend pas laisser les athlètes russes concourir sous leurs couleurs. Elle souhaite aussi interdire « aux Européens de continuer à occuper des postes dans les instances dirigeantes des entreprises en Russie ».",
-      "url": "https://www.lemonde.fr/international/article/2026/11/23/l-union-europeenne-veut-interdire-l-affichage-des-symboles-russes-dans-les-competitions-sportives-sur-son-sol_6814445_3210.html",
-      "published": "2026-11-24T04:56:44+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "EN DIRECT, Jensen Huang réintégré chez Nvidia à la surprise générale : le dirigeant accueilli sous les applaudissements de centaines de salariés",
-      "summary_original": "Le conseil d’administration de Nvidia a annoncé lundi la réintégration immédiate de Jensen Huang comme directeur général et président du géant américain des puces, dix jours après sa démission liée à un scandale mêlant adultère, espionnage et contrebande. Plusieurs parlementaires, démocrates et républicains, réclament des explications.",
-      "url": "https://www.lemonde.fr/international/live/2026/11/23/en-direct-jensen-huang-reintegre-chez-nvidia-a-la-surprise-generale-le-dirigeant-accueilli-sous-les-applaudissements-de-centaines-de-salaries_6814407_3210.html",
-      "published": "2026-11-24T04:37:41+09:00",
-      "via": "rss",
+      "source": "Les Echos",
+      "title_original": "La France va faire des stocks stratégiques de terres rares",
+      "summary_original": "La France va faire des stocks stratégiques de terres rares Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRzlxRzFkTzBJbXJGaEtadFpuX0lqckZGcm82YnVVR3N1b1NyaHp5UEZOdVJzQkhGRDRmOWNnWHJ3S29lbmRxemlpbE5uWHJWNjVzLXhCUFV0T0VKYkVISWpKbW1UeS02OXZyaXlwQmllblN5VE1uMlZMckh5eHpPYVl5MnQxazRJcTFUQm1XZ2s4UWRHUS1ZSmJMRUVkaHpWM1R4R3VJbnNqLUluY1FSX3dCZDRXSFU5djJ1WmdEbGRNSjZfdWdxenBjYVNTdFk?oc=5",
+      "published": "2026-11-24T06:18:17+09:00",
+      "via": "google_news",
       "state_media": false
     },
     {
@@ -368,7 +395,7 @@
       "title_original": "Soutien de Trump, pétition de Musk, enquêtes à charge… Ces onze jours qui ont permis l'incroyable come-back de Jensen Huang à la tête de Nvidia",
       "summary_original": "Soutien de Trump, pétition de Musk, enquêtes à charge… Ces onze jours qui ont permis l'incroyable come-back de Jensen Huang à la tête de Nvidia Les Echos",
       "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNQ0MzbWFrUkdtbDI3Mi0wZVNVYmZISHlqWVZyNDU2eWtkR080b1RXa2ViU1NnWk9nYWxJUUQyU2xnbHRlVmxSZi1xQ3Mxa1RXUTN5SFVGVXFYSEVYc3lqS3JLQmxXcVZsSG5Iekh6NV9lOW5KbC1FYXFLZGtJdDZLbUJ4WURvaThMVVEzVzJRQldQWU1GQ2RNWVc2S21RSFc3SlZ0aFIxMTJldGo2ZlVGdGZZaVFodTgwbEZEZHRZOGpvOXV4SEEyem02cjdrMlAxQko2Z1VicDRKWUF5OElQN3pwMEJnUVh6QnJBcl9qQUVvSWZnVS1YR0xyR2pKZm15TmRSNTRVcGdJZTR2V2lPQzFrYkM2TGs3VFlRT0dkRGhEQ19idTRKZ0VNa3BuQWpSQUg0?oc=5",
-      "published": "2026-11-24T04:01:05+09:00",
+      "published": "2026-11-24T04:00:58+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -409,30 +436,66 @@
       "state_media": false
     },
     {
-      "source": "Les Echos",
-      "title_original": "Présidentielle 2027 : sécurité, santé, souveraineté… ce que veulent les femmes",
-      "summary_original": "Présidentielle 2027 : sécurité, santé, souveraineté… ce que veulent les femmes Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVzhIN2dNbV9oelFXWjJWaUpFeUU4a2lMcl9IMU8xRTNwdDZvd1hmMkxKSXBac3hUcmxLdW1TRWllUG9HRU1WeExmMk1FQ3hNb2RNeTVKXzhWQ284S0JEdk91SHBZU0U3NS1kdkpoWE5HOVMtRDJOblFyTTZad2lYY0lPMTFfc2ZWUHZ0QWJ5YVpNeUNJcDlzMkREQUtYUm1KUWF3WkZubXNIa3FuWjZ4akdyakhnVzYyMlRDRzBQTEJFZw?oc=5",
-      "published": "2026-11-24T03:00:45+09:00",
-      "via": "google_news",
+      "source": "Le Figaro",
+      "title_original": "Colombie : la justice ordonne au président de rectifier ses propos contre la culture «woke»",
+      "summary_original": "Abelardo de la Espriella avait décrit, lors d’un événement public le 15 octobre, la culture «woke» comme «l’un des grands cancers qui menacent l’unité nationale».",
+      "url": "https://www.lefigaro.fr/international/colombie-la-justice-ordonne-au-president-de-rectifier-ses-propos-contre-la-culture-woke-20261124",
+      "published": "2026-11-24T11:16:25+09:00",
+      "via": "rss",
       "state_media": false
     },
     {
-      "source": "Les Echos",
-      "title_original": "« On ne se permet pas de surréagir à l'incertitude politique » : à Choose France, les industriels misent sur le temps long",
-      "summary_original": "« On ne se permet pas de surréagir à l'incertitude politique » : à Choose France, les industriels misent sur le temps long Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPNE1vYVlTOTMxMnJ2UGtneTFFSF81T3doN3JxYXFjMTZKMzE2VzduVFpDazJtelIxNWtiYV9ZZUdleF9scGo2RTFXMDJCTXdJYkxCSUFVQkZWUFhMMnl6VlcweVhobVJLN1JGXzhNOGJYcnE0ZHB2SjB1ekF0UHlIOWNDajFhYlgtQm5LVHVlaEJvckkwRXBOTU5GeG5BSXNjZ0NQNXA1UTQ4eHlxYndJajVGSDNtSDdLbXJYQ2VEWWpQR1hGX3dma0Q0ZWxxYmx3UjJZTUc2Ti0tVGlwQ2N6ZUlHSlUtb1NXN1FrckNFZDFxVWJWdGozY1RlaGFUNjNkZW5YalVqem5GWmUtUHg0?oc=5",
-      "published": "2026-11-24T02:59:32+09:00",
-      "via": "google_news",
+      "source": "Le Figaro",
+      "title_original": "La Californie redoute des inondations historiques sous l'effet des grandes marées, d'El Niño et de l'océan surchauffé",
+      "summary_original": "La baie de San Francisco pourrait enregistrer des niveaux d’eau inédits depuis plus de quarante ans.",
+      "url": "https://www.lefigaro.fr/international/la-californie-redoute-des-inondations-historiques-sous-l-effet-des-grandes-marees-d-el-nino-et-de-l-ocean-surchauffe-20261124",
+      "published": "2026-11-24T11:11:18+09:00",
+      "via": "rss",
       "state_media": false
     },
     {
-      "source": "Les Echos",
-      "title_original": "Coface se renforce dans le recouvrement de créances au Royaume-Uni",
-      "summary_original": "Coface se renforce dans le recouvrement de créances au Royaume-Uni Investir Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLXRzM1kyTXRwSk5hOTB2WHRZMzM1dzFzRVFqTmNxYXNLSzBjNXo2Q281dFpiY1dQbnFHN3E1QWl5OFRRY2NuTWhoN2NlZ1RTbzZXZFJYVjd2TzYyUUhkMzhSSlN5SUxHZDdQMnlveXJiOXJ3VjJVendPRzdXdnN5VV9BQXJuWExYNTlRNTFrcnJVZWlCZkNReGlOUUxpY3RZQ2RuM256U191a05FbGdzTUlvLU4tcktxWVlZZ0FiRlpxb3pDcWdJbmNlaEFzdFFCVzcwSHpR?oc=5",
-      "published": "2026-11-24T02:51:00+09:00",
-      "via": "google_news",
+      "source": "Le Figaro",
+      "title_original": "Alerte en Corée du Sud après l’intrusion d’avions militaires russes dans la zone de défense aérienne",
+      "summary_original": "Un appareil s’est approché de l’île d’Ulleung, au large de la côte est du pays, après avoir pénétré dans la zone, amenant les autorités à émettre un avertissement à l’intention des habitants.",
+      "url": "https://www.lefigaro.fr/international/alerte-en-coree-du-sud-apres-l-intrusion-d-un-appareil-presume-nord-coreen-20261124",
+      "published": "2026-11-24T09:52:59+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "EN DIRECT - Retour surprise de Huang à la tête de Nvidia : Washington place sur liste noire l’entreprise singapourienne au cœur du scandale",
+      "summary_original": "Le conseil d’administration de Nvidia a annoncé lundi la réintégration de Jensen Huang comme directeur général et président du géant américain des puces, dix jours après sa démission liée à un scandale mêlant adultère, espionnage et contrebande.",
+      "url": "https://www.lefigaro.fr/secteur/high-tech/en-direct-nvidia-jensen-huang-presse-de-reprendre-le-travail-apres-sa-reintegration-surprise-a-la-tete-de-l-entreprise-20261123",
+      "published": "2026-11-24T09:50:03+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "«Il est là pour mettre les macronistes dans des valises» : Jordan Bardella dépeint David Lisnard en «contrebandier» du camp présidentiel",
+      "summary_original": "Invité lundi soir de BFMTV, le président du RN a minimisé la poussée sondagière du maire de Cannes, simple «animation de la semaine» à ses yeux, sans exclure totalement de travailler un jour avec lui.",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/le-nouvel-artiste-qui-monte-sur-les-planches-jordan-bardella-epingle-david-lisnard-en-contrebandier-du-macronisme-20261123",
+      "published": "2026-11-24T08:58:55+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Un drone russe viole brièvement l’espace aérien polonais lors d’une attaque contre l’Ukraine",
+      "summary_original": "Les forces armées polonaises avaient reçu l’autorisation d’abattre l’appareil, avant de renoncer à faire feu en raison des risques pour les civils.",
+      "url": "https://www.lefigaro.fr/international/un-drone-russe-viole-brievement-l-espace-aerien-polonais-lors-d-une-attaque-contre-l-ukraine-20261124",
+      "published": "2026-11-24T08:47:27+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "« J’ai hâte de me remettre au travail » : les coulisses de l’invraisemblable retour de Jensen Huang chez Nvidia",
+      "summary_original": "RÉCIT - Le conseil d’administration a approuvé à l’unanimité le retour du fondateur du champion américain des puces IA. Une décision marquée par l’influence de Washington et dictée par des motifs économiques.",
+      "url": "https://www.lefigaro.fr/secteur/high-tech/j-ai-hate-de-me-remettre-au-travail-les-coulisses-de-l-invraisemblable-retour-de-jensen-huang-chez-nvidia-20261123",
+      "published": "2026-11-24T07:26:27+09:00",
+      "via": "rss",
       "state_media": false
     },
     {
@@ -445,65 +508,29 @@
       "state_media": false
     },
     {
-      "source": "Le Figaro",
-      "title_original": "EN DIRECT - Retour surprise de Huang à la tête de Nvidia : le PDG ovationné, Wall Street clôture en très forte hausse",
-      "summary_original": "Le conseil d’administration de Nvidia a annoncé lundi la réintégration de Jensen Huang comme directeur général et président du géant américain des puces, dix jours après sa démission liée à un scandale mêlant adultère, espionnage et contrebande.",
-      "url": "https://www.lefigaro.fr/secteur/high-tech/en-direct-nvidia-jensen-huang-presse-de-reprendre-le-travail-apres-sa-reintegration-surprise-a-la-tete-de-l-entreprise-20261123",
-      "published": "2026-11-24T06:10:03+09:00",
+      "source": "Libération",
+      "title_original": "James Gray, réalisateur de «Paper Tiger» : «Pourquoi tant de films sont à ce point à côté de la plaque ?»",
+      "summary_original": "Le cinéaste américain, aussi génial que tourmenté, s’interroge sur le sentiment de perte, ancré dans sa propre enfance, et sur ce que le capitalisme fait aux relations intimes.",
+      "url": "https://www.liberation.fr/culture/cinema/james-gray-realisateur-de-paper-tiger-pourquoi-tant-de-films-sont-a-ce-point-a-cote-de-la-plaque-20261124_CYZEBFBTP5FSJNBHRWAWKYP7NQ/",
+      "published": "2026-11-24T13:00:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "Le Figaro",
-      "title_original": "Un trafic de stupéfiants entre l’Espagne et la France démantelé dans la région paloise, 400.000 euros de marchandise saisie",
-      "summary_original": "L’un des suspects interpellés est parvenu à s’évader alors qu’il se trouvait à l’hôpital de Pau en raison de problèmes de santé. Il est activement recherché.",
-      "url": "https://www.lefigaro.fr/actualite-france/un-trafic-de-stupefiants-entre-l-espagne-et-la-france-demantele-dans-la-region-paloise-400-000-euros-de-marchandise-saisie-20261123",
-      "published": "2026-11-24T06:03:49+09:00",
+      "source": "Libération",
+      "title_original": "Violences économiques : «Il faut traiter le problème dans sa globalité»",
+      "summary_original": "Comment aider, conseiller, suivre les femmes victimes de violences économiques. Les réponses de Valérie Kipfer, membre de l’association pour la Fondation Crésus.",
+      "url": "https://www.liberation.fr/forums/violences-economiques-il-faut-traiter-le-probleme-dans-sa-globalite-20261124_KIVL44TWFJCUFJJWCOK32BIHNA/",
+      "published": "2026-11-24T10:33:00+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "Le Figaro",
-      "title_original": "«Il est là pour mettre les macronistes dans des valises» : Jordan Bardella dépeint David Lisnard en «contrebandier» du camp présidentiel",
-      "summary_original": "Invité lundi soir de BFMTV, le président du RN a minimisé la poussée du maire de Cannes, simple «animation de la semaine» à ses yeux, sans exclure totalement de travailler un jour avec lui.",
-      "url": "https://www.lefigaro.fr/elections/presidentielles/le-nouvel-artiste-qui-monte-sur-les-planches-jordan-bardella-epingle-david-lisnard-en-contrebandier-du-macronisme-20261123",
-      "published": "2026-11-24T05:48:38+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "En Afrique, l’Ukraine et la Russie se font la guerre par procuration",
-      "summary_original": "RÉCIT - Les militaires ukrainiens tentent de se déployer pour contrer les hommes de l’Africa Corps russe, en appuyant des forces sur le continent africain.",
-      "url": "https://www.lefigaro.fr/international/en-afrique-l-ukraine-et-la-russie-se-font-la-guerre-par-procuration-20261123",
-      "published": "2026-11-24T05:30:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "« Un destin magnifique s’annonçait » : la vie brisée de la lumineuse Judith Camarcat, mortellement poussée sur les voies du RER B",
-      "summary_original": "RÉCIT - Cette jeune femme de 31 ans, passée par le lycée Henri-IV et HEC, est décédée en mars 2025. L’état psychiatrique du meurtrier, schizophrène et gros consommateur de drogue, et son éventuelle irresponsabilité pénale sont au cœur du dossier.",
-      "url": "https://www.lefigaro.fr/faits-divers/un-destin-magnifique-s-annoncait-la-vie-brisee-de-la-lumineuse-judith-camarcat-mortellement-poussee-sur-les-voies-du-rer-b-20261123",
-      "published": "2026-11-24T05:09:37+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "Avant Jensen Huang, ces «PDG Boomerang» qui ont regagné la tête de leur entreprise après en avoir été éjectés",
-      "summary_original": "Rappelé aujourd’hui à la tête de Nvidia par le conseil d’administration de l’entreprise, Jensen Huang a connu le même destin que d’autres grandes figures de la tech, comme le fondateur d’Apple Steve Jobs, ou le patron d’OpenAI Sam Altman.",
-      "url": "https://www.lefigaro.fr/secteur/high-tech/avant-jensen-huang-ces-pdg-boomerang-qui-ont-regagne-la-tete-de-leur-entreprise-apres-en-avoir-ete-ejectes-20261123",
-      "published": "2026-11-24T05:07:16+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "En ciblant deux navires sur la côte libyenne, l’Ukraine porte un coup spectaculaire à la Russie",
-      "summary_original": "RÉCIT - Kiev a revendiqué une attaque inédite, dimanche, contre une corvette et un cargo russes, à Benghazi, confirmant une extension géographique du conflit.",
-      "url": "https://www.lefigaro.fr/international/en-ciblant-deux-navires-sur-la-cote-libyenne-l-ukraine-porte-un-coup-spectaculaire-a-la-russie-20261123",
-      "published": "2026-11-24T04:45:00+09:00",
+      "source": "Libération",
+      "title_original": "Ecrits antisémites : Jordan Bardella reconnaît «une faute» de Laure Lavalette mais lui garde son «total soutien»",
+      "summary_original": "Le président du Rassemblement national, lui-même accusé d’avoir tenu des propos antisémites, a défendu ce lundi la porte-parole de campagne de Marine Le Pen, qui a cautionné des écrits antisémites dans les années 90.",
+      "url": "https://www.liberation.fr/politique/ecrits-antisemites-jordan-bardella-reconnait-une-faute-de-laure-lavalette-mais-lui-garde-son-total-soutien-20261123_2UTAIIKFYNH4XM2N42RBJZFOJM/",
+      "published": "2026-11-24T06:33:59+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -549,33 +576,6 @@
       "summary_original": "Selon une enquête du «Parisien», des futurs officiers de la 31e promotion de l’école nationale supérieure de la police ont tenu des propos graves dans des groupes de discussion. Un élève a été suspendu «à titre conservatoire».",
       "url": "https://www.liberation.fr/societe/police-justice/des-propos-sexistes-racistes-et-des-saluts-nazis-tenus-dans-une-ecole-de-police-la-justice-saisie-20261122_AMKVEJWKMBDG5OJKLCQHK5V47A/",
       "published": "2026-11-24T05:18:12+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Libération",
-      "title_original": "Equerre d’argent 2026 : les architectes Antoine et Dufour récompensés pour la restructuration du Musée des arts déco de Bordeaux",
-      "summary_original": "Le jury du prestigieux prix d’architecture a choisi ce lundi 23 novembre de distinguer la rénovation très réussie du musée bordelais. La «courageuse» galerie de protection du portail de la cathédrale d’Angers reçoit un prix spécial.",
-      "url": "https://www.liberation.fr/lifestyle/design/equerre-dargent-2026-les-architectes-antoine-et-dufour-recompenses-pour-la-restructuration-du-musee-des-arts-deco-de-bordeaux-20261123_M3AI4FJGTJDKTMDCPZHRTRU67I/",
-      "published": "2026-11-24T05:10:59+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Libération",
-      "title_original": "«Le sexe fait vendre» : comment Donald Trump a piloté le retour de Jensen Huang à la tête de Nvidia",
-      "summary_original": "Le président des Etats-Unis a pesé de tout son poids pour convaincre le conseil d’administration de l’entreprise de puces électroniques pour qu’elle rappelle son patron lundi 23 novembre, onze jours après sa démission. Une nouvelle manifestation des intérêts convergents de Trump et des géants de la tech.",
-      "url": "https://www.liberation.fr/international/amerique/le-sexe-fait-vendre-comment-donald-trump-a-pilote-le-retour-de-jensen-huang-a-la-tete-de-nvidia-20261123_HSZPXB34VFEGNE6IU5GN2OEZ4Y/",
-      "published": "2026-11-24T04:55:47+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Libération",
-      "title_original": "Jensen Huang rappelé par Nvidia : le retour d’un infidèle au poste",
-      "summary_original": "Après une démission fracassante sur fond d’adultères et de soupçons d’espionnage, le fondateur revient à la tête du géant des puces électroniques. Une décision prise à l’unanimité par un conseil d’administration sous pression directe de Donald Trump.",
-      "url": "https://www.liberation.fr/economie/economie-numerique/jensen-huang-rappele-par-nvidia-le-retour-dun-infidele-au-poste-20261123_JSTDI2H2BZCN5CNCX3VPHGWYQY/",
-      "published": "2026-11-24T04:53:43+09:00",
       "via": "rss",
       "state_media": false
     }
