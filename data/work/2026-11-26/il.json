@@ -1,0 +1,915 @@
+{
+  "team": "il",
+  "headlines": [
+    {
+      "source": "i24NEWS",
+      "title_original": "Kushner Pushes Netanyahu To Approve Gaza Multinational Force, Expand Humanitarian Aid",
+      "title_ko": "쿠슈너, 네타냐후에 가자 다국적군 승인·인도적 지원 확대 압박",
+      "summary_ko": "쿠슈너가 네타냐후 총리에게 가자 다국적군 승인과 인도적 지원 확대를 압박했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUklaTXBfWG1uZFY4R0VoX054YmgyTmR1QkExT0c5VDRFOTh3OHpyZnljWDRUYVVVUGVYV0NfU0lERzd6Zk83bHpMQ1R0SUFfamtmWVA3c0o1ZGF5VzNaUnl2bjRibmpMbDhhN2s3Zzh2RVk0RHdnc3BmOUl0bVRNVWJQUkd6UTY3bXBSUXBBMGVDR2ZlaTBZa3N2TGFUM3E0Q3l2Mk5KaDBTdGJKb210eEc0VE9PT2FMcFV0RnhBcHNCLVlEejh0c2s4dy1EQnNhRHUw?oc=5",
+      "published": "2026-11-26T05:02:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "kushner-gaza-multinational-force",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Ukrainian Drones Allegedly Strike Iranian Smuggling Ship Off Libya On Behalf Of US - Report",
+      "title_ko": "보도: 우크라이나 드론, 미국 대신 리비아 앞바다 이란 밀수선 공격 의혹",
+      "summary_ko": "우크라이나 드론이 미국을 대신해 리비아 앞바다에서 이란 밀수선을 공격했다는 의혹이 보도됐다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSFhhMjVqZDRqWTJFc1BlcmM5TGxhcVZPbnV6VUtIUUNzcEdTTUFOd1QySFJobzc5WGs3UE1mM3VTcHJMNE5yTjlKanlmM1R0U0VWam5oblc0V1c1WlN6VE9PM3BpOXI0aktuN2w2WE5ON1FJT3ZRSGJDem1qOFlpSE1QU2IzTUNldHhVTGZ1NDc4MDlSTmpKeldrZjc5ZXplTkV5TzY2cW9hUnBNYk1WUVBqb3dCTnpfcXNrMk85YjdJaVdveGxVTk5udXRVNWdYLW4xRks2ODZQdkpEaHJLLXM5Vkk?oc=5",
+      "published": "2026-11-26T04:03:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "ukraine-drone-iran-ship-libya",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Libya's Haftar Visits Turkey Days After Ukrainian Attack On Russian Ships In Benghazi",
+      "title_ko": "리비아 하프타르, 벵가지 러시아 선박 우크라이나 공격 며칠 뒤 튀르키예 방문",
+      "summary_ko": "리비아의 하프타르가 벵가지에서 러시아 선박이 우크라이나의 공격을 받은 지 며칠 뒤 튀르키예를 방문했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPY2JBck5YSHVtSG9PdW5malhzUC14OTVSM3N4QkR6YXRkRndEdDVqX3k3aEs1b0ktZTM0ZXJyR1NYTDhlNlEyRFlHTHNDTTJzZkJ3dUZId2VpaUxPbG14aHVhWGdsajUyVFlEbzlxZHJxQVc4NzBpak9BU0NuU3h4Y21rbElXM2hNTEpCT2RfenhVTXBWUzRRaW1PZElCZDB5WVdnNmZZSlJId2RUSFI2ZVJ2aFA4YTVOWFFGVVpRbllRcTFGek42R3pRSmNNZE90Zlh3VHZJT0tfT2R1a01yYg?oc=5",
+      "published": "2026-11-26T02:40:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "haftar-turkey-visit",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Can Netanyahu Order A Strike On Iran Before Eisenkot Forms A Government? - Analysis",
+      "title_ko": "[분석] 네타냐후, 아이젠코트 정부 구성 전에 이란 공격 명령할 수 있나",
+      "summary_ko": "아이젠코트의 정부 구성 전에 네타냐후가 이란 공격을 명령할 수 있는지를 다룬 분석 기사. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZjVLMHgtZXRlaldzTFlNR2lUVWp4blJIS1NRZzF3b1pMa21CU2FlUFN2X3JrcXRFdmhhUWgwY2FiTkl4S2hOQ1hFUS1MNExYd0ExZ1VvV3U5V2VSRUZqN0Z6MUw5RHJKbUt3VW5Eam1qVlZsc01GMTBSMjZoRkJuU1ptRmNMMTNiUVN5ZmtpSWcwM2VZQmxkam9EOU54Y184cEVuWlVsSjVJRkgxU0pjbkswX0hwVm14RnlER3dvQW5pc3hlU3hkT3ZPTFlWdw?oc=5",
+      "published": "2026-11-26T02:21:27+09:00",
+      "tags": [
+        "geopolitics",
+        "forecast"
+      ],
+      "event": "iran-strike-debate",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Likud Appeals Knesset Election Results, Seeks New Vote At 120 Polling Stations",
+      "title_ko": "리쿠드, 크네세트 선거 결과에 이의 제기…투표소 120곳 재투표 요구",
+      "summary_ko": "리쿠드당이 크네세트 선거 결과에 이의를 제기하고 투표소 120곳의 재투표를 요구했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOclJ1cTkxTUhXbVZVTjl6UjkxdzRuTHRjM283OGhRQ0ZLdG54bnFTbTM5N3pRSmhaRkZVUTFCbGExUjlzTG1IZmhuekZZeENfUjZGeFJNdzd1LVhkUzhya2NvVjRQMkxVNlZLTVpxdThITzBlQ3VUbkxSZll3b0pOY2kyU2NLUXR0T1VYaDVNSTVJOThkTno1Vkg2SmY3ek1HR19taFE0ZFAyWmdzWVBxeFlkcUxINDFid2JsX1NFU2N2NGtBXzFieQ?oc=5",
+      "published": "2026-11-26T01:28:06+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "likud-election-appeal",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Judge, News And Latest Headlines",
+      "title_ko": "판사 관련 뉴스와 최신 헤드라인",
+      "summary_ko": "판사 관련 뉴스 모음 페이지 제목으로, 구체적 사건은 제목에서 확인되지 않는다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4wekJHR1dXU2NXZ3BJc2pTSlU4dDN5RWM1QTlsMGFmT1k0cXlTVHZaOUxtYTF3WVhQWW9OdTJlY1huc3FBRzRnR1BTM2E?oc=5",
+      "published": "2026-11-25T23:52:14+09:00",
+      "tags": [],
+      "event": "i24-judge-headlines-page",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Arab Lawmakers Sign October 7 Inquiry Bill Recognizing Hamas As A Terrorist Organization",
+      "title_ko": "아랍계 의원들, 하마스를 테러조직으로 인정하는 10·7 조사 법안에 서명",
+      "summary_ko": "아랍계 의원들이 하마스를 테러조직으로 인정하는 10월 7일 사태 조사 법안에 서명했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUU1rWHVNc3FCbHQyRVk4T09VVUlOMS1PeERaSm9OblpDX1QwODAzMGxRb19TWlgzTEJSNXlpQnIwaGVfZlZFU3hfM3EzN2pUOEx4Y1BaUHZCd0s1djZOb3c0OWVZa25kWGdfblpvY3FIdXdVdWJEb29WZFV3NzdQZUJzR0NyVGZBRS1EWkVla29LZ0xWb2VRQmZrRWRvN0YyV2ljUHdUYS1SNFo2YW44SldFdDVGRDdvYWxLZmFYSEpBTGdvLWVON0VDOFBNNkxHN1N3UVY5Zw?oc=5",
+      "published": "2026-11-25T23:37:00+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "knesset-contentious-bills",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Herzog Names Nine Recipients Of 2026 Israeli Presidential Medal Of Honor",
+      "title_ko": "헤르초그 대통령, 2026년 이스라엘 대통령 명예훈장 수훈자 9명 발표",
+      "summary_ko": "헤르초그 대통령이 2026년 대통령 명예훈장 수훈자 9명을 발표했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcF9TSl9qN0pjbUxzeFhZd0dkclBtR0JpUzZJdThDa0JTRnBmOTRvcUJaZU1XMUNmd1hFdFdROWNrYlBWazFJU3ZPaUhsZGF6LWVtVllmZ2thT2w0dEFDdDM4SHA5d1Fqck1lTVVPUE94WURXTHpKNWQ4NkZ1M3BLa3NvT09uR3lNMDNnQkNWRzF3MURkZWVkWjA0QlNCWGZIbGJhRF9PZE43b3N5X0xrR2hreGV6RlViYmdTQ0prcHdvdw?oc=5",
+      "published": "2026-11-25T22:36:32+09:00",
+      "tags": [],
+      "event": "presidential-medal-of-honor",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "Words Can Light Fires The Greater Somalia Debate and Somaliland’s Hard-Won Peace",
+      "title_ko": "말은 불을 지필 수 있다: '대소말리아' 논쟁과 소말릴란드의 어렵게 얻은 평화",
+      "summary_ko": "'대소말리아' 논쟁과 소말릴란드의 평화를 다룬 기고문. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUxVX19rXzdkeEhZYXE1QjNUUkZnbmdqZklmZWlRcy1iOVcxVVZwU1VQMFJ5N01fTlhmZGJPOTF5TkxidmRRdnVKMHNucWhkdFBvSzhmNDROVEdrVVNTSlVYRHBtQTBURmkxN2tLXzRiTG5iMXlnTDQ5TVlIYVo0VXQ1NlFQb2xTenVubW5GZFEzeEtES1BEMTR4c1ZvOVcxZUszMVAxdWZiMnhESnJBRHF3?oc=5",
+      "published": "2026-11-26T05:29:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "somaliland-opinion",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "Saudis say they intercepted Houthi drone near key port in Jeddah",
+      "title_ko": "사우디, 제다 주요 항구 인근서 후티 드론 요격 발표",
+      "summary_ko": "사우디가 제다 주요 항구 인근에서 후티 드론을 요격했다고 밝혔다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWlR0LURsa1RnaUVFVU8zOGZndy1QeUFlX044RDRVRk1MYkVEbUVBQ3ZmWWRtcnJhUjN6TGsyRWVXVENjR01kZlladzRiaUxRckhraGw1VkNTTmk2RUh0YWk3Qlg5bTItRnlaTUl6VzgzSU92dzNEVEZ5LU05TzNFYjZVN0pzc2F6QzYtS3JSVDRYRW1FOGEzOWM5SWRiXzB0MS1MOW5jdWE0bXUzNExv?oc=5",
+      "published": "2026-11-26T05:05:48+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "saudi-intercepts-houthi-drone",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Blogs: What social media taught me about Judaism",
+      "title_ko": "[블로그] 소셜미디어가 유대교에 대해 가르쳐 준 것",
+      "summary_ko": "소셜미디어와 유대교에 관한 블로그 글. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GWWVtODBnTkJyc1pXVGpKa1hidlVubGdqOExZVnV2ZFJ2aTk3Y1dVVjZwa2d0eVJyZkk1RU5FNGE0TkpxSHk4TjVxYzZqeVllUXo0ekdCNUozVFNLVDF0SzkyUXU2YnVoTi1iZm1DU3NLSlhNdW4telVKMFhFQTA?oc=5",
+      "published": "2026-11-26T05:04:00+09:00",
+      "tags": [],
+      "event": "blog-social-media-judaism",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "Can Jensen Huang Go Home Again? Reinstatement and Teshuva",
+      "title_ko": "젠슨 황은 다시 돌아갈 수 있을까? 복직과 테슈바(회개)",
+      "summary_ko": "젠슨 황을 소재로 복직과 회개(테슈바)를 다룬 기고문. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdWxDQjhPX1lxY0FwTWhLdUtFMzhTVFk1d2lWNWhuS3B0MDBzXzNIOHRNTnoyYkJ2d01CMGZPb2J0QkhJSmo1NEZpUEZrSmNJOHZiX3pnQmZuS0M0YTJxRDdoQ1RyY2lBSXpOOUNja0lGdTNad1VKMDdPaWZHN3p1WU1fX0dfb3R1YUNtaTV2V1hmVDg?oc=5",
+      "published": "2026-11-26T04:31:00+09:00",
+      "tags": [],
+      "event": "blog-jensen-huang-teshuva",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "What software really costs a small Israeli firm",
+      "title_ko": "이스라엘 소기업에 소프트웨어의 실제 비용은 얼마인가",
+      "summary_ko": "이스라엘 소기업이 부담하는 소프트웨어 비용을 다룬 글. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaVJidHlfUVJhRTdpaHlGT1llb2p0ZU9nT1c0c0ttRzJhbFJ4bTRzVVpwX0ZXQUMzMlk0Tml3TUhUTFNtUlgxS3I0Y1p1MjBlSG5zZ3hlQWxrYU9sbTVLeVpuTF9TaDhhQ3N1djc2V19lSW1XMEo4c0hfYll4QVVNLVBGb29yeU0?oc=5",
+      "published": "2026-11-26T04:28:00+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "small-firm-software-cost",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Loneliness We Cannot Outrun",
+      "title_ko": "우리가 벗어날 수 없는 외로움",
+      "summary_ko": "외로움을 주제로 한 기고문. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pY1VDUnlaT2I4dlBTbTI2YzJMZG5mZzBUMFJONXR6N2VKMHRfaHlsanI4RE5yN05ZY1lRWC05TmZTeWxDdF96d19TV01USUg5QnVSU3p4Vmx3NDVVeUo1MGtxQTMwR0VTS1ctc0lBVl9IZw?oc=5",
+      "published": "2026-11-26T04:27:00+09:00",
+      "tags": [],
+      "event": "blog-loneliness",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Blogs: Why is turkey called ‘India’?",
+      "title_ko": "[블로그] 칠면조는 왜 '인도'라고 불리나",
+      "summary_ko": "칠면조의 히브리어 명칭 유래를 다룬 블로그 글. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mWkJYdFpKU2pIR2llSDQ2VV95SzZWQ2tOS2JKMHJnbTRwT0VhRU9XaUlyZ3JlUWZkbDRLc05HX3U3NjR6d0VaeVBmVElvR0QtdU94UW1HM0lrQTUwanoyRW13WThxTlpqdFNv?oc=5",
+      "published": "2026-11-26T04:25:00+09:00",
+      "tags": [],
+      "event": "blog-turkey-name",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "A day after killing Hamas’s internal security chief, IDF also kills his likely replacement",
+      "title_ko": "IDF, 하마스 내부보안 책임자 제거 하루 만에 유력 후임자도 사살",
+      "summary_ko": "이스라엘군이 하마스 내부보안 책임자를 제거한 다음 날 그의 유력 후임자도 사살했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS2N0N3hKSDQxekRvdUR4dXk0ZGtUMTZDVVRhRUdON1ZlVzlGdWZaYm5KSWM3V2N2WkpOSEo0c1MydElWa1VqdzJFTWNsUWJlSHNsZDE4MVcyaUFFRGJyM3JwYTlTSG5hNGxpOVV4RkQwcFhZQU5RSzRxQ1dna1hhdWpGWXQ1eEY2cGhmRWtEVWJfTGNfU0JJS21UX3FFaVlMc09Xd2llRUpSYi1Xbnl2OW5IckNWeXhTa2JN0gHAAUFVX3lxTE9ldEdkTGdwRm1vVDNGdlNPQllNeXdYZWRNTlR2Tjk4NTB3Rlk5QVk1VUlNRkwtVGdKbmM2WkVLc1V0RGEzMWt1TW9iT0k5OWV4Ykg3UElmZ29meWxaQllNSERrVHlIdnVWSjF4cXNkNm9GaXRwZzE3OHREM3JxM1l5S2xKdFo3bF8xemJiSkVkMGtYbDlIS1ZjMDlMRE9oNXUxdm5Nc2wyaG9MS2xKaUtKNjVheUQwUUI3ZWNIUXFEVg?oc=5",
+      "published": "2026-11-26T04:00:05+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "idf-kills-hamas-security-chiefs",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Netanyahu's judges have become blind to his corruption",
+      "title_ko": "[칼럼] 네타냐후의 판사들은 그의 부패에 눈감았다",
+      "summary_ko": "네타냐후 부패 재판을 맡은 3인 재판부 아래서 네타냐후가 원하던 결과를 얻었다는 칼럼이다. 필자는 재판부의 충격적 제안에 검찰총장이 대응할 방법은 하나뿐이라고 주장한다.",
+      "url": "https://www.haaretz.com/israel-news/2026-11-25/ty-article/.premium/netanyahus-judges-want-an-exit-the-attorney-general-must-not-give-them-one/000001a2-1413-d0bc-a1bb-1efb19a40000",
+      "published": "2026-11-26T05:37:03+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "netanyahu-trial-judges-proposal",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "John Kiriakou once blew the whistle on the CIA. His stories about Mossad made him a Tiktok star",
+      "title_ko": "CIA 내부고발자 존 키리아쿠, 모사드 이야기로 틱톡 스타 되다",
+      "summary_ko": "존 키리아쿠의 이스라엘 정보기관 관련 이야기가 젊은 온라인 팬층을 얻어 터커 칼슨·테오 본 방송에 자주 출연하고 있다. 반유대주의 연구자들은 그의 경력이 이스라엘 음모론에 무게를 실어준다고 경고한다.",
+      "url": "https://www.haaretz.com/us-news/2026-11-25/ty-article-magazine/.premium/he-blew-the-whistle-on-the-cia-his-mossad-stories-made-him-a-tiktok-star/000001a2-136f-d8f5-affb-f77f1edb0000",
+      "published": "2026-11-26T04:54:27+09:00",
+      "tags": [],
+      "event": "kiriakou-mossad-tiktok",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "UN Human Rights chief: Israel's actions threaten Palestinians' 'continued existence as a group'",
+      "title_ko": "유엔 인권최고대표: 이스라엘 행위가 팔레스타인인의 '집단으로서의 존속' 위협",
+      "summary_ko": "폴커 튀르크 유엔 인권최고대표의 경고는 옥스팜이 이스라엘의 전쟁으로 가자지구 전체가 인간 생존을 위협하는 '독성 황무지'가 됐다는 보고서를 낸 지 며칠 만에 나왔다.",
+      "url": "https://www.haaretz.com/gaza/2026-11-25/ty-article/.premium/top-un-official-israels-actions-threaten-palestinians-continued-existence/000001a2-13e8-d809-adef-7becae440000",
+      "published": "2026-11-26T04:25:12+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "un-rights-chief-gaza-warning",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "The trouble with 'Zio': Nazis, progressives and the convergence of hate",
+      "title_ko": "'지오(Zio)'의 문제: 나치, 진보 진영, 그리고 증오의 수렴",
+      "summary_ko": "전 KKK 수장 데이비드 듀크가 퍼뜨린 'Zio' 비하 표현이 미국 진보 진영에 스며들었다. 기사는 반유대주의와 가자·이란 전쟁을 매개로 정치적 양극단이 수렴하는지 묻는다.",
+      "url": "https://www.haaretz.com/us-news/2026-11-25/ty-article-magazine/.premium/the-trouble-with-zio-nazis-progressives-and-the-convergence-of-hate/000001a2-132c-ddf8-a5e2-5b3fba650000",
+      "published": "2026-11-26T03:59:56+09:00",
+      "tags": [],
+      "event": "zio-slur-antisemitism",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Likud appeals election results despite no evidence of fraud",
+      "title_ko": "리쿠드, 부정 증거 없이 선거 결과 이의 제기",
+      "summary_ko": "네타냐후의 리쿠드당이 투표소 120곳의 선거 결과 무효화를 요구했다. 아랍 공동체 투표소 수십 곳의 실책에 관한 진술서를 제출했으며, 대부분 유권자 신원 정보 전달 문제다.",
+      "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-25/ty-article/.premium/likud-appeals-election-results-no-evidence-of-bribery-or-widespread-fraud/000001a2-1380-d205-afa3-3ff7bfbb0000",
+      "published": "2026-11-26T03:59:42+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "likud-election-appeal",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Netanyahu says 'truth has come to light' after judges urge dropping key charges in corruption trial",
+      "title_ko": "네타냐후, 판사들의 핵심 혐의 철회 권고에 '진실이 드러났다'",
+      "summary_ko": "네타냐후는 기소된 총리 후보의 자격을 박탈할 수 있는 법안을 '정치적 암살 도구'라며 이란·북한에 비유했다. 그는 통합정부 구성을 촉구했다.",
+      "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-25/ty-article/.premium/netanyahu-says-truth-has-come-to-light-after-judges-urge-dropping-key-charges/000001a2-13a7-d577-a3ea-bfefd5bc0000",
+      "published": "2026-11-26T03:31:32+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "netanyahu-trial-judges-proposal",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Bennett holding secret talks with Netanyahu behind Eisenkot's back",
+      "title_ko": "베넷, 아이젠코트 몰래 네타냐후와 비밀 협상",
+      "summary_ko": "소식통에 따르면 네타냐후와 베넷이 매일 메시지를 주고받으며 총리직과 연정 구성을 논의하고, 아이젠코트 당과 리쿠드의 공식 협상은 지엽적 사안에 머물고 있다. 베넷은 이를 부인했다.",
+      "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-25/ty-article/.premium/bennett-holding-secret-talks-with-netanyahu-behind-eisenkots-back/000001a2-13e1-d0a2-afb7-53fb1ce60000",
+      "published": "2026-11-26T03:12:43+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "eisenkot-coalition-talks",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Even if Netanyahu's corruption trial is thrown out, a harsher verdict lies ahead",
+      "title_ko": "[분석] 네타냐후 부패 재판이 기각되더라도 더 가혹한 판결이 기다린다",
+      "summary_ko": "네타냐후가 아직 직면한 두 재판이 그의 역사적 위상을 규정할 것이라는 분석이다. 유산에 집착하는 그에게 역사의 판결이 법정 선고만큼 가혹할 수 있다고 본다.",
+      "url": "https://www.haaretz.com/israel-news/haaretz-today/2026-11-25/ty-article/.highlight/even-if-netanyahus-corruption-trial-is-thrown-out-a-harsher-verdict-lies-ahead/000001a2-12db-dc94-abf2-36fb14060000",
+      "published": "2026-11-26T03:03:47+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "netanyahu-trial-judges-proposal",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "UK university kept a 1,465-page file on a pro-Israel student, records show",
+      "title_ko": "기록 공개: 영국 대학, 친이스라엘 학생에 대해 1,465쪽 파일 보관",
+      "summary_ko": "영국의 한 대학이 친이스라엘 학생에 대한 1,465쪽 분량의 파일을 보관해 온 것으로 기록에서 드러났다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OR3NaUWVnVVA0aDJ3cTNBOTB5ck9yOHNmUmY2WjJsaWp2TGV0UDlxMmtYeVhyVl9hTUVBemxGWE9IODZXaS12STkzeXlNQVRxcFB4RlFuYk1aTGhq?oc=5",
+      "published": "2026-11-26T05:21:05+09:00",
+      "tags": [],
+      "event": "uk-university-student-file",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Danon: Israel opposes French troop deployment in south Lebanon after UNIFIL exit - interview",
+      "title_ko": "다논: 이스라엘, UNIFIL 철수 후 남레바논 프랑스군 배치 반대 - 인터뷰",
+      "summary_ko": "다논 대사가 인터뷰에서 이스라엘은 UNIFIL 철수 이후 남레바논에 프랑스군이 배치되는 것에 반대한다고 밝혔다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NeUN2c1h0dFExcW1HSTdtaW9SeFVWUk9hNVpnSG5VVW42YUdQZzM3OEpQcXhDMzY3SWxKbk9jbG1kZkppa2dmcDV2NUFaYWtfcmk0emI4TEZkY2Y1?oc=5",
+      "published": "2026-11-26T04:54:30+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "south-lebanon-french-troops",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Knesset advances bill imposing term limits on prime ministers",
+      "title_ko": "크네세트, 총리 임기 제한 법안 진전",
+      "summary_ko": "크네세트가 총리 임기를 제한하는 법안을 진전시켰다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OTFE0T1N1MVlra2M4UGdiVm5xWnloNEN0a3RkaGZMUi1lTUxaY2YxeXBvMm12YVVTam54R2pvQTgxZEVxT2stb0Z4SnZpOWNzbDZ2Szc4cjJjczRCdHQ1VEVuQXBTWHJPWDhWaWM0Ry1mdnUtQks5SzJucw?oc=5",
+      "published": "2026-11-26T04:49:17+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "knesset-contentious-bills",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Likud appeals election results, seeks reruns at 120 polling stations",
+      "title_ko": "리쿠드, 선거 결과에 이의 제기…투표소 120곳 재선거 요구",
+      "summary_ko": "리쿠드당이 선거 결과에 이의를 제기하고 투표소 120곳의 재선거를 요구했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03ZHNvR21ITy1XdlFGWW1pa0FRdmNzQmpOdkZQYjc1LUd5bnllZ1VnYVdwd2VzQVlMT3Z4N0VKdlU0U0ducUdKZ3VvNmh6enVoS0J3czRZbU54RUNRUnlpd09BUzdOdkkzYTE2czkxdU1BODRseTN5aUgwUQ?oc=5",
+      "published": "2026-11-26T04:43:13+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "likud-election-appeal",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Rabbi who lost family to terrorism blasts UK policy toward Palestinian Authority",
+      "title_ko": "테러로 가족 잃은 랍비, 영국의 팔레스타인자치정부 정책 비판",
+      "summary_ko": "테러로 가족을 잃은 랍비가 영국의 팔레스타인자치정부(PA) 정책을 비판했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WcWNYQWlTUC1aSmtJMFVPTG51TWVaSl8yOTM3SHZLekNRSVBLU2NyMkFNeDZ3SUxueHl1d3p1cUhsQW1ocHd3Smw5d1d3ZmxaMjBLTXZpVDk?oc=5",
+      "published": "2026-11-26T04:41:51+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "rabbi-criticizes-uk-pa-policy",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Yashar, UTJ make progress toward gov't as unity talks with Likud continue",
+      "title_ko": "야샤르·UTJ, 리쿠드와 통합 협상 지속 속 정부 구성 진전",
+      "summary_ko": "야샤르와 UTJ(통합토라유대교)가 정부 구성에서 진전을 보이는 가운데 리쿠드와의 통합 협상도 이어지고 있다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5uNGoyX3FmUmREeDNFS1FOOVRKVFIyNDNRTjNFc3lxLVdOSFpDajNFZjVaTFc5cDJCdm5GUFZlcU9LX05VRWpvb1paQmdjeTJmTFh5M1RkN216WHVjQXZOUjBEdWl3M1JVZjRjRkx2WEVKRWJWQzhvTmtnSQ?oc=5",
+      "published": "2026-11-26T04:38:43+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "eisenkot-coalition-talks",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Liberman's party to get defense, justice, aliyah ministries",
+      "title_ko": "리베르만 당, 국방·법무·알리야 부처 맡을 예정",
+      "summary_ko": "리베르만의 정당이 국방·법무·알리야(이민) 부처를 맡게 된다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92Yl9KYXU1WFBoMXRmU1pkMWRGQ2gzQjl1MkNqS0wtb0ZNV18zRVZBeTJRS0Z0b0NNemFnSDhoR3M5V3V0Mjc2R085OU1DVHFCOXRrZU1mQ0szcU1McXBwSUlmcUJoTmMxVDB2Z3Qzbkp1NmhaamlqSW5QNA?oc=5",
+      "published": "2026-11-26T04:38:17+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "eisenkot-coalition-talks",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Israeli astrologers, psychics offer conflicting predictions on Iran war",
+      "title_ko": "이스라엘 점성술사·심령술사들, 이란 전쟁에 엇갈린 예측",
+      "summary_ko": "이스라엘 점성술사와 심령술사들이 이란 전쟁에 대해 엇갈린 예측을 내놨다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0RUlhd3owVnRzdzBDQjVlbDJxX0x2X3NKV3pnWkZxeUNVLXB5NzNIVjJuOUVoVHhDZnhBWVFMcnRyclBmY3B2UXlEYzhDX2NRVG9nMUN5dW45VXdG?oc=5",
+      "published": "2026-11-26T04:19:40+09:00",
+      "tags": [],
+      "event": "psychics-iran-war-predictions",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Report: North Korea helping Iran develop launch systems inside underground missile cities",
+      "title_ko": "보도: 북한, 지하 미사일 도시서 이란 발사체계 개발 지원",
+      "summary_ko": "UAE 매체 에렘뉴스는 백악관·CIA 관계자와 가까운 소식통을 인용해 북한 전문가들이 원격으로 이란 기술진과 협력하고 있으며, 이란이 공격 능력 재건을 추진 중이라고 보도했다.",
+      "url": "https://www.ynetnews.com/article/hky1k4ek7x",
+      "published": "2026-11-25T18:53:30+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "north-korea-iran-missile-help",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "From immigrant transit camp to state comptroller: the rise of Supreme Court outsider Yosef Elron",
+      "title_ko": "이민자 임시수용소에서 감사원장으로: 대법원 비주류 요세프 엘론의 부상",
+      "summary_ko": "이라크 이민자 가정 출신의 은퇴 대법관 요세프 엘론이 논란이 된 선거가 무효화된 뒤 차기 국가감사원장이 될 전망이다. 기사는 그의 법관 경력을 독립성·절제·개인 권리 중시로 평가한다.",
+      "url": "https://www.ynetnews.com/article/bkloexekxx",
+      "published": "2026-11-25T18:34:44+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "state-comptroller-elron",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Five sentenced to up to seven years in prison over 2021 Bat Yam mob attack of Arab man",
+      "title_ko": "2021년 바트얌 아랍인 집단폭행 사건 5명에 최고 7년형",
+      "summary_ko": "'성벽의 수호자' 작전 중 아랍계 이스라엘인 운전자 사이드 무사를 폭행한 지 5년여 만에 가해자 5명이 22개월~7년형을 선고받았다. 이 중 4명은 테러 혐의로 유죄 판결을 받았다.",
+      "url": "https://www.ynetnews.com/article/bj1elx4yxe",
+      "published": "2026-11-25T17:48:58+09:00",
+      "tags": [],
+      "event": "bat-yam-mob-attack-sentencing",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Eisenkot bloc prepares to swear in government next week, with pressure mounting on Shas",
+      "title_ko": "아이젠코트 블록, 다음 주 정부 출범 준비…샤스 압박 고조",
+      "summary_ko": "UTJ가 합류 의사를 보이자 블록은 샤스를 끌어들여 61석 과반 확보를 노린다. 데리가 거부하면 아랍 정당의 기권에 의존해야 할 수 있고, 베넷과 골란 문제는 미해결 상태다.",
+      "url": "https://www.ynetnews.com/article/r1ellmn1xx",
+      "published": "2026-11-25T17:06:31+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "eisenkot-coalition-talks",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Knesset set for showdown over Oct. 7 inquiry, Netanyahu eligibility and draft dodgers",
+      "title_ko": "크네세트, 10·7 조사·네타냐후 자격·병역기피자 법안 놓고 격돌 예정",
+      "summary_ko": "경쟁 블록들이 10·7 국가조사위원회, 총리 임기 제한, 모스크 확성기, 병역기피자 체포 동결 등 쟁점 법안을 추진하고 있다. 연정 협상 중 정치 동맹을 시험하는 국면이다.",
+      "url": "https://www.ynetnews.com/article/b1mq1114kxg",
+      "published": "2026-11-25T16:46:58+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "knesset-contentious-bills",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Liberman reverses course, opens door to government backed by ultra-Orthodox parties and Ra’am",
+      "title_ko": "리베르만 입장 선회, 초정통파·라암 지지 정부에 문 열어",
+      "summary_ko": "아이젠코트 블록이 다음 주 정부 출범을 준비하는 가운데 리베르만은 UTJ와의 협상 진전을 알리고 라암 지지에 개방적 신호를 보냈다. 민주당은 리쿠드와의 협상을 이유로 연정 협상을 중단했다.",
+      "url": "https://www.ynetnews.com/article/sydmex4kqe",
+      "published": "2026-11-25T15:15:38+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "eisenkot-coalition-talks",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Son of Israel’s ‘godfather’ returns in handcuffs: inside Eran Haya’s extraordinary extradition",
+      "title_ko": "이스라엘 '대부'의 아들 수갑 차고 귀환: 에란 하야 범죄인 인도의 내막",
+      "summary_ko": "이스라엘을 떠난 지 9년 만에 에란 하야가 경쟁 조직 보스 살해 음모 2건으로 미국에서 인도될 예정이다. 법원 문서에는 튀르키예에서의 가짜 신분, 말레이시아 암살 위협 의혹, 미 당국에 대한 연방판사의 비판이 담겼다.",
+      "url": "https://www.ynetnews.com/article/syzgggn1me",
+      "published": "2026-11-25T14:32:13+09:00",
+      "tags": [],
+      "event": "eran-haya-extradition",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Trump signals narrowing window for Iran strikes: ‘We have funding through the end of January’",
+      "title_ko": "트럼프, 이란 공격 시한 축소 시사: '1월 말까지 예산 있다'",
+      "summary_ko": "트럼프는 민주당의 의회 장악이 군사 선택지를 제한할 수 있다고 경고했으며, 이스라엘은 이란 화학무기 능력을 이유로 재공격을 압박하고 있다. 그는 정권 전복이 가능하지만 미국의 전쟁 목표는 아니라고 말했다.",
+      "url": "https://www.ynetnews.com/article/s1y4kxnj7e",
+      "published": "2026-11-25T14:20:43+09:00",
+      "tags": [
+        "geopolitics",
+        "forecast"
+      ],
+      "event": "iran-strike-debate",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Fattal invests €160m in three new hotels",
+      "title_ko": "파탈, 신규 호텔 3곳에 1억6천만 유로 투자",
+      "summary_ko": "호텔들은 영국·프랑스·그리스에서 인수되며, 소식통이 글로브스에 전했다.",
+      "url": "https://en.globes.co.il/en/article-1001565053#utm_source=RSS",
+      "published": "2026-11-26T02:17:17+09:00",
+      "tags": [
+        "business",
+        "industry"
+      ],
+      "event": "fattal-hotel-acquisitions",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Wed: TASE sell-off continues, chips stocks lead losses",
+      "title_ko": "수요일: TASE 매도세 지속, 반도체주 하락 주도",
+      "summary_ko": "타워가 또다시 크게 하락했고 슈트라우스는 효율화 계획 발표 후 상승했다.",
+      "url": "https://en.globes.co.il/en/article-1001565050#utm_source=RSS",
+      "published": "2026-11-26T01:50:21+09:00",
+      "tags": [
+        "stocks"
+      ],
+      "event": "tase-selloff",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Blue Bird doubles number of Israel-Europe flights in December",
+      "title_ko": "블루버드, 12월 이스라엘-유럽 항공편 두 배로 확대",
+      "summary_ko": "하누카와 유럽 성탄 시즌을 앞두고 블루버드 항공이 이스라엘 운항을 대폭 확대한다.",
+      "url": "https://en.globes.co.il/en/article-1001564946#utm_source=RSS",
+      "published": "2026-11-25T22:57:00+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "blue-bird-flights-expansion",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Israel Tax Authority demands NIS 12b more from Wiz founders",
+      "title_ko": "이스라엘 국세청, 위즈 창업자들에 120억 셰켈 추가 과세 요구",
+      "summary_ko": "분쟁은 스톡옵션·지식재산 과세와 세금 계산에 쓰인 셰켈-달러 환율에 관한 것이다.",
+      "url": "https://en.globes.co.il/en/article-1001564934#utm_source=RSS",
+      "published": "2026-11-25T22:08:00+09:00",
+      "tags": [
+        "business",
+        "legislation"
+      ],
+      "event": "wiz-founders-tax-dispute",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Judges propose dropping two of three cases against Netanyahu",
+      "title_ko": "판사들, 네타냐후 3개 사건 중 2개 기소 철회 제안",
+      "summary_ko": "재판부 3인이 갈리 바하라브-미아라 검찰총장에게 뇌물·배임 사건을 철회하고 선물 사건은 합의를 모색하라고 제안했다.",
+      "url": "https://en.globes.co.il/en/article-1001564925#utm_source=RSS",
+      "published": "2026-11-25T21:30:56+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "netanyahu-trial-judges-proposal",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Teva to lay off 150 employees at Kfar Saba plant",
+      "title_ko": "테바, 크파르사바 공장서 150명 감원",
+      "summary_ko": "테바는 크파르사바 사업장의 제네릭 의약품 R&D를 단계적으로 중단해 2027년 말까지 150명을 감원한다고 직원들에게 알렸다.",
+      "url": "https://en.globes.co.il/en/article-1001564912#utm_source=RSS",
+      "published": "2026-11-25T19:41:00+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "teva-kfar-saba-layoffs",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Desperate measures: Katzman's Norstar offers shares at huge discount",
+      "title_ko": "궁여지책: 카츠만의 노르스타, 대폭 할인가에 주식 발행",
+      "summary_ko": "하임 카츠만이 부동산 제국을 살리려 애쓰는 가운데, 그가 G시티를 지배하는 통로인 노르스타 홀딩스 주가가 급락했다.",
+      "url": "https://en.globes.co.il/en/article-1001564904#utm_source=RSS",
+      "published": "2026-11-25T18:52:00+09:00",
+      "tags": [
+        "business",
+        "stocks"
+      ],
+      "event": "norstar-discount-share-offering",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Strauss launches streamlining program",
+      "title_ko": "슈트라우스, 효율화 프로그램 착수",
+      "summary_ko": "식품업체 슈트라우스가 자원을 생산, 브라질·동유럽 사업 확대, 신규 식품 카테고리 진출에 재배치한다.",
+      "url": "https://en.globes.co.il/en/article-1001564880#utm_source=RSS",
+      "published": "2026-11-25T17:27:00+09:00",
+      "tags": [
+        "business",
+        "industry"
+      ],
+      "event": "strauss-streamlining",
+      "state_media": false
+    }
+  ],
+  "events": [
+    {
+      "event": "eisenkot-coalition-talks",
+      "title_ko": "베넷, 아이젠코트 몰래 네타냐후와 비밀 협상",
+      "sources": [
+        "Haaretz",
+        "Jerusalem Post",
+        "Ynet News"
+      ],
+      "count": 5
+    },
+    {
+      "event": "netanyahu-trial-judges-proposal",
+      "title_ko": "[칼럼] 네타냐후의 판사들은 그의 부패에 눈감았다",
+      "sources": [
+        "Haaretz",
+        "Globes"
+      ],
+      "count": 4
+    },
+    {
+      "event": "likud-election-appeal",
+      "title_ko": "리쿠드, 크네세트 선거 결과에 이의 제기…투표소 120곳 재투표 요구",
+      "sources": [
+        "i24NEWS",
+        "Haaretz",
+        "Jerusalem Post"
+      ],
+      "count": 3
+    },
+    {
+      "event": "knesset-contentious-bills",
+      "title_ko": "아랍계 의원들, 하마스를 테러조직으로 인정하는 10·7 조사 법안에 서명",
+      "sources": [
+        "i24NEWS",
+        "Jerusalem Post",
+        "Ynet News"
+      ],
+      "count": 3
+    },
+    {
+      "event": "iran-strike-debate",
+      "title_ko": "[분석] 네타냐후, 아이젠코트 정부 구성 전에 이란 공격 명령할 수 있나",
+      "sources": [
+        "i24NEWS",
+        "Ynet News"
+      ],
+      "count": 2
+    },
+    {
+      "event": "kushner-gaza-multinational-force",
+      "title_ko": "쿠슈너, 네타냐후에 가자 다국적군 승인·인도적 지원 확대 압박",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "ukraine-drone-iran-ship-libya",
+      "title_ko": "보도: 우크라이나 드론, 미국 대신 리비아 앞바다 이란 밀수선 공격 의혹",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "haftar-turkey-visit",
+      "title_ko": "리비아 하프타르, 벵가지 러시아 선박 우크라이나 공격 며칠 뒤 튀르키예 방문",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "i24-judge-headlines-page",
+      "title_ko": "판사 관련 뉴스와 최신 헤드라인",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "presidential-medal-of-honor",
+      "title_ko": "헤르초그 대통령, 2026년 이스라엘 대통령 명예훈장 수훈자 9명 발표",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "somaliland-opinion",
+      "title_ko": "말은 불을 지필 수 있다: '대소말리아' 논쟁과 소말릴란드의 어렵게 얻은 평화",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "saudi-intercepts-houthi-drone",
+      "title_ko": "사우디, 제다 주요 항구 인근서 후티 드론 요격 발표",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "blog-social-media-judaism",
+      "title_ko": "[블로그] 소셜미디어가 유대교에 대해 가르쳐 준 것",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "blog-jensen-huang-teshuva",
+      "title_ko": "젠슨 황은 다시 돌아갈 수 있을까? 복직과 테슈바(회개)",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "small-firm-software-cost",
+      "title_ko": "이스라엘 소기업에 소프트웨어의 실제 비용은 얼마인가",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "blog-loneliness",
+      "title_ko": "우리가 벗어날 수 없는 외로움",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "blog-turkey-name",
+      "title_ko": "[블로그] 칠면조는 왜 '인도'라고 불리나",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "idf-kills-hamas-security-chiefs",
+      "title_ko": "IDF, 하마스 내부보안 책임자 제거 하루 만에 유력 후임자도 사살",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "kiriakou-mossad-tiktok",
+      "title_ko": "CIA 내부고발자 존 키리아쿠, 모사드 이야기로 틱톡 스타 되다",
+      "sources": [
+        "Haaretz"
+      ],
+      "count": 1
+    },
+    {
+      "event": "un-rights-chief-gaza-warning",
+      "title_ko": "유엔 인권최고대표: 이스라엘 행위가 팔레스타인인의 '집단으로서의 존속' 위협",
+      "sources": [
+        "Haaretz"
+      ],
+      "count": 1
+    },
+    {
+      "event": "zio-slur-antisemitism",
+      "title_ko": "'지오(Zio)'의 문제: 나치, 진보 진영, 그리고 증오의 수렴",
+      "sources": [
+        "Haaretz"
+      ],
+      "count": 1
+    },
+    {
+      "event": "uk-university-student-file",
+      "title_ko": "기록 공개: 영국 대학, 친이스라엘 학생에 대해 1,465쪽 파일 보관",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "south-lebanon-french-troops",
+      "title_ko": "다논: 이스라엘, UNIFIL 철수 후 남레바논 프랑스군 배치 반대 - 인터뷰",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "rabbi-criticizes-uk-pa-policy",
+      "title_ko": "테러로 가족 잃은 랍비, 영국의 팔레스타인자치정부 정책 비판",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "psychics-iran-war-predictions",
+      "title_ko": "이스라엘 점성술사·심령술사들, 이란 전쟁에 엇갈린 예측",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "north-korea-iran-missile-help",
+      "title_ko": "보도: 북한, 지하 미사일 도시서 이란 발사체계 개발 지원",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "state-comptroller-elron",
+      "title_ko": "이민자 임시수용소에서 감사원장으로: 대법원 비주류 요세프 엘론의 부상",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "bat-yam-mob-attack-sentencing",
+      "title_ko": "2021년 바트얌 아랍인 집단폭행 사건 5명에 최고 7년형",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "eran-haya-extradition",
+      "title_ko": "이스라엘 '대부'의 아들 수갑 차고 귀환: 에란 하야 범죄인 인도의 내막",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "fattal-hotel-acquisitions",
+      "title_ko": "파탈, 신규 호텔 3곳에 1억6천만 유로 투자",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "tase-selloff",
+      "title_ko": "수요일: TASE 매도세 지속, 반도체주 하락 주도",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "blue-bird-flights-expansion",
+      "title_ko": "블루버드, 12월 이스라엘-유럽 항공편 두 배로 확대",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "wiz-founders-tax-dispute",
+      "title_ko": "이스라엘 국세청, 위즈 창업자들에 120억 셰켈 추가 과세 요구",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "teva-kfar-saba-layoffs",
+      "title_ko": "테바, 크파르사바 공장서 150명 감원",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "norstar-discount-share-offering",
+      "title_ko": "궁여지책: 카츠만의 노르스타, 대폭 할인가에 주식 발행",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "strauss-streamlining",
+      "title_ko": "슈트라우스, 효율화 프로그램 착수",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    }
+  ],
+  "unavailable_sources": [
+    "Kan (KAN News)",
+    "N12 (Channel 12)"
+  ]
+}

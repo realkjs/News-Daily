@@ -1,0 +1,864 @@
+{
+  "team": "fr",
+  "headlines": [
+    {
+      "source": "France 24",
+      "title_original": "Nvidia : Trump impliqué, jusqu'où ?",
+      "title_ko": "엔비디아: 트럼프 개입, 어디까지인가?",
+      "summary_ko": "젠슨 황이 엔비디아 경영에 극적으로 복귀했으며, 전날 회사 행동강령 위반과 중대한 실수를 인정하며 직원들에게 사과했다. 중국 스파이 의혹을 받는 앨리시아 황과의 관계를 둘러싼 논란에도 도널드 트럼프가 (지원을) 거듭했다는 내용을 다루는 토론 프로그램이다.",
+      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261125-nvidia-trump-impliqu%C3%A9-jusqu-o%C3%B9",
+      "published": "2026-11-26T05:45:14+09:00",
+      "tags": [
+        "business",
+        "stocks",
+        "geopolitics"
+      ],
+      "event": "nvidia-huang-trump-rescue",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "À Ankara, le maréchal Haftar salue une \"nouvelle phase des relations\" avec Erdogan",
+      "title_ko": "앙카라에서 하프타르 원수, 에르도안과의 '관계의 새 국면' 환영",
+      "summary_ko": "에르도안 튀르키예 대통령이 수요일 리비아 동부를 장악한 칼리파 하프타르 원수를 처음으로 앙카라에 맞았다. 오랜 경쟁 관계였던 양측에서 하프타르 측은 '관계의 새 국면'이라고 평가했다.",
+      "url": "https://www.france24.com/fr/afrique/20261125-turquie-ankara-mar%C3%A9chal-haftar-salue-nouvelle-phase-relations-avec-erdogan-est-libye",
+      "published": "2026-11-26T05:41:26+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "haftar-erdogan-ankara",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Non,\"toute la diaspora chinoise\" n'est pas composée d'espions, mais elle subit une pression de Pékin",
+      "title_ko": "'중국 디아스포라 전체'가 스파이는 아니지만, 베이징의 압박을 받고 있다",
+      "summary_ko": "11월 13일 프랑스앵포 방송에서 출연자들이 프랑스 내 중국 디아스포라 전체가 잠재적 스파이라고 주장했다. 전문가들은 이 주장이 부정확하고 역효과를 낸다며, 첩보 활동의 책임은 중국 국가에 있고 디아스포라는 오히려 피해자인 경우가 많다고 지적했다.",
+      "url": "https://www.france24.com/fr/france/20261125-non-toute-diaspora-chinoise-pas-compos%C3%A9e-espions-mais-subit-pressions-p%C3%A9kin",
+      "published": "2026-11-26T04:57:28+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "chinese-espionage-france",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Un bilan toujours plus alarmant",
+      "title_ko": "갈수록 심각해지는 통계",
+      "summary_ko": "11월 25일 세계 여성폭력 추방의 날을 맞아, 2025년 전 세계에서 여성과 소녀 4만 7천 명이 가까운 사람에게 살해됐다는 수치가 제시됐다. 여성폭력 전문 변호사 로렌 케스티오가 사법 대응을 분석한다.",
+      "url": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261125-un-bilan-toujours-plus-alarmant",
+      "published": "2026-11-26T03:36:07+09:00",
+      "tags": [],
+      "event": "violence-against-women-day",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "L’Afrique en tête des féminicides dans le monde en 2025",
+      "title_ko": "2025년 세계 여성살해, 아프리카가 최다",
+      "summary_ko": "유엔에 따르면 아프리카가 여성살해 피해가 가장 큰 지역이다. 전 세계적으로 매시간 5명의 여성이 배우자나 가까운 사람에게 살해돼 2025년 피해자가 약 5만 명에 이른다.",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261125-l-afrique-en-t%C3%AAte-des-f%C3%A9minicides-dans-le-monde-en-2025",
+      "published": "2026-11-26T03:30:02+09:00",
+      "tags": [],
+      "event": "violence-against-women-day",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "L'actu en dessin : le 25 novembre, une journée contre les violences faites aux femmes et aux filles",
+      "title_ko": "그림으로 보는 뉴스: 11월 25일, 여성·소녀 폭력 추방의 날",
+      "summary_ko": "매년 11월 25일은 세계 여성폭력 추방의 날이다. 유엔에 따르면 2025년 약 4만 7천 명의 여성과 소녀가 배우자나 가족에게 살해됐다.",
+      "url": "https://www.france24.com/fr/france/20261125-actu-dessin-25-novembre-journ%C3%A9e-contre-violences-faites-femmes-filles-physiques-sexuelles-sexistes-psychologiques",
+      "published": "2026-11-26T03:16:15+09:00",
+      "tags": [],
+      "event": "violence-against-women-day",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "CAN 2025 : à Dakar, le verdict du TAS ne surprend pas les supporters",
+      "title_ko": "CAN 2025: 다카르, CAS 판결에 놀라지 않는 팬들",
+      "summary_ko": "세네갈이 (아프리카 네이션스컵) 우승을 되찾았다. 다카르 팬들은 만족과 정의 실현이라는 반응을 보이며, 수개월간의 논란 끝에 나온 결론에 놀라지 않았다.",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261125-can-2025-%C3%A0-dakar-le-verdict-du-tas-ne-surprend-pas-les-supporters",
+      "published": "2026-11-26T02:37:10+09:00",
+      "tags": [],
+      "event": "can-2025-cas-verdict",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Artex, un général d'agents IA soupçonné d’avoir aidé à pirater la CIA",
+      "title_ko": "CIA 해킹 지원 의혹 받는 'AI 에이전트 장군' 아르텍스",
+      "summary_ko": "미국 수사당국은 최근 CIA 서버에 침투한 해커들이 아르텍스를 이용했다고 본다. 아르텍스는 AI를 활용한 해킹 사건에서 점점 자주 거론되며, 명령에 따르는 AI 에이전트 군대의 장군에 비유된다.",
+      "url": "https://www.france24.com/fr/%C3%A9co-tech/20261125-artex-g%C3%A9n%C3%A9ral-agents-ia-soup%C3%A7onn%C3%A9-avoir-aid%C3%A9-pirater-cia",
+      "published": "2026-11-26T01:46:05+09:00",
+      "tags": [
+        "industry",
+        "geopolitics"
+      ],
+      "event": "artex-ai-cia-hack",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "Ligue des champions : le PSG toujours accroché par la Roma, Lille proche d'égaliser face au Bayern... Suivez le multiplex avec nous",
+      "title_ko": "챔피언스리그: PSG, 로마와 접전 / 릴, 바이에른 상대로 동점 근접… 멀티플렉스 중계",
+      "summary_ko": "PSG는 로마를 상대로 무패 행진을 이어가려 하고, 릴(LOSC)은 대회 첫 승을 노린다.",
+      "url": "https://www.franceinfo.fr/sports/directs/direct-ligue-des-champions-le-psg-recoit-la-roma-lille-vise-l-exploit-face-au-bayern-munich-suivez-et-commentez-le-multiplex-avec-nous_8297991.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-26T06:07:38+09:00",
+      "tags": [],
+      "event": "champions-league-psg-roma-lille-bayern",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "En Egypte, un incendie dans l'agglomération du Caire fait au moins 30 morts",
+      "title_ko": "이집트 카이로 광역권 화재로 최소 30명 사망",
+      "summary_ko": "국영 매체에 따르면 연료를 실은 트럭이 교통량이 많은 고속도로에서 전복되면서 불이 났다.",
+      "url": "https://www.franceinfo.fr/monde/afrique/egypte/en-egypte-un-incendie-dans-l-agglomeration-du-caire-fait-au-moins-30-morts_8300229.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-26T05:54:46+09:00",
+      "tags": [],
+      "event": "cairo-fuel-truck-fire",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "L'Iran accuse Israël de chercher à tromper les Etats-Unis en affirmant que Téhéran développe des armes chimiques",
+      "title_ko": "이란, '테헤란이 화학무기 개발' 주장한 이스라엘이 미국을 속이려 한다고 비난",
+      "summary_ko": "이스라엘 퇴임 국방장관 이스라엘 카츠는 화요일 이란이 화학무기를 개발하고 있으나 '아직 이스라엘 공격에 사용할 능력은 확보하지 못했다'고 주장했다.",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-iran-accuse-israel-de-chercher-a-tromper-les-etats-unis-en-affirmant-que-teheran-developpe-des-armes-chimiques_8300259.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-26T05:53:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "iran-israel-chemical-weapons-claim",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "La France insoumise refuse la proposition de rencontre des anciens Insoumis de l'Après",
+      "title_ko": "굴복하지 않는 프랑스(LFI), 탈당파 '라프레'의 회동 제안 거부",
+      "summary_ko": "2024년 '숙청' 이후 라프레를 만든 전 LFI 인사들은 당원 투표를 거쳐 대선에서 장뤼크 멜랑숑 후보를 지지할 예정이다.",
+      "url": "https://www.franceinfo.fr/politique/la-france-insoumise/la-france-insoumise-refuse-la-proposition-de-rencontre-des-anciens-insoumis-de-l-apres_8300331.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-26T05:49:37+09:00",
+      "tags": [],
+      "event": "lfi-lapres-meeting-refused",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "Des espions chinois se sont-ils fait passer pour des touristes dans un village de Gironde ?",
+      "title_ko": "중국 스파이들이 지롱드 마을에서 관광객 행세를 했나?",
+      "summary_ko": "지롱드의 한 작은 마을에서 첩보 의혹 사건이 벌어졌다. 지난 1월 임대 주택 정원의 2m 위성 안테나가 의심을 샀고, 두 임차인이 베이징을 위해 군사 기밀 정보를 수집하려 한 혐의를 받는다.",
+      "url": "https://www.franceinfo.fr/monde/chine/des-espions-chinois-se-sont-ils-fait-passer-pour-des-touristes-dans-un-village-de-gironde_8300283.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-26T05:28:09+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "chinese-espionage-france",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "Google accusé d'avoir coupé 250 000 arbres sans autorisation en Finlande",
+      "title_ko": "구글, 핀란드에서 허가 없이 나무 25만 그루 벌목 혐의",
+      "summary_ko": "구글이 데이터센터 건설을 위해 필요한 허가를 모두 받지 않고 나무 25만 그루를 벌목했다는 혐의를 받는다. 핀란드 당국은 공사 중단을 명령하고 형사 수사에 착수했다.",
+      "url": "https://www.franceinfo.fr/internet/google/google-accuse-d-avoir-coupe-250-000-arbres-sans-autorisation-en-finlande_8299911.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-26T05:00:01+09:00",
+      "tags": [
+        "industry",
+        "business",
+        "legislation"
+      ],
+      "event": "google-finland-datacenter-trees",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "Présidentielle 2027 : \"La démocratie, c’est du vote\", déclare David Lisnard, qui refuse la proposition d’Edouard Philippe de débattre à la place d'une primaire",
+      "title_ko": "2027 대선: 다비드 리스나르 '민주주의는 투표', 경선 대신 토론하자는 에두아르 필리프 제안 거부",
+      "summary_ko": "칸 시장 리스나르가 수요일 프랑스시장협회 회장에 재선됐으며, 프랑스2 '20시 뉴스'에 출연했다.",
+      "url": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-lance-dans-la-course-a-l-elysee-david-lisnard-fixe-dans-la-journee-sur-sa-reelection-a-la-tete-de-l-association-des-maires-de-france_8298708.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-26T04:52:13+09:00",
+      "tags": [],
+      "event": "lisnard-presidential-campaign",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "\"L'eau est montée de partout dans le lotissement\" : un mois de pluie en six heures dans le sud-est de la France",
+      "title_ko": "'단지 곳곳에서 물이 차올랐다': 프랑스 남동부에 6시간 동안 한 달 치 비",
+      "summary_ko": "11월 25일 수요일 바르와 부슈뒤론에 격렬한 뇌우가 덮쳤다. 여러 도로에서 물이 빠르게 불어나 통행이 차단되고 운전자 수십 명이 대피했다.",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/l-eau-est-montee-de-partout-dans-le-lotissement-un-mois-de-pluie-en-six-heures-dans-le-sud-est-de-la-france_8300235.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-26T04:49:05+09:00",
+      "tags": [],
+      "event": "southeast-france-storms",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Drogue : la traque française jusqu'au bout du monde",
+      "title_ko": "마약: 세계 끝까지 이어지는 프랑스의 추적",
+      "summary_ko": "프랑스 당국의 마약 추적을 다룬 보도. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQjJTSUE5dzd2dEx1RkRGZDN2WlJsWXo4eW15eE5LdGszMGx0ZWFBR0l1NFRhU1dWdFBYZ3k1VkpVNERQcmhpdG5XaGhqS3ZadGhWdlJKUEk0ZjRRdXpWMXN2RmdsaEY4aU5Pb1gzVzQtdjUtX2tpcGxmaDI2Ukl6cjEtZEJWa0VRUGdSdUU2bGswY3VEQmZiN2lyVXdsUHd4SmwySGs3eS0zLWk5TWNUUEtaQU5uSmxBR2lyYTNZaGhDb0k?oc=5",
+      "published": "2026-11-26T05:55:12+09:00",
+      "tags": [],
+      "event": "french-drug-trafficking-manhunt",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "À 95 et 97 ans, toujours amoureux sur la piste de danse",
+      "title_ko": "95세와 97세, 댄스 플로어 위의 여전한 사랑",
+      "summary_ko": "95세·97세 커플의 사연. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlY5cWlaUkM4VUJPbWowOW5OeC1Xd0JxbGs4STVoWjhPaklzdnVQSEk4cDJ3R3I2UWRkOEpuYVNlc3FKWFk5MGktTEl4Z3ZXblZtQ25mbk92dnhIdVRsOV9TUXRRWFUwMVdLRGtHa3dWY1dXM0lyM04yZDlxUkZfc1RIX1h2eUprVnVBbzJiTXJkV2poNFNvYkt3ZXc0VEtKbHM4ZG9TOS1GeHdfa0k5QmpDYXFFXzFI?oc=5",
+      "published": "2026-11-26T05:25:09+09:00",
+      "tags": [],
+      "event": "elderly-dancing-couple",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "En Colombie, une prise d'otage au supermarché",
+      "title_ko": "콜롬비아 슈퍼마켓 인질극",
+      "summary_ko": "콜롬비아의 한 슈퍼마켓에서 인질극이 발생했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNTJwMUkzU3ZYVTVYak1YSGJMZjFmekpobGx0Z2xUTDlVYkhfbU9wbzZpeGtXRjdCTmpDV3gtUlJYcEs1akRZVlFwa1MydEhzbkdVdmUzNVR4cURoTnY3Q0VRZTB2OS12dThxTmtKSGZ5c3JOMTVBdWFLQ0RQNURSQnRjUTRHcHZxaWNhRXJ4RXYzWFBHM2dyOWdMSmU3ZFduYWZTeG5JeWtWdVpHUklZcHBJQQ?oc=5",
+      "published": "2026-11-26T05:25:08+09:00",
+      "tags": [],
+      "event": "colombia-supermarket-hostage",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "\"Il y a eu un rideau d'eau\" : les habitants des Bouches-du-Rhône surpris par un orage supercellulaire",
+      "title_ko": "'물의 장막이 쳐졌다': 부슈뒤론 주민들, 슈퍼셀 뇌우에 놀라",
+      "summary_ko": "부슈뒤론 지역에 슈퍼셀 뇌우가 발생했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaFBJcWxkOFpnNTFkOTMwTDhtZlRyeDU4TDR1MHBPUkY1dTRnbjZvSUJGbTVWaFVQNU82VVYtSmR0S2R3aFBkZHBISzQ5bDB2VjFYWG1lYVMtVG01OXBNSnpkTnNsT2xfeWljSnUyakQ1NURkWVZHcEFGTzF4c2E0RnZqcUZHQTE3NTFuYzFwNlEtcGhFQjdzSjhEWXpKMTlhVjcxY1o3MDUxVUxuMi1ncGdwUG1DdE9FdDFSNHkwaUt1eXRMSWdqdGk0OHFJMldlWGpmTGxEaVFPa0hKSDE0emdDSi12dTdFQk5HeA?oc=5",
+      "published": "2026-11-26T05:21:57+09:00",
+      "tags": [],
+      "event": "southeast-france-storms",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Réquisition de véhicule : les policiers en ont-ils le droit ?",
+      "title_ko": "차량 징발: 경찰에게 그럴 권한이 있나?",
+      "summary_ko": "경찰의 차량 징발 권한을 다룬 보도. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaVVZdWtXQTA5RGQzQWV6TWxEb1lYMDBMX2F0aFNCNmlnbjdmRG53OVBZeDh1U1BGZ1hWSDI0eUppeWVWenNxWkR1LWtVMDUtalZtMk5TZUZzZXYzeVg2dUlMN1ExMVBRV0tBT1lmXzZMSF96MG1KamtJTnd3RllTY3VPc3R2WGdWT1pZMV9qMUNiX3lVaURjVWFRZjRSVzk1a0tlLXpUMkl6NzFzcXpZVmVhd0JOeEtiXzhIT2JveU9yeE8yRW95c3RTTTFHZw?oc=5",
+      "published": "2026-11-26T05:15:16+09:00",
+      "tags": [],
+      "event": "police-vehicle-requisition",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "À seulement 14 ans, cet Américain est un prodige du piano",
+      "title_ko": "겨우 14세, 피아노 신동인 미국 소년",
+      "summary_ko": "14세 미국인 피아노 신동 소개. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb0p4VHAtcVE5Ykk5ZXk5SDJfdm9ZVm1uY2trMUkzdWFFdklEN3ZaRThpNFI0X21HWkVPTG5iMWtzeE1wWFJiMi1RbVliZkdLZGtZWnNKQTFOWkhuajVEck5mekF3RjctMTFNUDNnbW5zbld3dkJBcjF0S1RrRUxmMl9oX0ZaYlBzZkNDbXo4Z3dTOW5ZcTIzcGwxQmZBYVRxM2d0U2JtRktwdnhnV1dzZjJRa3RFdWxKWlE?oc=5",
+      "published": "2026-11-26T05:10:16+09:00",
+      "tags": [],
+      "event": "us-teen-piano-prodigy",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Miss France 2027 - \"J'ai la petite habitude de faire craquer mes doigts\" : l'interview décalée d'Emma Saïd Isouff, Miss Mayotte",
+      "title_ko": "미스 프랑스 2027 - '손가락 꺾는 버릇이 있어요': 미스 마요트 엠마 사이드 이수프 인터뷰",
+      "summary_ko": "미스 프랑스 2027 후보인 미스 마요트 엠마 사이드 이수프의 인터뷰. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbVplNUZpQmJlbjZZM214cXNPbmQyRkpzQ0NBM09HRWdPN2hieDhGaVkycXAtQ1pNUGJ5bm5ZdHd1a0xLbXZoSmFJVWlkRlJUT3FibEpuU3NRdHNDeVlxWl9ZUUx1OW9xQkQxNUFUNGdMNy1LLTljaDZGcV9YcFA0bmdBZFJOSExiWEltY0JfRmRVTVBDakE2MW4ySzlpV0VOX0wyN2lkaC1OR1NWQURNeHo3U0Vza0F6YzMyWGk3V0NLQmdMc3dfVFRxZ0dPRHdQaVBURWhGQ1hXXzIyc0hjajNrbjdOVUF1WFpLdnktZWEzanBDUkJB?oc=5",
+      "published": "2026-11-26T05:00:00+09:00",
+      "tags": [],
+      "event": "miss-france-2027",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "\"C'est un match qui nous va bien\" : David Lisnard, nouveau meilleur ennemi d'Edouard Philippe",
+      "title_ko": "'우리에게 잘 맞는 대결': 다비드 리스나르, 에두아르 필리프의 새 '최고의 적수'",
+      "summary_ko": "다비드 리스나르와 에두아르 필리프의 대결 구도를 다룬 보도. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQdFBnMXhlaTdqQTBYODUwdlY5R2lzNkozQklEMDN4ejFXSV9VelJZTUs4VjBPT21qYS12LWpNd2taeEdvQUhhckZwSENmcFVibWl4VU1Da1RTVmhmWm5hbVpqSlNIeGtsd21NR0k3QmhTMmM0QkVoRkJJZTkteXdzR3o5Q2NWVlNtYVVPZ3M2VDh6dlNXLUtXdWVLbWl4dFZ6SHlWUVZYMF8yR0JzRUJqWnpaUFVqMU9YN0ZTVEw5VXBNaVcxbEctdy1KVjM2SmVJVnJrYXBjUGQ5bHlYdzZCZWJQbF9ubHRMTXg4V2txclhSMkYxRndOQ2V2TWhZdFFtbnRWb0NZd1BVSmJTV0pHYTFUalhxWXM?oc=5",
+      "published": "2026-11-26T04:21:21+09:00",
+      "tags": [],
+      "event": "lisnard-presidential-campaign",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Pour Dominique de Villepin, candidat La France Humaniste à la présidentielle, un référendum est \"une respiration utile\"",
+      "title_ko": "'라 프랑스 위마니스트' 대선 후보 도미니크 드빌팽 '국민투표는 유용한 숨통'",
+      "summary_ko": "도미니크 드빌팽 '라 프랑스 위마니스트' 2027 대선 후보가 11월 25일 수요일 BFMTV에 출연했다.",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-pour-dominique-de-villepin-candidat-la-france-humaniste-a-la-presidentielle-un-referendum-est-une-respiration-utile_VN-202611250973.html",
+      "published": "2026-11-26T06:08:02+09:00",
+      "tags": [],
+      "event": "villepin-bfmtv-interview",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "David Lisnard \"prépare l'union des droites\" selon Dominique de Villepin, candidat La France Humaniste à la présidentielle",
+      "title_ko": "드빌팽 '다비드 리스나르는 우파 연합을 준비 중'",
+      "summary_ko": "도미니크 드빌팽 '라 프랑스 위마니스트' 2027 대선 후보가 11월 25일 수요일 BFMTV에 출연했다.",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-david-lisnard-prepare-l-union-des-droites-selon-dominique-de-villepin-candidat-la-france-humaniste-a-la-presidentielle_VN-202611250972.html",
+      "published": "2026-11-26T06:04:47+09:00",
+      "tags": [],
+      "event": "villepin-bfmtv-interview",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Présidentielle: Dominique de Villepin assure avoir \"un peu plus de 80.000 adhérents\" à son mouvement, La France Humaniste",
+      "title_ko": "대선: 드빌팽 '라 프랑스 위마니스트 당원 8만 명 조금 넘어'",
+      "summary_ko": "도미니크 드빌팽 '라 프랑스 위마니스트' 2027 대선 후보가 11월 25일 수요일 BFMTV에 출연했다.",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-dominique-de-villepin-assure-avoir-un-peu-plus-de-80-000-adherents-a-son-mouvement-la-france-humaniste_VN-202611250971.html",
+      "published": "2026-11-26T06:02:16+09:00",
+      "tags": [],
+      "event": "villepin-bfmtv-interview",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "David Lisnard, président de l'association des maires de France et candidat à la présidentielle: \"C'est un des symptômes de la confusion qui règne dans la vie politique\"; estime Dominique de Villepin, candidat La France Humaniste à la présidentielle",
+      "title_ko": "드빌팽, 시장협회장 겸 대선 후보 리스나르 두고 '정치권 혼란의 한 증상'",
+      "summary_ko": "도미니크 드빌팽 '라 프랑스 위마니스트' 2027 대선 후보가 11월 25일 수요일 BFMTV에 출연했다.",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-david-lisnard-president-de-l-association-des-maires-de-france-et-candidat-a-la-presidentielle-c-est-un-des-symptomes-de-la-confusion-qui-regne-dans-la-vie-politique-estime-dominique-de-villepin-candidat-la-france-humaniste-a-la-presidentielle_VN-202611250970.html",
+      "published": "2026-11-26T05:58:45+09:00",
+      "tags": [],
+      "event": "villepin-bfmtv-interview",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Présidentielle: \"Ne votez pas par colère, ne votez pas parce que vous en avez ras-le-bol\", demande Dominique de Villepin, candidat à l'élection présidentielle",
+      "title_ko": "대선: 드빌팽 '분노 때문에, 지긋지긋해서 투표하지 말라'",
+      "summary_ko": "대선 후보이자 전 총리인 도미니크 드빌팽이 11월 25일 수요일 BFMTV에 출연했다.",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-ne-votez-pas-par-colere-ne-votez-pas-parce-que-vous-en-avez-ras-le-bol-demande-dominique-de-villepin-candidat-a-l-election-presidentielle_VN-202611250969.html",
+      "published": "2026-11-26T05:56:19+09:00",
+      "tags": [],
+      "event": "villepin-bfmtv-interview",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Présidentielle 2027: Gabriel Attal \"espère\" que la réunion autour de Gérard Larcher permettra aux candidats de la droite et du centre d'\"avancer\" vers un départage",
+      "title_ko": "2027 대선: 가브리엘 아탈, 제라르 라르셰 주재 회동이 우파·중도 후보 단일화 '진전' 계기 되길 '희망'",
+      "summary_ko": "우파·중도 대선 후보들이 단일화 방식을 찾기 위해 제라르 라르셰를 중심으로 모일 예정이다. 아탈은 11월 25일 이 회동이 '진전'을 가져오길 바란다고 말했다.",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-2027-gabriel-attal-espere-que-la-reunion-autour-de-gerard-larcher-permettra-aux-candidats-de-la-droite-et-du-centre-d-avancer-vers-un-departage_AD-202611250967.html",
+      "published": "2026-11-26T05:55:38+09:00",
+      "tags": [],
+      "event": "right-center-candidate-selection",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Menaces russes sur l'Europe: Dominique de Villepin, candidat La France Humaniste à la présidentielle, propose la création \"d'une réserve citoyenne\"",
+      "title_ko": "러시아의 유럽 위협: 드빌팽, '시민 예비군' 창설 제안",
+      "summary_ko": "도미니크 드빌팽 '라 프랑스 위마니스트' 2027 대선 후보가 11월 25일 수요일 BFMTV에 출연했다.",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-menaces-russes-sur-l-europe-dominique-de-villepin-candidat-la-france-humaniste-a-la-presidentielle-propose-la-creation-d-une-reserve-citoyenne_VN-202611250968.html",
+      "published": "2026-11-26T05:54:52+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "villepin-bfmtv-interview",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Propos racistes et saluts nazis: la direction des douanes dénonce des faits \"d'une extrême gravité\" après les révélations de Mediapart sur une brigade de Haute-Marne",
+      "title_ko": "인종차별 발언·나치 경례: 메디아파르 폭로 후 세관 당국 오트마른 단속반 사건 '극히 중대'",
+      "summary_ko": "프랑스 세관은 BFMTV에 쇼몽(오트마른) 단속반 '요원 3명의 과실'을 언급했다. 1명은 일시 직무 배제 처분을 받았고 나머지 2명에 대한 절차는 '마무리 중'이다.",
+      "url": "https://www.bfmtv.com/police-justice/propos-racistes-et-saluts-nazis-la-direction-des-douanes-denonce-des-faits-d-une-extreme-gravite-apres-les-revelations-de-mediapart-sur-une-brigade-de-haute-marne_AD-202611250963.html",
+      "published": "2026-11-26T05:50:20+09:00",
+      "tags": [],
+      "event": "customs-brigade-racism-scandal",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Au Yémen, des positions des houthistes à nouveau bombardées ; des ports saoudiens pris pour cible en représailles",
+      "title_ko": "예멘, 후티 진지 재차 폭격… 보복으로 사우디 항구 공격받아",
+      "summary_ko": "사우디가 친이란 민병대가 장악한 호데이다 항을 폭격한 뒤, 후티는 지잔과 제다 항구를 공격했다고 밝혔다. 이들은 사우디 동부 정유시설 공격도 자신들 소행이라고 주장했다.",
+      "url": "https://www.lemonde.fr/international/article/2026/11/25/au-yemen-des-positions-des-houthistes-a-nouveau-bombardees-des-ports-saoudiens-pris-pour-cible-en-represailles_6815174_3210.html",
+      "published": "2026-11-26T05:48:56+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "yemen-houthi-saudi-strikes",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Technip Energies France jugée pour homicide involontaire après trois suicides de salariés",
+      "title_ko": "테크닙 에너지 프랑스, 직원 3명 자살 관련 과실치사 혐의로 재판",
+      "summary_ko": "에너지 산업 프로젝트 관리 그룹이 2015~2017년 사건으로 법정에 섰다. 검사와 피해자 측은 회사가 심리사회적 위험에 대응하지 않았다고 비판했다.",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/25/technip-energies-france-jugee-pour-homicide-involontaire-apres-trois-suicides-de-salaries_6815171_3234.html",
+      "published": "2026-11-26T04:27:53+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "technip-energies-trial",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Comment le candidat David Lisnard séduit les déçus d’une partie de la droite : « Avec Retailleau et Philippe, on continue sans rien changer »",
+      "title_ko": "리스나르 후보는 어떻게 우파 실망층을 끌어들이나: '레타이유·필리프로는 아무것도 바뀌지 않는다'",
+      "summary_ko": "이블린, 오드센, 론 지역에서 자기 진영 인사에 불만을 품은 다수 유권자가 '누벨 에네르지' 당에 합류하고 있다. 이들은 칸 시장의 반규제 담론과 기업인 이력을 높이 평가한다.",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/25/comment-le-candidat-david-lisnard-seduit-les-decus-d-une-partie-de-la-droite-avec-retailleau-et-philippe-on-continue-sans-rien-changer_6815170_823448.html",
+      "published": "2026-11-26T04:25:00+09:00",
+      "tags": [],
+      "event": "lisnard-presidential-campaign",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Hugues Moutouh, préfet du Loiret, démis de ses fonctions après la révélation de soupçons de fuites émanant du ministère de l’intérieur vers le RN",
+      "title_ko": "위그 무투 루아레 도지사, 내무부의 RN 정보 유출 의혹 폭로 후 해임",
+      "summary_ko": "이 고위 공무원은 수요일 국무회의에서 센에마른 도지사 피에르 오리로 교체됐다. 전 내무부 사무총장인 그는 이번 사안을 '정치적 성격의 공작'이라고 비난했다.",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/25/le-prefet-du-loiret-hugues-moutouh-demis-de-ses-fonctions-apres-la-revelation-de-soupcons-de-fuites-emanant-du-ministere-de-l-interieur-vers-le-rn_6815167_3224.html",
+      "published": "2026-11-26T04:11:02+09:00",
+      "tags": [],
+      "event": "loiret-prefect-dismissed",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "« Le sauvetage de Nvidia est bien plus dangereux que celui des banques après la crise de 2008 »",
+      "title_ko": "'엔비디아 구제는 2008년 금융위기 후 은행 구제보다 훨씬 위험하다'",
+      "summary_ko": "역사학자 해럴드 제임스는 르몽드 기고문에서 도널드 트럼프가 폭락을 막기 위해 젠슨 황을 구한 것은 매우 위험한 개입주의라고 지적하며, 18세기 존 로의 파국 등 선례를 상기시켰다.",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/25/le-sauvetage-de-nvidia-est-bien-plus-dangereux-que-celui-des-banques-apres-la-crise-de-2008_6815165_3232.html",
+      "published": "2026-11-26T03:58:15+09:00",
+      "tags": [
+        "business",
+        "stocks",
+        "forecast"
+      ],
+      "event": "nvidia-huang-trump-rescue",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Mouvement lycéen : plus de 400 élèves exclus définitivement de leur établissement, sur les 3 000 procédures disciplinaires engagées",
+      "title_ko": "고교생 시위: 징계 절차 3,000건 중 400명 이상 영구 퇴학",
+      "summary_ko": "장관은 '나무가 숲을 가리게 하지 말라'며 대다수 학생은 비난받을 행동을 하지 않았다고 강조했다.",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/25/mouvement-lyceen-plus-de-400-eleves-exclus-definitivement-de-leur-etablissement_6815162_3224.html",
+      "published": "2026-11-26T03:17:25+09:00",
+      "tags": [],
+      "event": "lycee-movement-expulsions",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "La nouvelle traduction des « Mots de la tribu » ravive la saveur orale de ce grand roman autobiographique de Natalia Ginzburg",
+      "title_ko": "「가족 어휘」 새 번역본, 나탈리아 긴츠부르그 자전 소설의 구어적 맛을 되살리다",
+      "summary_ko": "1991년 사망한 이탈리아 작가의 걸작이 「가족 어휘(Lexique familial)」라는 제목으로 새로 출간됐다. 1920~40년대 토리노의 반파시스트 가족 이야기를 다룬다.",
+      "url": "https://www.lemonde.fr/livres/article/2026/11/25/la-nouvelle-traduction-des-mots-de-la-tribu-ravive-la-saveur-orale-de-ce-grand-roman-autobiographique-de-natalia-ginzburg_6815160_3260.html",
+      "published": "2026-11-26T03:00:09+09:00",
+      "tags": [],
+      "event": "natalia-ginzburg-translation",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "EN DIRECT, PSG-AS Roma et Lille-Bayern Munich : les Parisiens sont revenus à niveau, les Lillois manquent d’égaliser dès la reprise, suivez la Ligue des champions",
+      "title_ko": "[생중계] PSG-AS 로마, 릴-바이에른 뮌헨: 파리 동점, 릴 후반 초 동점 기회 놓쳐",
+      "summary_ko": "챔피언스리그 무패이자 2연속 우승팀 PSG는 부상한 데지레 두에 없이 로마를 상대한다. 유럽 대회 첫 승을 노리는 릴은 바이에른을 홈에서 맞는다.",
+      "url": "https://www.lemonde.fr/sport/live/2026/11/25/en-direct-psg-as-roma-et-lille-bayern-munich-suivez-les-matchs-de-ligue-des-champions-de-football_6815159_3242.html",
+      "published": "2026-11-26T03:00:07+09:00",
+      "tags": [],
+      "event": "champions-league-psg-roma-lille-bayern",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "Les Etats-Unis autorisent SpaceX à déployer un million de satellites pour des centres de données orbitaux",
+      "title_ko": "미국, 스페이스X에 궤도 데이터센터용 위성 100만 기 배치 허가",
+      "summary_ko": "미국이 스페이스X에 궤도 데이터센터를 위한 위성 100만 기 배치를 허가했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNY2pIMWk0c1ZyMTJnX3lzQnZBeHpibmZFZXkwVXNOSW1GM3RUeXFjWkx6Z0J2YWJoRzRVSUZxRE05REd0cnc0STZjNFlZN0pvRjlobGx6bGNNSFAwRlNsc3l6dFI4Y3dpWGJhZnBpWDhyTGNsQmppVHltOHRfYnFfX0hQWW5SS3htQ255WC1OVFhlWjRET3Y1MzAxbWdhd3h5VXpXN2tpUzJ4X1IwQ2FpZjJkVk1vQkRPZXlaV2ZTV0lFNzJ1dnQ4S0ZTMXhnQnNYd0hhNGJiZzB5Z3lYckFJWUlaTjhjMm1qeWw0ZmkwenJOMG84SnhDMy12eVBtZHBNSFFibkNn?oc=5",
+      "published": "2026-11-26T05:06:10+09:00",
+      "tags": [
+        "industry",
+        "business",
+        "legislation"
+      ],
+      "event": "spacex-orbital-datacenter-satellites",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "Clariane va faire l'objet d'une prise de contrôle par ses deux premiers actionnaires, il faudra choisir son horizon d'investissement",
+      "title_ko": "클라리안, 1·2대 주주가 경영권 인수 예정… 투자 기간 선택해야",
+      "summary_ko": "클라리안이 최대 주주 2곳에 의해 경영권 인수 대상이 된다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQTkw3QVQ4ZmtkdlRubUlabXRHYlJkRVJmREk1blFDcFRPWXY0M0dwYWtTbHg4dTNfNFJpVGxQTGRaUWJieGh0X213YkFGVHNMMFY0emJISG9udERXNzUtX01UTW1idTRicEFQbWRWTTBPS3BmWGpNRHE2UkNPa2NGb3NaaXdfX3dERTFNakpwekVrSTdQdGZjcV9PV0h2LW5BbjNpTllIRzMtbm1xTURIZ2dFdnFLbnZEdnpPaTBMdEhzUjlNY0k3eDIxcTVZdFhQUlhfZHVEb3poeUJyU1N2UlFmS0xlb0dod0VJVXVVQWdYby1ZRHRtNjFlclozOTVaRjR3MF9XNDY3Y0prX19VUzJXMWtTVWhFaExEOGRuTXVKcXZlSjdKNQ?oc=5",
+      "published": "2026-11-26T04:06:44+09:00",
+      "tags": [
+        "business",
+        "stocks"
+      ],
+      "event": "clariane-takeover",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "Slack : l'histoire d'un jeu vidéo raté qui s'est transformé en or",
+      "title_ko": "슬랙: 실패한 비디오게임이 금으로 바뀐 이야기",
+      "summary_ko": "슬랙의 탄생 과정을 다룬 기사. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFJ0TlJ5VHBHdUdncW1mZWNHT2hnQzZ1Z1lrWUdDdElPNldXUG1LOFFTMXNQNzdLRUl0UlNIN1hVUG1jN0RheHFuWHNZZUJuTG5JQnRsNEI1VFJNYl9vU3Zobk03VTkzWmlicmtwa3VHaW1HS0V2U0NYaFBZVGZNQXU0TmFITmNocU9pbzVNa1ZHRlpiX2FlR29pQlFqem5qTm8zd1JXYllEWHhrODR2ZQ?oc=5",
+      "published": "2026-11-26T03:55:28+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "slack-history",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "Trigano, un bon châssis financier",
+      "title_ko": "트리가노, 탄탄한 재무 '섀시'",
+      "summary_ko": "트리가노의 재무 상태가 양호하다는 평가. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeHRmOHNIU2RMVDYwRFJDWkRZbm9lckZ0dlJGSXVxSk1leHo4SHpFSWFxN2g1UXIyUWJIRmc3cmhfN3ZYRzdIb2RNM3RYZmlWSVNBT1dYRmNBeWxvMFctVlh0MEg4eVlwczRCdWNRXzFISjhrR1BncDlVd3hRdG9NVS1sYnl2QUlZLXNtN0l6VlVlS0FLS1pOeTlQTmpNWnF0cnhB?oc=5",
+      "published": "2026-11-26T03:34:20+09:00",
+      "tags": [
+        "business",
+        "stocks"
+      ],
+      "event": "trigano-finances",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "Electrification, sortie du gaz : le gouvernement à l'offensive face à des élus locaux sceptiques",
+      "title_ko": "전기화·가스 퇴출: 회의적인 지방 의원들에 맞서 정부 공세",
+      "summary_ko": "정부가 전기화와 가스 퇴출 정책을 놓고 회의적인 지방 의원들을 설득하고 있다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRlpuODdranJSTjVjNXlqQnFMVWF0UGlDQ29hUTR0ekNBT2lQWGJKbmo5cnlEUUl3dGVXZ1ZqcXQ2cGpTTXFEUElGUjJDSlFqY0w5VFhjMFdFUUpkS3EyemgyTmtseTlQRzdGWHg1MG1DTFdCTDM0VWpJSzg5dzVvMEgxWEVmZlpSR29kNjRQc0NvYWtyT3MzbW1fT1c1NmRVLVoyRmxmRkpaNWltMnVmOHZGN2JFZV9DYVdsSXhZYlA1QXk1cm15bm1OS1VNNUktOF9SQ3BHX01ab250VkdKbG5EZXhIRV9RQVhxZnprQlNFcVZ6SnB2NA?oc=5",
+      "published": "2026-11-26T03:12:13+09:00",
+      "tags": [
+        "industry",
+        "legislation"
+      ],
+      "event": "france-electrification-gas-exit",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "Automobile : comment les quotas sur les voitures hybrides vont rebattre les cartes en Europe et pénaliser certains géants chinois",
+      "title_ko": "자동차: 하이브리드차 쿼터가 유럽 판도를 바꾸고 일부 중국 대기업에 불리한 이유",
+      "summary_ko": "하이브리드차 쿼터가 유럽 자동차 시장 판도를 바꾸고 일부 중국 업체에 불리하게 작용할 것이라는 분석. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQYkZfc3p6QjZkRVR0Q3otS29MRDdkWkF1V0g4Snh3QW0tcHlqczZLaWFlbGVyd01jR2xiOWRveG1PZDFsbTIzekhfME1VZk5UYnBFbk53V09vNE4tQlVfa2thaDl5MHRtXzhFbjZFYzlVWTlBT1RZMmpHUVlGTzdZNi0xeGZhVmJPaUpXNHBEWUN2eUhlazhac3FJUEdHd3hwZHpna0dWakFnODZQLXR6b1hscEs4N1J1VmIxVVBHOHktYlA5VXF3ZTJCNGxTWTdYYzRYdUhicV83UUxaYjR5UTNhS0ZlRk1Td3dFTEkzQzc3YkVoVndzQ19OLTNCT1FCNm5LV3hNNGF2dF9zQ1ktU0FnZEFKV0o5?oc=5",
+      "published": "2026-11-26T03:07:02+09:00",
+      "tags": [
+        "industry",
+        "legislation",
+        "geopolitics"
+      ],
+      "event": "eu-hybrid-car-quotas",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "Pourquoi Bayer retire un médicament vedette du marché allemand",
+      "title_ko": "바이엘이 독일 시장에서 간판 의약품을 철수하는 이유",
+      "summary_ko": "바이엘이 독일 시장에서 주력 의약품을 철수한다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaWg1bVowRTgtckE4cjViVmFhT1hNRU9wNFhSdlpQSW9HQXdGaVA0M1d3aXIxY08tbTgtYWRPdFdWN2RPdWVVNV9KazVOTExQLUZsZjdmajAwUEdfczFVU2pZWkZhSFJ6WnMxd2VkajJQWTJ0UWtkai00QVduN3lGaktDT3JwZW5OSkV5VUMtZVRNekl2QUk4ZkxRV0FWb2Q3UFFFYWc1ek10cjlDaGN5RUxNak00QjE2OUlsOVJRQ0xLOXh2cXRlUw?oc=5",
+      "published": "2026-11-26T03:02:29+09:00",
+      "tags": [
+        "industry",
+        "business"
+      ],
+      "event": "bayer-drug-withdrawal-germany",
+      "state_media": false
+    },
+    {
+      "source": "Les Echos",
+      "title_original": "« Nous sommes prêts à de nouvelles opérations » : Thierry Cotillard à l'offensive pour son deuxième mandat à la tête d'Intermarché",
+      "title_ko": "'새로운 거래에 준비됐다': 티에리 코티야르, 앵테르마르셰 대표 두 번째 임기 공세",
+      "summary_ko": "앵테르마르셰 대표 티에리 코티야르가 두 번째 임기를 맞아 추가 거래 의지를 밝혔다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQVmROZ0lOaktZWW5tQzNiQ3VmelIxX2djR1FabGxOay1naFdxTFA2ay1BOGJUbW9ER0NjUDh3QTFkbTlvS1RZSnZaM1RwOU1rX2wzcGtwcnNlSjYwczkzNWRTUFZhVHZiVkN5eEJLMnhTRUkwQXVUdmdXNDd2TUJxM0djWDJONjRiN3RVNXYzSlk1NmRVZjZqMzgyQUJVV180LURDS0oxMGlDeGJPOV81dHljTkRJOThjVUYwSHNDbUhqdEtNeGRuRmdJRjZWVUQwU3VDcndfcTFUTC1JMTNhdWRFZVUwSGlFM1VKaVlkSHMySzR2b1BmVjlZWVBEUDNSSVdENzgzdGV2LXJfdGlaMmNxLVNqRXRDa3Nmcg?oc=5",
+      "published": "2026-11-26T03:00:21+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "intermarche-cotillard",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "EN DIRECT - PSG-Rome : les Parisiens en grand danger, Safonov en sauveur, Dembélé accélère son échauffement",
+      "title_ko": "[생중계] PSG-로마: 위기의 파리, 구세주 사포노프, 뎀벨레 몸풀기 서둘러",
+      "summary_ko": "파리는 수요일 밤 파르크 데 프랭스에서 열리는 챔피언스리그 5차전에서 두에와 크바라츠헬리아 없이 AS 로마를 상대한다.",
+      "url": "https://www.lefigaro.fr/sports/football/live/ligue-des-champions/2026/2685456/paris-sg-as-roma",
+      "published": "2026-11-26T06:13:08+09:00",
+      "tags": [],
+      "event": "champions-league-psg-roma-lille-bayern",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "EN DIRECT - Présidentielle 2027 : Lisnard veut attirer des électeurs de «tous horizons y compris le RN»",
+      "title_ko": "[생중계] 2027 대선: 리스나르 'RN 포함 모든 성향' 유권자 끌어들이겠다",
+      "summary_ko": "오리종 대선 후보 에두아르 필리프는 화요일 우파 경쟁자 다비드 리스나르에게 TV 토론을 제안하며, 그가 극우와 충분히 선을 긋지 않는다고 비판했다.",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-david-lisnard-brigue-un-nouveau-mandat-de-president-des-maires-de-france-avant-de-viser-l-elysee-20261125",
+      "published": "2026-11-26T06:06:50+09:00",
+      "tags": [],
+      "event": "lisnard-presidential-campaign",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Manifestation du 17 octobre à Marseille : «Il a été demandé à la police municipale de relâcher» plusieurs pilleurs, affirme Benoît Payan",
+      "title_ko": "마르세유 10월 17일 시위: 브누아 파얀 '시 경찰에 약탈범 여러 명 석방 요구 있었다'",
+      "summary_ko": "마르세유 시장은 의회 조사위원회에서 10월 17일의 '처벌 면제'를 비판하며, 시 경찰이 체포한 약탈범들을 국가경찰 지시로 여러 차례 풀어줘야 했다고 주장했다.",
+      "url": "https://www.lefigaro.fr/marseille/manifestation-du-17-octobre-on-a-demande-a-la-police-municipale-de-relacher-plusieurs-pilleurs-a-marseille-affirme-benoit-payan-20261125",
+      "published": "2026-11-26T06:03:53+09:00",
+      "tags": [],
+      "event": "marseille-oct17-looters-inquiry",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Sénégal: la majorité parlementaire met en garde les fonctionnaires sur le budget qu’elle a rejeté",
+      "title_ko": "세네갈: 의회 다수파, 자신들이 부결시킨 예산 관련 공무원들에 경고",
+      "summary_ko": "세네갈은 국회의장 우스만 송코와 바시루 디오마예 파예 대통령 간의 공개적 갈등 속에 있다.",
+      "url": "https://www.lefigaro.fr/actualite-france/senegal-majorite-parlementaire",
+      "published": "2026-11-26T06:03:47+09:00",
+      "tags": [
+        "legislation",
+        "geopolitics"
+      ],
+      "event": "senegal-budget-standoff",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "L'émissaire américain Jared Kushner, gendre de Donald Trump, met en garde contre une «escalade» de la guerre en Ukraine",
+      "title_ko": "트럼프 사위 재러드 쿠슈너 미 특사, 우크라이나 전쟁 '확전' 경고",
+      "summary_ko": "러시아-우크라이나 협상의 어려움을 언급하며 쿠슈너는 현재 '영토 문제 교착'을 인정했다.",
+      "url": "https://www.lefigaro.fr/international/l-emissaire-americain-jared-kushner-genre-de-donald-trump-met-en-garde-contre-une-escalade-de-la-guerre-en-ukraine-20261125",
+      "published": "2026-11-26T05:56:16+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "kushner-ukraine-escalation-warning",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Icône féministe, terreur des masculinistes, sexualisée par les joueurs : Lucia, la protagoniste de GTA 6 qui bouleverse la représentation des femmes dans le jeu vidéo",
+      "title_ko": "페미니스트 아이콘이자 남성우월주의자들의 공포: GTA 6 주인공 루시아, 게임 속 여성 표현을 뒤흔들다",
+      "summary_ko": "배우이자 역도 선수 마니 L. 페레스가 연기한 GTA 6의 루시아 카미노스가 남성우월주의 커뮤니티를 자극하며 게임 속 여성 표현을 바꾸고 있다.",
+      "url": "https://madame.lefigaro.fr/societe/actu/icone-feministe-terreur-des-masculinistes-sexualisee-par-les-joueurs-lucia-la-protagoniste-de-gta-6-qui-bouleverse-la-representation-des-femmes-dans-le-jeu-video-20261125",
+      "published": "2026-11-26T05:55:36+09:00",
+      "tags": [],
+      "event": "gta6-lucia",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "PSG-AS Rome : en vidéo, le but de l’égalisation des Parisiens sur une tête puissante de Zabarnyi",
+      "title_ko": "PSG-AS 로마: 자바르니의 강력한 헤더 동점골 영상",
+      "summary_ko": "두에와 크바라츠헬리아가 빠진 파리가 수요일 밤 파르크 데 프랭스에서 챔피언스리그 5차전으로 로마를 맞았다.",
+      "url": "https://www.lefigaro.fr/sports/football/ligue-des-champions/psg-as-rome-en-video-le-but-de-l-egalisation-des-parisiens-sur-une-tete-puissante-de-zabarnyi-20261125",
+      "published": "2026-11-26T05:54:56+09:00",
+      "tags": [],
+      "event": "champions-league-psg-roma-lille-bayern",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Budget de l’UE : les exigences de l’Allemagne, chef de file des « frugaux » et premier contributeur net",
+      "title_ko": "EU 예산: '검소한 국가' 선두이자 최대 순기여국 독일의 요구",
+      "summary_ko": "유럽 최대 경제국 독일은 목요일부터 열리는 유럽이사회 특별 정상회의의 EU 예산 협상에서 모든 영향력을 행사할 계획이다.",
+      "url": "https://www.lefigaro.fr/international/budget-de-l-ue-les-exigences-de-l-allemagne-chef-de-file-des-frugaux-et-premier-contributeur-net-20261125",
+      "published": "2026-11-26T05:30:00+09:00",
+      "tags": [
+        "legislation",
+        "geopolitics"
+      ],
+      "event": "eu-budget-summit-germany",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "Conseils médicaux de l’IA : l’Agence du médicament rapporte huit cas d’effets indésirables, dont une hospitalisation",
+      "title_ko": "AI 의료 조언: 의약품청, 입원 1건 포함 부작용 8건 보고",
+      "summary_ko": "ANSM은 11월 25일 2024~2026년 사례 대부분이 항생제·파라세타몰 등 용량 오류 때문이었다고 밝혔다. AI 사용이 일상화되는 가운데 항상 전문가 의견을 구하라고 당부했다.",
+      "url": "https://www.liberation.fr/societe/sante/conseils-medicaux-de-lia-lagence-du-medicament-rapporte-huit-cas-deffets-indesirables-dont-une-hospitalisation-20261125_7OC3UPH5PBBG3ECEKECUKTTMN4/",
+      "published": "2026-11-26T06:00:00+09:00",
+      "tags": [
+        "industry"
+      ],
+      "event": "ansm-ai-medical-advice",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "Plus de 400 lycéens définitivement exclus de leur établissement depuis le début de la mobilisation",
+      "title_ko": "시위 시작 이후 고교생 400명 이상 영구 퇴학",
+      "summary_ko": "교육부 장관은 11월 25일, 9월부터 11월 1일까지 고교생 시위 중 폭력과 관련해 약 3,000건의 징계 절차가 진행됐다고 밝혔다.",
+      "url": "https://www.liberation.fr/societe/education/plus-de-400-lyceens-definitivement-exclus-de-leur-etablissement-depuis-le-debut-de-la-mobilisation-20261125_AVZFGSRE7RAFBEAIX7Z3EJNGHA/",
+      "published": "2026-11-26T05:35:11+09:00",
+      "tags": [],
+      "event": "lycee-movement-expulsions",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "Un vaste incendie fait au moins 30 morts au Caire",
+      "title_ko": "카이로 대형 화재로 최소 30명 사망",
+      "summary_ko": "이집트 수도를 둘러싼 순환도로에서 연료 탱크로리가 전복되면서 화재가 시작된 것으로 전해졌다.",
+      "url": "https://www.liberation.fr/international/afrique/au-moins-30-morts-dans-un-quartier-densement-peuple-du-caire-ravage-par-un-incendie-20261125_BIUTUS5IPJGKDCP7EFIWZVRBZQ/",
+      "published": "2026-11-26T05:16:30+09:00",
+      "tags": [],
+      "event": "cairo-fuel-truck-fire",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "Plus de 3 100 faits de violences sur des élus recensés depuis le début de l’année, selon l’Intérieur",
+      "title_ko": "내무부 '올해 선출직 대상 폭력 3,100건 넘어'",
+      "summary_ko": "로랑 뉘네스 장관은 11월 25일 피해 건수가 2025년 대비 24% 늘었다며 '극히 우려스러운' 수치라고 밝혔다.",
+      "url": "https://www.liberation.fr/politique/plus-de-3-100-faits-de-violences-sur-des-elus-recenses-depuis-le-debut-de-lannee-selon-linterieur-20261125_VONGG5N3WBD4ZPXHZQIDQ4NFV4/",
+      "published": "2026-11-26T04:47:58+09:00",
+      "tags": [],
+      "event": "violence-against-elected-officials",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "«Ce n’est pas notre guerre» : Teddy Riner veut stopper l’aide à l’Ukraine",
+      "title_ko": "'우리 전쟁이 아니다': 테디 리네르, 우크라이나 지원 중단 주장",
+      "summary_ko": "유도 챔피언 리네르는 11월 25일 시장 박람회에서 키이우 재정 지원과 비전투 임무 병력 파견을 비판하며 프랑스가 분쟁에 개입할 이유가 없다고 말했다.",
+      "url": "https://www.liberation.fr/sports/lukraine-nest-pas-notre-guerre-teddy-riner-se-prend-les-pieds-dans-le-tatami-avant-de-retropedaler-20261125_7JEBWXSMBRH3VHKPFGQKYILKCM/",
+      "published": "2026-11-26T04:37:07+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "teddy-riner-ukraine-aid",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "A Téhéran, la peur au coin de la rue",
+      "title_ko": "테헤란, 거리 모퉁이의 공포",
+      "summary_ko": "오랫동안 금지를 우회하는 데 능했던 이란인들 다수가 이제 공공 공간 통제를 되찾아가는 중세적 정권에 갇혔다고 느낀다는 사설.",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/a-teheran-la-peur-au-coin-de-la-rue-20261125_TFPSZYSFSFGYXICJUJB2QTENCQ/",
+      "published": "2026-11-26T04:19:13+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "tehran-fear-editorial",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "Dans les milieux aisés, une violence difficile à verbaliser",
+      "title_ko": "부유층에서도, 말하기 어려운 폭력",
+      "summary_ko": "부유한 환경 출신 여성들도 경제적 의존으로 상황이 악화되며 경제적 폭력의 피해자가 된다.",
+      "url": "https://www.liberation.fr/forums/dans-les-milieux-aises-une-violence-difficile-a-verbaliser-20261125_HBPN53YE4BEY3BS46M66TSGHJI/",
+      "published": "2026-11-26T04:12:00+09:00",
+      "tags": [],
+      "event": "violence-against-women-day",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "Grève des écoutantes du numéro 39 19 destiné aux femmes victimes de violences : «Comment peut-on être disponible pour écouter pendant trente-cinq heures ?»",
+      "title_ko": "여성폭력 피해자 상담전화 3919 상담원 파업: '35시간 동안 어떻게 경청할 수 있나'",
+      "summary_ko": "11월 25일 상담전화 인력의 절반 가까이가 파업했다. 이들은 낮은 임금, 불규칙한 근무시간, 끊임없는 성과 압박을 비판했다.",
+      "url": "https://www.liberation.fr/societe/droits-des-femmes/greve-des-ecoutantes-du-numero-39-19-destine-aux-femmes-victimes-de-violences-comment-peut-on-etre-disponible-pour-ecouter-pendant-trente-cinq-heures-20261125_6DRIR4HBUFC6FEXXRUXV6PFEXY/",
+      "published": "2026-11-26T04:06:03+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "violence-against-women-day",
+      "state_media": false
+    }
+  ],
+  "events": [
+    {
+      "event": "nvidia-huang-trump-rescue",
+      "title_ko": "트럼프의 엔비디아·젠슨 황 구제 논란",
+      "sources": [
+        "France 24",
+        "Le Monde"
+      ],
+      "count": 2
+    },
+    {
+      "event": "chinese-espionage-france",
+      "title_ko": "프랑스 내 중국 첩보 의혹",
+      "sources": [
+        "France 24",
+        "franceinfo (France 2)"
+      ],
+      "count": 2
+    },
+    {
+      "event": "violence-against-women-day",
+      "title_ko": "세계 여성폭력 추방의 날",
+      "sources": [
+        "France 24",
+        "Libération"
+      ],
+      "count": 2
+    },
+    {
+      "event": "champions-league-psg-roma-lille-bayern",
+      "title_ko": "챔피언스리그 PSG-로마, 릴-바이에른",
+      "sources": [
+        "Le Figaro",
+        "Le Monde",
+        "franceinfo (France 2)"
+      ],
+      "count": 3
+    },
+    {
+      "event": "cairo-fuel-truck-fire",
+      "title_ko": "카이로 연료 트럭 화재 최소 30명 사망",
+      "sources": [
+        "Libération",
+        "franceinfo (France 2)"
+      ],
+      "count": 2
+    },
+    {
+      "event": "lisnard-presidential-campaign",
+      "title_ko": "리스나르 대선 행보와 필리프와의 대립",
+      "sources": [
+        "Le Figaro",
+        "Le Monde",
+        "TF1 Info",
+        "franceinfo (France 2)"
+      ],
+      "count": 4
+    },
+    {
+      "event": "southeast-france-storms",
+      "title_ko": "프랑스 남동부 폭우·뇌우",
+      "sources": [
+        "TF1 Info",
+        "franceinfo (France 2)"
+      ],
+      "count": 2
+    },
+    {
+      "event": "villepin-bfmtv-interview",
+      "title_ko": "드빌팽 BFMTV 인터뷰",
+      "sources": [
+        "BFMTV"
+      ],
+      "count": 1
+    },
+    {
+      "event": "lycee-movement-expulsions",
+      "title_ko": "고교생 시위 관련 400여 명 퇴학",
+      "sources": [
+        "Le Monde",
+        "Libération"
+      ],
+      "count": 2
+    }
+  ],
+  "unavailable_sources": []
+}
