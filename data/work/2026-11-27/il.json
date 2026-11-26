@@ -1,0 +1,930 @@
+{
+  "team": "il",
+  "headlines": [
+    {
+      "source": "i24NEWS",
+      "title_original": "UK antisemitism adviser launches investigation into alleged anti-Jewish discrimination at BBC",
+      "title_ko": "영국 반유대주의 자문관, BBC 내 반유대 차별 의혹 조사 착수",
+      "summary_ko": "영국 반유대주의 자문관이 BBC에서 제기된 반유대 차별 의혹에 대한 조사에 착수했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbFFJX2R5MmxMNHZSSkZhNE1UTlIzR3BPQjVrRERENzFtVGRXQ05GaFBvZExHbnNncXZycGk2WFFuY1BkejVKMXdmZGRtaGJncHNwbmE1bUJXVGNQcklFaFN2LUtDVTNRTUVXel9EMGMwY1A3YThaUVUxejI3bHQ2U0drdHRxZWw0QnpOUTY0TmZCQVQ0eU9TRXdZcHRablEteWl3WWJha1dFeXJxUk1aOXlmQWwzOGVPNS1LWlRwcUxxYjRPbThzQ2V6emh4ZEZLUjdodU0xZEVVU1pKMlBfVGFVdjYzM1VvT2toazhCaEJwQQ?oc=5",
+      "published": "2026-11-27T04:11:00+09:00",
+      "tags": [],
+      "event": "uk-bbc-antisemitism-probe",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "UK Launches Census Of 100,000 Military Reservists Amid Growing Russian Threat",
+      "title_ko": "영국, 러시아 위협 고조 속 예비군 10만 명 실태 조사 착수",
+      "summary_ko": "영국이 러시아 위협 증대를 배경으로 군 예비군 10만 명에 대한 실태 조사를 시작했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN0lOaWpQWVEwd2NjLWtDcU9aUlV0SVd2MjB1ZG9MZllKUlNpZWVnTlVWTUFoMjF3NFp4QmIwR0JpR0tsQlNGNmJWTWVWT2MtTDk5WnNJc25VZDZVUEJLT0J2UndXTXNULW8wT2hTdFlEYl9sMzhkVmJVbVNmei1vLUpRRkM3bHlxMXJ1dUU0SG5jRDlLMVlNUUgzdFFXcmVuTFYzTTJrWTM5MkRnMnN4ZnpHNjBVTkxqMG5KTGFNSHgxdTRzWlRnSlFUVDhKV1E?oc=5",
+      "published": "2026-11-27T02:08:05+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "uk-reservist-census",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Two Italians killed in Iranian drone attack on Kuwait; FM Sa'ar says Tehran's 'unchecked aggression' must end",
+      "title_ko": "이란 드론의 쿠웨이트 공격으로 이탈리아인 2명 사망…사아르 외무장관 \"테헤란의 견제받지 않는 공격 끝나야\"",
+      "summary_ko": "이란의 쿠웨이트 드론 공격으로 이탈리아인 2명이 숨졌고, 사아르 이스라엘 외무장관이 이란의 공격 중단을 촉구했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTTVjNktnelBHa0htdkZPVngteGNRdHlZeTc3ZDFneURqRzc5RU82RzdydlZkY05qVUZGWklHZExzcVAteWNOaHJ1OU9QaHdhVzZtcGhqbFJiVldUY25xMFFBd0txT2VfYm1TLXJrczJVaEhOalZaenhtOUQ3R3ZrRV8zWEhsOVZvQzYtM1dJaW1yTmNTemd3TE5la3hMY0RiRFNtOEZyTTJ5NzRGRUEzblUwV2NGaWtzTkVVT1JocXBJTG1PQmxmSHRQb182cGpSczlpcEU1M0hjNnlweG1tX0dnYmFseVBGaFE?oc=5",
+      "published": "2026-11-27T00:52:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "iran-drone-attack-kuwait",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Eisenkot and Golan reach an understanding; Democrats to receive four ministries, including internal security",
+      "title_ko": "아이젠코트·골란 합의…민주당, 국내치안부 포함 장관직 4개 확보",
+      "summary_ko": "가디 아이젠코트와 야이르 골란이 합의에 이르러 민주당이 국내치안부를 포함한 4개 부처를 맡기로 했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTzBoZlNjR19sVG9sNk5tbkQyTV91ajdwemlBZERvQkI5OHhFcDFmcWZRQWNrZWNpOWJ2VG9Kdkd0Q2luZkg2dlF0bTVnSEpka3B1YzNmUG5TbVNnMmdnYno0OVRvVVZPZkNsblREaUhVZXhCeFJlRU9lYTJaTEdzTWNocF9mTDVnNWRLVS05dGtIMTdjTnFPaFBILTFPYjI3N3pOOVV6eEpZbDFPVG1pM3Z0Z2lrQWVLZXdPYmFFV0E5eGx1ZHVMcHp5cDdldGdiRzlKR1EzYTNsdmN5TkZqY01BM2lVQ0RIeW0yWEVxVWdidDRQZnpDbQ?oc=5",
+      "published": "2026-11-26T23:13:06+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "eisenkot-golan-coalition-deal",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Israel Hosts Joint US Drone Defense Trials For The First Time",
+      "title_ko": "이스라엘, 미국과 첫 합동 드론 방어 시험 개최",
+      "summary_ko": "이스라엘이 처음으로 미국과의 합동 드론 방어 시험을 주최했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLXR4NE51TlhzaFJzak1XckRFY2RQU2hyQnVzREhuQ2VxOEhnZ1h4ZjN3aXFDMDVqV0xVUTRrc0RRWkYzM2tVNUhBV3ZHM3VoUUlsRlFiZ3JSM0tWRUljTWdoN1JucTRkNGVXNGROX3dtZm5YQ1gzSGRNNE0yLV9JX1FJTFp2dDU2SkszNGRaektaOGZTTGEtWFc5X0F5SXQ5UU1kUXpEMHRGbGdKY0ZkNEZQX3VvQzJHaHdVblc3Zw?oc=5",
+      "published": "2026-11-26T18:59:00+09:00",
+      "tags": [
+        "geopolitics",
+        "industry"
+      ],
+      "event": "israel-us-drone-defense-trials",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Satellite Images Point To Houthi Fortifications Near Key Red Sea Shipping Route",
+      "title_ko": "위성사진, 홍해 주요 해상 항로 인근 후티 요새화 정황 포착",
+      "summary_ko": "위성사진에서 홍해 핵심 해운 항로 인근 후티 반군의 요새화 정황이 확인됐다는 보도다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcW53cVRvYmMzSzg5blJpMmd2OWFIeWJ6TE82TmNGVTFYS0hIaERoUG9QbFZTdTlEZFF6WWxGRlQ0RmdZbkF0SEgyM0x1SVMxdGVxSS10YjNObEhSRVlVcy0xRUtiSlZmaXdBU3RIMVl4RmtrdVZQbEVzandOOXp1Z2kweFJtd056a01zWFIwRHl2cGRIaDFzbXZ0NkZlWkpiWldlNU92SW1wZC1RT2w3T3hnUk5vY0UxODlVdUtGR0Q0WlZNb2c?oc=5",
+      "published": "2026-11-26T18:26:29+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "houthi-red-sea-fortifications",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "LIVE BLOG",
+      "title_ko": "라이브 블로그",
+      "summary_ko": "i24NEWS 실시간 블로그 항목이다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ra1RtcnJsb1AyTG5VaDRFd1NmUk9xUFFoQXFESzlyRmlqd3c2QmcwdVVNZ0xPaUlxdjZRekYxSWo4QjVwVWlaM3hBQzl1WF80MlJyZlpqNGJlWDk3amwxNk9vNjRJSE9hOWkweU5B?oc=5",
+      "published": "2026-11-26T17:37:20+09:00",
+      "tags": [],
+      "event": "i24-live-blog",
+      "state_media": false
+    },
+    {
+      "source": "i24NEWS",
+      "title_original": "Satellite Images Reveal The Rapid Construction Of An Underground Site In Iran",
+      "title_ko": "위성사진, 이란 지하 시설의 급속한 건설 드러내",
+      "summary_ko": "위성사진에서 이란 내 지하 시설이 빠르게 건설되고 있는 모습이 확인됐다는 보도다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaS13TllVblNyYzA3VDZFblZlS1ZOYzZpTXlQc3lYUXc2U3RodTJFYlpuNUZ1bzVFOEt3dnh5N0gtOG45ZmZNX0t0dFM5TnVyZXlGODgtdE16Uk5vcDU2cDEtNkxrVVpZTVdRc1JXZWZjOXkzZ0JNeDE3SWNEeFd0UnM2eWVvclcwVUxNSFFkS0x2aGpkSlMtR19DYllBZTBfelJXTXR4ZkVjV2wwNW1aNEdFYTVuVVk0UjFwMS1MX2FRd3pOMnBFeDRESkgxc1lJS3Z4TVpMdEZPbml2c3c?oc=5",
+      "published": "2026-11-26T15:47:00+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "iran-underground-site-construction",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "Beyond COP31: Why the Mediterranean Must Lead Through Climate Reciprocity",
+      "title_ko": "COP31 이후: 지중해가 '기후 호혜성'으로 주도해야 하는 이유",
+      "summary_ko": "COP31 이후 지중해 지역의 기후 협력 주도 필요성을 다룬 블로그 기고다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcDZUSlFhQzZkWGY3OXcyQTVBZ29SVklhU21xMUFIdmViQ0poVDRCYlpNUmlHejBMNVF2Z3Zpb0Qtdmc2Rk9fWjhZcjVlQ0k4cVlFa1pPWk9uWFhaajR3ZTN4eFlwLUdMbWFzVjd5TXdTbjVVRXNmWHM5RWFoQWpWS0JIdUxWaTJMaFprMGFWTGJFcUlJNy1ZbUVLMFJObHVXbG5OYWIxM1k?oc=5",
+      "published": "2026-11-27T05:16:00+09:00",
+      "tags": [],
+      "event": "toi-blog-cop31-mediterranean",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Blogs: Thanksgiving Today! Thanksgiving Tomorrow?",
+      "title_ko": "블로그: 오늘의 추수감사절! 내일의 추수감사절?",
+      "summary_ko": "추수감사절을 주제로 한 블로그 기고다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LaEpJSTI5Qlpsb0ZMM0dGeTE0WEJ0Y0tSZ2lBOXYyMVhlVU1iaTh4QmVRZWg5NUNqZ2FEOFM3U0wza2tnNTlYRF92aXIwQm9SemFla044YzJoeTlLaDYwb3QxUFNxRHBLQlZac1c1WnVtdU1xMTN0eDU1cXpHUQ?oc=5",
+      "published": "2026-11-27T04:54:00+09:00",
+      "tags": [],
+      "event": "toi-blog-thanksgiving",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "‘Marginal’ Doors",
+      "title_ko": "'주변부'의 문들",
+      "summary_ko": "타임스오브이스라엘 블로그 기고다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnelFQUWNsdG5pVlVRa2kyQ0RZeGs3UFhpYkh1dDlCM042TzJ1cnVOSHpIcHhfbmVqNXJzVW1temNBT21wTHBRM1ZGQmNfUzNRT29kRk1abW40R00?oc=5",
+      "published": "2026-11-27T04:17:00+09:00",
+      "tags": [],
+      "event": "toi-blog-marginal-doors",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Blogs: Justice Is Not on Demand",
+      "title_ko": "블로그: 정의는 주문형이 아니다",
+      "summary_ko": "정의를 주제로 한 블로그 기고다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ITEFJbmo1WUdJU2JoUzZUS0RFRUxpMUhwQTVBWEEzTk1PU193TUtQdU8wblJrZDZqOWdTcFoyWjFvNFhmbmg0Wkk3VUF5QUZHdjNvTE5aX3B4aS1nLXZfQ3hlbGhaakVE?oc=5",
+      "published": "2026-11-27T04:16:00+09:00",
+      "tags": [],
+      "event": "toi-blog-justice",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The incredible inner dynamic of Chabad",
+      "title_ko": "하바드(Chabad)의 놀라운 내적 역동성",
+      "summary_ko": "유대교 하바드 운동을 다룬 블로그 기고다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vTU50dkJBaE1QUjMtTENqX2hfODFqRVFWWW0wRU5LZkFlTzduSXdEXzd5b01IZmlfcTFmYjd6VFpLY3NlT256YWVTOHlQNnBMMnhRbDNwdWx4YnZTTnQ0cDVWZjhxbmtQbDlUTWxhdzIzUFZXMHFWWVRDRQ?oc=5",
+      "published": "2026-11-27T04:14:00+09:00",
+      "tags": [],
+      "event": "toi-blog-chabad",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "Parshas Vayishlach: You Have Ruined Me In Their Eyes",
+      "title_ko": "주간 토라 '바이이슐라흐': 너희가 나를 그들의 눈에 추하게 만들었다",
+      "summary_ko": "주간 토라 본문 해설 기고다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTDVFa1R6QWstWktZTEtfNHlPSW9vXzRlcEplczZseDZFR1NlM1p6RlNLRHI3M1RPb3RsekZfTUlTejViSkNHZHE1U3pXbFY1ZncyREU1aUQ4bUFNQUFfbkdnU3RwT2ZXVzh5RnRKTFVEeTNRWmJ2LU9HN3EwbWRBbXhxaEpLM2k4RTFkOQ?oc=5",
+      "published": "2026-11-27T04:12:00+09:00",
+      "tags": [],
+      "event": "toi-blog-vayishlach",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "Judaism Was Never Meant to Be a Religion",
+      "title_ko": "유대교는 애초에 종교로 의도된 것이 아니었다",
+      "summary_ko": "유대교의 성격을 논한 블로그 기고다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrdXdESU5iQjVJYWx0OFJ3NWczU2FtS3FMZ3hzQ3FNMm5uQWE3R0kySV9nS2hKRGtVQTM4V1RucFdYMVQ2QnZDNER6RVpmNUZjUFlkRTlEVU1XN0lHdVhRaWdGRVRLTWFTcHdCQ2hEcm1YU0t6cVk1bE5PTWZCdw?oc=5",
+      "published": "2026-11-27T03:55:00+09:00",
+      "tags": [],
+      "event": "toi-blog-judaism",
+      "state_media": false
+    },
+    {
+      "source": "Times of Israel",
+      "title_original": "The Blogs: What’s In Your Basket?",
+      "title_ko": "블로그: 당신의 바구니에는 무엇이 있나?",
+      "summary_ko": "타임스오브이스라엘 블로그 기고다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTTm1KWDMwai12QmNSc0hOejVzYmc3ZHA0bnpubUNOVHFXbEhiUmhUdlBVOHZNM01iLXIxdVdmR2ltUkZRWFpjQ2RwSVJNVnRWbm5XS2pEbVVmYmxLWkFvTVJjZw?oc=5",
+      "published": "2026-11-27T03:53:00+09:00",
+      "tags": [],
+      "event": "toi-blog-basket",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Benjamin Netanyahu's best day in a decade is a test for the opposition",
+      "title_ko": "네타냐후의 10년 만의 최고의 날은 야권에 대한 시험대",
+      "summary_ko": "친네타냐후 우파는 모든 사실을 사법부 무력화라는 목적에 맞춰 걸러 볼 것이며, 반대 진영은 같은 함정에 빠지지 말아야 한다는 논평이다.",
+      "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-26/ty-article-magazine/.premium/benjamin-netanyahus-best-day-in-a-decade-is-a-test-for-the-opposition/000001a2-1962-d62f-a5ff-df6b07030000",
+      "published": "2026-11-27T05:40:05+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "netanyahu-opposition-test",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "After 33 years: Tel Aviv Central Bus Station bridges to be dismantled in 2027",
+      "title_ko": "33년 만에: 텔아비브 중앙버스터미널 연결 교량 2027년 철거",
+      "summary_ko": "터미널 서쪽 교량 철거가 2027년 4월까지 이어지고, 같은 해 후반 북쪽·남쪽 교량도 철거된다. 교량은 터미널처럼 오랫동안 환경·교통 문제로 지적돼 왔다.",
+      "url": "https://www.haaretz.com/israel-news/2026-11-26/ty-article/.premium/after-33-years-tel-aviv-central-bus-station-bridges-to-be-dismantled-in-2027/000001a2-185b-d205-a1ef-3f5f6f030000",
+      "published": "2026-11-27T05:33:54+09:00",
+      "tags": [],
+      "event": "tel-aviv-bus-station-bridges",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Herzog brought his son along on official Rwanda flight, kept public in the dark",
+      "title_ko": "헤르조그 대통령, 르완다 공식 방문 전용기에 아들 동행…대중에 알리지 않아",
+      "summary_ko": "로이 헤르조그는 대통령이 600달러 항공료를 부담한 뒤 수행단 36명에 포함됐다. 대통령은 아들이 가자에서 장기 예비군 복무를 마쳐 함께 시간을 보내고 싶었다고 설명했다.",
+      "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-26/ty-article/.premium/herzog-brought-his-son-along-on-official-rwanda-flight-kept-public-in-the-dark/000001a2-1861-d205-a1ef-3f7da3df0000",
+      "published": "2026-11-27T05:30:49+09:00",
+      "tags": [],
+      "event": "herzog-son-rwanda-flight",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "From Israel to India, the dangerous instinct to 'disappear' the enemy",
+      "title_ko": "이스라엘에서 인도까지, 적을 '지워버리려는' 위험한 본능",
+      "summary_ko": "인도 화면에서 파키스탄인을 지우려는 시도가 가자의 참상을 보이지 않게 하는 이스라엘의 접근과 닮았다는 논평이다.",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-11-26/ty-article/.premium/have-you-seen-the-clips-life-is-super-fun-in-gaza-now/000001a2-190e-ded0-a5b6-dd2ef0af0000",
+      "published": "2026-11-27T04:30:30+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "haaretz-oped-erasing-enemy",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Settlers risk damaging ancient West Bank mikveh by filling it with water without permit",
+      "title_ko": "정착민들, 허가 없이 물 채워 서안 고대 미크베 훼손 위험",
+      "summary_ko": "예리코 인근 하스몬 왕조 겨울궁전의 미크베(정결례 욕조)가 일주일간 물에 잠긴 뒤 IDF 명령으로 배수됐다. 단체 에메크 샤베는 지난 1년간 유대인에 의한 서안 유적 훼손 20건을 기록했다고 밝혔다.",
+      "url": "https://www.haaretz.com/west-bank/2026-11-26/ty-article/.premium/settlers-risk-damaging-ancient-w-bank-mikveh-fill-it-with-water-without-permit/000001a2-18d0-d3c8-adab-9cd626750000",
+      "published": "2026-11-27T04:04:11+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "west-bank-mikveh-settlers",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "French far-right leader Bardella under renewed scrutiny over alleged antisemitic messages",
+      "title_ko": "프랑스 극우 지도자 바르델라, 반유대주의 메시지 의혹으로 재조명",
+      "summary_ko": "르몽드는 메타를 통해 메시지를 검증했다며 바르델라와 메시지를 연결하는 증거 19건을 제시했다. 한 메시지에서 그는 '은행 수장은 시온주의자들'이라고 썼다는 의혹을 받는다.",
+      "url": "https://www.haaretz.com/world-news/europe/2026-11-26/ty-article/.premium/french-far-right-leader-under-renewed-scrutiny-over-alleged-antisemitic-messages/000001a2-18d7-ded0-a5b6-dcf70e590000",
+      "published": "2026-11-27T03:13:47+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "bardella-antisemitic-messages",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Israel and Lebanon to resume talks as IDF withdrawal plan stalls",
+      "title_ko": "IDF 철수 계획 교착 속 이스라엘·레바논 협상 재개",
+      "summary_ko": "미국 중재 협상은 합의 이행을 감독할 제3자 선정에 초점을 맞춘다. 프랑스는 UNIFIL 대신 레바논군을 지원할 국제군 배치를 추진하나 이스라엘은 반대한다고 이스라엘 소식통이 전했다.",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-11-26/ty-article/.premium/lebanon-and-israel-to-hold-eighth-round-of-peace-talks-before-years-end/000001a2-17b6-d58f-afea-57bff4e00000",
+      "published": "2026-11-27T02:17:05+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "israel-lebanon-talks",
+      "state_media": false
+    },
+    {
+      "source": "Haaretz",
+      "title_original": "Eisenkot gives the Democrats the most important mission facing Israel: de-Ben-Gvirizing it",
+      "title_ko": "아이젠코트, 민주당에 이스라엘의 최대 과제 부여: '탈(脫)벤그비르화'",
+      "summary_ko": "야이르 골란의 아이젠코트와의 연정 합의로 네타냐후 퇴진이 가까워졌으며, 그의 직위는 동맹들보다 낮을 수 있으나 과제는 더 클 수 있다는 분석이다.",
+      "url": "https://www.haaretz.com/israel-news/haaretz-today/2026-11-26/ty-article/.highlight/will-this-man-de-ben-gvirize-israel/000001a2-17d8-d22a-a1bb-17fb613f0000",
+      "published": "2026-11-27T01:39:09+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "eisenkot-golan-coalition-deal",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Concerns regarding moral turpitude to last beyond conclusion of Benjamin Netanyahu trial",
+      "title_ko": "네타냐후 재판 종결 이후에도 '도덕적 비열성' 논란 지속 전망",
+      "summary_ko": "네타냐후 재판이 끝난 뒤에도 도덕적 비열성(moral turpitude) 문제가 계속될 것이라는 보도다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05d3ZjUHJUVEkxb0hkQUhmQ0VBc0t2MjZSUzZJNDhIbmZnZ3NPY21jR2diMnhpd0pWWkZtNEN2bm1oZkVYZHIzcGdpeC1pWkZGV2Jkc0UzZW5VVXBiYWZSVmV5Sk9iRm1fVkpDWG92Q2Y5UQ?oc=5",
+      "published": "2026-11-27T05:45:19+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "netanyahu-trial-moral-turpitude",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Maccabi Tel Aviv basketball secures win in Munich as Hapoel Tel Aviv drops to .500",
+      "title_ko": "마카비 텔아비브 농구, 뮌헨 원정 승리…하포엘 텔아비브는 승률 5할로 하락",
+      "summary_ko": "마카비 텔아비브가 뮌헨에서 승리했고 하포엘 텔아비브는 5할 승률로 내려갔다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0TkNBemtIbGVzYjRTSG5Rbl8tc0NhbDRqVnRtSXV3ZGUtR0lBai0zLTRhaGNGVTI4Sld5QmZXb2JGSHBrYkxoM3Z0WHVxRWJnV2I0NFpqWFFqb3Q4OTVoelBYbUlkZw?oc=5",
+      "published": "2026-11-27T05:09:51+09:00",
+      "tags": [],
+      "event": "israeli-basketball-euroleague",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Gadi Eisenkot, Golan reach understanding to sign coalition agreement",
+      "title_ko": "가디 아이젠코트·골란, 연정 협정 서명에 합의",
+      "summary_ko": "아이젠코트와 골란이 연정 협정에 서명하기로 의견을 모았다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtMUVzZjdTLUZVT2ZRS2FfNlZVV09ZZnNtV0ZQQTg1QWZBcXVxTWlXTW9oX2JfVVpzbjZzeVlLYnZ0MjdzSzgyem1HY0FwTlRIZjBpM1ptX0hiNzEtWnN3VWNqSGRkNTg1SnN2Q21Xb3VNTjV6TWxKMk9lSQ?oc=5",
+      "published": "2026-11-27T05:08:15+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "eisenkot-golan-coalition-deal",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "'Closed and blocked': Haredi protesters arrive en mass, close off entrance to Ben-Gurion Airport",
+      "title_ko": "'폐쇄·봉쇄': 하레디 시위대 대거 몰려 벤구리온 공항 입구 봉쇄",
+      "summary_ko": "하레디(초정통파) 시위대가 대규모로 몰려 벤구리온 공항 입구를 막았다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tdkxBZ2swQmRmY2JNOGp6MnVCcU5GVUFTa3hpUlpCZHRVSTFpcVB6Z3hQZUlaTXdDRUsxNGE2N2JrWHA3Tl9UbTFocWxmUng1WkxQam1EOXQ4dHVU?oc=5",
+      "published": "2026-11-27T04:56:50+09:00",
+      "tags": [],
+      "event": "haredi-protest-ben-gurion-airport",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Israel's national basketball team prepares for FIBA World Cup qualifiers amid upcoming shakeup",
+      "title_ko": "이스라엘 농구 대표팀, 개편 앞두고 FIBA 월드컵 예선 준비",
+      "summary_ko": "이스라엘 농구 대표팀이 변화를 앞두고 FIBA 월드컵 예선을 준비하고 있다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kd0xCaDJPQjctN0tyYk9MV1ZTcGFtLUdfTllreG0wRENEUkMzdDF4STNtSktHRVBCRXZuNnBnS01ObWlCWjdiZklJZnd2eUhWRTRUVERhMlZXaVRYWFJLaXp3UjJXQQ?oc=5",
+      "published": "2026-11-27T04:47:00+09:00",
+      "tags": [],
+      "event": "israel-basketball-fiba-qualifiers",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "WATCH: IDF strikes dozens of Hezbollah rockets, launchers at Radwan Force training camp in Lebanon",
+      "title_ko": "영상: IDF, 레바논 라드완 부대 훈련소의 헤즈볼라 로켓·발사대 수십 기 타격",
+      "summary_ko": "IDF가 레바논 내 헤즈볼라 라드완 부대 훈련 캠프의 로켓과 발사대 수십 기를 타격했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSTHRQbS1lNEN4YU1aNEFjZDlreG96ODgtZHFPcE83bTk3Y0JYUWN4RXBfa21qU0hLS2MzYUxiM0o0WDJYSmtPamFBYzktQ1lmenhnQ2dfT3Jkancycko3d2I1NU9ncGhaQTY4cV93?oc=5",
+      "published": "2026-11-27T04:38:10+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "idf-strikes-hezbollah-lebanon",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Haifa court indicts Kaukab man for plotting Islamic State-inspired attacks",
+      "title_ko": "하이파 법원, IS 영향받아 테러 모의한 카우캅 주민 기소",
+      "summary_ko": "하이파 법원이 이슬람국가(IS)에 영향받은 공격을 모의한 혐의로 카우캅 출신 남성을 기소했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE03akdXT2Z5RWRXVUc4Mjg0cU5DX0hQVEFpN0NWYXF2c0FfdFhyMFc3SENNd1VVelc3TV9GSmR6bkljQjNBdkg4ZXBia1ByNjI3LVg3ZEJ3NTRfUmppb1FaME95QXNyQTdJeTJNcUJpZThkZw?oc=5",
+      "published": "2026-11-27T03:53:52+09:00",
+      "tags": [],
+      "event": "haifa-is-plot-indictment",
+      "state_media": false
+    },
+    {
+      "source": "Jerusalem Post",
+      "title_original": "Besiktas fans riot, force suspension of UEFA match against Hapoel Beersheba",
+      "title_ko": "베식타스 팬 난동으로 하포엘 베에르셰바와의 UEFA 경기 중단",
+      "summary_ko": "베식타스 팬들의 난동으로 하포엘 베에르셰바와의 UEFA 경기가 중단됐다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHd0NjekxLamtmRFBpMnFwaHMyUFdrVjJwQVdwQ1lIUWhuaTMyd3lnZEVTckU4TFMycjJ4SDR2LUg0TW9xajRrU25jQ3ByT1hrdktVQTljWjY?oc=5",
+      "published": "2026-11-27T03:52:36+09:00",
+      "tags": [],
+      "event": "besiktas-hapoel-beersheba-riot",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "‘Collision course’ with Israel: The senator leading the progressive challenge to Chuck Schumer",
+      "title_ko": "이스라엘과 '충돌 노선': 척 슈머에 맞선 진보 도전을 이끄는 상원의원",
+      "summary_ko": "척 슈머에 대한 진보 진영의 도전을 이끄는 상원의원과 그의 이스라엘 관련 입장을 다룬 기사다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwdXlyQzFneE5NcGl0ZGt4X3FSWWllOG5kOG9rQUxXSzNMLVI3ZEpVQmxuazhmWGJjRDB3eDlmQ3A3eFV2QTREYlBXOHNMb0JjVm5JdVBB?oc=5",
+      "published": "2026-11-27T05:59:42+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "us-senate-progressive-challenge-schumer",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "After Rabbis' Meeting: United Torah Judaism to Begin Talks with Eisenkot",
+      "title_ko": "랍비 회동 후 통합토라유대당(UTJ), 아이젠코트와 협상 개시",
+      "summary_ko": "랍비들의 회동 이후 통합토라유대당이 아이젠코트와 대화를 시작한다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IOGlBYy1fVHg3bGtKbzRyd3A1d3poYVVvMkJGdU9LOW5Yby05MnhZQTZkRjk0QkJwQ0VzdTJwcFRFNWJVSlN6UTM0WGpGZnIwOFAwVA?oc=5",
+      "published": "2026-11-27T05:45:28+09:00",
+      "tags": [
+        "legislation"
+      ],
+      "event": "utj-eisenkot-talks",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Kibbutz Nirim Members Vote to Dismantle 'Houses of Testimony'",
+      "title_ko": "키부츠 니림 주민들, '증언의 집' 철거 표결",
+      "summary_ko": "키부츠 니림 구성원들이 '증언의 집' 철거를 표결로 결정했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84MHZCZjZYV1F2eklQcGg5N0cyTzBWbGRJdlk0eUltZzNFU1ZtVWVHTkEyc1lZZHdUQzVlblE5bFdkblVQLUFqVFBoSVJzZmVCT3VPaA?oc=5",
+      "published": "2026-11-27T05:27:27+09:00",
+      "tags": [],
+      "event": "kibbutz-nirim-testimony-houses",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Airport Authority: Lod-Petah Tikva Gate Reopened to Traffic Following End of Haredi Protest",
+      "title_ko": "공항공사: 하레디 시위 종료 후 로드-페타티크바 출입구 통행 재개",
+      "summary_ko": "하레디 시위가 끝난 뒤 벤구리온 공항 로드-페타티크바 출입구 통행이 재개됐다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsOWFzOXhQMDBidHVwSE9NeENwdjhzelF3YzJxNkFjWlh5OWhsWkVacEQwaEloREl3TU9fVVFRMmRRV00yWFNnYUwwb3VobWZnLXR5bw?oc=5",
+      "published": "2026-11-27T05:17:30+09:00",
+      "tags": [],
+      "event": "haredi-protest-ben-gurion-airport",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "Use of Water Cannon Against Haredi Protesters at Ben Gurion Airport | Video",
+      "title_ko": "벤구리온 공항 하레디 시위대에 물대포 사용 | 영상",
+      "summary_ko": "벤구리온 공항에서 하레디 시위대를 상대로 물대포가 사용됐다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJVFcyZmx4eGZWY214cDNoWkc1Z1o2a25CRmNJZXRUUDFEbE9pcVF0WklfYVdZaWQ1QTBIUFpPWHFGNTdnVFNxU3ZTMlZJU2hIWkZOUQ?oc=5",
+      "published": "2026-11-27T05:04:49+09:00",
+      "tags": [],
+      "event": "haredi-protest-ben-gurion-airport",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "IAA on haredi protest: Lod-Petah Tikva gate closed to traffic, no flight delays",
+      "title_ko": "공항공사, 하레디 시위 관련 \"로드-페타티크바 출입구 통행 차단, 항공편 지연 없음\"",
+      "summary_ko": "이스라엘공항공사는 하레디 시위로 로드-페타티크바 출입구가 차단됐으나 항공편 지연은 없다고 밝혔다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRSFJrZlltWUwxY1NHdDJlUUJpRFVQdWZTUjRZLUFfOUVjMVZmYkxMZUFZcnJGbTNjV2p1b1h3djNsdFZWbkJxMnk0LURVTFZVZl9JSw?oc=5",
+      "published": "2026-11-27T04:46:19+09:00",
+      "tags": [],
+      "event": "haredi-protest-ben-gurion-airport",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "An Hour After Disturbances Began at Ben Gurion Airport: Police Begin Attempts to Clear Road",
+      "title_ko": "벤구리온 공항 소요 1시간 만에 경찰, 도로 해산 시도 시작",
+      "summary_ko": "벤구리온 공항 소요가 시작된 지 한 시간 뒤 경찰이 도로 정리를 시도하기 시작했다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2Q1BDb19kUTVUMl9PVXlZbVZVSkdVRU1Vc016Rm9LR1BoRDZqNEh4TFhpQTRCT2tlZFZHLTVHVjk1dFMwUmdWQ09kTl9wRjlaSmRvMA?oc=5",
+      "published": "2026-11-27T04:38:50+09:00",
+      "tags": [],
+      "event": "haredi-protest-ben-gurion-airport",
+      "state_media": false
+    },
+    {
+      "source": "Ynet News",
+      "title_original": "IDF: Dozens of Hezbollah rockets and launchers struck in southern Lebanon",
+      "title_ko": "IDF: 남부 레바논서 헤즈볼라 로켓·발사대 수십 기 타격",
+      "summary_ko": "IDF가 남부 레바논에서 헤즈볼라 로켓과 발사대 수십 기를 타격했다고 밝혔다. (제목 기준)",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41MXNrNGNGRmZwQ1d5QU5SaW1UVlFQZThQaFhlZWlMVG1XTzNWc2p0YmxkOTNCQ3FEQll2OHR6X3plajBBeGhMZDFINVV5eDVkaEZScQ?oc=5",
+      "published": "2026-11-27T04:31:09+09:00",
+      "tags": [
+        "geopolitics"
+      ],
+      "event": "idf-strikes-hezbollah-lebanon",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Thu: Construction, renewable energy stocks fuel TASE surge",
+      "title_ko": "목요일: 건설·재생에너지주 주도로 텔아비브증시(TASE) 급등",
+      "summary_ko": "국내 증시가 하락세를 멈추고 은행, 부동산, 클린테크 종목이 두드러진 상승을 보였다.",
+      "url": "https://en.globes.co.il/en/article-1001565305#utm_source=RSS",
+      "published": "2026-11-27T03:49:00+09:00",
+      "tags": [
+        "stocks"
+      ],
+      "event": "tase-daily-close",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Nofar Energy in two major deals",
+      "title_ko": "노파르 에너지, 대형 거래 2건 체결",
+      "summary_ko": "레우미 파트너스가 노파르 유럽 부문에 7,500만~1억 달러를 투자하고, 회사는 이스라엘 프로젝트 지분 50%를 매각한다.",
+      "url": "https://en.globes.co.il/en/article-1001565280#utm_source=RSS",
+      "published": "2026-11-27T01:13:00+09:00",
+      "tags": [
+        "business",
+        "industry"
+      ],
+      "event": "nofar-energy-deals",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Israeli Sony spin-off Altair raises $100m",
+      "title_ko": "소니에서 분사한 이스라엘 기업 알테어, 1억 달러 투자 유치",
+      "summary_ko": "호드하샤론 소재 반도체 기업으로, 엣지 기기에서 AI 에이전트를 구동하는 방향으로 전략을 전환했다.",
+      "url": "https://en.globes.co.il/en/article-1001565167#utm_source=RSS",
+      "published": "2026-11-26T22:30:00+09:00",
+      "tags": [
+        "business",
+        "industry"
+      ],
+      "event": "altair-funding",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Israeli airlines to renew UAE flights in early 2027",
+      "title_ko": "이스라엘 항공사들, 2027년 초 UAE 노선 재개",
+      "summary_ko": "이와 함께 이스라엘 민간항공청은 12월 3일부터 벤구리온 공항의 플라이두바이 슬롯을 승인했다.",
+      "url": "https://en.globes.co.il/en/article-1001565159#utm_source=RSS",
+      "published": "2026-11-26T21:32:19+09:00",
+      "tags": [
+        "industry",
+        "geopolitics"
+      ],
+      "event": "israel-uae-flights-resume",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Shufersal to launch new chain as profit falls",
+      "title_ko": "슈퍼살, 이익 감소 속 신규 체인 출범",
+      "summary_ko": "실적 발표와 함께 슈퍼살 공동 CEO 슐로미 아미르가 할인형 창고 슈퍼마켓 체인 '하이퍼 네토' 출범을 발표했다.",
+      "url": "https://en.globes.co.il/en/article-1001565105#utm_source=RSS",
+      "published": "2026-11-26T17:42:08+09:00",
+      "tags": [
+        "business"
+      ],
+      "event": "shufersal-results-new-chain",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Greece receives shipment of Israeli munitions",
+      "title_ko": "그리스, 이스라엘산 군수품 인도받아",
+      "summary_ko": "그리스가 스파이스 폭탄과 램페이지 미사일 등 이스라엘산 공대지 무기 첫 물량을 인수했다고 고위 관리들이 그리스 언론에 밝혔다.",
+      "url": "https://en.globes.co.il/en/article-1001565086#utm_source=RSS",
+      "published": "2026-11-26T16:54:18+09:00",
+      "tags": [
+        "industry",
+        "geopolitics"
+      ],
+      "event": "greece-israeli-munitions",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Shekel slides to 14-month weakest against dollar",
+      "title_ko": "셰켈, 달러 대비 14개월 만에 최약세",
+      "summary_ko": "월가 하락, 글로벌 달러 강세, 정치·지정학적 불확실성, 금리 차가 셰켈에 부담을 주고 있다.",
+      "url": "https://en.globes.co.il/en/article-1001565069#utm_source=RSS",
+      "published": "2026-11-26T14:15:00+09:00",
+      "tags": [
+        "monetary",
+        "stocks"
+      ],
+      "event": "shekel-weakens",
+      "state_media": false
+    },
+    {
+      "source": "Globes",
+      "title_original": "Desperate measures: Katzman's Norstar offers shares at huge discount",
+      "title_ko": "궁지의 조치: 카츠만의 노르스타, 대폭 할인가에 주식 발행",
+      "summary_ko": "하임 카츠만이 부동산 제국을 살리려 애쓰는 가운데 그가 G시티를 지배하는 노르스타 홀딩스 주가가 폭락했다.",
+      "url": "https://en.globes.co.il/en/article-1001564904#utm_source=RSS",
+      "published": "2026-11-25T18:52:00+09:00",
+      "tags": [
+        "stocks",
+        "business"
+      ],
+      "event": "norstar-share-offering",
+      "state_media": false
+    }
+  ],
+  "events": [
+    {
+      "event": "haredi-protest-ben-gurion-airport",
+      "title_ko": "하레디 시위대, 벤구리온 공항 출입구 봉쇄",
+      "sources": [
+        "Jerusalem Post",
+        "Ynet News"
+      ],
+      "count": 5
+    },
+    {
+      "event": "eisenkot-golan-coalition-deal",
+      "title_ko": "아이젠코트·골란 연정 합의",
+      "sources": [
+        "i24NEWS",
+        "Haaretz",
+        "Jerusalem Post"
+      ],
+      "count": 3
+    },
+    {
+      "event": "idf-strikes-hezbollah-lebanon",
+      "title_ko": "IDF, 레바논 헤즈볼라 로켓·발사대 타격",
+      "sources": [
+        "Jerusalem Post",
+        "Ynet News"
+      ],
+      "count": 2
+    },
+    {
+      "event": "uk-bbc-antisemitism-probe",
+      "title_ko": "영국 반유대주의 자문관, BBC 내 반유대 차별 의혹 조사 착수",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "uk-reservist-census",
+      "title_ko": "영국, 러시아 위협 고조 속 예비군 10만 명 실태 조사 착수",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "iran-drone-attack-kuwait",
+      "title_ko": "이란 드론의 쿠웨이트 공격으로 이탈리아인 2명 사망…사아르 외무장관 \"테헤란의 견제받지 않는 공격 끝나야\"",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "israel-us-drone-defense-trials",
+      "title_ko": "이스라엘, 미국과 첫 합동 드론 방어 시험 개최",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "houthi-red-sea-fortifications",
+      "title_ko": "위성사진, 홍해 주요 해상 항로 인근 후티 요새화 정황 포착",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "i24-live-blog",
+      "title_ko": "라이브 블로그",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "iran-underground-site-construction",
+      "title_ko": "위성사진, 이란 지하 시설의 급속한 건설 드러내",
+      "sources": [
+        "i24NEWS"
+      ],
+      "count": 1
+    },
+    {
+      "event": "toi-blog-cop31-mediterranean",
+      "title_ko": "COP31 이후: 지중해가 '기후 호혜성'으로 주도해야 하는 이유",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "toi-blog-thanksgiving",
+      "title_ko": "블로그: 오늘의 추수감사절! 내일의 추수감사절?",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "toi-blog-marginal-doors",
+      "title_ko": "'주변부'의 문들",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "toi-blog-justice",
+      "title_ko": "블로그: 정의는 주문형이 아니다",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "toi-blog-chabad",
+      "title_ko": "하바드(Chabad)의 놀라운 내적 역동성",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "toi-blog-vayishlach",
+      "title_ko": "주간 토라 '바이이슐라흐': 너희가 나를 그들의 눈에 추하게 만들었다",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "toi-blog-judaism",
+      "title_ko": "유대교는 애초에 종교로 의도된 것이 아니었다",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "toi-blog-basket",
+      "title_ko": "블로그: 당신의 바구니에는 무엇이 있나?",
+      "sources": [
+        "Times of Israel"
+      ],
+      "count": 1
+    },
+    {
+      "event": "netanyahu-opposition-test",
+      "title_ko": "네타냐후의 10년 만의 최고의 날은 야권에 대한 시험대",
+      "sources": [
+        "Haaretz"
+      ],
+      "count": 1
+    },
+    {
+      "event": "tel-aviv-bus-station-bridges",
+      "title_ko": "33년 만에: 텔아비브 중앙버스터미널 연결 교량 2027년 철거",
+      "sources": [
+        "Haaretz"
+      ],
+      "count": 1
+    },
+    {
+      "event": "herzog-son-rwanda-flight",
+      "title_ko": "헤르조그 대통령, 르완다 공식 방문 전용기에 아들 동행…대중에 알리지 않아",
+      "sources": [
+        "Haaretz"
+      ],
+      "count": 1
+    },
+    {
+      "event": "haaretz-oped-erasing-enemy",
+      "title_ko": "이스라엘에서 인도까지, 적을 '지워버리려는' 위험한 본능",
+      "sources": [
+        "Haaretz"
+      ],
+      "count": 1
+    },
+    {
+      "event": "west-bank-mikveh-settlers",
+      "title_ko": "정착민들, 허가 없이 물 채워 서안 고대 미크베 훼손 위험",
+      "sources": [
+        "Haaretz"
+      ],
+      "count": 1
+    },
+    {
+      "event": "bardella-antisemitic-messages",
+      "title_ko": "프랑스 극우 지도자 바르델라, 반유대주의 메시지 의혹으로 재조명",
+      "sources": [
+        "Haaretz"
+      ],
+      "count": 1
+    },
+    {
+      "event": "israel-lebanon-talks",
+      "title_ko": "IDF 철수 계획 교착 속 이스라엘·레바논 협상 재개",
+      "sources": [
+        "Haaretz"
+      ],
+      "count": 1
+    },
+    {
+      "event": "netanyahu-trial-moral-turpitude",
+      "title_ko": "네타냐후 재판 종결 이후에도 '도덕적 비열성' 논란 지속 전망",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "israeli-basketball-euroleague",
+      "title_ko": "마카비 텔아비브 농구, 뮌헨 원정 승리…하포엘 텔아비브는 승률 5할로 하락",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "israel-basketball-fiba-qualifiers",
+      "title_ko": "이스라엘 농구 대표팀, 개편 앞두고 FIBA 월드컵 예선 준비",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "haifa-is-plot-indictment",
+      "title_ko": "하이파 법원, IS 영향받아 테러 모의한 카우캅 주민 기소",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "besiktas-hapoel-beersheba-riot",
+      "title_ko": "베식타스 팬 난동으로 하포엘 베에르셰바와의 UEFA 경기 중단",
+      "sources": [
+        "Jerusalem Post"
+      ],
+      "count": 1
+    },
+    {
+      "event": "us-senate-progressive-challenge-schumer",
+      "title_ko": "이스라엘과 '충돌 노선': 척 슈머에 맞선 진보 도전을 이끄는 상원의원",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "utj-eisenkot-talks",
+      "title_ko": "랍비 회동 후 통합토라유대당(UTJ), 아이젠코트와 협상 개시",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "kibbutz-nirim-testimony-houses",
+      "title_ko": "키부츠 니림 주민들, '증언의 집' 철거 표결",
+      "sources": [
+        "Ynet News"
+      ],
+      "count": 1
+    },
+    {
+      "event": "tase-daily-close",
+      "title_ko": "목요일: 건설·재생에너지주 주도로 텔아비브증시(TASE) 급등",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "nofar-energy-deals",
+      "title_ko": "노파르 에너지, 대형 거래 2건 체결",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "altair-funding",
+      "title_ko": "소니에서 분사한 이스라엘 기업 알테어, 1억 달러 투자 유치",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "israel-uae-flights-resume",
+      "title_ko": "이스라엘 항공사들, 2027년 초 UAE 노선 재개",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "shufersal-results-new-chain",
+      "title_ko": "슈퍼살, 이익 감소 속 신규 체인 출범",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "greece-israeli-munitions",
+      "title_ko": "그리스, 이스라엘산 군수품 인도받아",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "shekel-weakens",
+      "title_ko": "셰켈, 달러 대비 14개월 만에 최약세",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    },
+    {
+      "event": "norstar-share-offering",
+      "title_ko": "궁지의 조치: 카츠만의 노르스타, 대폭 할인가에 주식 발행",
+      "sources": [
+        "Globes"
+      ],
+      "count": 1
+    }
+  ],
+  "unavailable_sources": [
+    "Kan (KAN News)",
+    "N12 (Channel 12)"
+  ]
+}
