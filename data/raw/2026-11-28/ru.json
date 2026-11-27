@@ -1,0 +1,661 @@
+{
+  "team": "ru",
+  "team_name_ko": "러시아팀",
+  "collected_at": "2026-11-28T06:13:16.945776+09:00",
+  "headlines": [
+    {
+      "source": "Channel One (1tv)",
+      "title_original": "Антон Абдульманов. «Как любовь твою понять?». Песня на вылет. Голос. Дети. Фрагмент выпуска от 27.11.2026",
+      "summary_original": "Антон Абдульманов. «Как любовь твою понять?». Песня на вылет. Голос. Дети. Фрагмент выпуска от 27.11.2026 Первый канал",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdk52TUhFSUpVaU5GaUI1cEttaGxyd05HbGJBZVpkdV9LSzllX0FIM2NKZkszQjQxNGJJNS1qN0xqZU1RRFVHenVVMXFINjN0T0N5RUNURnlfZXhEVTVEaDZhUHhuOW9WWFhwZ2hreG9kXzNwLU9KZ21POWx6dFNuNUpoTXhBaUdOT0xqY2dRYlFLSXk1Ujk4VmpaN3BUMGZfRWV6MEZhSmZ4WERNZHBsTGk3NXNRa0xfN3VmU2ZCR0pJY3U4VktYNlh4d0lCcS1XZmpjdGpoUFJ3NTNHVlNibUJLOHU?oc=5",
+      "published": "2026-11-28T05:18:07+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Channel One (1tv)",
+      "title_original": "Анна Битиева. «Одного». Песня на вылет. Голос. Дети. Фрагмент выпуска от 27.11.2026",
+      "summary_original": "Анна Битиева. «Одного». Песня на вылет. Голос. Дети. Фрагмент выпуска от 27.11.2026 Первый канал",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQWJmSXRTV2xkMGdReXIzWHJxZDdPa2RrTWZ5UnVkNDNtel92WmJfdnh0LWdQcVdmWDc2RkR2VlhfWFdjTm1qRTFlbUxQd3ZXbU9qUDU0dUJsU0xreGhiNDczZ0RPT1FWR3pfRXZpZlZLY2tmNUlwMG5PYmQtbEJFWkVWRDk3YkpIUGZDdk9OeGlBbURGR2QwNGZxVkdKLWN0V0EtdU80aWRQbnpCLWF2LW5iRldNVzQ4Ry01cjAwelRNYm8tcmgzNQ?oc=5",
+      "published": "2026-11-28T05:18:05+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Channel One (1tv)",
+      "title_original": "Варвара Дубовикова. «В море ветер, в море буря...» Песня на вылет. Голос. Дети. Фрагмент выпуска от 27.11.2026",
+      "summary_original": "Варвара Дубовикова. «В море ветер, в море буря...» Песня на вылет. Голос. Дети. Фрагмент выпуска от 27.11.2026 Первый канал",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNV05uaTFqMmpSeXVOXzV1d1JWY09Ed0c4SEdXVTdhOHRsY2ZlSU5MSW9qVjNlRy1kRXVsM0ZHTmJjbmw2WGFNMHh5OHV1dW5IZGc3ZHFDMlFLcXlzcV96MDRjZHRZSG1kNWRTckRvZTZVczIxa0Z2elJJeDBjeXM5NDhQeVJZS2FfQUNoaEtvQXpOTmFnUHlYQkRlTC1EckktVWFjekdKX0htMGZ0MDZQdnhJSXkyU3J3WkdXc0FsNTgzdUlBMHRkMUdpMmc2TTU1dlJVeHktOVRONnZhRE55R1dvdmVvY1Y3QUE?oc=5",
+      "published": "2026-11-28T05:18:05+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Channel One (1tv)",
+      "title_original": "Алиса Колодкина, Анна Битиева и Анна Соловьева. «Черные вороны». Поединки. Голос. Дети. Фрагмент выпуска от 27.11.2026",
+      "summary_original": "Алиса Колодкина, Анна Битиева и Анна Соловьева. «Черные вороны». Поединки. Голос. Дети. Фрагмент выпуска от 27.11.2026 Первый канал",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQS3hTbEltYTQ0MUhhSGJDbzNqanc4eld2azJST1lZNFBUeTBWVzRNZVpheGhIQy1JVlVSYzllSHFpcXh5SmNYRk9Jc1VoWFFBam1VTXlfNEJlWWJDZzJhUFQ2MEprSnB1OW5lTXBvZXF0ak1MUUxVRUduTUlEem9aY3NRekJpUkVDMTFTamtxYlpvc1BqM0RsQU9VaWgxQXZzbGlMcWkzYmNWZ2s2UVo2U0Nzd0xsTFd4QXhQLXAzbXRBbHF0VGNlRlJNUWxMaXplR0w2Z3BMSFpPNWtXenZtOVZtanNTcFotUDBIRUV5SmFrbjZB?oc=5",
+      "published": "2026-11-28T04:50:01+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Channel One (1tv)",
+      "title_original": "Арина Бульенова, Дэниэл Филистович и Кира Павлингер. «Runaway Baby». Поединки. Голос. Дети. Фрагмент выпуска от 27.11.2026",
+      "summary_original": "Арина Бульенова, Дэниэл Филистович и Кира Павлингер. «Runaway Baby». Поединки. Голос. Дети. Фрагмент выпуска от 27.11.2026 Первый канал",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNeXJrMHR1dElNOWVSamEwa1BPUTc3ZlpXV1AzWDNhUzhmcTU3R0NFdXM4aXhGdExzdVJHUE1vTUpiOXFsZWpyRUZJZkpaYTZ1alczRENNNUx5ZVFlWVRHbkVqdS1ZVjB0VzN5SDNObHNUUTA5Tkp6eHREZjJ0TWFPQkdyLTBFc21hXzRrVWJxdjVFYVlOUEdhcml1dDF5Qnhpc3FoV29CZmxIU1FMWHNXVnZ6UHZDNkp4TWpjcDZUNjNWcldCUHFnLXN0MGJRdkQ4aGRjUkVyVVRtM1lhc2dzZDhrOTdqWDIxSUp5UmdDVm9UOW1PMnJfTC13?oc=5",
+      "published": "2026-11-28T04:44:00+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Channel One (1tv)",
+      "title_original": "«Наше фигурное катание покоряет весь мир». Привет болельщикам от призеров Гран-при ISU в Китае Владислава Дикиджи и Евгения Семененко",
+      "summary_original": "«Наше фигурное катание покоряет весь мир». Привет болельщикам от призеров Гран-при ISU в Китае Владислава Дикиджи и Евгения Семененко Первый канал",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQNlFHdkUycmpZdU9mZ2VpNTRwdjVGX1lhTWtydG1IR2RZbDh4bVpVY2REbUZWcjlKNDBtdHFpUW85NnFLNk4zOHRpZFdER1Q1cGVlRkw3NnFlRGkyTjdmMzV1V2tvcjI0UnN2S0NkQlBSWU9JVDJTRENOQ05NeGlIVXVYTFVsbndsWk9KenZQZW9LMk9XRWJ3YWNQOXdhOFJVZTdFTkJUbW9NSkNBeE10cEZkaElOYnVldDJrMFh1a1l2S1hjUkdkNXhOS2tCYm5tTzc1M3RhdHdEYW44VGlKa0VPbmF4NHpiVG1faGJtYWVtbkk4clZTRHlCTXdwQld1cGhDWjVuT1ladHlIajVCMEVHOHZIaWFnSk91UW84dVE?oc=5",
+      "published": "2026-11-28T04:13:31+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Channel One (1tv)",
+      "title_original": "Влог Алины Загитовой. Мужчины. Короткая программа. Омск. Гран-при России по фигурному катанию 2026/27",
+      "summary_original": "Влог Алины Загитовой. Мужчины. Короткая программа. Омск. Гран-при России по фигурному катанию 2026/27 Первый канал",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOMXJ6cnp3aFk0VDdxRmJHNWh6VGR0MmgzOU1yek80TFFqUk5CN0VjNmdIcTNGYXU5Q0t1RWNkTnlOczhQc1J5NzlocnJBZzlfRjR0RXh0R0VNLVFnSFdNSnZ3WkVXRVduRVFvaFdKQWJuNEZrVkFMNGJncVd2THZ2bnpDTm92eU5MeEZGdEpRQUlXZnNKY2NFQWczcUpwSGhhSFlGZUVRT3NhUUdQbThCT0ZESG1UTkQtMlA3aXFsZ1JHVW1hQW15RWU0cmdNTW9vblZqWllwVlNIRHZ5eWRlWHN6QmtsSjlZMmcwWDVGS2JqWjNHX3JLbHpJM2lsU09YTU1XRW00cEFPaVdxTjFn?oc=5",
+      "published": "2026-11-28T04:01:43+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Channel One (1tv)",
+      "title_original": "Екатерина Касьянова, Роман Башинский и София Шахбазова. «Млечный путь». Поединки. Голос. Дети. Фрагмент выпуска от 27.11.2026",
+      "summary_original": "Екатерина Касьянова, Роман Башинский и София Шахбазова. «Млечный путь». Поединки. Голос. Дети. Фрагмент выпуска от 27.11.2026 Первый канал",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQeUR5NHJTM0huUU5CMXBrSmZYRlhfbjQzdG9UTFQwV2hzYWktV2gyaG5IaHNKajBncTgwcGNLLXFCY0pLWXhpY3o0WC1zVlhuRGN0R3drOVBhZzl3RVh6ZWE1R2FFNFZoRXdwZUdvNjc3QUQ2RFBhRnlFdWE1b3FCTWRCdzFPZHJRN2w4VDBHcUJTZi05Um1BOVUwWG9Dc2tXdnQ0WHhaa2RfcE5Tejc0akNoR1RHQkc2RFlGamxKWllqSGU5YWZYUjJSWUtXMllnN1REWVByazlKakJadXVrUUUzdUwtaVhvV0JxZHNCdTdxMmdLZ1JMTzV4TWdJUUMxTGc?oc=5",
+      "published": "2026-11-28T03:59:54+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Rossiya 24 (Vesti)",
+      "title_original": "Пятерка самых популярных тем на прямой линии с Путиным",
+      "summary_original": "Пятерка самых популярных тем на прямой линии с Путиным vesti.ru",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcHBYYWlaX1JpMGdPdGN0ZjdheHBOQWlTMXpBWFdaeXVSQjBsRm5NeENIcTA5Vkhwam9RWkx5VmpKUkJSVEhEN2s0Ti1kWEJNRzNIdHFXMF9HQU43WmppYzRvZkFWb0lVSW5yT3daSkRweGc1UjdTSjE3ODhXd1VBV0tfOTd3ck5pM3hV?oc=5",
+      "published": "2026-11-28T03:54:28+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Rossiya 24 (Vesti)",
+      "title_original": "Правительство утвердило единый понижающий коэффициент оплаты света для дачников",
+      "summary_original": "Правительство утвердило единый понижающий коэффициент оплаты света для дачников vesti.ru",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMVNmRGFyRjl4aUNaNU14ZkZkWl9CcWVoY2c4WXE5aEdRRFNrUDJNNUlkSXd0WmhKUkVsdFFpRlRjdWUtYmFjbVc2ZGdaZFlTbzNteWZiQlZpeGthbktqaXkzMGF1eWxMN0NfNzhhQmwyQ1pac0tnN2FSVVFqaFJrZk91eVZsWVcwSXYwZU5ZZjFlWUZRVlhxa2JDLVJ6cF8ybG1ydi02YVhTNXFfeVo0?oc=5",
+      "published": "2026-11-28T03:02:52+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Rossiya 24 (Vesti)",
+      "title_original": "Дрон ВСУ ранил мужчину в белгородском Грайвороне",
+      "summary_original": "Дрон ВСУ ранил мужчину в белгородском Грайвороне vesti.ru",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FNkhSMmNkeVpwU2xxTGNxMGJKbllTMWNYMzVLUHM5anZBREZFTGVINGtheUFMMkpmcHZ4S3k3bXN5cVRvS2p0dlJORnYzc2EwMGpHVDVxQXpzeThfX1dfM1R1R2dBUlVzZmxMV2c1eFpwX2NQdGZibWNtdEVPaDQ?oc=5",
+      "published": "2026-11-28T02:55:47+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Rossiya 24 (Vesti)",
+      "title_original": "Политолог указал на критический момент в отношениях ЕС и США",
+      "summary_original": "Политолог указал на критический момент в отношениях ЕС и США vesti.ru",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVUdvMURmY2pzeUd3a2lXTFZMdnVtdmFkaFV0MmJKVGt4dDd4WE5EQi1GSFRQM0ZiRUtEMnRWSkNhMHNqZ09tclJlVm9IdnplbXE5TUZfUG1CaWlmdlNkYnJEbFJEV3c5NDN5RTdicVNhWjZteUJJcHFhaFhfQ0YwSmdROUJ1Y3Z0QkFiM2x2WWRSZ0k?oc=5",
+      "published": "2026-11-28T02:44:50+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Rossiya 24 (Vesti)",
+      "title_original": "Путин заявил о необходимости высокого ударного потенциала ВМФ России",
+      "summary_original": "Путин заявил о необходимости высокого ударного потенциала ВМФ России vesti.ru",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUWJkRkVpQjQwSWJPdG0xQTdqSG1VVi05clZGczFXZ3dIOW9PZHliQmpSN2g5UTVmNzJjVFd0SkVHcWx4UTJPUlk2Rmc5RUJGTlpzcjRrbUVZRHFTTjF1OE9icG8yVzkyNmw2Wk5fVW5Zd0hILVFFTDFyZWx0c2M0WktLa0pwUjM5N3pVQlNxWGtzV284alRGeTZB?oc=5",
+      "published": "2026-11-28T02:25:05+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Rossiya 24 (Vesti)",
+      "title_original": "Леонков: заявлениями о партнерах Киев пытается разделить ответственность",
+      "summary_original": "Леонков: заявлениями о партнерах Киев пытается разделить ответственность vesti.ru",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT0xTdW1DUWlSempkX2xueTZYdGhRcGJodnVnQzZxazItN1RvekJSSy1jaWJFVU5sajM1SVFvUjh1WWZPSG9YSFRnaVZfSTBuLUF5RHlPSFVLWkxkMEVyQ0pzZjB2akNHTF9IcVJkRzV0SkRaSnBTSm5sOVVPSnAxbzNQcnJpRUVuYWxKZUllUENveDk2WTZTQlV5OW9mQQ?oc=5",
+      "published": "2026-11-28T02:24:45+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Rossiya 24 (Vesti)",
+      "title_original": "Путин заявил о намерении РФ наращивать боевой потенциал подводного флота",
+      "summary_original": "Путин заявил о намерении РФ наращивать боевой потенциал подводного флота vesti.ru",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT0dWQjQxeTBweDdtSGlqOVM5RVJhd2VLaGxxX2FpX3RwMTdaYUlPT1pPZWVhLU0xUTVURk1KUW5IZTBlS2hzQS1oV1ZqdFZLRjI4UDFOb2lZUS1TREUwT09EQ1BfRmFFcmlSMVdIWDVqSUVqeHNLV0RVOF9yMEVIc1k2MUlDcklQMTl4SlNxNmQzWFlZc3VUaEhFR3ozMG1x?oc=5",
+      "published": "2026-11-28T02:17:56+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "Rossiya 24 (Vesti)",
+      "title_original": "Макрон объяснил успехи сельского хозяйства РФ глобальным потеплением",
+      "summary_original": "Макрон объяснил успехи сельского хозяйства РФ глобальным потеплением vesti.ru",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTzlWSmNmT1VxMGxHNmFBY1Izdy1ocWFhQVhtcXlJTzVIczM1VWJwdVdWcE0zZl9meG5KRXlOVGh0WVNtU29GdjRxZ2p3c3JpMGpHLUJzdkNyWmp5ckZDMk9odXBpckZlNkYtSXFHNFRLSjFKQVRnODRuVU44U1drQjk4Vkp3R3RGU1F6M2pjaldYbzBRTVRCcA?oc=5",
+      "published": "2026-11-28T02:01:58+09:00",
+      "via": "google_news",
+      "state_media": true
+    },
+    {
+      "source": "TASS",
+      "title_original": "Реванш \"Зенита\" и непростые испытания для лидеров. Стартует 16-й тур РПЛ",
+      "summary_original": "Расклад вверху таблицы решится только в понедельник вечером",
+      "url": "https://tass.ru/sport/28364003",
+      "published": "2026-11-28T06:10:30+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "TASS",
+      "title_original": "Конгрессвумен Луна заявила о приближении урегулирования украинского конфликта",
+      "summary_original": "Член Палаты представителей отметила, что американский лидер Дональд Трамп активно добивается прекращения войны",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28363999",
+      "published": "2026-11-28T06:09:39+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "TASS",
+      "title_original": "Премьера спектакля \"Маленький Мук\" состоится в МХАТе",
+      "summary_original": "",
+      "url": "https://tass.ru/kultura/28363983",
+      "published": "2026-11-28T06:05:46+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "TASS",
+      "title_original": "Эксперт Степанов: у Финляндии оказалась короткая память о доброй воле СССР",
+      "summary_original": "Военный эксперт Института права и национальной безопасности РАНХиГС напомнил, что Советский Союз сохранил государственность и нейтральный статус республики, а также обеспечивал экономические возможности для ее роста",
+      "url": "https://tass.ru/politika/28363991",
+      "published": "2026-11-28T06:05:33+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "TASS",
+      "title_original": "ОДКБ не ставит вопрос об исключении Армении",
+      "summary_original": "",
+      "url": "https://tass.ru/politika/28363997",
+      "published": "2026-11-28T06:05:17+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "TASS",
+      "title_original": "Театр на Садовой в Петербурге покажет авангардный рок-мюзикл \"Малевич\"",
+      "summary_original": "",
+      "url": "https://tass.ru/kultura/28363995",
+      "published": "2026-11-28T06:04:48+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "TASS",
+      "title_original": "Мариинка отметит юбилей премьеры балета \"Спартак\" в постановке Якобсона",
+      "summary_original": "",
+      "url": "https://tass.ru/kultura/28363985",
+      "published": "2026-11-28T06:03:39+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "TASS",
+      "title_original": "Порядок взимания сбора за возврат ж/д билетов изменится с 1 декабря",
+      "summary_original": "При возврате менее чем за сутки до отправления он составит 10%",
+      "url": "https://tass.ru/obschestvo/28363993",
+      "published": "2026-11-28T06:03:08+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "RIA Novosti",
+      "title_original": "Глава Архангельской области доложил Путину о расселении аварийного жилья",
+      "summary_original": "",
+      "url": "https://ria.ru/20261128/zhile-2134513993.html",
+      "published": "2026-11-28T06:09:07+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "RIA Novosti",
+      "title_original": "Боец уничтожил пулеметный расчет ВСУ и помог выбить противника с позиций",
+      "summary_original": "",
+      "url": "https://ria.ru/20261128/spetsoperatsiya-2134513345.html",
+      "published": "2026-11-28T06:07:17+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "RIA Novosti",
+      "title_original": "В Днепропетровске прогремел взрыв",
+      "summary_original": "",
+      "url": "https://ria.ru/20261127/vzryv-2134510595.html",
+      "published": "2026-11-28T05:59:47+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "RIA Novosti",
+      "title_original": "Шайба и передача Сергачева помогли \"Юте\" обыграть \"Нэшвилл\" в матче НХЛ",
+      "summary_original": "",
+      "url": "https://ria.ru/20261127/gol-2134510295.html",
+      "published": "2026-11-28T05:58:49+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "RIA Novosti",
+      "title_original": "На подлете к Москве уничтожили еще четыре беспилотника",
+      "summary_original": "",
+      "url": "https://ria.ru/20261127/besplotniki-2134503543.html",
+      "published": "2026-11-28T05:54:19+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "RIA Novosti",
+      "title_original": "В Москве прошла церемония вручения премии \"Радиомания\"",
+      "summary_original": "",
+      "url": "https://ria.ru/20261127/radiomaniya-2134500874.html",
+      "published": "2026-11-28T05:52:34+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "RIA Novosti",
+      "title_original": "Зеленский извинился перед Мелони за операции в Бенгази",
+      "summary_original": "",
+      "url": "https://ria.ru/20261127/zelenskij-2134500340.html",
+      "published": "2026-11-28T05:48:41+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "RIA Novosti",
+      "title_original": "В Ленобласти помогли людям, не успевшим пройти границу с Эстонией",
+      "summary_original": "",
+      "url": "https://ria.ru/20261127/estoniya-2134499863.html",
+      "published": "2026-11-28T05:42:50+09:00",
+      "via": "rss",
+      "state_media": true
+    },
+    {
+      "source": "Interfax",
+      "title_original": "Правительство РФ утвердило список аэропортов Новапорта для инвестсборов на реконструкцию",
+      "summary_original": "Правительство РФ утвердило список аэропортов холдинга \"Новапорт\", которые смогут ввести инфраструктурный сбор (или инвестсбор) с авиакомпаний для реконструкции аэродромной инфраструктуры в рамках концессионных соглашений.",
+      "url": "https://www.interfax.ru/russia/1131964",
+      "published": "2026-11-28T05:57:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Interfax",
+      "title_original": "Очередной случай оспы обезьян расследуется в Петербурге",
+      "summary_original": "Информация об очередном случае оспы обезьян в Петербурге проверяет Роспотребнадзор, сообщает межрегиональное управление ведомства в своих соцсетях.\"Межрегиональным управлением Роспотребнадзора по Петербургу и Ленинградской области получена информация о случае заболевания оспой обезьян у гражданина, вернувшегося из туристической поездки.",
+      "url": "https://www.interfax.ru/russia/1131962",
+      "published": "2026-11-28T05:47:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Interfax",
+      "title_original": "До 19 выросло число сбитых на подлете к Москве дронов",
+      "summary_original": "Мэр Москвы Сергей Собянин сообщил в пятницу об уничтожении еще восьми БПЛА, летевших на столицу.",
+      "url": "https://www.interfax.ru/russia/1131963",
+      "published": "2026-11-28T05:39:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Interfax",
+      "title_original": "\"Росморпорт\" получил в пользование часть акватории Финского залива Балтийского моря",
+      "summary_original": "Правительство РФ предоставило в пользование \"Росморпорту\" часть акватории Финского залива Балтийского моря на 20 лет.",
+      "url": "https://www.interfax.ru/russia/1131961",
+      "published": "2026-11-28T05:32:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Interfax",
+      "title_original": "Аэропорт \"Домодедово\" принимает и отправляет рейсы по согласованию",
+      "summary_original": "Московский аэропорт \"Домодедово\" обслуживает рейсы по согласованию с соответствующими органами, сообщает Росавиация в пятницу.\"Аэропорт Домодедово принимает и отправляет рейсы по согласованию с соответствующими органами в связи с введением временных ограничений на использование воздушного пространства в районе авиагавани\", - говорится в сообщении, опубликованном в канале ведомства в мессенджере Ma",
+      "url": "https://www.interfax.ru/russia/1131960",
+      "published": "2026-11-28T05:07:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Interfax",
+      "title_original": "СКА проиграл \"Барысу\" в КХЛ, пропустив семь шайб",
+      "summary_original": "Хоккеисты астанинского \"Барыса\" со счетом 7:4 победили петербургский СКА в матче регулярного чемпионата КХЛ.",
+      "url": "https://www.sport-interfax.ru/1131959",
+      "published": "2026-11-28T04:57:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Interfax",
+      "title_original": "Субханкулов уступил Крусу в бою за титул чемпиона мира по версии IBF",
+      "summary_original": "Российский боксер Артур Субханкулов потерпел поражение от кубинца Энди Круса в поединке за вакантный титул чемпиона мира по версии Международной боксерской федерации (IBF) в легком весе.",
+      "url": "https://www.sport-interfax.ru/1131958",
+      "published": "2026-11-28T04:44:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Interfax",
+      "title_original": "Пакистан, Турция и Саудовская Аравия осудили удары хуситов по королевству",
+      "summary_original": "Участники встречи политического и оборонительного комитета Мекканского соглашения осудили удары хуситов по Саудовской Аравии, сообщает в пятницу МИД Пакистана.\"Комитет вновь заявил о решительном осуждении постоянных и гнусных ударов хуситов по мирным гражданам и гражданским объектам в Саудовской Аравии, а также подчеркнул коллективную решительность продолжить активизацию усилий по поддержке короле",
+      "url": "https://www.interfax.ru/world/1131957",
+      "published": "2026-11-28T04:02:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Kommersant",
+      "title_original": "Флот Пермского периода // Как в Северодвинске Владимир Путин поднял флаг на атомном ракетоносце",
+      "summary_original": "27 ноября Верховный главнокомандующий Владимир Путин прилетел в Северодвинск, где участвовал в церемонии поднятия флага на атомном подводном ракетоносце «Пермь». Специальный корреспондент “Ъ” Андрей Колесников убедился: что хотели, то и сделали.",
+      "url": "https://www.kommersant.ru/doc/9144586",
+      "published": "2026-11-28T03:52:45+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Kommersant",
+      "title_original": "Потребители приценились к скидкам // Продажи непродовольственных товаров в ноябре выросли на 1–4% за год",
+      "summary_original": "Ноябрьские акции увеличили продажи товаров в массовых категориях. Для одежды и обуви прирост составил 4%, а для электроники — 1%. Это незначительно, но все же больше, чем годом ранее, когда реализация в тех же категориях сократилась на 8–17% в годовом выражении. Граждане стремятся экономить, но опасаются, что из-за инфляции и НДС на трансграничные заказы популярные товары подорожают, поэтому не от",
+      "url": "https://www.kommersant.ru/doc/9144483",
+      "published": "2026-11-28T01:52:03+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Kommersant",
+      "title_original": "Руслана Цаликова просят оправдать // Защита обжаловала приговор бывшему первому замминистра обороны",
+      "summary_original": "Как стало известно “Ъ”, защита бывшего первого замминистра обороны Руслана Цаликова, осужденного на десять лет за растрату 6,581 млрд руб. при поставках вещевого имущества военным, а также взятки и легализацию части похищенного, обжаловала приговор. Пока это сделал один из шести защитников осужденного. Он просит Мосгорсуд отменить судебный акт, а фигуранта оправдать.",
+      "url": "https://www.kommersant.ru/doc/9144427",
+      "published": "2026-11-28T00:09:10+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Kommersant",
+      "title_original": "Географичненько начали // Гукеш Доммараджу и Жавохир Синдаров открыли матч за титул чемпиона мира тремя ничьими",
+      "summary_original": "Первые три партии матча за титул чемпиона мира по шахматам между его обладателем Гукешем Доммараджу и Жавохиром Синдаровым в Женеве завершились вничью, а по-настоящему интересной среди них получилось только довольно живая третья.",
+      "url": "https://www.kommersant.ru/doc/9144443",
+      "published": "2026-11-27T23:41:53+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Kommersant",
+      "title_original": "Стамбульским фанатам поддали газу // В матче турецкого и израильского клубов участие приняла грузинская полиция",
+      "summary_original": "Матч Лиги Европы между турецким и израильским клубами — стамбульским «Бешикташем» и «Хапоэлем» из Беэр-Шевы — вылился в ЧП, которое вышло на государственный уровень. Встреча, проходившая на нейтральной площадке — в Батуми, была остановлена на полчаса, после того как в сектор, где располагались болельщики команды из Турции, скандировавшие пропалестинские лозунги, ворвались грузинские полицейские. Т",
+      "url": "https://www.kommersant.ru/doc/9144416",
+      "published": "2026-11-27T23:33:53+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Kommersant",
+      "title_original": "Дочь перед Рождеством // Вышел новый альбом Мортена Харкета",
+      "summary_original": "Еще не наступил декабрь, а главный рождественский альбом уже вышел. Формально он не называется «рождественским». Однако, как считает Игорь Гаврилов, вряд ли до конца года мы услышим что-то столь же примиряющее, праздничное, семейное и оптимистичное, как седьмой сольный альбом солиста норвежской группы A-Ha Мортена Харкета «Human Grace».",
+      "url": "https://www.kommersant.ru/doc/9144366",
+      "published": "2026-11-27T23:20:22+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Kommersant",
+      "title_original": "Из вице-губернатора не вышло мошенника // Суд оправдал бывшего чиновника, у которого изъяли 10 млрд рублей",
+      "summary_original": "Андрей Коробка, занимавший должность заместителя губернатора Краснодарского края, оправдан по скандальному уголовному делу о хищении 15 млн руб. у застройщика. Следствие полагало, что чиновник обманул бизнесмена, уговорив его вложить деньги в спорт, не обеспечив взамен согласование застройки территории бывшего сахарного завода. Фигурант же утверждал, что себе не присвоил ни копейки. Перед разбират",
+      "url": "https://www.kommersant.ru/doc/9144226",
+      "published": "2026-11-27T22:50:58+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Kommersant",
+      "title_original": "У Европы не сходится дебет с кредитом // Лидеры ЕС не смогли принять семилетний бюджет",
+      "summary_original": "Внеочередной саммит ЕС в Брюсселе, изначально рассчитанный на два дня, завершился досрочно после того, как несколько стран из «экономной семерки» отказались продолжать консультации по бюджету на 2028–2034 годы. Это не значит, что бюджет ЕС не согласуют: лидеры ЕС вернутся к переговорам 17 декабря. Но, судя по событиям этой недели, бюджет и дополнительные деньги для Киева если и утвердят, то со зна",
+      "url": "https://www.kommersant.ru/doc/9144379",
+      "published": "2026-11-27T22:17:19+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Meduza (독립·망명)",
+      "title_original": "В Санкт-Петербурге за два дня выявили три случая заражения оспой обезьян",
+      "summary_original": "В Санкт-Петербурге 27 ноября зарегистрирован новый случай заболевания оспой обезьян. Об этом пишет «Фонтанка».",
+      "url": "https://meduza.io/news/2026/11/27/v-sankt-peterburge-za-dva-dnya-vyyavili-tri-sluchaya-zarazheniya-ospoy-obezyan",
+      "published": "2026-11-28T05:50:44+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Meduza (독립·망명)",
+      "title_original": "На фронте впервые погиб военный, родившийся во время президентства Медведева. Когда началась война, ему было 13 лет",
+      "summary_original": "На войне с Украиной погиб 18-летний россиянин Данил Курленя. Как сообщает «Медиазона», это первый известный случай гибели военного, родившегося при президентстве Дмитрия Медведева.",
+      "url": "https://meduza.io/news/2026/11/27/na-fronte-vpervye-pogib-voennyy-rodivshiysya-vo-vremya-prezidentstva-medvedeva-kogda-nachalas-voyna-emu-bylo-13-let",
+      "published": "2026-11-28T04:40:35+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Meduza (독립·망명)",
+      "title_original": "В Беларуси заблокируют Spotify. Власти заявили, что компания не выплатила долги по налогам",
+      "summary_original": "В Беларуси заблокируют стриминговый сервис Spotify, сообщило Министерство по налогам и сборам. Блокировка начнется 1 декабря.",
+      "url": "https://meduza.io/news/2026/11/27/v-belarusi-zablokiruyut-spotify-vlasti-zayavili-chto-kompaniya-ne-vyplatila-dolgi-po-nalogam",
+      "published": "2026-11-28T03:52:02+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Meduza (독립·망명)",
+      "title_original": "Умер бывший главный нарколог Минздрава Евгений Брюн. В начале года его по состоянию здоровья досрочно освободили из колонии",
+      "summary_original": "Умер бывший главный нарколог Минздрава Евгений Брюн, пишет РБК, ссылаясь на источник в его окружении.",
+      "url": "https://meduza.io/news/2026/11/27/umer-byvshiy-glavnyy-narkolog-minzdrava-evgeniy-bryun-v-nachale-goda-ego-po-sostoyaniyu-zdorovya-dosrochno-osvobodili-iz-kolonii",
+      "published": "2026-11-28T02:44:44+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Meduza (독립·망명)",
+      "title_original": "С помощью российских ИИ можно готовить «геополитические прорывы», заявил спецпредставитель Путина Кирилл Дмитриев. Он участвует в переговорах с США по Украине",
+      "summary_original": "Искусственный интеллект помогает готовиться к переговорам, а с помощью российских ИИ-моделей можно готовить «геополитические прорывы», заявил спецпредставитель президента РФ и глава РФПИ Кирилл Дмитриев.",
+      "url": "https://meduza.io/news/2026/11/27/s-pomoschyu-rossiyskih-ii-mozhno-gotovit-geopoliticheskie-proryvy-zayavil-spetspredstavitel-putina-kirill-dmitriev-on-uchastvuet-v-peregovorah-s-ssha-po-ukraine",
+      "published": "2026-11-28T02:18:47+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Meduza (독립·망명)",
+      "title_original": "«Важные истории»: компании, связанные с Дерипаской, проводили деньги через «ландромат» венгерского банка, близкого к Орбану",
+      "summary_original": "Deutsche Bank выявил сеть компаний-пустышек со счетами в венгерском банке MKB, в которую входили фирмы, связанные с российским миллиардером Олегом Дерипаской. Об этом пишут «Важные истории», ссылаясь на внутренние документы Deutsche Bank.",
+      "url": "https://meduza.io/news/2026/11/27/vazhnye-istorii-kompanii-svyazannye-s-deripaskoy-provodili-dengi-cherez-landromat-vengerskogo-banka-blizkogo-k-orbanu",
+      "published": "2026-11-28T01:49:08+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Meduza (독립·망명)",
+      "title_original": "Минюст РФ добавил еще 11 человек в список «врагов народа». В их числе — Илья Яшин и Денис Катаев",
+      "summary_original": "Минюст РФ пополнил список уехавших из России людей, к которым применяются «временные ограничительные меры», известный в СМИ как «реестр врагов народа».",
+      "url": "https://meduza.io/news/2026/11/27/minyust-rf-dobavil-esche-11-chelovek-v-spisok-vragov-naroda-v-ih-chisle-ilya-yashin-i-denis-kataev",
+      "published": "2026-11-28T00:56:28+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Meduza (독립·망명)",
+      "title_original": "Архив независимых медиа RIMA объявили «нежелательным» в России",
+      "summary_original": "Минюст России включил архив независимых медиа RIMA (Russian Independent Media Archive) в реестр «нежелательных» организаций.",
+      "url": "https://meduza.io/news/2026/11/27/arhiv-nezavisimyh-media-rima-ob-yavili-nezhelatelnym-v-rossii",
+      "published": "2026-11-28T00:45:50+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Vedomosti",
+      "title_original": "Силы ПВО уничтожили 19 беспилотников на подлете к Москве",
+      "summary_original": "",
+      "url": "https://www.vedomosti.ru/politics/news/2026/11/27/1416208-unichtozhili-19-bespilotnikov",
+      "published": "2026-11-28T05:36:22+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Vedomosti",
+      "title_original": "Дмитриев: ИИ помогает готовиться к международным переговорам",
+      "summary_original": "",
+      "url": "https://www.vedomosti.ru/politics/news/2026/11/27/1416207-ii-pomogaet-gotovitsya",
+      "published": "2026-11-28T05:19:45+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Vedomosti",
+      "title_original": "В «Сенеже» стартовало обучение избранных в Госдуму ветеранов спецоперации",
+      "summary_original": "",
+      "url": "https://www.vedomosti.ru/politics/news/2026/11/27/1416205-v-senezhe-startovalo",
+      "published": "2026-11-28T05:10:13+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Vedomosti",
+      "title_original": "Генпрокуратура Польши назвала основные причины авиакатастрофы под Смоленском",
+      "summary_original": "",
+      "url": "https://www.vedomosti.ru/politics/news/2026/11/27/1416206-genprokuratura-polshi-nazvala",
+      "published": "2026-11-28T05:06:43+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Vedomosti",
+      "title_original": "В Белоруссии заблокируют Spotify",
+      "summary_original": "",
+      "url": "https://www.vedomosti.ru/politics/news/2026/11/27/1416202-zablokiruyut-spotify",
+      "published": "2026-11-28T04:28:12+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Vedomosti",
+      "title_original": "Правительство утвердило правила уплаты технологического сбора на электронику",
+      "summary_original": "Он начнет действовать с декабря и на первом этапе коснется ноутбуков и смартфонов",
+      "url": "https://www.vedomosti.ru/economics/news/2026/11/27/1416201-pravitelstvo-utverdilo-pravila",
+      "published": "2026-11-28T04:16:12+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Vedomosti",
+      "title_original": "Путин призвал улучшать характеристики высокоточного оружия",
+      "summary_original": "",
+      "url": "https://www.vedomosti.ru/politics/news/2026/11/27/1416198-putin-prizval-uluchshat",
+      "published": "2026-11-28T03:36:17+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Vedomosti",
+      "title_original": "Силы ПВО сбили 74 беспилотника над регионами России",
+      "summary_original": "",
+      "url": "https://www.vedomosti.ru/politics/news/2026/11/27/1416197-sbili-74-bespilotnika",
+      "published": "2026-11-28T03:18:16+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "Spiegel рассказал, как «князья ИИ» готовятся к концу света",
+      "summary_original": "Марк Цукерберг обустраивает убежище на Гавайях, а Сэм Альтман запасается оружием, золотом и лекарствами, пишет Spiegel. Руководители ИИ-компаний готовятся к последствиям возможного технологического кризиса.",
+      "url": "https://www.rbc.ru/technology_and_media/27/11/2026/6b09ba18aecf8074dd883411",
+      "published": "2026-11-28T05:48:22+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "В Петербурге выявили новый случай заражения оспой обезьян",
+      "summary_original": "В Санкт-Петербурге выявили новый случай заражения оспой обезьян у человека, вернувшегося из туристической поездки.",
+      "url": "https://www.rbc.ru/rbcfreenews/6b09eab5189f0d5faa2bfcf5",
+      "published": "2026-11-28T05:45:06+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "Дмитриев оценил, можно ли писать международные соглашения с помощью ИИ",
+      "summary_original": "Глава РФПИ рассказал, что ИИ может предложить проект дипломатического соглашения и помочь точнее отразить в нем позицию России. При этом Дмитриев призвал проверять ответы и сохранять контроль человека",
+      "url": "https://www.rbc.ru/politics/27/11/2026/6b09d7bbc17330ad4b614964",
+      "published": "2026-11-28T05:29:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "Силы ПВО сбили более 20 беспилотников, летевших на Москву",
+      "summary_original": "Силы противовоздушной обороны Минобороны сбили 11 беспилотников, летевших на Москву, сообщил мэр столицы Сергей Собянин.",
+      "url": "https://www.rbc.ru/rbcfreenews/6b09e3ba38ef3b65fb2e4df6",
+      "published": "2026-11-28T05:15:14+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "В Киеве признали, что не координировали атаку на порт Ливии с Европой",
+      "summary_original": "Украинский лидер Владимир Зеленский подтвердил, что атака Киева на ливийский порт Бенгази была проведена без предварительной координации с европейскими партнерами.",
+      "url": "https://www.rbc.ru/politics/27/11/2026/6b09dfa1bf589f52924f6a5f",
+      "published": "2026-11-28T05:01:30+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "В Иране обвинили Украину в «операции под чужим флагом» на Ближнем Востоке",
+      "summary_original": "Тегеран отвергает причастность к атаке на Кувейт, в результате которой погибли два итальянца. Иранские источники предположили участие Киева, ссылаясь на его возможную сеть дронов на Ближнем Востоке, но доказательств не представили",
+      "url": "https://www.rbc.ru/politics/27/11/2026/6b09c39cee5210172bad470c",
+      "published": "2026-11-28T04:58:11+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "Из закрытого аэропорта на Украине вылетел транспортный самолет",
+      "summary_original": "Из закрытого аэропорта Черновцов на Украине 26 ноября вылетел транспортный самолет Ан-12 одного из украинских перевозчиков, следует из данных сервиса Flightradar24.",
+      "url": "https://www.rbc.ru/rbcfreenews/6b09db3dbf589f52924f6a59",
+      "published": "2026-11-28T04:50:12+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "RBC",
+      "title_original": "Кабмин установил единый тариф на электричество для жителей СНТ",
+      "summary_original": "Правительство России установило единый тариф на электроэнергию для жителей садоводческих некоммерческих товариществ (СНТ) независимо от расположения участков и способа заключения договора с поставщиком, сообщила Федеральная антимонопольная служба (ФАС).",
+      "url": "https://www.rbc.ru/rbcfreenews/6b09d38aaecf8074dd883442",
+      "published": "2026-11-28T04:34:56+09:00",
+      "via": "rss",
+      "state_media": false
+    }
+  ],
+  "unavailable_sources": [],
+  "errors": {
+    "Rossiya 24 (Vesti)": [
+      "rss 실패: HTTPError: HTTP Error 404: Not Found"
+    ]
+  }
+}
