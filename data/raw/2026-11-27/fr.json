@@ -1,8 +1,44 @@
 {
   "team": "fr",
   "team_name_ko": "프랑스팀",
-  "collected_at": "2026-11-27T06:12:44.522562+09:00",
+  "collected_at": "2026-11-27T11:25:30.900501+09:00",
   "headlines": [
+    {
+      "source": "France 24",
+      "title_original": "Thanksgiving : ce que Friends ne raconte pas",
+      "summary_original": "Aux États-Unis, ce jeudi, c’est Thanksgiving. Des millions d’Américains prennent la route pour se retrouver autour d'une énorme dinde, c'est la tradition. Mais derrière ce repas copieux et les récits populaires qui en découlent, notamment dans les films et séries, se cache une réalité historique tragique.",
+      "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261127-thanksgiving-ce-que-friends-ne-raconte-pas",
+      "published": "2026-11-27T09:22:09+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Élections en Espagne : les socialistes de Pedro Sanchez orchestrent-ils une \"fraude massive\" ?",
+      "summary_original": "À quelques jours d’élections législatives anticipées cruciales pour le Premier ministre socialiste Pedro Sánchez, les accusations de fraude électorale se multiplient en Espagne. Détournement d'identité numérique, vote par correspondance truqué ou encore migrants rajoutés dans des listes : les intox s'empilent pour tenter de jeter le discrédit sur le scrutin.",
+      "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261126-%C3%A9lections-en-espagne-les-socialistes-de-pedro-sanchez-orchestrent-ils-une-fraude-massive",
+      "published": "2026-11-27T07:37:44+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Vladimir Poutine, Benjamin Netanyahu... \"Tous ces gens-là se retrouveront au tribunal\" (Plantu)",
+      "summary_original": "Le dessinateur Plantu est revenu pour nous sur ses plus célèbres dessins d'actualité. Parmi eux, une scène de jugement à la CPI, la Cour pénale internationale. L'émission est à retrouver dans son intégralité ce samedi midi sur la chaîne YouTube de France 24.",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261126-vladimir-poutine-benjamin-netanyahu-tous-ces-gens-l%C3%A0-se-retrouveront-au-tribunal-plantu",
+      "published": "2026-11-27T07:06:26+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Cyril Ramaphosa évite la destitution",
+      "summary_original": "Dans l'édition du jour, Cyril Ramaphosa écarte la procédure de destitution qui aurait pu mettre un terme à sa présidence. Le chef de l'État sud-africain a été accusé d'avoir caché à la police et au fisc un cambriolage en 2020 dans sa ferme luxueuse de Phala Phala.",
+      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261126-cyril-ramaphosa-%C3%A9vite-la-destitution",
+      "published": "2026-11-27T07:00:05+09:00",
+      "via": "rss",
+      "state_media": false
+    },
     {
       "source": "France 24",
       "title_original": "À l'Institut du monde arabe, une soirée dédiée aux \"voix iraniennes\" perturbée par des monarchistes",
@@ -40,111 +76,111 @@
       "state_media": false
     },
     {
-      "source": "France 24",
-      "title_original": "L'orpaillage illégal atteint des niveaux record en Guyane française",
-      "summary_original": "Jamais il n'y avait eu autant de site d'orpaillage illégal en Guyane. 239 ont été recensés lors du dernier survol du département en août. La faute aux cours de l'or. Le prix du gramme a été multiplié par 3 en quelques années. Les dégâts sur l'environnement et la santé des Guyanais sont considérables et les autorités ne parviennent pas à endiguer le problème. Des habitants et ONG ont attaqué l'État",
-      "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261126-l-orpaillage-ill%C3%A9gal-atteint-des-niveaux-record-en-guyane-fran%C3%A7aise",
-      "published": "2026-11-27T04:07:19+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "France 24",
-      "title_original": "Bukele assoit sa popularité en Haïti",
-      "summary_original": "En Haïti, le gouvernement fait appel au Salvador pour lutter contre les gangs. Plus de 2 000 soldats salvadoriens ont été déployés à Port-au-Prince, mais cet accord suscite des inquiétudes sur le respect des droits humains. Cette coopération peut-elle rétablir la sécurité sans aggraver les violences ? Roméo Langlois, grand reporter à France 24, et Roromme Chantal, professeur de sciences politiques",
-      "url": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261126-bukele-assoit-sa-popularit%C3%A9-en-ha%C3%AFti",
-      "published": "2026-11-27T04:02:23+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "France 24",
-      "title_original": "Navires russes ciblés en Libye : que sait-on des drones navals utilisés par l'armée ukrainienne ?",
-      "summary_original": "Lundi, le président ukrainien Volodymyr Zelensky a revendiqué l'attaque de deux navires russes le long des côtes libyennes avec des drones navals. Ces modèles de drones ont été utilisés à plusieurs reprises ces derniers mois par l'armée ukrainienne.",
-      "url": "https://www.france24.com/fr/europe/20261126-navires-russes-cibl%C3%A9s-libye-que-sait-on-drones-navals-utilis%C3%A9s-arm%C3%A9e-ukrainienne",
-      "published": "2026-11-27T04:01:04+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "France 24",
-      "title_original": "David Lisnard et sa position face au RN, propos de Teddy Riner sur l'Ukraine",
-      "summary_original": "La présidentielle est dans cinq mois et un candidat monte dans les sondages : le maire de Cannes, David Lisnard. Est-il ambigu vis-à-vis de l'extrême droite comme l'accusent ses opposants ? Autre sujet : l'actualité à gauche avec François Hollande qui avance ses pions et la polémique créée par Teddy Riner et ses propos sur l'Ukraine. Il est aussi question des nouveaux éléments sur les écrits antis",
-      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261126-david-lisnard-et-sa-position-face-au-rn-propos-de-teddy-riner-sur-l-ukraine",
-      "published": "2026-11-27T03:36:31+09:00",
+      "source": "franceinfo (France 2)",
+      "title_original": "Regardez le replay de \"Complément d'enquête\". Interpol : une police hors de contrôle ?",
+      "summary_original": "Détournement de ses outils par des régimes autoritaires, corruption interne, données insuffisamment protégées... \"Complément d’enquête\" met au jour une série de failles aux lourdes conséquences au sein de l’organisation internationale.",
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/complement-d-enquete-interpol-une-police-hors-de-controle_8270150.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-27T08:54:29+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "franceinfo (France 2)",
-      "title_original": "\"ChatGPT m'a dit de vous appeler\" : les centres antipoison débordés à cause de l'IA",
-      "summary_original": "Depuis l'été, les appels aux centres antipoison se multiplient et ne relèvent pas de la toxicologie. Souvent, l'intelligence artificielle conseille à ses utilisateurs de les appeler, même quand ce n'est pas nécessaire.",
-      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/chatgpt-m-a-dit-de-vous-appeler-les-centres-antipoison-debordes-a-cause-de-l-ia_8302050.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-27T05:51:55+09:00",
+      "title_original": "Regardez le replay de l'émission \"Envoyé spécial\" de jeudi",
+      "summary_original": "Au sommaire : \"Captation d'héritage : les seniors pris pour cible\", \"Ce soir on sort danser... sans les hommes !\", \"Pays baltes : à votre bunker !\".",
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/envoye-special-du-jeudi-26-novembre-2026_8270153.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-27T08:07:45+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "franceinfo (France 2)",
-      "title_original": "\"Si on abandonnait l'Ukraine, on mettrait en péril notre sécurité à court ou moyen terme\", affirme Emmanuel Macron",
-      "summary_original": "Cette prise de parole intervient alors que la veille, Teddy Riner, candidat surprise à l'élection présidentielle, a affirmé, à propos du conflit : \"Je ne comprends pas qu'on envoie des troupes en Ukraine, ce n'est pas notre guerre.\"",
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/si-on-abandonnait-l-ukraine-on-mettrait-en-peril-notre-securite-a-court-ou-moyen-terme-affirme-emmanuel-macron_8302044.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-27T05:36:36+09:00",
+      "title_original": "Cinquante organisations présentent 60 mesures pour refonder la protection sociale dans le cadre de la campagne présidentielle",
+      "summary_original": "Ces organisations, qui comprennent la Mutualité Française ou encore la CFDT, ont rassemblé 60 idées pour enrayer le creusement du déficit de la Sécurité sociale, et rendre le système \"plus juste\" et \"plus efficace\".",
+      "url": "https://www.franceinfo.fr/societe/cinquante-organisations-presentent-60-mesures-pour-refonder-la-protection-sociale-dans-le-cadre-de-la-campagne-presidentielle_8302125.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-27T08:03:14+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "franceinfo (France 2)",
-      "title_original": "Une banderole pro-palestinienne déployée durant le match de Ligue Europa entre Besiktas et Hapoel Beer-Sheva provoque des remous diplomatiques",
-      "summary_original": "La banderole, affichée en tribunes par les supporters turcs de Besiktas, a déclenché des heurts en tribunes, et conduit les ministres des Affaires étrangères truc et géorgien, où se tenait le match, à s'entretenir.",
-      "url": "https://www.franceinfo.fr/sports/foot/ligue-europa/une-banderole-pro-palestinienne-deployee-durant-le-match-de-ligue-europa-entre-besiktas-et-hapoel-beer-sheva-provoque-des-remous-diplomatiques_8302029.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-27T05:24:00+09:00",
+      "title_original": "\"Il faut plus d'humilité quand on fait campagne\" : Emmanuel Macron tacle la \"drôle d'arrogance\" de Marine Le Pen",
+      "summary_original": "La candidate du parti d'extrême droite avait auparavant dénoncé \"de basses manœuvres politiciennes\" pour conclure d'ici la fin de l'année un accord sur le budget européen qui serait difficile à remettre en cause si elle remportait la présidentielle.",
+      "url": "https://www.franceinfo.fr/politique/emmanuel-macron/il-faut-plus-d-humilite-quand-on-fait-campagne-emmanuel-macron-tacle-la-drole-d-arrogance-de-marine-le-pen_8302119.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-27T07:25:56+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "franceinfo (France 2)",
-      "title_original": "De la Californie au Pérou, des vagues géantes déferlent sur les côtes du continent américain",
-      "summary_original": "Des vagues de plus de 9 mètres de haut frappent les côtes de l'ouest du continent américain. En Californie, des maisons sont inondées et une jetée emblématique de la baie de San Francisco s'est effondrée sous la puissance de la houle. Du Canada au Pérou, plusieurs territoires sont touchés par ces conditions maritimes exceptionnelles.",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/de-la-californie-au-perou-des-vagues-geantes-deferlent-sur-les-cotes-du-continent-americain_8302032.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-27T05:19:29+09:00",
+      "title_original": "Mauvaises opérations pour Lyon et Rennes, qui manquent de rejoindre le Top 8 de la Ligue Europa",
+      "summary_original": "L'OL n'a pu faire mieux qu'un match nul jeudi contre la modeste équipe norvégienne de Lilleström, alors que le Stade Rennais s'est incliné chez les Néerlandais du NEC Nimègue.",
+      "url": "https://www.franceinfo.fr/sports/foot/ligue-europa/mauvaises-operations-pour-lyon-et-rennes-qui-manquent-de-rejoindre-le-top-8-de-la-ligue-europa_8302110.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-27T07:00:19+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "franceinfo (France 2)",
-      "title_original": "Féminicide de Karen Baldi : Georges Damiano condamné à la réclusion criminelle à perpétuité pour assassinat",
-      "summary_original": "Ce jeudi 26 novembre, la cour d’assises de la Savoie a rendu son verdict dans le procès de Georges Damiano, jugé pour avoir tué son ex-femme, Karen Baldi, à coups de machette en août 2023, à La Croix-de-la-Rochette (Savoie). Le sexagénaire a été reconnu coupable d'assassinat et condamné à la réclusion criminelle à perpétuité.",
-      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/savoie/chambery/feminicide-de-karen-baldi-georges-damiano-condamne-a-la-reclusion-criminelle-a-perpetuite-pour-assassinat-3456221.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-27T05:08:43+09:00",
+      "title_original": "\"C'est ma dernière campagne\", annonce le candidat de Reconquête à la présidentielle Eric Zemmour",
+      "summary_original": "L'entrée en lice du candidat d'extrême droite avait mis un terme à la possibilité que Sarah Knafo concoure à sa place, sa popularité l'ayant un temps fait apparaître comme la possible candidate de Reconquête à l'Elysée.",
+      "url": "https://www.franceinfo.fr/politique/eric-zemmour/c-est-ma-derniere-campagne-annonce-le-candidat-de-reconquete-a-la-presidentielle-eric-zemmour_8302101.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-27T06:55:56+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "franceinfo (France 2)",
-      "title_original": "Présidentielle 2027 : \"Il faut plus d'humilité quand on fait campagne\", tacle Emmanuel Macron en direction de Marine Le Pen",
-      "summary_original": "\"C'est une drôle d'arrogance de penser qu'elle serait déjà en charge du destin de la France\", a déclaré jeudi le chef de l'Etat. La candidate du RN à l'Elysée a dénoncé, un peu plus tôt, \"de basses manœuvres politiciennes\" pour conclure un accord sur le budget européen.",
-      "url": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-a-l-assemblee-les-republicains-proposent-de-durcir-la-reponse-penale-lors-de-leur-niche-parlementaire_8300802.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-27T05:05:55+09:00",
+      "title_original": "L'IGPN ouvre une enquête à Toulouse après la plainte d'un manifestant grièvement blessé à la main lors de la mobilisation du 24 octobre",
+      "summary_original": "Âgé de 20 ans, Tedy Durand a été mutilé par une grenade dans le quartier des Arènes lors de la mobilisation contre la vie chère. Le jeune homme témoigne de son lourd traumatisme, après deux opérations à l'hôpital Purpan.",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/l-igpn-ouvre-une-enquete-a-toulouse-apres-la-plainte-d-un-manifestant-grievement-blesse-a-la-main-lors-de-la-mobilisation-du-24-octobre_8302107.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-27T06:53:56+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "franceinfo (France 2)",
-      "title_original": "À Paris, cette gare de marchandises à 91 millions d'euros n'a jamais accueilli de train",
-      "summary_original": "Inaugurée il y a huit ans dans le nord de Paris, une gare de marchandises à 91 millions d'euros n'a jamais accueilli le moindre train de fret. Faute de créneaux disponibles sur le réseau ferroviaire, le site a été reconverti en dépôt pour une filiale de La Poste. La SNCF et la Cour des comptes n'envisagent pas sa mise en service avant 2030.",
-      "url": "https://www.franceinfo.fr/economie/a-paris-cette-gare-de-marchandises-a-91-millions-d-euros-n-a-jamais-accueilli-de-train_8302014.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-27T05:04:21+09:00",
+      "title_original": "Kiev assure n'avoir \"aucune intention d'étendre la guerre\" à la Libye, après l'attaque de navires russes près de Benghazi",
+      "summary_original": "Deux navires, russes d'après la présidence ukrainienne, ont été attaqués, dimanche, dans le port et au large de Benghazi, en Libye.",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/kiev-assure-n-avoir-aucune-intention-d-etendre-la-guerre-a-la-libye-apres-l-attaque-de-navires-russes-pres-de-benghazi_8302074.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-27T06:19:06+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "franceinfo (France 2)",
-      "title_original": "\"La violence, la terreur et la mort...\" : Emilie König confrontée à son engagement pour l'Etat islamique et au sort de ses enfants, à l'ouverture de son procès",
-      "summary_original": "Cette ex-figure française du jihad en Syrie est jugée devant la cour d'assises spéciale de Paris pour \"association de malfaiteurs terroriste\". La \"revenante\" encourt trente ans de réclusion criminelle.",
-      "url": "https://www.franceinfo.fr/faits-divers/terrorisme/la-violence-la-terreur-et-la-mort-emilie-konig-confrontee-a-son-engagement-pour-l-etat-islamique-et-au-sort-de-ses-enfants-a-l-ouverture-de-son-proces_8301786.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-27T05:00:32+09:00",
-      "via": "rss",
+      "source": "TF1 Info",
+      "title_original": "L'Agence France-Presse victime d'une cyberattaque, l'une de ses plateformes temporairement inaccessible",
+      "summary_original": "L'Agence France-Presse victime d'une cyberattaque, l'une de ses plateformes temporairement inaccessible TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWDFqY0d6TC04clQ3NTF6NjExcGg0XzFadnIwUllsUFh2RFUtTmUxQkI1MmxBTWNKQVNVcENyQWRTQ0dhZWg2TTlkN3FuajZ1alhCZThHS3RyQ1hEdDVXQm14TFp4REpULThfUTNINmg0eDN5aEQyX3hyUjRvdUs0TVVtLWJoal9PcjQzaDBVbTNpNk14a09qNUFGWUx0eVkwcHQ3T1d3WjFqXy1xSHA3Y0ZQeGZxeE9pWWIxT3p4ZDFkNEtKanZzYmlreVp2TmtPRWF6U2d4NkJRYmhmX3l4akVTZmRsbFlMSzdXcHlaVXE?oc=5",
+      "published": "2026-11-27T07:14:59+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Ligue Europa : incidents entre supporters marseillais et bulgares au stade Vélodrome",
+      "summary_original": "Ligue Europa : incidents entre supporters marseillais et bulgares au stade Vélodrome TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUkJkTndISkFRa0VqX2lxc2tocTJsTlk4REVIRUF6SXRzcU5feFBKU1pFRzkwelhnaEFvTzVZWEJoRS1MT1lwbjl0SHJ5VmdGekxxVHZBNTNVUWJjVHRzWjBadFMxM0JEYmxYQWVhMF9fUE5adFAxektlZ3NjUHE3YU9zU01nVzlqQ3RNcTN2RDl5YVk3NmVWNDFVWGtxanZVeGptUHVaUTVMUXVpLTlhQlRTXzczaU00alA0aDN5QVdiTUNsb09jVk16cTFPOTJfUEhpWS1R?oc=5",
+      "published": "2026-11-27T06:53:22+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Budget de l'UE : Emmanuel Macron critique la \"drôle d'arrogance\" de Marine Le Pen",
+      "summary_original": "Budget de l'UE : Emmanuel Macron critique la \"drôle d'arrogance\" de Marine Le Pen TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeFhpLWJ6UnBETE1yM1VIZDJsMHJxVUNEUjYtTDg2dnp1dlBoSEo3c1cxNDB5VDNzbGJ6X0h2aW1jMDREOFN4NGZtQktIeFpwOWIwcGNYQjR6OUd0MWJjTzRNUzE5YzFCY3NncTlqaDFiSE5NeHRGNWJ5MWF5el85MFNjS0EtWlZCMTZNZDJPYVptd0hqV3A1bnlRbUgwRmgwVXVwYUptd0g0MU10c0dXV0xLa01EdkpSOWkzVEdJR1I0UHhLX2dMVVRXVXpZczBadVRhbEpzZXEtMHVRd19Gd0Nn?oc=5",
+      "published": "2026-11-27T06:40:07+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Féminicide en Savoie : l'ex-époux de la policière assassinée à la machette condamné à la perpétuité",
+      "summary_original": "Féminicide en Savoie : l'ex-époux de la policière assassinée à la machette condamné à la perpétuité TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQ1RKNi1NOFJ2blpVQXY3NnpTbjhjZ2YycTZVOXVBQ1pUNm1QdTdSNVFObU5sRllpRjBLNVRoTkpYSzZja25MdlBwRGw2bmJPNkpIQTY0WDF1YXFOQW1mUlhKZUlNUzdYZWUyaEt5YlgtYVdEbjY1Vm9nOWhQa1JGbVpnOUswalhJQ1JHbTF3OWlaWHczamFBOG9KQ2RCS3lIYlJuZWc5cGh0emgyUnZYbFBvbWl0QlFRNnlaMFhZQUZUZ1BsR1BRRWcteHBCZDM4SnRpQ0tnS3BjNHNlNmhTdy13TElZTllQamc?oc=5",
+      "published": "2026-11-27T06:34:48+09:00",
+      "via": "google_news",
       "state_media": false
     },
     {
@@ -167,10 +203,10 @@
     },
     {
       "source": "TF1 Info",
-      "title_original": "Des singes accros au sucre et à la nourriture à cause des touristes",
-      "summary_original": "Des singes accros au sucre et à la nourriture à cause des touristes TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeUxFWHJzSUJISHEzcUxWS1lMbmNlV2NkdGpJZUUzRmYyTnFFQUxNc2sxVXFLVkt4QkhGV0xFdHhUcFBCT0dBdTFueVZPRVZsUFVLMzlPQUhmLWVULXY0ekZQaFRZN1FnOHM1QmFwU2gtUDRRUXNrNEhfaXJqM1RsZllzR3B1QmNUZS1hLWNwSFNDNXdVQi10aTNVc21id2FvZFRvSXZ2RTVSUm1BdGFxM0RaTDF2VXQ2OGdIRGNpSVZVWjEyM0VhdE9n?oc=5",
-      "published": "2026-11-27T05:40:17+09:00",
+      "title_original": "Policiers blessés : la lente reconstruction",
+      "summary_original": "Policiers blessés : la lente reconstruction TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUEczY1FBNjRwWHo5ZnN2OThlZHYwTFlMQXJNaWFVLXhJSHRLVU5wQUtQUXdvVXBoTTJZNVF1UHE3NnlBcnJ1VjQteF9mcFdwOHN3TWoyTmVuWXNlMHBiaGRpcm43ZFB2Vk9uQzhXZktTVFM1UDd3UEV6TlFWN21xSkZRZFQ0cm9fRUJaM0FYTXBpTTZKRXlYZlVUeUdhN2Y3R3c4bVRiZVllc0NNdUs4Vmd6UTFxRHlG?oc=5",
+      "published": "2026-11-27T05:55:11+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -184,119 +220,101 @@
       "state_media": false
     },
     {
-      "source": "TF1 Info",
-      "title_original": "GRAND REPORTAGE - \"Ce sont des exercices d'assaut\" : comment le Canada tente de réaffirmer sa souveraineté dans l'Arctique convoité",
-      "summary_original": "GRAND REPORTAGE - \"Ce sont des exercices d'assaut\" : comment le Canada tente de réaffirmer sa souveraineté dans l'Arctique convoité TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQM09tSTlteG5hMFBncEZXV0dSZ1k4T0M0Q0h3aDRjTVhheHJDUzlXX25HOTh0bnNlT2J5ekNjTzNJVXRNcTQ0Yno1QVdRQ0dobHdyRU16aDhXdUp5WC1zTWc0OXpqRnJpNEUzTFA1R3o3c2hvdGw4SGdfY0psYXBhMDQzOVZOLWFtVVZYMVJ2SVRqTzQ1aW1GcWRNb3lzS2Vuam5JSWhLcldLVmJqN0FrMFBaVVlkZEdVeHZVaURDVkt5LTZuR1AzXzUxSW9OVk4tQmtoVkxsTVQxcGI4OWY3cUVWN1NXbUJfU0MwTzh6N244RFJsdVZGdUFoSWNjNThraUhCZGNVTDRBMWQ0T0V0ZEV5OUNMaFRkWWFQWHB3RXRXZm9WcEZiZjlzUnlLaTVrT1hwZjUxdjdZMVdybmRvVHVab1QzcDd2X2cxa1BGZGJPN1I4YWUw?oc=5",
-      "published": "2026-11-27T05:23:11+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "Réquisition de véhicule : les policiers en ont-ils le droit",
-      "summary_original": "Réquisition de véhicule : les policiers en ont-ils le droit TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcUhqY3o4NFpIVHNhS2hxZHd2UHpjYlYwaVplSFEyM3BmajBnOWJkUG1NM25LUGUyaWFFMDB2WWhUc2pSUGdhQWVhZjlvM3RVdF9mMGpxd2lvYnFqV0NUQ1VJWW9tVHp3Q3lHWHJaejdqdkRIaUtZVE5tcXljYzhBTnFxRTVHekxWWUxBRGotLUliMGt6VGxTcmU3bERoeVhMcTFkLVVSQTVGenJZeENjem9aNUF6RjJYdTRNcWFQMGxUTzlsTFcyNzdKcUJ3dw?oc=5",
-      "published": "2026-11-27T05:05:13+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "Miss France 2027 - \"L'idée de partir à la découverte de l'espace me fascine\" : l'interview décalée de Shana Mendes, Miss Nord-Pas-de-Calais",
-      "summary_original": "Miss France 2027 - \"L'idée de partir à la découverte de l'espace me fascine\" : l'interview décalée de Shana Mendes, Miss Nord-Pas-de-Calais TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQX2ZBTVE5dmkxUktMZXI5UDJ5c2xfS3NTZVRxWGJkcjljc0UyOTZkZXZJWDhsaXlMVzNERGtuQk8tS1R4VDNCZ3VKSzM4TUFYeVVVZE52Z2U1RkpCYzJ3dmJLc29wVk5mVDBaemRYc09JT25EVjVZRUF3bEZnSWRGZkh4UENPOXNJckdwSERsRW85SlREQ05tR2lBVFdranUwcnY2LU84TTlVVlQtT1BycjhGZzhBT1hFa3U2ZXcybWhUZUtraC1ucnBkbmh2cVh6cEhnY3N1Q2ZOQVpoVkY3eXNTNmhnci1kSDJkTnJDQnFMN0UxMDdvSXVRV3RkTmVsSXpYLTFORQ?oc=5",
-      "published": "2026-11-27T05:00:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "\"Chacun sa bulle de liberté\" : une psychologue explique comment éviter que l'argent devienne un sujet tabou dans votre relation",
-      "summary_original": "\"Chacun sa bulle de liberté\" : une psychologue explique comment éviter que l'argent devienne un sujet tabou dans votre relation TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxON2c2OE5CUk5GVUpWUVl1ZnFjRG9MN2xNWXFPaERwRi12QkNIbjAyeGhpc1F0WTRmaW9SY0ZLbk9FYU04UDhEY3R4VmltTjdyY1VmUF9pQ05iaTVWaXA1VzIzWWpGcXlDUzFGLUNiYkFUQXhTbkxJYzBNcmJwT3pMcGFaemxmamY3MjlFSU1FYUJoTVJwNm96UUtvSXRzM3BRSzJYNjM3YXZxUkFsM19qRFZNcGVzYUJtSkIzQ1FiOGxtVmpIYy15MEN6QTU5eU9BdXl2NzFkMDVuQkZ5WjVRNklTMTVlMFctdXJibTU2UElpZ1ctMHoxcTMxVQ?oc=5",
-      "published": "2026-11-27T04:00:47+09:00",
-      "via": "google_news",
+      "source": "BFMTV",
+      "title_original": "NEC Nimègue-Rennes: la colère des supporters bretons, qui jettent des gobelets contre leurs joueurs",
+      "summary_original": "Alors que leur équipe a concédé une piteuse défaite sur la pelouse de NEC Nimègue, jeudi soir à l'occasion de la 5e journée de Ligue Europa (3-1), les supporters du Stade rennais ont fait part de leur ras-le-bol au moment où les joueurs sont venus à leur rencontre.",
+      "url": "https://rmcsport.bfmtv.com/football/europa-league/nec-nimegue-rennes-la-colere-des-supporters-bretons-qui-jettent-des-gobelets-contre-leurs-joueurs_AV-202611261059.html",
+      "published": "2026-11-27T08:46:19+09:00",
+      "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "FORUM BFMTV - \"Ce qui a conduit à une explosion du nombre de personnels administratifs dans l'hôpital public, c'est l'importation des méthodes du privé\", explique Lucie Castets, maire \"Les Écologistes\" du 12e arrondissement de Paris",
+      "title_original": "Le Forum BFMTV – Impôts, argent public : le grand gâchis",
+      "summary_original": "Revoir notre grande émission spéciale \"Forum BFMTV – Impôts, argent public : le grand gâchis\" présentée par Maxime Switek ce jeudi 26 novembre 2026 sur BFMTV. À moins de cinq mois de l'élection présidentielle, les invités y ont exposé leurs points de vue sur les impôts et les services publics.",
+      "url": "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-le-forum-bfmtv-impots-argent-public-le-grand-gachis_VN-202611261063.html",
+      "published": "2026-11-27T08:45:22+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "FORUM BFMTV - IMPÔTS, ARGENT PUBLIC: LE GRAND GÂCHIS",
       "summary_original": "Ce jeudi soir à 21h, BFMTV propose un nouveau numéro du FORUM BFMTV : « Impôts, argent public : le grand gâchis » présenté par Maxime Switek. Entre fiscalité, dépenses publiques et dette, BFMTV consacre une soirée aux enjeux du financement et de la gestion des finances publiques. Cette semaine, BFMTV choisit de réunir : Professeur, infirmier, avocat, agent logistique, commerciale, boulanger ou enc",
-      "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-ce-qui-a-conduit-a-une-explosion-du-nombre-de-personnels-administratifs-dans-l-hopital-public-c-est-l-importation-des-methodes-du-prive-explique-lucie-castets-maire-les-ecologistes-du-12e-arrondissement-de-paris_VN-202611261001.html",
-      "published": "2026-11-27T06:07:39+09:00",
+      "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-impots-argent-public-le-grand-gachis_VN-202611261062.html",
+      "published": "2026-11-27T08:11:46+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "\"Il ne faut pas créer de doute et de trouble\": Emmanuel Macron réagit aux propos de Teddy Riner sur l'aide à l'Ukraine",
-      "summary_original": "Le président de la République a déclaré que \"l'Europe est là, unie derrière l'Ukraine\" après la remise en cause de l'aide française au pays par plusieurs candidats à la présidentielle, notamment Teddy Riner qui a déclaré que l'aide à Kiev se faisait \"au détriment\" d'autres besoins.",
-      "url": "https://www.bfmtv.com/politique/elysee/il-ne-faut-pas-creer-de-doute-et-de-trouble-emmanuel-macron-reagit-aux-propos-de-teddy-riner-sur-l-aide-a-l-ukraine_AD-202611260997.html",
-      "published": "2026-11-27T06:03:34+09:00",
+      "title_original": "OM-Levski Sofia: un supporter bulgare filmé en train d'effectuer un salut nazi",
+      "summary_original": "Alors que l'avant-match de Ligue Europa entre l'OM et le Levski Sofia a été marqué par de violents incidents en tribunes, jeudi soir (1-0), un supporter du club bulgare a également été filmé en train d'effectuer un salut nazi.",
+      "url": "https://rmcsport.bfmtv.com/football/europa-league/om-levski-sofia-un-supporter-bulgare-filme-en-train-d-effectuer-un-salut-nazi_AV-202611261045.html",
+      "published": "2026-11-27T08:06:26+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "\"Madame Le Pen elle fait campagne, et c'est une drôle d'arrogance de penser qu'elle serait déjà en charge du destin de la France\" déclare Emmanuel Macron, président de la République",
-      "summary_original": "\"Madame Le Pen elle fait campagne, et c'est une drôle d'arrogance de penser qu'elle serait déjà en charge du destin de la France\" déclare Emmanuel Macron, président de la République.",
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-madame-le-pen-elle-fait-campagne-et-c-est-une-drole-d-arrogance-de-penser-qu-elle-serait-deja-en-charge-du-destin-de-la-france-declare-emmanuel-macron-president-de-la-republique_VN-202611260994.html",
-      "published": "2026-11-27T05:59:08+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BFMTV",
-      "title_original": "FORUM BFMTV - Services publics: \"Il y a un manque de formation\", déplore Laure, assistante administrative indépendante dans le BTP",
+      "title_original": "Superprofits: \"En tant qu'employé, on ne reçoit rien ou très peu\", témoigne ce salarié chez Amazon",
       "summary_original": "Ce jeudi soir à 21h, BFMTV propose un nouveau numéro du FORUM BFMTV : « Impôts, argent public : le grand gâchis » présenté par Maxime Switek. Entre fiscalité, dépenses publiques et dette, BFMTV consacre une soirée aux enjeux du financement et de la gestion des finances publiques. Cette semaine, BFMTV choisit de réunir : Professeur, infirmier, avocat, agent logistique, commerciale, boulanger ou enc",
-      "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-services-publics-il-y-a-un-manque-de-formation-deplore-laure-assistante-administrative-independante-dans-le-btp_VN-202611260996.html",
-      "published": "2026-11-27T05:58:14+09:00",
+      "url": "https://www.bfmtv.com/societe/video-superprofits-en-tant-qu-employe-on-ne-recoit-rien-ou-tres-peu-temoigne-ce-salarie-chez-amazon_VN-202611261041.html",
+      "published": "2026-11-27T07:58:40+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Espagne : un navire transportant du carburant a fait naufrage au large d’Ibiza",
-      "summary_original": "Le naufrage d’un navire transportant du carburant est survenu dans la nuit de mercredi à jeudi, au large des côtes d’Ibiza. Pour une raison encore inconnue, le bâtiment a subi une voie d’eau entre Valence et Ibiza, alors qu’il faisait route d'Algésiras vers Barcelone.",
-      "url": "https://www.bfmtv.com/international/europe/espagne/video-espagne-un-navire-transportant-du-carburant-a-fait-naufrage-au-large-d-ibiza_VN-202611260991.html",
-      "published": "2026-11-27T05:53:52+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BFMTV",
-      "title_original": "Octave Klaba (OVHcloud) : OVHcloud lance sa propre famille de modèles IA- 26/11",
-      "summary_original": "Octave Klaba, fondateur et PDG d'OVHcloud, était l'invité de François Sorel dans Tech & Co, la quotidienne, ce jeudi 26 novembre. Il s'est penché sur le lancement de la propre famille de modèles IA d'OVHcloud, l'impact de l'affaire Nvidia sur l'écosystème IA, et l'entrée en bourse d'Anthropic, sur BFM Business. Retrouvez l'émission du lundi au jeudi et réécoutez la en podcast.e Canada ne compte pa",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-octave-klaba-ov-hcloud-ov-hcloud-lance-sa-propre-famille-de-modeles-ia-26-11_VN-202611260998.html",
-      "published": "2026-11-27T05:53:02+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BFMTV",
-      "title_original": "\"Je ne fais pas campagne et je ne la commente pas\", assure Emmanuel Macron",
-      "summary_original": "\"Madame Le Pen elle fait campagne, et c'est une drôle d'arrogance de penser qu'elle serait déjà en charge du destin de la France\" déclare Emmanuel Macron, président de la République",
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-je-ne-fais-pas-campagne-et-je-ne-la-commente-pas-assure-emmanuel-macron_VN-202611260990.html",
-      "published": "2026-11-27T05:53:01+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "BFMTV",
-      "title_original": "FORUM BFMTV - \"On s'est battu pour garder la poste\", témoigne Jean-François Vigier, maire de Bures-sur-Yvette et vice-président de l'AMF",
+      "title_original": "FORUM BFMTV - Allocations familiales: Jennifer, salariée en Ehpad, juge \"la redistribution trop importante\"",
       "summary_original": "Ce jeudi soir à 21h, BFMTV propose un nouveau numéro du FORUM BFMTV : « Impôts, argent public : le grand gâchis » présenté par Maxime Switek. Entre fiscalité, dépenses publiques et dette, BFMTV consacre une soirée aux enjeux du financement et de la gestion des finances publiques. Cette semaine, BFMTV choisit de réunir : Professeur, infirmier, avocat, agent logistique, commerciale, boulanger ou enc",
-      "url": "https://www.bfmtv.com/politique/video-forum-bfmtv-on-s-est-battu-pour-garder-la-poste-temoigne-jean-francois-vigier-maire-de-bures-sur-yvette-et-vice-president-de-l-amf_VN-202611260988.html",
-      "published": "2026-11-27T05:51:58+09:00",
+      "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-allocations-familiales-jennifer-salariee-en-ehpad-juge-la-redistribution-trop-importante_VN-202611261039.html",
+      "published": "2026-11-27T07:51:28+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "\"Que plus aucun match de Coupe d’Europe ne soit disputé dans ce stade\": le Levski Sofia demande une lourde sanction contre l'OM après les incidents au Vélodrome",
+      "summary_original": "Jeudi soir, le match de la 5e journée de Ligue Europa entre l'OM et le Levski Sofia (1-0) a été émaillé par de violents incidents entre supporters en tribune. Daniel Borimirov, directeur exécutif du club bulgare, a réclamé des sanctions contre les Marseillais.",
+      "url": "https://rmcsport.bfmtv.com/football/europa-league/que-plus-aucun-match-de-coupe-d-europe-ne-soit-dispute-dans-ce-stade-le-levski-sofia-demande-une-lourde-sanction-contre-l-om-apres-les-incidents-au-velodrome_AV-202611261037.html",
+      "published": "2026-11-27T07:43:11+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "BFMTV",
+      "title_original": "Superprofits: \"En tant qu'employé, on ne reçoit rien ou très peu\", confie ce salarié chez Amazon",
+      "summary_original": "Ce jeudi soir à 21h, BFMTV propose un nouveau numéro du FORUM BFMTV : « Impôts, argent public : le grand gâchis » présenté par Maxime Switek. Entre fiscalité, dépenses publiques et dette, BFMTV consacre une soirée aux enjeux du financement et de la gestion des finances publiques. Cette semaine, BFMTV choisit de réunir : Professeur, infirmier, avocat, agent logistique, commerciale, boulanger ou enc",
+      "url": "https://www.bfmtv.com/societe/video-superprofits-en-tant-qu-employe-on-ne-recoit-rien-ou-tres-peu-confie-ce-salarie-chez-amazon_VN-202611261036.html",
+      "published": "2026-11-27T07:38:44+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Le Monde",
-      "title_original": "EN DIRECT, présidentielle 2027 | Emmanuel Macron à propos de Marine Le Pen : « C’est une drôle d’arrogance de penser qu’elle serait déjà en charge du destin de la France »",
-      "summary_original": "« Jusqu’à preuve du contraire, elle n’a pas été élue. Et votre serviteur est élu jusqu’au 13 mai 2027 », a lancé le président français lors d’une conférence de presse au cours d’un sommet européen à Bruxelles.",
-      "url": "https://www.lemonde.fr/politique/live/2026/11/26/en-direct-presidentielle-2027-emmanuel-macron-a-propos-de-marine-le-pen-c-est-une-drole-d-arrogance-de-penser-qu-elle-serait-deja-en-charge-du-destin-de-la-france_6815062_823448.html",
-      "published": "2026-11-27T05:08:26+09:00",
+      "title_original": "EN DIRECT, guerre en Ukraine : Kiev n’a « aucune intention d’étendre la guerre à la Libye », assure le chef de la diplomatie ukrainienne",
+      "summary_original": "Andrii Sybiha dit avoir expliqué à son homologue libyen, Taher Al-Baour, « qu’aucune des actions de l’Ukraine n’a jamais été dirigée contre la Libye ou le peuple libyen, uniquement contre des objets militaires russes servant directement à la guerre de la Russie contre l’Ukraine ». Kiev a revendiqué lundi des frappes contre deux navires russes, près de Benghazi.",
+      "url": "https://www.lemonde.fr/international/live/2026/11/27/en-direct-guerre-en-ukraine-kiev-n-a-aucune-intention-d-etendre-la-guerre-a-la-libye-assure-le-chef-de-la-diplomatie-ukrainienne_6814183_3210.html",
+      "published": "2026-11-27T08:45:02+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "A Nice, dix membres d’un groupe « anticasseurs » devant la justice : « On était là pour les commerçants »",
+      "summary_original": "Dix membres présumés d’un « groupe d’autodéfense » constitué face aux manifestations de l’automne, soupçonnés d’être proches de l’ultradroite locale, comparaissaient jeudi 26 octobre devant le tribunal correctionnel de Nice pour association de malfaiteurs et transport d’armes.",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/26/a-nice-dix-membres-d-un-groupe-anticasseurs-devant-la-justice-on-etait-la-pour-les-commercants_6815626_3224.html",
+      "published": "2026-11-27T07:43:09+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Depuis Bruxelles, Emmanuel Macron reproche à Marine Le Pen de faire preuve d’une « drôle d’arrogance » en pensant « qu’elle serait déjà en charge du destin de la France »",
+      "summary_original": "La candidate du Rassemblement national a accusé le président de la République de s’adonner à de « basses manœuvres politiciennes » visant à conclure, d’ici à la fin de l’année, un accord sur le budget européen, qu’il lui serait difficile de remettre en cause si elle remportait l’élection présidentielle.",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/26/emmanuel-macron-rabroue-marine-le-pen-et-sa-drole-d-arrogance_6815601_823448.html",
+      "published": "2026-11-27T06:31:24+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -306,15 +324,6 @@
       "summary_original": "L’AFP a dit, jeudi soir, ne disposer « d’aucun élément sur l’identité des auteurs » de cette attaque. AFP Forum, l’un de ses principaux sites, est inaccessible.",
       "url": "https://www.lemonde.fr/actualite-medias/article/2026/11/26/l-afp-dit-avoir-ete-visee-par-une-cyberattaque-qui-paralyse-l-une-de-ses-plateformes-de-mise-a-disposition-des-depeches-et-des-images_6815596_3236.html",
       "published": "2026-11-27T04:38:05+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "EN DIRECT, guerre en Ukraine : les services de renseignement militaires ukrainiens ont revendiqué l’attaque de la raffinerie russe de Slaviansk-sur-Kouban",
-      "summary_original": "« De graves incendies se sont déclarés dans les installations endommagées. De plus, les dommages causés aux réservoirs de stockage du pétrole ont entraîné des déversements », selon l’exploitant Slaviansk ECO.",
-      "url": "https://www.lemonde.fr/international/live/2026/11/26/en-direct-guerre-en-ukraine-les-services-de-renseignement-militaires-ukrainiens-ont-revendique-l-attaque-de-la-raffinerie-russe-de-slaviansk-sur-kouban_6814183_3210.html",
-      "published": "2026-11-27T04:25:06+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -338,10 +347,10 @@
     },
     {
       "source": "Le Monde",
-      "title_original": "Des policiers manifestent leur colère devant les commissariats en France : « On veut que notre travail soit reconnu »",
-      "summary_original": "Plusieurs rassemblements de fonctionnaires de police ont eu lieu, jeudi, pour réclamer, notamment, une hausse de la prime de risque. Cette démonstration de force, soutenue par les trois principaux syndicats, intervient à la veille des élections professionnelles dans la fonction publique.",
-      "url": "https://www.lemonde.fr/societe/article/2026/11/26/des-policiers-manifestent-leur-colere-devant-les-commissariats-en-france-on-veut-que-notre-travail-soit-reconnu_6815591_3224.html",
-      "published": "2026-11-27T03:06:53+09:00",
+      "title_original": "Le Louvre, un monument modèle résumé en 300 photographies",
+      "summary_original": "L’exposition « Louvre Photo » revient sur deux siècles d’images du célèbre musée qui a inspiré les photographes dès l’époque des daguerréotypes.",
+      "url": "https://www.lemonde.fr/m-styles/article/2026/11/26/le-louvre-un-monument-modele-resume-en-300-photographies_6815590_4497319.html",
+      "published": "2026-11-27T03:00:22+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -355,110 +364,47 @@
       "state_media": false
     },
     {
-      "source": "Le Monde",
-      "title_original": "Hellfest 2027 : le festival fêtera ses 20 ans avec Gojira, Blink-182, Evanescence et Mötley Crüe en tête d’affiche",
-      "summary_original": "La 20ᵉ édition du plus grand rendez-vous des musiques extrêmes en Europe entend battre encore une fois des records avec 308 groupes programmés sur dix scènes dont quatre inédites. Un festival dans le festival intitulé « Extreme Zone », une nouvelle scène dédiée aux artistes féminines et d’autres événements spéciaux rythmeront les quatre jours.",
-      "url": "https://www.lemonde.fr/culture/article/2026/11/26/hellfest-2027-le-festival-fetera-ses-20-ans-avec-gojira-blink-182-evanescence-et-motley-crue-en-tete-d-affiche_6815586_3246.html",
-      "published": "2026-11-27T03:00:05+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Les Echos",
-      "title_original": "Cours Obligations 0 CA CONSUMER 28 CD - 0 CA CONSUMER 28 CD FR0130132006",
-      "summary_original": "Cours Obligations 0 CA CONSUMER 28 CD - 0 CA CONSUMER 28 CD FR0130132006 Investir Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTXNON2dVSEl6MXpVVGoyYjBUMGlpeWxuenFPREUzX1BoSWRaS0twaTBmMjZ2eUd1ZUxwMWdVQVE0SEdWZy03djFnSVR5RVJ0eDNzaUtwaFU4NlBoUnVsU2g2cUZwZkt2WmxFVkRmektaYVJ0SWJfRmVJRmFYejVrWjctNGhYS3N3Qjlmag?oc=5",
-      "published": "2026-11-27T05:32:19+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Les Echos",
-      "title_original": "Cours Obligations 4.25 Ayvens 30 -S - 4.25 Ayvens 30 -S FR001401CEY5",
-      "summary_original": "Cours Obligations 4.25 Ayvens 30 -S - 4.25 Ayvens 30 -S FR001401CEY5 Investir Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaW5tTUhLWGRzU0llTUlfbVVmZ1hEQ1J3TkVrRi15S25DcGJtQjFpMEIyUGN1cUxDUFhGMHZEcVEwalVrcFVNajUzM2pneThnZVYxaW04NVVDYUdiNnl3ajdFbG11NmVQS3IxRVpJWU1yRnBzTDVhNWFyaGNDOVBSVTlyVk1CczU0?oc=5",
-      "published": "2026-11-27T05:32:19+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Les Echos",
-      "title_original": "Cours Obligations 4.368 BPCE 44 CB - 4.368 BPCE 44 CB FR001401CFW6",
-      "summary_original": "Cours Obligations 4.368 BPCE 44 CB - 4.368 BPCE 44 CB FR001401CFW6 Investir Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWl9Mc1N4RnZGRzBDM3N0VnFYSUVtcDJJTlVKWTl5SlBDNHB2UGdudUttUTkzc0dsRGw1UklCSGFqSkY4VFRVMjRHTkNBMUwwNkEtMldWaWdIX3Vub0cwdFVMSnB2VzliMGxfVWpFMHJLZG5KVTdmc0h4aDhKRzN5WjJaZE5RUlZz?oc=5",
-      "published": "2026-11-27T05:32:19+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Les Echos",
-      "title_original": "Cours Obligations 0 CACB 29 Bds -S - 0 CACB 29 Bds -S FR5CIBFS7476",
-      "summary_original": "Cours Obligations 0 CACB 29 Bds -S - 0 CACB 29 Bds -S FR5CIBFS7476 Investir Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUFUwcTdqWlA0b1VKcEVQUGdXVks4RUIzYXFvd001eEY0OFJWYlJaSzM2bnAyMnhkM09oQlc5TjlSSjZRU19Gb3hUYURDMlRjdHVKbWxTQjF2MW00WGkyOGViOTU3VWVveGsyc2Zwci0xMHYyRDNxM0pKVFdJc1VHU0RnU0l1MDg?oc=5",
-      "published": "2026-11-27T05:32:19+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Les Echos",
-      "title_original": "Cours Obligations 1.875 LEGRND 32 -S - 1.875 LEGRND 32 -S FR001401CCM4",
-      "summary_original": "Cours Obligations 1.875 LEGRND 32 -S - 1.875 LEGRND 32 -S FR001401CCM4 Investir Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPazUtMUtjR2FVVERUQ1ZkakYyRTI0V3BGR3BGZDNlajFjYUNjY0RXUGYta3pXcE5oeDBkZWg2NUhJbk5GSUtQZ2NISFdRRndxMjQwQUJYaG9HRFEwY0Y5UU53d0pQNHg4akdNZEpmajU1aXN3eGRMMkJJOWtFT1NaRFJHN016Z3d6MEE?oc=5",
-      "published": "2026-11-27T05:32:19+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Les Echos",
-      "title_original": "Cours Obligations 3.65 CACIB 34 Bds-S - 3.65 CACIB 34 Bds-S FR6CIBFS1817",
-      "summary_original": "Cours Obligations 3.65 CACIB 34 Bds-S - 3.65 CACIB 34 Bds-S FR6CIBFS1817 Investir Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZElEMEphaXIxMlJTRnV4NUxhcEM4b1l6UDl5RjFxQV9WZmh5anhEa2tRckNuMWJhLW1WWEQzZlVIZzNWY1hFTFNIXzN3R3lDcmI3SHJJSW55QV9XaldYN2lBeFFFTGJoT3BPR3c5NkVabUhTVVUtbThSaWREYzdfUWJfZE1MVWxfYV83SQ?oc=5",
-      "published": "2026-11-27T05:32:19+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Les Echos",
-      "title_original": "Cours Obligations 4.375 Indigo 31 -S - 4.375 Indigo 31 -S FR001401CBE3",
-      "summary_original": "Cours Obligations 4.375 Indigo 31 -S - 4.375 Indigo 31 -S FR001401CBE3 Investir Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbFZ3ZEw1bGxubF9NVUU3THhfODlRQ1RKZWN5S3ZrSWg2MmlkeEt2SEpFb01oZFRzWWhiR2FvcUhISnBfdmhrMkFvNm9jMm9sUnBfTVBEVmFoU29ZYWFza01FeS0wQVlBUWJiZ2dxSTgxYXA0LXJmM0FhLVdiYUNqRmRTQUpEYVJuX1E?oc=5",
-      "published": "2026-11-27T05:32:19+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Les Echos",
-      "title_original": "Cours Obligations 4.75 Indi 34 EMTN-S - 4.75 Indi 34 EMTN-S FR001401C8C9",
-      "summary_original": "Cours Obligations 4.75 Indi 34 EMTN-S - 4.75 Indi 34 EMTN-S FR001401C8C9 Investir Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdURBbndyYVQtWTB6Y0NwMjFmVm1IMlJDcGVHRUZkMTVua1R3T0lmZnNJNnVSNTVaNXNOYnhMRGRIVjZrWllhd3dfbFlHbl9fcFBveWpzU0c1Y21zLXgxLWtEcTNJU3RrdkN6VVNFOThzNFFJU3Z5TzhyRkEtZ3dfRnptQjNZUDZ4Q0tqcQ?oc=5",
-      "published": "2026-11-27T05:32:19+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
       "source": "Le Figaro",
-      "title_original": "Ligue Europa : le coach du Levski Sofia déplore les incidents à Marseille «inacceptables»",
-      "summary_original": "Le coach du Levski Sofia s’est exprimé sur les incidents ayant eu lieu avant la rencontre entre l’Olympique de Marseille et l’équipe bulgare.",
-      "url": "https://www.lefigaro.fr/sports/football/ligue-europa/ligue-europa-le-coach-du-levski-sofia-deplore-les-incidents-a-marseille-inacceptables-20261126",
-      "published": "2026-11-27T05:52:38+09:00",
+      "title_original": "Un vol EasyJet contraint de faire demi-tour en Écosse après une «explosion» dans les airs",
+      "summary_original": "Selon des médias locaux, les services d’urgence, dont la police et les pompiers, ont rapidement été déployés à l’aéroport d’Édimbourg.",
+      "url": "https://www.lefigaro.fr/international/un-vol-easyjet-contraint-de-faire-demi-tour-en-ecosse-apres-une-explosion-dans-les-airs-20261126",
+      "published": "2026-11-27T07:57:48+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Le Figaro",
-      "title_original": "«L’optique, c’est le passage à l’acte violent» : jusqu’à 18 mois de prison requis contre dix jeunes hommes",
-      "summary_original": "COMPTE RENDU D’AUDIENCE - Soupçonnés d’être affiliés à l’ultradroite, les dix prévenus auraient projeté des violences contre les manifestants - un dessein «clair» pour le parquet quand la défense plaide un «dossier vide».",
-      "url": "https://www.lefigaro.fr/nice/l-optique-c-est-le-passage-a-l-acte-violent-jusqu-a-18-mois-de-prison-requis-contre-dix-jeunes-hommes-20261126",
-      "published": "2026-11-27T05:45:18+09:00",
+      "title_original": "Ligue Europa : plusieurs supporters bulgares blessés et évacués à l’hôpital… Soirée chaotique à Marseille",
+      "summary_original": "Des supporters ont été évacués à l’hôpital après les affrontements entre les supporters marseillais et bulgares, ce jeudi, en amont du match de Ligue Europa.",
+      "url": "https://www.lefigaro.fr/sports/football/ligue-europa/ligue-europa-plusieurs-supporters-bulgares-blesses-et-evacues-a-l-hopital-soiree-chaotique-a-marseille-20261126",
+      "published": "2026-11-27T07:49:52+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Le Figaro",
-      "title_original": "Brésil : Lula n’invitera pas Milei à son investiture",
-      "summary_original": "Le Brésil a rétrogradé ses relations diplomatiques avec Buenos Aires, après les insultes de Javier Milei envers Lula et la fuite aux États-Unis, via l’Argentine, de Flávio Bolsonaro.",
-      "url": "https://www.lefigaro.fr/international/bresil-lula-n-invitera-pas-milei-a-son-investiture-20261126",
-      "published": "2026-11-27T05:33:40+09:00",
+      "title_original": "Espagne : la gendarmerie découvre une plantation de cannabis dans un bunker géant caché sous une aire de jeux pour enfants",
+      "summary_original": "À l’intérieur de ce bunker souterrain de 180 m² dissimulé près de Grenade, les autorités espagnoles ont saisi 1954 plants de cannabis appartenant à une organisation criminelle.",
+      "url": "https://www.lefigaro.fr/international/espagne-la-gendarmerie-decouvre-une-plantation-de-cannabis-dans-un-bunker-geant-cache-sous-une-aire-de-jeux-pour-enfants-20261126",
+      "published": "2026-11-27T07:03:55+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "EN DIRECT - Présidentielle 2027 : «C’est une drôle d’arrogance de penser qu’elle serait déjà en charge du destin de la France», lance Macron à Le Pen",
+      "summary_original": "La candidate du RN est en tête de tous les sondages, à cinq mois du premier tour de l’élection présidentielle.",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-marine-le-pen-se-declare-sereine-face-a-l-emergence-de-david-lisnard-20261126",
+      "published": "2026-11-27T06:56:02+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Figaro",
+      "title_original": "Budget européen : Macron dénonce une «erreur stratégique» et trace ses lignes rouges",
+      "summary_original": "Isolé à Bruxelles face à l’Allemagne et aux autres pays «frugaux», le président lance un ultimatum d’ici à la fin de l’année pour l’adoption d’un budget, dont il dénonce l’insuffisance, faute de quoi, ce sera à son successeur de s’en charger.",
+      "url": "https://www.lefigaro.fr/international/budget-europeen-macron-denonce-une-erreur-strategique-et-trace-ses-lignes-rouges-20261126",
+      "published": "2026-11-27T06:54:32+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -473,28 +419,10 @@
     },
     {
       "source": "Le Figaro",
-      "title_original": "Émilie König, des tourments d’une jeunesse émaillée de violences à la vie soumise d’épouse de djihadiste",
-      "summary_original": "COMPTE-RENDU D’AUDIENCE - La première journée du procès de cette revenante de Daech était consacrée à son parcours de vie, de Lorient à Raqqa. Celui-ci est très sombre et brutal.",
-      "url": "https://www.lefigaro.fr/faits-divers/emilie-koenig-des-tourments-d-une-jeunesse-emaillee-de-violences-a-la-vie-soumise-d-epouse-de-djihadiste-20261126",
-      "published": "2026-11-27T05:06:35+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
       "title_original": "La Russie minée par le coût humain insoutenable de sa guerre contre l’Ukraine",
       "summary_original": "RÉCIT - Selon des « fuites » de données exploitées par des activistes ukrainiens et biélorusses, l’armée russe aurait recensé 700.000 morts au combat depuis le début du conflit en 2022.",
       "url": "https://www.lefigaro.fr/international/la-russie-minee-par-le-cout-humain-insoutenable-de-sa-guerre-contre-l-ukraine-20261126",
       "published": "2026-11-27T05:05:00+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Figaro",
-      "title_original": "EN DIRECT - Présidentielle 2027 : «C’est une drôle d’arrogance de penser qu’elle serait déjà en charge du destin de la France», lance Macron à Le Pen",
-      "summary_original": "La candidate du RN est en tête de tous les sondages, à cinq mois du premier tour de l’élection présidentielle.",
-      "url": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-marine-le-pen-se-declare-sereine-face-a-l-emergence-de-david-lisnard-20261126",
-      "published": "2026-11-27T05:01:02+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -555,7 +483,7 @@
     {
       "source": "Libération",
       "title_original": "«Départ des combats» : jusqu’à 18 mois de prison requis à l’audience sur les descentes de l’extrême droite à Nice contre des manifestants",
-      "summary_original": "Interpellés en marge des rixes qui ont émaillé la fin de la manifestation niçoise du 24 octobre, les onze prévenus expliquent avoir voulu défendre une pizzeria. Alors qu’aucun commerce n’a été dégradé ce jour-là.",
+      "summary_original": "Interpellés en marge des rixes qui ont émaillé la fin de la manifestation niçoise du 24 octobre, les dix prévenus expliquent avoir voulu défendre une pizzeria. Alors qu’aucun commerce n’a été dégradé ce jour-là.",
       "url": "https://www.liberation.fr/societe/police-justice/depart-des-combats-jusqua-18-mois-de-prison-requis-a-laudience-sur-les-descentes-de-lextreme-droite-a-nice-contre-des-manifestants-20261126_QFFSBPPJOBEWJBKMVBFRAEGX2Q/",
       "published": "2026-11-27T04:57:07+09:00",
       "via": "rss",
@@ -580,10 +508,13 @@
       "state_media": false
     }
   ],
-  "unavailable_sources": [],
+  "unavailable_sources": [
+    "Les Echos"
+  ],
   "errors": {
     "Les Echos": [
-      "rss 실패: HTTPError: HTTP Error 503: Backend fetch failed"
+      "rss 실패: HTTPError: HTTP Error 503: Backend fetch failed",
+      "google_news 실패: HTTPError: HTTP Error 429: Too Many Requests"
     ]
   }
 }

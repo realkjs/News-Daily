@@ -18,15 +18,17 @@
     "unavailable": []
   },
   "uk": {
-    "headlines": 85,
+    "headlines": 74,
     "unavailable": []
   },
   "fr": {
-    "headlines": 64,
-    "unavailable": []
+    "headlines": 56,
+    "unavailable": [
+      "Les Echos"
+    ]
   },
   "il": {
-    "headlines": 48,
+    "headlines": 47,
     "unavailable": [
       "Kan (KAN News)",
       "N12 (Channel 12)"
