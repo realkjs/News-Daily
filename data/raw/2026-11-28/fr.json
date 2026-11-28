@@ -1,8 +1,44 @@
 {
   "team": "fr",
   "team_name_ko": "프랑스팀",
-  "collected_at": "2026-11-28T06:13:16.945776+09:00",
+  "collected_at": "2026-11-28T11:13:34.534881+09:00",
   "headlines": [
+    {
+      "source": "France 24",
+      "title_original": "Essor des data centers : faut-il débrancher l'IA?",
+      "summary_original": "Cette semaine Elon Musk a obtenu le feu vert pour envoyer des data centers dans l'espace ! Jusqu'où ira la course à l'intelligence artificielle? Pour le président de la plateforme Café IA, Gilles Babinet, la logique actuelle \"est plutôt une logique d'accélération\".",
+      "url": "https://www.france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20261127-essor-des-data-centers-faut-il-d%C3%A9brancher-l-ia",
+      "published": "2026-11-28T08:27:59+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Mali: les djihadistes du JNIM impose un blocus sur la ville de Tonka",
+      "summary_original": "Les djihadistes du Groupe de Soutien à l’islam et aux musulmans (JNIM) affilié à Al-Qaïda, imposent depuis ce vendredi un blocus à Tonka, localité du nord du Mali… C’est l’installation depuis quelques semaines dans cette ville située dans la région de Tombouctou d’un détachement des forces russes d’Africa Corps et de l’armée malienne qui suscite l’ire des djihadistes…",
+      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261127-mali-les-djihadistes-du-jnim-impose-un-blocus-sur-la-ville-de-tonka",
+      "published": "2026-11-28T07:30:34+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Le prince Harry et Meghan Markle filmés en pleine dispute devant leur fille Lilibet ?",
+      "summary_original": "Une séquence virale prétend montrer le prince Harry attraper Meghan Markle par le cou avant de la repousser violemment, sous les yeux de leur enfant de 5 ans Lilibet. La raison, selon ces publications aux millions de vues : l'actrice aurait contacté une agence de mannequinat pour obtenir des contrats publicitaires pour sa fille... En réalité, ces images sont générées par IA et sont représentatives",
+      "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261127-le-prince-harry-et-meghan-markle-film%C3%A9s-en-pleine-dispute-devant-leur-fille-lilibet",
+      "published": "2026-11-28T07:20:50+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "France 24",
+      "title_original": "Après l'entrée de la France en récession, l'agence S&P menace de dégrader sa note souveraine",
+      "summary_original": "L'agence de notation américaine S&P Global Ratings a confirmé vendredi la note souveraine de la France à A+, mais l'a assortie d'une perspective négative, faisant craindre une nouvelle dégradation de cette note à moyen terme.",
+      "url": "https://www.france24.com/fr/%C3%A9co-tech/20261127-apr%C3%A8s-entr%C3%A9e-france-r%C3%A9cession-agence-standard-and-poor-s-menace-d%C3%A9grader-note-souveraine",
+      "published": "2026-11-28T06:57:18+09:00",
+      "via": "rss",
+      "state_media": false
+    },
     {
       "source": "France 24",
       "title_original": "Trump se considère l'\"ami\" de Poutine ? Pour Zelensky, cela revient à se dire ami d'Hitler",
@@ -40,38 +76,56 @@
       "state_media": false
     },
     {
-      "source": "France 24",
-      "title_original": "Arancha Gonzalez Laya : \"Poutine fait peur aux Européens, pour qu'on arrête de financer l'Ukraine\"",
-      "summary_original": "Notre invitée est la doyenne de l'École des affaires internationales de Sciences Po Paris, Arancha Gonzalez Laya. Ancienne ministre des Affaires étrangères du gouvernement du Premier ministre espagnol Pedro Sanchez, son parcours l'a aussi menée aux Nations unies et à l'Organisation mondiale du commerce (OMC).",
-      "url": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20261127-arancha-gonzalez-laya-poutine-fait-peur-aux-europ%C3%A9ens-pour-qu-on-arr%C3%AAte-de-financer-l-ukraine",
-      "published": "2026-11-28T03:42:50+09:00",
+      "source": "franceinfo (France 2)",
+      "title_original": "Le bateau naufragé au large d'Ibiza sera remorqué vers le port espagnol de Carthagène",
+      "summary_original": "Le carburant est, pour l'heure, contenu et le navire a été stabilisé en pleine mer. Les autorités font face à une opération de sauvetage complexe, dans un contexte de crainte d'une pollution majeure.",
+      "url": "https://www.franceinfo.fr/monde/espagne/le-bateau-naufrage-au-large-d-ibiza-sera-remorque-vers-le-port-espagnol-de-carthagene_8303865.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-28T07:56:50+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "France 24",
-      "title_original": "Réindustrialisation : le \"Made in France\" sous tension",
-      "summary_original": "Les sommets \"Choose France\" sont emblématiques des deux quinquennats d'Emmanuel Macron. Ce lundi s'est tenue la deuxième édition consacrée aux entreprises tricolores qui investissent dans l'Hexagone. Mais derrière la vitrine, que reste-t-il du \"Made in France\" ? Des usines ferment, la croissance recule et la France est techniquement en récession. Quel bilan tirer de la relance industrielle voulue ",
-      "url": "https://www.france24.com/fr/%C3%A9missions/la-semaine-de-l-%C3%A9co/20261127-r%C3%A9industrialisation-le-made-in-france-sous-tension",
-      "published": "2026-11-28T03:15:30+09:00",
+      "source": "franceinfo (France 2)",
+      "title_original": "L'activité de l'abattoir de Haute-Saône suspendue par le préfet après avoir été visé par une enquête",
+      "summary_original": "Jeudi, l'association de défense des animaux L214 avait annoncé avoir déposé plainte à l'encontre de la Société d'abattage des Vosges saônoises (SAVS), qui gère l'abattoir mis en cause.",
+      "url": "https://www.franceinfo.fr/environnement/biodiversite/animaux/l-activite-de-l-abattoir-de-haute-saone-suspendue-par-le-prefet-apres-avoir-ete-vise-par-une-enquete_8303862.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-28T07:43:09+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "France 24",
-      "title_original": "Afrique du Sud : Cyril Ramaphosa évite la destitution dans \"l'affaire Phala Phala\"",
-      "summary_original": "🇿🇦 Cyril Ramaphosa échappe à une procédure de destitution liée au scandale de Phala Phala. Accusé d’avoir dissimulé un cambriolage survenu en 2020 dans sa ferme, le président sud-africain reste sous pression. L’affaire est loin d’être close.",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261127-afrique-du-sud-cyril-ramaphosa-%C3%A9vite-la-destitution-dans-l-affaire-phala-phala",
-      "published": "2026-11-28T03:14:03+09:00",
+      "source": "franceinfo (France 2)",
+      "title_original": "Les footballeuses françaises renversent le Venezuela (4-2) en match amical",
+      "summary_original": "Avant d'affronter le Maroc le 5 décembre, les Bleues l'ont emporté grâce à Clara Mateo (37e), à Griedge Mbock (48e), à Delphine Cascarino (63e) et à Kadidiatou Diani (69e).",
+      "url": "https://www.franceinfo.fr/sports/foot/l-equipe-de-france-feminine-renversent-le-venezuela-4-2-en-match-amical_8303850.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-28T07:27:16+09:00",
       "via": "rss",
       "state_media": false
     },
     {
-      "source": "France 24",
-      "title_original": "Charlotte Dipanda, reine africaine",
-      "summary_original": "Rendez-vous avec la chanteuse, autrice, compositrice et musicienne camerounaise Charlotte Dipanda. Dans cet épisode, la diva revient sur son enfance à Mbouda et Douala, ses débuts dans les cabarets à l’âge de 15 ans, son arrivée à Paris pour devenir choristes de Manu Dibango, Axelle Red et Youssou Ndour. Dans l’émission, la chanteuse développe sa perception de la notoriété, ses projets futurs et s",
-      "url": "https://www.france24.com/fr/%C3%A9missions/l%C3%A9gendes-urbaines/20261127-charlotte-dipanda-reine-africaine",
-      "published": "2026-11-28T03:00:46+09:00",
+      "source": "franceinfo (France 2)",
+      "title_original": "Brest bat le Paris FC (1-0) et grimpe provisoirement sur le podium de la Ligue 1",
+      "summary_original": "Avec cette quatrième victoire d'affilée obtenue grâce à un but de Luck Zogbé en première période, le Stade Brestois devance Lille à la différence de buts.",
+      "url": "https://www.franceinfo.fr/sports/foot/brest-bat-le-paris-fc-1-0-et-grimpe-provisoirement-sur-le-podium-de-la-ligue-1_8303847.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-28T07:05:49+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "L'hommage national aux victimes de l'attentat raciste de Trappes et de La Verrière aura lieu le 4 décembre aux Invalides",
+      "summary_original": "Cet hommage, qui se tiendra à Paris plus d'un mois après la mort de Pengo Bossio Wangi, sera présidé par le Premier ministre, Sébastien Lecornu.",
+      "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/l-hommage-national-aux-victimes-de-l-attentat-raciste-de-trappes-et-de-la-verriere-aura-lieu-le-4-decembre-aux-invalides_8303391.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-28T06:45:50+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "franceinfo (France 2)",
+      "title_original": "L'agence de notation Standard & Poor's menace de dégrader prochainement la note de la France",
+      "summary_original": "Cette décision s'explique notamment par des perspectives de croissance en berne pour la dette française.",
+      "url": "https://www.franceinfo.fr/economie/budget/l-agende-de-notation-standard-poor-s-menace-de-degrader-prochainement-la-note-de-la-france_8302788.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-11-28T06:32:15+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -94,65 +148,65 @@
       "state_media": false
     },
     {
-      "source": "franceinfo (France 2)",
-      "title_original": "La commission de sécurité valide la réouverture du BHV Marais à Paris après trois semaines de fermeture",
-      "summary_original": "Fermé depuis le 9 novembre pour défaut d'assurance et non-conformité, le grand magasin devra tout de même réaliser des travaux de sécurité incendie. En parallèle, trois offres de reprise ont été déposées vendredi devant le tribunal de commerce de Paris dans le cadre de son redressement judiciaire.",
-      "url": "https://www.franceinfo.fr/economie/la-commission-de-securite-valide-la-reouverture-du-bhv-marais-a-paris-apres-trois-semaines-de-fermeture_8303787.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-28T05:18:51+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "franceinfo (France 2)",
-      "title_original": "\"La nouvelle génération a des goûts extrêmement larges\" : quand les vieux tubes retrouvent une nouvelle jeunesse",
-      "summary_original": "Sylvie Vartan n’en finit plus de s’inviter dans les playlists de la nouvelle génération : après \"La Maritza\" utilisée dans les publications des 15-25 ans sur les réseaux sociaux, un autre titre vient de bondir de 8 000 % sur les plateformes musicales. La raison ? Il apparaît dans le jeu vidéo GTA VI, qui connaît un succès planétaire.",
-      "url": "https://www.franceinfo.fr/culture/musique/la-nouvelle-generation-a-des-gouts-extremement-larges-quand-les-vieux-tubes-retrouvent-une-nouvelle-jeunesse_8303766.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-28T05:13:41+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "franceinfo (France 2)",
-      "title_original": "\"Elle a besoin d’être reconnue dans le regard des autres\" : au procès d'Emilie König, un expert éclaire la psychologie de l'ex-\"égérie\" de l'EI",
-      "summary_original": "Xavier Renault, expert psychologue spécialiste de la radicalisation des femmes jihadistes, a livré une analyse détaillée de la personnalité de cette ancienne propagandiste en Syrie du groupe terroriste islamiste.",
-      "url": "https://www.franceinfo.fr/faits-divers/terrorisme/elle-a-besoin-d-etre-reconnue-dans-le-regard-des-autres-au-proces-d-emilie-konig-la-psychologie-de-l-ancienne-propagandiste-de-l-ei-passee-au-scalpel_8303523.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-28T05:00:26+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "franceinfo (France 2)",
-      "title_original": "La préfecture de l'Isère interdit un concert organisé par \"une mouvance identitaire nationaliste, voire néonazie\" samedi",
-      "summary_original": "L'organisateur de ce concert de Rock présenté comme \"antiwokisme\" serait \"une figure structurante de l'ultra-droite régionale\", a précisé la préfecture de l'Isère dans son communiqué.",
-      "url": "https://www.franceinfo.fr/faits-divers/la-prefecture-de-l-isere-interdit-un-concert-organise-par-une-mouvance-identitaire-nationaliste-voire-neonazie-samedi_8303742.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-28T04:48:01+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "franceinfo (France 2)",
-      "title_original": "La mairie de Paris va augmenter de deux euros le prix du stationnement dans ses rues pour les \"non-résidents\" en avril 2027",
-      "summary_original": "La première heure passera ainsi à 8 euros dans les 11 premiers arrondissements et à 6 euros dans le reste de la capitale, tandis que la durée maximale sera abaissée à quatre heures.",
-      "url": "https://www.franceinfo.fr/economie/automobile/la-mairie-de-paris-va-augmenter-de-deux-euros-le-prix-du-stationnement-dans-ses-rues-pour-les-non-residents-en-avril-2027_8303736.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-28T04:34:04+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "franceinfo (France 2)",
-      "title_original": "Présidentielle 2027 : \"Les débauchages, ça ne m'émeut pas\", réagit Bruno Retailleau après le ralliement de huit députés LR à David Lisnard",
-      "summary_original": "Distancé dans les intentions de vote, le candidat LR à la présidentielle balaie cette annonce d'un revers de main, la qualifiant d'\"anecdotique\".",
-      "url": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-marine-le-pen-va-presenter-son-programme-pour-les-outre-mer-en-pleine-tourmente-sur-les-ecrits-antisemites-attribues-a-jordan-bardella_8302521.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-11-28T04:28:24+09:00",
-      "via": "rss",
+      "source": "TF1 Info",
+      "title_original": "Archives du 28 novembre 2026",
+      "summary_original": "Archives du 28 novembre 2026 TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83MUNfT2M2Zy04OVZzYW1zbkVKR0puQ3Y4dk0wTVdEWm4zUHBXSmRqZUljVEpiRFlHU0x5eFgwUUQ3NGtRUFR0eDkyTGRuSXBnVWxyRElR?oc=5",
+      "published": "2026-11-28T10:04:43+09:00",
+      "via": "google_news",
       "state_media": false
     },
     {
       "source": "TF1 Info",
-      "title_original": "Une IA a-t-elle réussi à finir GTA VI en seulement 12 heures",
-      "summary_original": "Une IA a-t-elle réussi à finir GTA VI en seulement 12 heures TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWUxpTDU2bXVpd2lQbE44OVVMUkFTOUZXQWh5ZFNwcG9YYzhJd1lMeU1EdHYzb3ZRdHo0eS03Mk03NzJZVWJ5MWxIcWI0aUhNTWk3aHVXV0poUUFMbU9zcVdReW85ZnhqbjJST1l3cHRqTjMtMG9QYy05aG8yUDZFME5PWVM3cWRZaU1jdE5ZTjBQMW1VSEFOV2VoRmNWbExPbWdndDg3SkY2SDJQZWJULV84Yk9SMmJCNS1yeFhPVkdPQTg?oc=5",
-      "published": "2026-11-28T05:55:18+09:00",
+      "title_original": "\"Comme si on retirait la tour Eiffel\" : des habitants du Val-de-Marne montent au front pour sauver ce chêne quadricentenaire",
+      "summary_original": "\"Comme si on retirait la tour Eiffel\" : des habitants du Val-de-Marne montent au front pour sauver ce chêne quadricentenaire TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZWZmanoxT0g1WE82UzlTeS1OLXRtNkh6Zkk1OHVTOHBYaWI2VXpLTmppLWxZVHluSzNKVUhvLU8xN1NnMmREdFBWRTBMdWlQMU5ic1Vub09QelVjQXdpWHlWMHg4QnZYQlktQTd0bHMxcjdHcjJ4eUNpYjRNUWZ0OFRQVU9qOVRmZE9pYzN6Z2VMbkR0dkQxRHUzc3FISXNzdlA5UEdQRjY1WnJKZjUwWllrVHM1T3d5eThfTXpZWkd5R3JYRmsyZFhBclFvT1hMTUwwbFBOem15ekt4SWZkNUxNVGVsUXh1QU9tVnhsWVBxV3RIWjkxN0c3Z3U0QQ?oc=5",
+      "published": "2026-11-28T07:33:22+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Vosges : Nestlé Waters compte supprimer des postes à Vittel et Contrexéville",
+      "summary_original": "Vosges : Nestlé Waters compte supprimer des postes à Vittel et Contrexéville TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2ZwOC1lS3NRM3hPYWJuZUNQNWFIVFFzeUdJRDNOWUZTdzFrMG1hZkU5TmY1elp1djFtRW5YUWlLNC13OXdyYzVoblZ2TmxRdGNZTVZ1dHllUTVDX1F0bGV4NUtRcVFXNkYzRFVxeEt3cHotQWR0QnpmOGctVUwycVpoMFFna0V4MDRFbUQwaGtYM0xqMVZIUGpVc1Q1dVpOZmFuallYaTU1QjFLR0c5UkRxSVVKT1YyeVE?oc=5",
+      "published": "2026-11-28T07:25:36+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Un pasteur évangéliste condamné à 12 ans de prison pour viol et tentative de viol parmi ses fidèles",
+      "summary_original": "Un pasteur évangéliste condamné à 12 ans de prison pour viol et tentative de viol parmi ses fidèles TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOXdrOFBNVDdPbzRXRUQ4OVo0OGtkczN5eVdqY1hYdFhfNm1BblF5MG1peTB2LTgwVzVjRG50NjhLbjFhSHVNcHpSbWpjbFJ5dnpqMnBIWXJKMV92UXhpVXNYaVVPVU14TXVmQ0d1MmRSMEpTeC0yYm5tQ3pnVmNCRXZvMmFuS1VlWnp4SVJucm1WeG1CLTBpalNIQ3NVT0hDM0pReUdVS1JQVTA2cHE2SjVKTkdxWHdJWVM2cVFPajVYZUtTSXlnRmNpcjRDVzZGMm5qY1U2dEpkZ3pMTktkelcxdFB2MDkySktSV0lNSUU?oc=5",
+      "published": "2026-11-28T07:21:22+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "\"Elles peuvent aussi entraîner la mort\" : l'utilisation des grenades assourdissantes suspendue",
+      "summary_original": "\"Elles peuvent aussi entraîner la mort\" : l'utilisation des grenades assourdissantes suspendue TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaXVQaDFOWVZiWWh6RlBuLXZ5VjhlVDFCVlJGektsbVpDUmtCZFVCRTNyQjdZWnJGRnBBWTdnRVVzT2VCTU5heEd0OTRBeWxtdXp3LWVGTmk3bm1OSXNGck4yZ2cyY3V6d01PYThpb29BLWw2M0Z3ekEteVUwc2J3My1VQ2lmbVdyTU8tN3hBbVlUa0Rma3NfQVFLc1hkNVFPb3QyLVdJalhkX0ZfQ0d4ZDMxUWx2SHgwYlpKTjN1OXB2SDI2WG5ZblRrYlZkWVhEa2QzNmg0VVpZcXd6T3Rqb2Flejh0MVFLT2wySkFR?oc=5",
+      "published": "2026-11-28T06:50:57+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Dette : Standard and Poor's maintient la note de la France à A+ mais abaisse sa perspective de stable à négative",
+      "summary_original": "Dette : Standard and Poor's maintient la note de la France à A+ mais abaisse sa perspective de stable à négative TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMmpRWGF6WTB1V2EwNWtLZDl4aVBRRUJWbUNyYUIza3V3V1F5WjdaSXJwWUxuODIyeGhjZTJMcTI3b3JCVnhSLTNYY2o5b2stcldseFNudkotVlk1UDF2OGR5cWRYRlRfNFBlbkF6VF90ZVA2QlNkNkZtOEtERFN4ZWlWYVNNM0J3bTNPN1B3ME9WTXhfSmoxS3VObnAyel9MYUJ6Q3ZIMDdyS01sRFgyaHB2LWlrNlRaM08xQ0RqTkhXX2xFRFhodXFMRTUtTnRDU3FqdlhLRUpvOERsZFlzY09uOUVLSDRsNlE?oc=5",
+      "published": "2026-11-28T06:27:39+09:00",
+      "via": "google_news",
+      "state_media": false
+    },
+    {
+      "source": "TF1 Info",
+      "title_original": "Féminicide de Mérignac : la perpétuité confirmée en appel pour l'ex-mari de Chahinez Daoud, brûlée vive en 2021",
+      "summary_original": "Féminicide de Mérignac : la perpétuité confirmée en appel pour l'ex-mari de Chahinez Daoud, brûlée vive en 2021 TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQVduOFZJWVdyWTlPVERZbmNYNl9GLUhma2cyR1ZPb25YQzQ5aHRkSDdGYWlWMkFwa0NMd0dRcDBiNzY1ZnNJWHBCcUpKejFsRHBMR09wS3ZSUW9pYXNGMWZZdU5mSjhWbWRKXy1ldFlXTFNVLTUzREwzMC0tRjM4WnVRZlQtc2ZtWTFPc0lrTUdNdjUxZ3luRnRaMmtzT25rQ0Q0Uk1QNXBFVkxEWExZejl5eTVfTUVhdW1nVE5qdm52SlFJOVZVOXZ0VTlMVm02Tk01VjluSjU0ajlUWjJaNmNwZG85QmVVVzlyZDV3U0ludmZjeHp0Vw?oc=5",
+      "published": "2026-11-28T06:16:57+09:00",
       "via": "google_news",
       "state_media": false
     },
@@ -166,128 +220,128 @@
       "state_media": false
     },
     {
-      "source": "TF1 Info",
-      "title_original": "Meurtre de Sarah, victime collatérale d'une fusillade à Marseille : trois jeunes condamnés à 20 ans de réclusion criminelle",
-      "summary_original": "Meurtre de Sarah, victime collatérale d'une fusillade à Marseille : trois jeunes condamnés à 20 ans de réclusion criminelle TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSkUyV05XTXZ1cDV6akJpeXZvazBxa1hwS01LQUd5TU9RZl92cUhuZlRCNXB1d3RKQ3pkZk80X3pWUFlaRTVrZkJBT3YwVmdZc1NLa3dDRUZFN3R5NXMwcmQ1b3gzQVpRc3JTWEhpbFhySF8yeWFqbWd6TEJ2Z3hnck1FYVFOQ0FhNE1wRVcxQlBia0dSUjlZRy1zbHJjYk5McU9lcG9OYmxWTGVQazhQNHJkbkV4YTk4LW9CM04xSjZ4cXNXams2a3JndGNaZF9OVU5OenI1LXZTTlhkWWxibXUwaEs3NERqUHZkRVVKUDNtbUVZVGNIdDFRNGFabjBIa1dIRHlyVG4?oc=5",
-      "published": "2026-11-28T05:44:31+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "DOCUMENT TF1 - Comment des Ukrainiens ont repris 15 km aux Russes grâce à des gazoducs dans des conditions à peine croyables",
-      "summary_original": "DOCUMENT TF1 - Comment des Ukrainiens ont repris 15 km aux Russes grâce à des gazoducs dans des conditions à peine croyables TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOZTRLOThXcF9ZaWszcTNfMG1VNkZaZjMzQTY2LVZwM29RRTFMeGR2ZDdHMkhJdXQ2MnlMQmpfc2pRT0Y5VE01NEpSRG4yUV94MnlMbURtMVJuaVVUcGhIbS13OWFwdDRwNGJMMmhkZk53d0llV1ZJVVlGdTJUbndCZ3p6amlwSjVlNTJMVlpwU3NWOFVHWmVpYVNPbm1aUzNPLW1GWUFQb0FPb3JoWV9COHdjV3d1SzVHMW9OOWNqb3hCU3pMSzEyb2JaUDRxVW95YXQyMWJkbFlLX3djTUtVX2xZZVZxMHVnblNrS00zakFFMnRDUGZVc09YNkJDZW90WjRRX3FTNV9JUQ?oc=5",
-      "published": "2026-11-28T05:20:15+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "Miss France 2027 - \"J'ai toujours eu un engagement pour l’océan\" : l'interview décalée de Lana Prost, Miss Nouvelle-Calédonie",
-      "summary_original": "Miss France 2027 - \"J'ai toujours eu un engagement pour l’océan\" : l'interview décalée de Lana Prost, Miss Nouvelle-Calédonie TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOaGU4UDFqT3dxNjJhM25iV0RmZDcxQmJxUU1PVXI1SU44bHQ1ZHZVRVBCcnhoU2pNdkE0b09aTUNqNkxyS1JrTlFTTlMyNURRQmI2cHNwV19zZ1VSU0o5d21wejlJUkZJZU5pLTRtQjdRdklBc1FXek9PbGY3b3JjS1NuOHdfTGFRaTZsSkRWVkl2UEx1S0F2N1JYblhlSHY4TU11R2hEMlNCU2lueGh5bEhfaGV4SktiZl9PdmI2TFlRYk52cXV5MGdFSEJhTlR1Wm96aGVQTW96aENhbm5nN0NXNGI1d2duRW1wVmw4ci1qbTdl?oc=5",
-      "published": "2026-11-28T05:00:00+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "Stade Vélodrome : lynchages en tribunes",
-      "summary_original": "Stade Vélodrome : lynchages en tribunes TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUhPRE10LXJVYnZGdjZLY2pmTk83eTFTV0VXWEt4bUJvbWUxaDNuMTBUMnY4eFBDR2I2M0ZRbUhFRHJWN3BnR3hUV0dteVBtUkUwSkx3Tl9HcDJlT0xucjI4eGNFenZoS1RFMlZHYWNsbGdjVkdBN2huQ2JIc3o5U1RJRUdxcVZxRFRzVHFCUll3Y1JyU1B6ejA1VHA4b0lUOGtVN21mV183cnRXWmZwX2NMMA?oc=5",
-      "published": "2026-11-28T04:55:12+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "UKRAINE : la bataille des gazoducs",
-      "summary_original": "UKRAINE : la bataille des gazoducs TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaldRMGQzeWJpclZTTFZraFMwdEtxdmpLVzExZ1RtNmNWLTM2X0RONGVtUWw0bUVZa1VMWXBST0piMTNVbWlteGFrTGRjazJQa1V5ejJHc2wwY2FWQWNTdjRkNUFZdlJHbWU2OU9Sc1lHYW5nbkJLU2pmeDJaVW5TS0ZxZ0N3dkZST3ZWXzF0VlR3WkRXU2loY21PLUMtNVphcHhj?oc=5",
-      "published": "2026-11-28T04:55:07+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "TF1 Info",
-      "title_original": "Plusieurs modèles de grenades assourdissantes suspendus",
-      "summary_original": "Plusieurs modèles de grenades assourdissantes suspendus TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGFwdWc5dFlrWnRMd1NiaktNbjN0Y2ZSaWRCV3BoMk5zRFhmN25VNTdOdGlCNWZfbFFpMm1SQk00dXRxcHR2RzJXSk5BZlhoa2dKbmZsMEtubk9uMXdVQm5BdFV1OTBUSllGLW5pYU1BeGFSWE9vWUlPaWNvYk5kU1lPZEd6NW10alFfSlVUanItZVVNWV8xMElONmR4TlJkMFg1dmtidTRqVHVQeUlXSm9HNm5MMi1TNlBrTGJLeTFNbGFIODRRdm9pMA?oc=5",
-      "published": "2026-11-28T04:50:15+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
       "source": "BFMTV",
-      "title_original": "\"Les enfants devaient mourir en premier\": le gourou d'une secte qui affamait ses fidèles condamné au Kenya pour 123 nouveaux homicides",
-      "summary_original": "En 2023, des centaines de corps avaient été découverts dans l'arrière-pays de la côte kényane. Ce drame, connu comme le \"massacre de la forêt de Shakahola\", est l'une des pires tragédies liées à des dérives sectaires.",
-      "url": "https://www.bfmtv.com/international/afrique/les-enfants-devaient-mourir-en-premier-le-gourou-d-une-secte-qui-affamait-ses-fideles-condamne-au-kenya-pour-123-nouveaux-homicides_AD-202611270919.html",
-      "published": "2026-11-28T06:11:47+09:00",
+      "title_original": "David Lisnard : le nouvel outsider de la droite ? - 27/11",
+      "summary_original": "Chaque week-end, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.",
+      "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-david-lisnard-le-nouvel-outsider-de-la-droite-27-11_VN-202611270954.html",
+      "published": "2026-11-28T08:00:52+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "La semaine de votre argent - 27/11",
-      "summary_original": "Ce vendredi 27 novembre, Denis Ferrand, directeur général de Rexecode, Stéphanie Villers, conseillère économique chez PwC France, Virginie Robert, présidente de Constance Associés, et Pierre Schang, responsable des pôles France et Impact chez La Financière de l'Echiquier, sont revenus sur la volatilité des marchés cette semaine, et les sélections de placements, dans la semaine de Marc dans l'émiss",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/video-la-semaine-de-votre-argent-27-11_VN-202611270918.html",
-      "published": "2026-11-28T06:03:22+09:00",
+      "title_original": "\"La pauvreté du choix politique à droite fait que David Lisnard occupe l'espace\", analyse Carlos Martens Bilongo, député LFI",
+      "summary_original": "Carlos Martens Bilongo, député LFI du Val d'Oise, était l'invité de BFMTV ce vendredi 27 novembre",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-la-pauvrete-du-choix-politique-a-droite-fait-que-david-lisnard-occupe-l-espace-analyse-carlos-martens-bilongo-depute-lfi_VN-202611270951.html",
+      "published": "2026-11-28T07:57:14+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Le top / flop de la semaine : L’investissement des entreprises françaises recule de 0,8 % - 27/11",
-      "summary_original": "Ce vendredi 27 novembre, Denis Ferrand, directeur général de Rexecode, Stéphanie Villers, conseillère économique chez PwC France, Virginie Robert, présidente de Constance Associés, et Pierre Schang, responsable des pôles France et Impact chez La Financière de l'Echiquier,, se sont penchés sur la baisse de l'investissement des entreprises françaises, la sécurité économique et sociale à l'heure de l",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/video-le-top-flop-de-la-semaine-l-investissement-des-entreprises-francaises-recule-de-0-8-27-11_VN-202611270915.html",
-      "published": "2026-11-28T05:58:42+09:00",
+      "title_original": "Présidentielle: \"Les Français veulent qu'on s'occupe d'eux et qu'on arrête la tambouille\", affirme Patrick Vignal, conseiller politique de Gabriel Attal",
+      "summary_original": "Patrick Vignal, conseiller politique de Gabriel Attal et ancien député Renaissance, était invité sur le plateau de BFMTV, ce vendredi 27 novembre.",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-les-francais-veulent-qu-on-s-occupe-d-eux-et-qu-on-arrete-la-tambouille-affirme-patrick-vignal-conseiller-politique-de-gabriel-attal_VN-202611270950.html",
+      "published": "2026-11-28T07:56:55+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "On achète ou on vend ? : Altarea et BAE Systems - 27/11",
-      "summary_original": "Ce vendredi 27 novembre, Denis Ferrand, directeur général de Rexecode, Stéphanie Villers, conseillère économique chez PwC France, Virginie Robert, présidente de Constance Associés, et Pierre Schang, responsable des pôles France et Impact chez La Financière de l'Échiquier, se sont penchés sur les titres Altarea et BAE Systems, dans On achète ou on vend ? dans l'émission C'est Votre Argent présentée",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/video-on-achete-ou-on-vend-altarea-et-bae-systems-27-11_VN-202611270912.html",
-      "published": "2026-11-28T05:50:14+09:00",
+      "title_original": "Soupçons de fuite vers le RN: le bureau et le domicile de l'ex-directeur de Marine Le Pen ont été perquisitionnés",
+      "summary_original": "Le préfet de la région Centre-Val de Loire et du Loiret Hugues Moutouh a été officiellement démis de ses fonctions en conseil des ministres. Il est remplacé par Pierre Ory, actuel préfet de Seine-et-Marne.",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-soupcons-de-fuite-vers-le-rn-le-bureau-et-le-domicile-de-l-ex-directeur-de-marine-le-pen-ont-ete-perquisitionnes_VN-202611270949.html",
+      "published": "2026-11-28T07:56:38+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "OM-Levski Sofia: \"Ils frappaient tout ce qu’ils voyaient\", les témoignages de deux supporters marseillais présents au Vélodrome pendant les incidents",
-      "summary_original": "Pierre et Julien, supporters de l'OM, étaient présents au Vélodrome jeudi pour le match de Ligue Europa entre l'OM et le Levski Sofia. Les deux hommes racontent la soirée si particulière qu'ils ont vécue.",
-      "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/om-levski-sofia-ils-frappaient-tout-ce-qu-ils-voyaient-les-temoignages-de-deux-supporters-marseillais-presents-au-velodrome-pendant-les-incidents_AV-202611270906.html",
-      "published": "2026-11-28T05:43:21+09:00",
+      "title_original": "Brest 1-0 Paris FC : \"Troisième ça veut rien dire\", Ajorque veut sécuriser le maintien avant tout !",
+      "summary_original": "« Troisième, ça veut rien dire » : malgré la victoire face au Paris FC (1-0) et la place sur le podium, Ludovic Ajorque garde les pieds sur terre.",
+      "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-brest-1-0-paris-fc-troisieme-ca-veut-rien-dire-ajorque-veut-securiser-le-maintien-avant-tout_VN-202611270946.html",
+      "published": "2026-11-28T07:47:34+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Mathilde Panot saisit la justice après des menaces de mort contre des députés LFI provenant d’une adresse mail \"portant le nom de Kevin Tessier\"",
-      "summary_original": "Dans un message publié sur son compte X ce vendredi, la cheffe de file des députés La France insoumise a annoncé avoir saisi la procureure de la République de Paris. En cause, des menaces émanant d'une adresse mail portant le nom du suspect de l'attentat perpétré dans les Yvelines le mois dernier.",
-      "url": "https://www.bfmtv.com/politique/la-france-insoumise/mathilde-panot-saisit-la-justice-apres-des-menaces-de-mort-contre-des-deputes-lfi-provenant-d-une-adresse-mail-portant-le-nom-de-kevin-tessier_AD-202611270905.html",
-      "published": "2026-11-28T05:42:00+09:00",
+      "title_original": "En déplacement en Allemagne, Jean-Luc Mélenchon affirme vouloir refuser \"d'aider les Américains à faire la guerre aux Chinois\"",
+      "summary_original": "\"La Chine est une\" et \"nous ne discuterons pas ce point car nous ne voulons pas de guerre avec la Chine et nous n'aiderons pas les Américains à faire la guerre aux Chinois\", a insisté le candidat La France insoumise à l'élection présidentielle ce vendredi 27 novembre à Berlin.",
+      "url": "https://www.bfmtv.com/politique/la-france-insoumise/en-deplacement-en-allemagne-jean-luc-melenchon-affirme-vouloir-refuser-d-aider-les-americains-a-faire-la-guerre-aux-chinois_AD-202611270940.html",
+      "published": "2026-11-28T07:28:11+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "Le top 3 des gérants : Frédéric Rozier, Pierre Schang et Pascale Seivy - 27/11",
-      "summary_original": "Ce vendredi 27 novembre, Marc Fiorentino a mis en avant la performance de Frédéric Rozier, Pierre Schang et Pascale Seivy, dans Le top 3 des gérants dans l'émission C'est Votre Argent présentée par Marc Fiorentino. C'est Votre Argent est à voir ou écouter le vendredi sur BFM Business.",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/video-le-top-3-des-gerants-frederic-rozier-pierre-schang-et-pascale-seivy-27-11_VN-202611270903.html",
-      "published": "2026-11-28T05:38:35+09:00",
+      "title_original": "\"Un projet exigeant, solide et ambitieux\": l'analyse du programme de Bruno Retailleau par François-Xavier Bellamy, vice-président des Républicains",
+      "summary_original": "François-Xavier Bellamy, député européen et vice-président des Républicains, était invité sur le plateau de BFMTV, ce vendredi 27 novembre.",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-un-projet-exigeant-solide-et-ambitieux-l-analyse-du-programme-de-bruno-retailleau-par-francois-xavier-bellamy-vice-president-des-republicains_VN-202611270939.html",
+      "published": "2026-11-28T07:25:08+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "BFMTV",
-      "title_original": "LIGNE ROUGE - David Lisnard: les coulisses d'une percée éclair",
-      "summary_original": "Les équipes de Ligne Rouge nous font visiter le QG de campagne de David Lisnard, au siège de son parti Nouvelle Énergie. En quelques semaines, le maire de Cannes, tout juste réélu à la présidence de l’Association des maires de France, s’est hissé à la troisième place dans les sondages pour l’élection présidentielle. \"David Lisnard, les coulisses d’une percée éclair\", un document Ligne Rouge signé ",
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-ligne-rouge-david-lisnard-les-coulisses-d-une-percee-eclair_VN-202611270909.html",
-      "published": "2026-11-28T05:37:38+09:00",
+      "title_original": "Résultats EuroMillions: le tirage du vendredi 27 novembre 2026",
+      "summary_original": "Ce vendredi 27 novembre 2026, le second tirage de l'EuroMillions de la semaine a été effectué. Les résultats sont disponibles ci-dessous.",
+      "url": "https://www.bfmtv.com/loto/resultats-euro-millions-le-tirage-du-vendredi-27-novembre-2026_AN-202611270085.html",
+      "published": "2026-11-28T07:20:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Canada : 25 ans de prison requis contre Kenneth Law pour la vente de « kits de suicide » dans une quarantaine de pays",
+      "summary_original": "Ce Canadien de 61 ans trouvait ses victimes sur des forums en ligne d’aide au suicide et leur envoyait du nitrite de sodium, une substance mortelle à forte dose. Il est jugé pour la mort de quatorze personnes au Canada mais il a envoyé des centaines de colis dans le monde entier.",
+      "url": "https://www.lemonde.fr/international/article/2026/11/28/canada-25-ans-de-prison-requis-contre-kenneth-law-pour-la-vente-de-kits-de-suicide-dans-une-quarantaine-de-pays_6815956_3210.html",
+      "published": "2026-11-28T09:23:03+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Un concert de « Rock antiwokisme » organisé par une mouvance identitaire interdit dans le Rhône et l’Isère",
+      "summary_original": "Les autorités redoutent la diffusion de discours haineux lors de cet événement clandestin, organisé par une figure de l’ultra-droite déjà connue des services de l’Etat.",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/27/un-concert-de-rock-antiwokisme-organise-par-une-mouvance-identitaire-interdit-dans-le-rhone-et-l-isere_6815938_823448.html",
+      "published": "2026-11-28T07:55:01+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "La Cour suprême canadienne consacre la laïcité au Québec dans une décision historique",
+      "summary_original": "Cette loi consacre le fait laïc au Québec et tranche avec le multiculturalisme de l’Etat fédéral canadien, ce qui crée des remous dans la classe politique.",
+      "url": "https://www.lemonde.fr/international/article/2026/11/27/la-cour-supreme-canadienne-consacre-la-laicite-au-quebec-dans-une-decision-historique_6815937_3210.html",
+      "published": "2026-11-28T07:06:52+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "OpenAI accuse Apple de vol de secrets et de pressions sur ses fournisseurs",
+      "summary_original": "Les deux partenaires se rapprochent de mois en mois d’une situation de rivaux, et se rendent désormais coup pour coup devant la justice.",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/27/openai-accuse-apple-de-vol-de-secrets-et-de-pressions-sur-ses-fournisseurs_6815936_3234.html",
+      "published": "2026-11-28T06:49:34+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "L’agence S&P menace de dégrader encore la note de la France, entrée en récession",
+      "summary_original": "Vendredi, l’agence américaine a assorti d’une perspective négative la note actuelle de la dette française. Cela ouvre la voie à une possible dégradation à moyen terme. Le dérapage du déficit inquiète les investisseurs.",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/27/l-agence-s-p-menace-de-degrader-encore-la-note-de-la-france-entree-en-recession_6815934_823448.html",
+      "published": "2026-11-28T06:18:33+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Le Monde",
+      "title_original": "Mathilde Panot et trois autres députés « insoumis » visés par des menaces de mort provenant d’une adresse e-mail reprenant le nom de l’auteur de l’attentat raciste de Trappes",
+      "summary_original": "Dans son courrier envoyé à Laure Beccuau, la procureure de Paris, Mathilde Panot évoque des e-mails provenant de l’adresse « kevintessierleheros@outlook.fr » et également envoyés aux députés Danièle Obono, Manuel Bompard et Aly Diouara.",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/27/mathilde-panot-et-trois-autres-deputes-insoumis-vises-par-des-menaces-de-mort-provenant-d-une-adresse-e-mail-reprenant-le-nom-de-l-auteur-de-l-attentat-raciste-de-trappes_6815932_3224.html",
+      "published": "2026-11-28T05:40:43+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -310,57 +364,21 @@
       "state_media": false
     },
     {
-      "source": "Le Monde",
-      "title_original": "Dans le Pas-de-Calais inondé, la colère des sinistrés : « Ce n’est plus possible. Je ne vais pas attendre tous les hivers le moment où l’eau monte chez moi »",
-      "summary_original": "Plus de 200 communes du département ont été touchées par la montée des eaux de la rivière Canche. Alors que la décrue s’amorce, les habitants cherchent des responsables et redoutent la suite de l’hiver.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/27/dans-le-pas-de-calais-inonde-le-ras-le-bol-des-sinistres-faut-imaginer-ce-que-c-est-l-eau-boueuse-qui-monte-chez-vous_6815928_3244.html",
-      "published": "2026-11-28T04:15:54+09:00",
-      "via": "rss",
+      "source": "Les Echos",
+      "title_original": "Dette publique : S&P maintient la note de la France à A+, mais l'assortit d'une perspective négative",
+      "summary_original": "Dette publique : S&P maintient la note de la France à A+, mais l'assortit d'une perspective négative Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcmVQUXU4Mnl4QkhLSmJfZFhXQkVZZHY1WlFsMy1CeVNSM0ZSeGMzTzA0bnlWMTQ5clo4ZHhESG9IVkluZEFna1NiWDVRUzhVTkF2d2tfTUhNMjlEMVZjN0NKbnBUYmNMNkQ4T0VNVHZWOEVDUDlTQkRuaFcxT2VpeHZiamVsdzVrQjZwNHc2WjVWYzFnVkM3SUhrcUNUeFdaS1Z2bU01VnpkQ2dqWDVBN0E2OXZfdWhCNTJZci1Kam9LMWtaNEF2eWxZdXF0VmxIU3oyUjdPVWdQSGNfMTdJenNseWNPVzdNUEE?oc=5",
+      "published": "2026-11-28T07:03:47+09:00",
+      "via": "google_news",
       "state_media": false
     },
     {
-      "source": "Le Monde",
-      "title_original": "EN DIRECT, guerre en Ukraine : l’armée ukrainienne revendique le bombardement d’une « usine stratégique » et la destruction de réservoirs dans une raffinerie en Russie",
-      "summary_original": "Kiev affirme avoir touché l’usine de caoutchouc synthétique d’Iefremov, dans l’oblast de Toula, et la raffinerie de Novochakhtinsk, dans la région de Rostov.",
-      "url": "https://www.lemonde.fr/international/live/2026/11/27/en-direct-guerre-en-ukraine-l-armee-ukrainienne-revendique-le-bombardement-d-une-usine-strategique-et-la-destruction-de-reservoirs-dans-une-raffinerie-en-russie_6814183_3210.html",
-      "published": "2026-11-28T03:56:38+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "Scandale Orpea : les commissaires aux comptes seront fixés sur leur sort le 24 mars 2027",
-      "summary_original": "Les prestigieux cabinets Deloitte et Saint-Honoré BK & A sont menacés d’un an d’interdiction de souscrire de nouveaux contrats en tant que commissaires aux comptes ainsi que d’une amende substantielle, pour ne pas avoir repéré à temps les errements du groupe de maisons de retraite et de cliniques privées.",
-      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/27/scandale-orpea-les-commissaires-aux-comptes-seront-fixes-sur-leur-sort-le-24-mars-2027_6815925_4355770.html",
-      "published": "2026-11-28T03:38:25+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "Fuite d’informations confidentielles vers le RN : Ambroise de Rancourt, le responsable du programme présidentiel de Marine Le Pen, soupçonné d’être le principal destinataire",
-      "summary_original": "Selon les informations du « Monde », l’énarque de 39 ans est celui qui a été visé par la perquisition de l’IGPN au siège du parti d’extrême droite, le 9 novembre.",
-      "url": "https://www.lemonde.fr/societe/article/2026/11/27/ambroise-de-rancourt-le-responsable-du-programme-presidentiel-de-marine-le-pen-soupconne-d-etre-le-principal-destinataire-de-la-fuite-de-documents-de-beauvau-vers-le-rn_6815924_3224.html",
-      "published": "2026-11-28T03:35:49+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "L’ex-mari de Chahinez Daoud, brûlée vive en 2021, a été condamné en appel à la perpétuité",
-      "summary_original": "Cette affaire remontant à 2021 est un cas emblématique des féminicides en France. Chahinez Daoud avait déposé plainte contre son mari quelques mois avant les faits, mais cette plainte avait été mal enregistrée.",
-      "url": "https://www.lemonde.fr/societe/article/2026/11/27/feminicide-de-chahinez-daoud-son-mari-condamne-en-appel-a-la-perpetuite_6815920_3224.html",
-      "published": "2026-11-28T03:08:36+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Le Monde",
-      "title_original": "En RDC, Thomas Lubanga, le perpétuel rebelle de nouveau à l’offensive",
-      "summary_original": "Le vétéran des rébellions congolaises avait été, en 2012, le premier condamné de la Cour pénale internationale pour avoir recruté des enfants-soldats en 2002 et 2003. Désormais exilé en Ouganda, il pilote un groupe insurgé qui progresse vers Bunia depuis la mi-novembre.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/11/27/en-rdc-thomas-lubanga-le-perpetuel-rebelle-de-nouveau-a-l-offensive_6815911_3212.html",
-      "published": "2026-11-28T02:00:16+09:00",
-      "via": "rss",
+      "source": "Les Echos",
+      "title_original": "Parfums : l'espagnol Puig va acquérir la maison mère des Parfums de Marly",
+      "summary_original": "Parfums : l'espagnol Puig va acquérir la maison mère des Parfums de Marly Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbFJIbm5UWkZtTURWZjRsT3VXcDN6b0VUb0Y4cmxoVEMyRkViTmpteFJjbTVvN1lacHYtay1EeEM2eThSMnVwQmNHWDc5bWtINkRzeU9qamt2cTUtcGhNeThrRDRGRmR3cFFFQ3k0bDVNc1ozVjZUZW94OGlrSGI4TUxNQkVhd29nd0xKMnE2b0NQcGp3a3RsYV9IN0lkYk0tcG91dnFKS1J5ZnpwVmNwZEJQYUxIUFFqYWVhQ21BYURlZDhaRjZlbkZxUQ?oc=5",
+      "published": "2026-11-28T06:51:45+09:00",
+      "via": "google_news",
       "state_media": false
     },
     {
@@ -374,8 +392,8 @@
     },
     {
       "source": "Les Echos",
-      "title_original": "Au BHV, offres de reprise, agendas cachés et réouverture prochaine",
-      "summary_original": "Au BHV, offres de reprise, agendas cachés et réouverture prochaine Les Echos",
+      "title_original": "Au BHV, offres de reprise et agendas cachés avant une prochaine réouverture",
+      "summary_original": "Au BHV, offres de reprise et agendas cachés avant une prochaine réouverture Les Echos",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaE1yWU85QTFlNDFtN2ZGbG1lZk1aNEdjbHk1SVpYTGM2LVF0VklfaDRSUmE5U1hBanJvM0txZnpuOEpwbWdaR2VLTE5mUm56Ym5ueG42N0dveHAtNFpOYVdsMWYwYWF6Sm05TDI2LTRoM3RwNHhPaFlhdS11N2c3aUwwN2VrT01DMmZDYmZuMzNpNUpNb21seEZLYWVTSmZjeVZSZEpnWTFSTDFIemU5Ql9RZFdiNVV6R3JEZmE0YVV4RFk?oc=5",
       "published": "2026-11-28T03:21:13+09:00",
       "via": "google_news",
@@ -418,92 +436,101 @@
       "state_media": false
     },
     {
-      "source": "Les Echos",
-      "title_original": "Dans la tête de David Lisnard",
-      "summary_original": "Dans la tête de David Lisnard Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUzBVX0w5U0tVYUFNNWtwMzloX052WE5ScXpzU0FJcEpSVlFqM0dxVmZDQUt5SjJFclcwN0tQYllsbDhJd1JrME9xd1Nldk5VaTlFUGdPUlA0WFQ5bWJSbDRvOVFGdHdtWG5fSHdLSHRBZE1jSlZmNjlvVzlTbEh5QW1FVG5GQ3MzUEhuR2NGdw?oc=5",
-      "published": "2026-11-28T01:51:02+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
-      "source": "Les Echos",
-      "title_original": "Podcast : « CyberNation », un thriller haletant sur les coulisses de la guerre numérique",
-      "summary_original": "Podcast : « CyberNation », un thriller haletant sur les coulisses de la guerre numérique Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdHNqcDFmQnFyc18wV18tQjZnVzdrdV9ZbF91NVFIVFByc25WTmVkRkFEbU9GaHVLVGhod1dwTDcwa2dIRmVWSmR0Q04xRE9peFJpcGtwWXQyUDJjLXNYM1hja1NMSVpsa1cyMXJuYlhQSERnc05GdllGUlZpYm1NWkJSaFpveWdlWEcxOUIxZ09IWGVKY2V3WnlSTkVhRVJtOGpwZWgzSTBKR2ZTbGM0NmJZWnNXU0txSUtkZ0lQVVM5OXR5UGJSbkR5V2xqZGo3?oc=5",
-      "published": "2026-11-28T01:45:08+09:00",
-      "via": "google_news",
-      "state_media": false
-    },
-    {
       "source": "Le Figaro",
-      "title_original": "Andrea Stewart-Cousins, présidente de la majorité au Sénat de New York et première femme de couleur à avoir occupé ce poste, est décédée",
-      "summary_original": "L’élue démocrate, qui était âgée de 76 ans, occupait ce poste depuis 2019. Le directeur de la communication de la majorité au Sénat a précisé que les informations concernant la procédure de succession législative seraient communiquées dans les semaines à venir.",
-      "url": "https://www.lefigaro.fr/international/andrea-stewart-cousins-presidente-de-la-majorite-au-senat-de-new-york-et-premiere-femme-de-couleur-a-avoir-occupe-ce-poste-est-decedee-20261127",
-      "published": "2026-11-28T06:13:24+09:00",
+      "title_original": "Armée de l’air, FBI, CIA… Aux États-Unis, les cyberattaques s’accumulent contre les secteurs stratégiques",
+      "summary_original": "L’armée de l’air américaine a été victime d’une attaque informatique ciblant sa plateforme «Cloud One», qui centralise des données sensibles.",
+      "url": "https://www.lefigaro.fr/international/armee-de-l-air-fbi-cia-aux-etats-unis-les-cyberattaques-s-accumulent-contre-les-secteurs-strategiques-20261128",
+      "published": "2026-11-28T08:30:14+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Le Figaro",
-      "title_original": "Basket : qui autour de Wembanyama, avec ou sans Hifi… Quels Bleus à la Coupe du monde 2027 ?",
-      "summary_original": "DÉCRYPTAGE – Sauf blessure, Freddy Fauthoux n’aura que l’embarras du choix pour composer une équipe de France très compétitive en vue du Mondial. Tour d’horizon.",
-      "url": "https://www.lefigaro.fr/sports/basket/basket-qui-autour-de-wembanyama-avec-ou-sans-hifi-quels-bleus-a-la-coupe-du-monde-2027-20261127",
-      "published": "2026-11-28T06:03:25+09:00",
+      "title_original": "Soupçons de fuites au profit du RN : le bureau et le domicile de l'ex-directeur de cabinet de Marine Le Pen perquisitionnés",
+      "summary_original": "Ambroise de Rancourt est soupçonné d’être le destinataire d’informations confidentielles en provenance du ministère de l’Intérieur qui auraient été transmises au parti d’extrême droite.",
+      "url": "https://www.lefigaro.fr/politique/soupcons-de-fuites-au-profit-du-rn-le-bureau-et-le-domicile-de-l-ex-directeur-de-cabinet-de-marine-le-pen-perquisitionnes-20261127",
+      "published": "2026-11-28T08:00:24+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Le Figaro",
-      "title_original": "À Berlin, Jean-Luc Mélenchon se défend de toute «germanophobie»",
-      "summary_original": "REPORTAGE - Devant une salle tout acquise à sa cause, le leader Insoumis a tiré à boulets rouges sur l’«ordo-libéralisme» ainsi que l’«économie de l’armement» allemands.",
-      "url": "https://www.lefigaro.fr/politique/a-berlin-jean-luc-melenchon-se-defend-de-toute-germanophobie-20261127",
-      "published": "2026-11-28T05:50:44+09:00",
+      "title_original": "Mercato : Lucas Chevalier souhaite quitter le PSG cet hiver, mais…",
+      "summary_original": "Le portier international tricolore n’a pas joué le moindre match officiel depuis janvier dernier.",
+      "url": "https://www.lefigaro.fr/sports/football/transferts/mercato-lucas-chevalier-souhaite-quitter-le-psg-cet-hiver-mais-20261127",
+      "published": "2026-11-28T07:49:42+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Le Figaro",
-      "title_original": "Dix ans après, Fillon va raconter les secrets de sa campagne cauchemar dans un livre... Les indiscrets du Figaro",
-      "summary_original": "CONFIDENTIELS - Chaque semaine, la rédaction emmène ses lecteurs dans les coulisses de la vie politique.",
-      "url": "https://www.lefigaro.fr/politique/dix-ans-apres-fillon-va-raconter-les-secrets-de-sa-campagne-cauchemar-dans-un-livre-les-indiscrets-du-figaro-20261127",
-      "published": "2026-11-28T05:39:12+09:00",
+      "title_original": "EN DIRECT - Présidentielle 2027 : «C’est absurde», Jean-Luc Mélenchon se défend d’être germanophobe et loue Marx et Beethoven depuis Berlin",
+      "summary_original": "Le fondateur de LFI fustige régulièrement la rigueur budgétaire prônée par l’Allemagne au sein de l’UE et son projet de constituer la plus grosse armée conventionnelle d’Europe face à la menace russe.",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-edouard-philippe-poursuit-sa-degringolade-david-lisnard-grimpe-a-12-20261127",
+      "published": "2026-11-28T07:42:03+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Le Figaro",
-      "title_original": "Le Hamas affirme qu'Israël a essayé de tuer le dernier fils encore en vie de son chef",
-      "summary_original": "Israël a tué ces derniers jours dans des frappes plusieurs hauts responsables du Hamas dans la bande de Gaza, malgré un cessez-le-feu en vigueur depuis plus d’un an dans ce territoire ravagé par la guerre.",
-      "url": "https://www.lefigaro.fr/flash-actu/le-hamas-affirme-qu-israel-a-essaye-de-tuer-le-dernier-fils-encore-en-vie-de-son-chef-20261127",
-      "published": "2026-11-28T05:31:57+09:00",
+      "title_original": "Guerre en Iran : l'armée américaine annonce avoir neutralisé un navire violant son blocus naval",
+      "summary_original": "Selon Washington, 158 navires ont été déroutés depuis l’instauration du blocus naval.",
+      "url": "https://www.lefigaro.fr/international/guerre-en-iran-l-armee-americaine-annonce-avoir-neutralise-un-navire-violant-son-blocus-naval-20261127",
+      "published": "2026-11-28T07:35:17+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Le Figaro",
-      "title_original": "Mathieu Bock-Côté : « Le troisième homme, de Jean-Pierre Chevènement à David Lisnard »",
-      "summary_original": "CHRONIQUE - De Jean-Pierre Chevènement à Éric Zemmour, chaque présidentielle a son troisième homme, que le système parvient souvent à retourner ou à neutraliser. David Lisnard est en train de prendre cette place.",
-      "url": "https://www.lefigaro.fr/vox/politique/mathieu-bock-cote-le-troisieme-homme-de-jean-pierre-chevenement-a-david-lisnard-20261127",
-      "published": "2026-11-28T05:00:00+09:00",
+      "title_original": "Notre grande critique de GTA 6 : une œuvre magistrale, aussi ultraviolente qu’intime, vers laquelle convergent sept décennies de jeux vidéo",
+      "summary_original": "TEST - Magnum opus de Rockstar, GTA 6 n’est pas un simple défouloir barbare, contrairement à ce que racontent les profanes du secteur. Il s’agit, avant tout, d’un jeu d’auteurs, riche, drôle, sensible et touchant.",
+      "url": "https://www.lefigaro.fr/secteur/high-tech/notre-grande-critique-de-gta-6-une-oeuvre-magistrale-aussi-ultraviolente-qu-intime-vers-laquelle-convergent-sept-decennies-de-jeux-video-20261127",
+      "published": "2026-11-28T06:48:58+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Le Figaro",
-      "title_original": "«Le soir de la dissolution, j’ai foncé dans une chapelle» : Gabriel Attal se confie dans «Empreintes»",
-      "summary_original": "VIDÉO - Le Figaro TV publie un nouvel épisode d’«Empreintes», sur le site du Figaro et sur YouTube. Dans ce nouveau numéro, Vincent Trémolet de Villers reçoit Gabriel Attal, candidat Renaissance à l’élection présidentielle de 2027.",
-      "url": "https://www.lefigaro.fr/elections/presidentielles/le-soir-de-la-dissolution-j-ai-fonce-dans-une-chapelle-gabriel-attal-se-confie-dans-empreintes-20261127",
-      "published": "2026-11-28T04:01:35+09:00",
+      "title_original": "Quelle est la note S&P des voisins de la France ?",
+      "summary_original": "INFOGRAPHIE – L’agence de notation américaine a abaissé la perspective de la note souveraine de l’Hexagone à «négative» ce vendredi.",
+      "url": "https://www.lefigaro.fr/conjoncture/quelle-est-la-note-s-p-des-voisins-de-la-france-20261127",
+      "published": "2026-11-28T06:30:26+09:00",
       "via": "rss",
       "state_media": false
     },
     {
       "source": "Le Figaro",
-      "title_original": "Souveraineté, défense commune, préférence européenne… Emmanuel Macron voit son bilan européen lui échapper",
-      "summary_original": "ANALYSE - Face au front des pays « frugaux », le président français peine à imposer sa vision de l’avenir européen. Il se heurte à des résistances croissantes, jusque chez ses partenaires les plus proches.",
-      "url": "https://www.lefigaro.fr/international/souverainete-defense-commune-preference-europeenne-emmanuel-macron-voit-son-bilan-europeen-lui-echapper-20261127",
-      "published": "2026-11-28T04:00:00+09:00",
+      "title_original": "Dette : Standard & Poor’s abaisse la perspective de la note française à «négative»",
+      "summary_original": "Tout en maintenant la note en A+, l’agence américaine signifie ainsi que l’état de nos finances publiques s’est significativement dégradé.",
+      "url": "https://www.lefigaro.fr/conjoncture/dette-standard-poor-s-abaisse-la-perspective-de-la-note-francaise-a-negative-20261127",
+      "published": "2026-11-28T06:26:10+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "Marguerite Thiam, le saut dans l’avenir",
+      "summary_original": "La chanteuse, actrice et réalisatrice, donne de nouvelles tonalités à son rap mélancolique et règle ses comptes avec une adolescence douloureuse.",
+      "url": "https://www.liberation.fr/culture/musique/marguerite-thiam-le-saut-dans-lavenir-20261127_TKBNRB4PWVG5VECLAN2B2FFB4Y/",
+      "published": "2026-11-28T06:59:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "Dans les Aravis, le VTT électrique prend la pente",
+      "summary_original": "Au Grand-Bornand, un couple de passionnés proposent des balades en VTT à assistance électrique sur les chemins skiables.",
+      "url": "https://www.liberation.fr/forums/dans-les-aravis-le-vtt-electrique-prend-la-pente-20261127_NRCCXLLRVFEKLBXHNGVZJ3SIFM/",
+      "published": "2026-11-28T06:46:00+09:00",
+      "via": "rss",
+      "state_media": false
+    },
+    {
+      "source": "Libération",
+      "title_original": "Dette : S&P dégrade la perspective française de stable à négative, mais maintient sa note à A+",
+      "summary_original": "L’agence de notation a abaissé, vendredi 27 novembre, à «négative» la perspective de la dette publique française, sanctionnant les incertitudes budgétaires et politiques dans le pays et laissant planer la menace d’une dégradation dans les prochains mois. Un mauvais signal de plus pour une économie déjà en récession.",
+      "url": "https://www.liberation.fr/economie/dette-sp-degrade-la-perspective-francaise-de-stable-a-negative-mais-maintient-sa-note-a-a-20261127_Z5M25BQXERGLXLJDRM5MDHTN5Q/",
+      "published": "2026-11-28T06:28:50+09:00",
       "via": "rss",
       "state_media": false
     },
@@ -549,33 +576,6 @@
       "summary_original": "Adrian Mannarino et Corentin Moutet sont attendus au Northern Palmyra Trophies, à Saint-Pétersbourg, exhibition créée en 2022 pour pallier l’annulation toute compétition internationale dans le pays à cause de l’invasion de l’Ukraine.",
       "url": "https://www.liberation.fr/sports/tennis/tennis-deux-francais-doivent-participer-a-un-evenement-ce-week-end-en-russie-pourtant-boycottee-par-les-instances-mondiales-du-sport-20261127_PVVAHD7QYRBMNE2VG67YNVOBAQ/",
       "published": "2026-11-28T04:58:13+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Libération",
-      "title_original": "Législatives en Espagne : et si ça (re)passait pour la gauche ?",
-      "summary_original": "Prête à s’allier à une extrême droite au plus haut, la droite est donnée favorite aux élections législatives de ce dimanche. Une victoire qui représenterait un mouvement tectonique d’ampleur en Europe. Mais la performance de l’ex-maire de Barcelone Ada Colau lors du dernier débat a laissé percer un frémissement en faveur de la gauche. De quoi changer la donne ?",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/legislatives-en-espagne-et-si-ca-repassait-pour-la-gauche-20261127_QPUVKXMZMNDSFNUQKSZCY3H2IY/",
-      "published": "2026-11-28T04:56:49+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Libération",
-      "title_original": "Iran : le coscénariste du film «Un simple accident», palme d’or de Jafar Panahi à Cannes, a été arrêté",
-      "summary_original": "Des organisations de défense des droits humains ont annoncé ce vendredi 27 novembre l’arrestation du journaliste iranien pour avoir signalé l’exécution imminente de deux manifestants. Elles dénoncent des actes de torture à son encontre.",
-      "url": "https://www.liberation.fr/international/moyen-orient/iran-le-coscenariste-du-film-un-simple-accident-palme-dor-de-jafar-panahi-a-cannes-a-ete-arrete-20261127_66CAY6DAPNAO3BGZJLOEZPFBKY/",
-      "published": "2026-11-28T04:42:21+09:00",
-      "via": "rss",
-      "state_media": false
-    },
-    {
-      "source": "Libération",
-      "title_original": "En bombardant le pont de Crimée, l’Ukraine veut définitivement couper la péninsule de la Russie",
-      "summary_original": "Gravement endommagée, la structure qui traverse le détroit de Kertch pourrait s’écrouler entièrement à la prochaine frappe ukrainienne. Le résultat d’une stratégie délibérée et patiente de Kyiv visant à étrangler la péninsule annexée et la vider de ses habitants.",
-      "url": "https://www.liberation.fr/international/europe/lukraine-veut-definitivement-couper-le-pont-entre-la-crimee-et-la-russie-20261127_RROWZBUDJJHHNDNAQHXPPAZA5M/",
-      "published": "2026-11-28T04:39:46+09:00",
       "via": "rss",
       "state_media": false
     }
